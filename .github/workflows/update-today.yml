@@ -149,12 +149,12 @@ jobs:
 
       - name: Commit if the roster changed
         run: |
-          if git diff --quiet -- today.json; then
+          git add today.json
+          if git diff --cached --quiet -- today.json; then
             echo "No change."
             exit 0
           fi
           git config user.name  "petcare-brief-bot"
           git config user.email "actions@github.com"
-          git add today.json
           git commit -m "Today's roster: $(python3 -c "import json;d=json.load(open('today.json'));print(d['label'],'-',len(d['clients']),'clients')")"
           git push
