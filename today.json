@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T17:58:48-04:00",
+ "generated": "2026-08-20T19:02:24-04:00",
  "date": "2026-08-20",
  "label": "Aug 20, 2026",
  "clients": [
@@ -53,14 +53,7 @@
      "time": "7:00 PM",
      "sort": "1900",
      "staff": "Dan Dantimo",
-     "service": "Trainer Visit-30minute",
-     "pets": "Guinness"
-    },
-    {
-     "time": "7:00 PM",
-     "sort": "1900",
-     "staff": "Elizabeth Cuffari",
-     "service": "Shadow Visit with Staff Member-30 minute",
+     "service": "Dog Visit-30 minute",
      "pets": "Guinness"
     }
    ]
@@ -200,8 +193,8 @@
      "pets": "Puck, Rusty"
     },
     {
-     "time": "5:30 PM",
-     "sort": "1730",
+     "time": "5:45 PM",
+     "sort": "1745",
      "staff": "Shannon  Anderson",
      "service": "Dog Visit-30 minute",
      "pets": "Puck, Rusty"
@@ -326,5 +319,5 @@
    ]
   }
  ],
- "visitCount": 31
+ "visitCount": 30
 }
