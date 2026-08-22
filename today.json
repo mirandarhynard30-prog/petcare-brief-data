@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T17:47:34-04:00",
+ "generated": "2026-08-22T19:01:59-04:00",
  "date": "2026-08-22",
  "label": "Aug 22, 2026",
  "clients": [
@@ -76,8 +76,8 @@
      "pets": "Ginger"
     },
     {
-     "time": "7:00 PM",
-     "sort": "1900",
+     "time": "6:45 PM",
+     "sort": "1845",
      "staff": "Noella",
      "service": "Dog Visit-30 minute",
      "pets": "Ginger"
@@ -126,8 +126,8 @@
    "name": "Kelly Huntington",
    "visits": [
     {
-     "time": "8:00 PM",
-     "sort": "2000",
+     "time": "7:45 PM",
+     "sort": "1945",
      "staff": "Noella",
      "service": "Cat Visit-30 Minutes",
      "pets": "Caleb, Livvie"
