@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T16:31:44-04:00",
+ "generated": "2026-08-22T17:47:34-04:00",
  "date": "2026-08-22",
  "label": "Aug 22, 2026",
  "clients": [
@@ -114,8 +114,8 @@
      "pets": "Eddie"
     },
     {
-     "time": "6:00 PM",
-     "sort": "1800",
+     "time": "7:00 PM",
+     "sort": "1900",
      "staff": "Elizabeth Sigler",
      "service": "Dog Visit-30 minute",
      "pets": "Eddie"
@@ -131,18 +131,6 @@
      "staff": "Noella",
      "service": "Cat Visit-30 Minutes",
      "pets": "Caleb, Livvie"
-    }
-   ]
-  },
-  {
-   "name": "Lynne  Reno",
-   "visits": [
-    {
-     "time": "6:00 PM",
-     "sort": "1800",
-     "staff": "Dan Dantimo",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "Holly"
     }
    ]
   },
@@ -240,5 +228,5 @@
    ]
   }
  ],
- "visitCount": 23
+ "visitCount": 22
 }
