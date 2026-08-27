@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T13:35:08-04:00",
+ "generated": "2026-08-27T14:50:07-04:00",
  "date": "2026-08-27",
  "label": "Aug 27, 2026",
  "clients": [
@@ -81,18 +81,6 @@
      "staff": "Julie Smith",
      "service": "Shadow Visit with Staff Member-30 minute",
      "pets": "Holly"
-    }
-   ]
-  },
-  {
-   "name": "Marcella Singer",
-   "visits": [
-    {
-     "time": "7:00 PM",
-     "sort": "1900",
-     "staff": "Robin Lewis",
-     "service": "Cat Visit-30 Minutes",
-     "pets": "Buttercup, Sandy, Simba, Misty"
     }
    ]
   },
@@ -245,5 +233,5 @@
    ]
   }
  ],
- "visitCount": 23
+ "visitCount": 22
 }
