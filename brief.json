@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T16:20:06-04:00",
+ "generated": "2026-08-27T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -89,6 +89,16 @@
      "office": false,
      "note": "Vet called Aug 27 morning: bloodwork for both Caleb and Livvie came back normal. Follows Livvie's illness and weight loss earlier in the month.",
      "quote": "Vet called this morning. Caleb and Livvies bloodwork came back normal!"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Client message, Aug 27 4:41 pm ET",
+     "office": false,
+     "note": "Replying to the sitter's suggestion of changing Caleb's food: the client will raise it with the vet at Livvie's follow-up appointment and report back. She writes 'next Friday' without a date, so it is unclear whether that is Aug 28 or Sep 4. No food change is in effect - keep feeding as instructed.",
+     "quote": "Ive thought about it. Im gonna talk to her next Friday about it when I take Liv for her follow up."
     }
    ],
    "dormant": false
@@ -345,6 +355,16 @@
     "CJ"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Client private message, Aug 27 4:18 pm ET",
+     "office": true,
+     "note": "Client (Toni) says no services are needed Friday Sep 4 or Monday Sep 7 (Labor Day) because she is off work. Confirm those visits are removed from the schedule.",
+     "quote": "I will be off work on the 4th (Friday) and Monday the 7th. (Labor Day). No need for services those days."
+    },
     {
      "cat": "behavior",
      "sev": "high",
