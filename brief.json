@@ -1,1 +1,1836 @@
-{"generated":"2026-08-26T16:15:48-04:00","window":"Rolling history back to Aug 17, 2026","clients":[{"name":"Kelly Huntington","url":"https://www.timetopet.com/dashboard/client/swpxi6kbVLqT","pets":["Livvie","Caleb"],"items":[{"cat":"health","sev":"high","type":"recent","date":"Aug 21","source":"Client","office":false,"note":"Livvie has refused food all week, has had diarrhea accidents again and lost a pound in three weeks; the vet restarted PredNiSolone in the morning and added a daily appetite stimulant.","quote":"She has started to refuse eating altogether. She also started having diarrhea accidents again."},{"cat":"health","sev":"high","type":"recent","date":"Aug 21","source":"Client","office":false,"note":"Livvie's appetite stimulant is an ear ointment that must be applied with a glove, alternating ears each day.","quote":"The appetite stimulant is just an ointment you rub into her ear and MUST USE A GLOVE"},{"cat":"health","sev":"high","type":"recent","date":"Aug 21","source":"Client","office":false,"note":"For Friday and Saturday evenings the client asked sitters to give Livvie no medication and only offer wet food.","quote":"You do not have to give her any meds tonight or tomorrow night."},{"cat":"schedule","sev":"medium","type":"recent","date":"Aug 26","source":"Kelly Huntington private message","office":true,"note":"Client scheduled a visit for 11/14 and says 11/28 shows both an approved visit and a pending visit. She needs the 11/28 8:00-8:30 PM visit and asks the office to check what the other pending one is.","quote":"I DO need the 11/28 PM visit (8:00PM-8:30PM)."},{"cat":"health","sev":"medium","type":"standing","date":"Aug 21","source":"Client","office":false,"note":"Livvie stays on morning gabapentin and the client gave the dose and storage details when Shannon Anderson asked to confirm them.","quote":"Shannon her Gaba dose is 0.4 mls. Its kept in the refrigerator and administered with a syringe."},{"cat":"health","sev":"medium","type":"recent","date":"Aug 21","source":"Client","office":false,"note":"Caleb had gabapentin before his calcium retest, so the client warned he may still be groggy.","quote":"He had Gabapentin before his visit so he may still be a little loopy"}],"dormant":false},{"name":"Terri Orengo","url":"https://www.timetopet.com/dashboard/client/tg7x5zgQWtst","pets":[],"items":[{"cat":"health","sev":"high","type":"recent","date":"Aug 21","source":"Client","office":false,"note":"The client's black and white cat, not named in the message, has declined sharply ahead of an at-home vet appointment on Sunday, and sitters were asked to watch for odd behaviour.","quote":"our black and white kitty has taken a turn for the worse"}],"dormant":false},{"name":"Mary Gilmore","url":"https://www.timetopet.com/dashboard/client/sxepwutsUU3L","pets":["Puck","Rusty"],"items":[{"cat":"health","sev":"high","type":"recent","date":"Aug 21","source":"Client","office":false,"note":"Rusty vomited several times Friday morning and the client asked sitters to watch for it and swap her blanket for a towel if it recurs.","quote":"rusty threw up a few times this morning, so watch out for that"},{"cat":"health","sev":"low","type":"recent","date":"Aug 26","source":"Elizabeth Sigler visit report","office":false,"note":"On the Aug 26 morning visit both Puck and Rusty went #1 and #2 with stool recorded as firm and healthy, and no accidents were found in the home.","quote":"It was firm and healthy"}],"dormant":false},{"name":"Liz Wainio","url":"https://www.timetopet.com/dashboard/client/t4ujb12KyYNA","pets":["Louie","Stella","Berry","Emma"],"items":[{"cat":"schedule","sev":"high","type":"recent","date":"Aug 24","source":"Client message","office":true,"note":"Client cancelled Aug 24 and Aug 25 visits via a request submitted Saturday and messaged to make sure it had been seen. Confirm the cancellation was actually processed.","quote":"I put in a request on Saturday to cancel today and tomorrow’s visits."},{"cat":"health","sev":"high","type":"recent","date":"Aug 19","source":"Client","office":false,"note":"Louie has a Saturday vet appointment about his hips and has been unusually grumpy with the other dogs all week.","quote":"Louie has a vet appointment this Saturday for his hips. He has been extra grumpy with all the dogs this past week"},{"cat":"health","sev":"medium","type":"recent","date":"Aug 18","source":"Client","office":false,"note":"Stella and Berry both had diarrhea that the client said had cleared by that morning, possibly from new treats.","quote":"Stella and Berry both had diarrhea. It appeared to have resolved by this morning"},{"cat":"health","sev":"low","type":"recent","date":"Aug 26","source":"Thomas Rakovec visit report, Aug 26","office":false,"note":"Aug 26 visit: Emma's eye drops given and her diaper changed; the report records medication as administered for Emma.","quote":"Emma's eye drops ...diaper changed"}],"dormant":false},{"name":"Anna Marie LeMaster","url":"https://www.timetopet.com/dashboard/client/sqviehQReAUS","pets":["Gordy","Sampson","Gordy (Gordon)"],"items":[{"cat":"behavior","sev":"high","type":"standing","date":"Aug 26","source":"Client message to Kathy Pastor, Aug 26","office":false,"note":"The client says there are some male dogs Gordy does not like, and that she thinks he made Margaret fall when he saw one of them. She places that incident a while ago and does not date it.","quote":"There are some boy dogs he doesn't like."},{"cat":"health","sev":"high","type":"recent","date":"Aug 24","source":"Client message","office":false,"note":"Gordy had x-rays on Aug 24. The vet saw nothing on the day; images went to a radiologist and the client did not expect results until Thursday or Friday. No instructions were given to change his walks.","quote":"We are home from Gordy's x-rays."},{"cat":"health","sev":"high","type":"recent","date":"Aug 20","source":"Client","office":false,"note":"The client reports crystals found in the urine with an X-ray booked for 9am Monday; the message does not name the pet, though the thread concerns Gordy's urine sample.","quote":"I found out he has crystals in his pee."},{"cat":"health","sev":"medium","type":"recent","date":"Aug 26","source":"Visit report from Kathy Pastor","office":false,"note":"Gordy's stool on the Aug 26 morning walk was recorded as a little loose but not concerning.","quote":"It was a little loose but not concerning"},{"cat":"schedule","sev":"medium","type":"recent","date":"Aug 25","source":"Client message","office":true,"note":"Client messaged that a visit showed as started while Gordy was still in the house and she had not seen the sitter. Needs checking with the sitter and with the visit record.","quote":"You started your visit? I have been downstairs and Gordy is still in the house."},{"cat":"health","sev":"medium","type":"recent","date":"Aug 24","source":"Client message","office":false,"note":"Client is watching for blood on the floor and reports only small drops, not large spots. She also thinks a calming plug-in is helping Gordy settle around Sampson.","quote":"I haven't noticed any large spots of blood on the floor. Only drops."},{"cat":"health","sev":"medium","type":"recent","date":"Aug 21","source":"Margaret Bill","office":false,"note":"Sampson refused his half pill on its own and the sitter reported hiding it in a treat.","quote":"He wanted affection but did not want his 1/2 pill."},{"cat":"behavior","sev":"low","type":"recent","date":"Aug 26","source":"Visit report from Kathy Pastor","office":false,"note":"Gordy was barking at the window on arrival and was taken out promptly; on the walk he passed a man standing by a truck without a problem and listened to guiding.","quote":"He was barking at the window."}],"dormant":false},{"name":"Jesse Terdan","url":"https://www.timetopet.com/dashboard/client/ta0aq3ceiwYT","pets":["Oliver"],"items":[{"cat":"schedule","sev":"high","type":"recent","date":"Aug 20","source":"Client","office":true,"note":"Messaging from hospital, the client said the next day's visit could be cancelled and that he needs cover for September 2nd.","quote":"Tomorrow's visit can be cancelled unless you still have to charge me. I will need you for September 2nd."}],"dormant":false},{"name":"Terry M","url":"https://www.timetopet.com/dashboard/client/t61d7v5gMU27","pets":["Rex","CJ"],"items":[{"cat":"behavior","sev":"high","type":"recent","date":"Aug 26","source":"Kayla Popow visit report, Aug 26","office":false,"note":"Rex was jumpy on arrival and the sitter used the collar remote - vibrate first, then the static setting, which stopped him. Single reported instance, not a standing instruction.","quote":"Rex was jumpy so I had to use the collar remote today."},{"cat":"schedule","sev":"high","type":"recent","date":"Aug 19","source":"Client","office":true,"note":"The client cancelled Friday's walk because of a schedule change and asked specifically that Kayla be told.","quote":"I will be home Friday and will need to cancel Friday’s walk."},{"cat":"home","sev":"medium","type":"recent","date":"Aug 26","source":"Kayla Popow visit report, Aug 26","office":false,"note":"Sitter remarked on the gate on arrival and assumed the dogs were responsible. The report does not say what state the gate was in or whether it was secured afterward - ambiguous.","quote":"I laughed when I saw the gate just cause I assume it’s the boys."},{"cat":"schedule","sev":"medium","type":"recent","date":"Aug 24","source":"Client message","office":true,"note":"Client was home unexpectedly and left the Aug 24 walk optional - happy for it to go ahead or to handle it herself. Worth noting she may be home on short notice.","quote":"I am home today unexpectedly sorry for the late notice"},{"cat":"health","sev":"medium","type":"recent","date":"Aug 19","source":"Client","office":false,"note":"The client noticed Rex drinking unusually large amounts of water in the evenings.","quote":"Rex has been drinking lots of water the past two evenings too."},{"cat":"health","sev":"low","type":"recent","date":"Aug 26","source":"Kayla Popow visit report, Aug 26","office":false,"note":"Both CJ and Rex had loose stool on the Aug 26 visit; the sitter recorded the same consistency answer for each and judged it not concerning.","quote":"It was a little loose but not concerning"}],"dormant":false},{"name":"Angela Jozsa","url":"https://www.timetopet.com/dashboard/client/suik98UMWrqY","pets":["Lucy"],"items":[{"cat":"health","sev":"medium","type":"recent","date":"Aug 26","source":"Lacey Govil visit report, Aug 26","office":false,"note":"Lucy declined water twice on the Aug 26 visit - after the bowl was refreshed on arrival and again before being put back in her pen.","quote":"She still did not want any water."},{"cat":"health","sev":"medium","type":"recent","date":"Aug 21","source":"Margaret Bill","office":false,"note":"Lucy scooted for a few minutes on coming out of her pen and, in the same report, went #1 but not #2 again.","quote":"She came out and started scooting for a few minutes."},{"cat":"schedule","sev":"medium","type":"recent","date":"Aug 18","source":"Client","office":true,"note":"The client cancelled the next day's services again and asked for someone Thursday at 11:30 and again at 2:30.","quote":"I am going to need to cancel services again for tomorrow."},{"cat":"health","sev":"low","type":"recent","date":"Aug 26","source":"Lacey Govil visit report, Aug 26","office":false,"note":"Lucy needed rest breaks during the walk before carrying on.","quote":"Lucy needed a couple breaks on the walk but after a couple minutes she got back up and running!"}],"dormant":false},{"name":"Melody Siska","url":"https://www.timetopet.com/dashboard/client/ta5lm8xWA4dl","pets":["Chloe","Ellie Mae","Eleanor (Ellie Mae)"],"items":[{"cat":"health","sev":"high","type":"recent","date":"Aug 19","source":"Client","office":false,"note":"Ellie Mae has been unwell and the client says her vet asked that her walking be minimised, so Chloe is walked alone for now.","quote":"please don’t walk Ellie just walk Chloe the little white dog"},{"cat":"health","sev":"medium","type":"recent","date":"Aug 26","source":"Visit report from Alex Miller","office":true,"note":"The sitter walked both Chloe and Ellie Mae today at the client's request; Ellie Mae went to the bathroom and was ready to go back in, and the walk continued with Chloe alone. This does not match the Aug 19 note that Ellie Mae's walking be minimised - the current instruction is unclear and should be confirmed with the client.","quote":"I took Chloe and Ellie Mae on a walk per your request."},{"cat":"schedule","sev":"medium","type":"recent","date":"Aug 26","source":"Jade Popovitz visit report, Aug 26 afternoon","office":true,"note":"The visit timer would not start, so the recorded time for the Aug 26 afternoon visit is wrong. The sitter says she was there 2:22 to 2:50 - the record needs correcting in Time To Pet.","quote":"the visit would not start, but I was there from 2:22 until 2:50"},{"cat":"health","sev":"medium","type":"recent","date":"Aug 26","source":"Jade Popovitz visit report, Aug 26 afternoon","office":false,"note":"On the Aug 26 afternoon visit Ellie Mae would not leave the couch and did not go outside at all, before or after Chloe's walk. Chloe walked well and went #1.","quote":"Ellie was very persistent on staying on the couch"},{"cat":"schedule","sev":"medium","type":"recent","date":"Aug 18","source":"Client","office":false,"note":"Ellie Mae was at the vet and not home for the afternoon walk, leaving Chloe only.","quote":"taking Ellie to the doctor so she won’t be here for the afternoon walk"},{"cat":"home","sev":"low","type":"recent","date":"Aug 19","source":"Client","office":false,"note":"Cans of dog food on the front porch are there on purpose and should be left alone.","quote":"there are some cans of dog food on the front porch. Please leave them there."}],"dormant":false},{"name":"Nicole Allen","url":"https://www.timetopet.com/dashboard/client/tj04asooIK5I","pets":["Troup","Topp"],"items":[{"cat":"schedule","sev":"high","type":"standing","date":"Aug 24","source":"Client message","office":true,"note":"Client set a firm rule that morning visits must land before 10am - the dogs are crated overnight and need out earlier. Sitter replied she can come earlier. Scheduling should hold the morning slot before 10.","quote":"We have to keep the morning visits to before 10 am."},{"cat":"schedule","sev":"high","type":"recent","date":"Aug 19","source":"Client","office":true,"note":"After several rounds of adjustment the client asked for the morning visit before 10am for the rest of the week and the evening visit between 4 and 6pm.","quote":"We need them to be here before 10 am the remainder of this week"},{"cat":"health","sev":"high","type":"recent","date":"Aug 18","source":"Client","office":false,"note":"Troup's monthly heartworm pill was left on the counter to go in his food and the client asked that the date be written down.","quote":"Troup has a heart worm prevention pill to take in his food."},{"cat":"home","sev":"high","type":"standing","date":"Aug 18","source":"Client","office":false,"note":"Sitters must not let anyone in through the door they entered by, because the bi-weekly housekeepers are meant to enter with their own code.","quote":"please do not allow anyone to enter through the door you entered through."},{"cat":"health","sev":"medium","type":"recent","date":"Aug 26","source":"Josh Stone visit report","office":false,"note":"Topp had another accident at the Aug 26 morning visit - he went #1 outside but #2 in his crate, which the sitter cleaned before anything else. Second crate accident reported this week.","quote":"Topp went #1 outside and #2 in his crate."},{"cat":"home","sev":"medium","type":"recent","date":"Aug 26","source":"Josh Stone visit report","office":false,"note":"Troup's chicken and rice is nearly out - the sitter reported one portion left and marked pet supplies as getting low.","quote":"One more portion of chicken/rice left"},{"cat":"health","sev":"medium","type":"recent","date":"Aug 24","source":"Visit report - Noella","office":false,"note":"Topp had an indoor accident at the morning visit and the sitter cleaned him up. Related to the late-morning arrival the client flagged the same day.","quote":"Topp had an accident this morning"},{"cat":"health","sev":"medium","type":"recent","date":"Aug 21","source":"Client","office":false,"note":"Troup is moving back to regular meals: chicken and rice from the black outdoor fridge over kibble at breakfast, dry food only at the next meal.","quote":"Troup’s food needs to be adjusted."},{"cat":"health","sev":"medium","type":"recent","date":"Aug 21","source":"Client","office":false,"note":"The scoop in Troup's bucket is oversized, so the client asked sitters to cut the number of scoops.","quote":"You can reduce to 2 1/2 scoops or 2 whichever has the bowl over half full."},{"cat":"schedule","sev":"medium","type":"recent","date":"Aug 19","source":"Client","office":true,"note":"The client set out the intended longer-term pattern for the puppies from Monday onward.","quote":"Starting Monday they will go out at 8 am and around 9 pm."}],"dormant":false},{"name":"Barbara Turoczy","url":"https://www.timetopet.com/dashboard/client/t3iysvsO0oBZ","pets":["Riggs"],"items":[{"cat":"behavior","sev":"high","type":"standing","date":"Aug 20","source":"Tiarra Roberts","office":false,"note":"Riggs must not be unclipped in the fenced area until it has been checked for animals, as the care note records he is reactive to wildlife.","quote":"Please check for animals in the fenced in area before releasing him off the leash, he is triggered by other animals."},{"cat":"behavior","sev":"high","type":"recent","date":"Aug 19","source":"Client","office":false,"note":"The client saw raccoons the previous night and asked the sitter to double-check the pen before letting Riggs off leash.","quote":"Please double check for critters in pen today before you let Riggs off leash."},{"cat":"behavior","sev":"medium","type":"recent","date":"Aug 25","source":"Client message","office":false,"note":"For the Aug 26 visit the client said she would leave Riggs's dish out on the kitchen counter - add a little water and feed him before leaving.","quote":"I will have his dish on the kitchen counter. Just add a little water and give it to him before you go."},{"cat":"behavior","sev":"medium","type":"standing","date":"Aug 20","source":"Tiarra Roberts","office":false,"note":"Riggs has a big bark, so the second door should be opened slowly with treats offered through a gap.","quote":"IMPORTANT: Open second door slowly, if Riggs is barking loudly, offer treats with door slightly closed."},{"cat":"home","sev":"medium","type":"standing","date":"Aug 20","source":"Tiarra Roberts","office":false,"note":"The gate to the fenced potty area sticks and the latch must be pushed all the way down.","quote":"The gate latch tends to stick and may need to be lifted to latch and unlatch."}],"dormant":false},{"name":"Mary Ann Mckeever","url":"https://www.timetopet.com/dashboard/client/t5okjhpu7Gfr","pets":["Georgie"],"items":[{"cat":"health","sev":"high","type":"standing","date":"Aug 24","source":"Time To Pet care note update - Tiarra Roberts","office":false,"note":"Heat rule for Georgie: over 75 degrees, cap outside time at 20 minutes. Put the orange velcro cooling collar (kept in the kitchen freezer) on before the walk and slip the harness over it; if he is still panting afterwards, leave the collar on. In extreme summer heat, visits should land 8am-10am.","quote":"When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."},{"cat":"health","sev":"high","type":"standing","date":"Aug 17","source":"Tiarra Roberts","office":false,"note":"Over 75 degrees Georgie's walk is capped at 20 minutes with the orange cooling collar from the freezer worn under the slip harness.","quote":"When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."},{"cat":"behavior","sev":"high","type":"standing","date":"Aug 17","source":"Tiarra Roberts","office":false,"note":"The care record flags Georgie as an escape risk, which is why the garage door is closed before entry and during walks.","quote":"Georgie is an escape artist."},{"cat":"home","sev":"medium","type":"recent","date":"Aug 19","source":"Client","office":false,"note":"The client arranged a pest control spray of the yard perimeter, though a later message the same day said the company cannot come until the following Friday.","quote":"I have a pest control co coming on Friday to spray the perimeter of the yard."},{"cat":"home","sev":"low","type":"standing","date":"Aug 24","source":"Time To Pet care note update - Tiarra Roberts","office":false,"note":"Standing house tasks: bring the mail in every visit; Wednesday take the trash and recycling bins to the curb; Thursday bring them back and set them near the stairs inside the garage. Close the garage door on the way in, during the walk, and on the way out.","quote":"Wednesday: take trash and recycling bins to curb"},{"cat":"schedule","sev":"low","type":"recent","date":"Aug 19","source":"Client","office":false,"note":"Toads in the yard from about 5pm are pushing Georgie's bedtime walk later than usual.","quote":"Now that the toads are coming in the yard at 5 pm, he has to wait a few hours for his bedtime walk."}],"dormant":false},{"name":"Yasmeen Abrams","url":"https://www.timetopet.com/dashboard/client/sraaoqSfFtql","pets":["Evee"],"items":[{"cat":"behavior","sev":"high","type":"standing","date":"Aug 26","source":"Client care-note update for pet Evee","office":false,"note":"Owner's stated leash preference for Evee: choke collar and rope leash (harness available if the sitter prefers). Poop bags by the door on the purple harness. If it rains, her outfits are in the blue bucket by the shoe rack.","quote":"I prefer choke collar and rope leash she’s pretty good with that"},{"cat":"behavior","sev":"high","type":"standing","date":"Aug 20","source":"Ashley Corall","office":false,"note":"Evee is loose in the house when sitters walk in, so the door must be opened carefully.","quote":"Evee will be loose when entering so be careful!"},{"cat":"health","sev":"medium","type":"standing","date":"Aug 26","source":"Client care-note update for pet Evee","office":false,"note":"Feeding updated by owner: 6-9am, 11-1pm, 5/6pm. Three cups dry kibble a day, kibble now kept by the food bowl (previously by the TV). Pure pumpkin, 1/3 can from the fridge, mixed with a splash of water. Treats above the fridge - do not leave food out, she will get into it.","quote":"3x cup dry kibble a day (by food bowl)"},{"cat":"home","sev":"medium","type":"recent","date":"Aug 26","source":"Client message","office":false,"note":"Package expected out front that the owner asked to be brought inside. She described the contents as tattoo needles, so handle with care.","quote":"There’s a package that’ll be out front that needs to be brought in."},{"cat":"schedule","sev":"medium","type":"recent","date":"Aug 25","source":"Client message","office":true,"note":"Client asked for a same-day extra visit for Evee on short notice. No reply visible in the mail sweep - confirm whether this was covered.","quote":"Can anyone do a last min visit for Evee? for me sorry for the short notice"},{"cat":"behavior","sev":"medium","type":"recent","date":"Aug 24","source":"Client message","office":false,"note":"Owner says she is actively working on Evee's leash reactivity - barking and lunging at people while walking - and prefers a collar over a muzzle for it. She reports Evee did well on a recent outing.","quote":""},{"cat":"home","sev":"medium","type":"standing","date":"Aug 20","source":"Client","office":false,"note":"Standing house rules: shoes off, leave the AC on as it runs on a timer, and leave the ceiling fan on with the living room light off.","quote":"The ceiling fan should be on, but make sure the light is turned off the switch is by the dog food"},{"cat":"home","sev":"low","type":"recent","date":"Aug 26","source":"Client message","office":false,"note":"Owner cancelled the grocery order she had mentioned; if there is no spring water in the fridge, tap water is fine.","quote":"Groceries are not coming canceled order if there’s no water it’s fine tap"}],"dormant":false},{"name":"Regina Mathews","url":"https://www.timetopet.com/dashboard/client/sh3cwzRH7YkD","pets":["Milo","India","Lila"],"items":[{"cat":"schedule","sev":"high","type":"recent","date":"Aug 26","source":"Client message","office":true,"note":"Client asked to push Thursday Aug 27's visit later - her landscaper is due at the usual time and the dogs could not go out. She suggested between 1 and 2. Needs the scheduler updated.","quote":"A later time such as between 1 and 2 would be ok"},{"cat":"behavior","sev":"medium","type":"standing","date":"Aug 26","source":"Client-added general information, updated in Time To Pet Aug 26","office":false,"note":"Client instruction, restated in capitals: shut the kennel door immediately after letting a dog out so the others cannot steal the bone or toy. Baby wipes for after a bowel movement are on top of the microwave.","quote":"CLOSE THE KENNEL DOORS AS SOON AS YOU LET THEM OUT, SO THE OTHER DOGS DON'T STEAL THEIR BONE/TOY."},{"cat":"behavior","sev":"medium","type":"standing","date":"Aug 26","source":"Pet care note updated by Tiarra Roberts, Aug 26","office":false,"note":"Lila and India are kept apart at the start of the visit because they are very high energy together. Milo can be out with either girl; all three go out together towards the end of the visit. Put each girl back on the same side of the kennel she was in.","quote":"They are very high energy together."},{"cat":"schedule","sev":"medium","type":"recent","date":"Aug 25","source":"Client message","office":true,"note":"Milo was away with the client but she says he will be back at the house on Thursday.","quote":"Sorry forgot to mention Milo is with me. He will definitely be there on Thursday."},{"cat":"schedule","sev":"medium","type":"recent","date":"Aug 21","source":"Client","office":true,"note":"The client asked Friday afternoon whether a 30 minute drop-in around noon on Saturday is possible, and it still needs confirming.","quote":"Are you available tomorrow for a 30 minute drop in around noon?"},{"cat":"health","sev":"medium","type":"recent","date":"Aug 18","source":"Client","office":false,"note":"The vet thinks a spot a sitter flagged may be the start of allergies and a second was found on India; the message does not say which dog the first is on.","quote":"she said she might be starting to developing allergies. Found one on India too."},{"cat":"behavior","sev":"low","type":"standing","date":"Aug 25","source":"Client message","office":false,"note":"Client notes the dogs have several collars and she rotates them onto the charger, so the collar a dog is wearing may change between visits.","quote":"The dogs have multiple collars. I'm charging their GPS collars."},{"cat":"schedule","sev":"low","type":"recent","date":"Aug 20","source":"Client","office":false,"note":"Milo was away for the day, leaving only India and Lila at home.","quote":"Milo is not at home today"}],"dormant":false},{"name":"Christina Palmieri","url":"https://www.timetopet.com/dashboard/client/t22og1KAth8h","pets":["Bismark"],"items":[{"cat":"behavior","sev":"high","type":"recent","date":"Aug 17","source":"Client","office":false,"note":"The client warned that Bis has been anxious and heat-affected, may refuse to walk at all, and had chewed the door.","quote":"Bis has been anxious lately and hot, he may not walk. You’ll see he chewed the door"}],"dormant":false},{"name":"Judy Steele","url":"https://www.timetopet.com/dashboard/client/tfplzpQ2jXbp","pets":["Eddie"],"items":[{"cat":"schedule","sev":"high","type":"recent","date":"Aug 26","source":"Shannon Anderson visit report to client, Aug 26 afternoon","office":true,"note":"The sitter's Aug 26 afternoon report describes it as Eddie's last afternoon visit with us. The report does not say whether the whole service is ending or only this block of visits - confirm with Judy before changing the schedule.","quote":"I came for Eddie's last afternoon visit with us."},{"cat":"health","sev":"high","type":"recent","date":"Aug 21","source":"Client","office":false,"note":"The client reported mid-morning Friday that Eddie was still not eating and put it down to tiredness.","quote":"Eddie still not eating"},{"cat":"home","sev":"low","type":"recent","date":"Aug 20","source":"Client","office":false,"note":"Fresh cheese and broth were left out for the next day, which the client uses to get Eddie to eat.","quote":"there is new cheese and broth for tomorrow"}],"dormant":false},{"name":"Jessica Shouldis","url":"https://www.timetopet.com/dashboard/client/tch4bioEqKMz","pets":["Astra","Nova"],"items":[{"cat":"behavior","sev":"high","type":"recent","date":"Aug 19","source":"Michelle Carrara","office":false,"note":"A sitter message indicates Astra got out and was found quickly that morning; the circumstances are not described in the email.","quote":"I am glad that Astra is back and that you found her quickly."},{"cat":"behavior","sev":"medium","type":"standing","date":"Aug 17","source":"Tiarra Roberts","office":false,"note":"The client is home and hands the leash over at the front door, the doorbell does not work so knock, and only one dog is walked at a time.","quote":"Client will be home, leash hand off at the front door."}],"dormant":false},{"name":"Ashley Gullett","url":"https://www.timetopet.com/dashboard/client/sud30hb6RA15","pets":["Nova"],"items":[{"cat":"behavior","sev":"medium","type":"recent","date":"Aug 21","source":"Client","office":false,"note":"There is a new puppy in the household staying with the client's parents overnight, and the gate a sitter noticed was left open for Nova on purpose.","quote":"We actually got a new puppy that is staying with my parents overnight."}],"dormant":false},{"name":"Marcella Singer","url":"https://www.timetopet.com/dashboard/client/th3gltTsS3FF","pets":["Buttercup","Simba"],"items":[{"cat":"health","sev":"medium","type":"recent","date":"Aug 17","source":"Client","office":false,"note":"The client had already fed the cats and given Buttercup her insulin before the sitter arrived.","quote":"Good just fed them & gave Buttercup insulin."},{"cat":"home","sev":"low","type":"recent","date":"Aug 17","source":"Client","office":false,"note":"The client asked to be texted on arrival in the driveway.","quote":"Text when you are in drivrway."}],"dormant":false},{"name":"Charlene Szunyog","url":"https://www.timetopet.com/dashboard/client/tb8ce9sIyUu2","pets":["Murphy","Macy"],"items":[{"cat":"behavior","sev":"medium","type":"standing","date":"Aug 20","source":"Tiarra Roberts","office":false,"note":"Murphy is walked for weight loss, so the care note asks sitters to keep him moving rather than stopping to sniff.","quote":"Please hurry him along if he starts to stop and sniff."},{"cat":"behavior","sev":"medium","type":"standing","date":"Aug 20","source":"Tiarra Roberts","office":false,"note":"The second dog in the home can react to other dogs by barking and pulling.","quote":"Macy can be dog reactive (barking and pulling)"}],"dormant":false},{"name":"Diane Hoard","url":"https://www.timetopet.com/dashboard/client/sjd1u10bl6wi","pets":["Mac"],"items":[{"cat":"schedule","sev":"high","type":"recent","date":"Aug 19","source":"Client","office":true,"note":"An extra evening visit was agreed for Saturday Aug 22 at 5:00pm so Mac gets fed while the family is out.","quote":"5:00pm is great! I'll have his food in his bowl covered with saran wrap on the island counter."},{"cat":"home","sev":"medium","type":"standing","date":"Aug 17","source":"Tiarra Roberts","office":false,"note":"Standing tasks for Mac: leave the white wooden front blinds open and note the second water bowl is now outside.","quote":"PLEASE ENSURE WOODEN WHITE FRONT BLINDS ARE OPEN FOR MAC TO LOOK OUT - 2ND WATER BOWL NOW ON PATIO IN THE BACKYARD"},{"cat":"health","sev":"low","type":"recent","date":"Aug 19","source":"Client","office":false,"note":"A sitter flagged something about Mac's lip and the client said she would look at it at home; no follow-up appears this week.","quote":"Thanks for letting me know about his lip. I will check it out when I get home!"}],"dormant":false},{"name":"Kristin Brewer","url":"https://www.timetopet.com/dashboard/client/tc20pmTqd1tc","pets":["Oliver","Daff"],"items":[{"cat":"home","sev":"medium","type":"standing","date":"Aug 20","source":"Kathy Sullenberger","office":false,"note":"A sitter confirmed she will watch for lawn-chemical warning signs; the client's original caution is not in this thread.","quote":"I will be aware of the yard chemical signs."}],"dormant":false},{"name":"Derek Heussner","url":"https://www.timetopet.com/dashboard/client/t6lzw869V7Kg","pets":["Ginger"],"items":[{"cat":"schedule","sev":"low","type":"recent","date":"Aug 23","source":"Client message","office":false,"note":"Client was away for the weekend and said they would be back home the evening of Aug 23.","quote":"Thank you for taking care of Ginger this weekend! We will be back this evening"}],"dormant":false},{"name":"Matt Konn","url":"https://www.timetopet.com/dashboard/client/t5w537Rv22EF","pets":["Ripley"],"items":[{"cat":"health","sev":"high","type":"recent","date":"Aug 24","source":"Client message","office":false,"note":"Client reported Ripley had not gone #2 that morning and had a bad accident in the basement on Saturday night during thunderstorms. He asked that she be walked long enough to go.","quote":"She just ate…and no #2 this morning."},{"cat":"schedule","sev":"high","type":"recent","date":"Aug 23","source":"Client private message","office":true,"note":"Client is out of town Aug 26-31 and gave visit windows: morning 7:30-9 and afternoon 1-4, both walk/play/water with no feeding. He later confirmed normal visit lengths, no time bump needed.","quote":"Morning visit: 7:30-9. Walk/play/Water (no feed)"},{"cat":"schedule","sev":"medium","type":"recent","date":"Aug 26","source":"Client message via Time To Pet","office":true,"note":"Client says he walked Ripley himself this morning before leaving for the airport and that his daughter is at the house. Worth checking against the Aug 26-31 visit windows in case someone is home for part of them.","quote":"No problem - walked this morning before going to airport! My daughter is there."}],"dormant":false},{"name":"Helyn Cobourn","url":"https://www.timetopet.com/dashboard/client/tbhykuNe4wj5","pets":[],"items":[{"cat":"schedule","sev":"high","type":"recent","date":"Aug 23","source":"Client message","office":true,"note":"Client is pausing service for at least a month - cancel all of September, revisit at the start of October. Recurring template still shows Tues/Thurs midday visits, so the schedule needs clearing.","quote":"Cancel all of September. Maybe check back beginning of oct."}],"dormant":false},{"name":"Brandy Harkless","url":"https://www.timetopet.com/dashboard/client/sw005dNkLI84","pets":["Xander","Xara","Jaxon","Lennyx"],"items":[{"cat":"behavior","sev":"medium","type":"recent","date":"Aug 25","source":"Visit report - Monica Hopewell","office":false,"note":"Xander bit the sitter's toe repeatedly while she was preparing food - playful rather than aggressive, but it made dishing up awkward. One report, not yet an established pattern.","quote":"Xander went full blown biting on that toe, all while purring and looking cute."},{"cat":"home","sev":"medium","type":"recent","date":"Aug 25","source":"Visit report - Monica Hopewell","office":true,"note":"Wet food is out - the sitter used the last can of fish and shrimp and flagged supplies as running low. Owner likely needs a heads-up.","quote":"I used the last can of fish and shrimp today."},{"cat":"home","sev":"low","type":"recent","date":"Aug 23","source":"Client message","office":false,"note":"Client left the kitchen light on and asked that all lights be switched off after the last visit of the day.","quote":"can someone make sure all the lights are off tonight after they leave please"}],"dormant":false},{"name":"Lance Hoffman","url":"https://www.timetopet.com/dashboard/client/shkf2uFNNTcY","pets":["Marlo","Franki","Sammy"],"items":[{"cat":"behavior","sev":"high","type":"standing","date":"Aug 24","source":"Time To Pet care note update - Tiarra Roberts","office":false,"note":"Dogs stay in the utility room when unattended - gate up and door shut. Walk the property only, not the neighborhood. All of them are strong pullers.","quote":"THEY ARE ALL VERY STRONG AND WILL PULL."},{"cat":"home","sev":"medium","type":"standing","date":"Aug 24","source":"Time To Pet care note update - Tiarra Roberts","office":false,"note":"They eat three times a day (am, midday, evening) in the utility room - portioned bags in the refrigerator or on the kitchen island, rice/chicken plus kibble in each bowl. Treats in the utility room cabinet. Water bowls in laundry room and kitchen.","quote":"NO NEED TO PICK UP THE #2'S. WATCH OUT FOR DEER POOP IN BACK YARD FIELD."}],"dormant":false},{"name":"Vicki Davey","url":"https://www.timetopet.com/dashboard/client/tb8gm56xpPN3","pets":["Trudy"],"items":[{"cat":"home","sev":"low","type":"recent","date":"Aug 23","source":"Client message","office":false,"note":"For the Aug 23 visit the client said the front door would be left open and Trudy would most likely be in the kitchen. One-off note for that visit, not confirmed as a standing arrangement.","quote":"The front door will be open Trudy probably will be in the kitchen"}],"dormant":false},{"name":"Jennifer Peganoff","url":"https://www.timetopet.com/dashboard/client/t3gujwuaXaSe","pets":["Bella"],"items":[{"cat":"home","sev":"low","type":"recent","date":"Aug 23","source":"Client message","office":false,"note":"Visits are at the client's mother's house. She warned that her mother may still be asleep at a 9:00 arrival.","quote":"I told my mom 9:00. She may not be awake yet"}],"dormant":false},{"name":"Paulo Garcia","url":"https://www.timetopet.com/dashboard/client/t1ptbvQbaKQx","pets":["Milo","Archer"],"items":[{"cat":"home","sev":"medium","type":"recent","date":"Aug 26","source":"Client message via Time To Pet","office":false,"note":"Client says the dogs will be shut in the basement for today's visit because cleaners are at the house.","quote":"The dogs will be in the basement since the cleaners will be here today."},{"cat":"health","sev":"low","type":"recent","date":"Aug 26","source":"Alex Miller visit report","office":false,"note":"Milo's stool on the Aug 26 walk was soft and green; the sitter thought it was probably from eating plants and recorded it as not concerning. Archer's was firm and healthy.","quote":"His stool was a little soft and green, but not concerning"}],"dormant":false},{"name":"Craig Wells","url":"https://www.timetopet.com/dashboard/client/tka05egw7o0m","pets":["Octavia"],"items":[{"cat":"behavior","sev":"medium","type":"recent","date":"Aug 26","source":"Visit report from Margaret Bill","office":false,"note":"Octavia barked at the sitter knocking on arrival, and on the way out started to bolt toward a chipmunk but stopped when told no.","quote":"She did not however , like me knocking and barked."},{"cat":"health","sev":"low","type":"recent","date":"Aug 26","source":"Visit report from Margaret Bill","office":false,"note":"On this visit Octavia was fed with a supplement on top of the food mixed with water, then given Winpro, and her lower lip area was cleaned with medicated pads. Reported once, so treat as what happened on the day rather than a confirmed standing routine.","quote":"giving her supplement on top of a food and mixing it with water"},{"cat":"home","sev":"low","type":"recent","date":"Aug 26","source":"Visit report from Margaret Bill","office":false,"note":"The visit report records the client at home during the visit and asking that the door not be locked.","quote":"Client was home during visit/ Client asked not to lock door"}],"dormant":false},{"name":"Lynne Reno","url":"https://www.timetopet.com/dashboard/client/td564czOhImO","pets":["Holly"],"items":[{"cat":"behavior","sev":"low","type":"recent","date":"Aug 25","source":"Visit report from Dan Dantimo","office":false,"note":"Holly's usual evening walk runs toward Gatestone and on to the first cul de sac; on this visit she kept a good pace and did not sniff much.","quote":"She walked quickly to Gatestone to get some sniffs in to start out our walk."},{"cat":"health","sev":"low","type":"recent","date":"Aug 25","source":"Visit report from Dan Dantimo","office":false,"note":"Holly's stool on the Aug 25 evening walk was recorded as a little loose but not concerning.","quote":"It was a little loose but not concerning"},{"cat":"home","sev":"low","type":"recent","date":"Aug 25","source":"Visit report from Dan Dantimo","office":false,"note":"The client was home for the Aug 25 evening visit, so the sitter did not go into the house.","quote":"Client was home during visit"}],"dormant":false},{"name":"Mandy Schlabach","url":"","pets":[],"items":[{"cat":"home","sev":"medium","type":"standing","date":"Aug 26","source":"Pet care note updated by Tiarra Roberts, Aug 26","office":false,"note":"Care note now asks sitters to check the fridge before opening a new can of wet food and to use already-opened cans first.","quote":""}],"dormant":false},{"name":"Anna Caraboolad","url":"https://www.timetopet.com/dashboard/client/sqggyt42GjUG","pets":["Oakley"],"items":[{"cat":"behavior","sev":"medium","type":"standing","date":"Aug 22","source":"Pet care note updated by Tiarra Roberts","office":false,"note":"Oakley may hide upstairs on arrival; if he does not come down to greet you, check the bedroom.","quote":"Oakley might be hiding upstairs, if he does not come down for you please look in bedroom"}],"dormant":false},{"name":"Ray Koesel","url":"https://www.timetopet.com/dashboard/client/t90xdq8K3BOC","pets":["Archie"],"items":[{"cat":"home","sev":"low","type":"recent","date":"Aug 26","source":"Thomas Rakovec visit report","office":false,"note":"The Aug 25 and Aug 26 visit reports both record the client at home during the visit and asking that the door not be locked.","quote":"Client was home during visit/ Client asked not to lock door"}],"dormant":false},{"name":"Deb Ward","url":"https://www.timetopet.com/dashboard/client/t75x2er0pUO0","pets":["Guinness"],"items":[{"cat":"health","sev":"low","type":"recent","date":"Aug 25","source":"Dan Dantimo visit report","office":false,"note":"Guinness's stool was recorded as a little loose on the Aug 25 visit, and as a little loose on Aug 24 as well - two days running.","quote":"It was a little loose but not concerning"},{"cat":"home","sev":"low","type":"recent","date":"Aug 25","source":"Dan Dantimo visit reports, Aug 24 and Aug 25","office":false,"note":"Both reports record the client at home during the visit and asking that the door not be locked.","quote":"Client was home during visit/ Client asked not to lock door"}],"dormant":false},{"name":"Roseann Fekete","url":"https://www.timetopet.com/dashboard/client/thgqk4u5BuQb","pets":["Muffy"],"items":[{"cat":"behavior","sev":"low","type":"recent","date":"Aug 19","source":"Dan Dantimo visit report","office":false,"note":"Muffy is excitable at the start of a walk and is still learning leash manners; the sitter worked on heel and sit and said she is improving.","quote":"She's getting better on a leash"},{"cat":"home","sev":"low","type":"recent","date":"Aug 19","source":"Dan Dantimo visit report","office":false,"note":"The report records the client at home during the visit and asking that the door not be locked.","quote":"Client was home during visit/ Client asked not to lock door"}],"dormant":false}]}
+{
+ "generated": "2026-08-27T13:35:05-04:00",
+ "window": "Rolling history back to Aug 17, 2026",
+ "clients": [
+  {
+   "name": "Kelly Huntington",
+   "url": "https://www.timetopet.com/dashboard/client/swpxi6kbVLqT",
+   "pets": [
+    "Livvie",
+    "Caleb"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": false,
+     "note": "Livvie has refused food all week, has had diarrhea accidents again and lost a pound in three weeks; the vet restarted PredNiSolone in the morning and added a daily appetite stimulant.",
+     "quote": "She has started to refuse eating altogether. She also started having diarrhea accidents again."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": false,
+     "note": "Livvie's appetite stimulant is an ear ointment that must be applied with a glove, alternating ears each day.",
+     "quote": "The appetite stimulant is just an ointment you rub into her ear and MUST USE A GLOVE"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": false,
+     "note": "For Friday and Saturday evenings the client asked sitters to give Livvie no medication and only offer wet food.",
+     "quote": "You do not have to give her any meds tonight or tomorrow night."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Kelly Huntington private message",
+     "office": true,
+     "note": "Client scheduled a visit for 11/14 and says 11/28 shows both an approved visit and a pending visit. She needs the 11/28 8:00-8:30 PM visit and asks the office to check what the other pending one is.",
+     "quote": "I DO need the 11/28 PM visit (8:00PM-8:30PM)."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": false,
+     "note": "Livvie stays on morning gabapentin and the client gave the dose and storage details when Shannon Anderson asked to confirm them.",
+     "quote": "Shannon her Gaba dose is 0.4 mls. Its kept in the refrigerator and administered with a syringe."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": false,
+     "note": "Caleb had gabapentin before his calcium retest, so the client warned he may still be groggy.",
+     "quote": "He had Gabapentin before his visit so he may still be a little loopy"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Terri Orengo",
+   "url": "https://www.timetopet.com/dashboard/client/tg7x5zgQWtst",
+   "pets": [],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": false,
+     "note": "The client's black and white cat, not named in the message, has declined sharply ahead of an at-home vet appointment on Sunday, and sitters were asked to watch for odd behaviour.",
+     "quote": "our black and white kitty has taken a turn for the worse"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Mary Gilmore",
+   "url": "https://www.timetopet.com/dashboard/client/sxepwutsUU3L",
+   "pets": [
+    "Puck",
+    "Rusty"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": false,
+     "note": "Rusty vomited several times Friday morning and the client asked sitters to watch for it and swap her blanket for a towel if it recurs.",
+     "quote": "rusty threw up a few times this morning, so watch out for that"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Elizabeth Sigler visit report",
+     "office": false,
+     "note": "On the Aug 26 morning visit both Puck and Rusty went #1 and #2 with stool recorded as firm and healthy, and no accidents were found in the home.",
+     "quote": "It was firm and healthy"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Liz Wainio",
+   "url": "https://www.timetopet.com/dashboard/client/t4ujb12KyYNA",
+   "pets": [
+    "Louie",
+    "Stella",
+    "Berry",
+    "Emma"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 24",
+     "source": "Client message",
+     "office": true,
+     "note": "Client cancelled Aug 24 and Aug 25 visits via a request submitted Saturday and messaged to make sure it had been seen. Confirm the cancellation was actually processed.",
+     "quote": "I put in a request on Saturday to cancel today and tomorrow’s visits."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Client",
+     "office": false,
+     "note": "Louie has a Saturday vet appointment about his hips and has been unusually grumpy with the other dogs all week.",
+     "quote": "Louie has a vet appointment this Saturday for his hips. He has been extra grumpy with all the dogs this past week"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 18",
+     "source": "Client",
+     "office": false,
+     "note": "Stella and Berry both had diarrhea that the client said had cleared by that morning, possibly from new treats.",
+     "quote": "Stella and Berry both had diarrhea. It appeared to have resolved by this morning"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Thomas Rakovec visit report, Aug 26",
+     "office": false,
+     "note": "Aug 26 visit: Emma's eye drops given and her diaper changed; the report records medication as administered for Emma.",
+     "quote": "Emma's eye drops ...diaper changed"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Anna Marie LeMaster",
+   "url": "https://www.timetopet.com/dashboard/client/sqviehQReAUS",
+   "pets": [
+    "Gordy",
+    "Sampson",
+    "Gordy (Gordon)"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Client message to Kathy Pastor, Aug 26",
+     "office": false,
+     "note": "The client says there are some male dogs Gordy does not like, and that she thinks he made Margaret fall when he saw one of them. She places that incident a while ago and does not date it.",
+     "quote": "There are some boy dogs he doesn't like."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 24",
+     "source": "Client message",
+     "office": false,
+     "note": "Gordy had x-rays on Aug 24. The vet saw nothing on the day; images went to a radiologist and the client did not expect results until Thursday or Friday. No instructions were given to change his walks.",
+     "quote": "We are home from Gordy's x-rays."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 20",
+     "source": "Client",
+     "office": false,
+     "note": "The client reports crystals found in the urine with an X-ray booked for 9am Monday; the message does not name the pet, though the thread concerns Gordy's urine sample.",
+     "quote": "I found out he has crystals in his pee."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Visit report from Kathy Pastor",
+     "office": false,
+     "note": "Gordy's stool on the Aug 26 morning walk was recorded as a little loose but not concerning.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Client message",
+     "office": true,
+     "note": "Client messaged that a visit showed as started while Gordy was still in the house and she had not seen the sitter. Needs checking with the sitter and with the visit record.",
+     "quote": "You started your visit? I have been downstairs and Gordy is still in the house."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 24",
+     "source": "Client message",
+     "office": false,
+     "note": "Client is watching for blood on the floor and reports only small drops, not large spots. She also thinks a calming plug-in is helping Gordy settle around Sampson.",
+     "quote": "I haven't noticed any large spots of blood on the floor. Only drops."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Margaret Bill",
+     "office": false,
+     "note": "Sampson refused his half pill on its own and the sitter reported hiding it in a treat.",
+     "quote": "He wanted affection but did not want his 1/2 pill."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Visit report from Kathy Pastor",
+     "office": false,
+     "note": "Gordy was barking at the window on arrival and was taken out promptly; on the walk he passed a man standing by a truck without a problem and listened to guiding.",
+     "quote": "He was barking at the window."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Jesse Terdan",
+   "url": "https://www.timetopet.com/dashboard/client/ta0aq3ceiwYT",
+   "pets": [
+    "Oliver"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 20",
+     "source": "Client",
+     "office": true,
+     "note": "Messaging from hospital, the client said the next day's visit could be cancelled and that he needs cover for September 2nd.",
+     "quote": "Tomorrow's visit can be cancelled unless you still have to charge me. I will need you for September 2nd."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Terry M",
+   "url": "https://www.timetopet.com/dashboard/client/t61d7v5gMU27",
+   "pets": [
+    "Rex",
+    "CJ"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Kayla Popow visit report, Aug 26",
+     "office": false,
+     "note": "Rex was jumpy on arrival and the sitter used the collar remote - vibrate first, then the static setting, which stopped him. Single reported instance, not a standing instruction.",
+     "quote": "Rex was jumpy so I had to use the collar remote today."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Client",
+     "office": true,
+     "note": "The client cancelled Friday's walk because of a schedule change and asked specifically that Kayla be told.",
+     "quote": "I will be home Friday and will need to cancel Friday’s walk."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Kayla Popow visit report, Aug 26",
+     "office": false,
+     "note": "Sitter remarked on the gate on arrival and assumed the dogs were responsible. The report does not say what state the gate was in or whether it was secured afterward - ambiguous.",
+     "quote": "I laughed when I saw the gate just cause I assume it’s the boys."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 24",
+     "source": "Client message",
+     "office": true,
+     "note": "Client was home unexpectedly and left the Aug 24 walk optional - happy for it to go ahead or to handle it herself. Worth noting she may be home on short notice.",
+     "quote": "I am home today unexpectedly sorry for the late notice"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Client",
+     "office": false,
+     "note": "The client noticed Rex drinking unusually large amounts of water in the evenings.",
+     "quote": "Rex has been drinking lots of water the past two evenings too."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Kayla Popow visit report, Aug 26",
+     "office": false,
+     "note": "Both CJ and Rex had loose stool on the Aug 26 visit; the sitter recorded the same consistency answer for each and judged it not concerning.",
+     "quote": "It was a little loose but not concerning"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Angela Jozsa",
+   "url": "https://www.timetopet.com/dashboard/client/suik98UMWrqY",
+   "pets": [
+    "Lucy"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "client private message (signed Carol)",
+     "office": true,
+     "note": "Cancelled dog walking for Thursday and Friday this week, asked for someone about 1 on Saturday instead. Unanswered - a sitter may still be routed to a cancelled visit.",
+     "quote": "I am going to need to cancel dog walking for Thursday and Friday this week"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "client private message (signed Carol)",
+     "office": true,
+     "note": "Follow-up the same evening confirming 1:00 Saturday. She refers to having said Sunday, but her first message already said Saturday - unclear. Still unanswered.",
+     "quote": "I am sorry, I said Sunday but I meant 1:00 on Saturday, not Sunday. Does that work?"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Lacey Govil visit report, Aug 26",
+     "office": false,
+     "note": "Lucy declined water twice on the Aug 26 visit - after the bowl was refreshed on arrival and again before being put back in her pen.",
+     "quote": "She still did not want any water."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Margaret Bill",
+     "office": false,
+     "note": "Lucy scooted for a few minutes on coming out of her pen and, in the same report, went #1 but not #2 again.",
+     "quote": "She came out and started scooting for a few minutes."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 18",
+     "source": "Client",
+     "office": true,
+     "note": "The client cancelled the next day's services again and asked for someone Thursday at 11:30 and again at 2:30.",
+     "quote": "I am going to need to cancel services again for tomorrow."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Lacey Govil visit report, Aug 26",
+     "office": false,
+     "note": "Lucy needed rest breaks during the walk before carrying on.",
+     "quote": "Lucy needed a couple breaks on the walk but after a couple minutes she got back up and running!"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Melody Siska",
+   "url": "https://www.timetopet.com/dashboard/client/ta5lm8xWA4dl",
+   "pets": [
+    "Chloe",
+    "Ellie Mae",
+    "Eleanor (Ellie Mae)"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Client",
+     "office": false,
+     "note": "Ellie Mae has been unwell and the client says her vet asked that her walking be minimised, so Chloe is walked alone for now.",
+     "quote": "please don’t walk Ellie just walk Chloe the little white dog"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Visit report from Alex Miller",
+     "office": true,
+     "note": "The sitter walked both Chloe and Ellie Mae today at the client's request; Ellie Mae went to the bathroom and was ready to go back in, and the walk continued with Chloe alone. This does not match the Aug 19 note that Ellie Mae's walking be minimised - the current instruction is unclear and should be confirmed with the client.",
+     "quote": "I took Chloe and Ellie Mae on a walk per your request."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Jade Popovitz visit report, Aug 26 afternoon",
+     "office": true,
+     "note": "The visit timer would not start, so the recorded time for the Aug 26 afternoon visit is wrong. The sitter says she was there 2:22 to 2:50 - the record needs correcting in Time To Pet.",
+     "quote": "the visit would not start, but I was there from 2:22 until 2:50"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Jade Popovitz visit report, Aug 26 afternoon",
+     "office": false,
+     "note": "On the Aug 26 afternoon visit Ellie Mae would not leave the couch and did not go outside at all, before or after Chloe's walk. Chloe walked well and went #1.",
+     "quote": "Ellie was very persistent on staying on the couch"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 18",
+     "source": "Client",
+     "office": false,
+     "note": "Ellie Mae was at the vet and not home for the afternoon walk, leaving Chloe only.",
+     "quote": "taking Ellie to the doctor so she won’t be here for the afternoon walk"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Client",
+     "office": false,
+     "note": "Cans of dog food on the front porch are there on purpose and should be left alone.",
+     "quote": "there are some cans of dog food on the front porch. Please leave them there."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Nicole Allen",
+   "url": "https://www.timetopet.com/dashboard/client/tj04asooIK5I",
+   "pets": [
+    "Troup",
+    "Topp"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Monica Hopewell",
+     "office": true,
+     "note": "House nearly out of water and no paper towels, so Topp could not be dried after a bath. Restock request needed.",
+     "quote": "they are almost out of water and there's no paper towels like I said earlier."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 24",
+     "source": "Client message",
+     "office": true,
+     "note": "Client set a firm rule that morning visits must land before 10am - the dogs are crated overnight and need out earlier. Sitter replied she can come earlier. Scheduling should hold the morning slot before 10.",
+     "quote": "We have to keep the morning visits to before 10 am."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Client",
+     "office": true,
+     "note": "After several rounds of adjustment the client asked for the morning visit before 10am for the rest of the week and the evening visit between 4 and 6pm.",
+     "quote": "We need them to be here before 10 am the remainder of this week"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 18",
+     "source": "Client",
+     "office": false,
+     "note": "Troup's monthly heartworm pill was left on the counter to go in his food and the client asked that the date be written down.",
+     "quote": "Troup has a heart worm prevention pill to take in his food."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 18",
+     "source": "Client",
+     "office": false,
+     "note": "Sitters must not let anyone in through the door they entered by, because the bi-weekly housekeepers are meant to enter with their own code.",
+     "quote": "please do not allow anyone to enter through the door you entered through."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Monica Hopewell",
+     "office": false,
+     "note": "Topp had a crate accident and had been sitting in it before the sitter arrived; crate cleaned and he was bathed. No #2 on this visit.",
+     "quote": "Topp had an accident so he had been sitting in it. I got him outside quickly and he went number 1."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Josh Stone visit report",
+     "office": false,
+     "note": "Topp had another accident at the Aug 26 morning visit - he went #1 outside but #2 in his crate, which the sitter cleaned before anything else. Second crate accident reported this week.",
+     "quote": "Topp went #1 outside and #2 in his crate."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Josh Stone visit report",
+     "office": false,
+     "note": "Troup's chicken and rice is nearly out - the sitter reported one portion left and marked pet supplies as getting low.",
+     "quote": "One more portion of chicken/rice left"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Noella",
+     "office": false,
+     "note": "Aug 26 evening: Topp went #2 in his crate while the sitter walked Troup. Stool logged as firm.",
+     "quote": "He did go number two in his crate while I was out with Troup on his second walk"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 24",
+     "source": "Visit report - Noella",
+     "office": false,
+     "note": "Topp had an indoor accident at the morning visit and the sitter cleaned him up. Related to the late-morning arrival the client flagged the same day.",
+     "quote": "Topp had an accident this morning"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": false,
+     "note": "Troup is moving back to regular meals: chicken and rice from the black outdoor fridge over kibble at breakfast, dry food only at the next meal.",
+     "quote": "Troup’s food needs to be adjusted."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": false,
+     "note": "The scoop in Troup's bucket is oversized, so the client asked sitters to cut the number of scoops.",
+     "quote": "You can reduce to 2 1/2 scoops or 2 whichever has the bowl over half full."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Barbara Turoczy",
+   "url": "https://www.timetopet.com/dashboard/client/t3iysvsO0oBZ",
+   "pets": [
+    "Riggs"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 20",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "Riggs must not be unclipped in the fenced area until it has been checked for animals, as the care note records he is reactive to wildlife.",
+     "quote": "Please check for animals in the fenced in area before releasing him off the leash, he is triggered by other animals."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Client",
+     "office": false,
+     "note": "The client saw raccoons the previous night and asked the sitter to double-check the pen before letting Riggs off leash.",
+     "quote": "Please double check for critters in pen today before you let Riggs off leash."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Client message",
+     "office": false,
+     "note": "For the Aug 26 visit the client said she would leave Riggs's dish out on the kitchen counter - add a little water and feed him before leaving.",
+     "quote": "I will have his dish on the kitchen counter. Just add a little water and give it to him before you go."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 20",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "Riggs has a big bark, so the second door should be opened slowly with treats offered through a gap.",
+     "quote": "IMPORTANT: Open second door slowly, if Riggs is barking loudly, offer treats with door slightly closed."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 20",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "The gate to the fenced potty area sticks and the latch must be pushed all the way down.",
+     "quote": "The gate latch tends to stick and may need to be lifted to latch and unlatch."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Mary Ann Mckeever",
+   "url": "https://www.timetopet.com/dashboard/client/t5okjhpu7Gfr",
+   "pets": [
+    "Georgie"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 24",
+     "source": "Time To Pet care note update - Tiarra Roberts",
+     "office": false,
+     "note": "Heat rule for Georgie: over 75 degrees, cap outside time at 20 minutes. Put the orange velcro cooling collar (kept in the kitchen freezer) on before the walk and slip the harness over it; if he is still panting afterwards, leave the collar on. In extreme summer heat, visits should land 8am-10am.",
+     "quote": "When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 17",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "Over 75 degrees Georgie's walk is capped at 20 minutes with the orange cooling collar from the freezer worn under the slip harness.",
+     "quote": "When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 17",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "The care record flags Georgie as an escape risk, which is why the garage door is closed before entry and during walks.",
+     "quote": "Georgie is an escape artist."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Monica Hopewell",
+     "office": false,
+     "note": "Stool a little loose on the Aug 27 morning walk; sitter marked it not concerning.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Michelle Atkins",
+     "office": false,
+     "note": "A guest, Cousin Pam, and a dog called Tilly are at the house from Aug 26 and still there Aug 27. Georgie did well with Tilly. Length of stay not given.",
+     "quote": "I brought the mail in and got introduced to Cousin Pam and little Tilly."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Client",
+     "office": false,
+     "note": "The client arranged a pest control spray of the yard perimeter, though a later message the same day said the company cannot come until the following Friday.",
+     "quote": "I have a pest control co coming on Friday to spray the perimeter of the yard."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Aug 24",
+     "source": "Time To Pet care note update - Tiarra Roberts",
+     "office": false,
+     "note": "Standing house tasks: bring the mail in every visit; Wednesday take the trash and recycling bins to the curb; Thursday bring them back and set them near the stairs inside the garage. Close the garage door on the way in, during the walk, and on the way out.",
+     "quote": "Wednesday: take trash and recycling bins to curb"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Client",
+     "office": false,
+     "note": "Toads in the yard from about 5pm are pushing Georgie's bedtime walk later than usual.",
+     "quote": "Now that the toads are coming in the yard at 5 pm, he has to wait a few hours for his bedtime walk."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Yasmeen Abrams",
+   "url": "https://www.timetopet.com/dashboard/client/sraaoqSfFtql",
+   "pets": [
+    "Evee"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Client care-note update for pet Evee",
+     "office": false,
+     "note": "Owner's stated leash preference for Evee: choke collar and rope leash (harness available if the sitter prefers). Poop bags by the door on the purple harness. If it rains, her outfits are in the blue bucket by the shoe rack.",
+     "quote": "I prefer choke collar and rope leash she’s pretty good with that"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 20",
+     "source": "Ashley Corall",
+     "office": false,
+     "note": "Evee is loose in the house when sitters walk in, so the door must be opened carefully.",
+     "quote": "Evee will be loose when entering so be careful!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Client care-note update for pet Evee",
+     "office": false,
+     "note": "Feeding updated by owner: 6-9am, 11-1pm, 5/6pm. Three cups dry kibble a day, kibble now kept by the food bowl (previously by the TV). Pure pumpkin, 1/3 can from the fridge, mixed with a splash of water. Treats above the fridge - do not leave food out, she will get into it.",
+     "quote": "3x cup dry kibble a day (by food bowl)"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Client message",
+     "office": false,
+     "note": "Package expected out front that the owner asked to be brought inside. She described the contents as tattoo needles, so handle with care.",
+     "quote": "There’s a package that’ll be out front that needs to be brought in."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Client message",
+     "office": true,
+     "note": "Client asked for a same-day extra visit for Evee on short notice. No reply visible in the mail sweep - confirm whether this was covered.",
+     "quote": "Can anyone do a last min visit for Evee? for me sorry for the short notice"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 24",
+     "source": "Client message",
+     "office": false,
+     "note": "Owner says she is actively working on Evee's leash reactivity - barking and lunging at people while walking - and prefers a collar over a muzzle for it. She reports Evee did well on a recent outing.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 20",
+     "source": "Client",
+     "office": false,
+     "note": "Standing house rules: shoes off, leave the AC on as it runs on a timer, and leave the ceiling fan on with the living room light off.",
+     "quote": "The ceiling fan should be on, but make sure the light is turned off the switch is by the dog food"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Client message",
+     "office": false,
+     "note": "Owner cancelled the grocery order she had mentioned; if there is no spring water in the fridge, tap water is fine.",
+     "quote": "Groceries are not coming canceled order if there’s no water it’s fine tap"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Regina Mathews",
+   "url": "https://www.timetopet.com/dashboard/client/sh3cwzRH7YkD",
+   "pets": [
+    "Milo",
+    "India",
+    "Lila"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Client message",
+     "office": true,
+     "note": "Client asked to push Thursday Aug 27's visit later - her landscaper is due at the usual time and the dogs could not go out. She suggested between 1 and 2. Needs the scheduler updated.",
+     "quote": "A later time such as between 1 and 2 would be ok"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Tiarra Roberts profile update",
+     "office": false,
+     "note": "Gate check widened from side gate only to side AND back gate before the dogs go out. Safety item.",
+     "quote": "Check side, back gate is CLOSED (left corner) before letting them out"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Client-added general information, updated in Time To Pet Aug 26",
+     "office": false,
+     "note": "Client instruction, restated in capitals: shut the kennel door immediately after letting a dog out so the others cannot steal the bone or toy. Baby wipes for after a bowel movement are on top of the microwave.",
+     "quote": "CLOSE THE KENNEL DOORS AS SOON AS YOU LET THEM OUT, SO THE OTHER DOGS DON'T STEAL THEIR BONE/TOY."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Pet care note updated by Tiarra Roberts, Aug 26",
+     "office": false,
+     "note": "Lila and India are kept apart at the start of the visit because they are very high energy together. Milo can be out with either girl; all three go out together towards the end of the visit. Put each girl back on the same side of the kennel she was in.",
+     "quote": "They are very high energy together."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Tiarra Roberts profile update",
+     "office": false,
+     "note": "Client instruction in capitals: wipe with a baby wipe after a bowel movement. Wipes on top of the microwave.",
+     "quote": "WIPE BUTT WITH BABY WIPE (ON TOP OF MICROWAVE) AFTER HAVING A BOWEL MOVEMENT."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Tiarra Roberts profile update",
+     "office": false,
+     "note": "No walks at this house, backyard potty only. Contractors may be in the home - work around them.",
+     "quote": "No walks — backyard potty only"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Tiarra Roberts",
+     "office": true,
+     "note": "Poop bags nearly out - three left on the roll. Restock request needed.",
+     "quote": "Only 3 bags left on the roll of poop bags."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Client message",
+     "office": true,
+     "note": "Milo was away with the client but she says he will be back at the house on Thursday.",
+     "quote": "Sorry forgot to mention Milo is with me. He will definitely be there on Thursday."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": true,
+     "note": "The client asked Friday afternoon whether a 30 minute drop-in around noon on Saturday is possible, and it still needs confirming.",
+     "quote": "Are you available tomorrow for a 30 minute drop in around noon?"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 18",
+     "source": "Client",
+     "office": false,
+     "note": "The vet thinks a spot a sitter flagged may be the start of allergies and a second was found on India; the message does not say which dog the first is on.",
+     "quote": "she said she might be starting to developing allergies. Found one on India too."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Aug 25",
+     "source": "Client message",
+     "office": false,
+     "note": "Client notes the dogs have several collars and she rotates them onto the charger, so the collar a dog is wearing may change between visits.",
+     "quote": "The dogs have multiple collars. I'm charging their GPS collars."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 20",
+     "source": "Client",
+     "office": false,
+     "note": "Milo was away for the day, leaving only India and Lila at home.",
+     "quote": "Milo is not at home today"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Christina Palmieri",
+   "url": "https://www.timetopet.com/dashboard/client/t22og1KAth8h",
+   "pets": [
+    "Bismark"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "client private message",
+     "office": true,
+     "note": "Asked for Friday Aug 28 8-9pm and Saturday Aug 29 8-10am. No office confirmation in the mailbox - check the scheduler.",
+     "quote": "we can do the 8-9 pm time frame on Friday August 28 and then on Saturday morning the 29th 8-10am ish?"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 17",
+     "source": "Client",
+     "office": false,
+     "note": "The client warned that Bis has been anxious and heat-affected, may refuse to walk at all, and had chewed the door.",
+     "quote": "Bis has been anxious lately and hot, he may not walk. You’ll see he chewed the door"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "client private message",
+     "office": false,
+     "note": "Saturday Aug 29 morning: feed two scoops of dry kibble. Client warns he will not eat unless she or Patrick is home. She will leave a note and the kibble bin out.",
+     "quote": "you can feed him two scoops of his dry kibble in his bowl"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "client private message",
+     "office": false,
+     "note": "Sitter need not stay the whole Friday night visit - just check he is okay. Both owners are on nights.",
+     "quote": "She doesn't have to stay the whole time Friday night either more just make sure he's okay."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Faith Collins",
+     "office": false,
+     "note": "Aug 26 late-evening visit: Bismark refused to walk and lay in the grass. Sitter new to him recorded him as anxious.",
+     "quote": "He didn't want to walk and just layed in the grass."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Judy Steele",
+   "url": "https://www.timetopet.com/dashboard/client/tfplzpQ2jXbp",
+   "pets": [
+    "Eddie"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Shannon Anderson visit report to client, Aug 26 afternoon",
+     "office": true,
+     "note": "The sitter's Aug 26 afternoon report describes it as Eddie's last afternoon visit with us. The report does not say whether the whole service is ending or only this block of visits - confirm with Judy before changing the schedule.",
+     "quote": "I came for Eddie's last afternoon visit with us."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": false,
+     "note": "The client reported mid-morning Friday that Eddie was still not eating and put it down to tiredness.",
+     "quote": "Eddie still not eating"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 20",
+     "source": "Client",
+     "office": false,
+     "note": "Fresh cheese and broth were left out for the next day, which the client uses to get Eddie to eat.",
+     "quote": "there is new cheese and broth for tomorrow"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Jessica Shouldis",
+   "url": "https://www.timetopet.com/dashboard/client/tch4bioEqKMz",
+   "pets": [
+    "Astra",
+    "Nova"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Michelle Carrara",
+     "office": false,
+     "note": "A sitter message indicates Astra got out and was found quickly that morning; the circumstances are not described in the email.",
+     "quote": "I am glad that Astra is back and that you found her quickly."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 17",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "The client is home and hands the leash over at the front door, the doorbell does not work so knock, and only one dog is walked at a time.",
+     "quote": "Client will be home, leash hand off at the front door."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Ashley Gullett",
+   "url": "https://www.timetopet.com/dashboard/client/sud30hb6RA15",
+   "pets": [
+    "Nova"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Client",
+     "office": false,
+     "note": "There is a new puppy in the household staying with the client's parents overnight, and the gate a sitter noticed was left open for Nova on purpose.",
+     "quote": "We actually got a new puppy that is staying with my parents overnight."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Marcella Singer",
+   "url": "https://www.timetopet.com/dashboard/client/th3gltTsS3FF",
+   "pets": [
+    "Buttercup",
+    "Simba"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 17",
+     "source": "Client",
+     "office": false,
+     "note": "The client had already fed the cats and given Buttercup her insulin before the sitter arrived.",
+     "quote": "Good just fed them & gave Buttercup insulin."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 17",
+     "source": "Client",
+     "office": false,
+     "note": "The client asked to be texted on arrival in the driveway.",
+     "quote": "Text when you are in drivrway."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Charlene Szunyog",
+   "url": "https://www.timetopet.com/dashboard/client/tb8ce9sIyUu2",
+   "pets": [
+    "Murphy",
+    "Macy"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 20",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "Murphy is walked for weight loss, so the care note asks sitters to keep him moving rather than stopping to sniff.",
+     "quote": "Please hurry him along if he starts to stop and sniff."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 20",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "The second dog in the home can react to other dogs by barking and pulling.",
+     "quote": "Macy can be dog reactive (barking and pulling)"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Diane Hoard",
+   "url": "https://www.timetopet.com/dashboard/client/sjd1u10bl6wi",
+   "pets": [
+    "Mac"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Client",
+     "office": true,
+     "note": "An extra evening visit was agreed for Saturday Aug 22 at 5:00pm so Mac gets fed while the family is out.",
+     "quote": "5:00pm is great! I'll have his food in his bowl covered with saran wrap on the island counter."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 17",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "Standing tasks for Mac: leave the white wooden front blinds open and note the second water bowl is now outside.",
+     "quote": "PLEASE ENSURE WOODEN WHITE FRONT BLINDS ARE OPEN FOR MAC TO LOOK OUT - 2ND WATER BOWL NOW ON PATIO IN THE BACKYARD"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Client",
+     "office": false,
+     "note": "A sitter flagged something about Mac's lip and the client said she would look at it at home; no follow-up appears this week.",
+     "quote": "Thanks for letting me know about his lip. I will check it out when I get home!"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Kristin Brewer",
+   "url": "https://www.timetopet.com/dashboard/client/tc20pmTqd1tc",
+   "pets": [
+    "Oliver",
+    "Daff"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 20",
+     "source": "Kathy Sullenberger",
+     "office": false,
+     "note": "A sitter confirmed she will watch for lawn-chemical warning signs; the client's original caution is not in this thread.",
+     "quote": "I will be aware of the yard chemical signs."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Derek Heussner",
+   "url": "https://www.timetopet.com/dashboard/client/t6lzw869V7Kg",
+   "pets": [
+    "Ginger"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 23",
+     "source": "Client message",
+     "office": false,
+     "note": "Client was away for the weekend and said they would be back home the evening of Aug 23.",
+     "quote": "Thank you for taking care of Ginger this weekend! We will be back this evening"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Matt Konn",
+   "url": "https://www.timetopet.com/dashboard/client/t5w537Rv22EF",
+   "pets": [
+    "Ripley"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 24",
+     "source": "Client message",
+     "office": false,
+     "note": "Client reported Ripley had not gone #2 that morning and had a bad accident in the basement on Saturday night during thunderstorms. He asked that she be walked long enough to go.",
+     "quote": "She just ate…and no #2 this morning."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 23",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client is out of town Aug 26-31 and gave visit windows: morning 7:30-9 and afternoon 1-4, both walk/play/water with no feeding. He later confirmed normal visit lengths, no time bump needed.",
+     "quote": "Morning visit: 7:30-9. Walk/play/Water (no feed)"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Monica Hopewell",
+     "office": false,
+     "note": "Waste bag dispenser on Ripley's leash was empty; the walk was interrupted to fetch bags from the car. Still needs refilling.",
+     "quote": "I forgot to refill the doggy bags on her leash and I didn't have my bag"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Client message via Time To Pet",
+     "office": true,
+     "note": "Client says he walked Ripley himself this morning before leaving for the airport and that his daughter is at the house. Worth checking against the Aug 26-31 visit windows in case someone is home for part of them.",
+     "quote": "No problem - walked this morning before going to airport! My daughter is there."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Helyn Cobourn",
+   "url": "https://www.timetopet.com/dashboard/client/tbhykuNe4wj5",
+   "pets": [],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 23",
+     "source": "Client message",
+     "office": true,
+     "note": "Client is pausing service for at least a month - cancel all of September, revisit at the start of October. Recurring template still shows Tues/Thurs midday visits, so the schedule needs clearing.",
+     "quote": "Cancel all of September. Maybe check back beginning of oct."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Brandy Harkless",
+   "url": "https://www.timetopet.com/dashboard/client/sw005dNkLI84",
+   "pets": [
+    "Xander",
+    "Xara",
+    "Jaxon",
+    "Lennyx"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Visit report - Monica Hopewell",
+     "office": false,
+     "note": "Xander bit the sitter's toe repeatedly while she was preparing food - playful rather than aggressive, but it made dishing up awkward. One report, not yet an established pattern.",
+     "quote": "Xander went full blown biting on that toe, all while purring and looking cute."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Visit report - Monica Hopewell",
+     "office": true,
+     "note": "Wet food is out - the sitter used the last can of fish and shrimp and flagged supplies as running low. Owner likely needs a heads-up.",
+     "quote": "I used the last can of fish and shrimp today."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 23",
+     "source": "Client message",
+     "office": false,
+     "note": "Client left the kitchen light on and asked that all lights be switched off after the last visit of the day.",
+     "quote": "can someone make sure all the lights are off tonight after they leave please"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Lance Hoffman",
+   "url": "https://www.timetopet.com/dashboard/client/shkf2uFNNTcY",
+   "pets": [
+    "Marlo",
+    "Franki",
+    "Sammy"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 24",
+     "source": "Time To Pet care note update - Tiarra Roberts",
+     "office": false,
+     "note": "Dogs stay in the utility room when unattended - gate up and door shut. Walk the property only, not the neighborhood. All of them are strong pullers.",
+     "quote": "THEY ARE ALL VERY STRONG AND WILL PULL."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 24",
+     "source": "Time To Pet care note update - Tiarra Roberts",
+     "office": false,
+     "note": "They eat three times a day (am, midday, evening) in the utility room - portioned bags in the refrigerator or on the kitchen island, rice/chicken plus kibble in each bowl. Treats in the utility room cabinet. Water bowls in laundry room and kitchen.",
+     "quote": "NO NEED TO PICK UP THE #2'S. WATCH OUT FOR DEER POOP IN BACK YARD FIELD."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Vicki Davey",
+   "url": "https://www.timetopet.com/dashboard/client/tb8gm56xpPN3",
+   "pets": [
+    "Trudy"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 23",
+     "source": "Client message",
+     "office": false,
+     "note": "For the Aug 23 visit the client said the front door would be left open and Trudy would most likely be in the kitchen. One-off note for that visit, not confirmed as a standing arrangement.",
+     "quote": "The front door will be open Trudy probably will be in the kitchen"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Jennifer Peganoff",
+   "url": "https://www.timetopet.com/dashboard/client/t3gujwuaXaSe",
+   "pets": [
+    "Bella"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 23",
+     "source": "Client message",
+     "office": false,
+     "note": "Visits are at the client's mother's house. She warned that her mother may still be asleep at a 9:00 arrival.",
+     "quote": "I told my mom 9:00. She may not be awake yet"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Paulo Garcia",
+   "url": "https://www.timetopet.com/dashboard/client/t1ptbvQbaKQx",
+   "pets": [
+    "Milo",
+    "Archer"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Client message via Time To Pet",
+     "office": false,
+     "note": "Client says the dogs will be shut in the basement for today's visit because cleaners are at the house.",
+     "quote": "The dogs will be in the basement since the cleaners will be here today."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Alex Miller visit report",
+     "office": false,
+     "note": "Milo's stool on the Aug 26 walk was soft and green; the sitter thought it was probably from eating plants and recorded it as not concerning. Archer's was firm and healthy.",
+     "quote": "His stool was a little soft and green, but not concerning"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Craig Wells",
+   "url": "https://www.timetopet.com/dashboard/client/tka05egw7o0m",
+   "pets": [
+    "Octavia"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Margaret Bill profile update",
+     "office": true,
+     "note": "Medication changed from None to medicated pads for Octavia's mouth, one per side. No frequency or time of day is given anywhere - the office should add one.",
+     "quote": "Medicated pads for around her mouth 1 for each side of mouth. Wipe hard"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Visit report from Margaret Bill",
+     "office": false,
+     "note": "Octavia barked at the sitter knocking on arrival, and on the way out started to bolt toward a chipmunk but stopped when told no.",
+     "quote": "She did not however , like me knocking and barked."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Margaret Bill profile update",
+     "office": true,
+     "note": "Supplement went from 2 3/4 to 3 1/4 spoons, spelling changed from Body guard to Buddy guard. Same product assumed, NOT confirmed.",
+     "quote": "Dry , Buddy guard 3 1/4 spoons sprinkled on food"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Margaret Bill profile update",
+     "office": true,
+     "note": "Feeding times say no Buddy Guard or WinPro; feeding instructions still say to add it and give 3 WinPro at breakfast. Together that means breakfast only - needs rewriting.",
+     "quote": "Feeding times: Morning, Bedtime No Buddy Guard or WinPro"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Visit report from Margaret Bill",
+     "office": false,
+     "note": "On this visit Octavia was fed with a supplement on top of the food mixed with water, then given Winpro, and her lower lip area was cleaned with medicated pads. Reported once, so treat as what happened on the day rather than a confirmed standing routine.",
+     "quote": "giving her supplement on top of a food and mixing it with water"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Visit report from Margaret Bill",
+     "office": false,
+     "note": "The visit report records the client at home during the visit and asking that the door not be locked.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Lynne Reno",
+   "url": "https://www.timetopet.com/dashboard/client/td564czOhImO",
+   "pets": [
+    "Holly"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Visit report from Dan Dantimo",
+     "office": false,
+     "note": "Holly's usual evening walk runs toward Gatestone and on to the first cul de sac; on this visit she kept a good pace and did not sniff much.",
+     "quote": "She walked quickly to Gatestone to get some sniffs in to start out our walk."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Visit report from Dan Dantimo",
+     "office": false,
+     "note": "Holly's stool on the Aug 25 evening walk was recorded as a little loose but not concerning.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Visit report from Dan Dantimo",
+     "office": false,
+     "note": "The client was home for the Aug 25 evening visit, so the sitter did not go into the house.",
+     "quote": "Client was home during visit"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Mandy Schlabach",
+   "url": "https://www.timetopet.com/dashboard/client/ti46lag7zris",
+   "pets": [
+    "Oliver"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Tiarra Roberts profile update",
+     "office": false,
+     "note": "Standing rule in the company notes, in capitals. Oliver hides under the couch or behind the bed.",
+     "quote": "DO NOT PET Oliver"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Pet care note updated by Tiarra Roberts, Aug 26",
+     "office": false,
+     "note": "Care note now asks sitters to check the fridge before opening a new can of wet food and to use already-opened cans first.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Tiarra Roberts profile update",
+     "office": false,
+     "note": "New standing task in the care note. Pad is in the front room by the windows.",
+     "quote": "Reprogram Oliver's heating pad at each visit for 95 degrees at 12 hours"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Tiarra Roberts profile update",
+     "office": false,
+     "note": "Fill the water cups by the couch to the brim - easier for Oliver to drink.",
+     "quote": "please make sure to fill the cups of water, by the couch, to the brim for Oliver"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Anna Caraboolad",
+   "url": "https://www.timetopet.com/dashboard/client/sqggyt42GjUG",
+   "pets": [
+    "Oakley"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 22",
+     "source": "Pet care note updated by Tiarra Roberts",
+     "office": false,
+     "note": "Oakley may hide upstairs on arrival; if he does not come down to greet you, check the bedroom.",
+     "quote": "Oakley might be hiding upstairs, if he does not come down for you please look in bedroom"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Ray Koesel",
+   "url": "https://www.timetopet.com/dashboard/client/t90xdq8K3BOC",
+   "pets": [
+    "Archie"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "The Aug 25 and Aug 26 visit reports both record the client at home during the visit and asking that the door not be locked.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Deb Ward",
+   "url": "https://www.timetopet.com/dashboard/client/t75x2er0pUO0",
+   "pets": [
+    "Guinness"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Dan Dantimo",
+     "office": false,
+     "note": "Met a dachshund the sitter judged too mean to let Guinness play with. Implied they have met before; location not given.",
+     "quote": "Guinness wanted to play but that dog was too mean"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Dan Dantimo",
+     "office": false,
+     "note": "Chased deer near the Commons and was very excitable on this walk - keep a firm leash on that route.",
+     "quote": "Guinness did some deer chasing as he made sure that they ran and hide"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Guinness's stool was recorded as a little loose on the Aug 25 visit, and as a little loose on Aug 24 as well - two days running.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Dan Dantimo visit reports, Aug 24 and Aug 25",
+     "office": false,
+     "note": "Both reports record the client at home during the visit and asking that the door not be locked.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Roseann Fekete",
+   "url": "https://www.timetopet.com/dashboard/client/thgqk4u5BuQb",
+   "pets": [
+    "Muffy"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Muffy is excitable at the start of a walk and is still learning leash manners; the sitter worked on heel and sit and said she is improving.",
+     "quote": "She's getting better on a leash"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 19",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "The report records the client at home during the visit and asking that the door not be locked.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Test Visit 2",
+   "url": "https://www.timetopet.com/dashboard/client/srqw22fRGbDp",
+   "pets": [
+    "Axel",
+    "Hazel"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Julie Smith",
+     "office": true,
+     "note": "A real Aug 26 visit ran under a client record named Test Visit 2 - Julie Smith walked Axel and Hazel and addressed the client as Linda. Office should find the real account.",
+     "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Marcia Ontell",
+   "url": "https://www.timetopet.com/dashboard/client/t0n1b1pKU8GY",
+   "pets": [
+    "Freddy"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 21, 2026",
+     "source": "Jade Popovitz",
+     "office": false,
+     "note": "Freddy is a cat who greets sitters at the door and stays nearby. Vocal, waits close by for his food.",
+     "quote": "He greeted us at the door before we started cleaning his litter."
+    }
+   ],
+   "dormant": false
+  }
+ ]
+}
