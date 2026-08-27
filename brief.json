@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T13:35:05-04:00",
+ "generated": "2026-08-27T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -41,6 +41,16 @@
      "quote": "You do not have to give her any meds tonight or tomorrow night."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Kelly Huntington",
+     "office": false,
+     "note": "Caleb refused or picked at his canned food at the last two feedings. Livvie by contrast has been eating well.",
+     "quote": "Unfortunately Caleb decided to be fussy with the canned food last night and this morning!"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -69,6 +79,16 @@
      "office": false,
      "note": "Caleb had gabapentin before his calcium retest, so the client warned he may still be groggy.",
      "quote": "He had Gabapentin before his visit so he may still be a little loopy"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Kelly Huntington",
+     "office": false,
+     "note": "Vet called Aug 27 morning: bloodwork for both Caleb and Livvie came back normal. Follows Livvie's illness and weight loss earlier in the month.",
+     "quote": "Vet called this morning. Caleb and Livvies bloodwork came back normal!"
     }
    ],
    "dormant": false
@@ -108,6 +128,16 @@
      "office": false,
      "note": "Rusty vomited several times Friday morning and the client asked sitters to watch for it and swap her blanket for a towel if it recurs.",
      "quote": "rusty threw up a few times this morning, so watch out for that"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Elizabeth Sigler",
+     "office": false,
+     "note": "A stray black cat was in the yard before the visit. The sitter herded it out through a crack in the gate to avoid a run-in with the dogs; the gate itself is secured closed.",
+     "quote": "I herded her through the crack in the gate (which is secured closed) so that we could avoid the possibility of an altercation."
     },
     {
      "cat": "health",
@@ -213,6 +243,16 @@
      "office": false,
      "note": "The client reports crystals found in the urine with an X-ray booked for 9am Monday; the message does not name the pet, though the thread concerns Gordy's urine sample.",
      "quote": "I found out he has crystals in his pee."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Kathy Pastor",
+     "office": false,
+     "note": "Gordy's stool was a little loose again on the Aug 27 morning walk, marked not concerning - second consecutive day after the same finding Aug 26.",
+     "quote": ""
     },
     {
      "cat": "health",
@@ -441,6 +481,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Aug 27",
+     "source": "Kiara Streety",
+     "office": true,
+     "note": "Aug 27 afternoon: Ellie Mae was leashed and walked with Chloe, against the standing instruction that her vet asked her walking be minimised. She cut it short and went back inside after #2; Chloe finished alone. Sitter needs telling.",
+     "quote": "I came in and was approached by Ellie Mae she followed me to get Chloe leashed them both up and went on our walk."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Aug 19",
      "source": "Client",
      "office": false,
@@ -519,6 +569,16 @@
      "quote": "they are almost out of water and there's no paper towels like I said earlier."
     },
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 27",
+     "source": "Nicole Allen",
+     "office": true,
+     "note": "Client set a notification threshold after not being warned supplies were low: tell her before there is only one meal or six bottles of water left. She has now restocked toppers and water.",
+     "quote": "Please let me know before there is only 1 meal left or 6 bottles of water."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "standing",
@@ -571,6 +631,26 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "standing",
+     "date": "Aug 27",
+     "source": "Nicole Allen",
+     "office": false,
+     "note": "Troup's current food topper is rice and bison, with fresh sweet potatoes in his fridge. Updates the earlier chicken-and-rice note.",
+     "quote": "Troup has fresh sweet potatoes in his fridge. The current topper is rice and bison."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 27",
+     "source": "Nicole Allen",
+     "office": false,
+     "note": "Client states Topp is taken out often but still soils his crate, so a crate accident is expected rather than a one-off.",
+     "quote": "Topp goes out often but continues to potty in his crate."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "recent",
      "date": "Aug 26",
      "source": "Josh Stone visit report",
@@ -597,36 +677,6 @@
      "office": false,
      "note": "Aug 26 evening: Topp went #2 in his crate while the sitter walked Troup. Stool logged as firm.",
      "quote": "He did go number two in his crate while I was out with Troup on his second walk"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 24",
-     "source": "Visit report - Noella",
-     "office": false,
-     "note": "Topp had an indoor accident at the morning visit and the sitter cleaned him up. Related to the late-morning arrival the client flagged the same day.",
-     "quote": "Topp had an accident this morning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": false,
-     "note": "Troup is moving back to regular meals: chicken and rice from the black outdoor fridge over kibble at breakfast, dry food only at the next meal.",
-     "quote": "Troup’s food needs to be adjusted."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": false,
-     "note": "The scoop in Troup's bucket is oversized, so the client asked sitters to cut the number of scoops.",
-     "quote": "You can reduce to 2 1/2 scoops or 2 whichever has the bowl over half full."
     }
    ],
    "dormant": false
@@ -1059,6 +1109,16 @@
      "office": false,
      "note": "Aug 26 late-evening visit: Bismark refused to walk and lay in the grass. Sitter new to him recorded him as anxious.",
      "quote": "He didn't want to walk and just layed in the grass."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Christina Palmieri",
+     "office": false,
+     "note": "For the weekend visits the client will leave a note out and pull the kibble bin forward so everything is together.",
+     "quote": "I’ll leave a note and pull out the kibble bin so it’s all right there"
     }
    ],
    "dormant": false
@@ -1125,11 +1185,41 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Aug 26",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "Aug 26 profile rewrite adds a walking route rule: stay inside the Spyglass Hill development instead of 130th Street. Relevant given the Aug 19 report that Astra got out.",
+     "quote": "Walk inside the Spyglass Hill housing development, much quieter streets than 130th Street"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Aug 17",
      "source": "Tiarra Roberts",
      "office": false,
      "note": "The client is home and hands the leash over at the front door, the doorbell does not work so knock, and only one dog is walked at a time.",
      "quote": "Client will be home, leash hand off at the front door."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "Waste disposal rule, newly specific in the Aug 26 rewrite: terra cotta coloured plastic flower pot in front of the garage.",
+     "quote": "Used poop bags can be thrown into terra cotta colored plastic flower pot in front of garage"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "standing",
+     "date": "Aug 26",
+     "source": "Tiarra Roberts",
+     "office": true,
+     "note": "Summer morning arrival window is 8:30am-9:30am. The rewrite dropped the word preferred, so it may now be a firm window - worth confirming with the client.",
+     "quote": "Morning visit arrival times in summer 8:30am-9:30am"
     }
    ],
    "dormant": false
@@ -1343,6 +1433,16 @@
      "office": true,
      "note": "Client says he walked Ripley himself this morning before leaving for the airport and that his daughter is at the house. Worth checking against the Aug 26-31 visit windows in case someone is home for part of them.",
      "quote": "No problem - walked this morning before going to airport! My daughter is there."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Monica Hopewell",
+     "office": false,
+     "note": "Ripley went #1 only on the Aug 27 morning visit, no bowel movement. Worth tracking against the Aug 24 report of no #2 and a basement accident.",
+     "quote": "She only went number 1 This morning"
     }
    ],
    "dormant": false
@@ -1489,6 +1589,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Jade Popovitz",
+     "office": false,
+     "note": "Milo got into the cat's treats and the sitter had to block him so the cat could eat.",
+     "quote": "Milo ate the cats treats. So I tried again but defended the cat from Milo"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -1515,7 +1625,8 @@
    "name": "Craig Wells",
    "url": "https://www.timetopet.com/dashboard/client/tka05egw7o0m",
    "pets": [
-    "Octavia"
+    "Octavia",
+    "Octavia Lovely Wells"
    ],
    "items": [
     {
@@ -1527,6 +1638,16 @@
      "office": true,
      "note": "Medication changed from None to medicated pads for Octavia's mouth, one per side. No frequency or time of day is given anywhere - the office should add one.",
      "quote": "Medicated pads for around her mouth 1 for each side of mouth. Wipe hard"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Margaret Bill",
+     "office": false,
+     "note": "Aug 27 morning shows how the changed routine was carried out - Buddy Guard sprinkled on the food and made into a gravy with water, and the creases of Octavia's mouth cleaned. Does not resolve the missing frequency for the medicated pads.",
+     "quote": "including sprinkling the buddy guard on her food and making a gravy with water"
     },
     {
      "cat": "behavior",
@@ -1828,6 +1949,76 @@
      "office": false,
      "note": "Freddy is a cat who greets sitters at the door and stays nearby. Vocal, waits close by for his food.",
      "quote": "He greeted us at the door before we started cleaning his litter."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Megan Nickoli",
+   "url": "https://www.timetopet.com/dashboard/client/thgbb5Cx2E95",
+   "pets": [
+    "Aayla"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Josh Stone",
+     "office": false,
+     "note": "Backfill - nothing was on file for this client. Aayla wanted ball play before going outside and the sitter did that first; recorded as one visit, not a confirmed rule.",
+     "quote": "She wanted me to play ball with her before going out so we did that first."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Josh Stone",
+     "office": false,
+     "note": "Sitter kept Aayla at a distance from two Boston terriers on the walk rather than letting her greet them; the email does not say whether that is a client rule.",
+     "quote": "We saw a couple of Boston terriers out today! We kept our distance"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Josh Stone",
+     "office": false,
+     "note": "Warm day, so the sitter took a shade break mid-walk. Heat sensitivity is not stated in the email, only the sitter's precaution.",
+     "quote": "It was a tad warmer so did take a little shade break."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Lacey Govil",
+     "office": false,
+     "note": "Aayla had shredded a toy and left stuffing over the bed; the sitter cleaned up most of it.",
+     "quote": "I noticed she must have got into one of her toys because there was stuffing all over the bed."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Josh Stone",
+     "office": false,
+     "note": "Sitter describes the walk as a scavenger-hunt loop around the apartment complex, phrased as the usual route.",
+     "quote": "We did our scavenger hunt walk around the complex."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 25",
+     "source": "Josh Stone",
+     "office": false,
+     "note": "Sitter brought two delivered packages inside during the visit.",
+     "quote": "I brought in two packages"
     }
    ],
    "dormant": false
