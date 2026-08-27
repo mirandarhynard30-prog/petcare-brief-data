@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T15:20:06-04:00",
+ "generated": "2026-08-27T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -971,6 +971,16 @@
      "quote": "I grabbed Lila out first since last week when I met her she seemed pretty high energy"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Milo's stool on the Aug 27 afternoon visit was logged as a little loose but not concerning. Lila and India were both recorded with no bowel movement on the same visit.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -1049,16 +1059,6 @@
      "office": false,
      "note": "The vet thinks a spot a sitter flagged may be the start of allergies and a second was found on India; the message does not say which dog the first is on.",
      "quote": "she said she might be starting to developing allergies. Found one on India too."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Aug 25",
-     "source": "Client message",
-     "office": false,
-     "note": "Client notes the dogs have several collars and she rotates them onto the charger, so the collar a dog is wearing may change between visits.",
-     "quote": "The dogs have multiple collars. I'm charging their GPS collars."
     }
    ],
    "dormant": false
@@ -1958,6 +1958,16 @@
      "office": false,
      "note": "Muffy is in a new collar and leash. She heels well when rewarded with a treat.",
      "quote": "We worked on her heeling a number of times and she did very well with a treat reward"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 26",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Muffy's stool on the Aug 26 evening walk was logged as a little loose but not concerning. The sitter also took a water break on a long, quick-paced route.",
+     "quote": ""
     },
     {
      "cat": "behavior",
