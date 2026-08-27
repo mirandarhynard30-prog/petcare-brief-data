@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T14:20:06-04:00",
+ "generated": "2026-08-27T15:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -181,6 +181,16 @@
      "office": false,
      "note": "Louie has a Saturday vet appointment about his hips and has been unusually grumpy with the other dogs all week.",
      "quote": "Louie has a vet appointment this Saturday for his hips. He has been extra grumpy with all the dogs this past week"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Thomas Rakovec visit report, Aug 27",
+     "office": false,
+     "note": "Aug 27 visit logs Emma's drops given, pee pads checked and a diaper on Berry as part of the routine. Medication was marked administered for Emma.",
+     "quote": "Emma's drops ...p pads ok ...diaper on Berry"
     },
     {
      "cat": "health",
@@ -953,6 +963,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Monica Hopewell visit report, Aug 27",
+     "office": false,
+     "note": "Monica took the dogs out separately rather than together because Lila had seemed high energy the previous week. India wanted to come straight back inside, so Lila went back out with her.",
+     "quote": "I grabbed Lila out first since last week when I met her she seemed pretty high energy"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Aug 26",
      "source": "Client-added general information, updated in Time To Pet Aug 26",
@@ -1039,16 +1059,6 @@
      "office": false,
      "note": "Client notes the dogs have several collars and she rotates them onto the charger, so the collar a dog is wearing may change between visits.",
      "quote": "The dogs have multiple collars. I'm charging their GPS collars."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 20",
-     "source": "Client",
-     "office": false,
-     "note": "Milo was away for the day, leaving only India and Lila at home.",
-     "quote": "Milo is not at home today"
     }
    ],
    "dormant": false
@@ -1253,6 +1263,36 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Client message, Aug 27",
+     "office": true,
+     "note": "Client asked to pause dog walking until after Labor Day. No decision has been sent back to her yet.",
+     "quote": "Can we just wait till after Labor Day.??"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Client message, Aug 27",
+     "office": true,
+     "note": "Cancelled again for today, meeting a painter after 5. She says she has meetings every day plus preparing for company.",
+     "quote": "Sorry to have to cancel again. Meeting with painter after 5."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Robin Lewis to client, Aug 27",
+     "office": true,
+     "note": "Robin told the client she would check with Miranda about the Labor Day pause. Still open on the office side.",
+     "quote": "let me get with Miranda on it."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1423,6 +1463,16 @@
      "office": false,
      "note": "Waste bag dispenser on Ripley's leash was empty; the walk was interrupted to fetch bags from the car. Still needs refilling.",
      "quote": "I forgot to refill the doggy bags on her leash and I didn't have my bag"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Kristin Ashick visit report, Aug 27",
+     "office": false,
+     "note": "Ripley baulked at the start of the walk. Kristin gave belly scratches, then stood beside her in the shade and ignored her, and Ripley was ready to go about four or five minutes later.",
+     "quote": "she was pretty stubborn for the first bit of the walk"
     },
     {
      "cat": "schedule",
@@ -1713,6 +1763,16 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Aug 26",
+     "source": "Dan Dantimo visit report, Aug 26",
+     "office": false,
+     "note": "Holly read as needing to burn off energy, so Dan walked her down the first cul-de-sac and back with a water break. Client was home during the visit.",
+     "quote": "I did want to get her to walk more as it seemed that she needed to get some energy out"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Aug 25",
      "source": "Visit report from Dan Dantimo",
      "office": false,
@@ -1893,6 +1953,16 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Aug 26",
+     "source": "Dan Dantimo visit report, Aug 26",
+     "office": false,
+     "note": "Muffy is in a new collar and leash. She heels well when rewarded with a treat.",
+     "quote": "We worked on her heeling a number of times and she did very well with a treat reward"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Aug 19",
      "source": "Dan Dantimo visit report",
      "office": false,
@@ -1940,6 +2010,16 @@
     "Freddy"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Kiara Streety visit report, Aug 27",
+     "office": false,
+     "note": "Marcia was home and a house cleaner was working in the house. Kiara did Freddy's food first to stay out of the way, then the litter once the kitchen was clear.",
+     "quote": "I came in and there was a cleaner here."
+    },
     {
      "cat": "behavior",
      "sev": "low",
