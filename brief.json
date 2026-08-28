@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T08:20:05-04:00",
+ "generated": "2026-08-28T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -106,8 +106,20 @@
   {
    "name": "Terri Orengo",
    "url": "https://www.timetopet.com/dashboard/client/tg7x5zgQWtst",
-   "pets": [],
+   "pets": [
+    "Nova"
+   ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Client private message Aug 28",
+     "office": true,
+     "note": "Client asks the office to build out a recurring weekly Wednesday visit starting Sept 9. She says she does not need anything next week because her workplace is letting them work from home. Needs setting up in the scheduler and confirming back to her.",
+     "quote": "can you build out a recurring weekly Wednesday visit starting 9/9?"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -235,6 +247,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Visit report from Margaret Bill, Aug 28 midday",
+     "office": true,
+     "note": "Aug 28 midday visit: urine on the hallway floor again, very loose stool in four separate places, and Sampson vomited once in the living room. He ate some food and then drank quite a bit of water. The sitter recorded the consistency as very loose/diarrhea with the pet seeming fine otherwise. The report opens with the name spelled Samsung but the visit is Sampson's.",
+     "quote": "Again, there was urine on the floor in the hallway. There was also very loose number two in the dining room."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -263,6 +285,26 @@
      "office": false,
      "note": "The client reports crystals found in the urine with an X-ray booked for 9am Monday; the message does not name the pet, though the thread concerns Gordy's urine sample.",
      "quote": "I found out he has crystals in his pee."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Client message Aug 28",
+     "office": false,
+     "note": "Client says she and Chelsea have been checking and have not seen Sampson use the litter box, although the Aug 28 sitter thought he might have used it a little and cleaned it up.",
+     "quote": "I know Chelsea and I have been checking and we have not seen that he used it."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 28",
+     "source": "Client message Aug 28",
+     "office": false,
+     "note": "Client's cleanup routine for accidents: paper towels first, then as many wipes as needed until nothing more comes off on the wipe, then spray the spot with the carpet cleaner. She has just bought five more packs of wipes and re-does any spots she still sees when she gets home.",
+     "quote": "I clean up #2's with the paper towels 1st. Then as many of the wipes as you need"
     },
     {
      "cat": "health",
@@ -315,14 +357,14 @@
      "quote": "He wanted affection but did not want his 1/2 pill."
     },
     {
-     "cat": "behavior",
+     "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Aug 26",
-     "source": "Visit report from Kathy Pastor",
+     "date": "Aug 28",
+     "source": "Visit report from Margaret Bill, Aug 28 midday",
      "office": false,
-     "note": "Gordy was barking at the window on arrival and was taken out promptly; on the walk he passed a man standing by a truck without a problem and listened to guiding.",
-     "quote": "He was barking at the window."
+     "note": "Sampson took his pill without trouble when it was hidden in a little bit of churro on the Aug 28 midday visit.",
+     "quote": "Sampson took his pill very easily in a little bit of the churro."
     }
    ],
    "dormant": false
@@ -541,6 +583,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Aug 28",
+     "source": "Visit report from Harvett Ellington, Aug 28 late morning",
+     "office": false,
+     "note": "On the Aug 28 late-morning visit Ellie Mae was let out into the front yard rather than walked, in line with the standing instruction to minimise her walking, and her stool was soft.",
+     "quote": "Ellie Mae went out in the front yard, went numbers one and two (soft)"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 26",
      "source": "Visit report from Alex Miller",
      "office": true,
@@ -576,6 +628,16 @@
      "office": false,
      "note": "Ellie Mae was at the vet and not home for the afternoon walk, leaving Chloe only.",
      "quote": "taking Ellie to the doctor so she won’t be here for the afternoon walk"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Visit report from Harvett Ellington, Aug 28 late morning",
+     "office": false,
+     "note": "Chloe seemed a little sluggish on the Aug 28 visit but still enjoyed her walk; her stool was recorded as firm and healthy.",
+     "quote": "Chloe was a little sluggish today but still had fun"
     },
     {
      "cat": "home",
