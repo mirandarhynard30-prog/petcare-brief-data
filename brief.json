@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T12:20:04-04:00",
+ "generated": "2026-08-28T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -257,6 +257,16 @@
      "quote": "Again, there was urine on the floor in the hallway. There was also very loose number two in the dining room."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Margaret Bill visit report, 10:45 am",
+     "office": true,
+     "note": "Morning visit: urine on the hallway floor again, runny #2 found and cleaned up in four separate places, and he vomited once in the living room. Took his pill easily in a bit of churro, ate some food and drank a lot of water. Second day of the same picture.",
+     "quote": "Again, there was urine on the floor in the hallway."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -355,16 +365,6 @@
      "office": false,
      "note": "Sampson refused his half pill on its own and the sitter reported hiding it in a treat.",
      "quote": "He wanted affection but did not want his 1/2 pill."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Visit report from Margaret Bill, Aug 28 midday",
-     "office": false,
-     "note": "Sampson took his pill without trouble when it was hidden in a little bit of churro on the Aug 28 midday visit.",
-     "quote": "Sampson took his pill very easily in a little bit of the churro."
     }
    ],
    "dormant": false
@@ -426,6 +426,16 @@
      "office": true,
      "note": "The client cancelled Friday's walk because of a schedule change and asked specifically that Kayla be told.",
      "quote": "I will be home Friday and will need to cancel Friday’s walk."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Monica Hopewell visit report, 12:13 pm",
+     "office": true,
+     "note": "On disarming the alarm the panel reported the front door not engaged. Sitter left it rather than risk setting the alarm off, then re-armed on leaving. Worth checking with the client whether the front door sensor is faulty or the door was genuinely open.",
+     "quote": "It said something about the front door not being engaged, I didn't want to set it off so I left it alone."
     },
     {
      "cat": "home",
@@ -588,6 +598,16 @@
      "office": false,
      "note": "On the Aug 28 late-morning visit Ellie Mae was let out into the front yard rather than walked, in line with the standing instruction to minimise her walking, and her stool was soft.",
      "quote": "Ellie Mae went out in the front yard, went numbers one and two (soft)"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Kiara Streety visit report, 12:47 pm",
+     "office": false,
+     "note": "Chloe was slow and reluctant on the 12:47 pm visit - only made it to the front yard, went #1 and wanted straight back in. Sitter sat with her and kept checking on her before leaving. Ellie Mae was normal.",
+     "quote": "Chloe wasn’t really feeling it today moving real slow"
     },
     {
      "cat": "health",
@@ -879,6 +899,16 @@
      "office": false,
      "note": "The care record flags Georgie as an escape risk, which is why the garage door is closed before entry and during walks.",
      "quote": "Georgie is an escape artist."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Kristin Ashick visit report, 11:27 am",
+     "office": false,
+     "note": "Sitter walked Georgie on a short lead, kept to well-maintained grass and sidewalk and away from mulch, bark and debris, to stop him picking things up. Two #2s - first firm, second slightly loose but the sitter was not concerned. Slower pace by the end.",
+     "quote": "I stayed closer to him, not giving him as much lead with his leash."
     },
     {
      "cat": "health",
