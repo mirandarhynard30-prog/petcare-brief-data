@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T22:20:04-04:00",
+ "generated": "2026-08-28T06:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -689,6 +689,16 @@
      "quote": "Topp goes out often but continues to potty in his crate."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 27",
+     "source": "Client message 1:24pm",
+     "office": false,
+     "note": "Following her supply-notice rule, the client explains Troup's cooked meals are made to order by a hired chef and delivered along with water and food. She is still working out how long a batch lasts because he only recently started the new meal plan, so sitters reporting remaining portions is what lets her set up a rotation.",
+     "quote": "I consistently have Troups cooked meals delivered along with water and food."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -707,16 +717,6 @@
      "office": false,
      "note": "Troup's chicken and rice is nearly out - the sitter reported one portion left and marked pet supplies as getting low.",
      "quote": "One more portion of chicken/rice left"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Noella",
-     "office": false,
-     "note": "Aug 26 evening: Topp went #2 in his crate while the sitter walked Troup. Stool logged as firm.",
-     "quote": "He did go number two in his crate while I was out with Troup on his second walk"
     }
    ],
    "dormant": false
