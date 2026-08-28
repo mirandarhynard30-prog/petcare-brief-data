@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T17:20:04-04:00",
+ "generated": "2026-08-28T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1400,9 +1400,20 @@
    "name": "Ashley Gullett",
    "url": "https://www.timetopet.com/dashboard/client/sud30hb6RA15",
    "pets": [
-    "Nova"
+    "Nova",
+    "Penny"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 28",
+     "source": "Dan Dantimo",
+     "office": false,
+     "note": "A second dog, Penny, has been added to the household alongside Nova - a female golden retriever, added to the client's Time To Pet account the same afternoon. Dan Dantimo met her on the 5pm visit and expects to walk both dogs together from tomorrow. No walk happened on the 5pm visit; the client was home.",
+     "quote": "Hey guys, great to see all of you again and to meet Penny. I'm sure the three of us will have some fun tomorrow."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -1412,6 +1423,16 @@
      "office": false,
      "note": "There is a new puppy in the household staying with the client's parents overnight, and the gate a sitter noticed was left open for Nova on purpose.",
      "quote": "We actually got a new puppy that is staying with my parents overnight."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Dan Dantimo",
+     "office": false,
+     "note": "Nova's stool on the 5pm visit was recorded as slightly loose, flagged by the sitter as not concerning. Worth watching for a repeat.",
+     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
