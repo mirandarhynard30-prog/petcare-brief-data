@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T18:20:05-04:00",
+ "generated": "2026-08-28T19:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -517,6 +517,16 @@
     "Lucy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Client private message to office, Aug 28 6:24 pm",
+     "office": true,
+     "note": "Client asks to move tomorrow's visit (Sat Aug 29) to 2:00, apologising for repeated time changes. No confirmation sent back yet. The message is signed \"Carol\" although the account name is Angela Jozsa. Separate from her open Sept 4-7 booking question.",
+     "quote": "I’m wondering if we can change the time tomorrow to 2:00?"
+    },
     {
      "cat": "schedule",
      "sev": "high",
