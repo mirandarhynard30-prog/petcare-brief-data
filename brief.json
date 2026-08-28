@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T21:20:11-04:00",
+ "generated": "2026-08-27T22:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2100,6 +2100,16 @@
     "Aayla"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 27",
+     "source": "Megan Nickoli",
+     "office": false,
+     "note": "Client asks every sitter to double-check the door is locked before leaving after Aayla's walk. She found it left unlocked on Aug 27. She raised it warmly and followed up saying she appreciates the team, so this is a standing check, not a complaint to resolve.",
+     "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
