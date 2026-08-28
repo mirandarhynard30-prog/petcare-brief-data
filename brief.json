@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T20:20:04-04:00",
+ "generated": "2026-08-27T21:20:11-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -435,6 +435,16 @@
     "Lucy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Client private message, Aug 27 8:29 and 8:31 pm",
+     "office": true,
+     "note": "New booking request sent Aug 27 evening: three days at 11 a.m. The first message asked for Sept 4, 5 and 6; a correction two minutes later changed it to Sept 5, 6 and 7 (Sat, Sun, Mon). The corrected dates are the later message. Nothing has been confirmed back to her in the mailbox. Note the message is signed Carol although the client account is Angela Jozsa - unclear who is writing.",
+     "quote": "Correction on that, I meant 5.6 and 7th. Sat. Sun and Monday"
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -1748,6 +1758,16 @@
      "office": true,
      "note": "Feeding times say no Buddy Guard or WinPro; feeding instructions still say to add it and give 3 WinPro at breakfast. Together that means breakfast only - needs rewriting.",
      "quote": "Feeding times: Morning, Bedtime No Buddy Guard or WinPro"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Lacey Govil visit report, Aug 27 8:25 pm",
+     "office": false,
+     "note": "On the Aug 27 evening visit Craig asked the sitter to take his garbage to the compactor, so the walk started there and the trash went in before carrying on around the complex. Asked for on this visit only - not recorded anywhere as a standing task.",
+     "quote": "Craig asked that I take his garbage to the compactor"
     },
     {
      "cat": "health",
