@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T17:20:05-04:00",
+ "generated": "2026-08-27T20:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1919,6 +1919,16 @@
     "Guinness"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 27",
+     "source": "Dan Dantimo visit report, Aug 27 evening walk",
+     "office": true,
+     "note": "On the Aug 27 evening walk Guinness went #2 twice and the sitter recorded the consistency as \"a little loose but not concerning\". Loose stool is now on record Aug 24, Aug 25 and Aug 27. No other symptoms in the report - he was eager for the walk, walked well and drank; no accidents in the home.",
+     "quote": "He did go number two twice as we headed toward home."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
