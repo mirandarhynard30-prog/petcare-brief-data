@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T16:20:05-04:00",
+ "generated": "2026-08-28T17:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -395,6 +395,16 @@
      "office": true,
      "note": "Client asks for cover for the dogs starting tomorrow, Sat Aug 29, at 7:00 am and 11:30 am. He will be away from home and does not know for how long; he mentions a Monday commitment that has been moved up. Nothing is confirmed and no sitter is assigned - needs an office answer today.",
      "quote": "Would someone be available to take care of the pups as soon as tomorrow, 7a and 11:30a? Not sure for how long."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Jesse Terdan private message, 4:32 pm",
+     "office": true,
+     "note": "Client confirmed coverage: Robin to start Saturday Aug 29 (7:00 am and 11:30 am visits) and keep coming in until further notice. End date open, to be reviewed after Monday Aug 31. Office needs to build the visits on the schedule tonight.",
+     "quote": "Have Robin start tomorrow and then keep coming in"
     },
     {
      "cat": "schedule",
