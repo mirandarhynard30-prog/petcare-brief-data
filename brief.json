@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T06:20:06-04:00",
+ "generated": "2026-08-28T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1758,6 +1758,16 @@
      "office": true,
      "note": "Feeding times say no Buddy Guard or WinPro; feeding instructions still say to add it and give 3 WinPro at breakfast. Together that means breakfast only - needs rewriting.",
      "quote": "Feeding times: Morning, Bedtime No Buddy Guard or WinPro"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Craig Wells message",
+     "office": false,
+     "note": "Craig told the sitter on the morning of Aug 28 that Octavia's food and water bowls are in the dishwasher rather than out on the floor. Said once, in reply to Margaret Bill's arrival - not stated as a permanent rule.",
+     "quote": "Perfect, you'll find her food and water bowls in the dishwasher."
     },
     {
      "cat": "home",
