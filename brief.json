@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T11:20:05-04:00",
+ "generated": "2026-08-28T12:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1689,6 +1689,26 @@
     "Trudy"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Harvett Ellington message to client",
+     "office": true,
+     "note": "Sitter Harvett Ellington wrote to the client that she heard Trudy is in the hospital. No detail on why, how long, or whether visits are affected. Trudy is listed as the pet on this account, but the wording could also refer to a person in the household - the office should confirm which before assuming visits are still needed.",
+     "quote": "Hey there, I heard Trudy is in the hospital, give her my best!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Client reply",
+     "office": true,
+     "note": "Client Vicki Davey replied to that message a few minutes later without giving any detail about Trudy's condition or about the schedule, so the office still has nothing confirmed to work from.",
+     "quote": "I sure will thanks for reaching out!"
+    },
     {
      "cat": "home",
      "sev": "low",
