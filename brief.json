@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T13:20:05-04:00",
+ "generated": "2026-08-28T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -160,6 +160,16 @@
      "office": false,
      "note": "A stray black cat was in the yard before the visit. The sitter herded it out through a crack in the gate to avoid a run-in with the dogs; the gate itself is secured closed.",
      "quote": "I herded her through the crack in the gate (which is secured closed) so that we could avoid the possibility of an altercation."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Elizabeth Sigler visit report, Aug 28 1:48 pm",
+     "office": false,
+     "note": "Puck and Rusty tired faster than usual in the afternoon heat and wanted to lie in the shade; the sitter brought them inside for cold water and continued playtime indoors. Both went #1 and #2, firm and healthy, no accidents.",
+     "quote": "They seemed to get tired a little quicker than usual- probably thanks to how hot the sun is today."
     },
     {
      "cat": "health",
