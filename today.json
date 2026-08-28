@@ -1,24 +1,67 @@
 {
- "generated": "2026-08-27T20:20:08-04:00",
- "date": "2026-08-27",
- "label": "Aug 27, 2026",
+ "generated": "2026-08-28T00:05:08-04:00",
+ "date": "2026-08-28",
+ "label": "Aug 28, 2026",
  "clients": [
   {
    "name": "Anna Marie LeMaster",
    "visits": [
     {
-     "time": "10:00 AM",
-     "sort": "1000",
-     "staff": "Chelsea Tompkins",
-     "service": "Trainer Visit-30minute",
-     "pets": "Gordy (Gordon)"
+     "time": "9:00 AM",
+     "sort": "0900",
+     "staff": "Margaret Bill",
+     "service": "Long Range Visit-30 Minute",
+     "pets": "Sampson"
     },
     {
-     "time": "10:00 AM",
-     "sort": "1000",
-     "staff": "Kathy Pastor",
+     "time": "9:00 PM",
+     "sort": "2100",
+     "staff": "Lacey Govil",
+     "service": "Long Range Visit-30 Minute",
+     "pets": "Sampson"
+    }
+   ]
+  },
+  {
+   "name": "Ashley Gullett",
+   "visits": [
+    {
+     "time": "5:00 PM",
+     "sort": "1700",
+     "staff": "Dan Dantimo",
+     "service": "New Client Consultation",
+     "pets": "Nova, Sprinkles, Da baby , PJ"
+    }
+   ]
+  },
+  {
+   "name": "Charlene Szunyog",
+   "visits": [
+    {
+     "time": "9:45 AM",
+     "sort": "0945",
+     "staff": "Ashley Corall",
+     "service": "Dog Visit-30 minute",
+     "pets": "Murphy"
+    }
+   ]
+  },
+  {
+   "name": "Christina Palmieri",
+   "visits": [
+    {
+     "time": "11:00 PM",
+     "sort": "2300",
+     "staff": "Kiara Streety",
+     "service": "Trainer Visit-30minute",
+     "pets": "Bismark"
+    },
+    {
+     "time": "11:00 PM",
+     "sort": "2300",
+     "staff": "Elizabeth Sigler",
      "service": "Shadow Visit with Staff Member-30 minute",
-     "pets": "Gordy (Gordon), Sampson"
+     "pets": "Bismark"
     }
    ]
   },
@@ -26,8 +69,8 @@
    "name": "Craig Wells",
    "visits": [
     {
-     "time": "9:00 AM",
-     "sort": "0900",
+     "time": "8:00 AM",
+     "sort": "0800",
      "staff": "Margaret Bill",
      "service": "Dog Visit-30 minute",
      "pets": "Octavia Lovely Wells"
@@ -45,11 +88,23 @@
    "name": "Deb Ward",
    "visits": [
     {
-     "time": "7:00 PM",
-     "sort": "1900",
+     "time": "7:30 PM",
+     "sort": "1930",
      "staff": "Dan Dantimo",
      "service": "Dog Visit-30 minute",
      "pets": "Guinness"
+    }
+   ]
+  },
+  {
+   "name": "Jessica Shouldis",
+   "visits": [
+    {
+     "time": "10:00 AM",
+     "sort": "1000",
+     "staff": "Kristin Ashick",
+     "service": "Dog Visit-30 minute",
+     "pets": "Astra"
     }
    ]
   },
@@ -69,30 +124,11 @@
    "name": "Lynne  Reno",
    "visits": [
     {
-     "time": "6:00 PM",
-     "sort": "1800",
+     "time": "6:30 PM",
+     "sort": "1830",
      "staff": "Dan Dantimo",
-     "service": "Trainer Visit-30minute",
+     "service": "Long Range Visit-30 Minute",
      "pets": "Holly"
-    },
-    {
-     "time": "6:00 PM",
-     "sort": "1800",
-     "staff": "Julie Smith",
-     "service": "Shadow Visit with Staff Member-30 minute",
-     "pets": "Holly"
-    }
-   ]
-  },
-  {
-   "name": "Marcia Ontell",
-   "visits": [
-    {
-     "time": "2:00 PM",
-     "sort": "1400",
-     "staff": "Kiara Streety",
-     "service": "Cat Visit-20 Minutes",
-     "pets": "Freddy"
     }
    ]
   },
@@ -100,15 +136,15 @@
    "name": "Mary Ann Mckeever",
    "visits": [
     {
-     "time": "9:45 AM",
-     "sort": "0945",
-     "staff": "Monica Hopewell",
+     "time": "10:45 AM",
+     "sort": "1045",
+     "staff": "Kristin Ashick",
      "service": "Dog Visit-30 minute",
      "pets": "Georgie"
     },
     {
-     "time": "8:35 PM",
-     "sort": "2035",
+     "time": "8:30 PM",
+     "sort": "2030",
      "staff": "Tiarra Roberts",
      "service": "Dog Visit-20 minute",
      "pets": "Georgie"
@@ -131,30 +167,18 @@
    "name": "Matt Konn",
    "visits": [
     {
-     "time": "8:30 AM",
-     "sort": "0830",
+     "time": "8:00 AM",
+     "sort": "0800",
      "staff": "Monica Hopewell",
      "service": "Dog Visit-30 minute",
      "pets": "Ripley"
     },
     {
-     "time": "2:20 PM",
-     "sort": "1420",
-     "staff": "Kristin Ashick",
+     "time": "4:00 PM",
+     "sort": "1600",
+     "staff": "Monica Hopewell",
      "service": "Dog Visit-30 minute",
      "pets": "Ripley"
-    }
-   ]
-  },
-  {
-   "name": "Megan Nickoli",
-   "visits": [
-    {
-     "time": "12:30 PM",
-     "sort": "1230",
-     "staff": "Lacey Govil",
-     "service": "Reassigned Visit-30 minute",
-     "pets": "Aayla"
     }
    ]
   },
@@ -162,15 +186,15 @@
    "name": "Melody Siska",
    "visits": [
     {
-     "time": "10:15 AM",
-     "sort": "1015",
-     "staff": "Jade Popovitz",
+     "time": "10:00 AM",
+     "sort": "1000",
+     "staff": "Harvett Ellington",
      "service": "Dog Visit-30 minute",
      "pets": "chloe, Eleanor (Ellie Mae)"
     },
     {
-     "time": "1:00 PM",
-     "sort": "1300",
+     "time": "12:30 PM",
+     "sort": "1230",
      "staff": "Kiara Streety",
      "service": "Dog Visit-30 minute",
      "pets": "chloe, Eleanor (Ellie Mae)"
@@ -178,31 +202,12 @@
    ]
   },
   {
-   "name": "Nicole Allen",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Monica Hopewell",
-     "service": "Reassigned Visit-60 minute",
-     "pets": "Troup, Topp"
-    },
-    {
-     "time": "5:00 PM",
-     "sort": "1700",
-     "staff": "Noella",
-     "service": "Reassigned Visit-60 minute",
-     "pets": "Troup, Topp"
-    }
-   ]
-  },
-  {
    "name": "Paulo Garcia",
    "visits": [
     {
-     "time": "11:15 AM",
-     "sort": "1115",
-     "staff": "Jade Popovitz",
+     "time": "11:30 AM",
+     "sort": "1130",
+     "staff": "Kiara Streety",
      "service": "Dog Visit-45 minute",
      "pets": "Archer, Milo"
     }
@@ -221,14 +226,14 @@
    ]
   },
   {
-   "name": "Regina Mathews",
+   "name": "Terry M",
    "visits": [
     {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Monica Hopewell",
+     "time": "12:30 PM",
+     "sort": "1230",
+     "staff": "Kayla Popow",
      "service": "Dog Visit-30 minute",
-     "pets": "Milo, Lila, India"
+     "pets": "CJ, Rex"
     }
    ]
   }
