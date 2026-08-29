@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T10:20:05-04:00",
+ "generated": "2026-08-29T11:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2023,6 +2023,26 @@
      "quote": "Octavia does get upset when she sees other dogs."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Craig Wells private message, 10:36 am",
+     "office": true,
+     "note": "Craig replying in the private thread about next week's visits - he says he needs only Monday of next week. Which Monday is not stated in the notification; check the portal thread before editing the schedule.",
+     "quote": "Only Monday of next week. Thank you"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Craig Wells private message, 10:47 am",
+     "office": true,
+     "note": "Follow-up confirmation eleven minutes later. The office question it answers is not reproduced in the notification email, so what is 'the same' - most likely the visit time - has to be read in the Time To Pet private thread.",
+     "quote": "Yes, the same."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2101,26 +2121,6 @@
      "office": false,
      "note": "On the Aug 27 evening visit Craig asked the sitter to take his garbage to the compactor, so the walk started there and the trash went in before carrying on around the complex. Asked for on this visit only - not recorded anywhere as a standing task.",
      "quote": "Craig asked that I take his garbage to the compactor"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Visit report from Margaret Bill",
-     "office": false,
-     "note": "On this visit Octavia was fed with a supplement on top of the food mixed with water, then given Winpro, and her lower lip area was cleaned with medicated pads. Reported once, so treat as what happened on the day rather than a confirmed standing routine.",
-     "quote": "giving her supplement on top of a food and mixing it with water"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Visit report from Margaret Bill",
-     "office": false,
-     "note": "The visit report records the client at home during the visit and asking that the door not be locked.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
