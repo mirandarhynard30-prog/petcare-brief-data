@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T12:20:05-04:00",
+ "generated": "2026-08-29T13:20:16-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -155,11 +155,31 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Aug 29",
+     "source": "Elizabeth Sigler visit report, Aug 29 afternoon",
+     "office": false,
+     "note": "Sitter flagged that the treats at the house are getting low and marked pet supplies low on the visit report.",
+     "quote": "I think the treats are getting low"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 27",
      "source": "Elizabeth Sigler",
      "office": false,
      "note": "A stray black cat was in the yard before the visit. The sitter herded it out through a crack in the gate to avoid a run-in with the dogs; the gate itself is secured closed.",
      "quote": "I herded her through the crack in the gate (which is secured closed) so that we could avoid the possibility of an altercation."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Elizabeth Sigler visit report, Aug 29 afternoon",
+     "office": false,
+     "note": "On Aug 29 the sitter found and left Puck in the crate nearer the table and Rusty in the bedroom crate with the bedroom door open. Heat meant about half the playtime was indoors.",
+     "quote": "I put Puck back in her crate (the one nearer to the table) and left Rusty in the bedroom crate"
     },
     {
      "cat": "health",
@@ -1496,6 +1516,76 @@
    "items": [
     {
      "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 29",
+     "source": "Pet Care Note / Company Notes rewritten by Dan Dantimo, Aug 29",
+     "office": false,
+     "note": "Nova is food aggressive now that Penny is in the house. Feed the two dogs in separate rooms - dining and living rooms with the gate closed - and give treats separately as well.",
+     "quote": "Be aware that Nova is food aggressive, so feed in separate rooms(dining and living rooms with gate closed)give treats separately as well."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 29",
+     "source": "Pet Care Note / Company Notes rewritten by Dan Dantimo, Aug 29",
+     "office": false,
+     "note": "Penny is crated. On arrival let her straight out into the back yard with Nova and reward both with a treat; put her back in the crate before leaving with water and pee pads.",
+     "quote": "Penny is crated, make sure she is back in crate when leaving with water and pee pads."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 29",
+     "source": "Current Pet Care Note updated by Dan Dantimo, Aug 29",
+     "office": false,
+     "note": "New feeding amounts: Nova one cup of dry food, Penny half a cup, dry food only, at the morning visit and the bedtime visit. Totes are marked for each dog.",
+     "quote": "NOVA GETS ONE CUP OF DRY FOOD AND PENNY GETS A 1/2 CUP. TOTES ARE MARKED FOR EACH DOG."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 29",
+     "source": "Current Pet Care Note updated by Dan Dantimo, Aug 29",
+     "office": false,
+     "note": "The dry food has moved. It is now in the dining room by the white cabinet; the previous note said living room by the water bowl. Treats are also in the white cabinet in the dining room.",
+     "quote": "DRY FOOD IS IN THE DINING ROOM BY WHITE CABINET."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 29",
+     "source": "Company Notes updated by Dan Dantimo, Aug 29",
+     "office": false,
+     "note": "Penny's harness is marked by body part - pink strap over the shoulders, grey under the belly. Harness and leash are by the front door; a reference photo is in Time To Pet.",
+     "quote": "Harness is marked by body parts and pink strap goes over shoulders, gray goes under belly"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 29",
+     "source": "Company Notes updated by Dan Dantimo, Aug 29",
+     "office": false,
+     "note": "Walk Nova first, before feeding. She is excited on the way out so take care going down the front steps, but she walks without pulling. Avoid letting her interact with other dogs. Let both dogs out in the back yard after feeding, before leaving.",
+     "quote": "she walks without any pulling. Avoid interactions with other dogs."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 29",
+     "source": "Company Notes updated by Dan Dantimo, Aug 29",
+     "office": false,
+     "note": "Do not let the cat out. Pee pads are throughout the downstairs; used pads and poop bags go in the green can in the driveway.",
+     "quote": "Make sure Spinkles(cat) doesn't get outside"
+    },
+    {
+     "cat": "behavior",
      "sev": "medium",
      "type": "standing",
      "date": "Aug 28",
@@ -1513,6 +1603,16 @@
      "office": false,
      "note": "There is a new puppy in the household staying with the client's parents overnight, and the gate a sitter noticed was left open for Nova on purpose.",
      "quote": "We actually got a new puppy that is staying with my parents overnight."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Aug 29",
+     "source": "Current Pet Care Note updated by Dan Dantimo, Aug 29",
+     "office": false,
+     "note": "The household is now two dogs, one cat and two guinea pigs. Guinea pigs are fed in the morning only when instructed - food in plastic containers in the refrigerator, pellets under the cage.",
+     "quote": "GUINEA PIGS ARE FED IN THE MORNING(FOOD IN PLASTIC CONTAINERS IN REFRIGERATOR, PELLETS LOCATED UNDER CAGE)ONLY IF INSTRUCTED TO DO SO."
     },
     {
      "cat": "health",
@@ -2482,6 +2582,16 @@
      "office": false,
      "note": "Client asks every sitter to double-check the door is locked before leaving after Aayla's walk. She found it left unlocked on Aug 27. She raised it warmly and followed up saying she appreciates the team, so this is a standing check, not a complaint to resolve.",
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Lacey Govil visit report, Aug 29 midday",
+     "office": false,
+     "note": "Aayla had got hold of a black poop bag and shredded it over the couch and floor before the midday visit; the sitter cleared it up. Second destruction incident in three days - worth keeping bags out of her reach.",
+     "quote": "she got a black poop bag from somewhere and it was ripped up on the couch and some on the floor"
     },
     {
      "cat": "behavior",
