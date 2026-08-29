@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T08:20:05-04:00",
+ "generated": "2026-08-29T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -280,6 +280,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Aug 29",
+     "source": "Renee Dougherty visit report",
+     "office": false,
+     "note": "Aug 29 morning visit: Sampson had urinated on the hardwood near the kitchen and had a stool accident in the dining room; sitters cleaned both and used the stain/odour eliminator. Report marked stool as a little loose but not concerning. Continues the litter-box avoidance seen since Friday.",
+     "quote": "When we got here, we smelled an odor and realized that Sampson had peed on the hardwood floor near the kitchen."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Aug 28",
      "source": "Visit report from Margaret Bill, Aug 28 midday",
      "office": true,
@@ -330,6 +340,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Aug 29",
+     "source": "Renee Dougherty visit report",
+     "office": false,
+     "note": "Sampson's thyroid medication was given hidden in a churu on the Aug 29 morning visit and he took it. One visit only, not confirmed as the standing method.",
+     "quote": "We gave him his thyroid medication in a churu and he took his medication."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 28",
      "source": "Client message Aug 28",
      "office": false,
@@ -375,26 +395,6 @@
      "office": false,
      "note": "Gordy's stool was a little loose again on the Aug 27 morning walk, marked not concerning - second consecutive day after the same finding Aug 26.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Visit report from Kathy Pastor",
-     "office": false,
-     "note": "Gordy's stool on the Aug 26 morning walk was recorded as a little loose but not concerning.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Client message",
-     "office": true,
-     "note": "Client messaged that a visit showed as started while Gordy was still in the house and she had not seen the sitter. Needs checking with the sitter and with the visit record.",
-     "quote": "You started your visit? I have been downstairs and Gordy is still in the house."
     }
    ],
    "dormant": false
