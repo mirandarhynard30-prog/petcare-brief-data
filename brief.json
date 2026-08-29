@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T06:20:04-04:00",
+ "generated": "2026-08-29T07:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -218,6 +218,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Aug 28",
+     "source": "Thomas Rakovec visit report, Aug 28 afternoon",
+     "office": true,
+     "note": "Aug 28 afternoon: Louie's ears and eyes wiped and Emma's eye drops given, medication marked administered. The same report says a used diaper was put back on Berry rather than a fresh one - the wording is unclear, so the office may want to confirm what is expected.",
+     "quote": "put in used diaper back on Berry"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 27",
      "source": "Thomas Rakovec visit report, Aug 27",
      "office": false,
@@ -233,6 +243,16 @@
      "office": false,
      "note": "Stella and Berry both had diarrhea that the client said had cleared by that morning, possibly from new treats.",
      "quote": "Stella and Berry both had diarrhea. It appeared to have resolved by this morning"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Thomas Rakovec visit report, Aug 28 afternoon",
+     "office": false,
+     "note": "On the Aug 28 afternoon walk Stella and Berry both went #1 but neither went #2. Everyone went #1 in the back yard first and the sitter described it as one of the best walks he has had with them.",
+     "quote": "both went no.#1 but no.$2 today"
     },
     {
      "cat": "health",
@@ -1678,6 +1698,16 @@
      "quote": "Morning visit: 7:30-9. Walk/play/Water (no feed)"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Monica Hopewell visit report, Aug 28 morning",
+     "office": false,
+     "note": "On the Aug 28 morning walk Ripley went both #1 and #2 and the consistency was logged as firm and healthy - the first #2 recorded since the Aug 24 report of no bowel movement and the #1-only visit on Aug 27.",
+     "quote": "It was firm and healthy"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -1706,6 +1736,36 @@
      "office": true,
      "note": "Client says he walked Ripley himself this morning before leaving for the airport and that his daughter is at the house. Worth checking against the Aug 26-31 visit windows in case someone is home for part of them.",
      "quote": "No problem - walked this morning before going to airport! My daughter is there."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Monica Hopewell visit report, Aug 28 evening",
+     "office": false,
+     "note": "On the Aug 28 evening visit Ripley went #1 only; the report records no #2 for that visit.",
+     "quote": "She only went number 1 this afternoon."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Monica Hopewell visit report, Aug 28 evening",
+     "office": false,
+     "note": "Aug 28 evening: Ripley would not settle on a direction for about ten minutes before the sitter took her on the back trail, and barked loudly when an Amazon driver arrived during play time. Single report, not stated as a pattern.",
+     "quote": "she wouldn't make up her mind about where we were going to go so after 10 minutes we went on the back trail"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Monica Hopewell visit report, Aug 28 morning",
+     "office": false,
+     "note": "The grass was wet on the Aug 28 morning walk, so the sitter dried Ripley off and left her leash in the garage to dry - worth knowing where the leash is on the next visit.",
+     "quote": "I also left her leash in the garage to dry because that got pretty wet too."
     },
     {
      "cat": "health",
@@ -1981,6 +2041,16 @@
      "office": false,
      "note": "Craig told the sitter on the morning of Aug 28 that Octavia's food and water bowls are in the dishwasher rather than out on the floor. Said once, in reply to Margaret Bill's arrival - not stated as a permanent rule.",
      "quote": "Perfect, you'll find her food and water bowls in the dishwasher."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Lacey Govil visit report, Aug 28 evening",
+     "office": false,
+     "note": "Aug 28 evening: Octavia was fed dry food mixed with warm water and ate it all, and her #2 was logged as firm and healthy. This report records no Buddy Guard supplement, no WinPro and no medicated pads - it does not say whether they were skipped or simply not written down.",
+     "quote": "Mixing warm water with her dry food and she happily ate it all up."
     },
     {
      "cat": "home",
