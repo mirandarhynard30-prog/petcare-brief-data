@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T15:20:05-04:00",
+ "generated": "2026-08-29T16:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2422,6 +2422,16 @@
     "Guinness"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Deb Ward has sent you a new private message.",
+     "office": true,
+     "note": "Client wrote privately on the afternoon of Aug 29 asking that no walker come on Monday Sept 7. The visit still needs taking off the schedule and no reply has been sent back yet.",
+     "quote": "I do not wish to have a walker on the 7th of September."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
