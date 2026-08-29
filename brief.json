@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T11:20:04-04:00",
+ "generated": "2026-08-29T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1004,6 +1004,16 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Aug 29",
+     "source": "Client message to sitter, Aug 29 11:19 am",
+     "office": false,
+     "note": "Client thanked the sitter for watching for when Georgie tires out on the walk. Suggests sitters should pace Georgie and watch for him flagging, alongside the existing over-75-degree twenty minute cap.",
+     "quote": "Thanks for giving Georgie such a nice walk and for paying attention to when he tires out."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Aug 28",
      "source": "Client message, Aug 28 4:05 pm",
      "office": false,
@@ -1291,6 +1301,16 @@
      "office": false,
      "note": "The client warned that Bis has been anxious and heat-affected, may refuse to walk at all, and had chewed the door.",
      "quote": "Bis has been anxious lately and hot, he may not walk. You’ll see he chewed the door"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Harvett Ellington visit report, Aug 29 morning",
+     "office": false,
+     "note": "On the Aug 29 morning visit Bismark did not want to leave the backyard for his walk. The sitter needed two or three gentle tugs on the lead to get him out, after which the walk went normally and he went both #1 and #2. He returned to the backyard to finish the visit.",
+     "quote": "after 2-3 gentle tugs, I got him out of the backyard"
     },
     {
      "cat": "behavior",
