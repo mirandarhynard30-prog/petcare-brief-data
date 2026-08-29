@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T09:20:05-04:00",
+ "generated": "2026-08-29T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1751,6 +1751,16 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Aug 29",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Aug 29 morning walk: Ripley went both #1 and #2 and the consistency was logged as firm and healthy. No accidents found in the home. Second consecutive normal #2 after the Aug 27 report of no bowel movement.",
+     "quote": "She went both 1 and 2 today."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Aug 28",
      "source": "Monica Hopewell visit report, Aug 28 evening",
      "office": false,
@@ -2003,6 +2013,16 @@
      "quote": "Medicated pads for around her mouth 1 for each side of mouth. Wipe hard"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "On the Aug 29 morning walk the sitter and Octavia ran into several dogs and had to avoid them. Margaret describes this as a general trait of Octavia's rather than a one-off; it is the sitter's own observation, not a client instruction.",
+     "quote": "Octavia does get upset when she sees other dogs."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2041,6 +2061,16 @@
      "office": true,
      "note": "Feeding times say no Buddy Guard or WinPro; feeding instructions still say to add it and give 3 WinPro at breakfast. Together that means breakfast only - needs rewriting.",
      "quote": "Feeding times: Morning, Bedtime No Buddy Guard or WinPro"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Craig had already fed Octavia before the 9:00 am visit on Aug 29, so the sitter did no feeding and the report records no Buddy Guard or WinPro. Relevant to the open question about breakfast supplements.",
+     "quote": "Octavia had been fed when I came in and was ready to go for her walk."
     },
     {
      "cat": "home",
