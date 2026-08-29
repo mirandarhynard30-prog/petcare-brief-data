@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T22:20:05-04:00",
+ "generated": "2026-08-29T06:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1263,6 +1263,16 @@
      "quote": "Bis has been anxious lately and hot, he may not walk. You’ll see he chewed the door"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Christina Palmieri message, 11:18pm",
+     "office": false,
+     "note": "Christina messaged during the late Fri Aug 28 visit to say Bismark had been anxious after she left him earlier that day, and asked the sitter to check he was okay. Sitters found him calm and lying down outside.",
+     "quote": "Bismark was really anxious when I left him earlier, I hope he’s okay"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1291,6 +1301,26 @@
      "office": false,
      "note": "Aug 26 late-evening visit: Bismark refused to walk and lay in the grass. Sitter new to him recorded him as anxious.",
      "quote": "He didn't want to walk and just layed in the grass."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Aug 28",
+     "source": "Christina Palmieri message, 11:42pm",
+     "office": false,
+     "note": "Christina describes Bismark as a very lazy boy - do not expect enthusiasm for a walk every visit.",
+     "quote": "you’ll learn he’s a very lazy boy!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Elizabeth Sigler visit report (shadowing Kiara Streety), 11:33pm",
+     "office": false,
+     "note": "On the late Fri Aug 28 visit Bismark declined a walk and settled in the fenced back yard; sitters stayed outside with him, left a treat and refilled his water. No accidents, no supplies low.",
+     "quote": "he wasn't interested in a walk and he laid down in the backyard"
     },
     {
      "cat": "home",
