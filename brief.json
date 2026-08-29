@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T18:20:04-04:00",
+ "generated": "2026-08-29T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1617,6 +1617,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Dan Dantimo visit report, Aug 29 4:44pm",
+     "office": false,
+     "note": "The food guarding runs both ways. On this visit Penny went for Nova's treat, and after Penny was fed behind the gate Nova went straight to Penny's dish looking for leftovers. Supports keeping them separated for treats and meals.",
+     "quote": "BTW Penny wanted to get after Nova's treat"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Aug 28",
      "source": "Dan Dantimo",
@@ -1633,16 +1643,6 @@
      "office": false,
      "note": "There is a new puppy in the household staying with the client's parents overnight, and the gate a sitter noticed was left open for Nova on purpose.",
      "quote": "We actually got a new puppy that is staying with my parents overnight."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Aug 29",
-     "source": "Current Pet Care Note updated by Dan Dantimo, Aug 29",
-     "office": false,
-     "note": "The household is now two dogs, one cat and two guinea pigs. Guinea pigs are fed in the morning only when instructed - food in plastic containers in the refrigerator, pellets under the cage.",
-     "quote": "GUINEA PIGS ARE FED IN THE MORNING(FOOD IN PLASTIC CONTAINERS IN REFRIGERATOR, PELLETS LOCATED UNDER CAGE)ONLY IF INSTRUCTED TO DO SO."
     }
    ],
    "dormant": false
