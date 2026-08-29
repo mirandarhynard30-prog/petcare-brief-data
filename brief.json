@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T17:20:05-04:00",
+ "generated": "2026-08-29T18:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2243,6 +2243,16 @@
      "quote": "Octavia had been fed when I came in and was ready to go for her walk."
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Client message to sitter Lacey, Aug 29 5:30pm",
+     "office": false,
+     "note": "Ahead of the Aug 29 evening visit Craig told the sitter that Octavia had already been fed and only needs walking - so no feeding at that visit. This is the second time on Aug 29 he has pre-fed her before a visit.",
+     "quote": "Octavia has been fed, just needs walked."
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -2261,16 +2271,6 @@
      "office": false,
      "note": "Aug 28 evening: Octavia was fed dry food mixed with warm water and ate it all, and her #2 was logged as firm and healthy. This report records no Buddy Guard supplement, no WinPro and no medicated pads - it does not say whether they were skipped or simply not written down.",
      "quote": "Mixing warm water with her dry food and she happily ate it all up."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Lacey Govil visit report, Aug 27 8:25 pm",
-     "office": false,
-     "note": "On the Aug 27 evening visit Craig asked the sitter to take his garbage to the compactor, so the walk started there and the trash went in before carrying on around the complex. Asked for on this visit only - not recorded anywhere as a standing task.",
-     "quote": "Craig asked that I take his garbage to the compactor"
     }
    ],
    "dormant": false
@@ -2282,6 +2282,26 @@
     "Holly"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Client message, Aug 29 5:21pm",
+     "office": true,
+     "note": "Lynne wrote in that Holly will be at the groomers tomorrow (Sunday Aug 30) and will not be available for a walk, and asks that the visit be cancelled. Needs cancelling in the schedule before tomorrow's visit goes out.",
+     "quote": "Won’t be available for a walk. Please cancel. Thanks."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Client message, Aug 29 5:58pm",
+     "office": true,
+     "note": "Thirty-seven minutes later Lynne replied to a message from Miranda saying she is still deciding and needs to check the weather. The question she is answering is not reproduced in the notification, so what is still undecided is unclear - a decision from her is outstanding.",
+     "quote": "Im still thinking. Have to check weather"
+    },
     {
      "cat": "behavior",
      "sev": "low",
