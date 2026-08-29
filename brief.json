@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T20:20:04-04:00",
+ "generated": "2026-08-28T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -330,6 +330,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Aug 28",
+     "source": "Lacey Govil visit report, Aug 28 8:50pm",
+     "office": false,
+     "note": "On the Aug 28 evening visit Lacey found a hairball on the floor between the laundry room and the hallway and cleaned it up. After eating, Sampson licked himself for a long while and small fur balls were coming off, so the sitter expects more hairballs.",
+     "quote": "I fear he might get more hairballs as some small fur balls were coming out while he licked."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Lacey Govil visit report, Aug 28 8:50pm",
+     "office": false,
+     "note": "Litter boxes were checked on the Aug 28 evening visit and nothing was in them - a second report the same day of no litter box use. No accidents were found anywhere in the home on this visit.",
+     "quote": "I checked the litter boxes but did not see anything in them"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 27",
      "source": "Kathy Pastor",
      "office": false,
@@ -355,26 +375,6 @@
      "office": true,
      "note": "Client messaged that a visit showed as started while Gordy was still in the house and she had not seen the sitter. Needs checking with the sitter and with the visit record.",
      "quote": "You started your visit? I have been downstairs and Gordy is still in the house."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 24",
-     "source": "Client message",
-     "office": false,
-     "note": "Client is watching for blood on the floor and reports only small drops, not large spots. She also thinks a calming plug-in is helping Gordy settle around Sampson.",
-     "quote": "I haven't noticed any large spots of blood on the floor. Only drops."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Margaret Bill",
-     "office": false,
-     "note": "Sampson refused his half pill on its own and the sitter reported hiding it in a treat.",
-     "quote": "He wanted affection but did not want his 1/2 pill."
     }
    ],
    "dormant": false
