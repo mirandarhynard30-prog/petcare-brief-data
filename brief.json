@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T19:20:04-04:00",
+ "generated": "2026-08-28T20:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2133,6 +2133,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Guinness walked in a new harness on the Aug 28 evening walk and pulled noticeably less. The sitter tested it on the dirt path turnaround toward Jaycox and says it cut down the pulling, at least on this walk. First report of the harness - not yet an established rule.",
+     "quote": "wow, what a difference a harness makes. Guinness was excellent on his walk today with his new harness."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2161,6 +2171,16 @@
      "office": false,
      "note": "Chased deer near the Commons and was very excitable on this walk - keep a firm leash on that route.",
      "quote": "Guinness did some deer chasing as he made sure that they ran and hide"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 28",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Guinness went #2 on the Aug 28 evening walk and the consistency was again logged as a little loose but not concerning - the same reading as Aug 24, 25 and 27, so four reports in five days rather than a one-off.",
+     "quote": ""
     },
     {
      "cat": "health",
