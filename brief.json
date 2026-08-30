@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T22:20:04-04:00",
+ "generated": "2026-08-30T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -300,6 +300,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Aug 30",
+     "source": "Renee Dougherty visit report",
+     "office": true,
+     "note": "Aug 30 morning visit: urine in the hall right near the kitchen plus stool there, and more stool in the dining room. All cleaned and treated with the stain and odor eliminator. Nothing in the litter box again. Fifth consecutive day of accidents and still no confirmed litter box use.",
+     "quote": "When we arrived, there was urine in the hall right near the kitchen and poop."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Aug 29",
      "source": "Renee Dougherty visit report",
      "office": false,
@@ -360,6 +370,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Aug 30",
+     "source": "Renee Dougherty visit report",
+     "office": false,
+     "note": "Sampson went #1 and #2 on the Aug 30 morning visit; the sitter recorded the stool as a little loose but not concerning.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 30",
+     "source": "Renee Dougherty visit report",
+     "office": false,
+     "note": "Sampson's half thyroid pill was again given hidden in a churu on the Aug 30 morning visit and he took it. Second visit running with this method; still not stated anywhere as the standing instruction.",
+     "quote": "Sampson received his half thyroid pill in the churo."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 29",
      "source": "Renee Dougherty visit report",
      "office": false,
@@ -385,36 +415,6 @@
      "office": false,
      "note": "Client's cleanup routine for accidents: paper towels first, then as many wipes as needed until nothing more comes off on the wipe, then spray the spot with the carpet cleaner. She has just bought five more packs of wipes and re-does any spots she still sees when she gets home.",
      "quote": "I clean up #2's with the paper towels 1st. Then as many of the wipes as you need"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Lacey Govil visit report, Aug 28 8:50pm",
-     "office": false,
-     "note": "On the Aug 28 evening visit Lacey found a hairball on the floor between the laundry room and the hallway and cleaned it up. After eating, Sampson licked himself for a long while and small fur balls were coming off, so the sitter expects more hairballs.",
-     "quote": "I fear he might get more hairballs as some small fur balls were coming out while he licked."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Lacey Govil visit report, Aug 28 8:50pm",
-     "office": false,
-     "note": "Litter boxes were checked on the Aug 28 evening visit and nothing was in them - a second report the same day of no litter box use. No accidents were found anywhere in the home on this visit.",
-     "quote": "I checked the litter boxes but did not see anything in them"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Kathy Pastor",
-     "office": false,
-     "note": "Gordy's stool was a little loose again on the Aug 27 morning walk, marked not concerning - second consecutive day after the same finding Aug 26.",
-     "quote": ""
     }
    ],
    "dormant": false
