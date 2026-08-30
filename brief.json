@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T20:20:04-04:00",
+ "generated": "2026-08-29T22:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2256,21 +2256,21 @@
      "cat": "home",
      "sev": "low",
      "type": "recent",
+     "date": "Aug 29",
+     "source": "Lacey Govil message",
+     "office": false,
+     "note": "After brushing Octavia on the Aug 29 evening visit the sitter took the brush home by accident and said she would return it on the morning of Aug 30. Octavia's brush will not be at the house until then.",
+     "quote": "I accidentally stole Octavia’s brush"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
      "date": "Aug 28",
      "source": "Craig Wells message",
      "office": false,
      "note": "Craig told the sitter on the morning of Aug 28 that Octavia's food and water bowls are in the dishwasher rather than out on the floor. Said once, in reply to Margaret Bill's arrival - not stated as a permanent rule.",
      "quote": "Perfect, you'll find her food and water bowls in the dishwasher."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Lacey Govil visit report, Aug 28 evening",
-     "office": false,
-     "note": "Aug 28 evening: Octavia was fed dry food mixed with warm water and ate it all, and her #2 was logged as firm and healthy. This report records no Buddy Guard supplement, no WinPro and no medicated pads - it does not say whether they were skipped or simply not written down.",
-     "quote": "Mixing warm water with her dry food and she happily ate it all up."
     }
    ],
    "dormant": false
@@ -2301,6 +2301,16 @@
      "office": true,
      "note": "Thirty-seven minutes later Lynne replied to a message from Miranda saying she is still deciding and needs to check the weather. The question she is answering is not reproduced in the notification, so what is still undecided is unclear - a decision from her is outstanding.",
      "quote": "Im still thinking. Have to check weather"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "On the Aug 29 evening visit Holly barked as the sitter came up to the house, then warmed up over the course of the visit. The client was home during this visit. Walk ran from the house to the roundabout and back, with a lot of sniffing; she went #1 several times and #2 once.",
+     "quote": "She barked as I approached the house."
     },
     {
      "cat": "behavior",
