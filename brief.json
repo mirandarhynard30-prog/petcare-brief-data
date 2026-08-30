@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T10:20:05-04:00",
+ "generated": "2026-08-30T11:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2733,6 +2733,36 @@
     "Whiskey"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 30",
+     "source": "Harvett Ellington meet-and-greet report",
+     "office": false,
+     "note": "Whiskey's morning routine per the Aug 30 meet-and-greet: one tomato before the walk, then one cup of dry food with treats.",
+     "quote": "Whiskey receives one tomato as a morning routine before walking. One cup of dry food with treats."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 30",
+     "source": "Harvett Ellington meet-and-greet report",
+     "office": false,
+     "note": "Water fountain needs refreshing, same as Tasha's, and there are several other bowls to refresh each visit.",
+     "quote": "Fountain that needs refreshing same as Tasha's. There are several bowls that will need to be refreshed."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 30",
+     "source": "Harvett Ellington meet-and-greet report",
+     "office": false,
+     "note": "In bad weather, enter at the back of the building and take a right to the double doors. Building entry details are in Time To Pet.",
+     "quote": ""
+    },
     {
      "cat": "behavior",
      "sev": "medium",
