@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T19:20:05-04:00",
+ "generated": "2026-08-29T20:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2712,6 +2712,26 @@
      "office": false,
      "note": "Sitter brought two delivered packages inside during the visit.",
      "quote": "I brought in two packages"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Erik Risa",
+   "url": "https://www.timetopet.com/dashboard/client/tkjls20aa0pB",
+   "pets": [
+    "Whiskey"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Time To Pet account notification, Aug 29 7:31pm",
+     "office": false,
+     "note": "A pet named Whiskey has been added to Erik Risa's account. The notification carries no species, age or handling detail - anything a sitter needs is still to be gathered.",
+     "quote": ""
     }
    ],
    "dormant": false
