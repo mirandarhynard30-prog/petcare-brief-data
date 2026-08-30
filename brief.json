@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T09:20:05-04:00",
+ "generated": "2026-08-30T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -310,6 +310,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Aug 30",
+     "source": "Client message, Aug 30 9:24am",
+     "office": true,
+     "note": "Client responded to the morning report: Sampson's peeing spot is the hardwood floor, not the litter box. She adds that overnight Becca cleaned up pee in about the same spot and stool on the dining room carpet.",
+     "quote": "Unfortunately Sampson's place to pee is on the hardwood floor not the litter box."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Aug 29",
      "source": "Renee Dougherty visit report",
      "office": false,
@@ -390,31 +400,21 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Aug 29",
-     "source": "Renee Dougherty visit report",
+     "date": "Aug 30",
+     "source": "Client message, Aug 30 9:24am",
      "office": false,
-     "note": "Sampson's thyroid medication was given hidden in a churu on the Aug 29 morning visit and he took it. One visit only, not confirmed as the standing method.",
-     "quote": "We gave him his thyroid medication in a churu and he took his medication."
+     "note": "First reported litter box use - client says Sampson used the litter box once overnight, but is cautious about reading anything into it and hopes things improve once his thyroid is regulated.",
+     "quote": "he did use the littler box once! But we know not to get too excited!"
     },
     {
-     "cat": "health",
+     "cat": "behavior",
      "sev": "medium",
      "type": "recent",
-     "date": "Aug 28",
-     "source": "Client message Aug 28",
-     "office": false,
-     "note": "Client says she and Chelsea have been checking and have not seen Sampson use the litter box, although the Aug 28 sitter thought he might have used it a little and cleaned it up.",
-     "quote": "I know Chelsea and I have been checking and we have not seen that he used it."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 28",
-     "source": "Client message Aug 28",
-     "office": false,
-     "note": "Client's cleanup routine for accidents: paper towels first, then as many wipes as needed until nothing more comes off on the wipe, then spray the spot with the carpet cleaner. She has just bought five more packs of wipes and re-does any spots she still sees when she gets home.",
-     "quote": "I clean up #2's with the paper towels 1st. Then as many of the wipes as you need"
+     "date": "Aug 30",
+     "source": "Margaret Bill message to client, Aug 30 9:54am",
+     "office": true,
+     "note": "Margaret suggested to the client that the dining room litter box be moved to the hallway spot where Sampson is peeing, since he smells it there. Offered as a suggestion; no client answer yet.",
+     "quote": "Let's move the litter box in the dining room to where he is peeing in the hallway. He smells it there."
     }
    ],
    "dormant": false
@@ -1828,6 +1828,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 30",
+     "source": "Kristin Ashick visit report, Aug 30 9:55am",
+     "office": false,
+     "note": "On the Aug 30 morning walk Ripley reacted hard to another dog coming down the hill on the driveway - the sitter says she needed all her strength to hold her. Ripley settled quickly; the sitter turned around when the other dog reappeared and kept the walk short and on guard.",
+     "quote": "Both dogs went berserk! I've never really had to use all my strengths for her. She is one strong lady."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -1936,16 +1946,6 @@
      "office": false,
      "note": "The grass was wet on the Aug 28 morning walk, so the sitter dried Ripley off and left her leash in the garage to dry - worth knowing where the leash is on the next visit.",
      "quote": "I also left her leash in the garage to dry because that got pretty wet too."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Monica Hopewell",
-     "office": false,
-     "note": "Ripley went #1 only on the Aug 27 morning visit, no bowel movement. Worth tracking against the Aug 24 report of no #2 and a basement accident.",
-     "quote": "She only went number 1 This morning"
     }
    ],
    "dormant": false
