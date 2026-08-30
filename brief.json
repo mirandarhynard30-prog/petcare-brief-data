@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T11:20:04-04:00",
+ "generated": "2026-08-30T12:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2762,6 +2762,16 @@
      "office": false,
      "note": "In bad weather, enter at the back of the building and take a right to the double doors. Building entry details are in Time To Pet.",
      "quote": ""
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 30",
+     "source": "Erik Risa message 11:21am",
+     "office": true,
+     "note": "After the Aug 30 meet-and-greet Erik confirmed daily visits for Whiskey start Monday and said he will square things away with his building staff. He does not say a date, and it is not stated whether the recurring schedule has been built in Time To Pet.",
+     "quote": "I’ll touch base with the staff in my building and make sure we’re all squared away for our daily visits starting Monday!"
     },
     {
      "cat": "behavior",
