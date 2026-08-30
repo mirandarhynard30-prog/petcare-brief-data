@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T12:20:10-04:00",
+ "generated": "2026-08-30T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2657,6 +2657,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Aug 30",
+     "source": "Lacey Govil visit report, 12:58pm",
+     "office": false,
+     "note": "Aayla had shredded plush toys again - Lacey found ripped-up pieces around the floor and threw them away. Lacey's wording says this has happened before, but only this one report is on file, so treat it as a repeat observation rather than an established rule. Walk itself was normal, two firm stools, drank well.",
+     "quote": "Aayla again had little ripped up pieces of plush toys around the floor."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 29",
      "source": "Lacey Govil visit report, Aug 29 midday",
      "office": false,
@@ -2692,6 +2702,16 @@
      "office": false,
      "note": "Warm day, so the sitter took a shade break mid-walk. Heat sensitivity is not stated in the email, only the sitter's precaution.",
      "quote": "It was a tad warmer so did take a little shade break."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 30",
+     "source": "Lacey Govil visit report, 12:58pm",
+     "office": false,
+     "note": "No broom where the sitter looked - Lacey checked the closet, did not find one, and picked the toy pieces up by hand into the kitchen trash. Worth telling the next sitter where cleaning supplies actually are.",
+     "quote": "I looked for a broom in the closet but did not see one"
     },
     {
      "cat": "home",
@@ -2774,6 +2794,26 @@
      "quote": "I’ll touch base with the staff in my building and make sure we’re all squared away for our daily visits starting Monday!"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 30",
+     "source": "Company Notes updated by Shannon Anderson",
+     "office": true,
+     "note": "Feeding now recorded: dry Purina, 1 cup, food and treats on the counter, water fountain in the kitchen. Feeding times are logged as Midday/Afternoon but the written instruction says a tomato from the garden in the am - the office should confirm with Erik whether the tomato is a separate morning item before visits start Monday.",
+     "quote": "1c of food, 1 tomato from garden in am"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 30",
+     "source": "Company Notes updated by Shannon Anderson",
+     "office": false,
+     "note": "Whiskey's record now says dog friendly, not an escape risk. Leash and harness are by the door, toys in the living room, cleaning supplies under the sink. Client is not home during visits.",
+     "quote": "Leash location: by door"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2782,6 +2822,16 @@
      "office": false,
      "note": "A pet named Whiskey has been added to Erik Risa's account. The notification carries no species, age or handling detail - anything a sitter needs is still to be gathered.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Aug 30",
+     "source": "Company Notes updated by Shannon Anderson",
+     "office": false,
+     "note": "Park in the visitor lot on the side of the building. Poop bags are attached to the leash and the disposal can is in the pet area next to that lot. No mail or trash tasks.",
+     "quote": "Best place to park: visitor lot on side of building"
     }
    ],
    "dormant": false
