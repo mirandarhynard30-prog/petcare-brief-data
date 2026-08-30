@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T08:20:38-04:00",
+ "generated": "2026-08-30T09:35:06-04:00",
  "date": "2026-08-30",
  "label": "Aug 30, 2026",
  "clients": [
@@ -107,8 +107,8 @@
    "name": "Matt Konn",
    "visits": [
     {
-     "time": "8:30 AM",
-     "sort": "0830",
+     "time": "9:30 AM",
+     "sort": "0930",
      "staff": "Kristin Ashick",
      "service": "Dog Visit-30 minute",
      "pets": "Ripley"
