@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T15:20:05-04:00",
+ "generated": "2026-08-30T17:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2753,6 +2753,16 @@
     "Whiskey"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 30",
+     "source": "Client message 4:56pm",
+     "office": true,
+     "note": "Client asks to push the start of daily visits from Mon Aug 31 to Mon Sep 7 because of a last-minute change to his girlfriend's schedule. Needs an answer from the office before tomorrow morning; the Monday visits are currently still on the schedule.",
+     "quote": "If possible, could we change our start date to be one week from tomorrow on 9/7 please?"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
