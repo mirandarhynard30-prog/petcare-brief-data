@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T11:50:23-04:00",
+ "generated": "2026-08-31T13:05:08-04:00",
  "date": "2026-08-31",
  "label": "Aug 31, 2026",
  "clients": [
@@ -100,8 +100,8 @@
    "name": "Liz Wainio",
    "visits": [
     {
-     "time": "12:00 PM",
-     "sort": "1200",
+     "time": "12:30 PM",
+     "sort": "1230",
      "staff": "Thomas Rakovec",
      "service": "Dog Visit-45 minute",
      "pets": "Stella, Berry, Emma, Louie"
