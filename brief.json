@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T11:20:05-04:00",
+ "generated": "2026-08-31T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -170,6 +170,16 @@
      "office": false,
      "note": "A stray black cat was in the yard before the visit. The sitter herded it out through a crack in the gate to avoid a run-in with the dogs; the gate itself is secured closed.",
      "quote": "I herded her through the crack in the gate (which is secured closed) so that we could avoid the possibility of an altercation."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Elizabeth Cuffari visit report",
+     "office": true,
+     "note": "Aug 31 afternoon visit: both dogs got a treat and the sitter answered No to supplies getting low. Bears on the earlier open note that treats needed restocking - worth confirming with the office rather than assuming it is closed.",
+     "quote": ""
     },
     {
      "cat": "behavior",
@@ -1060,6 +1070,16 @@
      "office": false,
      "note": "The client arranged a pest control spray of the yard perimeter, though a later message the same day said the company cannot come until the following Friday.",
      "quote": "I have a pest control co coming on Friday to spray the perimeter of the yard."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "On the Aug 31 morning walk Georgie tried to eat grass and the sitter discouraged him. 77 degrees and slightly humid; otherwise a normal walk, #1 and #2 firm and healthy.",
+     "quote": "He wanted to eat grass and I encouraged him not to."
     },
     {
      "cat": "behavior",
@@ -2944,6 +2964,16 @@
     "Murphy"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Aug 31 10am walk: Murphy seemed fairly hot in very humid weather, panted and looked tired, so the sitter cut the route short at the stop sign and brought him in. Storm threatening. Client was home during the visit and asked that the door not be locked.",
+     "quote": "He looked tired and he was panting , so I brought him in and took his leash off and harness."
+    },
     {
      "cat": "home",
      "sev": "medium",
