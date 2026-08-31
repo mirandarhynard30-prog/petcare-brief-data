@@ -1,20 +1,8 @@
 {
- "generated": "2026-08-31T00:05:07-04:00",
+ "generated": "2026-08-31T10:35:11-04:00",
  "date": "2026-08-31",
  "label": "Aug 31, 2026",
  "clients": [
-  {
-   "name": "Angela Jozsa",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Lacey Govil",
-     "service": "Dog Visit-30 minute",
-     "pets": "Lucy"
-    }
-   ]
-  },
   {
    "name": "Anna Marie LeMaster",
    "visits": [
@@ -245,5 +233,5 @@
    ]
   }
  ],
- "visitCount": 23
+ "visitCount": 22
 }
