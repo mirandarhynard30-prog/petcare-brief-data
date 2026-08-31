@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T12:20:06-04:00",
+ "generated": "2026-08-31T13:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -506,6 +506,26 @@
      "office": true,
      "note": "The client cancelled Friday's walk because of a schedule change and asked specifically that Kayla be told.",
      "quote": "I will be home Friday and will need to cancel Friday’s walk."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Kayla Popow visit report Aug 31 12:31 pm ET",
+     "office": false,
+     "note": "CJ's stool on the Aug 31 midday walk looked to the sitter as though he had eaten something he should not have; she photographed it for the owners. The report's consistency answer for CJ was still recorded as firm and healthy, so the two do not agree - worth a look at the photo.",
+     "quote": "it looked like he got ahold of something and just wanted you both to see just incase"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Kayla Popow visit report Aug 31 12:31 pm ET",
+     "office": false,
+     "note": "The Aug 31 midday walk was cut short because it turned very muggy; the sitter brought Rex and CJ back into the air conditioning early and gave them extra indoor playtime instead. Both still went #1 and #2.",
+     "quote": "I knew if I was dripping sweat that the boys were so I got them in the AC"
     },
     {
      "cat": "home",
