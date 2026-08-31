@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T21:20:09-04:00",
+ "generated": "2026-08-31T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2862,6 +2862,36 @@
      "office": false,
      "note": "Park in the visitor lot on the side of the building. Poop bags are attached to the leash and the disposal can is in the pet area next to that lot. No mail or trash tasks.",
      "quote": "Best place to park: visitor lot on side of building"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Julie Valerio",
+   "url": "https://www.timetopet.com/dashboard/client/tbai0cijRshl",
+   "pets": [
+    "Murphy"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 24",
+     "source": "Lacey Govil visit report",
+     "office": false,
+     "note": "Julie is normally home for the walk and asks that the door not be locked. Recorded the same way on both the Aug 17 and Aug 24 visit reports, so sitters have not needed to enter or secure the house.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 17",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "On the Aug 17 walk Julie put Murphy's harness on herself. Murphy walked at a good pace and passed a large black lab on leash without reacting. Margaret's route ran down the side street to Hudson Drive and back onto Notre Dame.",
+     "quote": "He saw one big black lab and didn't bark at all."
     }
    ],
    "dormant": false
