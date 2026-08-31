@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T10:20:06-04:00",
+ "generated": "2026-08-31T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -390,6 +390,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Aug 31",
+     "source": "Renee Dougherty visit report 10:40am",
+     "office": false,
+     "note": "Gordy pooped three times and peed several times on the morning walk; consistency logged as a little loose but not concerning. He was too tired to take his treats afterward. Renee was being trained by Chelsea on this visit.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 30",
      "source": "Renee Dougherty visit report",
      "office": false,
@@ -405,16 +415,6 @@
      "office": false,
      "note": "Sampson's half thyroid pill was again given hidden in a churu on the Aug 30 morning visit and he took it. Second visit running with this method; still not stated anywhere as the standing instruction.",
      "quote": "Sampson received his half thyroid pill in the churo."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Client message, Aug 30 9:24am",
-     "office": false,
-     "note": "First reported litter box use - client says Sampson used the litter box once overnight, but is cautious about reading anything into it and hopes things improve once his thyroid is regulated.",
-     "quote": "he did use the littler box once! But we know not to get too excited!"
     }
    ],
    "dormant": false
@@ -676,7 +676,8 @@
    "pets": [
     "Chloe",
     "Ellie Mae",
-    "Eleanor (Ellie Mae)"
+    "Eleanor (Ellie Mae)",
+    "Ella Mae"
    ],
    "items": [
     {
@@ -758,6 +759,16 @@
      "office": false,
      "note": "Ellie Mae was at the vet and not home for the afternoon walk, leaving Chloe only.",
      "quote": "taking Ellie to the doctor so she won’t be here for the afternoon walk"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Elizabeth Sigler visit report 10:46am",
+     "office": false,
+     "note": "Chloe walked slower than usual and seemed tired, though she still enjoyed being out. She picks the direction and signals when she wants to turn back - Elizabeth was shadowing Harvett on this visit.",
+     "quote": "one of Chloe's slower days as she seemed a bit tired"
     },
     {
      "cat": "health",
@@ -1512,6 +1523,16 @@
      "office": false,
      "note": "On the Aug 31 morning walk Astra fixated on two hound dogs across the street and kept stopping to stare, then watched another dog for a while later in the walk. Sitter describes her as always interested in other dogs. No pulling or reaction is reported, only staring and stopping.",
      "quote": "Astra kept stopping and looking at them"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Client private message 10:18am",
+     "office": false,
+     "note": "Follow-up to the garage hand-off she agreed to earlier this morning: the garage will be open and she will be standing outside with the dogs when the sitter arrives.",
+     "quote": "Yes, it'll be open, but I'll be standing outside with them when they come so no worries."
     },
     {
      "cat": "behavior",
