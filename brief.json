@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T06:20:05-04:00",
+ "generated": "2026-08-31T08:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -377,6 +377,16 @@
      "quote": "I found out he has crystals in his pee."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Client message Aug 31",
+     "office": false,
+     "note": "Sampson urinated on the kitchen/hallway floor again on Aug 31 - house-soiling is continuing day to day. Client is frustrated but not asking for anything specific.",
+     "quote": "He did pee on the kitchen/hallway floor again."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -405,16 +415,6 @@
      "office": false,
      "note": "First reported litter box use - client says Sampson used the litter box once overnight, but is cautious about reading anything into it and hopes things improve once his thyroid is regulated.",
      "quote": "he did use the littler box once! But we know not to get too excited!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Margaret Bill message to client, Aug 30 9:54am",
-     "office": true,
-     "note": "Margaret suggested to the client that the dining room litter box be moved to the hallway spot where Sampson is peeing, since he smells it there. Offered as a suggestion; no client answer yet.",
-     "quote": "Let's move the litter box in the dining room to where he is peeing in the hallway. He smells it there."
     }
    ],
    "dormant": false
