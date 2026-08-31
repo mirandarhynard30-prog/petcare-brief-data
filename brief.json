@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T17:20:05-04:00",
+ "generated": "2026-08-31T19:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2472,6 +2472,16 @@
      "office": true,
      "note": "Thirty-seven minutes later Lynne replied to a message from Miranda saying she is still deciding and needs to check the weather. The question she is answering is not reproduced in the notification, so what is still undecided is unclear - a decision from her is outstanding.",
      "quote": "Im still thinking. Have to check weather"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Dan Dantimo visit report, Aug 31 6:25pm",
+     "office": false,
+     "note": "Holly was groomed on Sunday Aug 30, so the Aug 29 cancellation request appears to have been honoured. On the Aug 31 evening walk she wanted to sniff rather than walk and only covered one cul-de-sac before a water break. The same report logs her #2 as slightly loose but not concerning - the second such note after Aug 25.",
+     "quote": "she had to make up for Sunday while she was getting groomed"
     },
     {
      "cat": "behavior",
