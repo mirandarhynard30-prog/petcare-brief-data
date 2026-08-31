@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T14:20:06-04:00",
+ "generated": "2026-08-31T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -743,6 +743,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Aug 31",
+     "source": "Client message from Melody Siska, Aug 31 5:00 pm",
+     "office": false,
+     "note": "Ellie Mae has died. Melody told the office on the afternoon of Aug 31. Only Chloe remains on visits from now on. Do not ask after Ellie Mae or expect her at the house; earlier standing notes about minimising her walking no longer apply.",
+     "quote": "our sweet ellie passed away today."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Aug 27",
      "source": "Kiara Streety",
@@ -849,16 +859,6 @@
      "office": false,
      "note": "Chloe seemed a little sluggish on the Aug 28 visit but still enjoyed her walk; her stool was recorded as firm and healthy.",
      "quote": "Chloe was a little sluggish today but still had fun"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Client",
-     "office": false,
-     "note": "Cans of dog food on the front porch are there on purpose and should be left alone.",
-     "quote": "there are some cans of dog food on the front porch. Please leave them there."
     }
    ],
    "dormant": false
