@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T08:20:04-04:00",
+ "generated": "2026-08-31T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -557,6 +557,26 @@
     "Lucy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Client private message Aug 31 9:22am",
+     "office": true,
+     "note": "Client (Carol) asks to cancel today's Aug 31 visit and sets out a new week: add a 4:00 on Thursday, change Friday to 10am as the only visit that day, then 11:30 on Saturday, Sunday and Monday. She says they are going away for the weekend and leaving Thursday afternoon. She gives weekdays only, no dates, so which calendar dates these are is not stated in the email - and it needs checking against her earlier Sept 4-6 request, which used the same weekdays.",
+     "quote": "I will also need to add on a 4:00 on Thursday and change Friday to 10 am"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Client private message Aug 31 9:45am",
+     "office": true,
+     "note": "Follow-up 23 minutes later after an exchange with the office: today's visit is cancelled, and she adds that Tuesday and Wednesday are just regular days at the normal time. The Thursday-through-Monday changes in her earlier message are not repeated here, so they still need confirming and building.",
+     "quote": "we can cancel today…. also Tuesday and Wednesday will be just a regular day at the normal time"
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -1466,12 +1486,32 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "standing",
+     "date": "Aug 31",
+     "source": "Client private message Aug 31",
+     "office": false,
+     "note": "Client spells out the difference between the two dogs if one gets loose: Nova comes back when called, Astra bolts. She says the dogs have halo collars for this but they were on charge the last time Astra got out. She agrees to a garage hand-off going forward, so sitters should take and return the dogs through the garage rather than the front door.",
+     "quote": "nova comes straight back when called, but astra will bolt"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "recent",
      "date": "Aug 19",
      "source": "Michelle Carrara",
      "office": false,
      "note": "A sitter message indicates Astra got out and was found quickly that morning; the circumstances are not described in the email.",
      "quote": "I am glad that Astra is back and that you found her quickly."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Tiarra Roberts visit report Aug 31 morning",
+     "office": false,
+     "note": "On the Aug 31 morning walk Astra fixated on two hound dogs across the street and kept stopping to stare, then watched another dog for a while later in the walk. Sitter describes her as always interested in other dogs. No pulling or reaction is reported, only staring and stopping.",
+     "quote": "Astra kept stopping and looking at them"
     },
     {
      "cat": "behavior",
@@ -1492,6 +1532,16 @@
      "office": false,
      "note": "The client is home and hands the leash over at the front door, the doorbell does not work so knock, and only one dog is walked at a time.",
      "quote": "Client will be home, leash hand off at the front door."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Tiarra Roberts visit report Aug 31 morning",
+     "office": false,
+     "note": "Sitter logged 74 degrees at the Aug 31 morning walk and noted Astra panting slightly, with her pace slowing towards the end. Astra went #1 twice early and #2 near the end.",
+     "quote": "I hear Astra panting slightly"
     },
     {
      "cat": "home",
@@ -1921,6 +1971,16 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Aug 31",
+     "source": "Monica Hopewell visit report Aug 31 morning",
+     "office": false,
+     "note": "Aug 31 morning walk: Ripley went #1 and #2 twice, and the sitter describes the second #2 as pretty soft - not loose, but heading that way. Report otherwise routine, no accidents in the home, water refreshed.",
+     "quote": "the second number two was pretty soft, not loose but on the way to being that way"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Aug 30",
      "source": "Yasmeen Abrams visit report, Aug 30 1:34pm",
      "office": false,
@@ -1956,16 +2016,6 @@
      "office": false,
      "note": "On the Aug 28 evening visit Ripley went #1 only; the report records no #2 for that visit.",
      "quote": "She only went number 1 this afternoon."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Monica Hopewell visit report, Aug 28 evening",
-     "office": false,
-     "note": "Aug 28 evening: Ripley would not settle on a direction for about ten minutes before the sitter took her on the back trail, and barked loudly when an Amazon driver arrived during play time. Single report, not stated as a pattern.",
-     "quote": "she wouldn't make up her mind about where we were going to go so after 10 minutes we went on the back trail"
     }
    ],
    "dormant": false
@@ -2183,6 +2233,16 @@
      "quote": "Medicated pads for around her mouth 1 for each side of mouth. Wipe hard"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Margaret Bill visit report Aug 31 9am",
+     "office": false,
+     "note": "Aug 31 9am walk: Octavia went #1 several times and #2 once, and the consistency was logged firm and healthy. Warm and humid, walk otherwise uneventful.",
+     "quote": "She went number one mabt times and number two once"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2253,6 +2313,16 @@
      "quote": "Feeding times: Morning, Bedtime No Buddy Guard or WinPro"
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Margaret Bill visit report Aug 31 9am",
+     "office": false,
+     "note": "The door was locked when the sitter arrived for the Aug 31 9am visit and Octavia barked a good deal before she got in, though the same report still records the home as 'Client was home during visit/ Client asked not to lock door'. Worth confirming with Craig whether the door should be left unlocked for morning visits.",
+     "quote": "The door was locked so Octavia agreed to me with many barks"
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -2271,26 +2341,6 @@
      "office": false,
      "note": "Craig had already fed Octavia before the 9:00 am visit on Aug 29, so the sitter did no feeding and the report records no Buddy Guard or WinPro. Relevant to the open question about breakfast supplements.",
      "quote": "Octavia had been fed when I came in and was ready to go for her walk."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Client message to sitter Lacey, Aug 29 5:30pm",
-     "office": false,
-     "note": "Ahead of the Aug 29 evening visit Craig told the sitter that Octavia had already been fed and only needs walking - so no feeding at that visit. This is the second time on Aug 29 he has pre-fed her before a visit.",
-     "quote": "Octavia has been fed, just needs walked."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Lacey Govil message",
-     "office": false,
-     "note": "After brushing Octavia on the Aug 29 evening visit the sitter took the brush home by accident and said she would return it on the morning of Aug 30. Octavia's brush will not be at the house until then.",
-     "quote": "I accidentally stole Octavia’s brush"
     }
    ],
    "dormant": false
