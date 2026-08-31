@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T13:05:08-04:00",
+ "generated": "2026-08-31T17:51:41-04:00",
  "date": "2026-08-31",
  "label": "Aug 31, 2026",
  "clients": [
@@ -178,21 +178,21 @@
      "sort": "1000",
      "staff": "Harvett Ellington",
      "service": "Trainer Visit-30minute",
-     "pets": "chloe, Eleanor (Ellie Mae), chloe"
+     "pets": "chloe, chloe"
     },
     {
      "time": "10:00 AM",
      "sort": "1000",
      "staff": "Elizabeth Sigler",
      "service": "Shadow Visit with Staff Member-30 minute",
-     "pets": "chloe, Eleanor (Ellie Mae)"
+     "pets": "chloe"
     },
     {
      "time": "1:15 PM",
      "sort": "1315",
      "staff": "Shannon  Anderson",
      "service": "Long Range Visit-30 Minute",
-     "pets": "chloe, Eleanor (Ellie Mae)"
+     "pets": "chloe"
     }
    ]
   },
