@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T13:20:06-04:00",
+ "generated": "2026-08-31T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -243,6 +243,16 @@
      "office": false,
      "note": "Louie has a Saturday vet appointment about his hips and has been unusually grumpy with the other dogs all week.",
      "quote": "Louie has a vet appointment this Saturday for his hips. He has been extra grumpy with all the dogs this past week"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Thomas Rakovec visit report, Aug 31 afternoon",
+     "office": false,
+     "note": "On the afternoon walk Stella and Berry both went #1 but neither went #2, and the sitter flagged it as the same as Friday and said he did not know why. Emma's eye drops were given and medication marked administered.",
+     "quote": "both went no.#1 bot no.#2 like Fri ?? Not sure why not"
     },
     {
      "cat": "health",
@@ -528,6 +538,26 @@
      "quote": "I knew if I was dripping sweat that the boys were so I got them in the AC"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Client message from Toni, Aug 31 afternoon",
+     "office": false,
+     "note": "Replying to Kayla about CJ's stool: Toni says both dogs have been having pumpkin as a topping on their food and it may account for the colouring, and that she will watch CJ's stool tonight. She does not know what he ate.",
+     "quote": "They’ve both been eating pumpkin as a topping on their food so not sure if that could be the coloring"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 31",
+     "source": "Client message from Toni, Aug 31 afternoon",
+     "office": false,
+     "note": "Owner points sitters to small water bottles kept in the outside refrigerator and a collapsible bowl on top of CJ's crate, to take on walks if the boys get thirsty. Offered because the week is muggy.",
+     "quote": "There a collapse-able bowl on top of CJ’s crate you take along."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -729,6 +759,16 @@
      "office": false,
      "note": "Ellie Mae has been unwell and the client says her vet asked that her walking be minimised, so Chloe is walked alone for now.",
      "quote": "please don’t walk Ellie just walk Chloe the little white dog"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Shannon Anderson visit report, Aug 31 afternoon",
+     "office": true,
+     "note": "Sitter notes Ellie Mae is unwell again today and asks to be kept posted. No symptoms are given in the report, so what is wrong is unclear. Chloe was fine - asleep on arrival, then a short walk of about two driveways, #1 and #2 both done.",
+     "quote": "I'm sorry Ellie Mae isn't feeling well today."
     },
     {
      "cat": "health",
@@ -1992,6 +2032,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Aug 31",
+     "source": "Kristin Ashick visit report, Aug 31 afternoon",
+     "office": false,
+     "note": "Ripley was lethargic on the afternoon visit - asleep on her stool and did not come when called. The walk was cut short and she would not go #1 or #2 on it, then refused to go out in the back yard either. She drank refreshed water. The morning visit that day was normal.",
+     "quote": "She would not go number one or number two though."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 28",
      "source": "Monica Hopewell visit report, Aug 28 morning",
      "office": false,
@@ -2067,16 +2117,6 @@
      "office": false,
      "note": "Ripley went #1 but no #2 on the Aug 29 afternoon walk. Upper-80s heat, so the sitter kept the walk short around the development; Ripley sniffed at the end of the driveway but did not go.",
      "quote": "It was a hot one today upper 80s so we went on a short walk around the development."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Monica Hopewell visit report, Aug 28 evening",
-     "office": false,
-     "note": "On the Aug 28 evening visit Ripley went #1 only; the report records no #2 for that visit.",
-     "quote": "She only went number 1 this afternoon."
     }
    ],
    "dormant": false
