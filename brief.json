@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T18:20:04-04:00",
+ "generated": "2026-08-30T21:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1669,6 +1669,26 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Aug 30",
+     "source": "Client message 9:06pm",
+     "office": true,
+     "note": "Marcella could not make an appointment on Aug 30 - a painter called. She did not say which appointment or ask to rebook, so the office needs to confirm what was missed and whether it is being rescheduled.",
+     "quote": "Thought I could make the appointment. Then the painter called. Sorry."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 30",
+     "source": "Client message 9:10pm",
+     "office": true,
+     "note": "Marcella is floating the idea of isolating Buttercup in the laundry room for Robin so grooming goes better. It is a proposal, not a confirmed instruction - the office needs to answer before a sitter acts on it.",
+     "quote": "I was thinking about isolated Buttercup in the laundry room for Robin. It may take longer for him to volunteer the connection for grooming."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 27",
      "source": "Client message, Aug 27",
      "office": true,
@@ -2236,6 +2256,16 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Aug 30",
+     "source": "Margaret Bill visit report, 8pm",
+     "office": false,
+     "note": "Octavia urinated repeatedly but had no bowel movement on the Aug 30 8pm walk; Margaret walked the complex to give her the chance. Client was home during the visit.",
+     "quote": "She went #1 many times but no number two."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Aug 29",
      "source": "Margaret Bill visit report",
      "office": false,
@@ -2261,16 +2291,6 @@
      "office": false,
      "note": "After brushing Octavia on the Aug 29 evening visit the sitter took the brush home by accident and said she would return it on the morning of Aug 30. Octavia's brush will not be at the house until then.",
      "quote": "I accidentally stole Octavia’s brush"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Craig Wells message",
-     "office": false,
-     "note": "Craig told the sitter on the morning of Aug 28 that Octavia's food and water bowls are in the dishwasher rather than out on the floor. Said once, in reply to Margaret Bill's arrival - not stated as a permanent rule.",
-     "quote": "Perfect, you'll find her food and water bowls in the dishwasher."
     }
    ],
    "dormant": false
