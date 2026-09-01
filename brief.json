@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T12:20:06-04:00",
+ "generated": "2026-09-01T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -692,6 +692,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 1",
+     "source": "Lacey Govil visit report",
+     "office": false,
+     "note": "Lucy refused water both before and after her walk. Outside time kept brief because of the heat; she went #1 only, then laid down in the grass and did not want to get up until coaxed.",
+     "quote": "She did not drink any."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Lacey Govil visit report",
+     "office": false,
+     "note": "Lucy scooted on the carpet during the visit. Sitter told her no and she stopped. Single observation, no prior scooting noted in this report.",
+     "quote": "She did also scoot some on the carpet."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 29",
      "source": "Margaret Bill visit report, Aug 29 afternoon",
      "office": false,
@@ -727,16 +747,6 @@
      "office": true,
      "note": "The client cancelled the next day's services again and asked for someone Thursday at 11:30 and again at 2:30.",
      "quote": "I am going to need to cancel services again for tomorrow."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Lacey Govil visit report, Aug 26",
-     "office": false,
-     "note": "Lucy needed rest breaks during the walk before carrying on.",
-     "quote": "Lucy needed a couple breaks on the walk but after a couple minutes she got back up and running!"
     }
    ],
    "dormant": false
