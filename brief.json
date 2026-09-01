@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T20:20:07-04:00",
+ "generated": "2026-08-31T23:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1887,6 +1887,16 @@
     "Macy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Charlene Szunyog",
+     "office": true,
+     "note": "Charlene replied at 10:18pm agreeing to a 9:30 or 10 arrival time. The notification carries no visit date or service, so the office needs to open the thread to see which visit she is confirming and set the time.",
+     "quote": "9:30 or 10 is fine!"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
