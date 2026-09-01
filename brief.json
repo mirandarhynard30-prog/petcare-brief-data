@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T10:20:06-04:00",
+ "generated": "2026-09-01T11:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -397,6 +397,16 @@
      "quote": "I found out he has crystals in his pee."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Chelsea Tompkins visit report, 10:30am",
+     "office": false,
+     "note": "Gordy struggled with the heat. Chelsea put his cooling vest on, skipped the usual around-the-block route and walked only down the street and back. He went #2 twice, a little loose but not concerning, then lay down by the door.",
+     "quote": "I think Gordy's hot. He is panting with his tongue out."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -425,16 +435,6 @@
      "office": false,
      "note": "Sampson went #1 and #2 on the Aug 30 morning visit; the sitter recorded the stool as a little loose but not concerning.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Renee Dougherty visit report",
-     "office": false,
-     "note": "Sampson's half thyroid pill was again given hidden in a churu on the Aug 30 morning visit and he took it. Second visit running with this method; still not stated anywhere as the standing instruction.",
-     "quote": "Sampson received his half thyroid pill in the churo."
     }
    ],
    "dormant": false
@@ -443,9 +443,20 @@
    "name": "Jesse Terdan",
    "url": "https://www.timetopet.com/dashboard/client/ta0aq3ceiwYT",
    "pets": [
-    "Oliver"
+    "Oliver",
+    "Ginger"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Client message to Robin, 10:15am",
+     "office": true,
+     "note": "Jesse messaged that his surgery went well and he was heading home from the hospital today. Robin's daily cover was booked until further notice pending review after Mon Aug 31 - office needs to confirm an end date now that he is back home.",
+     "quote": "Surgery went well and I will be on my way home from the hospital soon."
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -771,6 +782,16 @@
      "quote": "please don’t walk Ellie just walk Chloe the little white dog"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Kiara Streety visit report, 10:39am",
+     "office": false,
+     "note": "First visit after Ellie Mae's death. Chloe walked very slowly at first and needed cheering up before she started running and enjoying herself. She is the only pet on visits now. Expect a subdued dog and allow extra time.",
+     "quote": "you could tell she is missing both her siblings"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -841,24 +862,14 @@
      "quote": "taking Ellie to the doctor so she won’t be here for the afternoon walk"
     },
     {
-     "cat": "behavior",
+     "cat": "home",
      "sev": "low",
      "type": "recent",
-     "date": "Aug 31",
-     "source": "Elizabeth Sigler visit report 10:46am",
+     "date": "Sep 1",
+     "source": "Kiara Streety visit report, 10:39am",
      "office": false,
-     "note": "Chloe walked slower than usual and seemed tired, though she still enjoyed being out. She picks the direction and signals when she wants to turn back - Elizabeth was shadowing Harvett on this visit.",
-     "quote": "one of Chloe's slower days as she seemed a bit tired"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Visit report from Harvett Ellington, Aug 28 late morning",
-     "office": false,
-     "note": "Chloe seemed a little sluggish on the Aug 28 visit but still enjoyed her walk; her stool was recorded as firm and healthy.",
-     "quote": "Chloe was a little sluggish today but still had fun"
+     "note": "No poop bags were on the leash; Kiara had to go back to her car for one. Bring your own bags until the leash supply is restocked.",
+     "quote": "we didn’t have any poop bags on the leash"
     }
    ],
    "dormant": false
@@ -2622,6 +2633,16 @@
      "office": false,
      "note": "Oakley may hide upstairs on arrival; if he does not come down to greet you, check the bedroom.",
      "quote": "Oakley might be hiding upstairs, if he does not come down for you please look in bedroom"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Ashley Corall visit report, 10:58am",
+     "office": false,
+     "note": "Oakley left his breakfast after a hot, humid walk. Ashley rinsed his paws, refreshed his water and expected him to eat once he cooled down. Worth a check on the next visit if it repeats.",
+     "quote": "He didn’t feel like his breakfast when we got back"
     }
    ],
    "dormant": false
@@ -2633,6 +2654,16 @@
     "Archie"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Thomas Rakovec visit report, 10:37am",
+     "office": false,
+     "note": "Archie did not have a bowel movement on today's walk, though he urinated several times. Single observation only - worth watching on the next visit.",
+     "quote": "Archie didn't go no.2 and went no.1 several times"
+    },
     {
      "cat": "home",
      "sev": "low",
