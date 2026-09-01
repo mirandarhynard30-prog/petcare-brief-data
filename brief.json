@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T14:20:05-04:00",
+ "generated": "2026-09-01T15:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -152,6 +152,16 @@
      "quote": "rusty threw up a few times this morning, so watch out for that"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Shannon Anderson visit report, Sep 1 12:39pm",
+     "office": false,
+     "note": "Backyard time cut short in the heat - Shannon kept the girls out only long enough to potty, gave cold water before and after, and took them out once more briefly. Both went #1 and #2, stool firm.",
+     "quote": "We didn't stay out long because of the weather"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -283,6 +293,16 @@
      "office": false,
      "note": "Stella and Berry both had diarrhea that the client said had cleared by that morning, possibly from new treats.",
      "quote": "Stella and Berry both had diarrhea. It appeared to have resolved by this morning"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Thomas Rakovec visit report, Sep 1 12:23pm",
+     "office": false,
+     "note": "Louie was the only one not taken out back on the Sep 1 midday visit; everyone else went #1 and came back in. The report does not say why Louie stayed in.",
+     "quote": "arrived at the house got everyone out back except Louie"
     },
     {
      "cat": "health",
