@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T17:20:04-04:00",
+ "generated": "2026-09-01T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2060,6 +2060,26 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Matt Konn private message, Sep 1 5:34pm and 5:49pm",
+     "office": true,
+     "note": "Client asked at 5:34pm for an extra visit tomorrow, Wed Sep 2, so two visits for the day. At 5:49pm he gave the windows: he leaves about 9:15, so 11-12:30 and 3-4. Both still need building in the schedule.",
+     "quote": "I’m heading out about 9:15…so 11-12:30 & 3-4 would be great!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Matt Konn private message, Sep 1 5:52pm",
+     "office": true,
+     "note": "Separate 5:52pm message: client asked for three visits this Saturday, Sep 5 - 8-9 visit and feed, 12-1 visit, 4-5 visit and feed. He is going to Pittsburgh for the day and acknowledged it is the holiday weekend. Needs confirming and staffing.",
+     "quote": "I’m heading to Pittsburgh for the day"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -2158,26 +2178,6 @@
      "office": false,
      "note": "Aug 31 morning walk: Ripley went #1 and #2 twice, and the sitter describes the second #2 as pretty soft - not loose, but heading that way. Report otherwise routine, no accidents in the home, water refreshed.",
      "quote": "the second number two was pretty soft, not loose but on the way to being that way"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Yasmeen Abrams visit report, Aug 30 1:34pm",
-     "office": false,
-     "note": "Aug 30 afternoon visit: it was raining, so the sitter did a backyard potty break instead of a walk. Ripley went #1 but no #2, and did not want to stay out in the rain. Water refilled, treat given, no accidents found in the home.",
-     "quote": "It was raining as I arrived so we did a backyard visits to ensure Ripley had enough time to go number 1 or 2."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Monica Hopewell visit report",
-     "office": false,
-     "note": "Aug 29 morning walk: Ripley went both #1 and #2 and the consistency was logged as firm and healthy. No accidents found in the home. Second consecutive normal #2 after the Aug 27 report of no bowel movement.",
-     "quote": "She went both 1 and 2 today."
     }
    ],
    "dormant": false
