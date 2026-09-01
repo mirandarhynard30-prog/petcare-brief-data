@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T23:20:05-04:00",
+ "generated": "2026-09-01T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1887,6 +1887,16 @@
     "Macy"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Ashley Corall visit report Sep 1",
+     "office": false,
+     "note": "On the Sep 1 morning walk in high heat Murphy started to get warm toward the end. Walk was otherwise normal, #1 and #2 both done and stool firm and healthy. Watch the heat on the next few visits.",
+     "quote": "I think he was starting to get a little warm at end, but he will probably have a great nap today!"
+    },
     {
      "cat": "schedule",
      "sev": "medium",
