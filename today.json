@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T00:05:10-04:00",
+ "generated": "2026-09-01T10:50:11-04:00",
  "date": "2026-09-01",
  "label": "Sep 1, 2026",
  "clients": [
@@ -187,7 +187,7 @@
      "time": "9:30 AM",
      "sort": "0930",
      "staff": "Thomas Rakovec",
-     "service": "Dog Visit-30 minute",
+     "service": "Dog Visit-45 minute",
      "pets": "Archie"
     }
    ]
