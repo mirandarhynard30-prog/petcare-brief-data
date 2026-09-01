@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T19:20:07-04:00",
+ "generated": "2026-08-31T20:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2642,6 +2642,26 @@
      "office": true,
      "note": "Client wrote privately on the afternoon of Aug 29 asking that no walker come on Monday Sept 7. The visit still needs taking off the schedule and no reply has been sent back yet.",
      "quote": "I do not wish to have a walker on the 7th of September."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Dan Dantimo visit report, Aug 31 evening walk",
+     "office": false,
+     "note": "Second report on the new harness: Dan says Guinness is still walking without pulling and that it was easier to hold him back when they came across deer near the Commons. Follows the Aug 28 report on the same harness.",
+     "quote": "this new harness makes a big difference. So far so good on him walking without pulling!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 31",
+     "source": "Dan Dantimo visit report, Aug 31 evening walk",
+     "office": false,
+     "note": "Guinness went #2 on the Aug 31 evening walk and the consistency was again logged in the not-concerning loose band - the same reading as Aug 24, 25, 27 and 28. Five readings in eight days; no sitter has flagged it as a problem, but the run is worth watching.",
+     "quote": ""
     },
     {
      "cat": "behavior",
