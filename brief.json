@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T15:20:06-04:00",
+ "generated": "2026-09-01T17:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2093,6 +2093,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 1",
+     "source": "Yasmeen Abrams visit report, Sep 1 4:53pm",
+     "office": false,
+     "note": "On the Sep 1 late-afternoon walk the sitter cut outside time short because of the heat - she logged it as 80-90 degrees, Ripley was panting, and the sitter brought her in early to replenish water and cool down rather than risk overheating. Ripley went #1, no accidents in the home, and she chose to walk left instead of the usual cul-de-sac route.",
+     "quote": "I didn’t want her to overheat."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 31",
      "source": "Kristin Ashick visit report, Aug 31 afternoon",
      "office": false,
@@ -2168,16 +2178,6 @@
      "office": false,
      "note": "Aug 29 morning walk: Ripley went both #1 and #2 and the consistency was logged as firm and healthy. No accidents found in the home. Second consecutive normal #2 after the Aug 27 report of no bowel movement.",
      "quote": "She went both 1 and 2 today."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Yasmeen Abrams visit report, Aug 29 afternoon",
-     "office": false,
-     "note": "Ripley went #1 but no #2 on the Aug 29 afternoon walk. Upper-80s heat, so the sitter kept the walk short around the development; Ripley sniffed at the end of the driveway but did not go.",
-     "quote": "It was a hot one today upper 80s so we went on a short walk around the development."
     }
    ],
    "dormant": false
