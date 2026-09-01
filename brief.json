@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T13:20:05-04:00",
+ "generated": "2026-09-01T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -532,6 +532,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 1",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "CJ and Rex panting heavily in the humidity - Monica cut the walk to one cul-de-sac and headed back for water. Both went #1 and #2, consistency firm and normal.",
+     "quote": "the boys were panting pretty heavily, which to be fair its really muggy out"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 1",
+     "source": "Client message from Toni",
+     "office": false,
+     "note": "Client (Toni) says the boys lick and asks sitters to watch out for it; she is working on the licking and jumping. Handling note, not a correction request.",
+     "quote": "just watch out for the licking lol. We are working on it!! Work in progress!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 31",
      "source": "Kayla Popow visit report Aug 31 12:31 pm ET",
      "office": false,
@@ -597,26 +617,6 @@
      "office": true,
      "note": "Client was home unexpectedly and left the Aug 24 walk optional - happy for it to go ahead or to handle it herself. Worth noting she may be home on short notice.",
      "quote": "I am home today unexpectedly sorry for the late notice"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Client",
-     "office": false,
-     "note": "The client noticed Rex drinking unusually large amounts of water in the evenings.",
-     "quote": "Rex has been drinking lots of water the past two evenings too."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Kayla Popow visit report, Aug 26",
-     "office": false,
-     "note": "Both CJ and Rex had loose stool on the Aug 26 visit; the sitter recorded the same consistency answer for each and judged it not concerning.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -805,6 +805,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 1",
+     "source": "Drew Walker visit report",
+     "office": false,
+     "note": "Chloe was very tired on the afternoon walk and turned back early. She went #1 several times, no #2. Water bowl refilled.",
+     "quote": "On today’s walk I had Chloe with me who was very tired so we didn’t make it far"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 31",
      "source": "Shannon Anderson visit report, Aug 31 afternoon",
      "office": true,
@@ -870,16 +880,6 @@
      "office": false,
      "note": "Ellie Mae was at the vet and not home for the afternoon walk, leaving Chloe only.",
      "quote": "taking Ellie to the doctor so she won’t be here for the afternoon walk"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Kiara Streety visit report, 10:39am",
-     "office": false,
-     "note": "No poop bags were on the leash; Kiara had to go back to her car for one. Bring your own bags until the leash supply is restocked.",
-     "quote": "we didn’t have any poop bags on the leash"
     }
    ],
    "dormant": false
