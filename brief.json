@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T11:20:04-04:00",
+ "generated": "2026-09-01T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1103,6 +1103,16 @@
      "quote": "Georgie is an escape artist."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Tiarra Roberts visit report, Sep 1 11:32am",
+     "office": false,
+     "note": "84 degrees and sunny on the Sep 1 late-morning walk. Georgie was panting early, so Tiarra turned for home earlier than usual; his pace slowed but he did not resist. He went #1, went #2 on the way back, and got three ice cubes once inside.",
+     "quote": "Today is a hot 84 degree, sunny day. Georgie was panting already, so I made the decision to head for home"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1181,16 +1191,6 @@
      "office": false,
      "note": "Standing house tasks: bring the mail in every visit; Wednesday take the trash and recycling bins to the curb; Thursday bring them back and set them near the stairs inside the garage. Close the garage door on the way in, during the walk, and on the way out.",
      "quote": "Wednesday: take trash and recycling bins to curb"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Client",
-     "office": false,
-     "note": "Toads in the yard from about 5pm are pushing Georgie's bedtime walk later than usual.",
-     "quote": "Now that the toads are coming in the yard at 5 pm, he has to wait a few hours for his bedtime walk."
     }
    ],
    "dormant": false
@@ -2488,11 +2488,31 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 1",
+     "source": "Client private message, Sep 1 11:47am",
+     "office": true,
+     "note": "Lynne asks to cancel today (Sep 1) and tomorrow (Sep 2). The groomer cancelled Holly's appointment, so her coat is still long and the client will not risk her in this heat. She asks to be put back on for the holiday weekend. Needs the office to cancel both visits and add the holiday weekend dates - the specific days are not named in the message.",
+     "quote": "Let’s cancel today and tomorrow. The groomer cancelled Holly’s appointment and she is too furry to go out in this temp."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Aug 29",
      "source": "Client message, Aug 29 5:21pm",
      "office": true,
      "note": "Lynne wrote in that Holly will be at the groomers tomorrow (Sunday Aug 30) and will not be available for a walk, and asks that the visit be cancelled. Needs cancelling in the schedule before tomorrow's visit goes out.",
      "quote": "Won’t be available for a walk. Please cancel. Thanks."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Client private message, Sep 1 11:47am",
+     "office": false,
+     "note": "Holly is struggling in the current heat with an ungroomed coat - the client says she is reluctant to go outside even to toilet. Keep any outings very short while this holds.",
+     "quote": "She is hesitate to even go out for her business."
     },
     {
      "cat": "schedule",
