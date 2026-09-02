@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T13:20:05-04:00",
+ "generated": "2026-09-02T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -268,6 +268,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 2",
+     "source": "Thomas Rakovec visit report, 1:57pm",
+     "office": false,
+     "note": "Emma's eye drops were given at this visit and medication was logged as administered.",
+     "quote": "Emma's eye drops"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 31",
      "source": "Thomas Rakovec visit report, Aug 31 afternoon",
      "office": false,
@@ -303,6 +313,26 @@
      "office": false,
      "note": "Stella and Berry both had diarrhea that the client said had cleared by that morning, possibly from new treats.",
      "quote": "Stella and Berry both had diarrhea. It appeared to have resolved by this morning"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Thomas Rakovec visit report, 1:57pm",
+     "office": false,
+     "note": "Berry wears a diaper - the sitter put it back on after the walk. Pee pads were checked and fine.",
+     "quote": "diaper back on Berry"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Thomas Rakovec visit report, 1:57pm",
+     "office": false,
+     "note": "Heat cut outside time short: all dogs out back a few minutes for #1 then brought straight in, followed by a very short walk for Stella and Berry. Both went #1 and #2, firm.",
+     "quote": ""
     },
     {
      "cat": "behavior",
@@ -579,6 +609,16 @@
      "quote": "I will be home Friday and will need to cancel Friday’s walk."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 2",
+     "source": "Client message (Toni), 1:13pm",
+     "office": false,
+     "note": "On very hot days the client says a walk is not required - letting the dogs out back to do their business and come straight back into the AC is fine.",
+     "quote": "Days like today, you don’t necessarily need or have to walk them"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -657,16 +697,6 @@
      "office": false,
      "note": "Sitter remarked on the gate on arrival and assumed the dogs were responsible. The report does not say what state the gate was in or whether it was secured afterward - ambiguous.",
      "quote": "I laughed when I saw the gate just cause I assume it’s the boys."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 24",
-     "source": "Client message",
-     "office": true,
-     "note": "Client was home unexpectedly and left the Aug 24 walk optional - happy for it to go ahead or to handle it herself. Worth noting she may be home on short notice.",
-     "quote": "I am home today unexpectedly sorry for the late notice"
     }
    ],
    "dormant": false
@@ -3166,6 +3196,16 @@
      "office": false,
      "note": "Warm day, so the sitter took a shade break mid-walk. Heat sensitivity is not stated in the email, only the sitter's precaution.",
      "quote": "It was a tad warmer so did take a little shade break."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Client message, 1:25pm",
+     "office": false,
+     "note": "Client thanked the sitter for blowing out the candle found burning during the midday visit, so extinguishing it was the right call. She did not say whether candles may be lit at future visits.",
+     "quote": "Thank you for putting the candle out!"
     },
     {
      "cat": "home",
