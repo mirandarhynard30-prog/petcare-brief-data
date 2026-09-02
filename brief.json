@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T21:20:04-04:00",
+ "generated": "2026-09-02T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2020,6 +2020,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Client message",
+     "office": false,
+     "note": "Kristin is working from home today but still wants the visit; Kathy should come as scheduled.",
+     "quote": "Morning! Heads up that I’m working from home today, though we’d still like Kathy to come."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2353,6 +2363,26 @@
     "Archer"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Client private message",
+     "office": true,
+     "note": "Paulo cancelled Labor Day (Mon Sep 7) in a private message at 7:44am. Not yet processed in the scheduler as far as this run can tell.",
+     "quote": "We won’t need you guys to come on Labor Day!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Client message",
+     "office": false,
+     "note": "Milo is at daycare today, so he will not be home for the visit. Jade Popovitz acknowledged at 8:01am.",
+     "quote": "Milo will be at daycare today!"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
