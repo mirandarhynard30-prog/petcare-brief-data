@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T14:20:06-04:00",
+ "generated": "2026-09-02T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -709,6 +709,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Margaret Bill visit report, Sep 2 2:50pm",
+     "office": true,
+     "note": "Third open-garage report today. Margaret found the garage door standing open AGAIN at the afternoon visit, hours after she closed it herself at the noon visit and after the client said this morning's was accidental. Sitters still have no standing rule on what to do; the office should get one in writing.",
+     "quote": "The garage door was open when I came in."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -789,6 +799,16 @@
      "quote": "I decided that I would close a garage before I left."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Client message Sep 2 2:23pm (signed Carol)",
+     "office": true,
+     "note": "Client answered the noon garage-door question, calling the morning opening accidental and thanking Margaret. She did not say what sitters should do if they find it open in future, and the door was open again at the afternoon visit after this reply.",
+     "quote": "I guess the garage door was accidentally left open this morning!"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -807,26 +827,6 @@
      "office": false,
      "note": "Lucy scooted on the carpet during the visit. Sitter told her no and she stopped. Single observation, no prior scooting noted in this report.",
      "quote": "She did also scoot some on the carpet."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Margaret Bill visit report, Aug 29 afternoon",
-     "office": false,
-     "note": "Lucy went #1 but no #2 on the Aug 29 afternoon visit. The day was sunny and hot; she stayed in the shade where she could, took more breaks than usual, and drank straight away on coming back in. Third report in recent weeks noting no #2.",
-     "quote": "She didn't do a number two today for me."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Lacey Govil visit report, Aug 26",
-     "office": false,
-     "note": "Lucy declined water twice on the Aug 26 visit - after the bowl was refreshed on arrival and again before being put back in her pen.",
-     "quote": "She still did not want any water."
     }
    ],
    "dormant": false
