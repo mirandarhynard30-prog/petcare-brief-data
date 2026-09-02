@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T11:20:05-04:00",
+ "generated": "2026-09-02T12:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -447,14 +447,14 @@
      "quote": "Gordy went number one several times and number two twice and it was just soft"
     },
     {
-     "cat": "health",
+     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 1",
-     "source": "Chelsea Tompkins visit report, 10:30am",
-     "office": false,
-     "note": "Gordy struggled with the heat. Chelsea put his cooling vest on, skipped the usual around-the-block route and walked only down the street and back. He went #2 twice, a little loose but not concerning, then lay down by the door.",
-     "quote": "I think Gordy's hot. He is panting with his tongue out."
+     "date": "Sep 2",
+     "source": "Client message 12:01pm",
+     "office": true,
+     "note": "Client says Sampson is expecting a sitter Saturday morning, but phrases it tentatively - she says she believes so. Nothing in the email confirms a Saturday booking; the office should check the schedule against this.",
+     "quote": "Sampson will see you Saturday morning I believe."
     }
    ],
    "dormant": false
@@ -516,6 +516,16 @@
      "office": true,
      "note": "Messaging from hospital, the client said the next day's visit could be cancelled and that he needs cover for September 2nd.",
      "quote": "Tomorrow's visit can be cancelled unless you still have to charge me. I will need you for September 2nd."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Robin Lewis 11:55am",
+     "office": false,
+     "note": "Oliver went #1 but no #2 on the 11:30 walk; the sitter put it down to the heat. He had gone #2 on the 7am visit the same morning, so the sitter's wording covers that walk rather than the whole day.",
+     "quote": "unfortunately he did not poop today. I think the heat had something to do with it."
     }
    ],
    "dormant": false
@@ -719,6 +729,16 @@
      "quote": "I am sorry, I said Sunday but I meant 1:00 on Saturday, not Sunday. Does that work?"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Margaret Bill 11:59am",
+     "office": true,
+     "note": "At the noon visit the sitter found the garage door standing open and asked the client whether to shut it. No answer appears in the thread - the office may need to reach Carol and give sitters a standing answer.",
+     "quote": "Hi Carol! The garage door is open. Should I shut it?"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -767,16 +787,6 @@
      "office": false,
      "note": "Lucy scooted for a few minutes on coming out of her pen and, in the same report, went #1 but not #2 again.",
      "quote": "She came out and started scooting for a few minutes."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 18",
-     "source": "Client",
-     "office": true,
-     "note": "The client cancelled the next day's services again and asked for someone Thursday at 11:30 and again at 2:30.",
-     "quote": "I am going to need to cancel services again for tomorrow."
     }
    ],
    "dormant": false
@@ -2026,7 +2036,9 @@
    "url": "https://www.timetopet.com/dashboard/client/tc20pmTqd1tc",
    "pets": [
     "Oliver",
-    "Daff"
+    "Daff",
+    "Oliver Chip",
+    "Daffodil"
    ],
    "items": [
     {
@@ -2038,6 +2050,26 @@
      "office": false,
      "note": "Kristin is working from home today but still wants the visit; Kathy should come as scheduled.",
      "quote": "Morning! Heads up that I’m working from home today, though we’d still like Kathy to come."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Kathy Sullenberger 11:35am",
+     "office": false,
+     "note": "Oliver Chip's belly belt was wet when the sitter arrived. She put it on the washer and fitted a clean belt on him. First mention of the belly belt in the brief - one visit, so not recorded as a standing rule.",
+     "quote": "His belly belt was wet. I put it on the washer."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Kathy Sullenberger 11:35am",
+     "office": false,
+     "note": "Sitter reported glass in the road across the street from the house (written 'hlass' in the email) and kept the dogs clear of it on the walk.",
+     "quote": "I noticed there's some hlass in the road across the street."
     },
     {
      "cat": "home",
@@ -2058,6 +2090,16 @@
      "office": false,
      "note": "A sitter confirmed she will watch for lawn-chemical warning signs; the client's original caution is not in this thread.",
      "quote": "I will be aware of the yard chemical signs."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Kathy Sullenberger 11:35am",
+     "office": false,
+     "note": "Heat shortened the visit: Oliver went #1 only and the walk was cut a little short; Daffodil went #1 and #2 but did not want to go far and stayed on the grass.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -2163,6 +2205,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 2",
+     "source": "Monica Hopewell 11:36am",
+     "office": false,
+     "note": "On the morning visit Ripley went #1 only. The sitter gave her extra time in the back yard to see if she would go #2 and she did not. Because of the heat they went straight out to the trail after she ate.",
+     "quote": "we spent some extra time out back to see if she would go number two but she didn't"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 1",
      "source": "Yasmeen Abrams visit report, Sep 1 4:53pm",
      "office": false,
@@ -2198,16 +2250,6 @@
      "office": false,
      "note": "Waste bag dispenser on Ripley's leash was empty; the walk was interrupted to fetch bags from the car. Still needs refilling.",
      "quote": "I forgot to refill the doggy bags on her leash and I didn't have my bag"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Kristin Ashick visit report, Aug 27",
-     "office": false,
-     "note": "Ripley baulked at the start of the walk. Kristin gave belly scratches, then stood beside her in the shade and ignored her, and Ripley was ready to go about four or five minutes later.",
-     "quote": "she was pretty stubborn for the first bit of the walk"
     }
    ],
    "dormant": false
@@ -2725,6 +2767,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Ashley Corall 11:15am",
+     "office": false,
+     "note": "A #2 accident scattered over several spots was found in the basement on the morning visit and cleaned up. The sitter could not tell how long it had been there and photographed the area.",
+     "quote": "I’m not sure how long it had been there for it felt on the colder side."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Ashley Corall 11:15am",
+     "office": false,
+     "note": "No carpet cleaner findable in the house - the sitter looked for some to treat the basement accident and could not find any.",
+     "quote": "I searched for carpet cleaner but I couldn’t find anything"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -2733,6 +2795,16 @@
      "office": false,
      "note": "Oakley may hide upstairs on arrival; if he does not come down to greet you, check the bedroom.",
      "quote": "Oakley might be hiding upstairs, if he does not come down for you please look in bedroom"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Ashley Corall 11:15am",
+     "office": false,
+     "note": "Oakley was found in the basement on this visit rather than upstairs; the sitter went down to him. One observation only - the standing note about checking the bedroom still stands.",
+     "quote": ""
     },
     {
      "cat": "health",
