@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T18:20:05-04:00",
+ "generated": "2026-09-01T20:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2080,6 +2080,16 @@
      "quote": "I’m heading to Pittsburgh for the day"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Matt Konn message 8:09pm",
+     "office": true,
+     "note": "Follow-up to his request for two visits Wed Sep 2 (11-12:30 and 3-4): he asks that Monica do the feeding at about 11. The email does not say which pet, though Ripley is the pet on his other reports.",
+     "quote": "If Monica can feed her at 11ish...that would be great! TY!"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -2168,16 +2178,6 @@
      "office": true,
      "note": "Client says he walked Ripley himself this morning before leaving for the airport and that his daughter is at the house. Worth checking against the Aug 26-31 visit windows in case someone is home for part of them.",
      "quote": "No problem - walked this morning before going to airport! My daughter is there."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Monica Hopewell visit report Aug 31 morning",
-     "office": false,
-     "note": "Aug 31 morning walk: Ripley went #1 and #2 twice, and the sitter describes the second #2 as pretty soft - not loose, but heading that way. Report otherwise routine, no accidents in the home, water refreshed.",
-     "quote": "the second number two was pretty soft, not loose but on the way to being that way"
     }
    ],
    "dormant": false
@@ -2803,6 +2803,16 @@
      "office": false,
      "note": "Chased deer near the Commons and was very excitable on this walk - keep a firm leash on that route.",
      "quote": "Guinness did some deer chasing as he made sure that they ran and hide"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Dan Dantimo visit report 7:28pm",
+     "office": false,
+     "note": "Guinness went #2 twice on the evening walk; sitter logged the consistency as slightly loose and not concerning. Worth a look on the next visit.",
+     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "health",
