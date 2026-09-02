@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T09:20:06-04:00",
+ "generated": "2026-09-02T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -417,6 +417,16 @@
      "quote": "I found out he has crystals in his pee."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Client message",
+     "office": false,
+     "note": "Client asks that the dog's cooling coat be put on for the visit. She notes an earlier walk the same day was cut short because it was too hot.",
+     "quote": "Put on his cooling coat."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -444,16 +454,6 @@
      "source": "Renee Dougherty visit report 10:40am",
      "office": false,
      "note": "Gordy pooped three times and peed several times on the morning walk; consistency logged as a little loose but not concerning. He was too tired to take his treats afterward. Renee was being trained by Chelsea on this visit.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Renee Dougherty visit report",
-     "office": false,
-     "note": "Sampson went #1 and #2 on the Aug 30 morning visit; the sitter recorded the stool as a little loose but not concerning.",
      "quote": "It was a little loose but not concerning"
     }
    ],
@@ -2150,6 +2150,16 @@
      "quote": "Morning visit: 7:30-9. Walk/play/Water (no feed)"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client reports the sitter's vehicle left fluid spots on his driveway again. He is raising it gently and only wants the office aware, but this is a repeat occurrence and needs an office response, not a sitter one.",
+     "quote": "Yasmeen’s vehicle left some spots again. I am really trying to be sensitive"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2198,16 +2208,6 @@
      "office": false,
      "note": "Ripley baulked at the start of the walk. Kristin gave belly scratches, then stood beside her in the shade and ignored her, and Ripley was ready to go about four or five minutes later.",
      "quote": "she was pretty stubborn for the first bit of the walk"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Client message via Time To Pet",
-     "office": true,
-     "note": "Client says he walked Ripley himself this morning before leaving for the airport and that his daughter is at the house. Worth checking against the Aug 26-31 visit windows in case someone is home for part of them.",
-     "quote": "No problem - walked this morning before going to airport! My daughter is there."
     }
    ],
    "dormant": false
