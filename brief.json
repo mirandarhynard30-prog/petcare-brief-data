@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T15:20:05-04:00",
+ "generated": "2026-09-02T18:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2255,6 +2255,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 2",
+     "source": "Kristin Ashick visit report, Sep 2 ~5pm",
+     "office": false,
+     "note": "Evening visit: the report logs Ripley going #1 only, with no #2 recorded. The sitter ended the visit a few minutes early because of the heat. Client was home during the visit.",
+     "quote": "I did stop the timer a few minutes early because of the heat."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 1",
      "source": "Yasmeen Abrams visit report, Sep 1 4:53pm",
      "office": false,
@@ -2280,16 +2290,6 @@
      "office": false,
      "note": "On the Aug 28 morning walk Ripley went both #1 and #2 and the consistency was logged as firm and healthy - the first #2 recorded since the Aug 24 report of no bowel movement and the #1-only visit on Aug 27.",
      "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Monica Hopewell",
-     "office": false,
-     "note": "Waste bag dispenser on Ripley's leash was empty; the walk was interrupted to fetch bags from the car. Still needs refilling.",
-     "quote": "I forgot to refill the doggy bags on her leash and I didn't have my bag"
     }
    ],
    "dormant": false
@@ -3026,6 +3026,16 @@
     "Muffy"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Julie Smith visit report, Sep 2 evening",
+     "office": false,
+     "note": "First meeting with a new sitter: Muffy barked when she first saw her, then settled quickly on the walk and was friendly by the end. Worth expecting from any sitter new to her.",
+     "quote": "She barked at first when she saw me but quickly warmed up on the walk."
+    },
     {
      "cat": "behavior",
      "sev": "low",
