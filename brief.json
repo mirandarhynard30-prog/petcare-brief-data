@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T08:20:05-04:00",
+ "generated": "2026-09-02T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -467,6 +467,16 @@
     "Ginger"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Client private message, 8:41am",
+     "office": true,
+     "note": "Jesse is home from the hospital and asks to keep the daily visits running until his follow-up appointment on Wednesday, September 9. This gives the open-ended booking an end date the office can now set in the scheduler.",
+     "quote": "I would like to continue having someone come in until then."
+    },
     {
      "cat": "schedule",
      "sev": "high",
