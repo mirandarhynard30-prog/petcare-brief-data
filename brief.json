@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T12:20:07-04:00",
+ "generated": "2026-09-02T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -180,6 +180,16 @@
      "office": false,
      "note": "A stray black cat was in the yard before the visit. The sitter herded it out through a crack in the gate to avoid a run-in with the dogs; the gate itself is secured closed.",
      "quote": "I herded her through the crack in the gate (which is secured closed) so that we could avoid the possibility of an altercation."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Elizabeth Cuffari visit report, Sep 2 12:38pm",
+     "office": false,
+     "note": "In the fenced yard Rusty picked up a rock the sitter had to take away, then grabbed Puck's collar and tried to tow her around; sitter broke it up. One observation, not a standing rule.",
+     "quote": "Rusty was trying to lead puck around the yard by her collar"
     },
     {
      "cat": "home",
@@ -739,6 +749,16 @@
      "quote": "Hi Carol! The garage door is open. Should I shut it?"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Margaret Bill visit report, Sep 2 12:45pm",
+     "office": true,
+     "note": "Garage door was found standing open again; sitter messaged Carol, got no reply, and closed it herself before leaving. Second open-garage report; sitters still have no standing rule on what to do.",
+     "quote": "I decided that I would close a garage before I left."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -777,16 +797,6 @@
      "office": false,
      "note": "Lucy declined water twice on the Aug 26 visit - after the bowl was refreshed on arrival and again before being put back in her pen.",
      "quote": "She still did not want any water."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Margaret Bill",
-     "office": false,
-     "note": "Lucy scooted for a few minutes on coming out of her pen and, in the same report, went #1 but not #2 again.",
-     "quote": "She came out and started scooting for a few minutes."
     }
    ],
    "dormant": false
@@ -2807,6 +2817,16 @@
      "quote": ""
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Client message, Sep 2 12:50pm",
+     "office": false,
+     "note": "Client replied that she will clean the basement herself tonight, closing out this morning's accident and the missing carpet cleaner. No office action needed.",
+     "quote": "And no worries about the basement, we’ll get it cleaned tonight."
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -3077,6 +3097,16 @@
     "Aayla"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Josh Stone visit report, Sep 2 12:40pm",
+     "office": true,
+     "note": "Sitter found a lit candle burning in the home and blew it out, unsure whether it was meant to be left lit. Office should confirm with the client what sitters should do if they find one again.",
+     "quote": "There was a candle burning that I blew out."
+    },
     {
      "cat": "home",
      "sev": "high",
