@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T10:20:05-04:00",
+ "generated": "2026-09-02T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -427,6 +427,26 @@
      "quote": "Put on his cooling coat."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 2",
+     "source": "Lacey Govil visit report, Sep 2 morning",
+     "office": false,
+     "note": "Treat rule: the client corrected the sitter on this visit - Gordy gets the treats she keeps in little bags, not other treats the sitter offers.",
+     "quote": "Anna corrected me to give him a different kind of treat he has in little bags"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Lacey Govil visit report, Sep 2 morning",
+     "office": false,
+     "note": "Morning walk was cut to half the usual neighbourhood loop because of the heat, with the cooling jacket on. Gordy went #2 twice and the consistency was logged as a little loose but not concerning.",
+     "quote": "Gordy went number one several times and number two twice and it was just soft"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -435,26 +455,6 @@
      "office": false,
      "note": "Gordy struggled with the heat. Chelsea put his cooling vest on, skipped the usual around-the-block route and walked only down the street and back. He went #2 twice, a little loose but not concerning, then lay down by the door.",
      "quote": "I think Gordy's hot. He is panting with his tongue out."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Client message Aug 31",
-     "office": false,
-     "note": "Sampson urinated on the kitchen/hallway floor again on Aug 31 - house-soiling is continuing day to day. Client is frustrated but not asking for anything specific.",
-     "quote": "He did pee on the kitchen/hallway floor again."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Renee Dougherty visit report 10:40am",
-     "office": false,
-     "note": "Gordy pooped three times and peed several times on the morning walk; consistency logged as a little loose but not concerning. He was too tired to take his treats afterward. Renee was being trained by Chelsea on this visit.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -822,6 +822,16 @@
      "quote": "please don’t walk Ellie just walk Chloe the little white dog"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Alex Miller visit report, Sep 2 morning",
+     "office": false,
+     "note": "Chloe's morning walk was shortened for the heat and kept mostly in the shade. She went #1 but no #2. No accidents in the house; water bowl cleaned and refilled.",
+     "quote": "It’s pretty hot out today and we ended up shortening the walk a bit"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -900,16 +910,6 @@
      "office": false,
      "note": "On the Aug 26 afternoon visit Ellie Mae would not leave the couch and did not go outside at all, before or after Chloe's walk. Chloe walked well and went #1.",
      "quote": "Ellie was very persistent on staying on the couch"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 18",
-     "source": "Client",
-     "office": false,
-     "note": "Ellie Mae was at the vet and not home for the afternoon walk, leaving Chloe only.",
-     "quote": "taking Ellie to the doctor so she won’t be here for the afternoon walk"
     }
    ],
    "dormant": false
