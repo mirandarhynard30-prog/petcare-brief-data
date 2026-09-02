@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T18:20:07-04:00",
+ "generated": "2026-09-02T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2975,6 +2975,16 @@
      "office": false,
      "note": "Chased deer near the Commons and was very excitable on this walk - keep a firm leash on that route.",
      "quote": "Guinness did some deer chasing as he made sure that they ran and hide"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 2",
+     "source": "Julie Smith visit report, Sep 2 6:56pm",
+     "office": false,
+     "note": "Sep 2 evening visit with a sitter meeting Guinness for the first time: he went both #1 and #2 and the consistency was logged as firm and healthy. Deb Ward's recent reports had been logging his stool as a little loose but not concerning, so this one reads differently. Client was home, so the sitter did not go through the house.",
+     "quote": "It was firm and healthy"
     },
     {
      "cat": "health",
