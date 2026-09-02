@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T20:20:06-04:00",
+ "generated": "2026-09-01T21:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2019,6 +2019,16 @@
     "Daff"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 1",
+     "source": "Client message, Sep 1 8:23pm",
+     "office": false,
+     "note": "Client wrote in to warn sitters about the drive to her house: the Sprague Road railroad crossing is closed for repairs through Friday evening. Plan an alternate route and allow extra time until Sat Sep 5.",
+     "quote": "the Sprague road railroad crossing is closed for repairs through Friday evening."
+    },
     {
      "cat": "home",
      "sev": "medium",
