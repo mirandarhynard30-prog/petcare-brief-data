@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T19:20:05-04:00",
+ "generated": "2026-09-03T07:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -248,6 +248,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 3",
+     "source": "Client message, Sep 3 6:57am",
+     "office": true,
+     "note": "Liz cancels today's visits because she is not going into work. A portal cancellation followed at 7:06am for the 11:30-12:15 45-minute dog visit; her message says visits plural, so check whether anything else today also needs pulling. Thomas Rakovec replied at 7:08am so the sitter is aware, but the cancellation still needs processing.",
+     "quote": "I need to cancel the pups visits for today. I am not going into work today."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Aug 24",
      "source": "Client message",
      "office": true,
@@ -353,16 +363,6 @@
      "office": false,
      "note": "On the Aug 28 afternoon walk Stella and Berry both went #1 but neither went #2. Everyone went #1 in the back yard first and the sitter described it as one of the best walks he has had with them.",
      "quote": "both went no.#1 but no.$2 today"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Thomas Rakovec visit report, Aug 26",
-     "office": false,
-     "note": "Aug 26 visit: Emma's eye drops given and her diaper changed; the report records medication as administered for Emma.",
-     "quote": "Emma's eye drops ...diaper changed"
     }
    ],
    "dormant": false
@@ -709,6 +709,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Client private message, Sep 3 6:30am",
+     "office": true,
+     "note": "Carol says the noon walker visit today is not needed and today should be the 4:00 only. Today is Thursday, so this settles part of the Thursday 4:00 add-on she asked for on Aug 31, which was still unbuilt. The noon visit needs pulling off the schedule and the sitter told before she drives out.",
+     "quote": "I do not need a Walker here at 12 today, just 4!"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -779,6 +789,16 @@
      "quote": "I am sorry, I said Sunday but I meant 1:00 on Saturday, not Sunday. Does that work?"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Client private message, Sep 3 6:30am",
+     "office": true,
+     "note": "Same message: the family is home most of today and leaves for a long weekend at about 1:30pm, which is why the 4:00 is still wanted. She does not say when they return or which weekend visits she needs, so the Friday-through-Monday changes from her Aug 31 message still need confirming.",
+     "quote": "we are leaving for a long weekend at about 130"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -807,26 +827,6 @@
      "office": true,
      "note": "Client answered the noon garage-door question, calling the morning opening accidental and thanking Margaret. She did not say what sitters should do if they find it open in future, and the door was open again at the afternoon visit after this reply.",
      "quote": "I guess the garage door was accidentally left open this morning!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Lacey Govil visit report",
-     "office": false,
-     "note": "Lucy refused water both before and after her walk. Outside time kept brief because of the heat; she went #1 only, then laid down in the grass and did not want to get up until coaxed.",
-     "quote": "She did not drink any."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Lacey Govil visit report",
-     "office": false,
-     "note": "Lucy scooted on the carpet during the visit. Sitter told her no and she stopped. Single observation, no prior scooting noted in this report.",
-     "quote": "She did also scoot some on the carpet."
     }
    ],
    "dormant": false
