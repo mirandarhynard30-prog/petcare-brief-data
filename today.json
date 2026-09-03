@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T18:35:13-04:00",
+ "generated": "2026-09-03T19:50:07-04:00",
  "date": "2026-09-03",
  "label": "Sep 3, 2026",
  "clients": [
@@ -42,18 +42,6 @@
    ]
   },
   {
-   "name": "Deb Ward",
-   "visits": [
-    {
-     "time": "8:45 PM",
-     "sort": "2045",
-     "staff": "Dan Dantimo",
-     "service": "Dog Visit-30 minute",
-     "pets": "Guinness"
-    }
-   ]
-  },
-  {
    "name": "Jesse Terdan",
    "visits": [
     {
@@ -81,18 +69,6 @@
      "staff": "Noella",
      "service": "Cat Visit-30 Minutes",
      "pets": "Caleb, Livvie"
-    }
-   ]
-  },
-  {
-   "name": "Lynne  Reno",
-   "visits": [
-    {
-     "time": "7:45 PM",
-     "sort": "1945",
-     "staff": "Dan Dantimo",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "Holly"
     }
    ]
   },
@@ -207,5 +183,5 @@
    ]
   }
  ],
- "visitCount": 19
+ "visitCount": 17
 }
