@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T12:20:05-04:00",
+ "generated": "2026-09-03T13:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -150,6 +150,16 @@
      "office": false,
      "note": "Rusty vomited several times Friday morning and the client asked sitters to watch for it and swap her blanket for a towel if it recurs.",
      "quote": "rusty threw up a few times this morning, so watch out for that"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Elizabeth Cuffari visit report, 12:41pm",
+     "office": false,
+     "note": "Air show practice was flying low and loud over the house on the afternoon visit and badly startled Puck - she bolted straight back inside to her cage. The sitter sat on the floor with her until she settled. Both dogs went #1 outside first; yard time was cut short.",
+     "quote": "the flying angels are practicing and pretty much flying right above really loud engine noises.scared the heck out of puck so we went inside"
     },
     {
      "cat": "health",
@@ -739,6 +749,16 @@
      "quote": "Hi Carol! My eta is noon. I'll see you then."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Margaret Bill visit report, 12:38pm",
+     "office": true,
+     "note": "The noon visit Carol asked to cancel in her 6:30am message went ahead - Margaret's post-visit report shows she walked Lucy with Angela home. The cancellation was never processed; office should decide how this visit is billed and confirm the 4:00 is still on.",
+     "quote": "Angela was in the dining room when I came up. Lucy was ready to go for her walk."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -827,16 +847,6 @@
      "office": true,
      "note": "At the noon visit the sitter found the garage door standing open and asked the client whether to shut it. No answer appears in the thread - the office may need to reach Carol and give sitters a standing answer.",
      "quote": "Hi Carol! The garage door is open. Should I shut it?"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Margaret Bill visit report, Sep 2 12:45pm",
-     "office": true,
-     "note": "Garage door was found standing open again; sitter messaged Carol, got no reply, and closed it herself before leaving. Second open-garage report; sitters still have no standing rule on what to do.",
-     "quote": "I decided that I would close a garage before I left."
     }
    ],
    "dormant": false
@@ -3127,6 +3137,16 @@
     "Freddy"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 3",
+     "source": "Kiara Streety visit report, 12:24pm",
+     "office": false,
+     "note": "Per the sitter relaying Marcia, Freddy's spot is the corner box in the closet - that is where to look for him on arrival. He came out on his own for food, treats and rubs.",
+     "quote": "I came in and saw Freddy in the closet in the corner box where Marcia says he likes to be at!"
+    },
     {
      "cat": "home",
      "sev": "low",
