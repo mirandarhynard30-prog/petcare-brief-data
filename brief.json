@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T17:20:04-04:00",
+ "generated": "2026-09-03T19:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1233,6 +1233,16 @@
      "quote": "I noticed Georgie was moving a bit slower and panting a little heavily with the heat and humidity so we shortened our distance"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 3",
+     "source": "Client message from Mary Ann Mckeever, Sep 3",
+     "office": false,
+     "note": "Client thanked the sitter for watching out for toads on Georgie's walk, so toads are a known concern on this route. She did not say what happened or give an instruction beyond watching for them; the evening sitter replied that she would watch for toads again that night.",
+     "quote": "Thanks for giving Georgie such a lovely walk and for watching out for toads!"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1301,16 +1311,6 @@
      "office": false,
      "note": "Client thanked the sitter for watching for when Georgie tires out on the walk. Suggests sitters should pace Georgie and watch for him flagging, alongside the existing over-75-degree twenty minute cap.",
      "quote": "Thanks for giving Georgie such a nice walk and for paying attention to when he tires out."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Client message, Aug 28 4:05 pm",
-     "office": false,
-     "note": "Client confirms Georgie has been picking things up on walks lately, describing him as being in a hunting mood, after the sitter reported keeping him on a shorter lead.",
-     "quote": "He just seems to be in a hunting mood."
     }
    ],
    "dormant": false
