@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T16:20:06-04:00",
+ "generated": "2026-09-03T17:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -278,6 +278,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 3",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client is off work Fri Sep 4 and Mon Sep 7 and says she will enter the cancellation requests herself; she expects visits to resume Tue Sep 8. Office should confirm both cancellations actually came through.",
+     "quote": "I will be off Monday too for the holiday. I will enter the cancellation requests now."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Aug 24",
      "source": "Client message",
      "office": true,
@@ -373,16 +383,6 @@
      "office": false,
      "note": "Louie was the only one not taken out back on the Sep 1 midday visit; everyone else went #1 and came back in. The report does not say why Louie stayed in.",
      "quote": "arrived at the house got everyone out back except Louie"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Thomas Rakovec visit report, Aug 28 afternoon",
-     "office": false,
-     "note": "On the Aug 28 afternoon walk Stella and Berry both went #1 but neither went #2. Everyone went #1 in the back yard first and the sitter described it as one of the best walks he has had with them.",
-     "quote": "both went no.#1 but no.$2 today"
     }
    ],
    "dormant": false
@@ -3494,6 +3494,37 @@
      "office": true,
      "note": "Stephanie updated her own profile in Time To Pet at 2:49pm: her service address changed from Strongsville to Parma Heights (the new street address is in her client record, not repeated here), and her primary emergency contact changed to a different person, now listed as her brother, with a new phone number. Office needs to confirm the new address and contact before the next visit is dispatched.",
      "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Krysten Whitesel",
+   "url": "https://www.timetopet.com/dashboard/client/sq3t2jjDQxlF",
+   "pets": [
+    "Ted",
+    "Roo"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 3",
+     "source": "Client message",
+     "office": false,
+     "note": "Ted is now to be walked back up onto the porch rather than allowed to run or jump up - client says his vision has made him clumsier since the last booking.",
+     "quote": "we are now walking Ted back up on the porch instead of letting him run/jump"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Client message",
+     "office": false,
+     "note": "For the Sep 4 visit the client's cousin will set out Ted's and Roo's pills in the morning. Client says Roo gets one pill and Ted continues his normal ones; no dosing details given beyond that.",
+     "quote": "My cousin will set out Ted and Roo’s pills for you in the morning."
     }
    ],
    "dormant": false
