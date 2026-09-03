@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T15:20:05-04:00",
+ "generated": "2026-09-03T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -160,6 +160,16 @@
      "office": false,
      "note": "Air show practice was flying low and loud over the house on the afternoon visit and badly startled Puck - she bolted straight back inside to her cage. The sitter sat on the floor with her until she settled. Both dogs went #1 outside first; yard time was cut short.",
      "quote": "the flying angels are practicing and pretty much flying right above really loud engine noises.scared the heck out of puck so we went inside"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 3",
+     "source": "Client message 3:54pm",
+     "office": false,
+     "note": "Client confirms Puck has become sensitive to loud noises - her wording (\"anymore\") indicates this is a change from before, so treat as ongoing. Comfort her during fireworks, thunder, air shows and similar.",
+     "quote": "Yes puck doesnt like loud noises anymore!!"
     },
     {
      "cat": "health",
@@ -1696,6 +1706,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Client private message 3:58pm",
+     "office": true,
+     "note": "Client confirms Tue Sep 8 works for her, conditional on staffing - office needs to assign a sitter and confirm back. Follows her Sep 2 portal cancellation of the Sep 2 10:30-11:00 visit.",
+     "quote": "The 8th looks good if anyone is available"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1936,6 +1956,26 @@
      "office": true,
      "note": "Client asked to pause dog walking until after Labor Day. No decision has been sent back to her yet.",
      "quote": "Can we just wait till after Labor Day.??"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Client text message 3:24pm",
+     "office": true,
+     "note": "Client accepts Mon Sep 14. She adds that next week is taken up by workers on her rental unit - it is not stated whether that means she needs no visits next week, so the office should confirm both the 14th and next week's coverage.",
+     "quote": "The 14th looks good."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Client text message 3:29pm",
+     "office": false,
+     "note": "Ongoing work in the home this week: carpet installer in the family room Sep 3, painters still coming but only at night, and her niece and fiance arriving around noon Sep 4. Sitters should expect other people in the house and doors being opened.",
+     "quote": "Carpet guy coming to do family room today."
     },
     {
      "cat": "schedule",
