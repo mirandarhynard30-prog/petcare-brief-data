@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T13:20:07-04:00",
+ "generated": "2026-09-03T14:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -602,6 +602,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 3",
+     "source": "Terry M private message, 1:42pm",
+     "office": true,
+     "note": "Terry wrote asking to be removed from services on Tuesday Sep 8, the day after Labor Day, because he is off work that day. Needs taking off the schedule and a reply.",
+     "quote": "I will be off work next Tuesday after Labor Day. Can you please remove us from services that day as well."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Aug 27",
      "source": "Client private message, Aug 27 4:18 pm ET",
      "office": true,
@@ -707,16 +717,6 @@
      "office": true,
      "note": "On disarming the alarm the panel reported the front door not engaged. Sitter left it rather than risk setting the alarm off, then re-armed on leaving. Worth checking with the client whether the front door sensor is faulty or the door was genuinely open.",
      "quote": "It said something about the front door not being engaged, I didn't want to set it off so I left it alone."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Kayla Popow visit report, Aug 26",
-     "office": false,
-     "note": "Sitter remarked on the gate on arrival and assumed the dogs were responsible. The report does not say what state the gate was in or whether it was secured afterward - ambiguous.",
-     "quote": "I laughed when I saw the gate just cause I assume it’s the boys."
     }
    ],
    "dormant": false
