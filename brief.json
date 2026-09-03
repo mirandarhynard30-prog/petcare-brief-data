@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T08:20:05-04:00",
+ "generated": "2026-09-03T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1206,6 +1206,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 3",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "On the 10:30 walk Georgie was moving slower and panting heavily in the heat/humidity; sitter shortened the distance and walked slowly. He went #1 and #2; stool logged as a little loose but not concerning.",
+     "quote": "I noticed Georgie was moving a bit slower and panting a little heavily with the heat and humidity so we shortened our distance"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 1",
      "source": "Tiarra Roberts visit report, Sep 1 11:32am",
      "office": false,
@@ -1281,16 +1291,6 @@
      "office": false,
      "note": "Client confirms Georgie has been picking things up on walks lately, describing him as being in a hunting mood, after the sitter reported keeping him on a shorter lead.",
      "quote": "He just seems to be in a hunting mood."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Aug 24",
-     "source": "Time To Pet care note update - Tiarra Roberts",
-     "office": false,
-     "note": "Standing house tasks: bring the mail in every visit; Wednesday take the trash and recycling bins to the curb; Thursday bring them back and set them near the stairs inside the garage. Close the garage door on the way in, during the walk, and on the way out.",
-     "quote": "Wednesday: take trash and recycling bins to curb"
     }
    ],
    "dormant": false
