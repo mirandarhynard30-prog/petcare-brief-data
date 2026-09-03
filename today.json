@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T00:05:12-04:00",
+ "generated": "2026-09-03T09:05:10-04:00",
  "date": "2026-09-03",
  "label": "Sep 3, 2026",
  "clients": [
@@ -81,18 +81,6 @@
      "staff": "Noella",
      "service": "Cat Visit-30 Minutes",
      "pets": "Caleb, Livvie"
-    }
-   ]
-  },
-  {
-   "name": "Liz Wainio",
-   "visits": [
-    {
-     "time": "11:30 AM",
-     "sort": "1130",
-     "staff": "Thomas Rakovec",
-     "service": "Dog Visit-45 minute",
-     "pets": "Stella, Berry, Emma, Louie"
     }
    ]
   },
@@ -219,5 +207,5 @@
    ]
   }
  ],
- "visitCount": 20
+ "visitCount": 19
 }
