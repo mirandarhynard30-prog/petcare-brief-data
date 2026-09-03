@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T07:20:04-04:00",
+ "generated": "2026-09-03T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -556,6 +556,16 @@
      "office": true,
      "note": "Messaging from hospital, the client said the next day's visit could be cancelled and that he needs cover for September 2nd.",
      "quote": "Tomorrow's visit can be cancelled unless you still have to charge me. I will need you for September 2nd."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Robin Lewis visit report, Sep 3 7am visit",
+     "office": false,
+     "note": "On the 7am visit Ginger was eating grass in the yard. Both dogs went #1 and #2 and the sitter logged both stools as firm and healthy; water bowl changed, no accidents.",
+     "quote": "she was eating some grass this morning"
     },
     {
      "cat": "health",
