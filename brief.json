@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T14:20:10-04:00",
+ "generated": "2026-09-03T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -895,6 +895,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 3",
+     "source": "Jade Popovitz visit report",
+     "office": false,
+     "note": "On the Sep 3 early-afternoon visit Chloe's eyes looked a little swollen. She was asleep upstairs in the office when the sitter came in, made her way down slowly and walked more carefully than usual, but was otherwise fine - water refreshed, ate some breakfast, went #1. Worth watching on the next visit; no vet contact is mentioned in the report.",
+     "quote": "Her eyes definitely looked a little swollen but she seemed to be okay on our walk, she just walked more carefully."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 2",
      "source": "Alex Miller visit report, Sep 2 morning",
      "office": false,
@@ -970,16 +980,6 @@
      "office": true,
      "note": "The visit timer would not start, so the recorded time for the Aug 26 afternoon visit is wrong. The sitter says she was there 2:22 to 2:50 - the record needs correcting in Time To Pet.",
      "quote": "the visit would not start, but I was there from 2:22 until 2:50"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Jade Popovitz visit report, Aug 26 afternoon",
-     "office": false,
-     "note": "On the Aug 26 afternoon visit Ellie Mae would not leave the couch and did not go outside at all, before or after Chloe's walk. Chloe walked well and went #1.",
-     "quote": "Ellie was very persistent on staying on the couch"
     }
    ],
    "dormant": false
@@ -3436,6 +3436,24 @@
      "office": false,
      "note": "On the Aug 17 walk Julie put Murphy's harness on herself. Murphy walked at a good pace and passed a large black lab on leash without reacting. Margaret's route ran down the side street to Hudson Drive and back onto Notre Dame.",
      "quote": "He saw one big black lab and didn't bark at all."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Stephanie Sarrocco",
+   "url": "https://www.timetopet.com/dashboard/client/t0y113Yv4uyJ",
+   "pets": [],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Time To Pet profile update notice",
+     "office": true,
+     "note": "Stephanie updated her own profile in Time To Pet at 2:49pm: her service address changed from Strongsville to Parma Heights (the new street address is in her client record, not repeated here), and her primary emergency contact changed to a different person, now listed as her brother, with a new phone number. Office needs to confirm the new address and contact before the next visit is dispatched.",
+     "quote": ""
     }
    ],
    "dormant": false
