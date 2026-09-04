@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T10:20:07-04:00",
+ "generated": "2026-09-04T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -779,6 +779,16 @@
      "quote": "Garage door is open again. Maybe it's malfunctioning. I will close it again."
     },
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 4",
+     "source": "Margaret Bill post-visit report, 10:29am",
+     "office": true,
+     "note": "In her full report on the visit where she again found the garage door open, Margaret says she closed the garage but did not lock the interior door into the condo. The property may have been left with that inside door unlocked after the visit.",
+     "quote": "I shut it, but didn't lock that inside door."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -877,16 +887,6 @@
      "office": true,
      "note": "Follow-up the same evening confirming 1:00 Saturday. She refers to having said Sunday, but her first message already said Saturday - unclear. Still unanswered.",
      "quote": "I am sorry, I said Sunday but I meant 1:00 on Saturday, not Sunday. Does that work?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client private message, Sep 3 6:30am",
-     "office": true,
-     "note": "Same message: the family is home most of today and leaves for a long weekend at about 1:30pm, which is why the 4:00 is still wanted. She does not say when they return or which weekend visits she needs, so the Friday-through-Monday changes from her Aug 31 message still need confirming.",
-     "quote": "we are leaving for a long weekend at about 130"
     }
    ],
    "dormant": false
@@ -3421,11 +3421,41 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 4",
+     "source": "Shannon Anderson message to client, 10:57am",
+     "office": false,
+     "note": "Erik's weekend request is now covered on the sitter side: Shannon Anderson tells him she will be there both Saturday and Sunday afternoon, and that a team member, Elizabeth S., will shadow her on Saturday for Whiskey.",
+     "quote": "Hi Erik, I will be there both Saturday and Sunday afternoon."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Aug 30",
      "source": "Client message 4:56pm",
      "office": true,
      "note": "Client asks to push the start of daily visits from Mon Aug 31 to Mon Sep 7 because of a last-minute change to his girlfriend's schedule. Needs an answer from the office before tomorrow morning; the Monday visits are currently still on the schedule.",
      "quote": "If possible, could we change our start date to be one week from tomorrow on 9/7 please?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 4",
+     "source": "Client message, 10:55am",
+     "office": true,
+     "note": "Erik asks the office to confirm in writing who is coming this weekend. He names Harvett and Shannon. Still unanswered as of 11:11am.",
+     "quote": "Just to confirm (and for the front desk folks), it will be Harvett and Shannon this weekend?"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 4",
+     "source": "Client message, 9:57am",
+     "office": false,
+     "note": "Erik says that if there is any problem getting in he can come back from work to let sitters in, and that 'they' are aware and will help. The email is a reply to an office message that is not quoted, so who 'they' are - neighbours, building staff or his girlfriend - is not stated.",
+     "quote": "But they are aware and will help us out!"
     },
     {
      "cat": "behavior",
@@ -3496,16 +3526,6 @@
      "office": false,
      "note": "A pet named Whiskey has been added to Erik Risa's account. The notification carries no species, age or handling detail - anything a sitter needs is still to be gathered.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Aug 30",
-     "source": "Company Notes updated by Shannon Anderson",
-     "office": false,
-     "note": "Park in the visitor lot on the side of the building. Poop bags are attached to the leash and the disposal can is in the pet area next to that lot. No mail or trash tasks.",
-     "quote": "Best place to park: visitor lot on side of building"
     }
    ],
    "dormant": false
