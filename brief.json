@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T21:20:05-04:00",
+ "generated": "2026-09-03T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1233,6 +1233,16 @@
      "quote": "I have to take Georgie to the vet tomorrow —am leaving home at 11:00"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Kristin Ashick message to client",
+     "office": false,
+     "note": "Answered: Kristin confirmed to the client at 9:10pm Sep 3 that she will arrive a few minutes early for the Fri Sep 4 walk so Georgie is back before the client leaves at 11:00 for the vet. No office action outstanding on the request itself; the visit window in the portal has not been confirmed changed.",
+     "quote": "Yes I can.. ill go a few minutes early so you have plenty of time!"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -1331,16 +1341,6 @@
      "office": false,
      "note": "A guest, Cousin Pam, and a dog called Tilly are at the house from Aug 26 and still there Aug 27. Georgie did well with Tilly. Length of stay not given.",
      "quote": "I brought the mail in and got introduced to Cousin Pam and little Tilly."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Client",
-     "office": false,
-     "note": "The client arranged a pest control spray of the yard perimeter, though a later message the same day said the company cannot come until the following Friday.",
-     "quote": "I have a pest control co coming on Friday to spray the perimeter of the yard."
     }
    ],
    "dormant": false
