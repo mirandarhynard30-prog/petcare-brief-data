@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T11:20:05-04:00",
+ "generated": "2026-09-04T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -902,6 +902,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 4",
+     "source": "Client msg 11:39am",
+     "office": true,
+     "note": "Cancel today's afternoon walk - Chloe has an appointment and probably will not be back. Offered to still pay for the late notice.",
+     "quote": "can we please cancel our afternoon walk? i am happy to still pay"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -930,6 +940,26 @@
      "office": false,
      "note": "Ellie Mae has been unwell and the client says her vet asked that her walking be minimised, so Chloe is walked alone for now.",
      "quote": "please don’t walk Ellie just walk Chloe the little white dog"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 4",
+     "source": "Client private msg 11:40am",
+     "office": true,
+     "note": "Melody repeated the cancellation privately so the office would tell the assigned sitter. The afternoon sitter still needs notifying.",
+     "quote": "wanted to make sure you can notify the person scheduled"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 4",
+     "source": "Client msg 11:39am",
+     "office": false,
+     "note": "Client says Chloe has a doctors appointment this afternoon. She does not say what for; the swollen eyes seen Sep 3 are unconfirmed as the reason.",
+     "quote": "Hey Chloe has a doctors appointment this afternoon"
     },
     {
      "cat": "health",
@@ -990,36 +1020,6 @@
      "office": false,
      "note": "On the Aug 28 late-morning visit Ellie Mae was let out into the front yard rather than walked, in line with the standing instruction to minimise her walking, and her stool was soft.",
      "quote": "Ellie Mae went out in the front yard, went numbers one and two (soft)"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Kiara Streety visit report, 12:47 pm",
-     "office": false,
-     "note": "Chloe was slow and reluctant on the 12:47 pm visit - only made it to the front yard, went #1 and wanted straight back in. Sitter sat with her and kept checking on her before leaving. Ellie Mae was normal.",
-     "quote": "Chloe wasn’t really feeling it today moving real slow"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Visit report from Alex Miller",
-     "office": true,
-     "note": "The sitter walked both Chloe and Ellie Mae today at the client's request; Ellie Mae went to the bathroom and was ready to go back in, and the walk continued with Chloe alone. This does not match the Aug 19 note that Ellie Mae's walking be minimised - the current instruction is unclear and should be confirmed with the client.",
-     "quote": "I took Chloe and Ellie Mae on a walk per your request."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Jade Popovitz visit report, Aug 26 afternoon",
-     "office": true,
-     "note": "The visit timer would not start, so the recorded time for the Aug 26 afternoon visit is wrong. The sitter says she was there 2:22 to 2:50 - the record needs correcting in Time To Pet.",
-     "quote": "the visit would not start, but I was there from 2:22 until 2:50"
     }
    ],
    "dormant": false
@@ -1739,6 +1739,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 4",
+     "source": "Client msg 11:34am",
+     "office": true,
+     "note": "Jessica cancelled today's walk on the weather after the sitter asked how it looked. Confirm off the schedule and check billing.",
+     "quote": "we should forgo the walk today. The weather is being finicky"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 3",
      "source": "Client private message 3:58pm",
      "office": true,
@@ -1774,6 +1784,16 @@
      "office": true,
      "note": "Client agreed to a 12:00 time. The message itself names no date, so which visit it settles is not stated in the email - most likely the Tue Sep 8 visit she confirmed on Sep 3, which still needs a sitter assigned. Office should verify before scheduling.",
      "quote": "Sure, 12 sounds good"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 4",
+     "source": "Client msg 11:36am",
+     "office": false,
+     "note": "After cancelling she said she would see the team next week, so nothing further this week. Her Tue Sep 8 noon visit still needs a sitter.",
+     "quote": "Sounds good, we'll see you next week!"
     },
     {
      "cat": "behavior",
@@ -1834,16 +1854,6 @@
      "office": false,
      "note": "Waste disposal rule, newly specific in the Aug 26 rewrite: terra cotta coloured plastic flower pot in front of the garage.",
      "quote": "Used poop bags can be thrown into terra cotta colored plastic flower pot in front of garage"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Tiarra Roberts",
-     "office": true,
-     "note": "Summer morning arrival window is 8:30am-9:30am. The rewrite dropped the word preferred, so it may now be a firm window - worth confirming with the client.",
-     "quote": "Morning visit arrival times in summer 8:30am-9:30am"
     }
    ],
    "dormant": false
