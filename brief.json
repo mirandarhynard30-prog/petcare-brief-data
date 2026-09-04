@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T19:20:06-04:00",
+ "generated": "2026-09-03T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3096,6 +3096,16 @@
     "Muffy"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 3",
+     "source": "Client private message, Sep 3 7:59pm",
+     "office": false,
+     "note": "Client says Muffy pulls hard on lead for her - she hopes the heel work will let her walk Muffy without being dragged. Confirms from the owner's side that the leash pulling sitters have been working on is an ongoing trait, not a one-off. She also said Muffy loves her ball enough to fall asleep holding it.",
+     "quote": "it gives me hope she will let me walk her without wildly dragging me all over the grounds"
+    },
     {
      "cat": "behavior",
      "sev": "low",
