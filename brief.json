@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T20:20:05-04:00",
+ "generated": "2026-09-03T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -44,6 +44,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 3",
+     "source": "Client message, Sep 3 8:32pm",
+     "office": false,
+     "note": "Client reports Livvie is much improved since being put back on her medication and is eating more. Sitter Noella confirmed both cats came out for dinner on the Sep 3 8pm visit and ate all their food. No medication name or dose was given in the message.",
+     "quote": "Livvie has been doing MUCH better"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Aug 27",
      "source": "Kelly Huntington",
      "office": false,
@@ -79,6 +89,26 @@
      "office": false,
      "note": "Caleb had gabapentin before his calcium retest, so the client warned he may still be groggy.",
      "quote": "He had Gabapentin before his visit so he may still be a little loopy"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 3",
+     "source": "Client message and Noella visit report, Sep 3",
+     "office": false,
+     "note": "Both cats hide during storms and may not greet at the door. On the Sep 3 evening visit Caleb was not waiting by the door and Livvie was under the bed; the owner said she was not surprised and had expected them to stay hidden. Call out and set food down rather than assuming they are out.",
+     "quote": "Im not surprised they were a little skittish with the storm"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Client message, Sep 3 8:47pm",
+     "office": false,
+     "note": "Owner describes the cats stealing each other's food at mealtimes - Livvie pushed Caleb off his bowl one morning, and the owner says Caleb has done the same to her. She fed Livvie her own bowl separately and it settled. Worth watching bowls if feeding both.",
+     "quote": "she had pushed him out of his food and was eating his"
     },
     {
      "cat": "health",
@@ -1193,6 +1223,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 3",
+     "source": "Client message to Kristin, Sep 3 9:03pm",
+     "office": true,
+     "note": "Client is taking Georgie to the vet on Fri Sep 4 and leaving the house at 11:00. She asks that his walk happen before then. The Sep 4 visit needs to be timed to land before 11:00 and the assigned sitter told.",
+     "quote": "I have to take Georgie to the vet tomorrow —am leaving home at 11:00"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -1246,6 +1286,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 3",
+     "source": "Client message to Kristin, Sep 3 9:03pm",
+     "office": false,
+     "note": "Georgie has a vet appointment on Fri Sep 4; the owner is leaving home at 11:00 and asked for a short walk before they go. She did not say what the appointment is for. Earlier the same day he was reported slow and panting on the 10:30 walk; whether the two are connected is not stated.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 1",
      "source": "Tiarra Roberts visit report, Sep 1 11:32am",
      "office": false,
@@ -1291,26 +1341,6 @@
      "office": false,
      "note": "The client arranged a pest control spray of the yard perimeter, though a later message the same day said the company cannot come until the following Friday.",
      "quote": "I have a pest control co coming on Friday to spray the perimeter of the yard."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Tiarra Roberts visit report",
-     "office": false,
-     "note": "On the Aug 31 morning walk Georgie tried to eat grass and the sitter discouraged him. 77 degrees and slightly humid; otherwise a normal walk, #1 and #2 firm and healthy.",
-     "quote": "He wanted to eat grass and I encouraged him not to."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Client message to sitter, Aug 29 11:19 am",
-     "office": false,
-     "note": "Client thanked the sitter for watching for when Georgie tires out on the walk. Suggests sitters should pace Georgie and watch for him flagging, alongside the existing over-75-degree twenty minute cap.",
-     "quote": "Thanks for giving Georgie such a nice walk and for paying attention to when he tires out."
     }
    ],
    "dormant": false
