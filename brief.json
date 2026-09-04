@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T22:20:05-04:00",
+ "generated": "2026-09-04T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3543,7 +3543,9 @@
    "url": "https://www.timetopet.com/dashboard/client/sq3t2jjDQxlF",
    "pets": [
     "Ted",
-    "Roo"
+    "Roo",
+    "Ted (Blue)",
+    "Roo Roo"
    ],
    "items": [
     {
@@ -3565,6 +3567,16 @@
      "office": false,
      "note": "For the Sep 4 visit the client's cousin will set out Ted's and Roo's pills in the morning. Client says Roo gets one pill and Ted continues his normal ones; no dosing details given beyond that.",
      "quote": "My cousin will set out Ted and Roo’s pills for you in the morning."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 4",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "At the Sep 4 morning visit Thomas found Ted's collar on very tight and loosened it before taking him out. Check the collar fit at the start of each visit until the owner confirms the new setting.",
+     "quote": "I loosened it a little but it was really tight"
     }
    ],
    "dormant": false
