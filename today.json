@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T10:35:08-04:00",
+ "generated": "2026-09-04T12:35:33-04:00",
  "date": "2026-09-04",
  "label": "Sep 4, 2026",
  "clients": [
@@ -55,18 +55,6 @@
      "staff": "Robin Lewis",
      "service": "Dog Visit-30 minute",
      "pets": "Oliver, Ginger"
-    }
-   ]
-  },
-  {
-   "name": "Jessica Shouldis",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Kristin Ashick",
-     "service": "Dog Visit-30 minute",
-     "pets": "Astra"
     }
    ]
   },
@@ -158,13 +146,6 @@
      "staff": "Harvett Ellington",
      "service": "Dog Visit-30 minute",
      "pets": "chloe"
-    },
-    {
-     "time": "1:30 PM",
-     "sort": "1330",
-     "staff": "Elizabeth Sigler",
-     "service": "Dog Visit-30 minute",
-     "pets": "chloe"
     }
    ]
   },
@@ -172,8 +153,8 @@
    "name": "Paulo Garcia",
    "visits": [
     {
-     "time": "12:00 PM",
-     "sort": "1200",
+     "time": "1:00 PM",
+     "sort": "1300",
      "staff": "Harvett Ellington",
      "service": "Dog Visit-45 minute",
      "pets": "Archer, Milo"
@@ -193,5 +174,5 @@
    ]
   }
  ],
- "visitCount": 17
+ "visitCount": 15
 }
