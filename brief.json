@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T09:20:07-04:00",
+ "generated": "2026-09-04T10:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -769,6 +769,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 4",
+     "source": "Margaret Bill visit message 9:49am",
+     "office": true,
+     "note": "Fourth open-garage report in three days. Margaret found the garage door standing open again at today's visit and closed it, and now suspects the door itself is malfunctioning rather than being left open. Office should raise it with Carol - a repeatedly open garage is a security and pet-escape risk. Margaret also came early because of the incoming storm.",
+     "quote": "Garage door is open again. Maybe it's malfunctioning. I will close it again."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -877,16 +887,6 @@
      "office": true,
      "note": "Same message: the family is home most of today and leaves for a long weekend at about 1:30pm, which is why the 4:00 is still wanted. She does not say when they return or which weekend visits she needs, so the Friday-through-Monday changes from her Aug 31 message still need confirming.",
      "quote": "we are leaving for a long weekend at about 130"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Margaret Bill 11:59am",
-     "office": true,
-     "note": "At the noon visit the sitter found the garage door standing open and asked the client whether to shut it. No answer appears in the thread - the office may need to reach Carol and give sitters a standing answer.",
-     "quote": "Hi Carol! The garage door is open. Should I shut it?"
     }
    ],
    "dormant": false
@@ -2088,6 +2088,16 @@
     "Macy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 4",
+     "source": "Client message 10:09am",
+     "office": true,
+     "note": "Charlene cancelled today's (Fri Sep 4) visit because storms are forecast all day. Sent 10:09am, after the morning walk window for some clients - confirm the visit is actually removed from the schedule and not billed. No mention of the weekend, so Saturday onward is unaffected as far as this message says.",
+     "quote": "It looks like it’s going to be storming most of the day. Let’s cancel for today!"
+    },
     {
      "cat": "health",
      "sev": "medium",
