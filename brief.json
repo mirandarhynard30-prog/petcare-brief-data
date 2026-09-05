@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T12:20:05-04:00",
+ "generated": "2026-09-05T13:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -242,6 +242,16 @@
      "quote": "I herded her through the crack in the gate (which is secured closed) so that we could avoid the possibility of an altercation."
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Elizabeth Sigler visit report 12:22pm",
+     "office": false,
+     "note": "Rusty was affected by the heat on the 11:48am visit, so the sitter cut outside time short and finished indoors with fresh water. One observation, not a standing rule.",
+     "quote": "The heat was getting to Rusty, so we finished our visit inside."
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -280,16 +290,6 @@
      "office": false,
      "note": "Puck and Rusty tired faster than usual in the afternoon heat and wanted to lie in the shade; the sitter brought them inside for cold water and continued playtime indoors. Both went #1 and #2, firm and healthy, no accidents.",
      "quote": "They seemed to get tired a little quicker than usual- probably thanks to how hot the sun is today."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Elizabeth Sigler visit report",
-     "office": false,
-     "note": "On the Aug 26 morning visit both Puck and Rusty went #1 and #2 with stool recorded as firm and healthy, and no accidents were found in the home.",
-     "quote": "It was firm and healthy"
     }
    ],
    "dormant": false
@@ -3836,6 +3836,48 @@
      "office": false,
      "note": "Pee pads are in the upstairs bedroom - replace any that are used or destroyed and put them in the outside trash can in the garage. Poop bags also go in the garage trash can. Trash day is Tuesday morning, cans out Monday night.",
      "quote": "Trash day: Tuesday morning"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Emily Tharp",
+   "url": "https://www.timetopet.com/dashboard/client/ss6ubfNDI1iU",
+   "pets": [
+    "Lucy",
+    "Penny",
+    "Silas"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 5",
+     "source": "Emily Tharp message 12:37pm",
+     "office": true,
+     "note": "Client sent a medication update for Lucy: she now also takes 3 pills of fluoxetine at night in addition to the apoquel, and it can be given in peanut butter. Not yet reflected in her Pet Care Note - office should add it before the next dosing sitter arrives. The email does not state the apoquel dose or timing.",
+     "quote": "She now also takes 3 pills of fluoxetine at night with the apoquel!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Emily Tharp message 12:36pm",
+     "office": false,
+     "note": "Client asked the sitter to let Silas back in. Shannon Anderson replied that Silas was inside when they arrived and came downstairs to meet them, so it is unclear whether Silas had been let out on this visit or the request was about a previous one. Worth checking Silas is indoors before leaving.",
+     "quote": "Thank you! Can you let Silas back in"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Elizabeth Sigler visit report 1:02pm",
+     "office": false,
+     "note": "Lucy, Penny and Silas share one water bowl; the sitter refreshed it on the midday visit. Two sitters attended (Shannon Anderson with Elizabeth Sigler); no accidents, no supplies low.",
+     "quote": "we made sure to refresh the water bowl shared by Lucy, Penny, and Silas"
     }
    ],
    "dormant": false
