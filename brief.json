@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T10:20:04-04:00",
+ "generated": "2026-09-05T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3707,6 +3707,26 @@
      "office": true,
      "note": "Client wrote Sat morning that Blackie will not be at the house - he will be at their neighbour Greg's. Confirm with the client whether the visit still goes ahead and where the pet actually is before a sitter is sent. Access details included in the same message are deliberately not repeated here.",
      "quote": "Blackie will be at our neighbors house his name is Greg in case he is home."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Client message",
+     "office": true,
+     "note": "Follow-up to her earlier Saturday message. The client says Blackie will be at the neighbour Greg's house for the whole period the walk schedule covers, not at her own home. Confirm with her where each scheduled walk should start before a sitter is sent out. Access details in the same thread are deliberately not repeated here.",
+     "quote": "Greg house he will be there this whole time that we have walk schedule"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Client message",
+     "office": true,
+     "note": "Separate one-line client reply at 10:32am. It answers a question that is not contained in the notification, so exactly which visits or dates she is confirming is unclear - it appears to cover next week and the week after, but the office should confirm the dates with her in writing.",
+     "quote": "Yes next week and the following"
     }
    ],
    "dormant": false
