@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T18:20:05-04:00",
+ "generated": "2026-09-05T19:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2412,6 +2412,26 @@
      "quote": "farmers dog came just as I was walking out of the garage so I left that in the garage"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Monica Hopewell evening visit report",
+     "office": true,
+     "note": "The Farmer's Dog delivery Monica left inside the garage at the 1:38pm visit still appears to be there - the 6:34pm evening report answers No to bringing any mail or packages in. Refrigerated food, so it needs someone tonight.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Monica Hopewell evening visit report",
+     "office": false,
+     "note": "Ripley was waiting right at the garage door when the sitter entered, noted as happening again. Open the garage entry door carefully and watch for a door dash.",
+     "quote": "Ripley was right at the garage door again to meet me when I came in"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2430,26 +2450,6 @@
      "office": false,
      "note": "On the Sep 3 midday visit Ripley went #1 only and the report logs no #2. That follows both Sep 2 visits, which were also #1 only. Ripley stopped partway down the street so the sitter turned back and walked the trails and back yard instead. The sitter did not flag it as a concern.",
      "quote": "She only went number one today."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Client private message",
-     "office": true,
-     "note": "Client reports the sitter's vehicle left fluid spots on his driveway again. He is raising it gently and only wants the office aware, but this is a repeat occurrence and needs an office response, not a sitter one.",
-     "quote": "Yasmeen’s vehicle left some spots again. I am really trying to be sensitive"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Monica Hopewell 11:36am",
-     "office": false,
-     "note": "On the morning visit Ripley went #1 only. The sitter gave her extra time in the back yard to see if she would go #2 and she did not. Because of the heat they went straight out to the trail after she ate.",
-     "quote": "we spent some extra time out back to see if she would go number two but she didn't"
     }
    ],
    "dormant": false
@@ -4012,6 +4012,26 @@
      "office": true,
      "note": "Sitter asked the client whether the garbage needs taking out and has had no answer yet. Also could not find Miguel's laser toy and used his two string toys instead.",
      "quote": "Also let me know if the garbage needs to go out."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Alexandria Francis",
+   "url": "https://www.timetopet.com/dashboard/client/tkuqmcNQIUVH",
+   "pets": [
+    "Lily"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Time To Pet account notification",
+     "office": true,
+     "note": "Alexandria added a new pet, Lily, to her account at 6:33pm. No care details, no meet and greet and no booking attached to her yet.",
+     "quote": "has added a pet with name Lily to their account"
     }
    ],
    "dormant": false
