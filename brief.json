@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T11:20:05-04:00",
+ "generated": "2026-09-05T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -636,6 +636,16 @@
      "office": false,
      "note": "On the Sep 5 morning visit both dogs refused to go into the fenced-in area. Ginger went #1 and #2 outside it; the sitter took Oliver for a walk down the street instead and he went there. One observation, not yet a pattern - offer the walk if either dog balks at the fenced area.",
      "quote": "refused to go into the fenced in area"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Robin Lewis visit report, Sep 5 11:25am visit",
+     "office": false,
+     "note": "At the 11:25am visit Oliver went #1 and #2 and the consistency was logged as firm and healthy. Ginger went #1, no #2 logged. Sitter notes Oliver likes to stop, roll and take a break on the walk.",
+     "quote": "It was firm and healthy"
     },
     {
      "cat": "health",
@@ -3687,6 +3697,16 @@
      "office": false,
      "note": "Remi's food has changed since the meet-and-greet: he is now on dry food, 2 cups. Bag and measuring cup are on the kitchen counter. Shannon Anderson acknowledged the message; not yet reflected in his Pet Care Note.",
      "quote": "He now takes dry food (2 cups). The bag is on the kitchen counter as well as the measuring cup."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Shannon Anderson visit report, Sep 5 midday",
+     "office": false,
+     "note": "Midday walk: Remi went #1 several times but no #2 was logged. Ate nothing at this visit; sitter said she would feed him at the nighttime visit.",
+     "quote": "He went #1 several times but no #2."
     }
    ],
    "dormant": false
@@ -3745,6 +3765,77 @@
      "office": false,
      "note": "Both cats were upstairs hiding under the beds when the sitter arrived Sat morning, and were described as a little shy. Expect to have to look for them. This is the first substantive note on file for this client.",
      "quote": "When we arrived, both cats were upstairs underneath the beds."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Christi Russo",
+   "url": "https://www.timetopet.com/dashboard/client/t0sv8x53ImZV",
+   "pets": [
+    "Jaxson"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Thomas Rakovec visit report, Sep 5 midday",
+     "office": false,
+     "note": "Jaxson was let out into the back but did not want to run around; walk kept to roughly seven minutes because of the weather. He went #1, no #2 at that visit, and drank well after coming in.",
+     "quote": "I took Jaxson for a 7 min walk at most and he went no.#1 but no No.#2 at this time."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Bill Brock",
+   "url": "https://www.timetopet.com/dashboard/client/ss72pvtYPnLZ",
+   "pets": [
+    "Storm",
+    "Timber"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Aug 22",
+     "source": "Tiarra Roberts updated Company Notes for Bill Brock",
+     "office": false,
+     "note": "Backyard only, no walks required. The dogs may not want to come back inside; a leash and a walk around the backyard is allowed, and cheese is the reliable lure. They stay in the upstairs bedroom (up the stairs, to the right) when unattended and may chew or damage things in there; no need to clean up messes in that room.",
+     "quote": "Use cheese if needed to get them inside"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 22",
+     "source": "Tiarra Roberts updated Company Notes for Bill Brock",
+     "office": false,
+     "note": "Feeding when Bill is out of town: morning around 7am, midday 1-6pm wet canned food from the fridge, half a can each (one can total); evening drop-in normally needs no feeding. Dry food is in the cabinet by the garage door with an open bag on the glass table in the upstairs dog room; keep the bowl in their bedroom topped off. Treats sit next to the dry food.",
+     "quote": "1/2 can each, 1 can total"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 22",
+     "source": "Tiarra Roberts updated Company Notes for Bill Brock",
+     "office": false,
+     "note": "The backyard can be muddy - dry the dogs with the towels by the back door before bringing them in. Water bowls by the sliding glass door and outside on the deck, plus a bowl and fountain in the upstairs dog bedroom. Leashes hang by the garage door.",
+     "quote": "kitchen sink faucet may not work"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Aug 22",
+     "source": "Tiarra Roberts updated Company Notes for Bill Brock",
+     "office": false,
+     "note": "Pee pads are in the upstairs bedroom - replace any that are used or destroyed and put them in the outside trash can in the garage. Poop bags also go in the garage trash can. Trash day is Tuesday morning, cans out Monday night.",
+     "quote": "Trash day: Tuesday morning"
     }
    ],
    "dormant": false
