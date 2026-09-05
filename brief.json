@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T09:20:04-04:00",
+ "generated": "2026-09-05T10:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -180,6 +180,16 @@
      "office": false,
      "note": "Rusty vomited several times Friday morning and the client asked sitters to watch for it and swap her blanket for a towel if it recurs.",
      "quote": "rusty threw up a few times this morning, so watch out for that"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Client message",
+     "office": false,
+     "note": "Client says only Rusty is home today - she took Puck with her for a haircut. Sitter Elizabeth Sigler acknowledged in the same thread, so no action needed unless the visit was billed for both.",
+     "quote": "It will just be rusty today. I took puck with me to give her a haircut!"
     },
     {
      "cat": "behavior",
@@ -430,6 +440,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 5",
+     "source": "Visit report - Lacey Govil",
+     "office": false,
+     "note": "Sampson was given half a pill in a pill pocket at the Sat morning visit and ate it willingly; the report logs medication as administered. The email does not name the drug or the schedule - check the Pet Care Note before dosing.",
+     "quote": "I gave Sampson his half of a pill in a pocket and he happily ate it."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Aug 30",
      "source": "Renee Dougherty visit report",
      "office": true,
@@ -510,41 +530,31 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 2",
-     "source": "Client message",
+     "date": "Sep 5",
+     "source": "Visit report - Lacey Govil",
      "office": false,
-     "note": "Client asks that the dog's cooling coat be put on for the visit. She notes an earlier walk the same day was cut short because it was too hot.",
-     "quote": "Put on his cooling coat."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 2",
-     "source": "Lacey Govil visit report, Sep 2 morning",
-     "office": false,
-     "note": "Treat rule: the client corrected the sitter on this visit - Gordy gets the treats she keeps in little bags, not other treats the sitter offers.",
-     "quote": "Anna corrected me to give him a different kind of treat he has in little bags"
+     "note": "Sat morning arrival: hairball on the kitchen floor rug, a couple of number twos on the dining room carpet, and pee plus what looked like number two on the pee pad in the laundry room. He did use the dining room litter box as well. Sitter cleaned everything with paper towels and Nature's Miracle spray foam and put down a fresh pee pad.",
+     "quote": "Poor Sampson had a few messes for me to clean up when I came in!"
     },
     {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 2",
-     "source": "Lacey Govil visit report, Sep 2 morning",
+     "date": "Sep 5",
+     "source": "Visit report - Lacey Govil",
      "office": false,
-     "note": "Morning walk was cut to half the usual neighbourhood loop because of the heat, with the cooling jacket on. Gordy went #2 twice and the consistency was logged as a little loose but not concerning.",
-     "quote": "Gordy went number one several times and number two twice and it was just soft"
+     "note": "Stool consistency at the Sat morning visit was logged by the sitter as slightly loose but not a concern. One reading only - worth a look at the next visit.",
+     "quote": "It was a little loose but not concerning"
     },
     {
-     "cat": "schedule",
+     "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Client message 12:01pm",
-     "office": true,
-     "note": "Client says Sampson is expecting a sitter Saturday morning, but phrases it tentatively - she says she believes so. Nothing in the email confirms a Saturday booking; the office should check the schedule against this.",
-     "quote": "Sampson will see you Saturday morning I believe."
+     "type": "standing",
+     "date": "Sep 5",
+     "source": "Client message",
+     "office": false,
+     "note": "Client's own cleanup routine for Sampson's accidents: Clorox wipes are kept in the kitchen; she uses paper towels, then Clorox wipes until the wipe comes up clean, then carpet cleaner. She re-does any remaining stains herself when she gets home.",
+     "quote": "There are clorox wipes in the kitchen also."
     }
    ],
    "dormant": false
@@ -3677,6 +3687,44 @@
      "office": false,
      "note": "Remi's food has changed since the meet-and-greet: he is now on dry food, 2 cups. Bag and measuring cup are on the kitchen counter. Shannon Anderson acknowledged the message; not yet reflected in his Pet Care Note.",
      "quote": "He now takes dry food (2 cups). The bag is on the kitchen counter as well as the measuring cup."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Fabiana Orlando",
+   "url": "https://www.timetopet.com/dashboard/client/t3gtyouIRG73",
+   "pets": [
+    "Blackie"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Client message",
+     "office": true,
+     "note": "Client wrote Sat morning that Blackie will not be at the house - he will be at their neighbour Greg's. Confirm with the client whether the visit still goes ahead and where the pet actually is before a sitter is sent. Access details included in the same message are deliberately not repeated here.",
+     "quote": "Blackie will be at our neighbors house his name is Greg in case he is home."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Sonja Cuollo",
+   "url": "https://www.timetopet.com/dashboard/client/temtja2raQoz",
+   "pets": [],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Visit report - Renee Dougherty",
+     "office": false,
+     "note": "Both cats were upstairs hiding under the beds when the sitter arrived Sat morning, and were described as a little shy. Expect to have to look for them. This is the first substantive note on file for this client.",
+     "quote": "When we arrived, both cats were upstairs underneath the beds."
     }
    ],
    "dormant": false
