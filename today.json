@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T11:35:41-04:00",
+ "generated": "2026-09-05T14:05:07-04:00",
  "date": "2026-09-05",
  "label": "Sep 5, 2026",
  "clients": [
@@ -176,8 +176,8 @@
    "name": "Lance Hoffman",
    "visits": [
     {
-     "time": "3:00 PM",
-     "sort": "1500",
+     "time": "1:45 PM",
+     "sort": "1345",
      "staff": "Yasmeen Abrams",
      "service": "Dog Visit-30 minute",
      "pets": "Marlo, Frankie, Sammy"
