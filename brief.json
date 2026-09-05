@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T13:20:06-04:00",
+ "generated": "2026-09-05T14:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2402,6 +2402,16 @@
      "quote": "there was definitely a coyote in that tree line there"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Monica Hopewell 1:38pm message",
+     "office": false,
+     "note": "A Farmer's Dog delivery arrived as the sitter was leaving the 1:35pm visit and was left inside the garage. It is refrigerated food, so it should not sit there long - the next sitter or the client should bring it in.",
+     "quote": "farmers dog came just as I was walking out of the garage so I left that in the garage"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2440,16 +2450,6 @@
      "office": false,
      "note": "On the morning visit Ripley went #1 only. The sitter gave her extra time in the back yard to see if she would go #2 and she did not. Because of the heat they went straight out to the trail after she ate.",
      "quote": "we spent some extra time out back to see if she would go number two but she didn't"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Kristin Ashick visit report, Sep 2 ~5pm",
-     "office": false,
-     "note": "Evening visit: the report logs Ripley going #1 only, with no #2 recorded. The sitter ended the visit a few minutes early because of the heat. Client was home during the visit.",
-     "quote": "I did stop the timer a few minutes early because of the heat."
     }
    ],
    "dormant": false
@@ -3878,6 +3878,56 @@
      "office": false,
      "note": "Lucy, Penny and Silas share one water bowl; the sitter refreshed it on the midday visit. Two sitters attended (Shannon Anderson with Elizabeth Sigler); no accidents, no supplies low.",
      "quote": "we made sure to refresh the water bowl shared by Lucy, Penny, and Silas"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Kari Majewski",
+   "url": "https://www.timetopet.com/dashboard/client/syqnz6sYgbFq",
+   "pets": [
+    "Miguel"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Margaret Bill visit report 1:37pm",
+     "office": false,
+     "note": "Miguel ate all his wet food but only some of his dry. The same report also says he drank water but did not eat while she was there, so the two statements conflict - worth confirming appetite at the next visit. She left out part of a can from the fridge plus a Sheba and gave a churu at the end.",
+     "quote": "Miguel ate all of his moist food, but a limited amount of his dry food"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 5",
+     "source": "Margaret Bill visit report 1:37pm",
+     "office": false,
+     "note": "Entry is normally through the garage rather than the key. Sitter also opens windows during the visit for fresh air and closes them before leaving.",
+     "quote": "I didn't need the key because we always use the garage"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 5",
+     "source": "Margaret Bill visit report 1:37pm",
+     "office": false,
+     "note": "The visit includes more than the cat: there is a fish to feed (a pinch of both foods) and bird food to put out on the outside rails. No wildlife food was found on this visit.",
+     "quote": "I put the bird food on the rails outside."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Margaret Bill visit report 1:37pm",
+     "office": true,
+     "note": "Sitter asked the client whether the garbage needs taking out and has had no answer yet. Also could not find Miguel's laser toy and used his two string toys instead.",
+     "quote": "Also let me know if the garbage needs to go out."
     }
    ],
    "dormant": false
