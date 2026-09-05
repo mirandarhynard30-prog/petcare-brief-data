@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T00:05:05-04:00",
+ "generated": "2026-09-05T11:35:41-04:00",
  "date": "2026-09-05",
  "label": "Sep 5, 2026",
  "clients": [
@@ -36,6 +36,18 @@
      "staff": "Thomas Rakovec",
      "service": "Dog Visit-30 minute",
      "pets": "Nova, Penny"
+    }
+   ]
+  },
+  {
+   "name": "Bill Brock",
+   "visits": [
+    {
+     "time": "7:00 PM",
+     "sort": "1900",
+     "staff": "Monica Hopewell",
+     "service": "Last Minute Visit- 45 minute",
+     "pets": "Storm, Timber"
     }
    ]
   },
@@ -254,5 +266,5 @@
    ]
   }
  ],
- "visitCount": 25
+ "visitCount": 26
 }
