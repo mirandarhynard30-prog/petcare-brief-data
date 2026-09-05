@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T17:20:04-04:00",
+ "generated": "2026-09-05T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3821,6 +3821,36 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Christi Russo message 5:59pm",
+     "office": true,
+     "note": "Christi confirms that from Oct 1 Jaxson is to be walked every day. Nothing in the message says which time slot or which sitter, so the recurring schedule still has to be set up in the system.",
+     "quote": "Starting October 1st, you'll be taking him out every day"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Christi Russo message 5:59pm",
+     "office": true,
+     "note": "Christi also says they are planning a meet and greet with a puppy. No date, no puppy name, no service booked - the office needs to come back to her to arrange it.",
+     "quote": "We are also planning to do a meet and greet with the puppy."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Thomas Rakovec visit report 5:38pm",
+     "office": false,
+     "note": "Jaxson was given a pill with cheese at the evening feed and the report records medication as administered. The email does not name the drug, the dose, or which visits it belongs to - confirm the regimen before relying on this.",
+     "quote": "Fed Jaxson and gave him his pill with cheese"
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -3829,6 +3859,16 @@
      "office": false,
      "note": "Jaxson was let out into the back but did not want to run around; walk kept to roughly seven minutes because of the weather. He went #1, no #2 at that visit, and drank well after coming in.",
      "quote": "I took Jaxson for a 7 min walk at most and he went no.#1 but no No.#2 at this time."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Thomas Rakovec visit report 5:38pm",
+     "office": false,
+     "note": "On the evening visit Jaxson would not go out into the back yard, so the sitter took him on a 12 minute walk instead; he went #1 several times and #2, firm and healthy.",
+     "quote": "he wouldn't go back yard so we took a nice 12 min walk"
     }
    ],
    "dormant": false
