@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T14:20:04-04:00",
+ "generated": "2026-09-05T15:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2521,7 +2521,8 @@
    "pets": [
     "Marlo",
     "Franki",
-    "Sammy"
+    "Sammy",
+    "Frankie"
    ],
    "items": [
     {
@@ -2543,6 +2544,16 @@
      "office": false,
      "note": "They eat three times a day (am, midday, evening) in the utility room - portioned bags in the refrigerator or on the kitchen island, rice/chicken plus kibble in each bowl. Treats in the utility room cabinet. Water bowls in laundry room and kitchen.",
      "quote": "NO NEED TO PICK UP THE #2'S. WATCH OUT FOR DEER POOP IN BACK YARD FIELD."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Yasmeen Abrams visit report 2:16pm",
+     "office": false,
+     "note": "A loose nail was found in the home on the Sep 5 visit and the sitter disposed of it. Lance replied that it was not theirs and that they were not bothered. Worth a glance at the floors with three dogs in the house.",
+     "quote": "Sorry about the nail I disposed of it properly"
     }
    ],
    "dormant": false
@@ -3488,6 +3499,16 @@
      "quote": "If possible, could we change our start date to be one week from tomorrow on 9/7 please?"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 5",
+     "source": "Client message 2:40pm/2:43pm",
+     "office": false,
+     "note": "Building entry can be slow. Erik has given a direct phone line to the front desk staff so sitters can call rather than wait outside; the number is in the Time To Pet message thread, not repeated here.",
+     "quote": "Let me send you the number for the staff at the front desk so you can call them"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3566,16 +3587,6 @@
      "office": false,
      "note": "Whiskey's record now says dog friendly, not an escape risk. Leash and harness are by the door, toys in the living room, cleaning supplies under the sink. Client is not home during visits.",
      "quote": "Leash location: by door"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Time To Pet account notification, Aug 29 7:31pm",
-     "office": false,
-     "note": "A pet named Whiskey has been added to Erik Risa's account. The notification carries no species, age or handling detail - anything a sitter needs is still to be gathered.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -3754,7 +3765,10 @@
   {
    "name": "Sonja Cuollo",
    "url": "https://www.timetopet.com/dashboard/client/temtja2raQoz",
-   "pets": [],
+   "pets": [
+    "Star",
+    "Nebula"
+   ],
    "items": [
     {
      "cat": "behavior",
@@ -3765,6 +3779,16 @@
      "office": false,
      "note": "Both cats were upstairs hiding under the beds when the sitter arrived Sat morning, and were described as a little shy. Expect to have to look for them. This is the first substantive note on file for this client.",
      "quote": "When we arrived, both cats were upstairs underneath the beds."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Client message 3:08pm",
+     "office": true,
+     "note": "Sonja is watching on camera and sees Star sniffing and sitting by the closed bedroom door at the top of the stairs. She is asking whether a sitter opened that door and whether Nebula could be shut inside; Nebula has not been seen since this morning. Unanswered as of this run - needs a reply from whoever visited.",
+     "quote": "Just wanted to make sure there’s no chance of nebula being in there"
     }
    ],
    "dormant": false
