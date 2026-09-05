@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T14:20:05-04:00",
+ "generated": "2026-09-04T20:20:11-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3037,6 +3037,16 @@
      "quote": "I do not wish to have a walker on the 7th of September."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 4",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "On the Sep 4 evening walk Guinness went #2 twice and Dan logged the consistency as a little loose but not concerning. Same reading as Sep 1, Aug 28, Aug 27, Aug 25 and Aug 24; the Sep 2 visit was firm. The loose readings are now recurring over roughly two weeks.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3135,16 +3145,6 @@
      "office": false,
      "note": "Guinness's stool was recorded as a little loose on the Aug 25 visit, and as a little loose on Aug 24 as well - two days running.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Dan Dantimo visit reports, Aug 24 and Aug 25",
-     "office": false,
-     "note": "Both reports record the client at home during the visit and asking that the door not be locked.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
