@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T07:20:05-04:00",
+ "generated": "2026-09-05T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -606,6 +606,26 @@
      "office": true,
      "note": "Messaging from hospital, the client said the next day's visit could be cancelled and that he needs cover for September 2nd.",
      "quote": "Tomorrow's visit can be cancelled unless you still have to charge me. I will need you for September 2nd."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Robin Lewis visit report, Sep 5 7:33am",
+     "office": false,
+     "note": "On the Sep 5 7am visit the sitter found a potty accident in Oliver's room and wrote that he had an upset belly; she cleaned it up. Note the report is internally inconsistent - the per-pet section logs Oliver's stool on the walk as firm and healthy, so the upset belly is the sitter's read of the accident rather than a stool she saw. Worth watching on the next visit.",
+     "quote": "Oliver had an accident in his room. He an upset belly"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Robin Lewis visit report, Sep 5 7:33am",
+     "office": false,
+     "note": "On the Sep 5 morning visit both dogs refused to go into the fenced-in area. Ginger went #1 and #2 outside it; the sitter took Oliver for a walk down the street instead and he went there. One observation, not yet a pattern - offer the walk if either dog balks at the fenced area.",
+     "quote": "refused to go into the fenced in area"
     },
     {
      "cat": "health",
@@ -2352,6 +2372,16 @@
      "quote": "Morning visit: 7:30-9. Walk/play/Water (no feed)"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Monica Hopewell visit report, Sep 5 7:36am",
+     "office": false,
+     "note": "On the Sep 5 morning walk the sitter saw a coyote in the tree line by the property and Ripley kept trying to go investigate. The sitter turned right instead of the usual route. Worth keeping Ripley close and away from the tree line on walks here until this settles.",
+     "quote": "there was definitely a coyote in that tree line there"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2400,16 +2430,6 @@
      "office": false,
      "note": "Evening visit: the report logs Ripley going #1 only, with no #2 recorded. The sitter ended the visit a few minutes early because of the heat. Client was home during the visit.",
      "quote": "I did stop the timer a few minutes early because of the heat."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Yasmeen Abrams visit report, Sep 1 4:53pm",
-     "office": false,
-     "note": "On the Sep 1 late-afternoon walk the sitter cut outside time short because of the heat - she logged it as 80-90 degrees, Ripley was panting, and the sitter brought her in early to replenish water and cool down rather than risk overheating. Ripley went #1, no accidents in the home, and she chose to walk left instead of the usual cul-de-sac route.",
-     "quote": "I didn’t want her to overheat."
     }
    ],
    "dormant": false
