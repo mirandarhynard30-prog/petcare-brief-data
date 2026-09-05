@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T21:20:05-04:00",
+ "generated": "2026-09-05T07:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3637,6 +3637,26 @@
      "office": false,
      "note": "At the Sep 4 morning visit Thomas found Ted's collar on very tight and loosened it before taking him out. Check the collar fit at the start of each visit until the owner confirms the new setting.",
      "quote": "I loosened it a little but it was really tight"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Christina Carlisle",
+   "url": "https://www.timetopet.com/dashboard/client/tilai0evD1wS",
+   "pets": [
+    "Remi"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 5",
+     "source": "Client message from Christina Carlisle, Sep 5 6:59am",
+     "office": false,
+     "note": "Remi's food has changed since the meet-and-greet: he is now on dry food, 2 cups. Bag and measuring cup are on the kitchen counter. Shannon Anderson acknowledged the message; not yet reflected in his Pet Care Note.",
+     "quote": "He now takes dry food (2 cups). The bag is on the kitchen counter as well as the measuring cup."
     }
    ],
    "dormant": false
