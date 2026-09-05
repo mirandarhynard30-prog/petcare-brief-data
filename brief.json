@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T16:20:06-04:00",
+ "generated": "2026-09-05T17:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3799,6 +3799,16 @@
      "office": true,
      "note": "Follow-up to Sonja's 3:08pm question about Star sitting at the closed upstairs bedroom door. Sonja says the door was already closed when she left, so she doubts Nebula is shut in, but she is still asking the office to confirm no sitter opened it. Unanswered as of 4:10pm.",
      "quote": "It was closed when we left so I doubt she’s in there"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Sonja Cuollo client message 4:09pm",
+     "office": true,
+     "note": "Closed out: Sonja's earlier question about whether Nebula could be shut in the upstairs bedroom is resolved - she says Star was just missing them. No sitter follow-up needed.",
+     "quote": "Thanks for checking! He’s just missed us then 😭 thank you all for taking care of them"
     }
    ],
    "dormant": false
