@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T15:20:04-04:00",
+ "generated": "2026-09-05T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1910,6 +1910,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 5",
+     "source": "Ashley Gullett client message",
+     "office": false,
+     "note": "Nova is food aggressive. No treats or chews while both dogs are in the same room - the family separates them with the gate before giving anything.",
+     "quote": "nova is a little food aggressive so no treats or anything if they are in the same room"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Aug 29",
      "source": "Pet Care Note / Company Notes rewritten by Dan Dantimo, Aug 29",
      "office": false,
@@ -1935,6 +1945,26 @@
      "office": false,
      "note": "New feeding amounts: Nova one cup of dry food, Penny half a cup, dry food only, at the morning visit and the bedtime visit. Totes are marked for each dog.",
      "quote": "NOVA GETS ONE CUP OF DRY FOOD AND PENNY GETS A 1/2 CUP. TOTES ARE MARKED FOR EACH DOG."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 5",
+     "source": "Ashley Gullett client message",
+     "office": false,
+     "note": "Penny is a new puppy joining the household. She mouths and chews anything she can reach - Ashley asks sitters to watch her outside for this.",
+     "quote": "Penny will also want to chew on anything she can put her teeth on"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Ashley Gullett client message",
+     "office": false,
+     "note": "For the Sat evening visit only: no walks, Penny just needs letting outside to potty. Both dogs went #2 before Ashley left, so neither is likely to go #2 on this visit.",
+     "quote": "No walks this evening because we won’t be gone super long."
     },
     {
      "cat": "home",
@@ -1995,36 +2025,6 @@
      "office": false,
      "note": "Dan proposed occupying Nova with a bone, treat or attention while Penny eats, as a way of working around Nova's food aggression. The client replied that Nova would love that. Not yet a written standing rule.",
      "quote": "I figured with Nova, I'd give her a bone or treat or attention while Penny eats"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Dan Dantimo visit report, Aug 29 4:44pm",
-     "office": false,
-     "note": "The food guarding runs both ways. On this visit Penny went for Nova's treat, and after Penny was fed behind the gate Nova went straight to Penny's dish looking for leftovers. Supports keeping them separated for treats and meals.",
-     "quote": "BTW Penny wanted to get after Nova's treat"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 28",
-     "source": "Dan Dantimo",
-     "office": false,
-     "note": "A second dog, Penny, has been added to the household alongside Nova - a female golden retriever, added to the client's Time To Pet account the same afternoon. Dan Dantimo met her on the 5pm visit and expects to walk both dogs together from tomorrow. No walk happened on the 5pm visit; the client was home.",
-     "quote": "Hey guys, great to see all of you again and to meet Penny. I'm sure the three of us will have some fun tomorrow."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": false,
-     "note": "There is a new puppy in the household staying with the client's parents overnight, and the gate a sitter noticed was left open for Nova on purpose.",
-     "quote": "We actually got a new puppy that is staying with my parents overnight."
     }
    ],
    "dormant": false
@@ -3789,6 +3789,16 @@
      "office": true,
      "note": "Sonja is watching on camera and sees Star sniffing and sitting by the closed bedroom door at the top of the stairs. She is asking whether a sitter opened that door and whether Nebula could be shut inside; Nebula has not been seen since this morning. Unanswered as of this run - needs a reply from whoever visited.",
      "quote": "Just wanted to make sure there’s no chance of nebula being in there"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Sonja Cuollo client message 3:18pm",
+     "office": true,
+     "note": "Follow-up to Sonja's 3:08pm question about Star sitting at the closed upstairs bedroom door. Sonja says the door was already closed when she left, so she doubts Nebula is shut in, but she is still asking the office to confirm no sitter opened it. Unanswered as of 4:10pm.",
+     "quote": "It was closed when we left so I doubt she’s in there"
     }
    ],
    "dormant": false
