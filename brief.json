@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T16:20:05-04:00",
+ "generated": "2026-09-06T19:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3088,6 +3088,16 @@
     "Archie"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Client message, 6:12pm",
+     "office": true,
+     "note": "Ray cancelled tomorrow's visit (Mon Sep 7) and expects service to resume Tuesday Sep 8. Sent as a message, not through the portal, so the visit is still on the schedule until the office removes it. Addressed to Tommy.",
+     "quote": "Tommy I just realized I won’t need your services tomorrow, have a great day and we will see you Tuesday."
+    },
     {
      "cat": "health",
      "sev": "low",
