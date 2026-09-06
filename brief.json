@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T12:20:05-04:00",
+ "generated": "2026-09-06T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -832,6 +832,16 @@
      "cat": "home",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 6",
+     "source": "Margaret Bill visit report",
+     "office": true,
+     "note": "Fifth open-garage report in five days. Margaret found the garage door open again at today's midday visit and shut it. Her report says she locked all doors on leaving. Nobody has yet raised the repeated open garage with Carol or checked whether the door is malfunctioning.",
+     "quote": "The garage door was open again when I came in so I shut it."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 4",
      "source": "Margaret Bill visit message 9:49am",
      "office": true,
@@ -937,16 +947,6 @@
      "office": true,
      "note": "Cancelled dog walking for Thursday and Friday this week, asked for someone about 1 on Saturday instead. Unanswered - a sitter may still be routed to a cancelled visit.",
      "quote": "I am going to need to cancel dog walking for Thursday and Friday this week"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "client private message (signed Carol)",
-     "office": true,
-     "note": "Follow-up the same evening confirming 1:00 Saturday. She refers to having said Sunday, but her first message already said Saturday - unclear. Still unanswered.",
-     "quote": "I am sorry, I said Sunday but I meant 1:00 on Saturday, not Sunday. Does that work?"
     }
    ],
    "dormant": false
