@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T11:20:05-04:00",
+ "generated": "2026-09-06T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -631,6 +631,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 6",
+     "source": "Robin Lewis visit report",
+     "office": false,
+     "note": "Second visit of the day, arrival ~11:25am: no accidents found and no vomit mentioned anywhere in the report. Oliver went #1 and #2, stool logged firm and healthy. Ginger went #1 only, no #2 this visit. Follows the same sitter finding vomit in Oliver's room at the 7am visit.",
+     "quote": "There were no accidents"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 5",
      "source": "Robin Lewis visit report, Sep 5 7:33am",
      "office": false,
@@ -676,16 +686,6 @@
      "office": false,
      "note": "On the 7am visit Ginger was eating grass in the yard. Both dogs went #1 and #2 and the sitter logged both stools as firm and healthy; water bowl changed, no accidents.",
      "quote": "she was eating some grass this morning"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Robin Lewis 11:55am",
-     "office": false,
-     "note": "Oliver went #1 but no #2 on the 11:30 walk; the sitter put it down to the heat. He had gone #2 on the 7am visit the same morning, so the sitter's wording covers that walk rather than the whole day.",
-     "quote": "unfortunately he did not poop today. I think the heat had something to do with it."
     }
    ],
    "dormant": false
