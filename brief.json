@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T19:20:06-04:00",
+ "generated": "2026-09-05T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3920,6 +3920,16 @@
      "office": false,
      "note": "Pee pads are in the upstairs bedroom - replace any that are used or destroyed and put them in the outside trash can in the garage. Poop bags also go in the garage trash can. Trash day is Tuesday morning, cans out Monday night.",
      "quote": "Trash day: Tuesday morning"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Monica Hopewell visit report, Sep 5 evening",
+     "office": false,
+     "note": "Storm - stool consistency at the Sep 5 evening visit was logged as \"a little loose but not concerning\". Timber's was logged firm and healthy. One reading only; worth a look at the next visit if it repeats.",
+     "quote": ""
     }
    ],
    "dormant": false
