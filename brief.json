@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T21:20:05-04:00",
+ "generated": "2026-09-05T23:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1343,6 +1343,26 @@
      "quote": "Georgie is an escape artist."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Tiarra Roberts visit report, Sep 5 evening",
+     "office": false,
+     "note": "Georgie's eye drops are described by the sitter as running through this week. The Sep 5 evening visit was deliberately run a little longer to leave time for them; the sitter helped Mary Ann give them after the walk. Allow extra time on evening visits this week. The email does not state the drop name, dose or how many days remain.",
+     "quote": "some time to give Georgie his eye drops for this week"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 5",
+     "source": "Tiarra Roberts visit report, Sep 5 evening",
+     "office": false,
+     "note": "Arrival and departure routine used on the Sep 5 evening visit, relevant because Georgie is flagged an escape risk: entered through the garage and closed the garage door behind her, rang the white doorbell button, went in via the laundry room, and put the harness on and took it off in the laundry room rather than at the door. Recorded as what one sitter did on one visit, not confirmed as a standing house rule.",
+     "quote": "got Georgie out after puting his harness on in the laundry room"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1361,26 +1381,6 @@
      "office": false,
      "note": "On the 10:30 walk Georgie was moving slower and panting heavily in the heat/humidity; sitter shortened the distance and walked slowly. He went #1 and #2; stool logged as a little loose but not concerning.",
      "quote": "I noticed Georgie was moving a bit slower and panting a little heavily with the heat and humidity so we shortened our distance"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 3",
-     "source": "Client message from Mary Ann Mckeever, Sep 3",
-     "office": false,
-     "note": "Client thanked the sitter for watching out for toads on Georgie's walk, so toads are a known concern on this route. She did not say what happened or give an instruction beyond watching for them; the evening sitter replied that she would watch for toads again that night.",
-     "quote": "Thanks for giving Georgie such a lovely walk and for watching out for toads!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client message to Kristin, Sep 3 9:03pm",
-     "office": false,
-     "note": "Georgie has a vet appointment on Fri Sep 4; the owner is leaving home at 11:00 and asked for a short walk before they go. She did not say what the appointment is for. Earlier the same day he was reported slow and panting on the 10:30 walk; whether the two are connected is not stated.",
-     "quote": ""
     }
    ],
    "dormant": false
