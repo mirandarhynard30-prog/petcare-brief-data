@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T08:20:05-04:00",
+ "generated": "2026-09-06T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3519,6 +3519,16 @@
      "quote": "If possible, could we change our start date to be one week from tomorrow on 9/7 please?"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Client message 8:55am",
+     "office": false,
+     "note": "Erik texted mid-visit on Sun Sep 6 that he may come home from work during the visit and could run into the sitter while she is still with Whiskey; he flagged it so nobody would be surprised.",
+     "quote": "I might try to run home from work real quick to check on a few things"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -3597,16 +3607,6 @@
      "office": true,
      "note": "Feeding now recorded: dry Purina, 1 cup, food and treats on the counter, water fountain in the kitchen. Feeding times are logged as Midday/Afternoon but the written instruction says a tomato from the garden in the am - the office should confirm with Erik whether the tomato is a separate morning item before visits start Monday.",
      "quote": "1c of food, 1 tomato from garden in am"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 30",
-     "source": "Company Notes updated by Shannon Anderson",
-     "office": false,
-     "note": "Whiskey's record now says dog friendly, not an escape risk. Leash and harness are by the door, toys in the living room, cleaning supplies under the sink. Client is not home during visits.",
-     "quote": "Leash location: by door"
     }
    ],
    "dormant": false
