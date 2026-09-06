@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T13:20:05-04:00",
+ "generated": "2026-09-06T15:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1923,7 +1923,8 @@
    "url": "https://www.timetopet.com/dashboard/client/sud30hb6RA15",
    "pets": [
     "Nova",
-    "Penny"
+    "Penny",
+    "Sprinkles"
    ],
    "items": [
     {
@@ -1965,6 +1966,16 @@
      "office": false,
      "note": "New feeding amounts: Nova one cup of dry food, Penny half a cup, dry food only, at the morning visit and the bedtime visit. Totes are marked for each dog.",
      "quote": "NOVA GETS ONE CUP OF DRY FOOD AND PENNY GETS A 1/2 CUP. TOTES ARE MARKED FOR EACH DOG."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Dan Dantimo visit report, 2:00pm",
+     "office": false,
+     "note": "Nova's stool at the Sun 2:00pm visit was reported loose. Penny went #1 only. Watch the next couple of visits; if it continues Ashley should be told.",
+     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "behavior",
@@ -2035,16 +2046,6 @@
      "office": false,
      "note": "Penny did not go #2 before the client left, although she did go in the morning. The client asks the sitter to try to get her to go at the afternoon visit, unless she has already gone in the crate.",
      "quote": "Penny did not #2 before we left even though we tried."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Dan Dantimo to client, Aug 29 afternoon",
-     "office": false,
-     "note": "Dan proposed occupying Nova with a bone, treat or attention while Penny eats, as a way of working around Nova's food aggression. The client replied that Nova would love that. Not yet a written standing rule.",
-     "quote": "I figured with Nova, I'd give her a bone or treat or attention while Penny eats"
     }
    ],
    "dormant": false
