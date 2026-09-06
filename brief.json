@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T10:20:08-04:00",
+ "generated": "2026-09-06T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4002,6 +4002,26 @@
      "office": false,
      "note": "Client asked the sitter to let Silas back in. Shannon Anderson replied that Silas was inside when they arrived and came downstairs to meet them, so it is unclear whether Silas had been let out on this visit or the request was about a previous one. Worth checking Silas is indoors before leaving.",
      "quote": "Thank you! Can you let Silas back in"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Elizabeth Sigler visit report 10:32am",
+     "office": false,
+     "note": "Sep 6 morning visit: the sitter changed Lucy's walk route because another dog was coming down the hill they normally walk up (Professor). She went down W 7th St past Rising Star, up a different hill, and back down Professor instead. The report does not say why she chose to avoid the other dog, so do not read it as a reactivity note.",
+     "quote": "we didn’t go the usual way and continued walking down W 7th St since a dog was coming right down the hill"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Elizabeth Sigler visit report 10:32am",
+     "office": false,
+     "note": "Same visit: Lucy was upstairs on arrival and had to be called down; Silas and Penny were on the couch. Lucy was fed, walked, watered twice and treated, stool firm, no accidents. The sitter checked the cat auto feeder and says it appears to be working, with the food going down incrementally.",
+     "quote": "Auto feeder seems to be working well- I think I’ve noticed that the cat food is going down incrementally."
     },
     {
      "cat": "home",
