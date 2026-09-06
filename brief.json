@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T09:20:05-04:00",
+ "generated": "2026-09-06T10:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -529,32 +529,32 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Sep 6",
+     "source": "Client message to Lacey Govil",
+     "office": false,
+     "note": "Sampson is not reliably using the litter box. Anna asked for a second pee pad in the dining room, between the table and the crockpot stand, in addition to the one in the laundry room; Lacey put it down on the Sep 6 morning visit. Anna says he uses the pads and sometimes the dining room litter box.",
+     "quote": "Would you want to put another pad out in the dining room?"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 6",
+     "source": "Lacey Govil visit report",
+     "office": true,
+     "note": "Sampson's morning medication is given as half a pill in a pill pocket before food, then wet and dry mixed together. The email does not name the medication and the dose is not stated anywhere - office should get it written into his Pet Care Note.",
+     "quote": "I started with his half of a pill in a pocket and he ate it right up."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Sep 5",
      "source": "Visit report - Lacey Govil",
      "office": false,
      "note": "Sat morning arrival: hairball on the kitchen floor rug, a couple of number twos on the dining room carpet, and pee plus what looked like number two on the pee pad in the laundry room. He did use the dining room litter box as well. Sitter cleaned everything with paper towels and Nature's Miracle spray foam and put down a fresh pee pad.",
      "quote": "Poor Sampson had a few messes for me to clean up when I came in!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Visit report - Lacey Govil",
-     "office": false,
-     "note": "Stool consistency at the Sat morning visit was logged by the sitter as slightly loose but not a concern. One reading only - worth a look at the next visit.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 5",
-     "source": "Client message",
-     "office": false,
-     "note": "Client's own cleanup routine for Sampson's accidents: Clorox wipes are kept in the kitchen; she uses paper towels, then Clorox wipes until the wipe comes up clean, then carpet cleaner. She re-does any remaining stains herself when she gets home.",
-     "quote": "There are clorox wipes in the kitchen also."
     }
    ],
    "dormant": false
@@ -3819,6 +3819,26 @@
      "office": true,
      "note": "Follow-up to Sonja's 3:08pm question about Star sitting at the closed upstairs bedroom door. Sonja says the door was already closed when she left, so she doubts Nebula is shut in, but she is still asking the office to confirm no sitter opened it. Unanswered as of 4:10pm.",
      "quote": "It was closed when we left so I doubt she’s in there"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Renee Dougherty visit report",
+     "office": false,
+     "note": "Both cats hid on arrival and were described as a little shy - expect to find them upstairs rather than at the door.",
+     "quote": "Star was under the sheet. Nebula was under the bed."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Renee Dougherty visit report",
+     "office": false,
+     "note": "Sitter wound the grandfather clock as part of the Sep 6 visit and put the litter waste bags in the garbage in the garage. Unclear from the email whether the clock is a standing request or a one-off.",
+     "quote": "We wound up the grandfather clock as well."
     },
     {
      "cat": "home",
