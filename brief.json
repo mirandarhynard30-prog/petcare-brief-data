@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T15:20:04-04:00",
+ "generated": "2026-09-06T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2859,6 +2859,16 @@
      "quote": "Won’t be available for a walk. Please cancel. Thanks."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Dan Dantimo visit report, Sun Sep 6 3:34pm",
+     "office": true,
+     "note": "Dan Dantimo closed the Sunday visit report unsure whether he is scheduled for Holly on Mon Sep 7 and asked to be told later today. Office needs to confirm Monday's assignment with him.",
+     "quote": "I assume I'm here tomorrow, should know later today"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2877,6 +2887,16 @@
      "office": true,
      "note": "Thirty-seven minutes later Lynne replied to a message from Miranda saying she is still deciding and needs to check the weather. The question she is answering is not reproduced in the notification, so what is still undecided is unclear - a decision from her is outstanding.",
      "quote": "Im still thinking. Have to check weather"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Dan Dantimo visit report, Sun Sep 6 3:34pm",
+     "office": false,
+     "note": "Holly went #2 on the Sunday afternoon walk and the consistency was recorded as a little loose but not concerning. The same reading was recorded on Aug 25. Quote deliberately left blank - the report wording is identical to another client's Sep 6 health item and the de-duplication key would have swallowed one of them.",
+     "quote": ""
     },
     {
      "cat": "behavior",
