@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T23:20:05-04:00",
+ "generated": "2026-09-06T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -568,6 +568,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Robin Lewis visit report, Sep 6 7am visit",
+     "office": true,
+     "note": "Sitter found vomit in Oliver's room by the window on the Sep 6 7am visit and cleaned it up. Her wording 'more throw up' implies she had seen vomit there before, though the earlier reports only log a potty accident and an upset belly on Sep 5 - so this is the second consecutive morning with a GI problem in that room. Oliver's stool on this visit was logged firm and healthy. Office should tell Jesse and decide whether a vet call is needed.",
+     "quote": "I did find more throw up this morning in his room by the window. I cleaned it up."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -626,6 +636,16 @@
      "office": false,
      "note": "On the Sep 5 7am visit the sitter found a potty accident in Oliver's room and wrote that he had an upset belly; she cleaned it up. Note the report is internally inconsistent - the per-pet section logs Oliver's stool on the walk as firm and healthy, so the upset belly is the sitter's read of the accident rather than a stool she saw. Worth watching on the next visit.",
      "quote": "Oliver had an accident in his room. He an upset belly"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Robin Lewis visit report, Sep 6 7am visit",
+     "office": false,
+     "note": "Second morning running that the fenced-in area was refused. Ginger would not go in at all; Oliver went in for about a minute, then stood and barked to get out, and the sitter walked him down the street to poop. Both dogs went #1 and #2 outside the fence. Plan on walking rather than relying on the fenced area.",
+     "quote": "she still refuses to go in the fenced in area not sure why"
     },
     {
      "cat": "behavior",
