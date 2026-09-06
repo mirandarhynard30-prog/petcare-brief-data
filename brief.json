@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T20:20:05-04:00",
+ "generated": "2026-09-05T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2435,21 +2435,21 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 5",
+     "source": "Client message from Matt Konn, 8:22pm Sat Sep 5",
+     "office": true,
+     "note": "Matt messaged at 8:22pm Sat Sep 5 to say he is home. He does not say whether this ends the trip, so confirm with him whether the Monday visit Monica told him about (\"I will see her Monday\") is still wanted. He being home also means the Farmer's Dog delivery Monica left inside the garage at 1:38pm Sep 5 should now be found and put away.",
+     "quote": "Just got home!! TY so much for taking care of her today!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 4",
      "source": "Monica Hopewell visit report, Sep 4 1:38pm",
      "office": true,
      "note": "In her Sep 4 midday report Monica says she will cover all three of Matt's Saturday Sep 5 visits. That answers the coverage question left open since his Sep 1 request for three visits on Sep 5, but the office has still not confirmed it to him in writing.",
      "quote": "I will see her all three visits tomorrow."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Monica Hopewell visit report, Sep 3 midday",
-     "office": false,
-     "note": "On the Sep 3 midday visit Ripley went #1 only and the report logs no #2. That follows both Sep 2 visits, which were also #1 only. Ripley stopped partway down the street so the sitter turned back and walked the trails and back yard instead. The sitter did not flag it as a concern.",
-     "quote": "She only went number one today."
     }
    ],
    "dormant": false
