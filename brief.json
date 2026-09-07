@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T08:20:07-04:00",
+ "generated": "2026-09-07T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3563,6 +3563,26 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 7",
+     "source": "Jade Popovitz visit report",
+     "office": true,
+     "note": "Whiskey's Mon Sep 7 morning visit did happen - Jade Popovitz attended (shadowing Harvett Ellington, who noted at 9:45am that Jade would finish the report). This closes the open question of whether the Sep 7 start Erik asked for on Aug 30 was actually on Monday's board.",
+     "quote": "It was great to meet whiskey today!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Jade Popovitz visit report",
+     "office": false,
+     "note": "Whiskey's stool was soft again on the Mon Sep 7 morning walk. The sitter recorded it as not concerning, but Whiskey is already on the loose-stool watch list, so this is a repeat rather than a one-off. Worth telling Erik on the next repeat.",
+     "quote": "he went number one and two although it was a little soft"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 6",
      "source": "Client message 8:55am",
      "office": false,
@@ -3618,26 +3638,6 @@
      "office": false,
      "note": "Whiskey's morning routine per the Aug 30 meet-and-greet: one tomato before the walk, then one cup of dry food with treats.",
      "quote": "Whiskey receives one tomato as a morning routine before walking. One cup of dry food with treats."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 30",
-     "source": "Harvett Ellington meet-and-greet report",
-     "office": false,
-     "note": "Water fountain needs refreshing, same as Tasha's, and there are several other bowls to refresh each visit.",
-     "quote": "Fountain that needs refreshing same as Tasha's. There are several bowls that will need to be refreshed."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 30",
-     "source": "Harvett Ellington meet-and-greet report",
-     "office": false,
-     "note": "In bad weather, enter at the back of the building and take a right to the double doors. Building entry details are in Time To Pet.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -4133,6 +4133,27 @@
      "office": true,
      "note": "Alexandria added a new pet, Lily, to her account at 6:33pm. No care details, no meet and greet and no booking attached to her yet.",
      "quote": "has added a pet with name Lily to their account"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Lauren Stuy",
+   "url": "https://www.timetopet.com/dashboard/client/tkapwcpNcgZ5",
+   "pets": [
+    "Polly",
+    "Pippa"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Time To Pet profile updates",
+     "office": true,
+     "note": "New client on the system: two cats added Mon Sep 7 at 10:05-10:09am - Polly (female, American shorthair, brown and black) and Pippa (female, American shorthair, gray, orange and white). Both listed with no allergies and North Royalton Animal Hospital as vet. No Pet Care Note, handling detail or meet-and-greet on file yet.",
+     "quote": ""
     }
    ],
    "dormant": false
