@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T22:20:05-04:00",
+ "generated": "2026-09-07T06:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1366,6 +1366,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 6",
+     "source": "Tiarra Roberts visit report, Sun Sep 6 9:12pm",
+     "office": false,
+     "note": "Mary Ann was home at the Sunday evening visit and gave Georgie's eye drops herself while the sitter held him against her leg. The sitter cut the walk short to leave time for the drops. This is one visit, not stated anywhere as a standing arrangement - do not assume the owner will be there to dose. Stool firm and healthy, no accidents.",
+     "quote": "Mary Ann had the eyedrops ready to go and I held Georgie close to her leg, so she could administer them."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 5",
      "source": "Tiarra Roberts visit report, Sep 5 evening",
      "office": false,
@@ -1391,16 +1401,6 @@
      "office": false,
      "note": "Toads are out on Georgie's walking route after dark; the sitter had to steer him off one at the end of the Sep 4 evening walk. Relevant because the eye problem that sent him to the vet followed an earlier toad incident. Sitter also had to discourage grass eating.",
      "quote": "I kept my eyes out for toads and kept him away from one at the very end of the walk."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Monica Hopewell visit report",
-     "office": false,
-     "note": "On the 10:30 walk Georgie was moving slower and panting heavily in the heat/humidity; sitter shortened the distance and walked slowly. He went #1 and #2; stool logged as a little loose but not concerning.",
-     "quote": "I noticed Georgie was moving a bit slower and panting a little heavily with the heat and humidity so we shortened our distance"
     }
    ],
    "dormant": false
