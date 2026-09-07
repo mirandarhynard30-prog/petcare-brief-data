@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T14:20:04-04:00",
+ "generated": "2026-09-07T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -829,6 +829,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Margaret Bill visit report, Mon Sep 7 11:30am visit",
+     "office": true,
+     "note": "THIRD ATTEMPT TO PUBLISH - this item was handed off at 13:13 and again at 14:13 and has still not appeared in the published brief. Mon Sep 7 11:30am visit: Lucy's stool was looser than normal, she would not touch her treats, she sat down at the mailboxes and would not move until Margaret sat down beside her, and back at the house she refused both water and kibble. The report records the stool as a little loose but not concerning. She was otherwise bright, walked her usual route and went into her pen easily.",
+     "quote": "She sat down where the mailboxes are and didn't want to move."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -937,16 +947,6 @@
      "office": true,
      "note": "New booking request sent Aug 27 evening: three days at 11 a.m. The first message asked for Sept 4, 5 and 6; a correction two minutes later changed it to Sept 5, 6 and 7 (Sat, Sun, Mon). The corrected dates are the later message. Nothing has been confirmed back to her in the mailbox. Note the message is signed Carol although the client account is Angela Jozsa - unclear who is writing.",
      "quote": "Correction on that, I meant 5.6 and 7th. Sat. Sun and Monday"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "client private message (signed Carol)",
-     "office": true,
-     "note": "Cancelled dog walking for Thursday and Friday this week, asked for someone about 1 on Saturday instead. Unanswered - a sitter may still be routed to a cancelled visit.",
-     "quote": "I am going to need to cancel dog walking for Thursday and Friday this week"
     }
    ],
    "dormant": false
@@ -3600,6 +3600,16 @@
      "quote": "He was asleep and in his crate when we came in."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Faith Collins visit report, Mon Sep 7 ~2:00pm visit",
+     "office": false,
+     "note": "At the Mon Sep 7 afternoon visit Whiskey went #1 twice but did not go #2 at all. Worth noting alongside the soft stool recorded at the Sep 7 morning walk - the report gives no consistency entry because there was no #2. Otherwise he walked the usual route plus extra jogging and was bright.",
+     "quote": "Whiskey went number one twice but held out on number two."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3638,16 +3648,6 @@
      "office": true,
      "note": "Erik asks the office to confirm in writing who is coming this weekend. He names Harvett and Shannon. Still unanswered as of 11:11am.",
      "quote": "Just to confirm (and for the front desk folks), it will be Harvett and Shannon this weekend?"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client message, 9:57am",
-     "office": false,
-     "note": "Erik says that if there is any problem getting in he can come back from work to let sitters in, and that 'they' are aware and will help. The email is a reply to an office message that is not quoted, so who 'they' are - neighbours, building staff or his girlfriend - is not stated.",
-     "quote": "But they are aware and will help us out!"
     }
    ],
    "dormant": false
