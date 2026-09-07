@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T13:20:05-04:00",
+ "generated": "2026-09-07T14:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1022,6 +1022,16 @@
      "quote": "I did use the garage to get in since the front door was locked."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Faith Collins visit report, Sep 7 afternoon visit",
+     "office": false,
+     "note": "On the Sep 7 afternoon visit Faith found Chloe barking at the top of the stairs. She sat with Chloe a while so Chloe would remember her, then leashed her and carefully escorted her down the stairs and out the door. Once outside Chloe moved very quickly and the walk went normally - #1 and #2, recorded as firm and healthy, no accidents in the home.",
+     "quote": "Today I found Chloe barking at the top of the stairs."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -1070,16 +1080,6 @@
      "office": false,
      "note": "First visit after Ellie Mae's death. Chloe walked very slowly at first and needed cheering up before she started running and enjoying herself. She is the only pet on visits now. Expect a subdued dog and allow extra time.",
      "quote": "you could tell she is missing both her siblings"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Drew Walker visit report",
-     "office": false,
-     "note": "Chloe was very tired on the afternoon walk and turned back early. She went #1 several times, no #2. Water bowl refilled.",
-     "quote": "On today’s walk I had Chloe with me who was very tired so we didn’t make it far"
     }
    ],
    "dormant": false
