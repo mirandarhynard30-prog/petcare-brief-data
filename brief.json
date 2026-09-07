@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T11:20:05-04:00",
+ "generated": "2026-09-07T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3580,6 +3580,16 @@
      "quote": "he went number one and two although it was a little soft"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 7",
+     "source": "Jade Popovitz visit report to Erik Risa, Mon Sep 7 9:45am",
+     "office": false,
+     "note": "Whiskey is crated between visits. The sitter found him asleep in his crate on arrival and put him back in the crate at the end of the visit before leaving. Expect to let him out on arrival and to return him to the crate before you go.",
+     "quote": "He was asleep and in his crate when we came in."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3628,16 +3638,6 @@
      "office": false,
      "note": "Erik says that if there is any problem getting in he can come back from work to let sitters in, and that 'they' are aware and will help. The email is a reply to an office message that is not quoted, so who 'they' are - neighbours, building staff or his girlfriend - is not stated.",
      "quote": "But they are aware and will help us out!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 30",
-     "source": "Harvett Ellington meet-and-greet report",
-     "office": false,
-     "note": "Whiskey's morning routine per the Aug 30 meet-and-greet: one tomato before the walk, then one cup of dry food with treats.",
-     "quote": "Whiskey receives one tomato as a morning routine before walking. One cup of dry food with treats."
     }
    ],
    "dormant": false
@@ -4078,11 +4078,31 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 7",
+     "source": "Lacey Govil visit report to Kari Majewski, Mon Sep 7 11:28am",
+     "office": true,
+     "note": "Second appetite report in three days. At the Mon Sep 7 visit Miguel was offered a Sheba and a churu and ate neither while the sitter was there; water was refreshed and dry food topped off. The Sep 5 report was ambiguous on this, so this is now a pattern worth raising with Kari rather than a one-off.",
+     "quote": "I gave him a Sheba and a churu. He did not eat while I was here."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 5",
      "source": "Margaret Bill visit report 1:37pm",
      "office": false,
      "note": "Miguel ate all his wet food but only some of his dry. The same report also says he drank water but did not eat while she was there, so the two statements conflict - worth confirming appetite at the next visit. She left out part of a can from the fridge plus a Sheba and gave a churu at the end.",
      "quote": "Miguel ate all of his moist food, but a limited amount of his dry food"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Lacey Govil visit report to Kari Majewski, Mon Sep 7 11:28am",
+     "office": false,
+     "note": "The fish did not respond to feeding at the Sep 7 visit - the sitter put a pinch of food in the tank and it stayed at the side of the tank. First time this has been reported; no conclusion drawn.",
+     "quote": "I tried to wake up the fish and I put a pinch of food in his tank"
     },
     {
      "cat": "home",
