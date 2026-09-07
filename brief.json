@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T17:20:04-04:00",
+ "generated": "2026-09-07T19:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2869,6 +2869,16 @@
      "quote": "Won’t be available for a walk. Please cancel. Thanks."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Dan Dantimo visit report, Mon Sep 7 6:30pm",
+     "office": false,
+     "note": "Holly's stool was recorded as a little loose again on the Mon Sep 7 evening walk - the second consecutive day after the same note on Sep 6. She went both #1 and #2 and the sitter did not flag it as concerning.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2897,6 +2907,16 @@
      "office": true,
      "note": "Thirty-seven minutes later Lynne replied to a message from Miranda saying she is still deciding and needs to check the weather. The question she is answering is not reproduced in the notification, so what is still undecided is unclear - a decision from her is outstanding.",
      "quote": "Im still thinking. Have to check weather"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Dan Dantimo visit report, Mon Sep 7 6:30pm",
+     "office": false,
+     "note": "Handling note from the Sep 7 evening walk: Holly wants to sniff rather than walk, and Dan found saying the word walk got her moving. He is trying to get a proper walk out of her each visit while still allowing sniffing time. One sitter's experience on one visit, not yet a standing rule.",
+     "quote": "It seems like the word walk works to get her walking, firm but not sternly."
     },
     {
      "cat": "health",
@@ -2947,26 +2967,6 @@
      "office": false,
      "note": "Holly's usual evening walk runs toward Gatestone and on to the first cul de sac; on this visit she kept a good pace and did not sniff much.",
      "quote": "She walked quickly to Gatestone to get some sniffs in to start out our walk."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Visit report from Dan Dantimo",
-     "office": false,
-     "note": "Holly's stool on the Aug 25 evening walk was recorded as a little loose but not concerning.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Visit report from Dan Dantimo",
-     "office": false,
-     "note": "The client was home for the Aug 25 evening visit, so the sitter did not go into the house.",
-     "quote": "Client was home during visit"
     }
    ],
    "dormant": false
