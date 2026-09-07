@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T10:20:06-04:00",
+ "generated": "2026-09-07T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1002,6 +1002,26 @@
      "quote": "please don’t walk Ellie just walk Chloe the little white dog"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Jade Popovitz visit report, Mon Sep 7 morning",
+     "office": false,
+     "note": "Chloe was bright and energetic on the Mon Sep 7 morning walk - sniffing, running and wanting to carry on - and her stool was logged firm and healthy. No sign of the tiredness seen the week after Ellie Mae died, and nothing reported about the eyes that looked swollen on Sep 3.",
+     "quote": "The walk with Chloe went great! She was sniffing everywhere, did some running, and even wanted to keep walking."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Jade Popovitz visit report, Mon Sep 7 morning",
+     "office": false,
+     "note": "Access note for the Sep 7 morning visit: the front door was locked, so the sitter came in through the garage. Melody was home and was startled by the entry. The sitter closed both the garage and the fence back to how she found them.",
+     "quote": "I did use the garage to get in since the front door was locked."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -1060,26 +1080,6 @@
      "office": false,
      "note": "Chloe was very tired on the afternoon walk and turned back early. She went #1 several times, no #2. Water bowl refilled.",
      "quote": "On today’s walk I had Chloe with me who was very tired so we didn’t make it far"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Shannon Anderson visit report, Aug 31 afternoon",
-     "office": true,
-     "note": "Sitter notes Ellie Mae is unwell again today and asks to be kept posted. No symptoms are given in the report, so what is wrong is unclear. Chloe was fine - asleep on arrival, then a short walk of about two driveways, #1 and #2 both done.",
-     "quote": "I'm sorry Ellie Mae isn't feeling well today."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Visit report from Harvett Ellington, Aug 28 late morning",
-     "office": false,
-     "note": "On the Aug 28 late-morning visit Ellie Mae was let out into the front yard rather than walked, in line with the standing instruction to minimise her walking, and her stool was soft.",
-     "quote": "Ellie Mae went out in the front yard, went numbers one and two (soft)"
     }
    ],
    "dormant": false
@@ -1366,6 +1366,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 7",
+     "source": "Tiarra Roberts visit report, Mon Sep 7 morning",
+     "office": false,
+     "note": "Georgie's eye drops were given at the Mon Sep 7 morning visit - Mary Ann was home and administered them while the sitter held his collar and sat him at her leg. The walk was deliberately turned for home early to leave enough time for the drops. Stool logged firm and healthy, no accidents in the home.",
+     "quote": "Mary Ann was ready to administer the eyedrops. I held onto Georgie's collar and sat him next to Mary Ann's leg."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 6",
      "source": "Tiarra Roberts visit report, Sun Sep 6 9:12pm",
      "office": false,
@@ -1391,16 +1401,6 @@
      "office": false,
      "note": "Arrival and departure routine used on the Sep 5 evening visit, relevant because Georgie is flagged an escape risk: entered through the garage and closed the garage door behind her, rang the white doorbell button, went in via the laundry room, and put the harness on and took it off in the laundry room rather than at the door. Recorded as what one sitter did on one visit, not confirmed as a standing house rule.",
      "quote": "got Georgie out after puting his harness on in the laundry room"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Tiarra Roberts visit report, 8:58pm Sep 4",
-     "office": false,
-     "note": "Toads are out on Georgie's walking route after dark; the sitter had to steer him off one at the end of the Sep 4 evening walk. Relevant because the eye problem that sent him to the vet followed an earlier toad incident. Sitter also had to discourage grass eating.",
-     "quote": "I kept my eyes out for toads and kept him away from one at the very end of the walk."
     }
    ],
    "dormant": false
