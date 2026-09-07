@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T19:20:04-04:00",
+ "generated": "2026-09-06T21:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3563,6 +3563,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "standing",
+     "date": "Sep 6",
+     "source": "Erik Risa message, Sep 6 8:45pm",
+     "office": false,
+     "note": "New gate installed at the front entrance of the apartment. It is a lift-up-and-push type that opens either way. Erik added it to stop shoes being taken from the main entrance and to keep the cats undisturbed in the hallway bathroom, one of their favourite lounging spots. Expect it on arrival and re-latch it.",
+     "quote": "we added a gate at the front. It’s one of those lift up and push either way ones."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
      "date": "Sep 5",
      "source": "Client message 2:40pm/2:43pm",
      "office": false,
@@ -3628,16 +3638,6 @@
      "office": true,
      "note": "After the Aug 30 meet-and-greet Erik confirmed daily visits for Whiskey start Monday and said he will square things away with his building staff. He does not say a date, and it is not stated whether the recurring schedule has been built in Time To Pet.",
      "quote": "I’ll touch base with the staff in my building and make sure we’re all squared away for our daily visits starting Monday!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 30",
-     "source": "Company Notes updated by Shannon Anderson",
-     "office": true,
-     "note": "Feeding now recorded: dry Purina, 1 cup, food and treats on the counter, water fountain in the kitchen. Feeding times are logged as Midday/Afternoon but the written instruction says a tomato from the garden in the am - the office should confirm with Erik whether the tomato is a separate morning item before visits start Monday.",
-     "quote": "1c of food, 1 tomato from garden in am"
     }
    ],
    "dormant": false
