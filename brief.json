@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T21:20:04-04:00",
+ "generated": "2026-09-06T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3523,6 +3523,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 6",
+     "source": "Erik Risa message 9:15pm Sun Sep 6",
+     "office": true,
+     "note": "Erik replied 9:15pm Sun Sep 6 confirming something the office had put to him and saying Whiskey is looking forward to seeing us tomorrow, i.e. he expects a visit on Mon Sep 7 (Labor Day). The email does not say what was confirmed, so the exact visit time is not established here. This is the start date he asked for back on Aug 30 when he pushed daily visits from Mon Aug 31 to Mon Sep 7. Office should make sure Monday's visit is on the schedule and staffed.",
+     "quote": "Correct! Thank you for confirming! He's looking forward to seeing you guys tomorrow!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 4",
      "source": "Client message 9:04am Sep 4",
      "office": true,
@@ -3628,16 +3638,6 @@
      "office": false,
      "note": "In bad weather, enter at the back of the building and take a right to the double doors. Building entry details are in Time To Pet.",
      "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Erik Risa message 11:21am",
-     "office": true,
-     "note": "After the Aug 30 meet-and-greet Erik confirmed daily visits for Whiskey start Monday and said he will square things away with his building staff. He does not say a date, and it is not stated whether the recurring schedule has been built in Time To Pet.",
-     "quote": "I’ll touch base with the staff in my building and make sure we’re all squared away for our daily visits starting Monday!"
     }
    ],
    "dormant": false
