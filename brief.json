@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T12:20:06-04:00",
+ "generated": "2026-09-07T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1667,6 +1667,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Sep 7",
+     "source": "Client message, Sep 7 12:22pm",
+     "office": false,
+     "note": "Christina's suggested handling when Bismark will not walk: if the sitter is comfortable doing so, take him off the leash and walk toward the gate door to see whether he follows. She adds that otherwise he may just be lazy. This is the first time a technique has been offered rather than just a warning that he refuses.",
+     "quote": "You can try taking him off the leash if you feel comfortable"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Aug 29",
      "source": "Harvett Ellington visit report, Aug 29 morning",
@@ -1717,6 +1727,16 @@
     {
      "cat": "behavior",
      "sev": "low",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Drew Walker visit report, Sep 7 12:47pm",
+     "office": false,
+     "note": "On the Sep 7 midday visit Bismark was leashed and taken out but immediately lay down in the shade, then looped back to the back gate rather than walk. The sitter sat with him and refilled his water instead. No #2 on this visit. The sitter attributes the refusal to the heat.",
+     "quote": "he just didn’t want to move today I think he just doesn’t like the heat"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
      "type": "standing",
      "date": "Aug 28",
      "source": "Christina Palmieri message, 11:42pm",
@@ -1733,16 +1753,6 @@
      "office": false,
      "note": "On the late Fri Aug 28 visit Bismark declined a walk and settled in the fenced back yard; sitters stayed outside with him, left a treat and refilled his water. No accidents, no supplies low.",
      "quote": "he wasn't interested in a walk and he laid down in the backyard"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Christina Palmieri",
-     "office": false,
-     "note": "For the weekend visits the client will leave a note out and pull the kibble bin forward so everything is together.",
-     "quote": "I’ll leave a note and pull out the kibble bin so it’s all right there"
     }
    ],
    "dormant": false
@@ -4174,6 +4184,36 @@
      "office": true,
      "note": "New client on the system: two cats added Mon Sep 7 at 10:05-10:09am - Polly (female, American shorthair, brown and black) and Pippa (female, American shorthair, gray, orange and white). Both listed with no allergies and North Royalton Animal Hospital as vet. No Pet Care Note, handling detail or meet-and-greet on file yet.",
      "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Suzanne Slimak",
+   "url": "https://www.timetopet.com/dashboard/client/temyfccWklos",
+   "pets": [
+    "Perd (“P”)"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 7",
+     "source": "Client Pet Care Note update (Perd)",
+     "office": false,
+     "note": "Suzanne edited P's care note twice on Sep 7. The new line limits the portion size at each wet-food feeding. The rest of the note is unchanged: wet food twice daily, morning between 6:30am and 8am and afternoon between 4pm and 5pm, timed about 45 minutes either side of the automatic feeder so she does not get sick.",
+     "quote": "PLEASE only give her a little wet food at each feeding."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 7",
+     "source": "Client Pet Care Note update (Perd)",
+     "office": false,
+     "note": "Litter box is scooped daily into the Litter Genie, but the Litter Genie bag does not need changing every day - Suzanne's daughter will be at the house on Sunday and will change it. Extra litter is provided to top the box off.",
+     "quote": "YOU DO NOT NEED TO CHANGE THE LITTER GENIE BAG EVERYDAY."
     }
    ],
    "dormant": false
