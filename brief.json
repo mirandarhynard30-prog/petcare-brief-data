@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T15:20:05-04:00",
+ "generated": "2026-09-07T17:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -568,6 +568,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Client private message",
+     "office": true,
+     "note": "Mon Sep 7 4:32pm private message: Jesse says he is feeling good and will not need help with the dogs after Sep 9, and asks that the dates for Sep 22nd and after be cancelled. He does not say what happens between Sep 10 and Sep 21, so the office needs to confirm exactly which visits he wants ended before cancelling anything.",
+     "quote": "I wanted to let you know that I am feeling good so after September 9th I will not need help with the dogs."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -676,16 +686,6 @@
      "office": false,
      "note": "On the Sep 5 morning visit both dogs refused to go into the fenced-in area. Ginger went #1 and #2 outside it; the sitter took Oliver for a walk down the street instead and he went there. One observation, not yet a pattern - offer the walk if either dog balks at the fenced area.",
      "quote": "refused to go into the fenced in area"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Robin Lewis visit report, Sep 5 11:25am visit",
-     "office": false,
-     "note": "At the 11:25am visit Oliver went #1 and #2 and the consistency was logged as firm and healthy. Ginger went #1, no #2 logged. Sitter notes Oliver likes to stop, roll and take a break on the walk.",
-     "quote": "It was firm and healthy"
     }
    ],
    "dormant": false
