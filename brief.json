@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T06:20:06-04:00",
+ "generated": "2026-09-07T08:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -648,6 +648,16 @@
      "quote": "Oliver had an accident in his room. He an upset belly"
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Robin Lewis visit report, 7:27am",
+     "office": false,
+     "note": "Mon Sep 7 morning visit: no accidents in the house and both Oliver and Ginger logged firm, healthy stool. Follows Oliver's upset belly and accident on Sat Sep 5 and the vomit reported Sun Sep 6 - reads as settled this morning, but keep watching.",
+     "quote": "They both went in the fenced area today plus no accidents for Oliver this morning."
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -676,16 +686,6 @@
      "office": false,
      "note": "At the 11:25am visit Oliver went #1 and #2 and the consistency was logged as firm and healthy. Ginger went #1, no #2 logged. Sitter notes Oliver likes to stop, roll and take a break on the walk.",
      "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Robin Lewis visit report, Sep 3 7am visit",
-     "office": false,
-     "note": "On the 7am visit Ginger was eating grass in the yard. Both dogs went #1 and #2 and the sitter logged both stools as firm and healthy; water bowl changed, no accidents.",
-     "quote": "she was eating some grass this morning"
     }
    ],
    "dormant": false
