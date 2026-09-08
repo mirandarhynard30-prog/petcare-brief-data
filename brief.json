@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T10:20:05-04:00",
+ "generated": "2026-09-08T11:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1383,6 +1383,16 @@
      "quote": "Georgie is an escape artist."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Kristin Ashick visit report, Tue Sep 8 10:48am",
+     "office": false,
+     "note": "Supply note from the Tue Sep 8 morning walk: the poop bag holder on Georgie's leash is empty. The sitter told Mary Ann directly in the message; the report's supplies-low question was still answered No. Sitters should bring their own bags until it is restocked.",
+     "quote": "you are out of poop bags in the little holder on the leash"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1391,16 +1401,6 @@
      "office": false,
      "note": "Georgie's eye drops were given at the Mon Sep 7 morning visit - Mary Ann was home and administered them while the sitter held his collar and sat him at her leg. The walk was deliberately turned for home early to leave enough time for the drops. Stool logged firm and healthy, no accidents in the home.",
      "quote": "Mary Ann was ready to administer the eyedrops. I held onto Georgie's collar and sat him next to Mary Ann's leg."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Tiarra Roberts visit report, Sun Sep 6 9:12pm",
-     "office": false,
-     "note": "Mary Ann was home at the Sunday evening visit and gave Georgie's eye drops herself while the sitter held him against her leg. The sitter cut the walk short to leave time for the drops. This is one visit, not stated anywhere as a standing arrangement - do not assume the owner will be there to dose. Stool firm and healthy, no accidents.",
-     "quote": "Mary Ann had the eyedrops ready to go and I held Georgie close to her leg, so she could administer them."
     }
    ],
    "dormant": false
