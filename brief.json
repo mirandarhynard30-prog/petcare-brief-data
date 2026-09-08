@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T23:20:05-04:00",
+ "generated": "2026-09-08T08:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -638,6 +638,16 @@
      "quote": "Tomorrow's visit can be cancelled unless you still have to charge me. I will need you for September 2nd."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Robin Lewis visit report, Tue Sep 8 7:31am",
+     "office": true,
+     "note": "Robin Lewis says she will arrive later than scheduled for Jesse's SECOND visit on Tue Sep 8 because of an appointment, and will come as soon as it is over. No new time given. Jesse has not been told a time and this is his second-to-last scheduled day before service ends after Sep 9.",
+     "quote": "i will be here a little later for the next visit due to an appt i have"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -661,31 +671,21 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Sep 8",
+     "source": "Robin Lewis visit report, Tue Sep 8 7:31am",
+     "office": false,
+     "note": "Tue Sep 8 morning visit: both Oliver and Ginger went #1 and #2 with stool logged firm and healthy, both ate all their food, and no accidents were found in the home. No vomit reported, a second clear morning after the vomit found in Oliver's room on Sep 6. Oliver was thirsty - the sitter filled the water bowl twice.",
+     "quote": "They both ate all their food and i changed the water in the water bowl."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Sep 7",
      "source": "Robin Lewis visit report, 7:27am",
      "office": false,
      "note": "Mon Sep 7 morning visit: no accidents in the house and both Oliver and Ginger logged firm, healthy stool. Follows Oliver's upset belly and accident on Sat Sep 5 and the vomit reported Sun Sep 6 - reads as settled this morning, but keep watching.",
      "quote": "They both went in the fenced area today plus no accidents for Oliver this morning."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Robin Lewis visit report, Sep 6 7am visit",
-     "office": false,
-     "note": "Second morning running that the fenced-in area was refused. Ginger would not go in at all; Oliver went in for about a minute, then stood and barked to get out, and the sitter walked him down the street to poop. Both dogs went #1 and #2 outside the fence. Plan on walking rather than relying on the fenced area.",
-     "quote": "she still refuses to go in the fenced in area not sure why"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Robin Lewis visit report, Sep 5 7:33am",
-     "office": false,
-     "note": "On the Sep 5 morning visit both dogs refused to go into the fenced-in area. Ginger went #1 and #2 outside it; the sitter took Oliver for a walk down the street instead and he went there. One observation, not yet a pattern - offer the walk if either dog balks at the fenced area.",
-     "quote": "refused to go into the fenced in area"
     }
    ],
    "dormant": false
@@ -1656,16 +1656,6 @@
     },
     {
      "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 17",
-     "source": "Client",
-     "office": false,
-     "note": "The client warned that Bis has been anxious and heat-affected, may refuse to walk at all, and had chewed the door.",
-     "quote": "Bis has been anxious lately and hot, he may not walk. You’ll see he chewed the door"
-    },
-    {
-     "cat": "behavior",
      "sev": "medium",
      "type": "standing",
      "date": "Sep 7",
@@ -2137,26 +2127,6 @@
      "office": true,
      "note": "Robin told the client she would check with Miranda about the Labor Day pause. Still open on the office side.",
      "quote": "let me get with Miranda on it."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 17",
-     "source": "Client",
-     "office": false,
-     "note": "The client had already fed the cats and given Buttercup her insulin before the sitter arrived.",
-     "quote": "Good just fed them & gave Buttercup insulin."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 17",
-     "source": "Client",
-     "office": false,
-     "note": "The client asked to be texted on arrival in the driveway.",
-     "quote": "Text when you are in drivrway."
     }
    ],
    "dormant": false
@@ -3678,16 +3648,6 @@
      "office": false,
      "note": "Julie is normally home for the walk and asks that the door not be locked. Recorded the same way on both the Aug 17 and Aug 24 visit reports, so sitters have not needed to enter or secure the house.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 17",
-     "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "On the Aug 17 walk Julie put Murphy's harness on herself. Murphy walked at a good pace and passed a large black lab on leash without reacting. Margaret's route ran down the side street to Hudson Drive and back onto Notre Dame.",
-     "quote": "He saw one big black lab and didn't bark at all."
     }
    ],
    "dormant": false
