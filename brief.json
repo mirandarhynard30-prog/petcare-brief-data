@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T14:20:05-04:00",
+ "generated": "2026-09-08T15:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -537,6 +537,16 @@
      "quote": "I offered him a treat when we got home, but he was too warm and just wanted to cool off."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Client message, Tue Sep 8 2:54pm ET",
+     "office": true,
+     "note": "Replying to Kathy Pastor's report that Gordy was too warm to take his post-walk treat, Anna says he would like an earlier cooler walk tomorrow. She phrases it as a preference rather than a formal request and no new time has been confirmed back to her, so it is unclear whether Wed Sep 9 is meant to move.",
+     "quote": "He will like an earlier cooler walk tomorrow."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -545,16 +555,6 @@
      "office": false,
      "note": "Sampson is not reliably using the litter box. Anna asked for a second pee pad in the dining room, between the table and the crockpot stand, in addition to the one in the laundry room; Lacey put it down on the Sep 6 morning visit. Anna says he uses the pads and sometimes the dining room litter box.",
      "quote": "Would you want to put another pad out in the dining room?"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 6",
-     "source": "Lacey Govil visit report",
-     "office": true,
-     "note": "Sampson's morning medication is given as half a pill in a pill pocket before food, then wet and dry mixed together. The email does not name the medication and the dose is not stated anywhere - office should get it written into his Pet Care Note.",
-     "quote": "I started with his half of a pill in a pocket and he ate it right up."
     }
    ],
    "dormant": false
@@ -3590,6 +3590,16 @@
      "quote": "Just treats or just fresh water and clean out bowl until the afternoon staff shows up?"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Client message, Tue Sep 8 9:38am ET",
+     "office": true,
+     "note": "Erik answered the morning diarrhea report himself, hoping Whiskey's tummy feels better this afternoon. He did not ask for a vet visit, a diet change or anything else, so nothing will happen on the client's side unless the office raises it. This is the fourth day running with loose stool.",
+     "quote": "Oh no, that’s a bummer about his diarrhea, I hope his tummy is feeling a little better this afternoon!"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3618,16 +3628,6 @@
      "office": false,
      "note": "Whiskey is crated between visits. The sitter found him asleep in his crate on arrival and put him back in the crate at the end of the visit before leaving. Expect to let him out on arrival and to return him to the crate before you go.",
      "quote": "He was asleep and in his crate when we came in."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Faith Collins visit report, Mon Sep 7 ~2:00pm visit",
-     "office": false,
-     "note": "At the Mon Sep 7 afternoon visit Whiskey went #1 twice but did not go #2 at all. Worth noting alongside the soft stool recorded at the Sep 7 morning walk - the report gives no consistency entry because there was no #2. Otherwise he walked the usual route plus extra jogging and was bright.",
-     "quote": "Whiskey went number one twice but held out on number two."
     }
    ],
    "dormant": false
