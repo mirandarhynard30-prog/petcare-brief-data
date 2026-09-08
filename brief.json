@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T19:20:04-04:00",
+ "generated": "2026-09-07T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1283,6 +1283,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Kristin Ashick visit report, Mon Sep 7 9:07pm",
+     "office": false,
+     "note": "Another toad was encountered on the Mon Sep 7 evening walk. The sitter says she acted fast and no contact was reported. She walked with her flashlight on, took few photos because she stayed on guard, and controlled exactly where Georgie was allowed to sniff. Relevant because Georgie's eye trouble followed an earlier toad incident and he is still on daily drops. This is one sitter's handling on one night walk, not a written rule.",
+     "quote": "We did encounter a toad but we acted fast but my heart was just pounding!"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1391,16 +1401,6 @@
      "office": false,
      "note": "Georgie's eye drops are described by the sitter as running through this week. The Sep 5 evening visit was deliberately run a little longer to leave time for them; the sitter helped Mary Ann give them after the walk. Allow extra time on evening visits this week. The email does not state the drop name, dose or how many days remain.",
      "quote": "some time to give Georgie his eye drops for this week"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Tiarra Roberts visit report, Sep 5 evening",
-     "office": false,
-     "note": "Arrival and departure routine used on the Sep 5 evening visit, relevant because Georgie is flagged an escape risk: entered through the garage and closed the garage door behind her, rang the white doorbell button, went in via the laundry room, and put the harness on and took it off in the laundry room rather than at the door. Recorded as what one sitter did on one visit, not confirmed as a standing house rule.",
-     "quote": "got Georgie out after puting his harness on in the laundry room"
     }
    ],
    "dormant": false
