@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T09:20:06-04:00",
+ "generated": "2026-09-08T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3500,6 +3500,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Harvett Ellington visit report, Tue Sep 8 morning",
+     "office": false,
+     "note": "Tue Sep 8 morning visit: Whiskey went #1 and #2 and the sitter logged the stool as diarrhea, writing separately in the report that Whiskey has diarrhea. That follows soft stool on the Sep 7 morning visit and no #2 at all on the Sep 7 afternoon visit, so this is the third day running with his stool off. The sitter records him as otherwise fine, eating and walking normally.",
+     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -3538,6 +3548,16 @@
      "office": true,
      "note": "Client asks to push the start of daily visits from Mon Aug 31 to Mon Sep 7 because of a last-minute change to his girlfriend's schedule. Needs an answer from the office before tomorrow morning; the Monday visits are currently still on the schedule.",
      "quote": "If possible, could we change our start date to be one week from tomorrow on 9/7 please?"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Harvett Ellington message 9:44am",
+     "office": false,
+     "note": "The sitter could not find the paper towels on the Tue Sep 8 morning visit and cleaned Whiskey's bowls with a red napkin instead. The same visit report answers Yes to pet supplies getting low. Sitters arriving before the restock should expect no paper towels, which matters while Whiskey has diarrhea.",
+     "quote": "Sure thing...also I didn't see the paper towels, I used the red napkin you see in the photo to clean his bowls."
     },
     {
      "cat": "schedule",
@@ -3598,26 +3618,6 @@
      "office": false,
      "note": "New gate installed at the front entrance of the apartment. It is a lift-up-and-push type that opens either way. Erik added it to stop shoes being taken from the main entrance and to keep the cats undisturbed in the hallway bathroom, one of their favourite lounging spots. Expect it on arrival and re-latch it.",
      "quote": "we added a gate at the front. It’s one of those lift up and push either way ones."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 5",
-     "source": "Client message 2:40pm/2:43pm",
-     "office": false,
-     "note": "Building entry can be slow. Erik has given a direct phone line to the front desk staff so sitters can call rather than wait outside; the number is in the Time To Pet message thread, not repeated here.",
-     "quote": "Let me send you the number for the staff at the front desk so you can call them"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client message, 10:55am",
-     "office": true,
-     "note": "Erik asks the office to confirm in writing who is coming this weekend. He names Harvett and Shannon. Still unanswered as of 11:11am.",
-     "quote": "Just to confirm (and for the front desk folks), it will be Harvett and Shannon this weekend?"
     }
    ],
    "dormant": false
@@ -3629,6 +3629,16 @@
     "Murphy"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Lacey Govil visit report, Tue Sep 8 morning walk",
+     "office": false,
+     "note": "Murphy ended the Tue Sep 8 morning walk himself with a couple of minutes still to go, turning back for the house, and was panting a little on his return. The sitter describes the morning as cool in shade but warm in direct sun. Second walk in recent reports to finish short, after the Aug 31 walk that was cut at the stop sign for heat. Stool firm and healthy, went #1 and #2.",
+     "quote": "He was panting a little bit when we made it back to his home"
+    },
     {
      "cat": "health",
      "sev": "medium",
@@ -3648,6 +3658,16 @@
      "office": false,
      "note": "Julie is normally home for the walk and asks that the door not be locked. Recorded the same way on both the Aug 17 and Aug 24 visit reports, so sitters have not needed to enter or secure the house.",
      "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Lacey Govil visit report, Tue Sep 8 morning walk",
+     "office": false,
+     "note": "On this visit the sitter put Murphy's waste in the garbage bin in the garage. Recorded once so far, not confirmed as a standing house rule.",
+     "quote": "I threw away Murphys waste in the garbage in the garage."
     }
    ],
    "dormant": false
