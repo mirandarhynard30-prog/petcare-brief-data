@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T18:20:05-04:00",
+ "generated": "2026-09-08T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3202,6 +3202,16 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Sep 8",
+     "source": "Dan Dantimo visit report, Tue Sep 8 6:29pm",
+     "office": false,
+     "note": "Tue Sep 8 evening walk: Guinness went both #1 and #2 and Dan logged the consistency as a little loose but not concerning - the same reading as Sep 4, Sep 1, Aug 31, Aug 28, Aug 27 and Aug 25. Otherwise an unremarkable walk on the usual block-and-dirt-path route; he pulled at the start, recalled well, no accidents in the home.",
+     "quote": "He did go number one and two."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Sep 2",
      "source": "Julie Smith visit report, Sep 2 6:56pm",
      "office": false,
@@ -3227,16 +3237,6 @@
      "office": false,
      "note": "Guinness went #2 on the Aug 28 evening walk and the consistency was again logged as a little loose but not concerning - the same reading as Aug 24, 25 and 27, so four reports in five days rather than a one-off.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Guinness's stool was recorded as a little loose on the Aug 25 visit, and as a little loose on Aug 24 as well - two days running.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
