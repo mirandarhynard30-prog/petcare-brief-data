@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T11:20:07-04:00",
+ "generated": "2026-09-08T12:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -242,6 +242,16 @@
      "quote": "I herded her through the crack in the gate (which is secured closed) so that we could avoid the possibility of an altercation."
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Shannon Anderson visit report, Tue Sep 8 morning",
+     "office": false,
+     "note": "The sitter threw away Rusty's dumpling toy on the Tue Sep 8 visit because its stuffing was coming out. Mary was told in the message. Noted in case she looks for it.",
+     "quote": "Rusty found her dumpling toy outside. I threw it out because it had stuffing coming out of it."
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -280,16 +290,6 @@
      "office": false,
      "note": "On Aug 29 the sitter found and left Puck in the crate nearer the table and Rusty in the bedroom crate with the bedroom door open. Heat meant about half the playtime was indoors.",
      "quote": "I put Puck back in her crate (the one nearer to the table) and left Rusty in the bedroom crate"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Elizabeth Sigler visit report, Aug 28 1:48 pm",
-     "office": false,
-     "note": "Puck and Rusty tired faster than usual in the afternoon heat and wanted to lie in the shade; the sitter brought them inside for cold water and continued playtime indoors. Both went #1 and #2, firm and healthy, no accidents.",
-     "quote": "They seemed to get tired a little quicker than usual- probably thanks to how hot the sun is today."
     }
    ],
    "dormant": false
@@ -832,6 +832,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 8",
+     "source": "Margaret Bill visit report, Tue Sep 8 11:30am",
+     "office": true,
+     "note": "A fecal sample was collected at the Tue Sep 8 11:30am visit and left on the metal chair in the garage for the household. The email does not say who asked for it or whether it is going to a vet - worth confirming with Carol so it is not left sitting.",
+     "quote": "I put a fecal sample on the metal chair in the garage for you guys."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 7",
      "source": "Margaret Bill visit report, Mon Sep 7 11:30am visit",
      "office": true,
@@ -937,16 +947,6 @@
      "office": true,
      "note": "Client asks to move tomorrow's visit (Sat Aug 29) to 2:00, apologising for repeated time changes. No confirmation sent back yet. The message is signed \"Carol\" although the account name is Angela Jozsa. Separate from her open Sept 4-7 booking question.",
      "quote": "I’m wondering if we can change the time tomorrow to 2:00?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Client private message, Aug 27 8:29 and 8:31 pm",
-     "office": true,
-     "note": "New booking request sent Aug 27 evening: three days at 11 a.m. The first message asked for Sept 4, 5 and 6; a correction two minutes later changed it to Sept 5, 6 and 7 (Sat, Sun, Mon). The corrected dates are the later message. Nothing has been confirmed back to her in the mailbox. Note the message is signed Carol although the client account is Angela Jozsa - unclear who is writing.",
-     "quote": "Correction on that, I meant 5.6 and 7th. Sat. Sun and Monday"
     }
    ],
    "dormant": false
@@ -1000,6 +1000,16 @@
      "office": false,
      "note": "Ellie Mae has been unwell and the client says her vet asked that her walking be minimised, so Chloe is walked alone for now.",
      "quote": "please don’t walk Ellie just walk Chloe the little white dog"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 8",
+     "source": "Harvett Ellington visit report, Tue Sep 8 morning",
+     "office": false,
+     "note": "Chloe likes to burrow into the hedges, and a long walk is being given specifically to keep her away from the bushes. The sitter writes 'as requested' but the email does not say who made the request, so treat it as a handling preference until confirmed.",
+     "quote": "Chloe went on a nice long walk, as requested, to keep Chloe from the bushes"
     },
     {
      "cat": "health",
@@ -1070,16 +1080,6 @@
      "office": false,
      "note": "Chloe's morning walk was shortened for the heat and kept mostly in the shade. She went #1 but no #2. No accidents in the house; water bowl cleaned and refilled.",
      "quote": "It’s pretty hot out today and we ended up shortening the walk a bit"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Kiara Streety visit report, 10:39am",
-     "office": false,
-     "note": "First visit after Ellie Mae's death. Chloe walked very slowly at first and needed cheering up before she started running and enjoying herself. She is the only pet on visits now. Expect a subdued dog and allow extra time.",
-     "quote": "you could tell she is missing both her siblings"
     }
    ],
    "dormant": false
@@ -3027,6 +3027,16 @@
      "office": false,
      "note": "Oakley may hide upstairs on arrival; if he does not come down to greet you, check the bedroom.",
      "quote": "Oakley might be hiding upstairs, if he does not come down for you please look in bedroom"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Ashley Corall visit report, Tue Sep 8 morning",
+     "office": false,
+     "note": "Oakley had eye discharge on the Tue Sep 8 morning visit; the sitter wiped it off and flagged it to Anna. The sitter guesses seasonal allergies based on her own dog, which is speculation, not a diagnosis - no vet or client confirmation.",
+     "quote": "I noticed he has a couple of eye boogers I wiped those off"
     },
     {
      "cat": "behavior",
