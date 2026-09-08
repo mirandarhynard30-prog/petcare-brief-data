@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T12:20:08-04:00",
+ "generated": "2026-09-08T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -527,6 +527,16 @@
      "quote": "I found out he has crystals in his pee."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Kathy Pastor visit report, 1:54pm",
+     "office": false,
+     "note": "Warm-weather sensitivity: Gordy walked in his sun jacket and refused his post-walk treat because he was too warm and wanted to cool off. Same visit logged his #2 as a little loose but not concerning. Kathy noted this was her first walk with him.",
+     "quote": "I offered him a treat when we got home, but he was too warm and just wanted to cool off."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -545,16 +555,6 @@
      "office": true,
      "note": "Sampson's morning medication is given as half a pill in a pill pocket before food, then wet and dry mixed together. The email does not name the medication and the dose is not stated anywhere - office should get it written into his Pet Care Note.",
      "quote": "I started with his half of a pill in a pocket and he ate it right up."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Visit report - Lacey Govil",
-     "office": false,
-     "note": "Sat morning arrival: hairball on the kitchen floor rug, a couple of number twos on the dining room carpet, and pee plus what looked like number two on the pee pad in the laundry room. He did use the dining room litter box as well. Sitter cleaned everything with paper towels and Nature's Miracle spray foam and put down a fresh pee pad.",
-     "quote": "Poor Sampson had a few messes for me to clean up when I came in!"
     }
    ],
    "dormant": false
@@ -3400,6 +3400,16 @@
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Josh Stone visit report, 12:37pm",
+     "office": false,
+     "note": "Styrofoam debris found on the floor and swept up by the sitter. He could not tell whether Aayla had gotten into something containing it. Nothing else was reported wrong - she ate, walked and went #1 and #2 firm - but worth watching for more of it.",
+     "quote": "I'm not sure if she had gotten into something with styrofoam but I swept the floor clean of it"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3488,16 +3498,6 @@
      "office": false,
      "note": "Sitter describes the walk as a scavenger-hunt loop around the apartment complex, phrased as the usual route.",
      "quote": "We did our scavenger hunt walk around the complex."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Josh Stone",
-     "office": false,
-     "note": "Sitter brought two delivered packages inside during the visit.",
-     "quote": "I brought in two packages"
     }
    ],
    "dormant": false
@@ -3518,6 +3518,16 @@
      "office": false,
      "note": "Tue Sep 8 morning visit: Whiskey went #1 and #2 and the sitter logged the stool as diarrhea, writing separately in the report that Whiskey has diarrhea. That follows soft stool on the Sep 7 morning visit and no #2 at all on the Sep 7 afternoon visit, so this is the third day running with his stool off. The sitter records him as otherwise fine, eating and walking normally.",
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Drew Walker visit report, Tue Sep 8 2:04pm",
+     "office": false,
+     "note": "Tue Sep 8 AFTERNOON visit (Drew Walker, shadowing Jade Popovitz): Whiskey went #2 on the walk and the sitter logged the consistency as very loose, close to diarrhea, with Whiskey otherwise fine. Separate visit and separate sitter from the Sep 8 morning report already in the brief - so Sep 8 shows loose stool at BOTH visits, and the run of days with his stool off now continues into a third day with no let-up. Quote left blank because the report wording is the identical stock phrase used in the morning entry.",
+     "quote": ""
     },
     {
      "cat": "schedule",
@@ -3570,6 +3580,16 @@
      "quote": "Sure thing...also I didn't see the paper towels, I used the red napkin you see in the photo to clean his bowls."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Harvett Ellington message to Erik Risa, 1:16pm",
+     "office": true,
+     "note": "Sitter asked Erik whether the middle-of-day routine should be treats only, or fresh water and a cleaned-out bowl, until the afternoon staff arrives. No answer from Erik is visible in this mailbox - only later thank-yous - so the feeding instruction for Whiskey is unconfirmed.",
+     "quote": "Just treats or just fresh water and clean out bowl until the afternoon staff shows up?"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3608,26 +3628,6 @@
      "office": false,
      "note": "At the Mon Sep 7 afternoon visit Whiskey went #1 twice but did not go #2 at all. Worth noting alongside the soft stool recorded at the Sep 7 morning walk - the report gives no consistency entry because there was no #2. Otherwise he walked the usual route plus extra jogging and was bright.",
      "quote": "Whiskey went number one twice but held out on number two."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Client message 8:55am",
-     "office": false,
-     "note": "Erik texted mid-visit on Sun Sep 6 that he may come home from work during the visit and could run into the sitter while she is still with Whiskey; he flagged it so nobody would be surprised.",
-     "quote": "I might try to run home from work real quick to check on a few things"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 6",
-     "source": "Erik Risa message, Sep 6 8:45pm",
-     "office": false,
-     "note": "New gate installed at the front entrance of the apartment. It is a lift-up-and-push type that opens either way. Erik added it to stop shoes being taken from the main entrance and to keep the cats undisturbed in the hallway bathroom, one of their favourite lounging spots. Expect it on arrival and re-latch it.",
-     "quote": "we added a gate at the front. It’s one of those lift up and push either way ones."
     }
    ],
    "dormant": false
