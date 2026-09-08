@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T15:20:06-04:00",
+ "generated": "2026-09-08T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -839,6 +839,16 @@
      "quote": "I put a fecal sample on the metal chair in the garage for you guys."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Angela Jozsa private message, Tue Sep 8 5:35pm",
+     "office": true,
+     "note": "Carol messaged at 5:35pm Tue Sep 8 to cancel the walker for tomorrow, Wed Sep 9. No other dates mentioned and no portal change request seen. Needs confirming back to her and pulling off Wednesday's schedule.",
+     "quote": "Hi Miranda! I will need to cancel walker for tomorrow"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -937,16 +947,6 @@
      "office": true,
      "note": "Follow-up 23 minutes later after an exchange with the office: today's visit is cancelled, and she adds that Tuesday and Wednesday are just regular days at the normal time. The Thursday-through-Monday changes in her earlier message are not repeated here, so they still need confirming and building.",
      "quote": "we can cancel today…. also Tuesday and Wednesday will be just a regular day at the normal time"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Client private message to office, Aug 28 6:24 pm",
-     "office": true,
-     "note": "Client asks to move tomorrow's visit (Sat Aug 29) to 2:00, apologising for repeated time changes. No confirmation sent back yet. The message is signed \"Carol\" although the account name is Angela Jozsa. Separate from her open Sept 4-7 booking question.",
-     "quote": "I’m wondering if we can change the time tomorrow to 2:00?"
     }
    ],
    "dormant": false
@@ -2879,6 +2879,16 @@
      "quote": "Im still thinking. Have to check weather"
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Dan Dantimo visit report for Lynne Reno, Tue Sep 8 5:27pm",
+     "office": false,
+     "note": "Tue Sep 8 late-afternoon walk: Holly turned back before the first cul-de-sac and tired early, so Dan took a water break. She went #1 but not #2. Client was home during the visit.",
+     "quote": "She seemed to be getting tired, so I took time out for a water break. She did go number one but not number two."
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -2927,16 +2937,6 @@
      "office": false,
      "note": "Holly read as needing to burn off energy, so Dan walked her down the first cul-de-sac and back with a water break. Client was home during the visit.",
      "quote": "I did want to get her to walk more as it seemed that she needed to get some energy out"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Visit report from Dan Dantimo",
-     "office": false,
-     "note": "Holly's usual evening walk runs toward Gatestone and on to the first cul de sac; on this visit she kept a good pace and did not sniff much.",
-     "quote": "She walked quickly to Gatestone to get some sniffs in to start out our walk."
     }
    ],
    "dormant": false
