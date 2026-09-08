@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T11:21:00-04:00",
+ "generated": "2026-09-08T12:35:15-04:00",
  "date": "2026-09-08",
  "label": "Sep 8, 2026",
  "clients": [
@@ -55,8 +55,8 @@
    "name": "Deb Ward",
    "visits": [
     {
-     "time": "6:00 PM",
-     "sort": "1800",
+     "time": "5:45 PM",
+     "sort": "1745",
      "staff": "Dan Dantimo",
      "service": "Dog Visit-30 minute",
      "pets": "Guinness"
@@ -148,10 +148,10 @@
    "name": "Lynne  Reno",
    "visits": [
     {
-     "time": "6:00 PM",
-     "sort": "1800",
-     "staff": "Julie Smith",
-     "service": "Dog Visit-30 minute",
+     "time": "4:45 PM",
+     "sort": "1645",
+     "staff": "Dan Dantimo",
+     "service": "Reassigned Visit-30 minute",
      "pets": "Holly"
     }
    ]
@@ -170,7 +170,7 @@
      "time": "8:15 PM",
      "sort": "2015",
      "staff": "Tiarra Roberts",
-     "service": "Dog Visit-20 minute",
+     "service": "Dog Visit-30 minute",
      "pets": "Georgie"
     }
    ]
