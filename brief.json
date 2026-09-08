@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T08:20:06-04:00",
+ "generated": "2026-09-08T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3995,6 +3995,16 @@
      "quote": "She now also takes 3 pills of fluoxetine at night with the apoquel!"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Shannon Anderson visit report, Sun Sep 6 evening",
+     "office": false,
+     "note": "Both of Lucy's medications were given at the Sun Sep 6 evening visit, after she had eaten her dinner, and she took them with no issues. The report does not name the drugs or the doses, so the standing gap in the Pet Care Note (3 fluoxetine at night plus apoquel, no dose or timing recorded) is still open - but it does establish that both are given at the evening visit, after food.",
+     "quote": "After she ate, I gave her both medications. She took them with no issues."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -4003,6 +4013,16 @@
      "office": false,
      "note": "Client asked the sitter to let Silas back in. Shannon Anderson replied that Silas was inside when they arrived and came downstairs to meet them, so it is unclear whether Silas had been let out on this visit or the request was about a previous one. Worth checking Silas is indoors before leaving.",
      "quote": "Thank you! Can you let Silas back in"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Shannon Anderson visit report, Mon Sep 7 morning",
+     "office": false,
+     "note": "At the Mon Sep 7 morning visit the same sitter reversed the evening setup - she turned Lucy's lamp off and left the country music station playing. Lucy was again upstairs on arrival and came down while breakfast was got ready; she ate, walked, went #1 and #2, and there were no accidents in the home.",
+     "quote": "I turned off Lucy's lamp but left the country music station playing for them."
     },
     {
      "cat": "behavior",
@@ -4023,6 +4043,16 @@
      "office": false,
      "note": "Same visit: Lucy was upstairs on arrival and had to be called down; Silas and Penny were on the couch. Lucy was fed, walked, watered twice and treated, stool firm, no accidents. The sitter checked the cat auto feeder and says it appears to be working, with the food going down incrementally.",
      "quote": "Auto feeder seems to be working well- I think I’ve noticed that the cat food is going down incrementally."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 6",
+     "source": "Shannon Anderson visit report, Sun Sep 6 evening",
+     "office": false,
+     "note": "At the end of the Sun Sep 6 evening visit the sitter left the lamp by Lucy's cage on and the TV playing country music. She says she did it partly to distract the animals from fireworks going off outside, so it is not established whether this is a standing house routine or a one-off for the night.",
+     "quote": "I left the lamp by Lucy's cage on as well as the TV playing some country music for them."
     },
     {
      "cat": "home",
