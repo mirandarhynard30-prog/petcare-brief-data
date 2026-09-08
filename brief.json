@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T21:20:05-04:00",
+ "generated": "2026-09-07T23:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1293,6 +1293,16 @@
      "quote": "We did encounter a toad but we acted fast but my heart was just pounding!"
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 7",
+     "source": "Client message from Mary Ann Mckeever, Mon Sep 7 9:27pm, replying to Kristin about the evening walk toad encounter",
+     "office": false,
+     "note": "The client herself confirms Georgie habitually seeks out and alerts to toads - this is her wording after the second encounter in four days. A toad incident is what injured his eyes and led to the Sep 4 emergency vet visit and the daily eye drops. Treat toads as a recurring hazard on his walks, especially after dark: keep a flashlight on and control where he sniffs. Mary Ann raised no concern and thanked the sitter, so nothing is outstanding with the client.",
+     "quote": "That boy is so alert to them!"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1391,16 +1401,6 @@
      "office": false,
      "note": "Mary Ann was home at the Sunday evening visit and gave Georgie's eye drops herself while the sitter held him against her leg. The sitter cut the walk short to leave time for the drops. This is one visit, not stated anywhere as a standing arrangement - do not assume the owner will be there to dose. Stool firm and healthy, no accidents.",
      "quote": "Mary Ann had the eyedrops ready to go and I held Georgie close to her leg, so she could administer them."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Tiarra Roberts visit report, Sep 5 evening",
-     "office": false,
-     "note": "Georgie's eye drops are described by the sitter as running through this week. The Sep 5 evening visit was deliberately run a little longer to leave time for them; the sitter helped Mary Ann give them after the walk. Allow extra time on evening visits this week. The email does not state the drop name, dose or how many days remain.",
-     "quote": "some time to give Georgie his eye drops for this week"
     }
    ],
    "dormant": false
