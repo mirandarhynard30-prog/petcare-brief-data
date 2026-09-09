@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T15:20:10-04:00",
+ "generated": "2026-09-09T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4254,6 +4254,37 @@
      "office": false,
      "note": "Litter box is scooped daily into the Litter Genie, but the Litter Genie bag does not need changing every day - Suzanne's daughter will be at the house on Sunday and will change it. Extra litter is provided to top the box off.",
      "quote": "YOU DO NOT NEED TO CHANGE THE LITTER GENIE BAG EVERYDAY."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Karen Mitterholzer",
+   "url": "https://www.timetopet.com/dashboard/client/tl036gWnuVaH",
+   "pets": [
+    "Paula Rose \"Rosie\"",
+    "Frankie Thomas \"Frankie\""
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 9",
+     "source": "Client profile update via Time To Pet",
+     "office": false,
+     "note": "Vet for both Rosie and Frankie is Westpark Veterinary, 4117 Rocky River Dr, Cleveland OH 44135, 216-252-4500. Entered by the client on Sep 9; no medical history has been recorded yet.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 9",
+     "source": "Client profile update via Time To Pet",
+     "office": false,
+     "note": "New client. Profile set up Sep 9, 2026 with home address in Brunswick OH, two emergency contacts, and both pets added. Entry is by garage door code - the code is in Time To Pet, not here.",
+     "quote": ""
     }
    ],
    "dormant": false
