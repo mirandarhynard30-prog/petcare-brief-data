@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T16:20:05-04:00",
+ "generated": "2026-09-09T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -202,6 +202,16 @@
      "quote": "Puck gets 3/4c from the black container and Rusty get 3c from the container next to the bedroom?"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Shannon Anderson evening visit report",
+     "office": false,
+     "note": "At the Sep 9 evening visit neither dog would eat the dinner Shannon put down (Rusty 3c from the white container, Puck 3/4c from the black container). Puck decided to eat hers just before the sitter left; Rusty ate none. Both went #1 only, no #2 at this visit. First refusal reported, not a pattern - worth watching at the next feed.",
+     "quote": "I gave them both their dinner, but neither one ate any."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -272,24 +282,14 @@
      "quote": "We didn't stay out long, just long enough for them to go potty, since it was already really warm"
     },
     {
-     "cat": "home",
+     "cat": "behavior",
      "sev": "low",
      "type": "recent",
-     "date": "Sep 8",
-     "source": "Shannon Anderson visit report, Tue Sep 8 morning",
+     "date": "Sep 9",
+     "source": "Shannon Anderson evening visit report",
      "office": false,
-     "note": "The sitter threw away Rusty's dumpling toy on the Tue Sep 8 visit because its stuffing was coming out. Mary was told in the message. Noted in case she looks for it.",
-     "quote": "Rusty found her dumpling toy outside. I threw it out because it had stuffing coming out of it."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Elizabeth Sigler visit report 12:22pm",
-     "office": false,
-     "note": "Rusty was affected by the heat on the 11:48am visit, so the sitter cut outside time short and finished indoors with fresh water. One observation, not a standing rule.",
-     "quote": "The heat was getting to Rusty, so we finished our visit inside."
+     "note": "Rain at the Sep 9 evening visit. Rusty went out happily and wanted to play; Puck had to be coaxed outside with treats and did not want to stay out. One observation, in line with her noise sensitivity already on file.",
+     "quote": "Rusty went out no problem but Puck I had to bribe with some treats, but she went."
     }
    ],
    "dormant": false
