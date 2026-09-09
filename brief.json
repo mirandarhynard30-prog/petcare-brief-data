@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T13:20:05-04:00",
+ "generated": "2026-09-09T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -348,6 +348,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 9",
+     "source": "Thomas Rakovec visit report, Sep 9 1:20pm",
+     "office": false,
+     "note": "Sep 9 visit report records medication administered for Emma - eye drops - plus a diaper put on Berry and pee pads checked and OK. Taken from this one report; the email does not say whether these are every-visit tasks, so confirm in the care notes.",
+     "quote": "eye drops Emma ..p pads ok ...diaper on Berry"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 2",
      "source": "Thomas Rakovec visit report, 1:57pm",
      "office": false,
@@ -388,6 +398,16 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Sep 9",
+     "source": "Thomas Rakovec visit report, Sep 9 1:20pm",
+     "office": false,
+     "note": "Outside time was kept short on the Sep 9 visit because of the heat. The dogs went out back for #1, then only S and B were walked and not far. Stella's stool was logged firm and healthy.",
+     "quote": "it was a little hit out so we didn't walk far"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Sep 2",
      "source": "Thomas Rakovec visit report, 1:57pm",
      "office": false,
@@ -403,16 +423,6 @@
      "office": false,
      "note": "Heat cut outside time short: all dogs out back a few minutes for #1 then brought straight in, followed by a very short walk for Stella and Berry. Both went #1 and #2, firm.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Thomas Rakovec visit report, Sep 1 12:23pm",
-     "office": false,
-     "note": "Louie was the only one not taken out back on the Sep 1 midday visit; everyone else went #1 and came back in. The report does not say why Louie stayed in.",
-     "quote": "arrived at the house got everyone out back except Louie"
     }
    ],
    "dormant": false
@@ -2303,6 +2313,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Monica Hopewell visit report, Sep 9 midday",
+     "office": false,
+     "note": "Ripley reacted to unfamiliar people during the Sep 9 midday visit. A man and a woman were by an SUV in the driveway and the man walked toward the sitter while Ripley had her hackles up and was sitting between the sitter's legs; she also rumbled at an Amazon driver. She was too focused on the front of the house to go on the trail, so the sitter kept her in the fenced back yard. Recorded as one visit, not established as a standing rule.",
+     "quote": "he started walking towards me even with Ripley's hackles raised and her sitting between my legs in warning"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2411,16 +2431,6 @@
      "office": true,
      "note": "Matt messaged at 8:22pm Sat Sep 5 to say he is home. He does not say whether this ends the trip, so confirm with him whether the Monday visit Monica told him about (\"I will see her Monday\") is still wanted. He being home also means the Farmer's Dog delivery Monica left inside the garage at 1:38pm Sep 5 should now be found and put away.",
      "quote": "Just got home!! TY so much for taking care of her today!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Monica Hopewell visit report, Sep 4 1:38pm",
-     "office": true,
-     "note": "In her Sep 4 midday report Monica says she will cover all three of Matt's Saturday Sep 5 visits. That answers the coverage question left open since his Sep 1 request for three visits on Sep 5, but the office has still not confirmed it to him in writing.",
-     "quote": "I will see her all three visits tomorrow."
     }
    ],
    "dormant": false
@@ -2852,6 +2862,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 9",
+     "source": "Dan Dantimo visit report, Sep 9 2:02pm",
+     "office": false,
+     "note": "On the Sep 9 walk Holly went #2 twice and the consistency was logged as a little loose but not concerning. The sitter turned back at the first cul-de-sac, took a water break and headed home early because of the heat, then refreshed her water. Second day running that her outing was cut short.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 7",
      "source": "Dan Dantimo visit report, Mon Sep 7 6:30pm",
      "office": false,
@@ -2907,16 +2927,6 @@
      "office": false,
      "note": "Handling note from the Sep 7 evening walk: Holly wants to sniff rather than walk, and Dan found saying the word walk got her moving. He is trying to get a proper walk out of her each visit while still allowing sniffing time. One sitter's experience on one visit, not yet a standing rule.",
      "quote": "It seems like the word walk works to get her walking, firm but not sternly."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Dan Dantimo visit report, Sun Sep 6 3:34pm",
-     "office": false,
-     "note": "Holly went #2 on the Sunday afternoon walk and the consistency was recorded as a little loose but not concerning. The same reading was recorded on Aug 25. Quote deliberately left blank - the report wording is identical to another client's Sep 6 health item and the de-duplication key would have swallowed one of them.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -3510,6 +3520,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Client message, Sep 9 1:36pm and 2:00pm",
+     "office": false,
+     "note": "Client is home sick on Sep 9. He was sent home from work early, said he would nap in his bedroom while the sitter takes Whiskey out, and confirmed at 2:00pm that he was home with the bedroom door closed. Expect him in the apartment and keep the visit quiet.",
+     "quote": "I’m feeling a little under the weather and I’ve been sent home from work today early"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -3570,6 +3590,16 @@
      "quote": "If possible, could we change our start date to be one week from tomorrow on 9/7 please?"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Client message, Sep 9 2:09pm",
+     "office": false,
+     "note": "Just before the afternoon visit the client let his cats out of the bedroom so they would not wake him, and flagged that Whiskey likes to chase them. Applies while the client is home sick; not stated as a standing arrangement.",
+     "quote": "just wanted to give a heads up since whiskey sure does love chasing them"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3608,26 +3638,6 @@
      "office": false,
      "note": "Sitter could not find paper towels in the apartment on Sep 8 and used a napkin to clean the bowls. Client said he would restock that night.",
      "quote": "The extra paper towels are hiding somewhere, I'll restock tonight!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Jade Popovitz visit report",
-     "office": true,
-     "note": "Whiskey's Mon Sep 7 morning visit did happen - Jade Popovitz attended (shadowing Harvett Ellington, who noted at 9:45am that Jade would finish the report). This closes the open question of whether the Sep 7 start Erik asked for on Aug 30 was actually on Monday's board.",
-     "quote": "It was great to meet whiskey today!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Jade Popovitz visit report",
-     "office": false,
-     "note": "Whiskey's stool was soft again on the Mon Sep 7 morning walk. The sitter recorded it as not concerning, but Whiskey is already on the loose-stool watch list, so this is a repeat rather than a one-off. Worth telling Erik on the next repeat.",
-     "quote": "he went number one and two although it was a little soft"
     }
    ],
    "dormant": false
