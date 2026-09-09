@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T18:20:05-04:00",
+ "generated": "2026-09-09T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3258,6 +3258,26 @@
     "Muffy"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Dan Dantimo evening visit report",
+     "office": false,
+     "note": "Muffy was excitable at the Sep 9 evening visit after having to wait indoors for the rain to stop. The sitter kept the route close to the house, walked near the pond and a couple of streets, and practised heel; he says she did fine for the most part and he will keep working on it.",
+     "quote": "Muffy was sure in an excitable mood today as she had to wait for the rain to stop when I first arrived."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Dan Dantimo evening visit report",
+     "office": false,
+     "note": "The Sep 9 evening walk was cut short when a siren went off and the rain returned. The sitter still logged it as a good walk. Client was home during the visit, so the home was not checked or secured by the sitter.",
+     "quote": "We headed back cutting the walk short as a siren went off and rain returned but good walk for Muffy."
+    },
     {
      "cat": "behavior",
      "sev": "low",
