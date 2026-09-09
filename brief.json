@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T21:20:05-04:00",
+ "generated": "2026-09-09T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -182,6 +182,16 @@
      "quote": "rusty threw up a few times this morning, so watch out for that"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Shannon Anderson message to Mary Gilmore, Wed Sep 9 9:36am; client replied 'Yes please!' at 9:56am",
+     "office": false,
+     "note": "Client confirmed the sitter should feed the girls at the evening visit. Sitter stated the amounts back to her and she agreed: Puck 3/4 cup from the black container, Rusty 3 cups from the container next to the bedroom. The email does not say whether this applies to every evening visit or only Sep 9, so treat the amounts as confirmed but the standing frequency as unconfirmed.",
+     "quote": "would you like me to feed the girls? If so, Puck gets 3/4c from the black container and Rusty get 3c"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -280,16 +290,6 @@
      "office": true,
      "note": "Aug 31 afternoon visit: both dogs got a treat and the sitter answered No to supplies getting low. Bears on the earlier open note that treats needed restocking - worth confirming with the office rather than assuming it is closed.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Elizabeth Sigler visit report, Aug 29 afternoon",
-     "office": false,
-     "note": "On Aug 29 the sitter found and left Puck in the crate nearer the table and Rusty in the bedroom crate with the bedroom door open. Heat meant about half the playtime was indoors.",
-     "quote": "I put Puck back in her crate (the one nearer to the table) and left Rusty in the bedroom crate"
     }
    ],
    "dormant": false
@@ -383,16 +383,6 @@
      "office": false,
      "note": "Aug 27 visit logs Emma's drops given, pee pads checked and a diaper on Berry as part of the routine. Medication was marked administered for Emma.",
      "quote": "Emma's drops ...p pads ok ...diaper on Berry"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 18",
-     "source": "Client",
-     "office": false,
-     "note": "Stella and Berry both had diarrhea that the client said had cleared by that morning, possibly from new treats.",
-     "quote": "Stella and Berry both had diarrhea. It appeared to have resolved by this morning"
     },
     {
      "cat": "behavior",
@@ -1133,16 +1123,6 @@
      "quote": "We need them to be here before 10 am the remainder of this week"
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 18",
-     "source": "Client",
-     "office": false,
-     "note": "Troup's monthly heartworm pill was left on the counter to go in his food and the client asked that the date be written down.",
-     "quote": "Troup has a heart worm prevention pill to take in his food."
-    },
-    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -1613,16 +1593,6 @@
      "office": true,
      "note": "The client asked Friday afternoon whether a 30 minute drop-in around noon on Saturday is possible, and it still needs confirming.",
      "quote": "Are you available tomorrow for a 30 minute drop in around noon?"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 18",
-     "source": "Client",
-     "office": false,
-     "note": "The vet thinks a spot a sitter flagged may be the start of allergies and a second was found on India; the message does not say which dog the first is on.",
-     "quote": "she said she might be starting to developing allergies. Found one on India too."
     }
    ],
    "dormant": false
