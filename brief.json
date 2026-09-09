@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T10:20:05-04:00",
+ "generated": "2026-09-09T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -192,6 +192,16 @@
      "quote": "would you like me to feed the girls? If so, Puck gets 3/4c from the black container and Rusty get 3c"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Shannon Anderson message",
+     "office": false,
+     "note": "Sitter asked the client to confirm feeding at the Sep 9 evening visit, proposing the amounts below; the client replied 'Yes please!' the same morning. Confirm amounts against the client record before feeding.",
+     "quote": "Puck gets 3/4c from the black container and Rusty get 3c from the container next to the bedroom?"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -252,6 +262,16 @@
      "quote": "I herded her through the crack in the gate (which is secured closed) so that we could avoid the possibility of an altercation."
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Outside time was kept short on the Sep 9 morning visit because of the heat. Both girls finished going potty on a second trip out.",
+     "quote": "We didn't stay out long, just long enough for them to go potty, since it was already really warm"
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -270,26 +290,6 @@
      "office": false,
      "note": "Rusty was affected by the heat on the 11:48am visit, so the sitter cut outside time short and finished indoors with fresh water. One observation, not a standing rule.",
      "quote": "The heat was getting to Rusty, so we finished our visit inside."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Elizabeth Cuffari visit report, Sep 2 12:38pm",
-     "office": false,
-     "note": "In the fenced yard Rusty picked up a rock the sitter had to take away, then grabbed Puck's collar and tried to tow her around; sitter broke it up. One observation, not a standing rule.",
-     "quote": "Rusty was trying to lead puck around the yard by her collar"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Elizabeth Cuffari visit report",
-     "office": true,
-     "note": "Aug 31 afternoon visit: both dogs got a treat and the sitter answered No to supplies getting low. Bears on the earlier open note that treats needed restocking - worth confirming with the office rather than assuming it is closed.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -568,6 +568,16 @@
      "quote": "I wanted to let you know that I am feeling good so after September 9th I will not need help with the dogs."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 7",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client says he is feeling well again and will not need help with the dogs after Sep 9. He also asked that the dates from Sep 22 onward be cancelled. Service ends after today unless the office hears otherwise.",
+     "quote": "after September 9th I will not need help with the dogs"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -666,16 +676,6 @@
      "office": false,
      "note": "Tue Sep 8 morning visit: both Oliver and Ginger went #1 and #2 with stool logged firm and healthy, both ate all their food, and no accidents were found in the home. No vomit reported, a second clear morning after the vomit found in Oliver's room on Sep 6. Oliver was thirsty - the sitter filled the water bowl twice.",
      "quote": "They both ate all their food and i changed the water in the water bowl."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Robin Lewis visit report, 7:27am",
-     "office": false,
-     "note": "Mon Sep 7 morning visit: no accidents in the house and both Oliver and Ginger logged firm, healthy stool. Follows Oliver's upset belly and accident on Sat Sep 5 and the vomit reported Sun Sep 6 - reads as settled this morning, but keep watching.",
-     "quote": "They both went in the fenced area today plus no accidents for Oliver this morning."
     }
    ],
    "dormant": false
@@ -839,6 +839,16 @@
      "quote": "Hi Miranda! I will need to cancel walker for tomorrow"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client (signs as Carol) sent a private message on the evening of Sep 8 cancelling the walker for the next day, Sep 9.",
+     "quote": "I will need to cancel walker for tomorrow"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -927,16 +937,6 @@
      "office": true,
      "note": "Client (Carol) asks to cancel today's Aug 31 visit and sets out a new week: add a 4:00 on Thursday, change Friday to 10am as the only visit that day, then 11:30 on Saturday, Sunday and Monday. She says they are going away for the weekend and leaving Thursday afternoon. She gives weekdays only, no dates, so which calendar dates these are is not stated in the email - and it needs checking against her earlier Sept 4-6 request, which used the same weekdays.",
      "quote": "I will also need to add on a 4:00 on Thursday and change Friday to 10 am"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Client private message Aug 31 9:45am",
-     "office": true,
-     "note": "Follow-up 23 minutes later after an exchange with the office: today's visit is cancelled, and she adds that Tuesday and Wednesday are just regular days at the normal time. The Thursday-through-Monday changes in her earlier message are not repeated here, so they still need confirming and building.",
-     "quote": "we can cancel today…. also Tuesday and Wednesday will be just a regular day at the normal time"
     }
    ],
    "dormant": false
@@ -2638,6 +2638,16 @@
      "quote": "The dogs will be in the basement since the cleaners will be here today."
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Drew Walker visit report",
+     "office": false,
+     "note": "Sitter reported Milo pulled a lot on the Sep 9 walk. Single observation.",
+     "quote": "He pulled a lot today"
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -2792,6 +2802,26 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 9",
+     "source": "Client message",
+     "office": true,
+     "note": "Client wrote mid-morning that she is stuck at the hospital with her husband and asked whether anyone could walk Holly within the hour. She later added that they are usually out in about 3 hours and it has never taken this long.",
+     "quote": "Is anyone available to walk Holly in the next hour?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Client message",
+     "office": true,
+     "note": "Client confirmed the later visit on Sep 9 should be cancelled, in reply to Dan Dantimo. Needs to be actioned in the scheduler.",
+     "quote": "Then we cancel the later visit ok"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 1",
      "source": "Client private message, Sep 1 11:47am",
      "office": true,
@@ -2807,6 +2837,16 @@
      "office": true,
      "note": "Lynne wrote in that Holly will be at the groomers tomorrow (Sunday Aug 30) and will not be available for a walk, and asks that the visit be cancelled. Needs cancelling in the schedule before tomorrow's visit goes out.",
      "quote": "Won’t be available for a walk. Please cancel. Thanks."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Client message",
+     "office": false,
+     "note": "Client sent updated entry instructions for the Sep 9 visit. Details are in Time To Pet only - check the client record before the visit.",
+     "quote": ""
     },
     {
      "cat": "health",
@@ -2877,36 +2917,6 @@
      "office": false,
      "note": "Holly went #2 on the Sunday afternoon walk and the consistency was recorded as a little loose but not concerning. The same reading was recorded on Aug 25. Quote deliberately left blank - the report wording is identical to another client's Sep 6 health item and the de-duplication key would have swallowed one of them.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Dan Dantimo visit report, Aug 31 6:25pm",
-     "office": false,
-     "note": "Holly was groomed on Sunday Aug 30, so the Aug 29 cancellation request appears to have been honoured. On the Aug 31 evening walk she wanted to sniff rather than walk and only covered one cul-de-sac before a water break. The same report logs her #2 as slightly loose but not concerning - the second such note after Aug 25.",
-     "quote": "she had to make up for Sunday while she was getting groomed"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "On the Aug 29 evening visit Holly barked as the sitter came up to the house, then warmed up over the course of the visit. The client was home during this visit. Walk ran from the house to the roundabout and back, with a lot of sniffing; she went #1 several times and #2 once.",
-     "quote": "She barked as I approached the house."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Dan Dantimo visit report, Aug 26",
-     "office": false,
-     "note": "Holly read as needing to burn off energy, so Dan walked her down the first cul-de-sac and back with a water break. Client was home during the visit.",
-     "quote": "I did want to get her to walk more as it seemed that she needed to get some energy out"
     }
    ],
    "dormant": false
@@ -2968,6 +2978,16 @@
     "Oakley"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 9",
+     "source": "Client message",
+     "office": false,
+     "note": "Client says Oakley gets seasonal allergies at this time of year and that they are managing them well so far this season.",
+     "quote": "He does get allergies around this time"
+    },
     {
      "cat": "health",
      "sev": "medium",
@@ -3443,6 +3463,16 @@
      "cat": "home",
      "sev": "low",
      "type": "recent",
+     "date": "Sep 9",
+     "source": "Client message",
+     "office": false,
+     "note": "Client explained the styrofoam debris a sitter found was from her own late-night building project, not the dog. No action needed.",
+     "quote": "The styrofoam was all me, late night building a new rollable island"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
      "date": "Sep 8",
      "source": "Client message from Megan Nickoli, Sep 8 8:57pm",
      "office": false,
@@ -3468,16 +3498,6 @@
      "office": false,
      "note": "No broom where the sitter looked - Lacey checked the closet, did not find one, and picked the toy pieces up by hand into the kitchen trash. Worth telling the next sitter where cleaning supplies actually are.",
      "quote": "I looked for a broom in the closet but did not see one"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Lacey Govil",
-     "office": false,
-     "note": "Aayla had shredded a toy and left stuffing over the bed; the sitter cleaned up most of it.",
-     "quote": "I noticed she must have got into one of her toys because there was stuffing all over the bed."
     }
    ],
    "dormant": false
@@ -3580,6 +3600,16 @@
      "quote": "Oh no, that’s a bummer about his diarrhea, I hope his tummy is feeling a little better this afternoon!"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 8",
+     "source": "Client message",
+     "office": false,
+     "note": "Sitter could not find paper towels in the apartment on Sep 8 and used a napkin to clean the bowls. Client said he would restock that night.",
+     "quote": "The extra paper towels are hiding somewhere, I'll restock tonight!"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3598,16 +3628,6 @@
      "office": false,
      "note": "Whiskey's stool was soft again on the Mon Sep 7 morning walk. The sitter recorded it as not concerning, but Whiskey is already on the loose-stool watch list, so this is a repeat rather than a one-off. Worth telling Erik on the next repeat.",
      "quote": "he went number one and two although it was a little soft"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 7",
-     "source": "Jade Popovitz visit report to Erik Risa, Mon Sep 7 9:45am",
-     "office": false,
-     "note": "Whiskey is crated between visits. The sitter found him asleep in his crate on arrival and put him back in the crate at the end of the visit before leaving. Expect to let him out on arrival and to return him to the crate before you go.",
-     "quote": "He was asleep and in his crate when we came in."
     }
    ],
    "dormant": false
@@ -3779,6 +3799,16 @@
      "office": true,
      "note": "Follow-up to her earlier Saturday message. The client says Blackie will be at the neighbour Greg's house for the whole period the walk schedule covers, not at her own home. Confirm with her where each scheduled walk should start before a sitter is sent out. Access details in the same thread are deliberately not repeated here.",
      "quote": "Greg house he will be there this whole time that we have walk schedule"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Noella Assi visit report",
+     "office": false,
+     "note": "On Sep 9 Blackie was collected from and returned to neighbor Greg rather than the house; the report notes the client was home and asked that the door not be locked. Greg had already walked him at 9am.",
+     "quote": "I got Blackie from the neighbor Greg."
     },
     {
      "cat": "schedule",
