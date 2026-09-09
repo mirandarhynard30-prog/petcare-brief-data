@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T19:20:05-04:00",
+ "generated": "2026-09-08T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1396,11 +1396,11 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 7",
-     "source": "Tiarra Roberts visit report, Mon Sep 7 morning",
+     "date": "Sep 8",
+     "source": "Visit report from Tiarra Roberts, Sep 8 8:50pm visit",
      "office": false,
-     "note": "Georgie's eye drops were given at the Mon Sep 7 morning visit - Mary Ann was home and administered them while the sitter held his collar and sat him at her leg. The walk was deliberately turned for home early to leave enough time for the drops. Stool logged firm and healthy, no accidents in the home.",
-     "quote": "Mary Ann was ready to administer the eyedrops. I held onto Georgie's collar and sat him next to Mary Ann's leg."
+     "note": "On the Sep 8 evening visit the sitter helped Mary Ann give Georgie his eye drops, and said she would be back the following evening to help again. The drops are still not named anywhere in the mail.",
+     "quote": "I assisted Mary Ann with the eyedrops for Georgie. I will be here tomorrow night to help with the eyedrops again."
     }
    ],
    "dormant": false
@@ -3039,6 +3039,16 @@
      "quote": "I noticed he has a couple of eye boogers I wiped those off"
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 8",
+     "source": "Client message from Anna Caraboolad, Sep 8 8:18pm",
+     "office": false,
+     "note": "Owner says Oakley gets seasonal allergies around this time of year and she is managing them herself so far. No treatment named and nothing asked of the sitter.",
+     "quote": "He does get allergies around this time, we’re mitigating it pretty well so far this year thankfully!"
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -3463,6 +3473,16 @@
      "cat": "home",
      "sev": "low",
      "type": "recent",
+     "date": "Sep 8",
+     "source": "Client message from Megan Nickoli, Sep 8 8:57pm",
+     "office": false,
+     "note": "Owner explains the styrofoam on the floor that the sitter found and swept up on the Sep 8 visit: it came from her own late-night project, not from the dog getting into something.",
+     "quote": "The styrofoam was all me, late night building a new rollable island, thank you so much for all you do!"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
      "date": "Sep 2",
      "source": "Client message, 1:25pm",
      "office": false,
@@ -3488,16 +3508,6 @@
      "office": false,
      "note": "Aayla had shredded a toy and left stuffing over the bed; the sitter cleaned up most of it.",
      "quote": "I noticed she must have got into one of her toys because there was stuffing all over the bed."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Josh Stone",
-     "office": false,
-     "note": "Sitter describes the walk as a scavenger-hunt loop around the apartment complex, phrased as the usual route.",
-     "quote": "We did our scavenger hunt walk around the complex."
     }
    ],
    "dormant": false
