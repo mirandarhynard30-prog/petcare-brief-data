@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T14:20:05-04:00",
+ "generated": "2026-09-09T15:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3533,6 +3533,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 9",
+     "source": "Alex Miller visit report, Sep 9 2:44pm",
+     "office": true,
+     "note": "Sep 9 AFTERNOON visit (Alex Miller, shown around by Jade Popovitz): Whiskey's diarrhea is continuing. He went #2 twice on the 30-minute walk and the report logs the consistency as very loose/diarrhea but the pet seeming fine otherwise. This is the third consecutive report of loose stool after both Sep 8 visits. The email mentions no vet contact and no instruction from the client, so the office should decide whether to raise a vet visit with Erik.",
+     "quote": "His tummy is still upset very very runny stools, he went twice, I will attach a picture."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 8",
      "source": "Harvett Ellington visit report, Tue Sep 8 morning",
      "office": false,
@@ -3600,6 +3610,16 @@
      "quote": "just wanted to give a heads up since whiskey sure does love chasing them"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Alex Miller visit report, Sep 9 2:44pm",
+     "office": false,
+     "note": "At the same Sep 9 afternoon visit Whiskey turned down a treat. Water bowl was refilled and his food bowl filled on return. Appetite was not otherwise commented on, so treat refusal is the only signal here.",
+     "quote": "we tried giving him a treat but he wasn’t interested"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3618,26 +3638,6 @@
      "office": true,
      "note": "Sitter asked Erik whether the middle-of-day routine should be treats only, or fresh water and a cleaned-out bowl, until the afternoon staff arrives. No answer from Erik is visible in this mailbox - only later thank-yous - so the feeding instruction for Whiskey is unconfirmed.",
      "quote": "Just treats or just fresh water and clean out bowl until the afternoon staff shows up?"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Client message, Tue Sep 8 9:38am ET",
-     "office": true,
-     "note": "Erik answered the morning diarrhea report himself, hoping Whiskey's tummy feels better this afternoon. He did not ask for a vet visit, a diet change or anything else, so nothing will happen on the client's side unless the office raises it. This is the fourth day running with loose stool.",
-     "quote": "Oh no, that’s a bummer about his diarrhea, I hope his tummy is feeling a little better this afternoon!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Client message",
-     "office": false,
-     "note": "Sitter could not find paper towels in the apartment on Sep 8 and used a napkin to clean the bowls. Client said he would restock that night.",
-     "quote": "The extra paper towels are hiding somewhere, I'll restock tonight!"
     }
    ],
    "dormant": false
