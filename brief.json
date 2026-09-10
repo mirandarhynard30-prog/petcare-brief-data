@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T21:20:06-04:00",
+ "generated": "2026-09-10T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -333,16 +333,6 @@
      "office": true,
      "note": "Client cancelled Aug 24 and Aug 25 visits via a request submitted Saturday and messaged to make sure it had been seen. Confirm the cancellation was actually processed.",
      "quote": "I put in a request on Saturday to cancel today and tomorrow’s visits."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Client",
-     "office": false,
-     "note": "Louie has a Saturday vet appointment about his hips and has been unusually grumpy with the other dogs all week.",
-     "quote": "Louie has a vet appointment this Saturday for his hips. He has been extra grumpy with all the dogs this past week"
     },
     {
      "cat": "health",
@@ -729,16 +719,6 @@
      "quote": "Rex was jumpy so I had to use the collar remote today."
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Client",
-     "office": true,
-     "note": "The client cancelled Friday's walk because of a schedule change and asked specifically that Kayla be told.",
-     "quote": "I will be home Friday and will need to cancel Friday’s walk."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -992,16 +972,6 @@
      "quote": "I came in and was approached by Ellie Mae she followed me to get Chloe leashed them both up and went on our walk."
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Client",
-     "office": false,
-     "note": "Ellie Mae has been unwell and the client says her vet asked that her walking be minimised, so Chloe is walked alone for now.",
-     "quote": "please don’t walk Ellie just walk Chloe the little white dog"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -1123,16 +1093,6 @@
      "quote": "We have to keep the morning visits to before 10 am."
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Client",
-     "office": true,
-     "note": "After several rounds of adjustment the client asked for the morning visit before 10am for the rest of the week and the evening visit between 4 and 6pm.",
-     "quote": "We need them to be here before 10 am the remainder of this week"
-    },
-    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -1221,16 +1181,6 @@
      "office": false,
      "note": "Riggs must not be unclipped in the fenced area until it has been checked for animals, as the care note records he is reactive to wildlife.",
      "quote": "Please check for animals in the fenced in area before releasing him off the leash, he is triggered by other animals."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Client",
-     "office": false,
-     "note": "The client saw raccoons the previous night and asked the sitter to double-check the pen before letting Riggs off leash.",
-     "quote": "Please double check for critters in pen today before you let Riggs off leash."
     },
     {
      "cat": "behavior",
@@ -1806,16 +1756,6 @@
      "quote": "nova comes straight back when called, but astra will bolt"
     },
     {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Michelle Carrara",
-     "office": false,
-     "note": "A sitter message indicates Astra got out and was found quickly that morning; the circumstances are not described in the email.",
-     "quote": "I am glad that Astra is back and that you found her quickly."
-    },
-    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2210,7 +2150,7 @@
      "quote": "Thanks for letting me know about his lip. I will check it out when I get home!"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Kristin Brewer",
@@ -3317,26 +3257,6 @@
      "office": false,
      "note": "Muffy's stool on the Aug 26 evening walk was logged as a little loose but not concerning. The sitter also took a water break on a long, quick-paced route.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Muffy is excitable at the start of a walk and is still learning leash manners; the sitter worked on heel and sit and said she is improving.",
-     "quote": "She's getting better on a leash"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "The report records the client at home during the visit and asking that the door not be locked.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -3540,6 +3460,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Elizabeth Sigler visit report",
+     "office": true,
+     "note": "Sep 10 morning visit: sitter cleaned up an indoor potty accident. Visit report logged #1 only; no #2 and no stool consistency recorded.",
+     "quote": "I cleaned up a potty accident"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -3622,6 +3552,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Erik Risa message",
+     "office": false,
+     "note": "Erik answered the water question: Whiskey may drink from anywhere he likes, just not his human's water glasses or standing water on the ground. He adds Whiskey is loving chicken jerky treats lately.",
+     "quote": "He can drink from wherever he wants as long as it’s not his human’s water glasses"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Sep 9",
      "source": "Client message, Sep 9 2:09pm",
@@ -3638,26 +3578,6 @@
      "office": false,
      "note": "At the same Sep 9 afternoon visit Whiskey turned down a treat. Water bowl was refilled and his food bowl filled on return. Appetite was not otherwise commented on, so treat refusal is the only signal here.",
      "quote": "we tried giving him a treat but he wasn’t interested"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Harvett Ellington message 9:44am",
-     "office": false,
-     "note": "The sitter could not find the paper towels on the Tue Sep 8 morning visit and cleaned Whiskey's bowls with a red napkin instead. The same visit report answers Yes to pet supplies getting low. Sitters arriving before the restock should expect no paper towels, which matters while Whiskey has diarrhea.",
-     "quote": "Sure thing...also I didn't see the paper towels, I used the red napkin you see in the photo to clean his bowls."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Harvett Ellington message to Erik Risa, 1:16pm",
-     "office": true,
-     "note": "Sitter asked Erik whether the middle-of-day routine should be treats only, or fresh water and a cleaned-out bowl, until the afternoon staff arrives. No answer from Erik is visible in this mailbox - only later thank-yous - so the feeding instruction for Whiskey is unconfirmed.",
-     "quote": "Just treats or just fresh water and clean out bowl until the afternoon staff shows up?"
     }
    ],
    "dormant": false
