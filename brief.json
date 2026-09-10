@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T17:20:07-04:00",
+ "generated": "2026-09-10T18:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -192,6 +192,16 @@
      "quote": "Yes she goes straight for the toilet if the water bowl is empty"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Client private message, Sep 10 6:08pm",
+     "office": true,
+     "note": "UNANSWERED as of 6:09pm. Mary sent a private message saying she is applying to an apartment complex in Cuyahoga Falls, off the Seasons Rd exit, and asking whether Petcare Deluxe services that area. She gave the specific street address in the message - it is in Time To Pet. Needs an answer from the office before she commits to the apartment.",
+     "quote": "Do you service the area?"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -280,16 +290,6 @@
      "office": false,
      "note": "A stray black cat was in the yard before the visit. The sitter herded it out through a crack in the gate to avoid a run-in with the dogs; the gate itself is secured closed.",
      "quote": "I herded her through the crack in the gate (which is secured closed) so that we could avoid the possibility of an altercation."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Shannon Anderson visit report, Sep 10",
-     "office": false,
-     "note": "Sep 10 midday visit: the sitter had to stop Puck drinking out of the toilet. Both girls went #1 and #2 in the fenced back yard and both were logged firm and healthy; no accidents in the house.",
-     "quote": "I had to stop Puck from trying to drink out of the toilet."
     }
    ],
    "dormant": false
@@ -2880,6 +2880,16 @@
      "quote": "Hi Lynne be there by 530"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Dan Dantimo visit report, Sep 10 evening",
+     "office": false,
+     "note": "On the Sep 10 evening walk Holly went both #1 and #2, and Dan logged the #2 consistency as a little loose but not concerning. She was offered water halfway through and was not thirsty.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2918,16 +2928,6 @@
      "office": true,
      "note": "Dan Dantimo closed the Sunday visit report unsure whether he is scheduled for Holly on Mon Sep 7 and asked to be told later today. Office needs to confirm Monday's assignment with him.",
      "quote": "I assume I'm here tomorrow, should know later today"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Client private message, Sep 1 11:47am",
-     "office": false,
-     "note": "Holly is struggling in the current heat with an ungroomed coat - the client says she is reluctant to go outside even to toilet. Keep any outings very short while this holds.",
-     "quote": "She is hesitate to even go out for her business."
     }
    ],
    "dormant": false
@@ -4421,6 +4421,56 @@
     "Frankie Thomas \"Frankie\""
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Monica Hopewell",
+     "office": false,
+     "note": "New feeding instructions added to the Pet Care Note: each dog gets 1/2 cup of kibble at both the AM and PM visit. If they have not eaten the AM food, top it rather than fully replacing it - the note says cheese or other meat is fine and that they are particular eaters. Food bowls are in the pantry near the food and treats; the water bowl and feeding spot are on the floor near the kitchen entryway.",
+     "quote": "Each dog gets 1/2 cup of kibble both AM and PM"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Monica Hopewell",
+     "office": false,
+     "note": "Entry is through the attached garage at the Fox Villa apartments. The note asks the sitter to send an ETA in case Karen's friend is there resting.",
+     "quote": "Send an ETA just in case Karen's friend is there resting."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Monica Hopewell",
+     "office": false,
+     "note": "Supply locations added: treats in the basket in the pantry, poop bags on the top shelf of the front closet with the leashes hanging on the wall in there, toys throughout the house. Friday is trash day; there is a trash can on the back patio for doggy bags and disposal cans around the neighborhood.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Monica Hopewell",
+     "office": false,
+     "note": "If taking the dogs to the community dog park, grab Rosie's ball from the garage first.",
+     "quote": "If taking to the dog park located in the community grab the ball from the garage for Rosie"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Monica Hopewell",
+     "office": true,
+     "note": "Standing context restated in the updated note: Karen is a flight attendant so her schedule varies, and she has a primary dog sitter who cannot walk the pups. The note says there may be times the primary sitter is unavailable and Petcare Deluxe would need to cover full visits, so feeding instructions should be reviewed with staff.",
+     "quote": ""
+    },
     {
      "cat": "health",
      "sev": "low",
