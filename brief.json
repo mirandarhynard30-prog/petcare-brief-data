@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T15:20:06-04:00",
+ "generated": "2026-09-10T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -530,6 +530,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 10",
+     "source": "Client message, Sep 10 3:44pm",
+     "office": false,
+     "note": "Sampson did use the litter box in the dining room this time and covered it, which the client flags as a change. She checked it and found half of one side soaked through to the plastic bag, and calls that unusual. Ambiguous: she does not say whether the volume was urine or stool, and gives no other symptoms. Sits alongside his ongoing litter box and hardwood-floor accidents.",
+     "quote": "He covered it up this time and had 1/2 of the one side all the way to the plastic bag!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 8",
      "source": "Kathy Pastor visit report, 1:54pm",
      "office": false,
@@ -545,16 +555,6 @@
      "office": true,
      "note": "Replying to Kathy Pastor's report that Gordy was too warm to take his post-walk treat, Anna says he would like an earlier cooler walk tomorrow. She phrases it as a preference rather than a formal request and no new time has been confirmed back to her, so it is unclear whether Wed Sep 9 is meant to move.",
      "quote": "He will like an earlier cooler walk tomorrow."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 6",
-     "source": "Client message to Lacey Govil",
-     "office": false,
-     "note": "Sampson is not reliably using the litter box. Anna asked for a second pee pad in the dining room, between the table and the crockpot stand, in addition to the one in the laundry room; Lacey put it down on the Sep 6 morning visit. Anna says he uses the pads and sometimes the dining room litter box.",
-     "quote": "Would you want to put another pad out in the dining room?"
     }
    ],
    "dormant": false
@@ -1373,24 +1373,24 @@
      "quote": "Georgie is an escape artist."
     },
     {
-     "cat": "behavior",
+     "cat": "health",
      "sev": "medium",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Tiarra Roberts evening visit report, Sep 9 8:57pm",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note rewritten by Tiarra Roberts, Sep 10 3:13pm",
      "office": false,
-     "note": "On the Sep 9 evening walk Georgie spotted a bunny in a front yard and ran toward it; the sitter had a tight hold of the leash and kept moving. Single observation, not a standing rule, but worth a firm grip on the leash near front yards given his existing escape-risk flag.",
-     "quote": "Georgie saw a bunny in a front yard, he ran towards it."
+     "note": "New line added to the heat rule: an ice cube from the freezer may be given after walks. The rest of the heat rule is unchanged - over 75 degrees cap outside time at 20 minutes, orange velcro cooling collar from the kitchen freezer on before the walk with the slip harness over it, and leave the collar on afterwards if Georgie is still panting.",
+     "quote": "You can give him an ice cube from the freezer after walks."
     },
     {
      "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Kristin Ashick visit report, Tue Sep 8 10:48am",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note rewritten by Tiarra Roberts, Sep 10 3:14pm",
      "office": false,
-     "note": "Supply note from the Tue Sep 8 morning walk: the poop bag holder on Georgie's leash is empty. The sitter told Mary Ann directly in the message; the report's supplies-low question was still answered No. Sitters should bring their own bags until it is restocked.",
-     "quote": "you are out of poop bags in the little holder on the leash"
+     "note": "Extra poop bags for the leash are on the dryer in the laundry room. This replaces the older wording about a small box on the dryer. Relevant to the Sep 8 report that the poop bag holder on the leash was empty.",
+     "quote": "Extra poop bags are located in laundry room on the dryer."
     }
    ],
    "dormant": false
@@ -2594,7 +2594,8 @@
    "url": "https://www.timetopet.com/dashboard/client/t1ptbvQbaKQx",
    "pets": [
     "Milo",
-    "Archer"
+    "Archer",
+    "Carl"
    ],
    "items": [
     {
@@ -2636,6 +2637,16 @@
      "office": false,
      "note": "Client says the dogs will be shut in the basement for today's visit because cleaners are at the house.",
      "quote": "The dogs will be in the basement since the cleaners will be here today."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Visit report, Shannon Anderson, Sep 10 1:17pm",
+     "office": false,
+     "note": "Sep 10 midday visit covered Archer only because Milo was at daycare that day. There is also a cat, Carl, in the house who waits in the kitchen and was given snacks alongside Archer, and both water bowls were changed. The client was home during the visit. Archer's #2 was logged firm and healthy.",
+     "quote": "I got to visit with just Archer since Milo was at daycare today"
     },
     {
      "cat": "behavior",
@@ -3550,6 +3561,16 @@
      "quote": "I cleaned up a potty accident"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Visit report, Harvett Ellington, Sep 10 3:19pm",
+     "office": false,
+     "note": "Sep 10 AFTERNOON visit, separate from the morning one: Whiskey went #1 only on a long walk and the report logs no #2 today, so there is no stool consistency to record for this visit. Home checked and no accidents found. Whiskey has been logged with diarrhea at visits since Sep 8, so a visit with no stool at all is not by itself an all-clear.",
+     "quote": "Went out for a long walk. Went number one only!"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -3643,21 +3664,11 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 9",
-     "source": "Client message, Sep 9 2:09pm",
+     "date": "Sep 10",
+     "source": "Visit report, Harvett Ellington, Sep 10 3:19pm",
      "office": false,
-     "note": "Just before the afternoon visit the client let his cats out of the bedroom so they would not wake him, and flagged that Whiskey likes to chase them. Applies while the client is home sick; not stated as a standing arrangement.",
-     "quote": "just wanted to give a heads up since whiskey sure does love chasing them"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Alex Miller visit report, Sep 9 2:44pm",
-     "office": false,
-     "note": "At the same Sep 9 afternoon visit Whiskey turned down a treat. Water bowl was refilled and his food bowl filled on return. Appetite was not otherwise commented on, so treat refusal is the only signal here.",
-     "quote": "we tried giving him a treat but he wasn’t interested"
+     "note": "Sitter warns that Whiskey is moving off eating paper but is now going for sticks on walks, and asks the next sitter to watch him. Single sitter's observation on one walk, not yet a written rule.",
+     "quote": "Getting away from paper slowly, but be careful, he loving the sticks now."
     }
    ],
    "dormant": false
