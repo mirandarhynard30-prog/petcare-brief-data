@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T20:20:04-04:00",
+ "generated": "2026-09-09T21:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1373,6 +1373,16 @@
      "quote": "Georgie is an escape artist."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Tiarra Roberts evening visit report, Sep 9 8:57pm",
+     "office": false,
+     "note": "On the Sep 9 evening walk Georgie spotted a bunny in a front yard and ran toward it; the sitter had a tight hold of the leash and kept moving. Single observation, not a standing rule, but worth a firm grip on the leash near front yards given his existing escape-risk flag.",
+     "quote": "Georgie saw a bunny in a front yard, he ran towards it."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -1381,16 +1391,6 @@
      "office": false,
      "note": "Supply note from the Tue Sep 8 morning walk: the poop bag holder on Georgie's leash is empty. The sitter told Mary Ann directly in the message; the report's supplies-low question was still answered No. Sitters should bring their own bags until it is restocked.",
      "quote": "you are out of poop bags in the little holder on the leash"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Visit report from Tiarra Roberts, Sep 8 8:50pm visit",
-     "office": false,
-     "note": "On the Sep 8 evening visit the sitter helped Mary Ann give Georgie his eye drops, and said she would be back the following evening to help again. The drops are still not named anywhere in the mail.",
-     "quote": "I assisted Mary Ann with the eyedrops for Georgie. I will be here tomorrow night to help with the eyedrops again."
     }
    ],
    "dormant": false
