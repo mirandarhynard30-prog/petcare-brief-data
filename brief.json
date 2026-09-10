@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T13:20:04-04:00",
+ "generated": "2026-09-10T14:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -315,6 +315,16 @@
      "quote": "He has been growling at all the pups and if I try to groom him he is more grumpy than usual"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Thomas Rakovec, reply to client 1:19pm",
+     "office": false,
+     "note": "Louie has an ongoing hurt leg/hip that Thomas says still hurts him a lot. He handles it by giving Louie breaks and avoiding picking him up; when he has to lift him he goes very slowly. Thomas offered this as his own explanation for Louie's grumpiness after the client asked about it - it is his account, not a vet assessment.",
+     "quote": "I try not to pick him up at all cause of it"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -413,16 +423,6 @@
      "office": false,
      "note": "Outside time was kept short on the Sep 9 visit because of the heat. The dogs went out back for #1, then only S and B were walked and not far. Stella's stool was logged firm and healthy.",
      "quote": "it was a little hit out so we didn't walk far"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Thomas Rakovec visit report, 1:57pm",
-     "office": false,
-     "note": "Berry wears a diaper - the sitter put it back on after the walk. Pee pads were checked and fine.",
-     "quote": "diaper back on Berry"
     }
    ],
    "dormant": false
@@ -2782,6 +2782,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 10",
+     "source": "Client message 1:17pm",
+     "office": true,
+     "note": "Follow-up to her 12:11pm question about what time Dan is coming - she now asks to push today's visit to 5:30 to be safe, because of Holly's grooming appointment. Needs a confirmation from the office; no reply seen in the mailbox.",
+     "quote": "Can we make it 5;30 to be safe?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 9",
      "source": "Client message",
      "office": true,
@@ -2877,16 +2887,6 @@
      "office": true,
      "note": "Thirty-seven minutes later Lynne replied to a message from Miranda saying she is still deciding and needs to check the weather. The question she is answering is not reproduced in the notification, so what is still undecided is unclear - a decision from her is outstanding.",
      "quote": "Im still thinking. Have to check weather"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Dan Dantimo visit report for Lynne Reno, Tue Sep 8 5:27pm",
-     "office": false,
-     "note": "Tue Sep 8 late-afternoon walk: Holly turned back before the first cul-de-sac and tired early, so Dan took a water break. She went #1 but not #2. Client was home during the visit.",
-     "quote": "She seemed to be getting tired, so I took time out for a water break. She did go number one but not number two."
     }
    ],
    "dormant": false
@@ -3657,9 +3657,20 @@
    "url": "https://www.timetopet.com/dashboard/client/t0y113Yv4uyJ",
    "pets": [
     "Theo",
-    "Frank"
+    "Frank",
+    "Frankie"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Tiarra Roberts",
+     "office": false,
+     "note": "Pet Care Note rewritten. The cats are no longer confined upstairs - the old note about keeping the hallway door closed and food/water in the bathroom is gone. Food and water are now in the dining room next to the sliding glass door; dry food is free-fed, so top it off every visit and photograph it. One litter box, in the office; scooper and grocery bags next to it.",
+     "quote": "FOOD AND WATER IS IN THE DINING ROOM NEXT TO THE SLIDING GLASS DOOR."
+    },
     {
      "cat": "home",
      "sev": "high",
@@ -3679,6 +3690,16 @@
      "source": "Meet and greet report from Noella Assi for Stephanie Sarrocco, Sep 10 12:43pm",
      "note": "Meet and greet on Sep 10 for two cats. Both hid under the bed and only came out for treats. Frank is the fluffy, bigger cat; Theo is smaller and shyer. Expect to need treats to get eyes on them. One visit only, so this is an observation rather than a confirmed standing rule.",
      "quote": "They were both hiding under the bed but eventually came out for treats so we got to see them"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Tiarra Roberts",
+     "office": false,
+     "note": "Both cats are social but may hide under the bed; Frankie is the chubbier one, Theo the slender one. Churu/paste is left on the kitchen counter - one pack a day in the small glass bowl the client provides, washed before refilling. Theo is the one who mainly wants it.",
+     "quote": "PLEASE GIVE ONE PACK A DAY ON A SMALL GLASS BOWL THAT SHE WILL PROVIDE. WASH IT BEFORE ADDING NEW CHURU."
     }
    ],
    "dormant": false
