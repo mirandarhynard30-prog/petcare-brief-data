@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T12:20:07-04:00",
+ "generated": "2026-09-10T13:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -305,6 +305,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Client message from Liz Wainio, Sep 10 12:12pm",
+     "office": false,
+     "note": "Client wrote in on Sep 10 asking whether Louie is being grumpy with the sitter. She says he has been growling at all the pups at home and is more grumpy than usual when she tries to groom him. Handle grooming and dog-to-dog contact carefully. This is a new report from the client, not a standing rule, and she is waiting on an answer.",
+     "quote": "He has been growling at all the pups and if I try to groom him he is more grumpy than usual"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -413,16 +423,6 @@
      "office": false,
      "note": "Berry wears a diaper - the sitter put it back on after the walk. Pee pads were checked and fine.",
      "quote": "diaper back on Berry"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Thomas Rakovec visit report, 1:57pm",
-     "office": false,
-     "note": "Heat cut outside time short: all dogs out back a few minutes for #1 then brought straight in, followed by a very short walk for Stella and Berry. Both went #1 and #2, firm.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -822,6 +822,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 10",
+     "office": false,
+     "source": "Visit report from Margaret Bill for Angela Jozsa, Sep 10 12:16pm",
+     "note": "Sep 10 late-morning visit: Lucy went #1 and #2, the #2 was loose and she scooted a lot afterwards. The report checklist logs the consistency as very loose/diarrhea with the pet seeming fine otherwise. She ate some kibble, went back into her pen without struggle and was lying on her side when the sitter came back in.",
+     "quote": "She went #1 and #2 but the 2 was loose and after that she scooted a lot"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 8",
      "source": "Margaret Bill visit report, Tue Sep 8 11:30am",
      "office": true,
@@ -927,16 +937,6 @@
      "office": true,
      "note": "Third open-garage report today. Margaret found the garage door standing open AGAIN at the afternoon visit, hours after she closed it herself at the noon visit and after the client said this morning's was accidental. Sitters still have no standing rule on what to do; the office should get one in writing.",
      "quote": "The garage door was open when I came in."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Client private message Aug 31 9:22am",
-     "office": true,
-     "note": "Client (Carol) asks to cancel today's Aug 31 visit and sets out a new week: add a 4:00 on Thursday, change Friday to 10am as the only visit that day, then 11:30 on Saturday, Sunday and Monday. She says they are going away for the weekend and leaving Thursday afternoon. She gives weekdays only, no dates, so which calendar dates these are is not stated in the email - and it needs checking against her earlier Sept 4-6 request, which used the same weekdays.",
-     "quote": "I will also need to add on a 4:00 on Thursday and change Friday to 10 am"
     }
    ],
    "dormant": false
@@ -2772,6 +2772,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 10",
+     "office": true,
+     "source": "Client message from Lynne Reno, Sep 10 12:11pm",
+     "note": "Client asked on Sep 10 what time Dan is coming, because Holly has a grooming appointment and may not be home early. Unanswered - needs a reply today and possibly a time change to today's visit.",
+     "quote": "What time is Dan coming today. Holly has a grooming appointment finally and she may not be home early"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 9",
      "source": "Client message",
      "office": true,
@@ -2877,16 +2887,6 @@
      "office": false,
      "note": "Tue Sep 8 late-afternoon walk: Holly turned back before the first cul-de-sac and tired early, so Dan took a water break. She went #1 but not #2. Client was home during the visit.",
      "quote": "She seemed to be getting tired, so I took time out for a water break. She did go number one but not number two."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Dan Dantimo visit report, Mon Sep 7 6:30pm",
-     "office": false,
-     "note": "Handling note from the Sep 7 evening walk: Holly wants to sniff rather than walk, and Dan found saying the word walk got her moving. He is trying to get a proper walk out of her each visit while still allowing sniffing time. One sitter's experience on one visit, not yet a standing rule.",
-     "quote": "It seems like the word walk works to get her walking, firm but not sternly."
     }
    ],
    "dormant": false
@@ -3655,7 +3655,10 @@
   {
    "name": "Stephanie Sarrocco",
    "url": "https://www.timetopet.com/dashboard/client/t0y113Yv4uyJ",
-   "pets": [],
+   "pets": [
+    "Theo",
+    "Frank"
+   ],
    "items": [
     {
      "cat": "home",
@@ -3666,6 +3669,16 @@
      "office": true,
      "note": "Stephanie updated her own profile in Time To Pet at 2:49pm: her service address changed from Strongsville to Parma Heights (the new street address is in her client record, not repeated here), and her primary emergency contact changed to a different person, now listed as her brother, with a new phone number. Office needs to confirm the new address and contact before the next visit is dispatched.",
      "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 10",
+     "office": false,
+     "source": "Meet and greet report from Noella Assi for Stephanie Sarrocco, Sep 10 12:43pm",
+     "note": "Meet and greet on Sep 10 for two cats. Both hid under the bed and only came out for treats. Frank is the fluffy, bigger cat; Theo is smaller and shyer. Expect to need treats to get eyes on them. One visit only, so this is an observation rather than a confirmed standing rule.",
+     "quote": "They were both hiding under the bed but eventually came out for treats so we got to see them"
     }
    ],
    "dormant": false
