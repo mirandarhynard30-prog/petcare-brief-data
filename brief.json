@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T16:20:06-04:00",
+ "generated": "2026-09-10T17:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -537,6 +537,16 @@
      "quote": "He covered it up this time and had 1/2 of the one side all the way to the plastic bag!"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Client message 5:00pm Sep 10",
+     "office": false,
+     "note": "Client says Wanda and Becca are being asked to leave the light above the kitchen sink on, and she would like whoever does the AM visit to switch it off. She specifies the right-hand switch controls that light; the left-hand switch is the garbage disposal. Written the evening of Sep 10, so it applies to the next morning visit.",
+     "quote": "The switch is on the right side the left side does the garbage disposal."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -545,16 +555,6 @@
      "office": false,
      "note": "Warm-weather sensitivity: Gordy walked in his sun jacket and refused his post-walk treat because he was too warm and wanted to cool off. Same visit logged his #2 as a little loose but not concerning. Kathy noted this was her first walk with him.",
      "quote": "I offered him a treat when we got home, but he was too warm and just wanted to cool off."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Client message, Tue Sep 8 2:54pm ET",
-     "office": true,
-     "note": "Replying to Kathy Pastor's report that Gordy was too warm to take his post-walk treat, Anna says he would like an earlier cooler walk tomorrow. She phrases it as a preference rather than a formal request and no new time has been confirmed back to her, so it is unclear whether Wed Sep 9 is meant to move.",
-     "quote": "He will like an earlier cooler walk tomorrow."
     }
    ],
    "dormant": false
@@ -2870,6 +2870,16 @@
      "quote": "Won’t be available for a walk. Please cancel. Thanks."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Dan Dantimo message to client 4:49pm Sep 10",
+     "office": false,
+     "note": "ANSWERED: Dan Dantimo told the client at 4:49pm that he will be there by 5:30. This closes her 1:17pm request to move today's visit to 5:30 around Holly's grooming appointment, which had been unanswered all afternoon.",
+     "quote": "Hi Lynne be there by 530"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2918,16 +2928,6 @@
      "office": false,
      "note": "Holly is struggling in the current heat with an ungroomed coat - the client says she is reluctant to go outside even to toilet. Keep any outings very short while this holds.",
      "quote": "She is hesitate to even go out for her business."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Client message, Aug 29 5:58pm",
-     "office": true,
-     "note": "Thirty-seven minutes later Lynne replied to a message from Miranda saying she is still deciding and needs to check the weather. The question she is answering is not reproduced in the notification, so what is still undecided is unclear - a decision from her is outstanding.",
-     "quote": "Im still thinking. Have to check weather"
     }
    ],
    "dormant": false
@@ -4371,6 +4371,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Client message 4:45pm Sep 10",
+     "office": false,
+     "note": "Client asks the sitter to bring in a package that was delivered and left on the front porch. Tiarra Roberts confirmed at 4:47pm that this will be done and that she will send a photo of the package inside the house.",
+     "quote": "It should be on the front porch. Thank you"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -4379,6 +4389,16 @@
      "office": false,
      "note": "Suzanne edited P's care note twice on Sep 7. The new line limits the portion size at each wet-food feeding. The rest of the note is unchanged: wet food twice daily, morning between 6:30am and 8am and afternoon between 4pm and 5pm, timed about 45 minutes either side of the automatic feeder so she does not get sick.",
      "quote": "PLEASE only give her a little wet food at each feeding."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Client message 4:47pm Sep 10",
+     "office": false,
+     "note": "Client reports she is departing on the afternoon of Sep 10 - she says they are just taking off, and the sitter replied 'Safe travels'. No return date given in the message.",
+     "quote": "Thank you!!! We are just taking off."
     },
     {
      "cat": "home",
