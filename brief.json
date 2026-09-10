@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T14:20:09-04:00",
+ "generated": "2026-09-10T15:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1196,11 +1196,31 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Tiarra Roberts, Sep 10 2:39pm",
+     "office": false,
+     "note": "Pet Care Note rewritten. The off-leash rule now names Riggs and narrows his trigger from 'other animals' to SMALL animals - check the fenced area, by the deck especially, before unclipping.",
+     "quote": "Please check for animals in the fenced in area before releasing Riggs off the leash, he is triggered by small animals."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Aug 20",
      "source": "Tiarra Roberts",
      "office": false,
      "note": "Riggs must not be unclipped in the fenced area until it has been checked for animals, as the care note records he is reactive to wildlife.",
      "quote": "Please check for animals in the fenced in area before releasing him off the leash, he is triggered by other animals."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:39pm",
+     "office": false,
+     "note": "New in the Company Notes: food comes pre-portioned in bags and a little water must be added before the bowl is given to Riggs. Treats are next to the fridge.",
+     "quote": "If feeding, bags will be pre-portioned out. A little bit of water must be added before giving bowl to Riggs."
     },
     {
      "cat": "behavior",
@@ -1231,6 +1251,16 @@
      "office": false,
      "note": "The gate to the fenced potty area sticks and the latch must be pushed all the way down.",
      "quote": "The gate latch tends to stick and may need to be lifted to latch and unlatch."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:39pm",
+     "office": false,
+     "note": "Poop bags go in the black trash can in front of the garage door. Bins out Wednesday evening, in Thursday, if the family is away.",
+     "quote": "Dispose of used poop bags in the black trash can in front of garage door."
     }
    ],
    "dormant": false
@@ -2949,6 +2979,36 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:34pm",
+     "office": false,
+     "note": "Company Notes now state the back yard is NOT fenced, so Oakley must be on a leash or the long lead any time he is outside. The long lead is at the house.",
+     "quote": "Backyard is NOT fenced — must use leash or long lead (available)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Tiarra Roberts, Sep 10 2:34pm",
+     "office": false,
+     "note": "New line on the hiding note: hardwood floors frighten Oakley. If he does not come down, check the main-floor bedroom, possibly the closet.",
+     "quote": "The hardwood floors can scare him."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Tiarra Roberts, Sep 10 2:34pm",
+     "office": false,
+     "note": "Take shoes off on entering. Paw care is the paw wash in the laundry room plus the towel on the back of the laundry room door; the line about extra towels by the back door was removed.",
+     "quote": "Please take shoes off when entering house."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -2989,6 +3049,16 @@
      "quote": "Oakley might be hiding upstairs, if he does not come down for you please look in bedroom"
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:34pm",
+     "office": false,
+     "note": "Orange leash and harness in the laundry room. Dining room now holds a food bowl as well as the water bowl. Treats on the counter by the paper towels; poop bags in the small bin by the garage trash cans.",
+     "quote": "One water bowl and one food bowl in dining room"
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -3027,16 +3097,6 @@
      "office": false,
      "note": "Client replied that she will clean the basement herself tonight, closing out this morning's accident and the missing carpet cleaner. No office action needed.",
      "quote": "And no worries about the basement, we’ll get it cleaned tonight."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Ashley Corall visit report, 10:58am",
-     "office": false,
-     "note": "Oakley left his breakfast after a hot, humid walk. Ashley rinsed his paws, refreshed his water and expected him to eat once he cooled down. Worth a check on the next visit if it repeats.",
-     "quote": "He didn’t feel like his breakfast when we got back"
     }
    ],
    "dormant": false
@@ -3672,6 +3732,16 @@
      "quote": "FOOD AND WATER IS IN THE DINING ROOM NEXT TO THE SLIDING GLASS DOOR."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:12pm",
+     "office": false,
+     "note": "Frank has a grain allergy. It is in the Company Notes only, not the Pet Care Note, so anyone working from the care note alone will not see it. Food is Wellness Core dry, free-fed. No reaction detail given.",
+     "quote": "Allergies: Frank - Grain allergy"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -3700,6 +3770,66 @@
      "office": false,
      "note": "Both cats are social but may hide under the bed; Frankie is the chubbier one, Theo the slender one. Churu/paste is left on the kitchen counter - one pack a day in the small glass bowl the client provides, washed before refilling. Theo is the one who mainly wants it.",
      "quote": "PLEASE GIVE ONE PACK A DAY ON A SMALL GLASS BOWL THAT SHE WILL PROVIDE. WASH IT BEFORE ADDING NEW CHURU."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Tiarra Roberts, Sep 10 3:05pm",
+     "office": false,
+     "note": "Added to the top of the Pet Care Note at 3:05pm: shoes come off at the front door.",
+     "quote": "SHOES OFF AT FRONT DOOR"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:12pm",
+     "office": false,
+     "note": "Scooped litter disposal has CHANGED - the old rule was a bucket on the front porch, explicitly not the garage trash. Now scoop into the provided bag and put it in the garbage can in the garage. One box, office, across from the computer, front lid tilts up.",
+     "quote": "Scoop into bag and dispose of bag in garbage can located in garage."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:22pm",
+     "office": false,
+     "note": "With the cats no longer confined upstairs the hiding spots have changed: Theo may be under the bed or in the basement, reached by the hallway off the kitchen next to the interior garage door. Frank is very vocal.",
+     "quote": "Favorite hiding spots: Under the bed or in basement (Theo), hallway to the basement is in the kitchen, next to interior garage door."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:12pm",
+     "office": false,
+     "note": "Standing household task at every visit: put the TV on a nature channel for the cats.",
+     "quote": "turn on the TV with the remote and make sure it's set on a nature channel (BBC Earth) or Cat TV on YouTube"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Pet Care Note updated by Tiarra Roberts, Sep 10 2:22pm",
+     "office": false,
+     "note": "Churu wording settled after several edits today: wash the small glass bowl if used, squeeze one packet in, set it next to the food and water. Theo is the one who wants it.",
+     "quote": "Wash bowl if used and squeeze packet of Churu into bowl and place next to food/water."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:12pm",
+     "office": false,
+     "note": "Mailbox next to the front stairs; mail on the dining room table, packages inside the front door. Bins out Tuesday night, Wednesday is trash day.",
+     "quote": "Where to place mail: Dining room table, place packages inside front door."
     }
    ],
    "dormant": false
