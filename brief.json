@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T19:20:05-04:00",
+ "generated": "2026-09-09T20:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3139,6 +3139,16 @@
      "quote": "I do not wish to have a walker on the 7th of September."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 9",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Evening walk: Guinness's new harness made him much easier to control, including through two dog encounters, and seemed to keep him walking more. Single observation so far, not yet a standing rule.",
+     "quote": "with that new harness, it was so much easier to control Guinness"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3237,16 +3247,6 @@
      "office": false,
      "note": "Guinness went #2 twice on the evening walk; sitter logged the consistency as slightly loose and not concerning. Worth a look on the next visit.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Guinness went #2 on the Aug 28 evening walk and the consistency was again logged as a little loose but not concerning - the same reading as Aug 24, 25 and 27, so four reports in five days rather than a one-off.",
-     "quote": ""
     }
    ],
    "dormant": false
