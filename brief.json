@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T11:20:05-04:00",
+ "generated": "2026-09-10T12:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -184,6 +184,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Sep 10",
+     "source": "Client message, Sep 10",
+     "office": false,
+     "note": "Replying to the Sep 10 midday report, the client confirms the dog heads straight for the toilet whenever the water bowl is empty - in context of the sitter's report this is Puck, though the client says only 'she'. Keep the water bowl topped up and the lid down.",
+     "quote": "Yes she goes straight for the toilet if the water bowl is empty"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Sep 9",
      "source": "Shannon Anderson message to Mary Gilmore, Wed Sep 9 9:36am; client replied 'Yes please!' at 9:56am",
@@ -272,24 +282,14 @@
      "quote": "I herded her through the crack in the gate (which is secured closed) so that we could avoid the possibility of an altercation."
     },
     {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Outside time was kept short on the Sep 9 morning visit because of the heat. Both girls finished going potty on a second trip out.",
-     "quote": "We didn't stay out long, just long enough for them to go potty, since it was already really warm"
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
-     "date": "Sep 9",
-     "source": "Shannon Anderson evening visit report",
+     "date": "Sep 10",
+     "source": "Shannon Anderson visit report, Sep 10",
      "office": false,
-     "note": "Rain at the Sep 9 evening visit. Rusty went out happily and wanted to play; Puck had to be coaxed outside with treats and did not want to stay out. One observation, in line with her noise sensitivity already on file.",
-     "quote": "Rusty went out no problem but Puck I had to bribe with some treats, but she went."
+     "note": "Sep 10 midday visit: the sitter had to stop Puck drinking out of the toilet. Both girls went #1 and #2 in the fenced back yard and both were logged firm and healthy; no accidents in the house.",
+     "quote": "I had to stop Puck from trying to drink out of the toilet."
     }
    ],
    "dormant": false
@@ -333,6 +333,16 @@
      "office": true,
      "note": "Client cancelled Aug 24 and Aug 25 visits via a request submitted Saturday and messaged to make sure it had been seen. Confirm the cancellation was actually processed.",
      "quote": "I put in a request on Saturday to cancel today and tomorrow’s visits."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Thomas Rakovec visit report, Sep 10",
+     "office": false,
+     "note": "Ambiguous: in the written report the sitter says Louie did not go, but the checklist for Louie on the same report logs #1 as Yes. The two disagree, so treat Louie's toileting as unconfirmed today and check at the next visit. Stella and Berry both went #1 and #2, firm and healthy; Emma's eye drops given and Berry's diaper back on.",
+     "quote": "let everyone go no.#1 except Louie he didn't feel like it today"
     },
     {
      "cat": "health",
@@ -974,6 +984,26 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Elizabeth Sigler visit report, Sep 10",
+     "office": false,
+     "note": "Handling note from the Sep 10 visit: the sitter carried Chloe down every set of stairs on the way outside. One sitter, one visit - the report does not say this was asked for, so do not treat it as a standing instruction yet.",
+     "quote": "I made sure to carry her down any stairs we encountered"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Elizabeth Sigler visit report, Sep 10",
+     "office": false,
+     "note": "Adds detail to the existing keep-Chloe-out-of-the-hedges rule: on the Sep 10 walk the sitter also steered her clear of other plants and the little yellow lawn flags. Chloe took it well. The email does not say who set the wider rule.",
+     "quote": "keep her away from the hedges (and anything else that sticks out like other plant types or the little yellow flags)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Sep 8",
      "source": "Harvett Ellington visit report, Tue Sep 8 morning",
@@ -1040,16 +1070,6 @@
      "office": false,
      "note": "On the Sep 3 early-afternoon visit Chloe's eyes looked a little swollen. She was asleep upstairs in the office when the sitter came in, made her way down slowly and walked more carefully than usual, but was otherwise fine - water refreshed, ate some breakfast, went #1. Worth watching on the next visit; no vet contact is mentioned in the report.",
      "quote": "Her eyes definitely looked a little swollen but she seemed to be okay on our walk, she just walked more carefully."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Alex Miller visit report, Sep 2 morning",
-     "office": false,
-     "note": "Chloe's morning walk was shortened for the heat and kept mostly in the shade. She went #1 but no #2. No accidents in the house; water bowl cleaned and refilled.",
-     "quote": "It’s pretty hot out today and we ended up shortening the walk a bit"
     }
    ],
    "dormant": false
