@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T16:20:06-04:00",
+ "generated": "2026-09-11T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -972,6 +972,16 @@
      "quote": "I came in and was approached by Ellie Mae she followed me to get Chloe leashed them both up and went on our walk."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Elizabeth Sigler visit report",
+     "office": false,
+     "note": "Chloe was hacking and wheezing a bit after her short Sep 11 walk. The sitter described it as not abnormal for her but flagged it anyway. Same report notes the sitter kept her clear of hedges and anything that could poke her face.",
+     "quote": "She was hacking and wheezing a bit. Not in a way that's abnormal for her but I still thought it was worth nothing."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1050,16 +1060,6 @@
      "office": false,
      "note": "Client says Chloe has a doctors appointment this afternoon. She does not say what for; the swollen eyes seen Sep 3 are unconfirmed as the reason.",
      "quote": "Hey Chloe has a doctors appointment this afternoon"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Jade Popovitz visit report",
-     "office": false,
-     "note": "On the Sep 3 early-afternoon visit Chloe's eyes looked a little swollen. She was asleep upstairs in the office when the sitter came in, made her way down slowly and walked more carefully than usual, but was otherwise fine - water refreshed, ate some breakfast, went #1. Worth watching on the next visit; no vet contact is mentioned in the report.",
-     "quote": "Her eyes definitely looked a little swollen but she seemed to be okay on our walk, she just walked more carefully."
     }
    ],
    "dormant": false
@@ -3586,6 +3586,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 11",
+     "source": "Elizabeth Sigler visit report",
+     "office": true,
+     "note": "On the Sep 11 midday walk Whiskey started with less energy than usual and his stool turned to diarrhea by the end of the walk; sitter gave only a small piece of chicken jerky and left the food bowl as it was. Sitter photographed the stool. Client had reported loose stool in the crate the previous evening, so this is a second episode - worth an office check on whether a vet call is wanted.",
+     "quote": "At first, the poo seemed normal. But then by the end what was coming out of him turned into diarrhea."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 10",
      "source": "Elizabeth Sigler visit report",
      "office": true,
@@ -3691,16 +3701,6 @@
      "office": false,
      "note": "Diarrhea in his crate on the evening of Sep 10, solid bowel movement the next morning, so it appears settled. Client raised it himself and is not asking for anything. Flag only if it recurs.",
      "quote": "Whiskey unfortunately had some diarrhea in his crate when I came home yesterday evening"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Erik Risa message",
-     "office": false,
-     "note": "Erik answered the water question: Whiskey may drink from anywhere he likes, just not his human's water glasses or standing water on the ground. He adds Whiskey is loving chicken jerky treats lately.",
-     "quote": "He can drink from wherever he wants as long as it’s not his human’s water glasses"
     }
    ],
    "dormant": false
@@ -4799,6 +4799,27 @@
      "office": false,
      "note": "On the Sep 11 morning visit Bella kept her distance - she greeted the sitter at the door but then watched from across the room and would not come over, and only took a small handful of dry food by hand right at the end. The visit report also marked both pets as a little shy.",
      "quote": "I sat for a little bit seeing if Bella would come over she didn’t"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Christine Jenison",
+   "url": "https://www.timetopet.com/dashboard/client/tl5t9aI82VKp",
+   "pets": [
+    "Weezy",
+    "Frank"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Shannon Anderson and Elizabeth Cuffari messages",
+     "office": false,
+     "note": "New client. Meet-and-greet held Sep 11 at about 4pm with Shannon Anderson and Elizabeth Cuffari. Pets are Weezy and Frank (Frank also called Frankie). No handling, access or feeding details appear in any message yet.",
+     "quote": "It was wonderful meeting everyone. Can't wait to start visiting with Weezy and Frankie"
     }
    ],
    "dormant": false
