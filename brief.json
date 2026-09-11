@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T15:20:14-04:00",
+ "generated": "2026-09-11T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2486,6 +2486,16 @@
      "quote": "I used the last can of fish and shrimp today."
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Pet Care Note, Tiarra Roberts",
+     "office": false,
+     "note": "Jaxon, the black cat, bangs cabinet doors when he wants food. Leave the basket in front of the bathroom sink where it is, or he will do it there too. The white cat hides under the bed, in the closet (left shelf or back right corner) or on top of the kitchen cabinets.",
+     "quote": "Will slam cabinets for food"
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -2951,6 +2961,16 @@
     "Oliver"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Pet Care Note cut down by Tiarra Roberts",
+     "office": true,
+     "note": "Oliver's Pet Care Note was cut down twice on Sep 11 and the heating pad setting went with it. The note now reads only: check the fridge first before opening a new wet food can, and fill both water glasses to the brim. Deleted and not replaced anywhere: the heating pad instruction, the do-not-pet warning, topping off the dry food in the bedroom by the full-length mirror, and half a can of wet food morning and evening. Needs restoring or confirming.",
+     "quote": "Reprogram Oliver's heating pad at each visit for 95 degrees at 12 hours"
+    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -4594,6 +4614,191 @@
      "office": false,
      "note": "Archie's vaccination restriction has been lifted - 'backyard potty only until May 16, no walks until he has his shots' was removed from both the Pet Care Note and Company Notes, and the instruction now reads to walk him around the house for potty time. Collar only, no harness; leash and poop bags by the back door. Stays in the play pen when unattended, no feeding.",
      "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Tom Noble",
+   "url": "https://www.timetopet.com/dashboard/client/t22obpu20tu2",
+   "pets": [
+    "Helios"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes rewritten by Tiarra Roberts",
+     "office": false,
+     "note": "Helios has a loud bark. Stay calm and mostly ignore him when you first come in. A sitter who is new to him should wait outside while someone brings Helios out to meet them.",
+     "quote": "Has a loud bark, stay calm and mostly ignore when first interacting"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes rewritten by Tiarra Roberts",
+     "office": false,
+     "note": "Crate routine changed on Sep 11. To get Helios back into his basement crate, throw a treat in and he will run in after it. The older instruction - say the word crate, then give him a treat once he is inside - was removed. He wears a prong collar and his leash hangs by the side door.",
+     "quote": "When finished, throw treat into crate and he will run in"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Beth Nickel",
+   "url": "https://www.timetopet.com/dashboard/client/tgmsecNHtd45",
+   "pets": [
+    "Louie",
+    "Lanie"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes rewritten by Tiarra Roberts",
+     "office": false,
+     "note": "Louie is on Apoquel for skin allergies. It goes with the morning and evening feedings only and is not given at midday visits. The Sep 11 edit moved this into the medication section and dropped the separate line that said he has skin allergies.",
+     "quote": "Louie receives Apoquel for skin allergies"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes rewritten by Tiarra Roberts",
+     "office": false,
+     "note": "Both dogs bark and can be apprehensive meeting someone new. Louie is the more protective of the two, Lanie is shy at first, and both usually settle once they are comfortable. Neither has shown any interest in escaping. Backyard time only, no walks required.",
+     "quote": "Both dogs can be a little apprehensive and bark when first meeting someone."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Denise Spurio",
+   "url": "https://www.timetopet.com/dashboard/client/sndi9yX1koM5",
+   "pets": [
+    "Blue",
+    "Princess",
+    "Tom"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes rewritten by Tiarra Roberts",
+     "office": false,
+     "note": "Princess the cat gets half a thyroid pill morning and half evening, crushed and mixed into her wet food, which goes on the cat tree below the dry bowl. Log the time on the notepad on the kitchen island and wash hands well afterwards - the note says thyroid medication can affect humans.",
+     "quote": "Thyroid medication: 1/2 pill AM and 1/2 pill PM"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes rewritten by Tiarra Roberts",
+     "office": false,
+     "note": "Blue the dog can reach Princess's medicated wet food, so stay and watch that she actually eats hers.",
+     "quote": "Blue can reach Princess's wet food, so monitor meals and make sure Princess has the opportunity to eat her medicated food"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes rewritten by Tiarra Roberts",
+     "office": false,
+     "note": "Blue gets very worked up at the word walk, so do not use it unless you are actually about to take him out. There are no sidewalks right by the house - use the mowed grass paths out to the sidewalk.",
+     "quote": "Do not say the word “walk” unless you are actually taking him for a walk, as he gets very excited"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes rewritten by Tiarra Roberts",
+     "office": false,
+     "note": "The notes say Blue's escape risk is not known at the new address, so treat him as an unknown at doors. He may also have urine accidents indoors; Equalizer cleaner is in the laundry room above the washer.",
+     "quote": "Escape risk is unknown at the new location"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Pet Care Note replaced by Tiarra Roberts",
+     "office": true,
+     "note": "The Pet Care Note was replaced on Sep 11 with a single line about checking the fridge for an open cat food can. What it replaced was the 6PM routine: feed Blue, Princess and Tom the fish, turn off Tom's light, and give Blue and Princess their meds at that feeding. The medication detail does still exist in Company Notes, so this is a duplication being removed rather than lost outright - worth confirming that was intended.",
+     "quote": "Blue and Princess gets meds when we feed."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Sharon Maresco",
+   "url": "https://www.timetopet.com/dashboard/client/tf5d38zkOThk",
+   "pets": [
+    "Mr Crowley",
+    "Miss Ashley"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes rewritten by Tiarra Roberts",
+     "office": false,
+     "note": "Both cats are shy and may take a while to come out. Bubby (Mr Crowley) is a climber, Sweet Pea (Miss Ashley) is the one more likely to hide - office behind the books, under the office couch, in crates or behind the bookshelf. Try to lay eyes on both cats every visit.",
+     "quote": "Try to visually confirm both cats during visits"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes rewritten by Tiarra Roberts",
+     "office": false,
+     "note": "Two wet cans per visit, split unevenly: one and a half cans for Mr Crowley, who eats no dry food, and half a can for Miss Ashley next to her dry bowl. Miss Ashley eats on the right, Mr Crowley on the left. Both litter boxes get scooped every visit.",
+     "quote": "1 and 1/2 can for Mr crowley (he does not eat dry food)"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Alan & Bridgette Wiggers",
+   "url": "https://www.timetopet.com/dashboard/client/t8rr5iNR1BDt",
+   "pets": [
+    "Bella",
+    "Chloe"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Chelsea Tompkins visit report 9:43am Sep 11",
+     "office": false,
+     "note": "Chloe gets a liquid medication mixed into a churu treat and served on a plate upstairs. She is usually under the blankets and has to be uncovered to get it to her. Bella gets whatever churu is left over.",
+     "quote": "I got Chloe‘s liquid medicine ready and mixed with the churro"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Chelsea Tompkins visit report 9:43am Sep 11",
+     "office": false,
+     "note": "On the Sep 11 morning visit Bella kept her distance - she greeted the sitter at the door but then watched from across the room and would not come over, and only took a small handful of dry food by hand right at the end. The visit report also marked both pets as a little shy.",
+     "quote": "I sat for a little bit seeing if Bella would come over she didn’t"
     }
    ],
    "dormant": false
