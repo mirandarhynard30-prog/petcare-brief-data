@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T18:20:05-04:00",
+ "generated": "2026-09-11T19:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3202,6 +3202,16 @@
      "quote": "I do not wish to have a walker on the 7th of September."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Dan Dantimo visit report, Sep 11 6:44pm",
+     "office": true,
+     "note": "On the Sep 11 evening walk Guinness went both #1 and #2 and Dan logged the consistency as a little loose but not concerning. The brief already carries that same answer on Aug 27, Aug 31, Sep 1, Sep 2, Sep 4 and Sep 8, so this is a run of loose stools going back more than two weeks. Nobody has raised a vet call. Deb was home for this visit and asked that the door not be locked.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3300,16 +3310,6 @@
      "office": false,
      "note": "Sep 2 evening visit with a sitter meeting Guinness for the first time: he went both #1 and #2 and the consistency was logged as firm and healthy. Deb Ward's recent reports had been logging his stool as a little loose but not concerning, so this one reads differently. Client was home, so the sitter did not go through the house.",
      "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Dan Dantimo visit report 7:28pm",
-     "office": false,
-     "note": "Guinness went #2 twice on the evening walk; sitter logged the consistency as slightly loose and not concerning. Worth a look on the next visit.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -4435,6 +4435,16 @@
      "quote": "Tiarra told me 3x treats a day we only gave 2 just to make sure."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Monica Hopewell morning visit report, Sep 11 9:22am",
+     "office": true,
+     "note": "Same-day counterpoint to the evening report that found nothing in the litter box: at the Sep 11 morning visit Monica went upstairs, tended the litter box and recorded it as normal, then topped it up with an extra scoop of litter. So P was using the box earlier that day. P was not in sight on arrival but came out after the squirrels were fed, ate her wet food and had her dry food checked.",
+     "quote": "Everything looked normal and I added an extra scoop of litter into it so the bottom was fully covered."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4854,6 +4864,46 @@
    "items": [
     {
      "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Shannon Anderson contact-information update, Sep 11 6:38pm",
+     "office": false,
+     "note": "Company Notes were filled in for the first time for this new client (previously blank). The behavior section flags the dogs as NOT dog friendly and as an escape risk, so do not let them meet other dogs and be careful at doors and the gate.",
+     "quote": "Escape risk: Yes"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Shannon Anderson contact-information update, Sep 11 6:38pm",
+     "office": false,
+     "note": "Frank, the male French bulldog, has excitement urination on greeting. Keep your voice calm when you first meet him.",
+     "quote": "Frank can get the excited pees so have a calm voice when meeting."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Shannon Anderson contact-information update, Sep 11 6:38pm",
+     "office": false,
+     "note": "Standing instruction for Weezy: give eye drops if her left eye is full of goop. The drops are kept in the same cabinet as the treats, the left cabinet above the stove. The note does not say a dose or a frequency.",
+     "quote": "Weezy- Use eye drops if you see left eye full of goop"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Shannon Anderson contact-information update, Sep 11 6:38pm",
+     "office": false,
+     "note": "Visit type is backyard only - no walks. Water is a fountain in the kitchen next to the back door; treats are in the left cabinet above the stove.",
+     "quote": "No walks required, just backyard time only."
+    },
+    {
+     "cat": "behavior",
      "sev": "low",
      "type": "recent",
      "date": "Sep 11",
@@ -4861,6 +4911,16 @@
      "office": false,
      "note": "New client. Meet-and-greet held Sep 11 at about 4pm with Shannon Anderson and Elizabeth Cuffari. Pets are Weezy and Frank (Frank also called Frankie). No handling, access or feeding details appear in any message yet.",
      "quote": "It was wonderful meeting everyone. Can't wait to start visiting with Weezy and Frankie"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Shannon Anderson contact-information update, Sep 11 6:38pm",
+     "office": false,
+     "note": "No poop bags at this house. Use the poop scooper and toss waste over the railing. Cleaning supplies are under the kitchen sink. Park on the street on Riverway.",
+     "quote": "use poop scooper and toss over railing"
     }
    ],
    "dormant": false
