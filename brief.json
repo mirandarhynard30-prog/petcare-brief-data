@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T18:20:04-04:00",
+ "generated": "2026-09-11T15:20:14-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -440,6 +440,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 11",
+     "source": "Visit report, Renee Dougherty 9:16am",
+     "office": true,
+     "note": "Day two of GI trouble for Sampson. Renee found five spots to clean plus a poop on the pink carpet, no urine on the floor and none in the litter box either. She gave his half pill with churu. Yesterday afternoon the client reported the litter box was unusual. Two days of vomiting plus litter box irregularity is worth an office call about a vet check.",
+     "quote": "When I arrived, there was two spots of vomit on the hardwood floor and three spots on the pink carpet"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 5",
      "source": "Visit report - Lacey Govil",
      "office": false,
@@ -518,13 +528,13 @@
     },
     {
      "cat": "health",
-     "sev": "high",
+     "sev": "medium",
      "type": "recent",
-     "date": "Aug 20",
-     "source": "Client",
-     "office": false,
-     "note": "The client reports crystals found in the urine with an X-ray booked for 9am Monday; the message does not name the pet, though the thread concerns Gordy's urine sample.",
-     "quote": "I found out he has crystals in his pee."
+     "date": "Sep 11",
+     "source": "Client message, 9:28am",
+     "office": true,
+     "note": "Anna Marie's own read on the litter box - she thinks Sampson is choosing not to use it rather than being unable to. She has not asked for a vet visit and no office answer appears in the thread.",
+     "quote": "I don't know why he uses the litter box sometimes and doesn't other times!"
     },
     {
      "cat": "health",
@@ -545,16 +555,6 @@
      "office": false,
      "note": "Client says Wanda and Becca are being asked to leave the light above the kitchen sink on, and she would like whoever does the AM visit to switch it off. She specifies the right-hand switch controls that light; the left-hand switch is the garbage disposal. Written the evening of Sep 10, so it applies to the next morning visit.",
      "quote": "The switch is on the right side the left side does the garbage disposal."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Kathy Pastor visit report, 1:54pm",
-     "office": false,
-     "note": "Warm-weather sensitivity: Gordy walked in his sun jacket and refused his post-walk treat because he was too warm and wanted to cool off. Same visit logged his #2 as a little loose but not concerning. Kathy noted this was her first walk with him.",
-     "quote": "I offered him a treat when we got home, but he was too warm and just wanted to cool off."
     }
    ],
    "dormant": false
@@ -636,16 +636,6 @@
      "office": true,
      "note": "Client confirmed coverage: Robin to start Saturday Aug 29 (7:00 am and 11:30 am visits) and keep coming in until further notice. End date open, to be reviewed after Monday Aug 31. Office needs to build the visits on the schedule tonight.",
      "quote": "Have Robin start tomorrow and then keep coming in"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 20",
-     "source": "Client",
-     "office": true,
-     "note": "Messaging from hospital, the client said the next day's visit could be cancelled and that he needs cover for September 2nd.",
-     "quote": "Tomorrow's visit can be cancelled unless you still have to charge me. I will need you for September 2nd."
     },
     {
      "cat": "schedule",
@@ -829,6 +819,16 @@
      "quote": "She went #1 and #2 but the 2 was loose and after that she scooted a lot"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 10",
+     "source": "Private client message, 6:52pm",
+     "office": true,
+     "note": "Client (signs as Carol) cancelled the Sep 11 visit the evening before. Confirm it actually came off the schedule so nobody is dispatched.",
+     "quote": "we will not be needing service tomorrow"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -927,16 +927,6 @@
      "office": true,
      "note": "The noon visit Carol asked to cancel in her 6:30am message went ahead - Margaret's post-visit report shows she walked Lucy with Angela home. The cancellation was never processed; office should decide how this visit is billed and confirm the 4:00 is still on.",
      "quote": "Angela was in the dining room when I came up. Lucy was ready to go for her walk."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Margaret Bill visit report, Sep 2 2:50pm",
-     "office": true,
-     "note": "Third open-garage report today. Margaret found the garage door standing open AGAIN at the afternoon visit, hours after she closed it herself at the noon visit and after the client said this morning's was accidental. Sitters still have no standing rule on what to do; the office should get one in writing.",
-     "quote": "The garage door was open when I came in."
     }
    ],
    "dormant": false
@@ -1273,6 +1263,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Contact update by Tiarra Roberts, 10:40am",
+     "office": true,
+     "note": "Georgie's hot-weather protocol was deleted from the Current Pet Care Note, which now reads only 'Send ETA when on the way over'. Gone from every field: the 20-minute cap on outside time, 'if he is still panting after the walk leave the cooling collar on', and the post-walk ice cube. What survives is one line in Company Notes - orange cooling collar in the FRIDGE if over 75, slip harness over it. The deleted version said FREEZER, so the long-standing freezer/fridge contradiction got resolved by deletion rather than by decision. Restore the protocol and settle freezer vs fridge before the next warm-weather walk.",
+     "quote": "When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -1373,24 +1373,14 @@
      "quote": "Georgie is an escape artist."
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Pet Care Note rewritten by Tiarra Roberts, Sep 10 3:13pm",
-     "office": false,
-     "note": "New line added to the heat rule: an ice cube from the freezer may be given after walks. The rest of the heat rule is unchanged - over 75 degrees cap outside time at 20 minutes, orange velcro cooling collar from the kitchen freezer on before the walk with the slip harness over it, and leave the collar on afterwards if Georgie is still panting.",
-     "quote": "You can give him an ice cube from the freezer after walks."
-    },
-    {
      "cat": "home",
      "sev": "medium",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Pet Care Note rewritten by Tiarra Roberts, Sep 10 3:14pm",
-     "office": false,
-     "note": "Extra poop bags for the leash are on the dryer in the laundry room. This replaces the older wording about a small box on the dryer. Relevant to the Sep 8 report that the poop bag holder on the leash was empty.",
-     "quote": "Extra poop bags are located in laundry room on the dryer."
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Contact update by Tiarra Roberts, 10:43am",
+     "office": true,
+     "note": "The 'General Information - Added By Client' field was blanked, removing Mary Ann's own written instructions. Most of that content (ring the white doorbell before entering, bring mail in daily, Wednesday bins to curb / Thursday back in) still exists in Company Notes; her shut-the-utility-room-door instruction now survives only in Access Instructions.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -1494,6 +1484,16 @@
     "Lila"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Contact update by Tiarra Roberts, 10:47-10:48am",
+     "office": false,
+     "note": "Lila and India are kept apart at the start of every visit - they are very high energy together. Milo can be out with either girl individually. All three can be let out together towards the end of the visit.",
+     "quote": "We will keep Lila and India separated, at first, during the beginning of the visit."
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -1753,16 +1753,6 @@
      "office": false,
      "note": "The client reported mid-morning Friday that Eddie was still not eating and put it down to tiredness.",
      "quote": "Eddie still not eating"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 20",
-     "source": "Client",
-     "office": false,
-     "note": "Fresh cheese and broth were left out for the next day, which the client uses to get Eddie to eat.",
-     "quote": "there is new cheese and broth for tomorrow"
     }
    ],
    "dormant": false
@@ -1775,6 +1765,16 @@
     "Nova"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Contact update by Tiarra Roberts, 10:28am",
+     "office": false,
+     "note": "Leash hand-off has moved into the garage - do not go to the front door. The garage hand-off is specifically to stop the other dog running out of the house. Two dogs, walked one at a time: Astra in a black harness with teal leash, Nova in pink and purple with a rainbow leash. Send an ETA when headed her way.",
+     "quote": "Leash hand-off, inside garage now."
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -2428,7 +2428,9 @@
   {
    "name": "Helyn Cobourn",
    "url": "https://www.timetopet.com/dashboard/client/tbhykuNe4wj5",
-   "pets": [],
+   "pets": [
+    "Azuri"
+   ],
    "items": [
     {
      "cat": "schedule",
@@ -2439,6 +2441,16 @@
      "office": true,
      "note": "Client is pausing service for at least a month - cancel all of September, revisit at the start of October. Recurring template still shows Tues/Thurs midday visits, so the schedule needs clearing.",
      "quote": "Cancel all of September. Maybe check back beginning of oct."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Contact update by Tiarra Roberts, 10:22am",
+     "office": true,
+     "note": "A handling warning was deleted from Azuri's Pet Care Note and not replaced anywhere. It read that during new-people training sitters should stay in the driveway while the trainer brings him out, as he can get overwhelmed by lots of people at the leash hand-off or front door. Confirm with the client before walking up to the door.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -2810,6 +2822,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Client messages, 7:54am and 8:21am",
+     "office": false,
+     "note": "Door instruction changed within half an hour and the second message wins: front door UNLOCKED but CLOSED, not left open. Her earlier message said she would leave the front door open for the walker. She is also leaving a plate of food on the kitchen counter for Holly and asks that Holly have fresh water.",
+     "quote": "No, she can leave the front door unlocked but closed."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2918,16 +2940,6 @@
      "office": false,
      "note": "Holly's stool was recorded as a little loose again on the Mon Sep 7 evening walk - the second consecutive day after the same note on Sep 6. She went both #1 and #2 and the sitter did not flag it as concerning.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Dan Dantimo visit report, Sun Sep 6 3:34pm",
-     "office": true,
-     "note": "Dan Dantimo closed the Sunday visit report unsure whether he is scheduled for Holly on Mon Sep 7 and asked to be told later today. Office needs to confirm Monday's assignment with him.",
-     "quote": "I assume I'm here tomorrow, should know later today"
     }
    ],
    "dormant": false
@@ -3651,6 +3663,16 @@
      "quote": "If possible, could we change our start date to be one week from tomorrow on 9/7 please?"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Client message, 9:01am",
+     "office": false,
+     "note": "Diarrhea in his crate on the evening of Sep 10, solid bowel movement the next morning, so it appears settled. Client raised it himself and is not asking for anything. Flag only if it recurs.",
+     "quote": "Whiskey unfortunately had some diarrhea in his crate when I came home yesterday evening"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -3659,16 +3681,6 @@
      "office": false,
      "note": "Erik answered the water question: Whiskey may drink from anywhere he likes, just not his human's water glasses or standing water on the ground. He adds Whiskey is loving chicken jerky treats lately.",
      "quote": "He can drink from wherever he wants as long as it’s not his human’s water glasses"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Visit report, Harvett Ellington, Sep 10 3:19pm",
-     "office": false,
-     "note": "Sitter warns that Whiskey is moving off eating paper but is now going for sticks on walks, and asks the next sitter to watch him. Single sitter's observation on one walk, not yet a written rule.",
-     "quote": "Getting away from paper slowly, but be careful, he loving the sticks now."
     }
    ],
    "dormant": false
@@ -4367,9 +4379,20 @@
    "name": "Suzanne Slimak",
    "url": "https://www.timetopet.com/dashboard/client/temyfccWklos",
    "pets": [
-    "Perd (“P”)"
+    "Perd (“P”)",
+    "P"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Contact update by Tiarra Roberts, 10:57-10:58am",
+     "office": false,
+     "note": "New standing rule and now the entire Pet Care Note. Half a wet food container per feeding; the opened half goes back in the fridge with the provided lid on, so there should usually be an open can waiting.",
+     "quote": "Check fridge FIRST for open cat wet food can, before opening a new one"
+    },
     {
      "cat": "home",
      "sev": "medium",
@@ -4489,6 +4512,87 @@
      "source": "Client profile update via Time To Pet",
      "office": false,
      "note": "New client. Profile set up Sep 9, 2026 with home address in Brunswick OH, two emergency contacts, and both pets added. Entry is by garage door code - the code is in Time To Pet, not here.",
+     "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Jen Moyse",
+   "url": "https://www.timetopet.com/dashboard/client/tl49z2cPlLGF",
+   "pets": [
+    "Keke"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Client message, 12:48pm",
+     "office": true,
+     "note": "New client. Her recurring schedule came out wrong and she cannot delete it to start over. She wants it starting 1/4/2027, every other day, through 2/19/2027. She added pet Keke at 12:34pm and set her address at 12:30pm the same day. She replied 'Thank you!' at 2:57pm, so someone may already have answered - confirm the recurrence was actually fixed rather than assuming it was.",
+     "quote": "I want it starting on 1/4/2027 and every other day until 2/19/2027."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Brittany Lisbon",
+   "url": "https://www.timetopet.com/dashboard/client/td3cltqz92ry",
+   "pets": [
+    "Miley"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Contact update by Tiarra Roberts, 10:06-10:09am",
+     "office": false,
+     "note": "Miley gets blood pressure medication - one quarter pill each visit, in a pill pocket. Brittany pre-cuts the pills into quarters. Supplies, medication and the water jug are on the kitchen counter, along with a binder of instructions.",
+     "quote": "Miley is usually sleeping on the bed, in the bedroom"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Kayle Cruz",
+   "url": "https://www.timetopet.com/dashboard/client/rzys9fEzgLyf",
+   "pets": [
+    "Stormi",
+    "Maui"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Contact update by Tiarra Roberts, 10:33am",
+     "office": false,
+     "note": "Escape risk. Crate Maui before leaving and put the bench in front of the dog room door. Both dogs must have their collars on before going outside - the fence is invisible and only works with the collars on. Both stay in the dog room, immediately left of the front door, and go back there at the end of the visit.",
+     "quote": "Maui has learned how to open doors, escape his crate, and likes to chew things"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Jackie Martanovic",
+   "url": "https://www.timetopet.com/dashboard/client/tekphcq0eM0z",
+   "pets": [
+    "Archie"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Contact update by Tiarra Roberts, 10:23-10:25am",
+     "office": false,
+     "note": "Archie's vaccination restriction has been lifted - 'backyard potty only until May 16, no walks until he has his shots' was removed from both the Pet Care Note and Company Notes, and the instruction now reads to walk him around the house for potty time. Collar only, no harness; leash and poop bags by the back door. Stays in the play pen when unattended, no feeding.",
      "quote": ""
     }
    ],
