@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T17:20:05-04:00",
+ "generated": "2026-09-11T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4400,9 +4400,20 @@
    "url": "https://www.timetopet.com/dashboard/client/temyfccWklos",
    "pets": [
     "Perd (“P”)",
-    "P"
+    "P",
+    "Perd (\"P\")"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Yasmeen Abrams visit report, Sep 11 evening (shadowing Tiarra Roberts)",
+     "office": true,
+     "note": "Evening visit found nothing in the litter box, so the sitters recorded that P did not go #1 or #2 on this visit. The report's wording is ambiguous about whether the Litter Genie or the litter box itself was sifted, so treat the finding as 'nothing found', not a confirmed 24-hour count. Suzanne left town the afternoon of Sep 10 and P is alone in the house. No follow-up to the client about it is visible in this mail sweep, and this run did not open the Sep 11 morning report to see what that visit logged.",
+     "quote": "So She did not go number one or two."
+    },
     {
      "cat": "home",
      "sev": "medium",
@@ -4412,6 +4423,16 @@
      "office": false,
      "note": "New standing rule and now the entire Pet Care Note. Half a wet food container per feeding; the opened half goes back in the fridge with the provided lid on, so there should usually be an open can waiting.",
      "quote": "Check fridge FIRST for open cat wet food can, before opening a new one"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Yasmeen Abrams visit report, Sep 11 evening",
+     "office": false,
+     "note": "Treat limit for P relayed by Tiarra Roberts while training a new sitter: three treats a day. The trainee gave two. This limit is not written anywhere in the Pet Care Note or Company Notes as they currently stand.",
+     "quote": "Tiarra told me 3x treats a day we only gave 2 just to make sure."
     },
     {
      "cat": "home",
@@ -4432,6 +4453,26 @@
      "office": false,
      "note": "Suzanne edited P's care note twice on Sep 7. The new line limits the portion size at each wet-food feeding. The rest of the note is unchanged: wet food twice daily, morning between 6:30am and 8am and afternoon between 4pm and 5pm, timed about 45 minutes either side of the automatic feeder so she does not get sick.",
      "quote": "PLEASE only give her a little wet food at each feeding."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Tiarra Roberts message to client, Sep 11 evening",
+     "office": false,
+     "note": "P hides; on this visit two treats left at the edge of the upstairs bed brought her out to eat them. She was found under the upstairs bed. Trainee was also shown a hiding spot behind the couch.",
+     "quote": "at the edge of bed for P and she crawled out to eat them"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Tiarra Roberts message to client, Sep 11 evening",
+     "office": true,
+     "note": "Sitter left the kitchen sink light on and asked Suzanne whether that is still what she wants. No answer from the client is visible in this sweep. The Company Notes as rewritten Sep 11 still say to leave the kitchen light on above the sink, so the existing rule stands unless she says otherwise.",
+     "quote": "I know you've told us to do that before, not sure what you would like now."
     },
     {
      "cat": "schedule",
