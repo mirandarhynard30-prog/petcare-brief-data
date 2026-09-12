@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T06:20:05-04:00",
+ "generated": "2026-09-12T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -49,6 +49,16 @@
      "office": false,
      "note": "Livvie stays on morning gabapentin and the client gave the dose and storage details when Shannon Anderson asked to confirm them.",
      "quote": "Shannon her Gaba dose is 0.4 mls. Its kept in the refrigerator and administered with a syringe."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Kelly Huntington has sent you a new message",
+     "office": false,
+     "note": "Client wrote Sep 11 that she is relieved the cat is eating. She does not say which cat, though the earlier appetite and medication thread was about Livvie. Reads as the appetite worry continuing to settle rather than a new problem.",
+     "quote": "Yes its such a relief shes eating!"
     },
     {
      "cat": "behavior",
@@ -2040,6 +2050,26 @@
      "quote": "It looks like it’s going to be storming most of the day. Let’s cancel for today!"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Tiarra Roberts updated contact information for Charlene Szunyog",
+     "office": true,
+     "note": "The Sep 11 note rewrite deleted the water section from the Company Notes and no water instruction now appears in either the Pet Care Note or the Company Notes. Previously it read that there is one bowl in the kitchen and to refill if needed. Office should decide whether to put it back.",
+     "quote": "1 water bowl in kitchen"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Tiarra Roberts updated contact information for Charlene Szunyog",
+     "office": false,
+     "note": "Arrival procedure as rewritten Sep 11: client is home, send an ETA on the way, park in the driveway behind the truck unless told to park in the street, then close the garage door and knock on the glass door inside the garage for the leash hand-off.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2090,14 +2120,24 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 19",
-     "source": "Client",
-     "office": true,
-     "note": "An extra evening visit was agreed for Saturday Aug 22 at 5:00pm so Mac gets fed while the family is out.",
-     "quote": "5:00pm is great! I'll have his food in his bowl covered with saran wrap on the island counter."
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Tiarra Roberts updated contact information for Diane Hoard",
+     "office": false,
+     "note": "Company Notes as rewritten Sep 11: drop-in visits only, fenced backyard only and no walks - let Mac out in the back yard instead. Commands he knows are Bed, Out (drop toy), Come, and Ok (release to go outside).",
+     "quote": "Drop-in visits only, fenced backyard only (no walks)"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Tiarra Roberts updated contact information for Diane Hoard",
+     "office": false,
+     "note": "Feeding as rewritten Sep 11: feed twice daily, morning and evening, if needed, two scoops of dry food per feeding. Food and treats are on the coffee bar near the kitchen. Two water bowls - one in the dining room, the second on the deck in the back yard.",
+     "quote": "2 scoops dry food per feeding"
     },
     {
      "cat": "home",
@@ -2110,17 +2150,27 @@
      "quote": "PLEASE ENSURE WOODEN WHITE FRONT BLINDS ARE OPEN FOR MAC TO LOOK OUT - 2ND WATER BOWL NOW ON PATIO IN THE BACKYARD"
     },
     {
-     "cat": "health",
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Tiarra Roberts updated contact information for Diane Hoard",
+     "office": false,
+     "note": "Waste and supplies as rewritten Sep 11: poop bags are by the front door and used bags go on top of the outside trash can. Toys are in the container behind the recliner beside the food bowls.",
+     "quote": "Place poop bags on top of outside trash can"
+    },
+    {
+     "cat": "home",
      "sev": "low",
      "type": "recent",
-     "date": "Aug 19",
-     "source": "Client",
-     "office": false,
-     "note": "A sitter flagged something about Mac's lip and the client said she would look at it at home; no follow-up appears this week.",
-     "quote": "Thanks for letting me know about his lip. I will check it out when I get home!"
+     "date": "Sep 11",
+     "source": "Tiarra Roberts updated contact information for Diane Hoard",
+     "office": true,
+     "note": "The Sep 11 edit cleared Diane Hoard's Pet Care Note to empty. The blinds and second-water-bowl instructions that used to sit there still appear in the Company Notes, so nothing looks lost, but the Pet Care Note is now blank - office may want to confirm that was intended.",
+     "quote": ""
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Kristin Brewer",
@@ -3080,6 +3130,16 @@
      "office": true,
      "note": "Ray cancelled tomorrow's visit (Mon Sep 7) and expects service to resume Tuesday Sep 8. Sent as a message, not through the portal, so the visit is still on the schedule until the office removes it. Addressed to Tommy.",
      "quote": "Tommy I just realized I won’t need your services tomorrow, have a great day and we will see you Tuesday."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Thomas Rakovec left a message for Ray Koesel",
+     "office": false,
+     "note": "On the Sep 11 walk Archie went both #1 and #2 and the stool was logged firm and healthy. Follows the Sep 1 visit where he had no bowel movement, so that watch item looks closed. Sitter's note says see you Monday.",
+     "quote": "It was firm and healthy"
     },
     {
      "cat": "health",
