@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T13:20:06-04:00",
+ "generated": "2026-09-12T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3976,6 +3976,16 @@
      "office": false,
      "note": "For the 9/19 visit Krysten wants an afternoon snack given plus the normal potty and play routine.",
      "quote": "We will ask him to give an afternoon snack and do the normal potty/play."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 12",
+     "source": "Krysten Whitesel private message, Sep 12 1:09pm",
+     "office": false,
+     "note": "Follow-up on the 9/19 afternoon snack she asked for: it is a small portion of the pets' own kibble, no pumpkin, and she will leave it in their bowls ready to go. She said she would also post this in the other chat.",
+     "quote": "It’ll just be a small portion of their kibble, no pumpkin needed. We will have it in their bowls ready to go!"
     }
    ],
    "dormant": false
