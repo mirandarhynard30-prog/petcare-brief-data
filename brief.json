@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T19:20:08-04:00",
+ "generated": "2026-09-11T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1273,6 +1273,16 @@
      "quote": "When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Tiarra Roberts visit report, Sep 11 evening",
+     "office": true,
+     "note": "On the Sep 11 evening visit the sitter reports Mary Ann had what she calls the last set of eyedrops ready and held Georgie while Mary Ann gave them; medication was logged as administered. The report does not actually say the course has ended, so the office should confirm whether eye drops stop after this and get the answer written into the care note - there is still no eye-drop instruction on file.",
+     "quote": "Mary Ann had the last set of eyedrops ready, so I held him while she administered them."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -1371,16 +1381,6 @@
      "office": false,
      "note": "The care record flags Georgie as an escape risk, which is why the garage door is closed before entry and during walks.",
      "quote": "Georgie is an escape artist."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Contact update by Tiarra Roberts, 10:43am",
-     "office": true,
-     "note": "The 'General Information - Added By Client' field was blanked, removing Mary Ann's own written instructions. Most of that content (ring the white doorbell before entering, bring mail in daily, Wednesday bins to curb / Thursday back in) still exists in Company Notes; her shut-the-utility-room-door instruction now survives only in Access Instructions.",
-     "quote": ""
     }
    ],
    "dormant": false
