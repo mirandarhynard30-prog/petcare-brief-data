@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T09:20:05-04:00",
+ "generated": "2026-09-12T10:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -390,6 +390,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 12",
+     "source": "Lacey Govil visit report 9:27am",
+     "office": true,
+     "note": "Third day of GI trouble. Sitter found feces on the laundry room floor with a red substance that looked like blood, plus feces in the dining room and urine/hairball in the hallway. He also used his box and pee pad. Half pill given. The report's consistency field still says firm and healthy, which conflicts with the blood note in the same report.",
+     "quote": "there was red substance in it, it did appear to be blood when I cleaned it up"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 11",
      "source": "Visit report, Renee Dougherty 9:16am",
      "office": true,
@@ -480,31 +490,21 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 11",
-     "source": "Client message, 9:28am",
-     "office": true,
-     "note": "Anna Marie's own read on the litter box - she thinks Sampson is choosing not to use it rather than being unable to. She has not asked for a vet visit and no office answer appears in the thread.",
-     "quote": "I don't know why he uses the litter box sometimes and doesn't other times!"
+     "date": "Sep 12",
+     "source": "Lacey Govil / client exchange 9:49-9:53am",
+     "office": false,
+     "note": "Same visit, follow-up: no red in his other stools; sitter called it red and gelatinous, not certainly blood. Client has never seen blood, wonders if he strained himself, will watch. No vet contact mentioned.",
+     "quote": "I didn't see any other red substance in his other number twos."
     },
     {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 10",
-     "source": "Client message, Sep 10 3:44pm",
-     "office": false,
-     "note": "Sampson did use the litter box in the dining room this time and covered it, which the client flags as a change. She checked it and found half of one side soaked through to the plastic bag, and calls that unusual. Ambiguous: she does not say whether the volume was urine or stool, and gives no other symptoms. Sits alongside his ongoing litter box and hardwood-floor accidents.",
-     "quote": "He covered it up this time and had 1/2 of the one side all the way to the plastic bag!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Client message 5:00pm Sep 10",
-     "office": false,
-     "note": "Client says Wanda and Becca are being asked to leave the light above the kitchen sink on, and she would like whoever does the AM visit to switch it off. She specifies the right-hand switch controls that light; the left-hand switch is the garbage disposal. Written the evening of Sep 10, so it applies to the next morning visit.",
-     "quote": "The switch is on the right side the left side does the garbage disposal."
+     "date": "Sep 11",
+     "source": "Client message, 9:28am",
+     "office": true,
+     "note": "Anna Marie's own read on the litter box - she thinks Sampson is choosing not to use it rather than being unable to. She has not asked for a vet visit and no office answer appears in the thread.",
+     "quote": "I don't know why he uses the litter box sometimes and doesn't other times!"
     }
    ],
    "dormant": false
@@ -2539,6 +2539,16 @@
      "quote": "please read the top of the cans cause some things have changed to help Trudy’s situation"
     },
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 12",
+     "source": "Client message 10:03am",
+     "office": false,
+     "note": "Client asked the sitter mid-morning to shut the upstairs cat-room windows and the green bedroom window before heavy rain, and to message her if there is a problem.",
+     "quote": "could u please shut the windows and the one in the green bedroom I just saw the weather"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -4438,6 +4448,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "standing",
+     "date": "Sep 12",
+     "source": "Company Notes edited by Tiarra Roberts 9:33am",
+     "office": false,
+     "note": "Kitchen sink light rule now written down: on for the PM visit, off at the AM visit. The old note said only to leave it on.",
+     "quote": "Leave kitchen light on above sink for PM visit and turn off at AM visit"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 12",
+     "source": "Tiarra Roberts visit report 9:33am",
+     "office": false,
+     "note": "P used the box for both #1 and #2 at the Sep 12 morning visit after neither the day before. Ate her wet food right away, purring throughout. One treat given.",
+     "quote": "She went #1 and #2, which I'm happy about because I was a little worried from yesterday"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
      "date": "Sep 11",
      "source": "Contact update by Tiarra Roberts, 10:57-10:58am",
      "office": false,
@@ -4495,6 +4525,16 @@
      "quote": "Thank you. Sorry if I don’t respond due to the time difference. We were fast asleep."
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 12",
+     "source": "Company Notes edited by Tiarra Roberts 9:33am",
+     "office": false,
+     "note": "Mail and newspaper now go on the entryway table only; the old note allowed the kitchen counter or the entryway table.",
+     "quote": "Place mail and newspaper on entryway table"
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -4513,26 +4553,6 @@
      "office": true,
      "note": "Sitter left the kitchen sink light on and asked Suzanne whether that is still what she wants. No answer from the client is visible in this sweep. The Company Notes as rewritten Sep 11 still say to leave the kitchen light on above the sink, so the existing rule stands unless she says otherwise.",
      "quote": "I know you've told us to do that before, not sure what you would like now."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Client message 4:47pm Sep 10",
-     "office": false,
-     "note": "Client reports she is departing on the afternoon of Sep 10 - she says they are just taking off, and the sitter replied 'Safe travels'. No return date given in the message.",
-     "quote": "Thank you!!! We are just taking off."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 7",
-     "source": "Client Pet Care Note update (Perd)",
-     "office": false,
-     "note": "Litter box is scooped daily into the Litter Genie, but the Litter Genie bag does not need changing every day - Suzanne's daughter will be at the house on Sunday and will change it. Extra litter is provided to top the box off.",
-     "quote": "YOU DO NOT NEED TO CHANGE THE LITTER GENIE BAG EVERYDAY."
     }
    ],
    "dormant": false
@@ -4880,6 +4900,16 @@
      "office": true,
      "note": "Chloe's Phos-bind was NOT given at the Sep 11 evening visit because there was none at the house. The sitter states this plainly in the report; she does not say where it is normally kept or whether the supply has run out. Office needs to check with the client whether more is available before the next feeding, and whether any missed doses matter.",
      "quote": "There was no Phos-bind so Chloe didn’t get that."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 12",
+     "source": "Renee Dougherty visit report 9:45am",
+     "office": true,
+     "note": "Chloe was given her medicine at the Sep 12 morning visit and took it. The report does not name the medication, so this email does not confirm whether it was the Phos-bind missed on Sep 11.",
+     "quote": "We gave Chloe her medicine and she took it."
     },
     {
      "cat": "behavior",
