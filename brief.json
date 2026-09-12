@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T08:20:05-04:00",
+ "generated": "2026-09-12T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2531,6 +2531,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Sep 12",
+     "source": "Client message, Sep 12 9:00am",
+     "office": false,
+     "note": "Client wrote to all sitters on the morning of Sep 12 that the feeding instructions have changed to help Trudy's situation. Read the writing on the TOP of the cans before feeding, and the bottom of the paper bowls tells you how many cans of wet and dry to put out for AM and PM, both on the porch and in the huts. The email does not give the amounts themselves - they are written on the cans and bowls at the property. She does not say what Trudy's situation is.",
+     "quote": "please read the top of the cans cause some things have changed to help Trudy’s situation"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Aug 28",
      "source": "Harvett Ellington message to client",
@@ -2568,6 +2578,16 @@
     "Bella"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 29",
+     "source": "Kathy Pastor visit report, Aug 29 9:25am",
+     "office": false,
+     "note": "Backfill - very little is on file for this client. The dog is Bella. On the Aug 29 visit she went #1 several times and #2 once, stool firm and healthy. A person called Linda was at the house and the shadowing sitter met her; the email does not say who Linda is.",
+     "quote": "It was nice to meet Linda and Bella!"
+    },
     {
      "cat": "home",
      "sev": "low",
@@ -2872,6 +2892,16 @@
      "quote": "Won’t be available for a walk. Please cancel. Thanks."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Julie Smith visit report, Sep 11 2:17pm",
+     "office": false,
+     "note": "Holly went both #1 and #2 on the Sep 11 afternoon walk and the sitter logged the consistency as firm and healthy - the first firm reading after loose-but-not-concerning on Sep 6, 7, 9 and 10. The sitter also turned back before the cul-de-sac because it was getting hot.",
+     "quote": "Holly went number one and number two on the walk"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2909,16 +2939,6 @@
      "source": "Dan Dantimo visit report, Sep 9 2:02pm",
      "office": false,
      "note": "On the Sep 9 walk Holly went #2 twice and the consistency was logged as a little loose but not concerning. The sitter turned back at the first cul-de-sac, took a water break and headed home early because of the heat, then refreshed her water. Second day running that her outing was cut short.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Dan Dantimo visit report, Mon Sep 7 6:30pm",
-     "office": false,
-     "note": "Holly's stool was recorded as a little loose again on the Mon Sep 7 evening walk - the second consecutive day after the same note on Sep 6. She went both #1 and #2 and the sitter did not flag it as concerning.",
      "quote": "It was a little loose but not concerning"
     }
    ],
@@ -4120,6 +4140,26 @@
      "quote": "Use cheese if needed to get them inside"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes edit by Tiarra Roberts, Sep 11 9:59am",
+     "office": false,
+     "note": "Leash location changed in the Sep 11 Company Notes rewrite. The note previously said leashes hang by the garage door; it now says they are usually on the kitchen island. Check both if they are not where expected.",
+     "quote": "Leashes are usually on the island in kitchen"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes, Sep 11",
+     "office": false,
+     "note": "The dogs may not want to come back inside from the backyard. Cheese from the fridge is the standing tool for getting them in - the notes describe them as very cheese motivated. A leash and a walk around the backyard is the other option.",
+     "quote": "Very cheese motivated - can give them cheese from the fridge"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -4148,6 +4188,16 @@
      "office": false,
      "note": "Pee pads are in the upstairs bedroom - replace any that are used or destroyed and put them in the outside trash can in the garage. Poop bags also go in the garage trash can. Trash day is Tuesday morning, cans out Monday night.",
      "quote": "Trash day: Tuesday morning"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 11",
+     "source": "Company Notes, Sep 11",
+     "office": false,
+     "note": "Trash day at this house is Tuesday morning and the cans go out Monday night. Confirmed in the Sep 11 Company Notes.",
+     "quote": "Take trash cans out Monday night"
     },
     {
      "cat": "health",
