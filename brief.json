@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T23:20:05-04:00",
+ "generated": "2026-09-12T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -10,36 +10,6 @@
     "Caleb"
    ],
    "items": [
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": false,
-     "note": "Livvie has refused food all week, has had diarrhea accidents again and lost a pound in three weeks; the vet restarted PredNiSolone in the morning and added a daily appetite stimulant.",
-     "quote": "She has started to refuse eating altogether. She also started having diarrhea accidents again."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": false,
-     "note": "Livvie's appetite stimulant is an ear ointment that must be applied with a glove, alternating ears each day.",
-     "quote": "The appetite stimulant is just an ointment you rub into her ear and MUST USE A GLOVE"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": false,
-     "note": "For Friday and Saturday evenings the client asked sitters to give Livvie no medication and only offer wet food.",
-     "quote": "You do not have to give her any meds tonight or tomorrow night."
-    },
     {
      "cat": "health",
      "sev": "medium",
@@ -79,16 +49,6 @@
      "office": false,
      "note": "Livvie stays on morning gabapentin and the client gave the dose and storage details when Shannon Anderson asked to confirm them.",
      "quote": "Shannon her Gaba dose is 0.4 mls. Its kept in the refrigerator and administered with a syringe."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": false,
-     "note": "Caleb had gabapentin before his calcium retest, so the client warned he may still be groggy.",
-     "quote": "He had Gabapentin before his visit so he may still be a little loopy"
     },
     {
      "cat": "behavior",
@@ -149,16 +109,6 @@
      "office": true,
      "note": "Client asks the office to build out a recurring weekly Wednesday visit starting Sept 9. She says she does not need anything next week because her workplace is letting them work from home. Needs setting up in the scheduler and confirming back to her.",
      "quote": "can you build out a recurring weekly Wednesday visit starting 9/9?"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": false,
-     "note": "The client's black and white cat, not named in the message, has declined sharply ahead of an at-home vet appointment on Sunday, and sitters were asked to watch for odd behaviour.",
-     "quote": "our black and white kitty has taken a turn for the worse"
     }
    ],
    "dormant": false
@@ -171,16 +121,6 @@
     "Rusty"
    ],
    "items": [
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": false,
-     "note": "Rusty vomited several times Friday morning and the client asked sitters to watch for it and swap her blanket for a towel if it recurs.",
-     "quote": "rusty threw up a few times this morning, so watch out for that"
-    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -1593,16 +1533,6 @@
      "office": true,
      "note": "Milo was away with the client but she says he will be back at the house on Thursday.",
      "quote": "Sorry forgot to mention Milo is with me. He will definitely be there on Thursday."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": true,
-     "note": "The client asked Friday afternoon whether a 30 minute drop-in around noon on Saturday is possible, and it still needs confirming.",
-     "quote": "Are you available tomorrow for a 30 minute drop in around noon?"
     }
    ],
    "dormant": false
@@ -1743,16 +1673,6 @@
      "office": true,
      "note": "The sitter's Aug 26 afternoon report describes it as Eddie's last afternoon visit with us. The report does not say whether the whole service is ending or only this block of visits - confirm with Judy before changing the schedule.",
      "quote": "I came for Eddie's last afternoon visit with us."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": false,
-     "note": "The client reported mid-morning Friday that Eddie was still not eating and put it down to tiredness.",
-     "quote": "Eddie still not eating"
     }
    ],
    "dormant": false
@@ -3431,16 +3351,6 @@
      "office": false,
      "note": "Marcia was home and a house cleaner was working in the house. Kiara did Freddy's food first to stay out of the way, then the litter once the kitchen was clear.",
      "quote": "I came in and there was a cleaner here."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 21, 2026",
-     "source": "Jade Popovitz",
-     "office": false,
-     "note": "Freddy is a cat who greets sitters at the door and stays nearby. Vocal, waits close by for his food.",
-     "quote": "He greeted us at the door before we started cleaning his litter."
     }
    ],
    "dormant": false
@@ -4463,6 +4373,16 @@
      "office": false,
      "note": "Suzanne edited P's care note twice on Sep 7. The new line limits the portion size at each wet-food feeding. The rest of the note is unchanged: wet food twice daily, morning between 6:30am and 8am and afternoon between 4pm and 5pm, timed about 45 minutes either side of the automatic feeder so she does not get sick.",
      "quote": "PLEASE only give her a little wet food at each feeding."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 12",
+     "source": "Client message, Sep 12 2:23am ET",
+     "office": false,
+     "note": "Suzanne is travelling in a different time zone while away and says replies may be delayed because of it. Explains the silence on the open kitchen sink light question. She did not give travel dates or a return date.",
+     "quote": "Thank you. Sorry if I don’t respond due to the time difference. We were fast asleep."
     },
     {
      "cat": "behavior",
