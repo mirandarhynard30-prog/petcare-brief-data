@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T00:05:07-04:00",
+ "generated": "2026-09-12T09:35:07-04:00",
  "date": "2026-09-12",
  "label": "Sep 12, 2026",
  "clients": [
@@ -50,25 +50,6 @@
      "staff": "Chelsea Tompkins",
      "service": "Dog Visit-20 minute",
      "pets": "Bella"
-    }
-   ]
-  },
-  {
-   "name": "Lance Hoffman",
-   "visits": [
-    {
-     "time": "12:30 PM",
-     "sort": "1230",
-     "staff": "Monica Hopewell",
-     "service": "Dog Visit-30 minute",
-     "pets": "Marlo, Frankie, Sammy"
-    },
-    {
-     "time": "6:00 PM",
-     "sort": "1800",
-     "staff": "Monica Hopewell",
-     "service": "Dog Visit-30 minute",
-     "pets": "Marlo, Frankie, Sammy"
     }
    ]
   },
@@ -173,5 +154,5 @@
    ]
   }
  ],
- "visitCount": 17
+ "visitCount": 15
 }
