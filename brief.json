@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T22:20:05-04:00",
+ "generated": "2026-09-11T23:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4840,6 +4840,16 @@
      "office": false,
      "note": "Chloe gets a liquid medication mixed into a churu treat and served on a plate upstairs. She is usually under the blankets and has to be uncovered to get it to her. Bella gets whatever churu is left over.",
      "quote": "I got Chloe‘s liquid medicine ready and mixed with the churro"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Chelsea Tompkins visit report, Sep 11 evening",
+     "office": true,
+     "note": "Chloe's Phos-bind was NOT given at the Sep 11 evening visit because there was none at the house. The sitter states this plainly in the report; she does not say where it is normally kept or whether the supply has run out. Office needs to check with the client whether more is available before the next feeding, and whether any missed doses matter.",
+     "quote": "There was no Phos-bind so Chloe didn’t get that."
     },
     {
      "cat": "behavior",
