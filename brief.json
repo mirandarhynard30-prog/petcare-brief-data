@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T11:20:06-04:00",
+ "generated": "2026-09-12T12:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -131,6 +131,16 @@
     "Rusty"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 12",
+     "source": "Shannon Anderson visit report and client reply, Sep 12",
+     "office": false,
+     "note": "A car parked at the back of the house does not mean the visit is cancelled. Shannon saw one on Sep 12, checked with the office first, and was told there was no cancellation; Mary then confirmed the blue Chevy Spark is her husband's.",
+     "quote": "Ok thats my man, thank you!!!"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -1216,6 +1226,16 @@
      "cat": "health",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 12",
+     "source": "Client message from Mary Ann Mckeever, Sep 12",
+     "office": false,
+     "note": "Client reports the dog now has allergies affecting his eyes and his arms, with itching. She gives him allergy medicine herself and asks the sitter to hold his collar while she does it. The medication is not named and no dose or schedule is given anywhere in the email.",
+     "quote": "He now has allergies affecting his eyes and his arms(itching)"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 11",
      "source": "Contact update by Tiarra Roberts, 10:40am",
      "office": true,
@@ -1321,16 +1341,6 @@
      "office": false,
      "note": "Over 75 degrees Georgie's walk is capped at 20 minutes with the orange cooling collar from the freezer worn under the slip harness.",
      "quote": "When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Aug 17",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "The care record flags Georgie as an escape risk, which is why the garage door is closed before entry and during walks.",
-     "quote": "Georgie is an escape artist."
     }
    ],
    "dormant": false
