@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T14:20:06-04:00",
+ "generated": "2026-09-12T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2577,6 +2577,16 @@
      "office": false,
      "note": "Resolves this morning's request - the windows Vicki asked to have shut were closed before the sitters left. Report also notes the outside cats were fed and watered ahead of the rain and all litter boxes (porch, basement, upstairs) scooped.",
      "quote": "closed the windows that had been left open"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 12",
+     "source": "Shannon Anderson visit report, Sep 12 4:24pm",
+     "office": false,
+     "note": "Outdoor cat feeding station had flies and yellow jackets in the food bowls at the evening visit. Sitters dumped the old food, swapped in clean bowls with fresh food, told Trudy on site, and took out the trash so the uneaten wet food would not smell. Worth checking on the next outdoor visit.",
+     "quote": "We found the outside food bowls with flies and yellow jackets."
     },
     {
      "cat": "health",
