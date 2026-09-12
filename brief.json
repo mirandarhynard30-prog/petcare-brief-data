@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T10:20:04-04:00",
+ "generated": "2026-09-12T11:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -305,6 +305,16 @@
      "quote": "I put in a request on Saturday to cancel today and tomorrow’s visits."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "Thomas switched off the long leash back to the normal leashes for Stella and Berry's walk; he says Stella takes advantage of the longer one. One sitter's choice on one walk, not a written rule.",
+     "quote": "went back to the normal leashes Because Stella takes advantage of that longer one"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -363,16 +373,6 @@
      "office": false,
      "note": "Aug 27 visit logs Emma's drops given, pee pads checked and a diaper on Berry as part of the routine. Medication was marked administered for Emma.",
      "quote": "Emma's drops ...p pads ok ...diaper on Berry"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Thomas Rakovec visit report, Sep 9 1:20pm",
-     "office": false,
-     "note": "Outside time was kept short on the Sep 9 visit because of the heat. The dogs went out back for #1, then only S and B were walked and not far. Stella's stool was logged firm and healthy.",
-     "quote": "it was a little hit out so we didn't walk far"
     }
    ],
    "dormant": false
@@ -2559,6 +2559,16 @@
      "quote": "Hey there, I heard Trudy is in the hospital, give her my best!"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 12",
+     "source": "Elizabeth Sigler visit report 10:55am",
+     "office": false,
+     "note": "Resolves this morning's request - the windows Vicki asked to have shut were closed before the sitters left. Report also notes the outside cats were fed and watered ahead of the rain and all litter boxes (porch, basement, upstairs) scooped.",
+     "quote": "closed the windows that had been left open"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2659,6 +2669,16 @@
      "office": false,
      "note": "Client says the dogs will be shut in the basement for today's visit because cleaners are at the house.",
      "quote": "The dogs will be in the basement since the cleaners will be here today."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "No trash bag in the bin, so used poop bags are being left on the floor beside it - others were already there. Kiara also refilled Milo's poop bag dispenser after it ran out. Milo and Archer were walked one at a time.",
+     "quote": "I put the poop bags on the floor on the floor by the trash because I saw there was no trash bag in it"
     },
     {
      "cat": "home",
@@ -3422,6 +3442,16 @@
     "Freddy"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 11",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Kiara found an already-opened can of wet food sitting out on the counter and moved it to the fridge, unsure how long it had been out. There are now two cans in the fridge for Freddy. She asked Marcia if that was ok; no reply seen.",
+     "quote": "I noticed he had food open sitting on the counter I put that one in the fridge"
+    },
     {
      "cat": "behavior",
      "sev": "low",
