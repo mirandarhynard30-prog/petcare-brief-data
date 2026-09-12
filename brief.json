@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T12:20:04-04:00",
+ "generated": "2026-09-12T13:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3948,6 +3948,16 @@
      "quote": "My cousin will set out Ted and Roo’s pills for you in the morning."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 12",
+     "source": "Krysten Whitesel private message",
+     "office": true,
+     "note": "Krysten asked at 1:00pm whether Tom is available for their 9/19 visit. A follow-up five minutes later reads as though she got an answer, but the 9/19 sitter assignment should be confirmed in the schedule.",
+     "quote": "We were wondering if Tom would be available for our visit on 9/19?"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3956,6 +3966,16 @@
      "office": false,
      "note": "At the Sep 4 morning visit Thomas found Ted's collar on very tight and loosened it before taking him out. Check the collar fit at the start of each visit until the owner confirms the new setting.",
      "quote": "I loosened it a little but it was really tight"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 12",
+     "source": "Krysten Whitesel private message",
+     "office": false,
+     "note": "For the 9/19 visit Krysten wants an afternoon snack given plus the normal potty and play routine.",
+     "quote": "We will ask him to give an afternoon snack and do the normal potty/play."
     }
    ],
    "dormant": false
