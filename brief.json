@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T20:20:05-04:00",
+ "generated": "2026-09-12T23:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1235,6 +1235,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "recent",
+     "date": "Sep 12",
+     "source": "Tiarra Roberts visit report, Sep 12 evening (9:34pm)",
+     "office": true,
+     "note": "On the Sep 12 evening visit Georgie was given BOTH a pill medicine and eyedrops, the sitter assisting Mary Ann, and medication was logged as administered. This contradicts the Sep 11 report calling the eyedrops the last set - the course is evidently still running. Neither the pill nor the drops is named, and no dose or frequency is recorded anywhere. The pill is probably the allergy medicine Mary Ann described on Sep 12, but the report does not say so and it should not be assumed. Office: get the drug names, doses and schedule into the Pet Care Note.",
+     "quote": "I gave Georgie an ice cube after helping give him his pill medicine and eyedrops."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "standing",
      "date": "Sep 11",
      "source": "Contact update by Tiarra Roberts, 10:40am",
@@ -1330,16 +1340,6 @@
      "source": "Time To Pet care note update - Tiarra Roberts",
      "office": false,
      "note": "Heat rule for Georgie: over 75 degrees, cap outside time at 20 minutes. Put the orange velcro cooling collar (kept in the kitchen freezer) on before the walk and slip the harness over it; if he is still panting afterwards, leave the collar on. In extreme summer heat, visits should land 8am-10am.",
-     "quote": "When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Aug 17",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "Over 75 degrees Georgie's walk is capped at 20 minutes with the orange cooling collar from the freezer worn under the slip harness.",
      "quote": "When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."
     }
    ],
