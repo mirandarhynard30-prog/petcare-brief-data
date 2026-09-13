@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T09:20:05-04:00",
+ "generated": "2026-09-13T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2572,6 +2572,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 13",
+     "source": "Client message, Sep 13 morning",
+     "office": false,
+     "note": "The client sent an entry instruction for today's visit in a short morning message. The detail is deliberately not recorded here - open her Sep 13 message in Time To Pet before arriving.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 12",
      "source": "Elizabeth Sigler visit report 10:55am",
      "office": false,
@@ -4764,6 +4774,26 @@
      "office": false,
      "note": "Client and her husband are away in Red River Gorge, Kentucky. She says they have cellular service at the cabin but expects it to be patchy on the hiking trails, so replies may be delayed while they are gone. She gave no return date in the message.",
      "quote": "We have cellular at the cabin but I assume the hiking trails will be spotty."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Kristin Ashick visit report, Sep 13 morning",
+     "office": false,
+     "note": "Miley's medication was given successfully at the Sep 13 morning visit and a Churu treat was left for her. Kristin Ashick was being trained by Tiarra Roberts on this visit. The report does not name the medication or the dose.",
+     "quote": "we were successful at giving miley her medicine. We left curro treat for her."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Kristin Ashick visit report, Sep 13 morning",
+     "office": false,
+     "note": "A potty accident was found and cleaned up at the Sep 13 morning visit. The report does not say which cat, what kind of accident, or where in the house, so it cannot be tied to any one animal.",
+     "quote": "I cleaned up a potty accident"
     }
    ],
    "dormant": false
@@ -5010,6 +5040,16 @@
      "office": true,
      "note": "Chloe was given her medicine at the Sep 12 morning visit and took it. The report does not name the medication, so this email does not confirm whether it was the Phos-bind missed on Sep 11.",
      "quote": "We gave Chloe her medicine and she took it."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 12",
+     "source": "Chelsea Tompkins visit report, Sep 12 evening",
+     "office": true,
+     "note": "The Sep 12 evening report covers mail, wet food for Bella, dry food and water for Chloe and treat puzzles, but makes no mention of Chloe's medicine or Phos-bind. Whether an evening dose was expected is not stated anywhere - the office should confirm the dosing schedule rather than assume it was skipped or not due.",
+     "quote": ""
     },
     {
      "cat": "behavior",
