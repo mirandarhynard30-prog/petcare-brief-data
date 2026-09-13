@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T10:20:05-04:00",
+ "generated": "2026-09-13T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2118,6 +2118,16 @@
      "office": false,
      "note": "The second dog in the home can react to other dogs by barking and pulling.",
      "quote": "Macy can be dog reactive (barking and pulling)"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Client message, Sep 13 12:08pm",
+     "office": true,
+     "note": "Charlene agreed to something the office proposed, but what she agreed to is not visible here - the outbound message is not in this mailbox and her reply arrived with no thread context. Someone in the office should check what was asked before treating this as settled.",
+     "quote": "That should be fine. Thank you!"
     }
    ],
    "dormant": false
