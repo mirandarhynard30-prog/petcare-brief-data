@@ -1,28 +1,21 @@
 {
- "generated": "2026-09-12T09:35:07-04:00",
- "date": "2026-09-12",
- "label": "Sep 12, 2026",
+ "generated": "2026-09-13T00:05:06-04:00",
+ "date": "2026-09-13",
+ "label": "Sep 13, 2026",
  "clients": [
   {
    "name": "Alan & Bridgette Wiggers",
    "visits": [
     {
-     "time": "9:00 AM",
-     "sort": "0900",
+     "time": "7:00 AM",
+     "sort": "0700",
      "staff": "Chelsea Tompkins",
-     "service": "Trainer Visit-45 minute",
+     "service": "Cat Visit-45 minute",
      "pets": "Chloe, Bella"
     },
     {
-     "time": "9:00 AM",
-     "sort": "0900",
-     "staff": "Renee Dougherty",
-     "service": "Shadow Visit with Staff Member-45 minute",
-     "pets": "Chloe, Bella"
-    },
-    {
-     "time": "9:30 PM",
-     "sort": "2130",
+     "time": "7:00 PM",
+     "sort": "1900",
      "staff": "Chelsea Tompkins",
      "service": "Cat Visit-45 minute",
      "pets": "Chloe, Bella"
@@ -33,11 +26,30 @@
    "name": "Anna Marie LeMaster",
    "visits": [
     {
-     "time": "9:00 AM",
-     "sort": "0900",
-     "staff": "Lacey Govil",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "Sampson"
+     "time": "8:00 AM",
+     "sort": "0800",
+     "staff": "Chelsea Tompkins",
+     "service": "Cat Visit-30 Minutes",
+     "pets": "Gordy (Gordon), Sampson"
+    }
+   ]
+  },
+  {
+   "name": "Brittany Lisbon",
+   "visits": [
+    {
+     "time": "9:15 AM",
+     "sort": "0915",
+     "staff": "Tiarra Roberts",
+     "service": "Trainer Visit-20 minute",
+     "pets": "Miley, Linguine , Fettuccine , Ziti, Manicotti"
+    },
+    {
+     "time": "9:15 AM",
+     "sort": "0915",
+     "staff": "Kristin Ashick",
+     "service": "Shadow Visit with Staff Member-20 minute",
+     "pets": "Miley, Linguine , Fettuccine , Ziti, Manicotti"
     }
    ]
   },
@@ -45,10 +57,17 @@
    "name": "Jennifer Peganoff",
    "visits": [
     {
-     "time": "10:15 AM",
-     "sort": "1015",
+     "time": "9:00 AM",
+     "sort": "0900",
      "staff": "Chelsea Tompkins",
-     "service": "Dog Visit-20 minute",
+     "service": "Trainer Visit-20 minute",
+     "pets": "Bella, Bella, Bella"
+    },
+    {
+     "time": "9:00 AM",
+     "sort": "0900",
+     "staff": "Renee Dougherty",
+     "service": "Shadow Visit with Staff Member-20 minute",
      "pets": "Bella"
     }
    ]
@@ -59,7 +78,7 @@
     {
      "time": "6:00 PM",
      "sort": "1800",
-     "staff": "Dan Dantimo",
+     "staff": "Shannon  Anderson",
      "service": "Long Range Visit-30 Minute",
      "pets": "Holly"
     }
@@ -69,23 +88,11 @@
    "name": "Mary Ann Mckeever",
    "visits": [
     {
-     "time": "10:00 PM",
-     "sort": "2200",
+     "time": "8:30 PM",
+     "sort": "2030",
      "staff": "Tiarra Roberts",
      "service": "Dog Visit-30 minute",
      "pets": "Georgie"
-    }
-   ]
-  },
-  {
-   "name": "Mary Gilmore",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Shannon  Anderson",
-     "service": "Dog Visit-30 minute",
-     "pets": "Puck, Rusty"
     }
    ]
   },
@@ -105,16 +112,9 @@
    "name": "Suzanne Slimak",
    "visits": [
     {
-     "time": "9:00 AM",
-     "sort": "0900",
+     "time": "8:30 AM",
+     "sort": "0830",
      "staff": "Tiarra Roberts",
-     "service": "Cat Visit-30 Minutes",
-     "pets": "Perd, but we just call her \"P\""
-    },
-    {
-     "time": "5:00 PM",
-     "sort": "1700",
-     "staff": "Monica Hopewell",
      "service": "Cat Visit-30 Minutes",
      "pets": "Perd, but we just call her \"P\""
     }
@@ -126,7 +126,7 @@
     {
      "time": "10:00 AM",
      "sort": "1000",
-     "staff": "Kiara Streety",
+     "staff": "Harvett Ellington",
      "service": "Trainer Visit-45 minute",
      "pets": "3 indoor cats, 6 outdoor cats"
     },
@@ -141,18 +141,11 @@
      "time": "4:00 PM",
      "sort": "1600",
      "staff": "Harvett Ellington",
-     "service": "Trainer Visit-30minute",
-     "pets": "3 indoor cats, 6 outdoor cats"
-    },
-    {
-     "time": "4:00 PM",
-     "sort": "1600",
-     "staff": "Shannon  Anderson",
-     "service": "Shadow Visit with Staff Member-30 minute",
+     "service": "Cat Visit-30 Minutes",
      "pets": "3 indoor cats, 6 outdoor cats"
     }
    ]
   }
  ],
- "visitCount": 15
+ "visitCount": 14
 }
