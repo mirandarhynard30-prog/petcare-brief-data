@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T12:20:05-04:00",
+ "generated": "2026-09-13T16:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1139,7 +1139,8 @@
    "name": "Barbara Turoczy",
    "url": "https://www.timetopet.com/dashboard/client/t3iysvsO0oBZ",
    "pets": [
-    "Riggs"
+    "Riggs",
+    "Willow"
    ],
    "items": [
     {
@@ -1161,6 +1162,16 @@
      "office": false,
      "note": "Riggs must not be unclipped in the fenced area until it has been checked for animals, as the care note records he is reactive to wildlife.",
      "quote": "Please check for animals in the fenced in area before releasing him off the leash, he is triggered by other animals."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 13",
+     "source": "Client pet record update, 12:50-12:58pm",
+     "office": true,
+     "note": "A second dog, Willow, was added to this account on Sep 13 - Retriever Mix, female, black. Current Care Notes and Allergies were both set literally to 'None', so there are no handling or feeding instructions for her yet. Vet recorded as Richfield Clinic, Richfield OH, 330-659-6606. The brief previously listed only Riggs; office should confirm Willow is a real second dog and not a duplicate record, and get real care notes.",
+     "quote": ""
     },
     {
      "cat": "home",
@@ -5126,6 +5137,16 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Sep 13",
+     "source": "Client pet records added, 10:03am and 10:05am",
+     "office": true,
+     "note": "Two more pet records were added on Sep 13 - 'Frank' and 'Weezie or Louise' - while the account already lists the two French bulldogs as Weezy and Frank. Likely duplicate records rather than new animals; office should check and merge before the next visit so sitters are not shown four pets.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Sep 11",
      "source": "Shannon Anderson and Elizabeth Cuffari messages",
      "office": false,
@@ -5141,6 +5162,27 @@
      "office": false,
      "note": "No poop bags at this house. Use the poop scooper and toss waste over the railing. Cleaning supplies are under the kitchen sink. Park on the street on Riverway.",
      "quote": "use poop scooper and toss over railing"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Lauren White",
+   "url": "https://www.timetopet.com/dashboard/client/sry62pEdSMmK",
+   "pets": [
+    "Bailey",
+    "Oakley"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Ashley Corall message to client, 3:42pm",
+     "office": true,
+     "note": "Sitter Ashley Corall wrote to the client ahead of this week's visits saying it has been a while since she has seen Bailey and Oakley, and asked whether anything has changed with Oakley's feeding. No reply from the client yet, so the feeding instructions on file may be out of date.",
+     "quote": "I was wondering if anything has changed with Oakley and feeding or anything other changes?"
     }
    ],
    "dormant": false
