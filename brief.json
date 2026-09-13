@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T07:20:07-04:00",
+ "generated": "2026-09-13T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4961,6 +4961,16 @@
     "Chloe"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Chelsea Tompkins visit report, Sep 13 morning",
+     "office": true,
+     "note": "Chloe's medicine was given at the Sep 13 morning visit, prepared with a Churu treat and left with her upstairs behind the curtains; the report's medication question is marked Yes. The medicine is still never named in any report, and the Sep 12 evening visit recorded no medication at all, so the actual drug, dose and schedule remain unwritten. Office still needs to confirm with the client whether this is the Phos-bind and whether there is Phos-bind in the house.",
+     "quote": "I then got Chloe medicine ready with the churo. I took that upstairs. Gave it to Chloe she was hiding behind the curtains."
+    },
     {
      "cat": "health",
      "sev": "high",
