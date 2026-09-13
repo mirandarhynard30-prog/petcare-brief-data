@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T17:20:05-04:00",
+ "generated": "2026-09-13T19:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2976,6 +2976,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 13",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Sep 13 evening walk: Holly went both #1 and #2 and the sitter logged the #2 consistency as firm and healthy. That is a normal result after the looser stool logged on Sep 9.",
+     "quote": "It was firm and healthy"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Shannon Anderson visit report",
+     "office": true,
+     "note": "The Sep 13 evening report answers the home-security question with the client being home during the visit, and the sitter signs off saying she will see everyone next Sunday. Office should confirm whether Lynne is back and whether the next scheduled visit really is the following Sunday.",
+     "quote": "Client was home during visit"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 11",
      "source": "Julie Smith visit report, Sep 11 2:17pm",
      "office": false,
@@ -3000,26 +3020,6 @@
      "source": "Dan Dantimo visit report, Sep 10 evening",
      "office": false,
      "note": "On the Sep 10 evening walk Holly went both #1 and #2, and Dan logged the #2 consistency as a little loose but not concerning. She was offered water halfway through and was not thirsty.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Client message",
-     "office": false,
-     "note": "Client sent updated entry instructions for the Sep 9 visit. Details are in Time To Pet only - check the client record before the visit.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Dan Dantimo visit report, Sep 9 2:02pm",
-     "office": false,
-     "note": "On the Sep 9 walk Holly went #2 twice and the consistency was logged as a little loose but not concerning. The sitter turned back at the first cul-de-sac, took a water break and headed home early because of the heat, then refreshed her water. Second day running that her outing was cut short.",
      "quote": "It was a little loose but not concerning"
     }
    ],
