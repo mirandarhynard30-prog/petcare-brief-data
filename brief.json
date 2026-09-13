@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T16:20:04-04:00",
+ "generated": "2026-09-13T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5176,6 +5176,16 @@
    "items": [
     {
      "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Client message from Lauren White, Sep 13 4:48pm",
+     "office": true,
+     "note": "Bailey has left ear discomfort this week; client hoped to get her to the vet Mon Sep 14. No diagnosis or medication written down yet - check with the client before the next visit and watch the ear.",
+     "quote": "Bailey this week if having some left ear discomfort, hoping to get her in the vet tomorrow"
+    },
+    {
+     "cat": "health",
      "sev": "low",
      "type": "recent",
      "date": "Sep 13",
@@ -5183,6 +5193,16 @@
      "office": true,
      "note": "Sitter Ashley Corall wrote to the client ahead of this week's visits saying it has been a while since she has seen Bailey and Oakley, and asked whether anything has changed with Oakley's feeding. No reply from the client yet, so the feeding instructions on file may be out of date.",
      "quote": "I was wondering if anything has changed with Oakley and feeding or anything other changes?"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 13",
+     "source": "Client message from Lauren White, Sep 13 4:48pm",
+     "office": false,
+     "note": "Client confirmed on Sep 13, in reply to Ashley Corall asking, that nothing about Oakley's care has changed - same feeding schedule, he is just bigger. Rest of care also unchanged.",
+     "quote": "Nothing different. Oakley is much bigger now but still same feeding schedule!"
     }
    ],
    "dormant": false
