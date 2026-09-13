@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T08:20:05-04:00",
+ "generated": "2026-09-13T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -400,6 +400,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 13",
+     "source": "Chelsea Tompkins visit report, Sep 13 morning",
+     "office": true,
+     "note": "Fourth consecutive day of GI trouble. At the Sep 13 morning visit Sampson vomited twice - a hair ball seen while the sitter was walking, plus a second spot of vomit on the living room carpet, both cleaned up. He also went number 2 under the table rather than in the litter box, and the litter box was unused. His medicine (a pill, still unnamed in any report) was given in a lickable treat and the sitter waited to confirm he swallowed it. Office should call the client about a vet visit - this has now run Sep 10 to Sep 13 with possible blood reported Sep 12.",
+     "quote": "As I was walking I noticed he threw up a hair ball."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 12",
      "source": "Lacey Govil visit report 9:27am",
      "office": true,
@@ -505,16 +515,6 @@
      "office": false,
      "note": "Same visit, follow-up: no red in his other stools; sitter called it red and gelatinous, not certainly blood. Client has never seen blood, wonders if he strained himself, will watch. No vet contact mentioned.",
      "quote": "I didn't see any other red substance in his other number twos."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Client message, 9:28am",
-     "office": true,
-     "note": "Anna Marie's own read on the litter box - she thinks Sampson is choosing not to use it rather than being unable to. She has not asked for a vet visit and no office answer appears in the thread.",
-     "quote": "I don't know why he uses the litter box sometimes and doesn't other times!"
     }
    ],
    "dormant": false
@@ -4525,6 +4525,16 @@
      "quote": "So She did not go number one or two."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Tiarra Roberts visit report, Sep 13 morning",
+     "office": false,
+     "note": "The sitter states the Sep 13 morning visit is the last visit of this sit, and emptied the litter genie on that basis. Read as the sit ending today and the clients coming home; the client has not confirmed a return in writing, so treat the end date as the sitter's statement rather than a client confirmation.",
+     "quote": "I emptied the litter genie because this is our last visit"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -4595,6 +4605,16 @@
      "quote": "PLEASE only give her a little wet food at each feeding."
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Tiarra Roberts visit report, Sep 13 morning",
+     "office": false,
+     "note": "The clock in the bathroom was showing the wrong time at the Sep 13 morning visit. The sitter reset it and thinks the battery may be going. Worth mentioning to the client; nothing for the sitter to do.",
+     "quote": "I was washing my hands in the bathroom sink and noticed the clock was displaying the wrong time."
+    },
+    {
      "cat": "schedule",
      "sev": "low",
      "type": "recent",
@@ -4613,26 +4633,6 @@
      "office": false,
      "note": "Mail and newspaper now go on the entryway table only; the old note allowed the kitchen counter or the entryway table.",
      "quote": "Place mail and newspaper on entryway table"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Tiarra Roberts message to client, Sep 11 evening",
-     "office": false,
-     "note": "P hides; on this visit two treats left at the edge of the upstairs bed brought her out to eat them. She was found under the upstairs bed. Trainee was also shown a hiding spot behind the couch.",
-     "quote": "at the edge of bed for P and she crawled out to eat them"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Tiarra Roberts message to client, Sep 11 evening",
-     "office": true,
-     "note": "Sitter left the kitchen sink light on and asked Suzanne whether that is still what she wants. No answer from the client is visible in this sweep. The Company Notes as rewritten Sep 11 still say to leave the kitchen light on above the sink, so the existing rule stands unless she says otherwise.",
-     "quote": "I know you've told us to do that before, not sure what you would like now."
     }
    ],
    "dormant": false
@@ -4754,6 +4754,16 @@
      "office": false,
      "note": "Miley gets blood pressure medication - one quarter pill each visit, in a pill pocket. Brittany pre-cuts the pills into quarters. Supplies, medication and the water jug are on the kitchen counter, along with a binder of instructions.",
      "quote": "Miley is usually sleeping on the bed, in the bedroom"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Client message, Sep 13 8:40am",
+     "office": false,
+     "note": "Client and her husband are away in Red River Gorge, Kentucky. She says they have cellular service at the cabin but expects it to be patchy on the hiking trails, so replies may be delayed while they are gone. She gave no return date in the message.",
+     "quote": "We have cellular at the cabin but I assume the hiking trails will be spotty."
     }
    ],
    "dormant": false
