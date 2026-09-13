@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T00:05:06-04:00",
+ "generated": "2026-09-13T09:05:07-04:00",
  "date": "2026-09-13",
  "label": "Sep 13, 2026",
  "clients": [
@@ -97,18 +97,6 @@
    ]
   },
   {
-   "name": "Megan Nickoli",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Lacey Govil",
-     "service": "Dog Visit-30 minute",
-     "pets": "Aayla"
-    }
-   ]
-  },
-  {
    "name": "Suzanne Slimak",
    "visits": [
     {
@@ -147,5 +135,5 @@
    ]
   }
  ],
- "visitCount": 14
+ "visitCount": 13
 }
