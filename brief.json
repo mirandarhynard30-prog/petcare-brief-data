@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T09:20:05-04:00",
+ "generated": "2026-09-14T10:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3624,6 +3624,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Harvett Ellington visit report, Sep 14 morning",
+     "office": false,
+     "note": "Sitter warns Whiskey is going for rocks. The wording is vague - it does not say whether he picks them up, chews them or swallows them - so treat it as a watch-him-outside warning, not a confirmed ingestion.",
+     "quote": "Be careful he is trying to have a penchant for rocks..."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -3732,16 +3742,6 @@
      "office": true,
      "note": "Client asks to push the start of daily visits from Mon Aug 31 to Mon Sep 7 because of a last-minute change to his girlfriend's schedule. Needs an answer from the office before tomorrow morning; the Monday visits are currently still on the schedule.",
      "quote": "If possible, could we change our start date to be one week from tomorrow on 9/7 please?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Client message, Sep 14 8:24am",
-     "office": false,
-     "note": "Erik says he and his girlfriend are both home today, and asks to keep Whiskey's visits today and tomorrow exactly as scheduled - no change requested. He adds that both their work routines changed recently and they are still sorting their schedules out, so further changes may follow.",
-     "quote": "My girlfriend and I are both home today, just FYI."
     }
    ],
    "dormant": false
@@ -5021,6 +5021,16 @@
      "office": true,
      "note": "Chloe's Phos-bind was NOT given at the Sep 11 evening visit because there was none at the house. The sitter states this plainly in the report; she does not say where it is normally kept or whether the supply has run out. Office needs to check with the client whether more is available before the next feeding, and whether any missed doses matter.",
      "quote": "There was no Phos-bind so Chloe didn’t get that."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Chelsea Tompkins visit report, Sep 14 morning",
+     "office": false,
+     "note": "Chloe's medicine was prepared as a churu-and-medicine mix and carried upstairs to her; the report marks medication administered. The report does not name the medication or give a dose.",
+     "quote": "I took Chloe churo and medicine mix upstairs for her."
     },
     {
      "cat": "health",
