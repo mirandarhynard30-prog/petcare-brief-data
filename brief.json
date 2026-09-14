@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T15:20:06-04:00",
+ "generated": "2026-09-14T18:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2010,6 +2010,26 @@
      "quote": "Can we just wait till after Labor Day.??"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Marcella Singer (client message, 6:01pm)",
+     "office": false,
+     "note": "Marcella confirmed for tonight the laundry-room plan she only floated on Aug 30: she will feed the cats around 6:30 and try to have Buttercup shut in the laundry room ready for the sitter. She adds \"For groomimg.\" in a separate message, so the confinement appears to be for grooming, but she does not say so outright - worth confirming rather than assuming.",
+     "quote": "hopefully keep Buttercup in the laundry room for you"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Marcella Singer (client message, 6:04pm)",
+     "office": false,
+     "note": "For tonight's visit only, Marcella says she will leave the front door open and the sitter should walk straight in rather than knock or wait. She is home during the visit.",
+     "quote": "I will open front door. So come in."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2068,6 +2088,16 @@
      "office": true,
      "note": "Robin told the client she would check with Miranda about the Labor Day pause. Still open on the office side.",
      "quote": "let me get with Miranda on it."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Marcella Singer (client message, 6:03pm)",
+     "office": true,
+     "note": "Marcella asked for an ETA for tonight's visit at 6:03pm. Robin Lewis replied at 6:03pm offering to come immediately, and Marcella answered \"Ok\" at 6:04pm, so this reads as settled - but no arrival time was ever put in writing.",
+     "quote": "Let me know ETA."
     }
    ],
    "dormant": false
