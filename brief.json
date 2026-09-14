@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T18:20:04-04:00",
+ "generated": "2026-09-14T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2098,6 +2098,16 @@
      "office": true,
      "note": "Marcella asked for an ETA for tonight's visit at 6:03pm. Robin Lewis replied at 6:03pm offering to come immediately, and Marcella answered \"Ok\" at 6:04pm, so this reads as settled - but no arrival time was ever put in writing.",
      "quote": "Let me know ETA."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Robin Lewis evening visit report",
+     "office": false,
+     "note": "At the 6:35pm visit Buttercup was under the bed and Robin brushed him there rather than in the laundry room Marcella had offered to shut him in. The report records the pets as 'a little shy' and the client as home during the visit.",
+     "quote": "At least Buttercup let me brush him under the bed"
     }
    ],
    "dormant": false
@@ -3026,6 +3036,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 14",
+     "source": "Julie Smith evening visit report",
+     "office": false,
+     "note": "Holly's stool was loose and slimy on the Sunday evening walk. Julie notes it was solid when she walked her the previous Friday and says she is unsure whether loose is normal for Holly. The report's consistency field records it as 'a little loose but not concerning'.",
+     "quote": "She did go number two and it was a bit loose and slimy."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Julie Smith evening visit report",
+     "office": true,
+     "note": "Lynne was home during the Sep 14 evening visit and asked that the door not be locked; Julie did not go into the home. Julie's message ends 'I will see you Wednesday night', so the next visit reads as Wednesday, but the client has not written that herself.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 13",
      "source": "Shannon Anderson visit report",
      "office": false,
@@ -3051,26 +3081,6 @@
      "office": false,
      "note": "Holly went both #1 and #2 on the Sep 11 afternoon walk and the sitter logged the consistency as firm and healthy - the first firm reading after loose-but-not-concerning on Sep 6, 7, 9 and 10. The sitter also turned back before the cul-de-sac because it was getting hot.",
      "quote": "Holly went number one and number two on the walk"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Dan Dantimo message to client 4:49pm Sep 10",
-     "office": false,
-     "note": "ANSWERED: Dan Dantimo told the client at 4:49pm that he will be there by 5:30. This closes her 1:17pm request to move today's visit to 5:30 around Holly's grooming appointment, which had been unanswered all afternoon.",
-     "quote": "Hi Lynne be there by 530"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Dan Dantimo visit report, Sep 10 evening",
-     "office": false,
-     "note": "On the Sep 10 evening walk Holly went both #1 and #2, and Dan logged the #2 consistency as a little loose but not concerning. She was offered water halfway through and was not thirsty.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
