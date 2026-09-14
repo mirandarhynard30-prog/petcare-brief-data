@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T22:20:06-04:00",
+ "generated": "2026-09-13T23:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -410,6 +410,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 13",
+     "source": "Client message, Sep 13 9:35am",
+     "office": true,
+     "note": "Client's own reply to the Sep 13 morning report. She says Sampson used the litter box in the dining room at some point before the sitters arrived, but there were throw-ups and one stool on the dining room carpet and urine in his usual hallway/kitchen spot. She reports a spot of blood in his poop and speculates he may have strained. This is the client herself confirming blood, and it follows the possible blood the sitter saw on Sep 12. No vet visit has been raised by either side.",
+     "quote": "His poop had a spot of blood in it. I don't know how that could be."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 12",
      "source": "Lacey Govil visit report 9:27am",
      "office": true,
@@ -505,16 +515,6 @@
      "office": false,
      "note": "Gordy had x-rays on Aug 24. The vet saw nothing on the day; images went to a radiologist and the client did not expect results until Thursday or Friday. No instructions were given to change his walks.",
      "quote": "We are home from Gordy's x-rays."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Lacey Govil / client exchange 9:49-9:53am",
-     "office": false,
-     "note": "Same visit, follow-up: no red in his other stools; sitter called it red and gelatinous, not certainly blood. Client has never seen blood, wonders if he strained himself, will watch. No vet contact mentioned.",
-     "quote": "I didn't see any other red substance in his other number twos."
     }
    ],
    "dormant": false
@@ -2649,6 +2649,16 @@
     "Bella"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Renee Dougherty visit report, Sep 13 9:18am",
+     "office": false,
+     "note": "Sep 13 morning walk: Bella went both #1 and #2 and the sitter logged the #2 consistency as a little loose but not concerning. Visit was done by Renee Dougherty shadowing Chelsea Tompkins. Very little else is on file for this client.",
+     "quote": "It was a little loose but not concerning"
+    },
     {
      "cat": "behavior",
      "sev": "low",
