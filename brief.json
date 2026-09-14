@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T07:20:05-04:00",
+ "generated": "2026-09-14T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1236,6 +1236,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Tiarra Roberts visit report, Sep 13 8:53pm",
+     "office": true,
+     "note": "Sitter's Sep 13 evening report refers to an upcoming 'new Dr visit' she expects to hear about at the next night's visit. The email does not say whose appointment it is, what it is for, or when - it is ambiguous whether it is Georgie's vet or a human appointment. Office needs to find out and record it.",
+     "quote": "Looking forward to it, to hear how the new Dr visit goes."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "standing",
      "date": "Sep 12",
      "source": "Client message from Mary Ann Mckeever, Sep 12",
@@ -1342,16 +1352,6 @@
      "office": false,
      "note": "Answered: Kristin confirmed to the client at 9:10pm Sep 3 that she will arrive a few minutes early for the Fri Sep 4 walk so Georgie is back before the client leaves at 11:00 for the vet. No office action outstanding on the request itself; the visit window in the portal has not been confirmed changed.",
      "quote": "Yes I can.. ill go a few minutes early so you have plenty of time!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Aug 24",
-     "source": "Time To Pet care note update - Tiarra Roberts",
-     "office": false,
-     "note": "Heat rule for Georgie: over 75 degrees, cap outside time at 20 minutes. Put the orange velcro cooling collar (kept in the kitchen freezer) on before the walk and slip the harness over it; if he is still panting afterwards, leave the collar on. In extreme summer heat, visits should land 8am-10am.",
-     "quote": "When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."
     }
    ],
    "dormant": false
