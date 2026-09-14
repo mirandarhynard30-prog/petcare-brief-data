@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T11:20:07-04:00",
+ "generated": "2026-09-14T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3764,6 +3764,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Margaret Bill visit report, Sep 14 11:14am",
+     "office": false,
+     "note": "On the Sep 14 mid-morning walk the client was home and asked that the door not be locked on the way out. Logged once, so it reads as an instruction for that visit rather than a standing rule - confirm before treating it as standing. Murphy's walk was otherwise routine, stool firm and healthy.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -4057,6 +4067,26 @@
      "office": true,
      "note": "Follow-up to her earlier Saturday message. The client says Blackie will be at the neighbour Greg's house for the whole period the walk schedule covers, not at her own home. Confirm with her where each scheduled walk should start before a sitter is sent out. Access details in the same thread are deliberately not repeated here.",
      "quote": "Greg house he will be there this whole time that we have walk schedule"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Shannon Anderson visit report (shadowing Noella Assi), Sep 14 11:34am",
+     "office": false,
+     "note": "On the Sep 14 11am visit Blackie was not picked up from the client's own home - he was waiting at the neighbour's house, and the walk started and ended from there. The report does not say whether this is the usual arrangement or a one-off, so treat it as a single occurrence and ask before assuming it.",
+     "quote": "Blackie was waiting for us at the neighbor's house."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Noella Assi visit report, Sep 14 11:33am",
+     "office": true,
+     "note": "Greg was home during the Sep 14 11am visit, and the household had already walked Blackie about 10:30am, so the sitter's walk was a second outing and she did not go into the home. Worth confirming with the client whether visits are still wanted on days someone is home.",
+     "quote": "Greg mentioned that Blackie went number one and two before we got here."
     },
     {
      "cat": "home",
