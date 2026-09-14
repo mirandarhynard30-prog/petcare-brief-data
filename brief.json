@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T12:20:05-04:00",
+ "generated": "2026-09-14T13:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -132,6 +132,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Elizabeth Sigler visit report, 12:56pm",
+     "office": false,
+     "note": "Loose, light-toned stool in the fenced yard at the midday visit; sitter logged it under Puck (form: very loose/diarrhea, pet seems fine otherwise) and Rusty's as firm, but says both girls went close together so she could not be certain which dog it was. Worth a second look on the Wednesday visit.",
+     "quote": "Not quite diarrhea, but something we should definitely be keeping an eye on."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -240,16 +250,6 @@
      "office": false,
      "note": "Sitter flagged that the treats at the house are getting low and marked pet supplies low on the visit report.",
      "quote": "I think the treats are getting low"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Elizabeth Sigler",
-     "office": false,
-     "note": "A stray black cat was in the yard before the visit. The sitter herded it out through a crack in the gate to avoid a run-in with the dogs; the gate itself is secured closed.",
-     "quote": "I herded her through the crack in the gate (which is secured closed) so that we could avoid the possibility of an altercation."
     }
    ],
    "dormant": false
@@ -757,6 +757,16 @@
      "office": true,
      "note": "On disarming the alarm the panel reported the front door not engaged. Sitter left it rather than risk setting the alarm off, then re-armed on leaving. Worth checking with the client whether the front door sensor is faulty or the door was genuinely open.",
      "quote": "It said something about the front door not being engaged, I didn't want to set it off so I left it alone."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Ashley Corall visit report, 12:51pm",
+     "office": false,
+     "note": "Rex's stool on the walk was loose; the sitter recorded it on the form as a little loose but not concerning. CJ's was firm. First loose stool logged for Rex - worth watching at tomorrow's visit rather than acting on.",
+     "quote": "Rex went#2 as well his seemed like loose."
     }
    ],
    "dormant": false
@@ -1594,6 +1604,16 @@
      "office": true,
      "note": "Asked for Friday Aug 28 8-9pm and Saturday Aug 29 8-10am. No office confirmation in the mailbox - check the scheduler.",
      "quote": "we can do the 8-9 pm time frame on Friday August 28 and then on Saturday morning the 29th 8-10am ish?"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Drew Walker visit report, 12:27pm",
+     "office": false,
+     "note": "Bismark was at the top of the stairs and came down slowly; sitter described him as lazy again today and he would not walk even though it was cooler. Sat outside in the shade instead. No #2 on the visit. Sitter says 'again', so this is at least the second visit like it.",
+     "quote": "He was very slow coming down the stairs and was very lazy again today."
     },
     {
      "cat": "behavior",
@@ -4795,6 +4815,16 @@
      "office": false,
      "note": "Miley gets blood pressure medication - one quarter pill each visit, in a pill pocket. Brittany pre-cuts the pills into quarters. Supplies, medication and the water jug are on the kitchen counter, along with a binder of instructions.",
      "quote": "Miley is usually sleeping on the bed, in the bedroom"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Monica Hopewell visit report, 12:42pm",
+     "office": true,
+     "note": "Sitter did not know how much wet food goes in the small bowl kept in the bedroom and improvised a small spoonful plus juice from the three cans. Miley's medicine was given and went easily. Portion needs writing into the Pet Care Note so the next sitter is not guessing.",
+     "quote": "I wasn't sure how much wet cat food to give her in the little bowl"
     },
     {
      "cat": "schedule",
