@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T14:20:06-04:00",
+ "generated": "2026-09-14T15:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -945,6 +945,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 14",
+     "source": "Drew Walker visit report, Sep 14 2:16pm",
+     "office": false,
+     "note": "Second short walk for Chloe on Sep 14 - Drew Walker's afternoon walk did not get far, though she went #1 a couple of times and no #2 was logged. Harvett Ellington's morning report the same day also described a short walk. The report does not say why either walk was cut short, so the reason is unconfirmed; it echoes the Sep 11 short walk after which she was hacking and wheezing. Same report answers that the client was home during the visit and asked that the door not be locked.",
+     "quote": "I began my walk with Chloe where we didn’t make it too far but she went number 1 a couple times."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 11",
      "source": "Elizabeth Sigler visit report",
      "office": false,
@@ -1020,16 +1030,6 @@
      "office": true,
      "note": "Melody repeated the cancellation privately so the office would tell the assigned sitter. The afternoon sitter still needs notifying.",
      "quote": "wanted to make sure you can notify the person scheduled"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client msg 11:39am",
-     "office": false,
-     "note": "Client says Chloe has a doctors appointment this afternoon. She does not say what for; the swollen eyes seen Sep 3 are unconfirmed as the reason.",
-     "quote": "Hey Chloe has a doctors appointment this afternoon"
     }
    ],
    "dormant": false
