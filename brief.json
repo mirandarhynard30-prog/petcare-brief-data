@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T13:20:06-04:00",
+ "generated": "2026-09-14T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2442,6 +2442,16 @@
      "office": true,
      "note": "Matt messaged at 8:22pm Sat Sep 5 to say he is home. He does not say whether this ends the trip, so confirm with him whether the Monday visit Monica told him about (\"I will see her Monday\") is still wanted. He being home also means the Farmer's Dog delivery Monica left inside the garage at 1:38pm Sep 5 should now be found and put away.",
      "quote": "Just got home!! TY so much for taking care of her today!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Monica Hopewell visit report, Sep 14 1:22pm",
+     "office": false,
+     "note": "Handling quirk from the Sep 14 1:00pm walk: Ripley would not get off the ottoman until she had been petted for about five minutes, then went out fine. Matt was outside during the walk and Ripley pulled toward him. Same report logs #1 only, no #2 - one visit, but Matt raised a no-#2 concern back on Aug 24.",
+     "quote": "Ripley said you need to pet me for 5 minutes before we move off of this ottoman"
     }
    ],
    "dormant": false
@@ -2682,6 +2692,16 @@
      "quote": "We won’t need you guys to come on Labor Day!"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Drew Walker visit report, Sep 14 1:28pm",
+     "office": false,
+     "note": "Second logged report of Milo pulling on the lead, this one from Drew Walker on the Sep 14 midday walk (the first was Sep 9, a different sitter). Drew walks Milo first, on his own, and puts the pulling down to meeting about four other dogs rather than to Milo. Two observations by two sitters, so worth watching, but still not written up anywhere as a standing rule.",
+     "quote": "he pulled a lot today but we also encountered like 4 other dogs so it wasn’t really his fault"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2710,6 +2730,16 @@
      "office": false,
      "note": "Client says the dogs will be shut in the basement for today's visit because cleaners are at the house.",
      "quote": "The dogs will be in the basement since the cleaners will be here today."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Drew Walker visit report, Sep 14 1:28pm",
+     "office": false,
+     "note": "On the Sep 14 midday visit Milo was put back in his crate before the sitter left. One sitter on one visit - the report does not say whether crating Milo at the end of every visit is the standing instruction, so confirm before treating it as one. Milo and Archer were walked separately, Milo first.",
+     "quote": "putting Milo back in his crate before leaving for the day and locking the door"
     },
     {
      "cat": "home",
