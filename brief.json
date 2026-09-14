@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T23:20:05-04:00",
+ "generated": "2026-09-14T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2294,7 +2294,7 @@
      "quote": "Thank you for taking care of Ginger this weekend! We will be back this evening"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Matt Konn",
@@ -2364,16 +2364,6 @@
      "quote": "She just ate…and no #2 this morning."
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 23",
-     "source": "Client private message",
-     "office": true,
-     "note": "Client is out of town Aug 26-31 and gave visit windows: morning 7:30-9 and afternoon 1-4, both walk/play/water with no feeding. He later confirmed normal visit lengths, no time bump needed.",
-     "quote": "Morning visit: 7:30-9. Walk/play/Water (no feed)"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2434,16 +2424,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 23",
-     "source": "Client message",
-     "office": true,
-     "note": "Client is pausing service for at least a month - cancel all of September, revisit at the start of October. Recurring template still shows Tues/Thurs midday visits, so the schedule needs clearing.",
-     "quote": "Cancel all of September. Maybe check back beginning of oct."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2495,16 +2475,6 @@
      "office": false,
      "note": "Jaxon, the black cat, bangs cabinet doors when he wants food. Leave the basket in front of the bathroom sink where it is, or he will do it there too. The white cat hides under the bed, in the closet (left shelf or back right corner) or on top of the kitchen cabinets.",
      "quote": "Will slam cabinets for food"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 23",
-     "source": "Client message",
-     "office": false,
-     "note": "Client left the kitchen light on and asked that all lights be switched off after the last visit of the day.",
-     "quote": "can someone make sure all the lights are off tonight after they leave please"
     }
    ],
    "dormant": false
@@ -2628,16 +2598,6 @@
      "office": true,
      "note": "Client Vicki Davey replied to that message a few minutes later without giving any detail about Trudy's condition or about the schedule, so the office still has nothing confirmed to work from.",
      "quote": "I sure will thanks for reaching out!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 23",
-     "source": "Client message",
-     "office": false,
-     "note": "For the Aug 23 visit the client said the front door would be left open and Trudy would most likely be in the kitchen. One-off note for that visit, not confirmed as a standing arrangement.",
-     "quote": "The front door will be open Trudy probably will be in the kitchen"
     }
    ],
    "dormant": false
@@ -2668,16 +2628,6 @@
      "office": false,
      "note": "Backfill - very little is on file for this client. The dog is Bella. On the Aug 29 visit she went #1 several times and #2 once, stool firm and healthy. A person called Linda was at the house and the shadowing sitter met her; the email does not say who Linda is.",
      "quote": "It was nice to meet Linda and Bella!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 23",
-     "source": "Client message",
-     "office": false,
-     "note": "Visits are at the client's mother's house. She warned that her mother may still be asleep at a 9:00 arrival.",
-     "quote": "I told my mom 9:00. She may not be awake yet"
     }
    ],
    "dormant": false
