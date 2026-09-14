@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T19:20:06-04:00",
+ "generated": "2026-09-13T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4261,6 +4261,16 @@
      "quote": "Use cheese if needed to get them inside"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Tiarra Roberts evening visit report, Sep 13",
+     "office": true,
+     "note": "Bill arrived home during the Sep 13 evening visit, while the sitter was heading upstairs with the boys at the end of the visit. The report does not say whether any further visits are still scheduled, so the office should confirm whether the remaining sit is still needed.",
+     "quote": "But Bill actually came home just as I was doing that."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -5051,6 +5061,26 @@
      "office": true,
      "note": "Chloe's Phos-bind was NOT given at the Sep 11 evening visit because there was none at the house. The sitter states this plainly in the report; she does not say where it is normally kept or whether the supply has run out. Office needs to check with the client whether more is available before the next feeding, and whether any missed doses matter.",
      "quote": "There was no Phos-bind so Chloe didn’t get that."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Chelsea Tompkins evening visit report, Sep 13",
+     "office": false,
+     "note": "Bella vomited at the Sep 13 evening visit - the sitter found hard food thrown up on the floor and cleaned it up, then fed Bella more wet food. This is the first vomiting recorded for Bella in the brief. The report marks no accidents or destruction otherwise and says the girls were a little shy.",
+     "quote": "Bella had throw up some hard food on the floor that I cleaned up."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 13",
+     "source": "Chelsea Tompkins evening visit report, Sep 13",
+     "office": true,
+     "note": "The Sep 13 evening report covers wet food for Bella, topping off Chloe's dry food, water, litter box scooping and treat puzzles, but makes no mention of Chloe's medicine or Phos-bind. This is the second consecutive evening report with no medication entry. The report does not say whether an evening dose was due, so the office should confirm the actual drug, dose and schedule rather than assume it was skipped or not required.",
+     "quote": ""
     },
     {
      "cat": "health",
