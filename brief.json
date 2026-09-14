@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T08:20:05-04:00",
+ "generated": "2026-09-14T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3734,14 +3734,14 @@
      "quote": "If possible, could we change our start date to be one week from tomorrow on 9/7 please?"
     },
     {
-     "cat": "health",
+     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 11",
-     "source": "Client message, 9:01am",
+     "date": "Sep 14",
+     "source": "Client message, Sep 14 8:24am",
      "office": false,
-     "note": "Diarrhea in his crate on the evening of Sep 10, solid bowel movement the next morning, so it appears settled. Client raised it himself and is not asking for anything. Flag only if it recurs.",
-     "quote": "Whiskey unfortunately had some diarrhea in his crate when I came home yesterday evening"
+     "note": "Erik says he and his girlfriend are both home today, and asks to keep Whiskey's visits today and tomorrow exactly as scheduled - no change requested. He adds that both their work routines changed recently and they are still sorting their schedules out, so further changes may follow.",
+     "quote": "My girlfriend and I are both home today, just FYI."
     }
    ],
    "dormant": false
