@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T00:05:06-04:00",
+ "generated": "2026-09-14T08:50:49-04:00",
  "date": "2026-09-14",
  "label": "Sep 14, 2026",
  "clients": [
@@ -19,18 +19,6 @@
      "staff": "Chelsea Tompkins",
      "service": "Cat Visit-45 minute",
      "pets": "Chloe, Bella"
-    }
-   ]
-  },
-  {
-   "name": "Angela Jozsa",
-   "visits": [
-    {
-     "time": "11:15 AM",
-     "sort": "1115",
-     "staff": "Margaret Bill",
-     "service": "Dog Visit-30 minute",
-     "pets": "Lucy"
     }
    ]
   },
@@ -291,5 +279,5 @@
    ]
   }
  ],
- "visitCount": 26
+ "visitCount": 25
 }
