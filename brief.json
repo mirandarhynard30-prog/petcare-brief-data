@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T06:20:05-04:00",
+ "generated": "2026-09-14T07:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3053,6 +3053,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Client private message to Miranda, Sep 14 6:11am",
+     "office": true,
+     "note": "Client cancelled Wednesday's visit for Oakley. She wrote 'Wednesday' without a date; in context that is Wed Sep 16. Needs cancelling in Time To Pet and the sitter told.",
+     "quote": "Miranda, we won’t need anyone for Oakley on Wednesday! Thank you!"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -3161,16 +3171,6 @@
      "office": false,
      "note": "Oakley was found in the basement on this visit rather than upstairs; the sitter went down to him. One observation only - the standing note about checking the bedroom still stands.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Client message, Sep 2 12:50pm",
-     "office": false,
-     "note": "Client replied that she will clean the basement herself tonight, closing out this morning's accident and the missing carpet cleaner. No office action needed.",
-     "quote": "And no worries about the basement, we’ll get it cleaned tonight."
     }
    ],
    "dormant": false
