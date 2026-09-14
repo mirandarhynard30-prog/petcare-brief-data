@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T10:20:07-04:00",
+ "generated": "2026-09-14T11:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2129,6 +2129,16 @@
      "office": false,
      "note": "The second dog in the home can react to other dogs by barking and pulling.",
      "quote": "Macy can be dog reactive (barking and pulling)"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Michelle Carrara visit report 11:04am Sep 14",
+     "office": false,
+     "note": "Murphy's stool on the Sep 14 10:30am walk was logged as a little loose but not concerning - first loose-stool note for Murphy. Energy was good for the whole walk and the sitter, who had not seen him for a while, thought he looked slimmer.",
+     "quote": "He had good energy throughout the entire walk and looks slimmer to me"
     },
     {
      "cat": "schedule",
