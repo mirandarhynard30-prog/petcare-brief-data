@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T11:20:05-04:00",
+ "generated": "2026-09-15T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3295,6 +3295,16 @@
     {
      "cat": "home",
      "sev": "low",
+     "type": "standing",
+     "date": "Sep 15",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "Ray was home again for the Sep 15 morning walk, had Archie ready and asked that the door not be locked. That is the fourth visit report logging the same thing (Aug 25, Aug 26, Sep 14, Sep 15), so treat it as the normal pattern at this house - but note it is still not written anywhere in Time To Pet. Archie went #1 and #2 and the stool was logged firm and healthy.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
      "type": "recent",
      "date": "Sep 14",
      "source": "Thomas Rakovec visit report, Sep 14 morning walk",
@@ -4167,6 +4177,16 @@
      "office": true,
      "note": "Follow-up to her earlier Saturday message. The client says Blackie will be at the neighbour Greg's house for the whole period the walk schedule covers, not at her own home. Confirm with her where each scheduled walk should start before a sitter is sent out. Access details in the same thread are deliberately not repeated here.",
      "quote": "Greg house he will be there this whole time that we have walk schedule"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Noella Assi visit report",
+     "office": false,
+     "note": "On Sep 15 the walk started and ended at the Orlando house, NOT at neighbour Greg's - Blackie was left inside the home and his leash put in the laundry room. That is different from Sep 9 and Sep 14, when he was collected from and returned to Greg's. The client was home and asked that the door not be locked. So the neighbour arrangement is not standing; check where Blackie will be before each visit.",
+     "quote": "I left him inside and placed his leash in the laundry room"
     },
     {
      "cat": "home",
@@ -5355,6 +5375,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Ashley Corall visit report",
+     "office": true,
+     "note": "Sep 15 midday visit: Oakley was reluctant to go to the bathroom on the lead, so Ashley Corall switched her to a regular leash and says she did much better. Ashley asks outright whether Oakley still uses the lead - nobody has answered her and no leash rule is written in Time To Pet. One sitter on one visit, so logged as an open question, not a standing rule.",
+     "quote": "I was wondering if Oakley still used the lead"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -5363,6 +5393,15 @@
      "office": true,
      "note": "Bailey has left ear discomfort this week; client hoped to get her to the vet Mon Sep 14. No diagnosis or medication written down yet - check with the client before the next visit and watch the ear.",
      "quote": "Bailey this week if having some left ear discomfort, hoping to get her in the vet tomorrow"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Ashley Corall visit report",
+     "office": false,
+     "note": "Outside on Sep 15 Bailey reacted loudly to the chocolate lab in the next-door yard; the sitter described it as guard-dog behaviour and says Bailey was sweet and affectionate once back indoors. First logged reactivity note for Bailey - worth watching on future walks rather than treating as a rule."
     },
     {
      "cat": "health",
