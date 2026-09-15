@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T07:20:05-04:00",
+ "generated": "2026-09-15T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -132,6 +132,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Client message 7:12am Sep 15",
+     "office": false,
+     "note": "Client asked this morning that the sitter stir the crock pot during today's visit. A kitchen task, not pet care - worth knowing before arrival.",
+     "quote": "Hi shannon, can you stir the crock pot today during your visit?"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -240,16 +250,6 @@
      "office": false,
      "note": "Backyard time cut short in the heat - Shannon kept the girls out only long enough to potty, gave cold water before and after, and took them out once more briefly. Both went #1 and #2, stool firm.",
      "quote": "We didn't stay out long because of the weather"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Elizabeth Sigler visit report, Aug 29 afternoon",
-     "office": false,
-     "note": "Sitter flagged that the treats at the house are getting low and marked pet supplies low on the visit report.",
-     "quote": "I think the treats are getting low"
     }
    ],
    "dormant": false
@@ -303,6 +303,16 @@
      "office": true,
      "note": "Client is off work Fri Sep 4 and Mon Sep 7 and says she will enter the cancellation requests herself; she expects visits to resume Tue Sep 8. Office should confirm both cancellations actually came through.",
      "quote": "I will be off Monday too for the holiday. I will enter the cancellation requests now."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Thomas Rakovec visit report Sep 14",
+     "office": false,
+     "note": "Sep 14 report: Emma's eye drops were given and medication logged as administered. All four dogs got outside and went #1; Stella's #2 was logged firm and healthy, and Berry, Emma and Louie each had no #2. Client was home during the visit.",
+     "quote": ""
     },
     {
      "cat": "behavior",
@@ -3724,6 +3734,16 @@
      "quote": "On the way back he decided to take a break in the grass and catch his breath."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Client message 8:24am Sep 14",
+     "office": true,
+     "note": "Client and his girlfriend were both home Sep 14 and say their work routines have changed recently, so they are reworking Whiskey's visit schedule. They asked that Sep 14 and Sep 15 stand as booked. No reply from the office is visible in the mailbox.",
+     "quote": "let’s stay the course for today / tomorrow for whiskey’s visits!"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -3812,16 +3832,6 @@
      "office": true,
      "note": "Client asks to change Whiskey's schedule to two visits on Saturday and Sunday, starting tomorrow Sat Sep 5. He apologises for the short notice and phrases it as a question, so it is a request awaiting an office answer, not a confirmed change. Unanswered as of 9:10am Sep 4.",
      "quote": "change our schedule for Whiskey to be two visits on Saturday and Sunday starting tomorrow"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Shannon Anderson message to client, 10:57am",
-     "office": false,
-     "note": "Erik's weekend request is now covered on the sitter side: Shannon Anderson tells him she will be there both Saturday and Sunday afternoon, and that a team member, Elizabeth S., will shadow her on Saturday for Whiskey.",
-     "quote": "Hi Erik, I will be there both Saturday and Sunday afternoon."
     }
    ],
    "dormant": false
