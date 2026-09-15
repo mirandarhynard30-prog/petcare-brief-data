@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T17:20:05-04:00",
+ "generated": "2026-09-15T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -19,6 +19,26 @@
      "office": false,
      "note": "Client rewrote her own General Information on Sep 15 and ADDED a second AM medication for Livvie. The only change from the previous version is Gabapentin: 0.4 mls at AM visits, kept in the refrigerator, drawn with the syringe on the counter and measured to the red line on the syringe, then squirted into her mouth. The PrednisOLONE instruction (1 and a 1/2, purple pill cutter, check the tray for a half pill from the previous day) was already there and is unchanged. Feeding, litter box and water instructions are unchanged.",
      "quote": "Livvie also gets 0.4 mls of Gabapentin. It is in the refrigerator."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 15",
+     "source": "Client profile edit - Other/General Information",
+     "office": false,
+     "note": "Client re-edited Livvie's AM medication instructions three times between 5:10pm and 5:13pm. Current text: 1 and a 1/2 PrednisOLONE cut with the BLUE pill cutter in the cat drawer - this replaces the earlier 'purple pill cutter' wording from the 10:34am version. The Gabapentin line was also changed to 0.4 mls kept in the refrigerator next to the canned food. Use the latest profile text, not any printed copy.",
+     "quote": "Use blue pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Client private message 5:09pm",
+     "office": true,
+     "note": "Client says the concern is Livvie's Gabapentin in particular, and asks that Tiarra shadow Noella on AM visits so the client can work with both of them. Livvie's meds are AM-only, so PM-only shadowing cannot teach them. Office to arrange the AM shadowing.",
+     "quote": "I think Noella may still be a little uncomfortable with Livvies AM meds"
     },
     {
      "cat": "schedule",
@@ -49,6 +69,16 @@
      "office": true,
      "note": "Five minutes after the message above, the client offers a different option: move the 29th to the 28th AM instead. She adds that Monday AMs could work before work and that she will look at switching more visits. At 1:28pm she said she was leaving for an appointment and would come back to it. No date is settled yet - the office needs to pick one and confirm.",
      "quote": "Actually if you want to switch the 29th to the 28th AM that would work."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Client private message 5:09pm",
+     "office": true,
+     "note": "Client says she added Mondays in November including the Monday before she leaves, specifically to create AM shadowing slots. Confirm the schedule actually reflects these moves and that Tiarra is assigned.",
+     "quote": "So I moved another visit to a Monday in October and added a couple Mondays in November"
     },
     {
      "cat": "health",
@@ -99,36 +129,6 @@
      "office": false,
      "note": "Client wrote Sep 11 that she is relieved the cat is eating. She does not say which cat, though the earlier appetite and medication thread was about Livvie. Reads as the appetite worry continuing to settle rather than a new problem.",
      "quote": "Yes its such a relief shes eating!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 3",
-     "source": "Client message and Noella visit report, Sep 3",
-     "office": false,
-     "note": "Both cats hide during storms and may not greet at the door. On the Sep 3 evening visit Caleb was not waiting by the door and Livvie was under the bed; the owner said she was not surprised and had expected them to stay hidden. Call out and set food down rather than assuming they are out.",
-     "quote": "Im not surprised they were a little skittish with the storm"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client message, Sep 3 8:47pm",
-     "office": false,
-     "note": "Owner describes the cats stealing each other's food at mealtimes - Livvie pushed Caleb off his bowl one morning, and the owner says Caleb has done the same to her. She fed Livvie her own bowl separately and it settled. Worth watching bowls if feeding both.",
-     "quote": "she had pushed him out of his food and was eating his"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Kelly Huntington",
-     "office": false,
-     "note": "Vet called Aug 27 morning: bloodwork for both Caleb and Livvie came back normal. Follows Livvie's illness and weight loss earlier in the month.",
-     "quote": "Vet called this morning. Caleb and Livvies bloodwork came back normal!"
     }
    ],
    "dormant": false
@@ -5502,6 +5502,26 @@
      "office": false,
      "note": "Client confirmed on Sep 13, in reply to Ashley Corall asking, that nothing about Oakley's care has changed - same feeding schedule, he is just bigger. Rest of care also unchanged.",
      "quote": "Nothing different. Oakley is much bigger now but still same feeding schedule!"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Brandon Keyes",
+   "url": "https://www.timetopet.com/dashboard/client/tld7y9lA5B2l",
+   "pets": [
+    "Flaco"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Post visit report - Elizabeth Cuffari 5:59pm",
+     "office": true,
+     "note": "Meet and greet held the evening of Sep 15 by Shannon Anderson and Elizabeth Cuffari. Elizabeth called the dog 'such a sweetheart'. This is a brand new client with no care notes of any kind on file - a sitter arriving for the first real visit has nothing written to work from, so the office needs to write Pet Care Notes before then. Pet name spelling is unconfirmed: Elizabeth wrote 'Flaco', Shannon wrote 'Flocko'.",
+     "quote": "it was very nice meeting you and Flaco"
     }
    ],
    "dormant": false
