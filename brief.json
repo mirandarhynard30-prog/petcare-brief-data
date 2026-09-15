@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T08:20:05-04:00",
+ "generated": "2026-09-15T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3281,6 +3281,16 @@
      "office": true,
      "note": "Ray cancelled tomorrow's visit (Mon Sep 7) and expects service to resume Tuesday Sep 8. Sent as a message, not through the portal, so the visit is still on the schedule until the office removes it. Addressed to Tommy.",
      "quote": "Tommy I just realized I won’t need your services tomorrow, have a great day and we will see you Tuesday."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Thomas Rakovec visit report, Sep 14 morning walk",
+     "office": false,
+     "note": "Archie's Sep 14 morning walk: Ray was home, had Archie ready at the door and asked that the door not be locked on the way out. That is the third report recording the same thing (Aug 25, Aug 26, Sep 14), so it is looking like the normal arrangement rather than a one-off - but it has not been confirmed as a standing rule. Sitter did not go through the home because the client was there. Archie went #1 and #2 and the stool was logged firm and healthy.",
+     "quote": ""
     },
     {
      "cat": "health",
