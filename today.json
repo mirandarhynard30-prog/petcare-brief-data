@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T00:05:11-04:00",
+ "generated": "2026-09-15T09:05:17-04:00",
  "date": "2026-09-15",
  "label": "Sep 15, 2026",
  "clients": [
@@ -156,14 +156,7 @@
      "time": "6:00 PM",
      "sort": "1800",
      "staff": "Dan Dantimo",
-     "service": "Trainer Visit-30minute",
-     "pets": "Holly"
-    },
-    {
-     "time": "6:00 PM",
-     "sort": "1800",
-     "staff": "Candie Diamond",
-     "service": "Shadow Visit with Staff Member-30 minute",
+     "service": "Dog Visit-30 minute",
      "pets": "Holly"
     }
    ]
@@ -279,5 +272,5 @@
    ]
   }
  ],
- "visitCount": 25
+ "visitCount": 24
 }
