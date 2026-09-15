@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T19:20:05-04:00",
+ "generated": "2026-09-14T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3346,6 +3346,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 14",
+     "source": "Dan Dantimo evening visit report, Sep 14 7:30pm",
+     "office": true,
+     "note": "On the Sep 14 evening walk Guinness went both #1 and #2 and Dan again logged the consistency as a little loose but not concerning. That is the sixth loose reading in the brief since Aug 27 (Aug 27, Aug 31, Sep 4, Sep 8, Sep 11, Sep 14); the only firm reading in that span was Sep 2. No one has raised it with Deb in writing. Dan reports the walk itself went well and Guinness walked the usual Commons and Pembrooke route with no trouble.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 11",
      "source": "Dan Dantimo visit report, Sep 11 6:44pm",
      "office": true,
@@ -3441,16 +3451,6 @@
      "office": false,
      "note": "Tue Sep 8 evening walk: Guinness went both #1 and #2 and Dan logged the consistency as a little loose but not concerning - the same reading as Sep 4, Sep 1, Aug 31, Aug 28, Aug 27 and Aug 25. Otherwise an unremarkable walk on the usual block-and-dirt-path route; he pulled at the start, recalled well, no accidents in the home.",
      "quote": "He did go number one and two."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Julie Smith visit report, Sep 2 6:56pm",
-     "office": false,
-     "note": "Sep 2 evening visit with a sitter meeting Guinness for the first time: he went both #1 and #2 and the consistency was logged as firm and healthy. Deb Ward's recent reports had been logging his stool as a little loose but not concerning, so this one reads differently. Client was home, so the sitter did not go through the house.",
-     "quote": "It was firm and healthy"
     }
    ],
    "dormant": false
