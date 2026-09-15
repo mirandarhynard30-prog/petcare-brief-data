@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T12:20:05-04:00",
+ "generated": "2026-09-15T13:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -19,6 +19,16 @@
      "office": false,
      "note": "Client rewrote her own General Information on Sep 15 and ADDED a second AM medication for Livvie. The only change from the previous version is Gabapentin: 0.4 mls at AM visits, kept in the refrigerator, drawn with the syringe on the counter and measured to the red line on the syringe, then squirted into her mouth. The PrednisOLONE instruction (1 and a 1/2, purple pill cutter, check the tray for a half pill from the previous day) was already there and is unchanged. Feeding, litter box and water instructions are unchanged.",
      "quote": "Livvie also gets 0.4 mls of Gabapentin. It is in the refrigerator."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client will be home for some upcoming visits and asks that Tiarra shadow those so she can meet her. She first said the next two AM visits on the 22nd and 29th, then corrected herself in a follow-up message that the 22nd is a PM visit. She also said she may try to be home early enough on Friday to catch the visit. Needs scheduling action from the office.",
+     "quote": ""
     },
     {
      "cat": "health",
@@ -2434,6 +2444,16 @@
      "quote": "Both dogs went berserk! I've never really had to use all my strengths for her. She is one strong lady."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Client message",
+     "office": false,
+     "note": "Client messaged at 12:51pm that a contractor was working on the front of the house during today's visit window. No instruction given beyond the heads-up.",
+     "quote": "Monica - contractor there working on front of house…."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2482,16 +2502,6 @@
      "office": true,
      "note": "Matt messaged at 8:22pm Sat Sep 5 to say he is home. He does not say whether this ends the trip, so confirm with him whether the Monday visit Monica told him about (\"I will see her Monday\") is still wanted. He being home also means the Farmer's Dog delivery Monica left inside the garage at 1:38pm Sep 5 should now be found and put away.",
      "quote": "Just got home!! TY so much for taking care of her today!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Monica Hopewell visit report, Sep 14 1:22pm",
-     "office": false,
-     "note": "Handling quirk from the Sep 14 1:00pm walk: Ripley would not get off the ottoman until she had been petted for about five minutes, then went out fine. Matt was outside during the walk and Ripley pulled toward him. Same report logs #1 only, no #2 - one visit, but Matt raised a no-#2 concern back on Aug 24.",
-     "quote": "Ripley said you need to pet me for 5 minutes before we move off of this ottoman"
     }
    ],
    "dormant": false
@@ -5385,6 +5395,26 @@
      "quote": "I was wondering if Oakley still used the lead"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 15",
+     "source": "Client message",
+     "office": false,
+     "note": "Client answered the sitter's question about the lead: Oakley is normally let loose in the fenced yard and is no longer used to the lead. She says the lead may still be easier for sitters because Oakley's recall to come back inside is not good on cooler days, and that treats usually entice him in. Note the sitter refers to Oakley as she and the client as he - the pet's sex is unclear from the emails.",
+     "quote": "So we usually let Oakley off on his own so he isn’t much used to the lead anymore"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Sitter message",
+     "office": true,
+     "note": "Ashley Corall asked the client whether Oakley could wiggle under the fence. No answer from the client on that point yet. Ashley notes the dogs are never left unattended outside. Office should get a yes or no and get it written into Time To Pet.",
+     "quote": "Okay I just sure if Oakley could wiggle under the fence even though we are outside with them all the time"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -5402,6 +5432,16 @@
      "source": "Ashley Corall visit report",
      "office": false,
      "note": "Outside on Sep 15 Bailey reacted loudly to the chocolate lab in the next-door yard; the sitter described it as guard-dog behaviour and says Bailey was sweet and affectionate once back indoors. First logged reactivity note for Bailey - worth watching on future walks rather than treating as a rule."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 15",
+     "source": "Client message",
+     "office": false,
+     "note": "Context on Bailey's barking at the neighbour dog: the client says Bailey's bark is much bigger than her bite, and that neighbour dog Charlie is docile, used to her barking and just likes staring at them.",
+     "quote": "bails is such a guard dog with a bark sooo much bigger than her bite"
     },
     {
      "cat": "health",
