@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T21:20:04-04:00",
+ "generated": "2026-09-14T22:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5136,6 +5136,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 14",
+     "source": "Chelsea Tompkins, Sep 14 evening visit report",
+     "office": true,
+     "note": "The Sep 14 EVENING report covers Bella's wet food, Chloe's dry food and water, the bins and the mail, but makes no mention of Chloe's medicine at all. Chelsea's own Sep 14 MORNING report did mention preparing it. Whether an evening dose was due is not stated anywhere - office to confirm with the clients what Chloe's evening medication schedule actually is. Do not assume a dose was missed.",
+     "quote": "I added some more dry food to Chloe bowl and refreshed the water."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 13",
      "source": "Chelsea Tompkins visit report, Sep 13 morning",
      "office": true,
@@ -5171,6 +5181,16 @@
      "office": false,
      "note": "Chloe's medicine was prepared as a churu-and-medicine mix and carried upstairs to her; the report marks medication administered. The report does not name the medication or give a dose.",
      "quote": "I took Chloe churo and medicine mix upstairs for her."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Chelsea Tompkins, Sep 14 evening visit report",
+     "office": false,
+     "note": "Chloe did not come to greet the sitter on the Sep 14 evening visit - she was found upstairs lying down behind the curtains. The same report answers 'Was the pets happy to see you?' with 'They were a little shy'.",
+     "quote": "I found Chloe laying down behind the curtains."
     },
     {
      "cat": "health",
@@ -5221,6 +5241,16 @@
      "office": false,
      "note": "On the Sep 11 morning visit Bella kept her distance - she greeted the sitter at the door but then watched from across the room and would not come over, and only took a small handful of dry food by hand right at the end. The visit report also marked both pets as a little shy.",
      "quote": "I sat for a little bit seeing if Bella would come over she didn’t"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Chelsea Tompkins, Sep 14 evening visit report",
+     "office": false,
+     "note": "Cleaners were in the house on Sep 14. Worth knowing if a later sitter finds doors, bowls or bins moved from their usual places.",
+     "quote": "The cleaners came today."
     }
    ],
    "dormant": false
