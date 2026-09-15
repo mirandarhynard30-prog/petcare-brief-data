@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T13:20:04-04:00",
+ "generated": "2026-09-15T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -29,6 +29,26 @@
      "office": true,
      "note": "Client will be home for some upcoming visits and asks that Tiarra shadow those so she can meet her. She first said the next two AM visits on the 22nd and 29th, then corrected herself in a follow-up message that the 22nd is a PM visit. She also said she may try to be home early enough on Friday to catch the visit. Needs scheduling action from the office.",
      "quote": ""
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Client private message, Sep 15 1:09pm",
+     "office": true,
+     "note": "Follow-up to the Tiarra shadowing thread. Client says the 29th could move to a PM if that suits better, and that she has separately submitted a change moving the Oct 13 visit to PM because the cats have a vet appointment that morning. She also flags a problem with PM shadowing: Livvie's medication is AM only, so a sitter who only shadows PM visits cannot learn it.",
+     "quote": "They have a vet visit that AM so PM actually works better."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Client private message, Sep 15 1:14pm",
+     "office": true,
+     "note": "Five minutes after the message above, the client offers a different option: move the 29th to the 28th AM instead. She adds that Monday AMs could work before work and that she will look at switching more visits. At 1:28pm she said she was leaving for an appointment and would come back to it. No date is settled yet - the office needs to pick one and confirm.",
+     "quote": "Actually if you want to switch the 29th to the 28th AM that would work."
     },
     {
      "cat": "health",
@@ -109,16 +129,6 @@
      "office": false,
      "note": "Vet called Aug 27 morning: bloodwork for both Caleb and Livvie came back normal. Follows Livvie's illness and weight loss earlier in the month.",
      "quote": "Vet called this morning. Caleb and Livvies bloodwork came back normal!"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Client message, Aug 27 4:41 pm ET",
-     "office": false,
-     "note": "Replying to the sitter's suggestion of changing Caleb's food: the client will raise it with the vet at Livvie's follow-up appointment and report back. She writes 'next Friday' without a date, so it is unclear whether that is Aug 28 or Sep 4. No food change is in effect - keep feeding as instructed.",
-     "quote": "Ive thought about it. Im gonna talk to her next Friday about it when I take Liv for her follow up."
     }
    ],
    "dormant": false
@@ -932,6 +942,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Drew Walker visit report, Sep 15 1:56pm",
+     "office": true,
+     "note": "Sep 15 afternoon walk was cut short again because Chloe kept wheezing; the sitter ended it early as a precaution and sat with her back at the house. This is the fourth short or interrupted walk in five days (Sep 11 hacking and wheezing, two short walks Sep 14, now Sep 15) and the first time a sitter has stopped a walk for it. She went #1 a few times, no #2. Worth a call to the client.",
+     "quote": "On the walk she kept weezing so I ended it a bit early to stay on the cautious side"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -960,6 +980,16 @@
      "office": true,
      "note": "Aug 27 afternoon: Ellie Mae was leashed and walked with Chloe, against the standing instruction that her vet asked her walking be minimised. She cut it short and went back inside after #2; Chloe finished alone. Sitter needs telling.",
      "quote": "I came in and was approached by Ellie Mae she followed me to get Chloe leashed them both up and went on our walk."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Drew Walker visit report, Sep 15 1:56pm",
+     "office": false,
+     "note": "On arrival Chloe was at the top of the stairs already panting from barking. Echoes the Sep 7 report of her barking at the top of the stairs, but this one adds that she had worked herself into panting before the sitter was in the house.",
+     "quote": "I arrived to Chloe at the top of the stairs and she was already panting from barking a whole lot"
     },
     {
      "cat": "health",
@@ -1030,26 +1060,6 @@
      "office": false,
      "note": "Chloe was bright and energetic on the Mon Sep 7 morning walk - sniffing, running and wanting to carry on - and her stool was logged firm and healthy. No sign of the tiredness seen the week after Ellie Mae died, and nothing reported about the eyes that looked swollen on Sep 3.",
      "quote": "The walk with Chloe went great! She was sniffing everywhere, did some running, and even wanted to keep walking."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Jade Popovitz visit report, Mon Sep 7 morning",
-     "office": false,
-     "note": "Access note for the Sep 7 morning visit: the front door was locked, so the sitter came in through the garage. Melody was home and was startled by the entry. The sitter closed both the garage and the fence back to how she found them.",
-     "quote": "I did use the garage to get in since the front door was locked."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Faith Collins visit report, Sep 7 afternoon visit",
-     "office": false,
-     "note": "On the Sep 7 afternoon visit Faith found Chloe barking at the top of the stairs. She sat with Chloe a while so Chloe would remember her, then leashed her and carefully escorted her down the stairs and out the door. Once outside Chloe moved very quickly and the walk went normally - #1 and #2, recorded as firm and healthy, no accidents in the home.",
-     "quote": "Today I found Chloe barking at the top of the stairs."
     }
    ],
    "dormant": false
@@ -2744,6 +2754,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Sep 15",
+     "source": "Drew Walker visit report, Sep 15 1:09pm",
+     "office": false,
+     "note": "Third logged report of Milo pulling on the lead - Sep 9, Sep 14 and now Sep 15, across two sitters. Consistent enough to expect on every walk rather than treat as a one-off. Drew describes it as mild this time and says Milo was otherwise good.",
+     "quote": "he pulled a bit but was overall good"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Sep 14",
      "source": "Drew Walker visit report, Sep 14 1:28pm",
@@ -2780,6 +2800,16 @@
      "office": false,
      "note": "Client says the dogs will be shut in the basement for today's visit because cleaners are at the house.",
      "quote": "The dogs will be in the basement since the cleaners will be here today."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Drew Walker visit report, Sep 15 1:09pm",
+     "office": true,
+     "note": "Milo was put back in his crate before the sitter left, the second such report and both from the same sitter. Still no written instruction saying end-of-visit crating is required, so it remains unconfirmed whether this is the client's rule or the sitter's habit. Worth asking the client once and writing the answer down.",
+     "quote": "before putting Milo in his crate"
     },
     {
      "cat": "behavior",
@@ -3183,6 +3213,16 @@
      "quote": "Backyard is NOT fenced — must use leash or long lead (available)"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Tiarra Roberts visit report and follow-up message, Sep 15 12:16pm and 1:18pm",
+     "office": true,
+     "note": "Both the paper towels and Oakley's poop bags ran out at the Sep 15 midday visit and the sitter could not find replacements for either. She said afterwards she did not know where either is kept. Needs the storage location written into the Pet Care Note, and someone to confirm whether the client is restocking.",
+     "quote": "The paper towels were out and I could not find any replacements."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -3271,16 +3311,6 @@
      "office": false,
      "note": "Owner says Oakley gets seasonal allergies around this time of year and she is managing them herself so far. No treatment named and nothing asked of the sitter.",
      "quote": "He does get allergies around this time, we’re mitigating it pretty well so far this year thankfully!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Ashley Corall 11:15am",
-     "office": false,
-     "note": "Oakley was found in the basement on this visit rather than upstairs; the sitter went down to him. One observation only - the standing note about checking the bedroom still stands.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -3754,6 +3784,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Client message, Sep 15 2:03pm",
+     "office": true,
+     "note": "Client wrote at 2:03pm that he and Praveena are away visiting her dad in Strongsville, so nobody is home for the rest of today's visits. He added an entry note that he qualified himself with 'I believe' - that detail is in Time To Pet and is deliberately not repeated here. Entry should be treated as unconfirmed and checked with the office before arrival.",
+     "quote": "Praveena and I are visiting her dad in Strongsville"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -3862,16 +3902,6 @@
      "office": true,
      "note": "Erik replied 9:15pm Sun Sep 6 confirming something the office had put to him and saying Whiskey is looking forward to seeing us tomorrow, i.e. he expects a visit on Mon Sep 7 (Labor Day). The email does not say what was confirmed, so the exact visit time is not established here. This is the start date he asked for back on Aug 30 when he pushed daily visits from Mon Aug 31 to Mon Sep 7. Office should make sure Monday's visit is on the schedule and staffed.",
      "quote": "Correct! Thank you for confirming! He's looking forward to seeing you guys tomorrow!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client message 9:04am Sep 4",
-     "office": true,
-     "note": "Client asks to change Whiskey's schedule to two visits on Saturday and Sunday, starting tomorrow Sat Sep 5. He apologises for the short notice and phrases it as a question, so it is a request awaiting an office answer, not a confirmed change. Unanswered as of 9:10am Sep 4.",
-     "quote": "change our schedule for Whiskey to be two visits on Saturday and Sunday starting tomorrow"
     }
    ],
    "dormant": false
