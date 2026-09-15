@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T16:20:05-04:00",
+ "generated": "2026-09-15T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -162,6 +162,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Client message 12:35pm",
+     "office": true,
+     "note": "Client confirmed she wants the girls FED on Wed Sep 16. Confirm a feeding visit is actually on tomorrow's schedule.",
+     "quote": "Thank you!! Yes, please feed them tomorrow!"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -270,16 +280,6 @@
      "office": false,
      "note": "Client confirms Puck has become sensitive to loud noises - her wording (\"anymore\") indicates this is a change from before, so treat as ongoing. Comfort her during fireworks, thunder, air shows and similar.",
      "quote": "Yes puck doesnt like loud noises anymore!!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Shannon Anderson visit report, Sep 1 12:39pm",
-     "office": false,
-     "note": "Backyard time cut short in the heat - Shannon kept the girls out only long enough to potty, gave cold water before and after, and took them out once more briefly. Both went #1 and #2, stool firm.",
-     "quote": "We didn't stay out long because of the weather"
     }
    ],
    "dormant": false
