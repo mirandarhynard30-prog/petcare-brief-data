@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T20:20:05-04:00",
+ "generated": "2026-09-14T21:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3737,6 +3737,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 14",
+     "source": "Jade Popovitz visit report, Sep 14 2:59pm",
+     "office": true,
+     "note": "On the Sep 14 afternoon walk Whiskey stopped on the way back to rest in the grass and catch his breath. The sitter frames it lightly and the walk otherwise went well - they ran a bit and he went #1 - but this is a dog already in his seventh day of soft stool, so a breather mid-walk is worth flagging rather than filing as normal. Same report says he did well not eating anything, which is the other side of the Sep 14 rocks warning. No water or food given; the sitter notes the owner said she had it.",
+     "quote": "On the way back he decided to take a break in the grass and catch his breath."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 11",
      "source": "Elizabeth Sigler visit report",
      "office": true,
@@ -3832,16 +3842,6 @@
      "office": false,
      "note": "Erik's weekend request is now covered on the sitter side: Shannon Anderson tells him she will be there both Saturday and Sunday afternoon, and that a team member, Elizabeth S., will shadow her on Saturday for Whiskey.",
      "quote": "Hi Erik, I will be there both Saturday and Sunday afternoon."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Client message 4:56pm",
-     "office": true,
-     "note": "Client asks to push the start of daily visits from Mon Aug 31 to Mon Sep 7 because of a last-minute change to his girlfriend's schedule. Needs an answer from the office before tomorrow morning; the Monday visits are currently still on the schedule.",
-     "quote": "If possible, could we change our start date to be one week from tomorrow on 9/7 please?"
     }
    ],
    "dormant": false
