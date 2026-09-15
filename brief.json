@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T18:20:05-04:00",
+ "generated": "2026-09-15T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1526,6 +1526,16 @@
      "quote": "I noticed some damage on the doorframe of the dog room."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Tiarra Roberts visit report, Sep 15 4:01pm",
+     "office": true,
+     "note": "On the same Sep 15 visit that turned up damage on the doorframe of the dog room, the sitter also noticed an unfamiliar black truck in the driveway. The report does not say whose it is. The client's standing notes do say contractors may be in the home, so it may well be theirs - that is not confirmed either way. Worth one call to the client covering both the truck and the doorframe.",
+     "quote": "I noticed a black truck in the driveway."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1594,16 +1604,6 @@
      "office": true,
      "note": "Poop bags nearly out - three left on the roll. Restock request needed.",
      "quote": "Only 3 bags left on the roll of poop bags."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Client message",
-     "office": true,
-     "note": "Milo was away with the client but she says he will be back at the house on Thursday.",
-     "quote": "Sorry forgot to mention Milo is with me. He will definitely be there on Thursday."
     }
    ],
    "dormant": false
@@ -5513,6 +5513,36 @@
     "Flaco"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 15",
+     "source": "Company Notes written by Shannon Anderson, Sep 15 6:22pm",
+     "office": false,
+     "note": "First behavior profile for this brand new client, written into Company Notes on Sep 15. The dog is NOT dog friendly and IS an escape risk. Listed triggers are German Shepherds or Shepherd-looking dogs, and car toppers. Allergies recorded as N/a. Treat as a solo walk and keep well clear of other dogs.",
+     "quote": "Escape risk: Yes"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 15",
+     "source": "Company Notes written by Shannon Anderson, Sep 15 6:22pm",
+     "office": false,
+     "note": "Visit type is Dog Midday (weekly walks / drop-ins), a dog walk. Park at the back of the driveway. Entry is by a keypad on the back door - the code is in Time To Pet and is deliberately not reproduced here. No house alarm system, and the client is not home during visits.",
+     "quote": "Best place to park: Back of driveway"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 15",
+     "source": "Company Notes written by Shannon Anderson, Sep 15 6:22pm",
+     "office": false,
+     "note": "Supply locations from the same Sep 15 Company Notes: leash and poop bags by the back door, food and water bowls in the living room fireplace, treats in a cooler with ice or in the fridge (Dad makes all food and treats), toys in the living room, cleaning supplies in the kitchen, used bags in the trash cans lined up alongside the garage.",
+     "quote": "Leash location: By backdoor"
+    },
     {
      "cat": "behavior",
      "sev": "low",
