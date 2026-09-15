@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T15:20:05-04:00",
+ "generated": "2026-09-15T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1514,6 +1514,16 @@
      "office": false,
      "note": "Gate check widened from side gate only to side AND back gate before the dogs go out. Safety item.",
      "quote": "Check side, back gate is CLOSED (left corner) before letting them out"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Tiarra Roberts visit report, Sep 15 4:01pm",
+     "office": true,
+     "note": "Sitter reported damage on the doorframe of the dog room. The report does not say whether it is new or what caused it, so the office should check with the client rather than a sitter assuming it was already there.",
+     "quote": "I noticed some damage on the doorframe of the dog room."
     },
     {
      "cat": "behavior",
