@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T10:20:07-04:00",
+ "generated": "2026-09-15T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -10,6 +10,16 @@
     "Caleb"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 15",
+     "source": "Client updated their own profile details, Sep 15",
+     "office": false,
+     "note": "Client rewrote her own General Information on Sep 15 and ADDED a second AM medication for Livvie. The only change from the previous version is Gabapentin: 0.4 mls at AM visits, kept in the refrigerator, drawn with the syringe on the counter and measured to the red line on the syringe, then squirted into her mouth. The PrednisOLONE instruction (1 and a 1/2, purple pill cutter, check the tray for a half pill from the previous day) was already there and is unchanged. Feeding, litter box and water instructions are unchanged.",
+     "quote": "Livvie also gets 0.4 mls of Gabapentin. It is in the refrigerator."
+    },
     {
      "cat": "health",
      "sev": "medium",
@@ -510,11 +520,11 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 14",
-     "source": "Renee Dougherty morning visit report",
-     "office": true,
-     "note": "Gordy passed stool three times on the Sep 14 morning walk and the sitter logged the consistency as a little loose but not concerning. This is Gordy, not Sampson - the Sep 14 report does not mention Sampson or his ongoing GI trouble at all.",
-     "quote": "He peed several times and pooped 3x."
+     "date": "Sep 15",
+     "source": "Kathy Pastor visit report, Sep 15 morning",
+     "office": false,
+     "note": "Sep 15 morning walk: GORDY pooped three times and the sitter logged the consistency as a little loose but not concerning. He was tired afterwards and would not take any treats. This is Gordy, not Sampson - the ongoing GI trouble already on file is Sampson's, and nothing in this report connects the two.",
+     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -1599,6 +1609,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 15",
+     "source": "Kiara Streety visit report, Sep 15 morning",
+     "office": true,
+     "note": "Sep 15 morning visit: Bismark came downstairs happily and was leashed, but once outside the gate he sat down and would not walk. The sitter tried to pull him along a few times, gave up, and they sat inside the gate instead; no walk took place. This is the second day running that a sitter has reported him slow or unwilling to move, after the Sep 14 report of him coming down the stairs very slowly. No cause is stated in either report - worth raising with the client rather than assuming.",
+     "quote": "I tried to pull him a few times he like nope"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 14",
      "source": "Drew Walker visit report, 12:27pm",
      "office": false,
@@ -1684,16 +1704,6 @@
      "office": false,
      "note": "Christina describes Bismark as a very lazy boy - do not expect enthusiasm for a walk every visit.",
      "quote": "you’ll learn he’s a very lazy boy!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Elizabeth Sigler visit report (shadowing Kiara Streety), 11:33pm",
-     "office": false,
-     "note": "On the late Fri Aug 28 visit Bismark declined a walk and settled in the fenced back yard; sitters stayed outside with him, left a treat and refilled his water. No accidents, no supplies low.",
-     "quote": "he wasn't interested in a walk and he laid down in the backyard"
     }
    ],
    "dormant": false
