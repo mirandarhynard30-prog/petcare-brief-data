@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T22:20:09-04:00",
+ "generated": "2026-09-15T07:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -305,16 +305,6 @@
      "quote": "I will be off Monday too for the holiday. I will enter the cancellation requests now."
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 24",
-     "source": "Client message",
-     "office": true,
-     "note": "Client cancelled Aug 24 and Aug 25 visits via a request submitted Saturday and messaged to make sure it had been seen. Confirm the cancellation was actually processed.",
-     "quote": "I put in a request on Saturday to cancel today and tomorrow’s visits."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -508,13 +498,13 @@
     },
     {
      "cat": "health",
-     "sev": "high",
+     "sev": "medium",
      "type": "recent",
-     "date": "Aug 24",
-     "source": "Client message",
-     "office": false,
-     "note": "Gordy had x-rays on Aug 24. The vet saw nothing on the day; images went to a radiologist and the client did not expect results until Thursday or Friday. No instructions were given to change his walks.",
-     "quote": "We are home from Gordy's x-rays."
+     "date": "Sep 14",
+     "source": "Renee Dougherty morning visit report",
+     "office": true,
+     "note": "Gordy passed stool three times on the Sep 14 morning walk and the sitter logged the consistency as a little loose but not concerning. This is Gordy, not Sampson - the Sep 14 report does not mention Sampson or his ongoing GI trouble at all.",
+     "quote": "He peed several times and pooped 3x."
     }
    ],
    "dormant": false
@@ -955,6 +945,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 14",
+     "source": "Harvett Ellington mid-morning visit report",
+     "office": false,
+     "note": "Chloe's Sep 14 mid-morning walk was also short. The sitter gave no reason beyond a guess that it was Monday. This is the earlier of the two short walks logged that day; stool was recorded firm and healthy at this visit.",
+     "quote": "went on a short walk today. Maybe it is Monday."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 11",
      "source": "Elizabeth Sigler visit report",
      "office": false,
@@ -1020,16 +1020,6 @@
      "office": false,
      "note": "On the Sep 7 afternoon visit Faith found Chloe barking at the top of the stairs. She sat with Chloe a while so Chloe would remember her, then leashed her and carefully escorted her down the stairs and out the door. Once outside Chloe moved very quickly and the walk went normally - #1 and #2, recorded as firm and healthy, no accidents in the home.",
      "quote": "Today I found Chloe barking at the top of the stairs."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client private msg 11:40am",
-     "office": true,
-     "note": "Melody repeated the cancellation privately so the office would tell the assigned sitter. The afternoon sitter still needs notifying.",
-     "quote": "wanted to make sure you can notify the person scheduled"
     }
    ],
    "dormant": false
@@ -1422,16 +1412,6 @@
      "office": true,
      "note": "Client asked for a same-day extra visit for Evee on short notice. No reply visible in the mail sweep - confirm whether this was covered.",
      "quote": "Can anyone do a last min visit for Evee? for me sorry for the short notice"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 24",
-     "source": "Client message",
-     "office": false,
-     "note": "Owner says she is actively working on Evee's leash reactivity - barking and lunging at people while walking - and prefers a collar over a muzzle for it. She reports Evee did well on a recent outing.",
-     "quote": ""
     },
     {
      "cat": "home",
@@ -2374,6 +2354,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 14",
+     "source": "Client private message 12:17pm",
+     "office": true,
+     "note": "Private message to Miranda asking for a call. No subject given and no reply is visible in the mailbox as of Sep 15 morning. He is on today's schedule.",
+     "quote": "Miranda - do u have a few minutes to talk?"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -2422,16 +2412,6 @@
      "office": false,
      "note": "On the Aug 30 morning walk Ripley reacted hard to another dog coming down the hill on the driveway - the sitter says she needed all her strength to hold her. Ripley settled quickly; the sitter turned around when the other dog reappeared and kept the walk short and on guard.",
      "quote": "Both dogs went berserk! I've never really had to use all my strengths for her. She is one strong lady."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 24",
-     "source": "Client message",
-     "office": false,
-     "note": "Client reported Ripley had not gone #2 that morning and had a bad accident in the basement on Saturday night during thunderstorms. He asked that she be walked long enough to go.",
-     "quote": "She just ate…and no #2 this morning."
     },
     {
      "cat": "behavior",
