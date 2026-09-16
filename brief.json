@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T12:20:06-04:00",
+ "generated": "2026-09-16T13:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -149,6 +149,36 @@
      "office": true,
      "note": "Client asks the office to build out a recurring weekly Wednesday visit starting Sept 9. She says she does not need anything next week because her workplace is letting them work from home. Needs setting up in the scheduler and confirming back to her.",
      "quote": "can you build out a recurring weekly Wednesday visit starting 9/9?"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Nova hid in her room when Shannon brought Elizabeth Cuffari along to shadow, then settled after reassurance and did well with her. Harness was used to get Nova outside.",
+     "quote": "She actually ran to her room at first"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 16",
+     "source": "Client message (Terri Orengo)",
+     "office": false,
+     "note": "Client treats Nova letting a new sitter pet her as a major milestone, so expect Nova to be slow to warm to unfamiliar people and to need a slow introduction.",
+     "quote": "Noves letting you pet her already is HUGE!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client message (Terri Orengo)",
+     "office": false,
+     "note": "Client says it has been about two weeks since the last visit because she has been home, and was nervous about the first visit back. No request or action asked for.",
+     "quote": "it’s been a couple weeks bc I’ve been home"
     }
    ],
    "dormant": false
@@ -338,6 +368,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 16",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "Visit included eye drops, a pee-pad check, a diaper change for Berry and medication administered for Emma. The report does not say which pet the eye drops were for.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 15",
      "source": "Thomas Rakovec midday visit report, Sep 15",
      "office": false,
@@ -403,16 +443,6 @@
      "office": false,
      "note": "On the afternoon walk Stella and Berry both went #1 but neither went #2, and the sitter flagged it as the same as Friday and said he did not know why. Emma's eye drops were given and medication marked administered.",
      "quote": "both went no.#1 bot no.#2 like Fri ?? Not sure why not"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Thomas Rakovec visit report, Aug 28 afternoon",
-     "office": true,
-     "note": "Aug 28 afternoon: Louie's ears and eyes wiped and Emma's eye drops given, medication marked administered. The same report says a used diaper was put back on Berry rather than a fresh one - the wording is unclear, so the office may want to confirm what is expected.",
-     "quote": "put in used diaper back on Berry"
     }
    ],
    "dormant": false
@@ -711,6 +741,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Going out the back deck Rex was ready and CJ was not, and Rex fell down the deck stairs. The report describes the rest of the walk as normal and does not mention any injury. One of the two is also harder to harness than the other.",
+     "quote": "Rex basically fell down the stairs of the back deck"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Sep 2",
      "source": "Client message (Toni), 1:13pm",
@@ -787,16 +827,6 @@
      "office": true,
      "note": "On disarming the alarm the panel reported the front door not engaged. Sitter left it rather than risk setting the alarm off, then re-armed on leaving. Worth checking with the client whether the front door sensor is faulty or the door was genuinely open.",
      "quote": "It said something about the front door not being engaged, I didn't want to set it off so I left it alone."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Ashley Corall visit report, 12:51pm",
-     "office": false,
-     "note": "Rex's stool on the walk was loose; the sitter recorded it on the form as a little loose but not concerning. CJ's was firm. First loose stool logged for Rex - worth watching at tomorrow's visit rather than acting on.",
-     "quote": "Rex went#2 as well his seemed like loose."
     }
    ],
    "dormant": false
@@ -1616,6 +1646,16 @@
      "quote": "we can do the 8-9 pm time frame on Friday August 28 and then on Saturday morning the 29th 8-10am ish?"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Drew Walker visit report",
+     "office": false,
+     "note": "Bismark would not come down from the top of the stairs until the sitter acted like he was leaving. On the walk he got just past the driveway, laid down and would not go further, so they went back inside because of bugs. No #2 on this visit.",
+     "quote": "he laid down and refused to go any further"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1704,16 +1744,6 @@
      "office": false,
      "note": "On the Sep 7 midday visit Bismark was leashed and taken out but immediately lay down in the shade, then looped back to the back gate rather than walk. The sitter sat with him and refilled his water instead. No #2 on this visit. The sitter attributes the refusal to the heat.",
      "quote": "he just didn’t want to move today I think he just doesn’t like the heat"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Aug 28",
-     "source": "Christina Palmieri message, 11:42pm",
-     "office": false,
-     "note": "Christina describes Bismark as a very lazy boy - do not expect enthusiasm for a walk every visit.",
-     "quote": "you’ll learn he’s a very lazy boy!"
     }
    ],
    "dormant": false
@@ -5433,6 +5463,26 @@
      "office": false,
      "note": "On the Sep 16 midday visit the sitter could not find Bailey's blue harness and walked her on the collar alone. She reports the walk went fine that way, but the harness location is worth confirming before the next visit.",
      "quote": "I couldn't find Bailey's blue harness however but she did well with just the collar."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client message (Lauren White)",
+     "office": false,
+     "note": "Client says the missing harness was left on the dryer after a vet trip. The message says only \"her\"; the harness the sitter could not find on the 12:08 visit was Bailey's. Walking on the collar was fine.",
+     "quote": "I left it on the dryer after we took her to the vet."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client message (Lauren White)",
+     "office": false,
+     "note": "Client mentions a recent vet trip in passing. No reason, findings, medication or follow-up given, and the pet is not named - worth confirming before assuming it was routine.",
+     "quote": ""
     },
     {
      "cat": "behavior",
