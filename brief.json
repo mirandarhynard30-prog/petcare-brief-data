@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T20:20:06-04:00",
+ "generated": "2026-09-15T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3086,6 +3086,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 15",
+     "source": "Dan Dantimo Sep 15 evening visit report",
+     "office": false,
+     "note": "Holly went #1 on the Sep 15 evening walk but did not go #2. Sits directly after the Sep 14 evening walk where the stool was logged loose and slimy. Two days of abnormal output in a row - worth watching, not yet a vet question.",
+     "quote": "She did not go number two on our walk."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 14",
      "source": "Julie Smith evening visit report",
      "office": false,
@@ -3121,16 +3131,6 @@
      "office": true,
      "note": "The Sep 13 evening report answers the home-security question with the client being home during the visit, and the sitter signs off saying she will see everyone next Sunday. Office should confirm whether Lynne is back and whether the next scheduled visit really is the following Sunday.",
      "quote": "Client was home during visit"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Julie Smith visit report, Sep 11 2:17pm",
-     "office": false,
-     "note": "Holly went both #1 and #2 on the Sep 11 afternoon walk and the sitter logged the consistency as firm and healthy - the first firm reading after loose-but-not-concerning on Sep 6, 7, 9 and 10. The sitter also turned back before the cul-de-sac because it was getting hot.",
-     "quote": "Holly went number one and number two on the walk"
     }
    ],
    "dormant": false
@@ -3804,6 +3804,16 @@
      "quote": "Praveena and I are visiting her dad in Strongsville"
     },
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Drew Walker Sep 15 afternoon visit report vs client message 2:03pm",
+     "office": true,
+     "note": "CONFLICT on the Sep 15 afternoon visit. The report's home-security field carries the canned answer \"Client was home during visit/ Client asked not to lock door\", but the client had written at 2:03pm that he and Praveena were away visiting her dad in Strongsville and that he believed the door was unlocked. The sitter's ETA for that visit was 2:05pm. Office should confirm whether the house was left unlocked with nobody home, and whether the form answer was simply mis-selected.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -3902,16 +3912,6 @@
      "office": false,
      "note": "Tue Sep 8 AFTERNOON visit (Drew Walker, shadowing Jade Popovitz): Whiskey went #2 on the walk and the sitter logged the consistency as very loose, close to diarrhea, with Whiskey otherwise fine. Separate visit and separate sitter from the Sep 8 morning report already in the brief - so Sep 8 shows loose stool at BOTH visits, and the run of days with his stool off now continues into a third day with no let-up. Quote left blank because the report wording is the identical stock phrase used in the morning entry.",
      "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Erik Risa message 9:15pm Sun Sep 6",
-     "office": true,
-     "note": "Erik replied 9:15pm Sun Sep 6 confirming something the office had put to him and saying Whiskey is looking forward to seeing us tomorrow, i.e. he expects a visit on Mon Sep 7 (Labor Day). The email does not say what was confirmed, so the exact visit time is not established here. This is the start date he asked for back on Aug 30 when he pushed daily visits from Mon Aug 31 to Mon Sep 7. Office should make sure Monday's visit is on the schedule and staffed.",
-     "quote": "Correct! Thank you for confirming! He's looking forward to seeing you guys tomorrow!"
     }
    ],
    "dormant": false
@@ -5510,7 +5510,8 @@
    "name": "Brandon Keyes",
    "url": "https://www.timetopet.com/dashboard/client/tld7y9lA5B2l",
    "pets": [
-    "Flaco"
+    "Flaco",
+    "Flacko"
    ],
    "items": [
     {
@@ -5542,6 +5543,16 @@
      "office": false,
      "note": "Supply locations from the same Sep 15 Company Notes: leash and poop bags by the back door, food and water bowls in the living room fireplace, treats in a cooler with ice or in the fridge (Dad makes all food and treats), toys in the living room, cleaning supplies in the kitchen, used bags in the trash cans lined up alongside the garage.",
      "quote": "Leash location: By backdoor"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 15",
+     "source": "Brandon Keyes updated details for pet Flacko",
+     "office": false,
+     "note": "The client filled in his own pet record late on Sep 15 for this brand new client. Vet is Emerald Animal Hospital, 4185 Ridge Rd, phone 216-749-7161. Allergies recorded as None. The client's own record spells the dog FLACKO, which settles the Flaco / Flocko split in the two staff meet-and-greet messages.",
+     "quote": ""
     },
     {
      "cat": "behavior",
