@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T15:20:05-04:00",
+ "generated": "2026-09-16T18:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -202,6 +202,16 @@
      "quote": "Thank you!! Yes, please feed them tomorrow!"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Rusty pulled the quilt next to her crate into the crate and chewed on it during the evening visit; sitter cleaned it up and refixed the blankets in both crates.",
+     "quote": "Rusty had managed to grab ahold of the quilt next to her crate and pull it on and start chewing on it"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -300,16 +310,6 @@
      "office": false,
      "note": "Air show practice was flying low and loud over the house on the afternoon visit and badly startled Puck - she bolted straight back inside to her cage. The sitter sat on the floor with her until she settled. Both dogs went #1 outside first; yard time was cut short.",
      "quote": "the flying angels are practicing and pretty much flying right above really loud engine noises.scared the heck out of puck so we went inside"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 3",
-     "source": "Client message 3:54pm",
-     "office": false,
-     "note": "Client confirms Puck has become sensitive to loud noises - her wording (\"anymore\") indicates this is a change from before, so treat as ongoing. Comfort her during fireworks, thunder, air shows and similar.",
-     "quote": "Yes puck doesnt like loud noises anymore!!"
     }
    ],
    "dormant": false
@@ -3076,6 +3076,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 16",
+     "source": "Julie Smith visit report",
+     "office": false,
+     "note": "Holly's stool was still soft and slimy on the evening walk with some runny drips; the sitter described it as a little loose but not concerning. The word 'still' suggests this has been going on more than one visit, but this email does not say for how long.",
+     "quote": "Her poop was a little soft and slimy still. She did have a little bit of runny drips"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 15",
      "source": "Dan Dantimo Sep 15 evening visit report",
      "office": false,
@@ -3111,16 +3121,6 @@
      "office": false,
      "note": "Sep 13 evening walk: Holly went both #1 and #2 and the sitter logged the #2 consistency as firm and healthy. That is a normal result after the looser stool logged on Sep 9.",
      "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Shannon Anderson visit report",
-     "office": true,
-     "note": "The Sep 13 evening report answers the home-security question with the client being home during the visit, and the sitter signs off saying she will see everyone next Sunday. Office should confirm whether Lynne is back and whether the next scheduled visit really is the following Sunday.",
-     "quote": "Client was home during visit"
     }
    ],
    "dormant": false
