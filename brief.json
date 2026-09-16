@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T19:20:05-04:00",
+ "generated": "2026-09-15T20:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -338,6 +338,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 15",
+     "source": "Thomas Rakovec midday visit report, Sep 15",
+     "office": false,
+     "note": "Sep 15 report: Louie jumped and the sitter carried him outside rather than let him walk out. Relevant to the hurt leg/hip already on file for Louie from Sep 10. The report gives no further detail and does not say Louie was in pain. Louie is logged as going #1 only. Emma's eye drops were given and medication marked administered; Stella and Berry both went #2, firm and healthy.",
+     "quote": "even Louie jumped so I carried him out"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 14",
      "source": "Thomas Rakovec visit report Sep 14",
      "office": false,
@@ -403,16 +413,6 @@
      "office": true,
      "note": "Aug 28 afternoon: Louie's ears and eyes wiped and Emma's eye drops given, medication marked administered. The same report says a used diaper was put back on Berry rather than a fresh one - the wording is unclear, so the office may want to confirm what is expected.",
      "quote": "put in used diaper back on Berry"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Thomas Rakovec visit report, Aug 27",
-     "office": false,
-     "note": "Aug 27 visit logs Emma's drops given, pee pads checked and a diaper on Berry as part of the routine. Medication was marked administered for Emma.",
-     "quote": "Emma's drops ...p pads ok ...diaper on Berry"
     }
    ],
    "dormant": false
@@ -3416,6 +3416,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 15",
+     "source": "Dan Dantimo evening visit report, Sep 15",
+     "office": false,
+     "note": "Sep 15 evening walk: Guinness went #1 and a small #2, and Dan again logged the consistency as a little loose but not concerning. That continues the same not-concerning loose reading logged on Sep 4, Sep 8, Sep 11 and Sep 14 - no sitter has yet flagged it as a change, but the run is now long enough that the office may want to mention it to the client.",
+     "quote": "He did go number one and a small number two on our walk."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 14",
      "source": "Dan Dantimo evening visit report, Sep 14 7:30pm",
      "office": true,
@@ -3511,16 +3521,6 @@
      "office": false,
      "note": "Chased deer near the Commons and was very excitable on this walk - keep a firm leash on that route.",
      "quote": "Guinness did some deer chasing as he made sure that they ran and hide"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Dan Dantimo visit report, Tue Sep 8 6:29pm",
-     "office": false,
-     "note": "Tue Sep 8 evening walk: Guinness went both #1 and #2 and Dan logged the consistency as a little loose but not concerning - the same reading as Sep 4, Sep 1, Aug 31, Aug 28, Aug 27 and Aug 25. Otherwise an unremarkable walk on the usual block-and-dirt-path route; he pulled at the start, recalled well, no accidents in the home.",
-     "quote": "He did go number one and two."
     }
    ],
    "dormant": false
