@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T14:20:06-04:00",
+ "generated": "2026-09-16T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2474,6 +2474,26 @@
      "quote": "Both dogs went berserk! I've never really had to use all my strengths for her. She is one strong lady."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client private message 2:23pm",
+     "office": true,
+     "note": "Client asked whether two visits can be added for Saturday - he did not see them on the schedule. He followed up six minutes later with \"Oh...Ok! Just let me know! I'll let my daughters know. TY!\", so he may already have had a partial answer, but no confirmed Saturday visits are recorded here.",
+     "quote": "Hi Miranda - are we able to get 2 visits for Saturday as well? I did not see on the schedule…thx!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 16",
+     "source": "Client private message 3:00pm",
+     "office": false,
+     "note": "Client asks that while Tiarra is training, whoever is with her also put Ripley's training collar on. He says it is in the mudroom closet by the light switch at eye level. His wording is \"pls do hesitate\", which reads as a typo for \"do not hesitate\" - office should confirm before sitters act on it.",
+     "quote": "While Tiarra trains…pls do hesitate to have whoever is w her put the Training collar on her…as well."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2512,26 +2532,6 @@
      "office": true,
      "note": "The Farmer's Dog delivery Monica left inside the garage at the 1:38pm visit still appears to be there - the 6:34pm evening report answers No to bringing any mail or packages in. Refrigerated food, so it needs someone tonight.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Monica Hopewell evening visit report",
-     "office": false,
-     "note": "Ripley was waiting right at the garage door when the sitter entered, noted as happening again. Open the garage entry door carefully and watch for a door dash.",
-     "quote": "Ripley was right at the garage door again to meet me when I came in"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Client message from Matt Konn, 8:22pm Sat Sep 5",
-     "office": true,
-     "note": "Matt messaged at 8:22pm Sat Sep 5 to say he is home. He does not say whether this ends the trip, so confirm with him whether the Monday visit Monica told him about (\"I will see her Monday\") is still wanted. He being home also means the Farmer's Dog delivery Monica left inside the garage at 1:38pm Sep 5 should now be found and put away.",
-     "quote": "Just got home!! TY so much for taking care of her today!"
     }
    ],
    "dormant": false
@@ -5614,6 +5614,16 @@
      "office": false,
      "note": "First walk for this brand new client. The dog walked well down Clifton and went #1, but the sitter judged he was getting hot in the humidity and brought him back to the house early to hang out indoors instead of finishing the usual walk. One observation on one humid day, not yet an established rule - worth watching on the next warm visit. Sitter refilled his water and gave him the fridge treats.",
      "quote": "He went number one, but he did seem like he was getting kinda hot."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client private message 2:32pm",
+     "office": true,
+     "note": "Client will not submit next week's requests until Sunday - he wants to see how much he will be working, which he says depends on the weather. Next week's Flacko schedule should be treated as unconfirmed until then.",
+     "quote": "I will wait till Sunday to upload the schedule just to see if I’m gonna be working a lot"
     },
     {
      "cat": "home",
