@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T18:20:06-04:00",
+ "generated": "2026-09-16T19:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -195,6 +195,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 16",
+     "source": "Client message, 6:39pm",
+     "office": true,
+     "note": "Client confirms the move is going ahead: her lease is up at the end of this month and the family is moving south. Replying to the evening sitter saying she would miss the dogs. This answers the open Sep 10 apartment thread in the sense that a move is happening, but she does not give a date beyond end of the month, and nothing here says when service should stop. Office needs to confirm the last service date and what happens to the visits already on the schedule.",
+     "quote": "our lease is up end of the month and were moving south :( we will miss you!!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 15",
      "source": "Client message 12:35pm",
      "office": true,
@@ -300,16 +310,6 @@
      "office": false,
      "note": "Client says only Rusty is home today - she took Puck with her for a haircut. Sitter Elizabeth Sigler acknowledged in the same thread, so no action needed unless the visit was billed for both.",
      "quote": "It will just be rusty today. I took puck with me to give her a haircut!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Elizabeth Cuffari visit report, 12:41pm",
-     "office": false,
-     "note": "Air show practice was flying low and loud over the house on the afternoon visit and badly startled Puck - she bolted straight back inside to her cage. The sitter sat on the floor with her until she settled. Both dogs went #1 outside first; yard time was cut short.",
-     "quote": "the flying angels are practicing and pretty much flying right above really loud engine noises.scared the heck out of puck so we went inside"
     }
    ],
    "dormant": false
