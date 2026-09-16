@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T08:20:06-04:00",
+ "generated": "2026-09-16T10:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1267,6 +1267,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 16",
+     "source": "Ashley Corall visit report, Sep 16 10:00am",
+     "office": false,
+     "note": "Sep 16 morning walk: the sitter used Georgie's cooling collar because of the humidity, and says he slowed down earlier than usual so she let him take his time. Relevant because his hot-weather protocol was deleted from the Current Pet Care Note on Sep 11 and is no longer written down anywhere the sitter can see it. Stool this visit was firm and healthy, #1 and #2 both done.",
+     "quote": "The humidity definitely called for the cooling collar today."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 15",
      "source": "Tiarra Roberts visit report, Sep 15 evening",
      "office": false,
@@ -1372,16 +1382,6 @@
      "office": false,
      "note": "Outcome of Georgie's Sep 4 emergency vet visit: he is now on daily eye drops. Tiarra helped Mary Ann give them after the evening walk and logged medication administered. The email does not name the drug or the dosing time, and does not say whether the sitter is expected to give them at every visit or only to assist the owner.",
      "quote": "We have to give him eye drops daily, so I will help Mary Ann with that today after the walk."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client message to Kristin, Sep 3 9:03pm",
-     "office": true,
-     "note": "Client is taking Georgie to the vet on Fri Sep 4 and leaving the house at 11:00. She asks that his walk happen before then. The Sep 4 visit needs to be timed to land before 11:00 and the assigned sitter told.",
-     "quote": "I have to take Georgie to the vet tomorrow —am leaving home at 11:00"
     }
    ],
    "dormant": false
@@ -5471,7 +5471,8 @@
    "url": "https://www.timetopet.com/dashboard/client/tld7y9lA5B2l",
    "pets": [
     "Flaco",
-    "Flacko"
+    "Flacko",
+    "Flocko"
    ],
    "items": [
     {
@@ -5483,6 +5484,16 @@
      "office": false,
      "note": "First behavior profile for this brand new client, written into Company Notes on Sep 15. The dog is NOT dog friendly and IS an escape risk. Listed triggers are German Shepherds or Shepherd-looking dogs, and car toppers. Allergies recorded as N/a. Treat as a solo walk and keep well clear of other dogs.",
      "quote": "Escape risk: Yes"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 16",
+     "source": "Client message via Time To Pet, Sep 16 9:41am",
+     "office": false,
+     "note": "Client says there is a small bag of treats for the dog on the top shelf of the fridge. New standing supply location for this brand new client. Note the client spells the dog Flocko here while the pet record reads Flacko - same dog, spelling is inconsistent in Time To Pet.",
+     "quote": "I have a small bag of treats on the top shelf in the fridge for Flocko"
     },
     {
      "cat": "home",
@@ -5523,6 +5534,24 @@
      "office": true,
      "note": "Meet and greet held the evening of Sep 15 by Shannon Anderson and Elizabeth Cuffari. Elizabeth called the dog 'such a sweetheart'. This is a brand new client with no care notes of any kind on file - a sitter arriving for the first real visit has nothing written to work from, so the office needs to write Pet Care Notes before then. Pet name spelling is unconfirmed: Elizabeth wrote 'Flaco', Shannon wrote 'Flocko'.",
      "quote": "it was very nice meeting you and Flaco"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Ellen Krane",
+   "url": "https://www.timetopet.com/dashboard/client/sr0flyHHcY5f",
+   "pets": [],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client message via Time To Pet, Sep 16 9:22am",
+     "office": true,
+     "note": "Returning client after a long gap, asking whether we can cover Thanksgiving. Tentative dates Wed Nov 25 through Sun Nov 29: Wednesday afternoon and evening, all day Thu/Fri/Sat, most of Sunday. She estimates two visits Wednesday and three visits each other day. Household is two dogs, two cats and a hamster - she notes they are down one hedgehog. Plans are not final; she is asking for an availability answer now and will confirm exact times later. Unanswered as of this run.",
+     "quote": "we would like to check your availability for around Thanksgiving this year"
     }
    ],
    "dormant": false
