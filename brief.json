@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T10:20:07-04:00",
+ "generated": "2026-09-16T11:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -540,11 +540,11 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 15",
-     "source": "Kathy Pastor visit report, Sep 15 morning",
+     "date": "Sep 16",
+     "source": "Visit report from Kathy Pastor, Sep 16 10:34am",
      "office": false,
-     "note": "Sep 15 morning walk: GORDY pooped three times and the sitter logged the consistency as a little loose but not concerning. He was tired afterwards and would not take any treats. This is Gordy, not Sampson - the ongoing GI trouble already on file is Sampson's, and nothing in this report connects the two.",
-     "quote": "It was a little loose but not concerning"
+     "note": "On the Sep 16 morning walk Gordy panted more than on previous days in the humidity. The sitter chose not to give him a treat because he seemed so warm. The walk itself was the usual route and he was otherwise normal.",
+     "quote": "He was panting a little more than previous days. It was very humid."
     }
    ],
    "dormant": false
@@ -982,6 +982,16 @@
      "quote": "I came in and was approached by Ellie Mae she followed me to get Chloe leashed them both up and went on our walk."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Visit report from Harvett Ellington, Sep 16 11:08am",
+     "office": false,
+     "note": "Chloe completed a full normal walk on Sep 16 with no wheezing, hacking or early finish recorded, and her stool was logged firm and healthy. That breaks the run of short or cut-short walks on Sep 11, Sep 14 and Sep 15. The sitter found her napping upstairs and carried her down.",
+     "quote": "We had a nice walk, went numbers one and two."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1050,16 +1060,6 @@
      "office": false,
      "note": "Chloe likes to burrow into the hedges, and a long walk is being given specifically to keep her away from the bushes. The sitter writes 'as requested' but the email does not say who made the request, so treat it as a handling preference until confirmed.",
      "quote": "Chloe went on a nice long walk, as requested, to keep Chloe from the bushes"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Jade Popovitz visit report, Mon Sep 7 morning",
-     "office": false,
-     "note": "Chloe was bright and energetic on the Mon Sep 7 morning walk - sniffing, running and wanting to carry on - and her stool was logged firm and healthy. No sign of the tiredness seen the week after Ellie Mae died, and nothing reported about the eyes that looked swollen on Sep 3.",
-     "quote": "The walk with Chloe went great! She was sniffing everywhere, did some running, and even wanted to keep walking."
     }
    ],
    "dormant": false
@@ -2722,6 +2722,26 @@
      "quote": "We won’t need you guys to come on Labor Day!"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client message from Paulo Garcia, Sep 16 10:59am",
+     "office": false,
+     "note": "Milo is at daycare today because the cleaners are coming, so he will not be home for today's visit. Same pattern as Sep 2 and Sep 10.",
+     "quote": "Since the cleaners are coming today, Milo is at daycare and Archer is upstairs in the far right room with the door closed"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client message from Paulo Garcia, Sep 16 10:59am",
+     "office": false,
+     "note": "Cleaners are in the house today. Archer is shut upstairs in the far right room with the door closed - that is where to find him on arrival. On Aug 26 the dogs were shut in the basement for the same reason, so the room used varies.",
+     "quote": "Archer is upstairs in the far right room with the door closed"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -2810,26 +2830,6 @@
      "office": false,
      "note": "Sep 10 midday visit covered Archer only because Milo was at daycare that day. There is also a cat, Carl, in the house who waits in the kitchen and was given snacks alongside Archer, and both water bowls were changed. The client was home during the visit. Archer's #2 was logged firm and healthy.",
      "quote": "I got to visit with just Archer since Milo was at daycare today"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Drew Walker visit report",
-     "office": false,
-     "note": "Sitter reported Milo pulled a lot on the Sep 9 walk. Single observation.",
-     "quote": "He pulled a lot today"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Alex Miller visit report",
-     "office": false,
-     "note": "Milo's stool on the Aug 26 walk was soft and green; the sitter thought it was probably from eating plants and recorded it as not concerning. Archer's was firm and healthy.",
-     "quote": "His stool was a little soft and green, but not concerning"
     }
    ],
    "dormant": false
