@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T11:20:10-04:00",
+ "generated": "2026-09-16T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3585,6 +3585,26 @@
    "items": [
     {
      "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Kiara Streety visit report, Sep 16 11:46am",
+     "office": false,
+     "note": "Work on the far side of the parking lot left no parking at the Sep 16 visit and the sitter had to park well away from the building. Allow extra time on arrival until the work finishes.",
+     "quote": "There was no parking because the other side of the parking lot is getting worked on so I had to park far out!"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Kiara Streety visit report, Sep 16 11:46am",
+     "office": false,
+     "note": "The vacuum at this house no longer clicks back together and the sitter had to hold it with two hands to use it after changing the litter. First report of this.",
+     "quote": "had to use 2 hands for vaccum it will not click back into place anymore it keeps falling apart"
+    },
+    {
+     "cat": "home",
      "sev": "low",
      "type": "recent",
      "date": "Sep 11",
@@ -4927,6 +4947,16 @@
      "quote": "Miley is usually sleeping on the bed, in the bedroom"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Tiarra Roberts visit report, Sep 16 11:22am",
+     "office": false,
+     "note": "Vomit was found and cleaned up under the office chair on the Sep 16 morning visit. The report does not say which cat, so this cannot be tied to Miley. It is the second mess in four days at this house after the Sep 13 potty accident, which was also unattributed. Miley took her medication normally on this visit.",
+     "quote": "cleaned up a puke under office chain"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -5314,6 +5344,16 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Elizabeth Cuffari visit report, Sep 16 11:38am",
+     "office": false,
+     "note": "First logged instance of Weezy's left eye actually being bad: the sitter describes it as very red with a lot of dried discharge, and gave the eye drops under the existing standing instruction. Right eye not mentioned.",
+     "quote": "I also gave Weezy some eye drops in her left eye cause it did look very red"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -5384,6 +5424,16 @@
     "Oakley"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Monica Hopewell visit report, Sep 16 12:08pm",
+     "office": false,
+     "note": "On the Sep 16 midday visit the sitter could not find Bailey's blue harness and walked her on the collar alone. She reports the walk went fine that way, but the harness location is worth confirming before the next visit.",
+     "quote": "I couldn't find Bailey's blue harness however but she did well with just the collar."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
