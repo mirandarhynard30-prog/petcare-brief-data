@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T22:20:06-04:00",
+ "generated": "2026-09-16T08:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1226,16 +1226,6 @@
     {
      "cat": "behavior",
      "sev": "medium",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Client message",
-     "office": false,
-     "note": "For the Aug 26 visit the client said she would leave Riggs's dish out on the kitchen counter - add a little water and feed him before leaving.",
-     "quote": "I will have his dish on the kitchen counter. Just add a little water and give it to him before you go."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
      "type": "standing",
      "date": "Aug 20",
      "source": "Tiarra Roberts",
@@ -1273,6 +1263,16 @@
     "Georgie"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 15",
+     "source": "Tiarra Roberts visit report, Sep 15 evening",
+     "office": false,
+     "note": "Sep 15 evening visit: the sitter again helped Mary Ann give Georgie his pill medicine and his eyedrops after the walk, so the medication routine is still running as of Sep 15. On the Sep 15 morning walk the sitter noted Mary Ann had already done the eyedrops herself earlier that day.",
+     "quote": "I helped Mary Ann give Georgie his medicine"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -1382,16 +1382,6 @@
      "office": true,
      "note": "Client is taking Georgie to the vet on Fri Sep 4 and leaving the house at 11:00. She asks that his walk happen before then. The Sep 4 visit needs to be timed to land before 11:00 and the assigned sitter told.",
      "quote": "I have to take Georgie to the vet tomorrow —am leaving home at 11:00"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Kristin Ashick message to client",
-     "office": false,
-     "note": "Answered: Kristin confirmed to the client at 9:10pm Sep 3 that she will arrive a few minutes early for the Fri Sep 4 walk so Georgie is back before the client leaves at 11:00 for the vet. No office action outstanding on the request itself; the visit window in the portal has not been confirmed changed.",
-     "quote": "Yes I can.. ill go a few minutes early so you have plenty of time!"
     }
    ],
    "dormant": false
@@ -1442,16 +1432,6 @@
      "office": false,
      "note": "Package expected out front that the owner asked to be brought inside. She described the contents as tattoo needles, so handle with care.",
      "quote": "There’s a package that’ll be out front that needs to be brought in."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Client message",
-     "office": true,
-     "note": "Client asked for a same-day extra visit for Evee on short notice. No reply visible in the mail sweep - confirm whether this was covered.",
-     "quote": "Can anyone do a last min visit for Evee? for me sorry for the short notice"
     },
     {
      "cat": "home",
@@ -2556,26 +2536,6 @@
     "Lennyx"
    ],
    "items": [
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Visit report - Monica Hopewell",
-     "office": false,
-     "note": "Xander bit the sitter's toe repeatedly while she was preparing food - playful rather than aggressive, but it made dishing up awkward. One report, not yet an established pattern.",
-     "quote": "Xander went full blown biting on that toe, all while purring and looking cute."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 25",
-     "source": "Visit report - Monica Hopewell",
-     "office": true,
-     "note": "Wet food is out - the sitter used the last can of fish and shrimp and flagged supplies as running low. Owner likely needs a heads-up.",
-     "quote": "I used the last can of fish and shrimp today."
-    },
     {
      "cat": "behavior",
      "sev": "low",
