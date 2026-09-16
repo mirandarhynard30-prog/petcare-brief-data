@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T13:20:07-04:00",
+ "generated": "2026-09-16T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3625,6 +3625,16 @@
     },
     {
      "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client private message via Time To Pet, Sep 16 1:12pm",
+     "office": false,
+     "note": "Client is answering the sitter report about the vacuum that no longer clicks together. She says she will be at the house tomorrow to look at it and will buy a replacement before the next visit if it cannot be fixed. Until then sitters should expect the vacuum to still be broken.",
+     "quote": "I will be over there tomorrow and will see what is wrong with the vacuum."
+    },
+    {
+     "cat": "home",
      "sev": "low",
      "type": "recent",
      "date": "Sep 16",
@@ -5594,6 +5604,16 @@
      "office": false,
      "note": "Client says there is a small bag of treats for the dog on the top shelf of the fridge. New standing supply location for this brand new client. Note the client spells the dog Flocko here while the pet record reads Flacko - same dog, spelling is inconsistent in Time To Pet.",
      "quote": "I have a small bag of treats on the top shelf in the fridge for Flocko"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Visit report from Elizabeth Cuffari, Sep 16 1:51pm",
+     "office": false,
+     "note": "First walk for this brand new client. The dog walked well down Clifton and went #1, but the sitter judged he was getting hot in the humidity and brought him back to the house early to hang out indoors instead of finishing the usual walk. One observation on one humid day, not yet an established rule - worth watching on the next warm visit. Sitter refilled his water and gave him the fridge treats.",
+     "quote": "He went number one, but he did seem like he was getting kinda hot."
     },
     {
      "cat": "home",
