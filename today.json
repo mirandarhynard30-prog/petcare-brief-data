@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T00:05:06-04:00",
+ "generated": "2026-09-16T11:20:55-04:00",
  "date": "2026-09-16",
  "label": "Sep 16, 2026",
  "clients": [
@@ -34,7 +34,7 @@
      "time": "10:45 AM",
      "sort": "1045",
      "staff": "Tiarra Roberts",
-     "service": "Cat Visit-20 Minutes",
+     "service": "Cat Visit-45 minute",
      "pets": "Miley, Linguine , Fettuccine , Ziti, Manicotti"
     }
    ]
@@ -146,8 +146,8 @@
    "name": "Liz Wainio",
    "visits": [
     {
-     "time": "11:00 AM",
-     "sort": "1100",
+     "time": "11:30 AM",
+     "sort": "1130",
      "staff": "Thomas Rakovec",
      "service": "Dog Visit-45 minute",
      "pets": "Stella, Berry, Emma, Louie"
@@ -274,7 +274,7 @@
      "sort": "1230",
      "staff": "Drew Walker",
      "service": "Dog Visit-45 minute",
-     "pets": "Archer, Milo"
+     "pets": "Archer"
     }
    ]
   },
