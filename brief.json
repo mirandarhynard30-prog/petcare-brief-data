@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T09:20:15-04:00",
+ "generated": "2026-09-17T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -560,11 +560,11 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 16",
-     "source": "Visit report from Kathy Pastor, Sep 16 10:34am",
+     "date": "Sep 17",
+     "source": "Kathy Pastor visit report, Sep 17 10:34am",
      "office": false,
-     "note": "On the Sep 16 morning walk Gordy panted more than on previous days in the humidity. The sitter chose not to give him a treat because he seemed so warm. The walk itself was the usual route and he was otherwise normal.",
-     "quote": "He was panting a little more than previous days. It was very humid."
+     "note": "Gordy's Sep 17 morning walk logged one #2 that was large and slightly loose - the report's consistency answer was 'a little loose but not concerning'. First loose stool recorded for Gordy; the household's earlier GI trouble was Sampson, not him. Single observation, worth watching on the next visit. The rest of the walk was normal and longer than usual in the cooler weather.",
+     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -952,6 +952,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Elizabeth Sigler visit report, Sep 17 11:04am",
+     "office": true,
+     "note": "Chloe's distress escalated at the Sep 17 mid-morning visit. She was at the top of the staircase barking and crying when the sitter walked in, and her voice was already hoarse. The sitter sat with her, gave gentle pets, carried her down, walked her briefly - she peed - and Chloe then rushed straight back to the same spot at the top of the steps and started again. The sitter sat with her for the rest of the visit and refreshed all three waters. Hoarseness on top of the Sep 15 barking/panting report is a new escalation; the office may want to raise it with Melody.",
+     "quote": "She was barking/crying and her voice sounded hoarse, as if she’d been at it long before I arrived."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -990,6 +1000,16 @@
      "office": true,
      "note": "Aug 27 afternoon: Ellie Mae was leashed and walked with Chloe, against the standing instruction that her vet asked her walking be minimised. She cut it short and went back inside after #2; Chloe finished alone. Sitter needs telling.",
      "quote": "I came in and was approached by Ellie Mae she followed me to get Chloe leashed them both up and went on our walk."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Elizabeth Sigler visit report, Sep 17 11:04am",
+     "office": false,
+     "note": "Same Sep 17 report: there are construction workers in the house, and the sitter observed Chloe getting extra agitated whenever one of them made a loud sound - something heavy or metallic set down, a hammer. The sitter also wrote that Chloe does not hear noises the way people do, which reads as her being deaf or hard of hearing, but the email does not say that outright. One sitter on one visit, so treat the noise trigger as an observation rather than a standing rule.",
+     "quote": "she would get extra agitated if one of the construction workers made a loud sound"
     },
     {
      "cat": "health",
@@ -1050,26 +1070,6 @@
      "office": false,
      "note": "Handling note from the Sep 10 visit: the sitter carried Chloe down every set of stairs on the way outside. One sitter, one visit - the report does not say this was asked for, so do not treat it as a standing instruction yet.",
      "quote": "I made sure to carry her down any stairs we encountered"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Elizabeth Sigler visit report, Sep 10",
-     "office": false,
-     "note": "Adds detail to the existing keep-Chloe-out-of-the-hedges rule: on the Sep 10 walk the sitter also steered her clear of other plants and the little yellow lawn flags. Chloe took it well. The email does not say who set the wider rule.",
-     "quote": "keep her away from the hedges (and anything else that sticks out like other plant types or the little yellow flags)"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 8",
-     "source": "Harvett Ellington visit report, Tue Sep 8 morning",
-     "office": false,
-     "note": "Chloe likes to burrow into the hedges, and a long walk is being given specifically to keep her away from the bushes. The sitter writes 'as requested' but the email does not say who made the request, so treat it as a handling preference until confirmed.",
-     "quote": "Chloe went on a nice long walk, as requested, to keep Chloe from the bushes"
     }
    ],
    "dormant": false
