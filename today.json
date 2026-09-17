@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T00:05:11-04:00",
+ "generated": "2026-09-17T11:20:09-04:00",
  "date": "2026-09-17",
  "label": "Sep 17, 2026",
  "clients": [
@@ -74,8 +74,8 @@
    "name": "Erik Risa",
    "visits": [
     {
-     "time": "10:45 AM",
-     "sort": "1045",
+     "time": "11:00 AM",
+     "sort": "1100",
      "staff": "Elizabeth Sigler",
      "service": "Dog Visit-45 minute",
      "pets": "Whiskey"
@@ -227,7 +227,7 @@
      "time": "10:00 AM",
      "sort": "1000",
      "staff": "Elizabeth Sigler",
-     "service": "Dog Visit-30 minute",
+     "service": "Dog Visit-45 minute",
      "pets": "chloe"
     },
     {
