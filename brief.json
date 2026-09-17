@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T19:20:04-04:00",
+ "generated": "2026-09-16T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3406,6 +3406,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 16",
+     "source": "Dan Dantimo visit report, Sep 16 evening walk",
+     "office": false,
+     "note": "Guinness went a small amount of #2 on the Sep 16 evening walk and Dan again logged the consistency as a little loose but not concerning. Same reading as Sep 4, 11, 14 and 15 - a run of loose stool now spanning about two weeks.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 15",
      "source": "Dan Dantimo evening visit report, Sep 15",
      "office": false,
@@ -3501,16 +3511,6 @@
      "office": false,
      "note": "Met a dachshund the sitter judged too mean to let Guinness play with. Implied they have met before; location not given.",
      "quote": "Guinness wanted to play but that dog was too mean"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Dan Dantimo",
-     "office": false,
-     "note": "Chased deer near the Commons and was very excitable on this walk - keep a firm leash on that route.",
-     "quote": "Guinness did some deer chasing as he made sure that they ran and hide"
     }
    ],
    "dormant": false
@@ -3522,6 +3522,36 @@
     "Muffy"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Julie Smith visit report, Sep 16 evening walk",
+     "office": false,
+     "note": "Muffy was on guard and barking when the sitter first arrived. Getting low, petting her head and saying her name settled her. Client was home for this visit.",
+     "quote": "when I got low and started petting her head and saying her name, she did calm down"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Julie Smith visit report, Sep 16 evening walk",
+     "office": false,
+     "note": "Muffy tried several times to eat goose poop on the walk; the sitter pulled her away each time. Watch for it on grassy stretches.",
+     "quote": "She did have a few moments of trying to eat the goose poop, but I was able to get her away quickly."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Julie Smith visit report, Sep 16 evening walk",
+     "office": true,
+     "note": "Sitter reports Muffy pulls a lot on the current leash and suggests trying a harness. This is the sitter's suggestion only - no decision from the client is recorded, so the office would need to raise it with Roseann.",
+     "quote": "Muffy definitely does pull quite a bit on this leash. I’m wondering if maybe a harness would be better for her."
+    },
     {
      "cat": "behavior",
      "sev": "low",
