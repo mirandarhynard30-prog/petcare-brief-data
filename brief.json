@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T14:20:05-04:00",
+ "generated": "2026-09-17T15:20:14-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2424,6 +2424,16 @@
      "quote": "if they r by the front door today - putting them in the house thru front door would be appreciated."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts visit report 2:59pm",
+     "office": false,
+     "note": "Ripley would not let the shadowing sitter put her collar on and kept barking, so the walk was replaced with time in the fenced back yard. Treats were used to build trust. Observed once today with a new sitter, not established as a standing rule.",
+     "quote": "It took a few minutes, I tried putting her collar on but she kept barking."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2452,16 +2462,6 @@
      "office": false,
      "note": "Client messaged at 12:51pm that a contractor was working on the front of the house during today's visit window. No instruction given beyond the heads-up.",
      "quote": "Monica - contractor there working on front of house…."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Monica Hopewell visit report, Sep 5 7:36am",
-     "office": false,
-     "note": "On the Sep 5 morning walk the sitter saw a coyote in the tree line by the property and Ripley kept trying to go investigate. The sitter turned right instead of the usual route. Worth keeping Ripley close and away from the tree line on walks here until this settles.",
-     "quote": "there was definitely a coyote in that tree line there"
     }
    ],
    "dormant": false
