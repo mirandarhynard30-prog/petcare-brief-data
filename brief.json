@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T12:20:07-04:00",
+ "generated": "2026-09-17T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5366,6 +5366,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Sitter visit report, Sep 17 12:36pm",
+     "office": false,
+     "note": "Two loose-dog encounters on the Sep 17 midday walk. A dog across Reagan got so excited it knocked its owner to the ground, and on the way back the neighbour's dog was out and loose on the client's own street. Both dogs handled it well. One day's observation, not established as a pattern - worth watching on the way back to the house.",
+     "quote": "the neighbor's dog was out and loose so that was another eventful time"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -5436,6 +5446,26 @@
      "quote": "Bailey this week if having some left ear discomfort, hoping to get her in the vet tomorrow"
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Sitter visit report, Sep 17 12:36pm",
+     "office": false,
+     "note": "Harnesses were used on both dogs at this visit, which suggests the blue harness that could not be found on Sep 16 has turned up. The report does not say so explicitly, so treat as probable rather than confirmed.",
+     "quote": "I put on their harnesses and we headed out"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Sitter visit report, Sep 17 12:36pm",
+     "office": false,
+     "note": "Oakley appears to be crated between visits: the sitter unzipped his crate on arrival and put him back in it before leaving. This is the first report to mention crating and the client has not stated it as a rule, so it is logged as an observation.",
+     "quote": "I got Oakley back in his crate"
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -5453,26 +5483,6 @@
      "office": false,
      "note": "Context on Bailey's barking at the neighbour dog: the client says Bailey's bark is much bigger than her bite, and that neighbour dog Charlie is docile, used to her barking and just likes staring at them.",
      "quote": "bails is such a guard dog with a bark sooo much bigger than her bite"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Ashley Corall message to client, 3:42pm",
-     "office": true,
-     "note": "Sitter Ashley Corall wrote to the client ahead of this week's visits saying it has been a while since she has seen Bailey and Oakley, and asked whether anything has changed with Oakley's feeding. No reply from the client yet, so the feeding instructions on file may be out of date.",
-     "quote": "I was wondering if anything has changed with Oakley and feeding or anything other changes?"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 13",
-     "source": "Client message from Lauren White, Sep 13 4:48pm",
-     "office": false,
-     "note": "Client confirmed on Sep 13, in reply to Ashley Corall asking, that nothing about Oakley's care has changed - same feeding schedule, he is just bigger. Rest of care also unchanged.",
-     "quote": "Nothing different. Oakley is much bigger now but still same feeding schedule!"
     }
    ],
    "dormant": false
@@ -5610,6 +5620,26 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 17",
+     "source": "Client private message, Sep 17 12:39pm",
+     "office": true,
+     "note": "Entry arrangements for next week's visits are still unsettled. The relative who will be at the house while she is away has not yet decided whether he will let the sitter in each day or whether sitters should enter on their own. The client says she will send a final plan on Sunday, so the sitter instructions for Mon-Wed cannot be finalised before then.",
+     "quote": "I'll send a final plan over Sunday of what he decides."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Client private message, Sep 17 12:43pm",
+     "office": true,
+     "note": "New service question that needs an office answer: the client asks whether we ended up offering pet pickup/drop-off. Friends of hers are bringing two dogs to a playdate at her house this Saturday Sep 19 and need help getting those two dogs back home. She offered to send more details. Nothing has been promised to her.",
+     "quote": "If I provided more details, is this something that we could arrange through you?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 16",
      "source": "Client private message, Sep 16 9:03pm",
      "office": true,
@@ -5635,6 +5665,36 @@
      "office": true,
      "note": "Office follow-up on the same message: the client has hired a lawyer over the alleged bite and says she is navigating the courts. She offered to connect over a call if we need more information. No reply has been sent from this mailbox.",
      "quote": "I have hired a lawyer to help me navigate the courts but wanted to let you know."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Client private message, Sep 17 12:39pm",
+     "office": false,
+     "note": "First real description of Vivian, the dog our sitters have not met. The client compares her to Hamilton: attention-seeking and happy to meet new people. She invited us to ask for more detail on Vivian if needed.",
+     "quote": "she's like Hamilton- wants all the attention and very fond of meeting new people"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Client private message, Sep 17 12:39pm",
+     "office": false,
+     "note": "The client suggests, but has not instructed, that with all three dogs present it may be easier to have at least one of them crated during a visit. Treat as her suggestion pending the final plan she is sending Sunday, not as a standing rule.",
+     "quote": "With all 3 dogs, it might be easier to have at least one crated so it's not mayhem."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Client private message, Sep 17 12:39pm",
+     "office": true,
+     "note": "Follow-up on the alleged bite: the client says she has sent her lawyer a number of our visit reports to show the behaviour was out of character, and says she would call on us as a character witness if one is needed. Office should be aware our reports are now in the hands of her lawyer. She also says her back was turned and she cannot say what the other person did.",
+     "quote": "I actually sent the lawyer many of your visitation reports to help show how out of character that is of him."
     },
     {
      "cat": "schedule",
