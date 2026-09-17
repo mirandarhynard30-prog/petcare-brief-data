@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T07:20:05-04:00",
+ "generated": "2026-09-17T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3697,6 +3697,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 17",
+     "source": "Client message 8:01am Sep 17",
+     "office": true,
+     "note": "Client asks for two visits at the same times for Whiskey this Saturday and Sunday, and from then on two visits every day of the week - he describes wanting us as the 9 AM / 2 PM backbone regardless of his shifts or whether Praveena is in town. He asks to be told if this is an option and whether we need anything from him. Unanswered as of this run; it is both a weekend add and an ongoing schedule change, so it needs an office decision.",
+     "quote": "could we plan to have two daily visits each day of the week for him please?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 15",
      "source": "Client message, Sep 15 2:03pm",
      "office": true,
@@ -3802,16 +3812,6 @@
      "office": false,
      "note": "Tue Sep 8 morning visit: Whiskey went #1 and #2 and the sitter logged the stool as diarrhea, writing separately in the report that Whiskey has diarrhea. That follows soft stool on the Sep 7 morning visit and no #2 at all on the Sep 7 afternoon visit, so this is the third day running with his stool off. The sitter records him as otherwise fine, eating and walking normally.",
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Drew Walker visit report, Tue Sep 8 2:04pm",
-     "office": false,
-     "note": "Tue Sep 8 AFTERNOON visit (Drew Walker, shadowing Jade Popovitz): Whiskey went #2 on the walk and the sitter logged the consistency as very loose, close to diarrhea, with Whiskey otherwise fine. Separate visit and separate sitter from the Sep 8 morning report already in the brief - so Sep 8 shows loose stool at BOTH visits, and the run of days with his stool off now continues into a third day with no let-up. Quote left blank because the report wording is the identical stock phrase used in the morning entry.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -5474,6 +5474,16 @@
      "office": false,
      "note": "First behavior profile for this brand new client, written into Company Notes on Sep 15. The dog is NOT dog friendly and IS an escape risk. Listed triggers are German Shepherds or Shepherd-looking dogs, and car toppers. Allergies recorded as N/a. Treat as a solo walk and keep well clear of other dogs.",
      "quote": "Escape risk: Yes"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Client message 7:18am Sep 17",
+     "office": false,
+     "note": "Client asks that the door handle NOT be locked when leaving. Stated as a plain instruction with no reason given and no mention of which door; treat it as the door the sitter uses to exit. The sitter replied \"Ok not a problem\" at 7:19am.",
+     "quote": "Please do NOT lock the door handle when leaving"
     },
     {
      "cat": "home",
