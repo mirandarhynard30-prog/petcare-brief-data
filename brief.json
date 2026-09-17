@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T11:20:05-04:00",
+ "generated": "2026-09-17T12:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -358,6 +358,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 17",
+     "source": "Thomas Rakovec visit report, Sep 17 late morning",
+     "office": false,
+     "note": "Indoor #2 accident found in the living room. The sitter cleaned and sanitized it and replaced the pee pads. He believed it was Stella, but the same report's checklist logs Stella's outdoor #2 as firm and healthy, so which dog had the accident is not certain.",
+     "quote": "It looked like Stella may have gone no.#2 in the living room"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Thomas Rakovec visit report, Sep 17 late morning",
+     "office": true,
+     "note": "Louie was the only dog not let out back at this visit. The report gives no reason. Worth an office check given his ongoing hurt leg/hip. Stella and Berry were walked; both went #1 only.",
+     "quote": "I arrived and let em all out back to go to the bathroom except Louie today"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 16",
      "source": "Thomas Rakovec visit report",
      "office": false,
@@ -413,26 +433,6 @@
      "office": false,
      "note": "Sep 9 visit report records medication administered for Emma - eye drops - plus a diaper put on Berry and pee pads checked and OK. Taken from this one report; the email does not say whether these are every-visit tasks, so confirm in the care notes.",
      "quote": "eye drops Emma ..p pads ok ...diaper on Berry"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Thomas Rakovec visit report, 1:57pm",
-     "office": false,
-     "note": "Emma's eye drops were given at this visit and medication was logged as administered.",
-     "quote": "Emma's eye drops"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Thomas Rakovec visit report, Aug 31 afternoon",
-     "office": false,
-     "note": "On the afternoon walk Stella and Berry both went #1 but neither went #2, and the sitter flagged it as the same as Friday and said he did not know why. Emma's eye drops were given and medication marked administered.",
-     "quote": "both went no.#1 bot no.#2 like Fri ?? Not sure why not"
     }
    ],
    "dormant": false
@@ -4132,6 +4132,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 17",
+     "source": "Noella Assi visit report, Sep 17 11am",
+     "office": false,
+     "note": "The Sep 17 report records the client at home and asks that the door not be locked. This comes from the report's canned home-security answer, so whether it is a standing instruction or applied only to this visit is not clear. Blackie was again collected at neighbour Greg's and Greg had to call him in from his nap.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 15",
      "source": "Noella Assi visit report",
      "office": false,
@@ -5250,7 +5260,8 @@
    "url": "https://www.timetopet.com/dashboard/client/tl5t9aI82VKp",
    "pets": [
     "Weezy",
-    "Frank"
+    "Frank",
+    "Weezie"
    ],
    "items": [
     {
@@ -5302,6 +5313,16 @@
      "office": false,
      "note": "Visit type is backyard only - no walks. Water is a fountain in the kitchen next to the back door; treats are in the left cabinet above the stove.",
      "quote": "No walks required, just backyard time only."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Kathy Sullenberger and Elizabeth Cuffari visit reports, Sep 17 11:30am",
+     "office": false,
+     "note": "Kathy Sullenberger shadowed Elizabeth Cuffari on this visit and says she expects to be back tomorrow. Weezie would not go #1 with a new person present - both sitters put it down to her being distracted by Kathy. Weezie did come outside and was vocal. Backyard only, both got treats.",
+     "quote": "Only Frankie did #1. Weezie was not interested."
     },
     {
      "cat": "behavior",
