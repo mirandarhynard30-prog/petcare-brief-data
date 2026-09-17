@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T20:20:05-04:00",
+ "generated": "2026-09-16T21:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1304,6 +1304,16 @@
      "quote": "The humidity definitely called for the cooling collar today."
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Tiarra Roberts visit report, Sep 16 8:40pm",
+     "office": false,
+     "note": "Two toads were sitting on the pavement immediately outside the gate at the start of the Sep 16 PM walk. The sitter steered Georgie away from them and says she stayed on high alert for the rest of the walk. This adds a location to the existing toad warning: the risk starts right at the gate, not further along the route.",
+     "quote": "Right out of the gate, we encountered two toads. I encouraged Georgie to leave them."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -1402,16 +1412,6 @@
      "office": false,
      "note": "Georgie's eyes have worsened since the toad incident and the owner is taking him for an emergency vet appointment in Northfield on Fri Sep 4. The email does not say what the vet found or whether any treatment follows.",
      "quote": "His eyes have gotten worse since the toad incident, so thus is an emergency visit."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 4",
-     "source": "Tiarra Roberts visit report, 8:58pm Sep 4",
-     "office": false,
-     "note": "Outcome of Georgie's Sep 4 emergency vet visit: he is now on daily eye drops. Tiarra helped Mary Ann give them after the evening walk and logged medication administered. The email does not name the drug or the dosing time, and does not say whether the sitter is expected to give them at every visit or only to assist the owner.",
-     "quote": "We have to give him eye drops daily, so I will help Mary Ann with that today after the walk."
     }
    ],
    "dormant": false
@@ -5712,6 +5712,46 @@
      "office": true,
      "note": "Returning client after a long gap, asking whether we can cover Thanksgiving. Tentative dates Wed Nov 25 through Sun Nov 29: Wednesday afternoon and evening, all day Thu/Fri/Sat, most of Sunday. She estimates two visits Wednesday and three visits each other day. Household is two dogs, two cats and a hamster - she notes they are down one hedgehog. Plans are not final; she is asking for an availability answer now and will confirm exact times later. Unanswered as of this run.",
      "quote": "we would like to check your availability for around Thanksgiving this year"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Nicole Zammit",
+   "url": "https://www.timetopet.com/dashboard/client/s6p4vcpwHMY3",
+   "pets": [
+    "Vivian"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client private message, Sep 16 9:03pm",
+     "office": true,
+     "note": "Nicole is requesting visits for next week on short notice. Tim's dad will be in town while she is away and told her today he would feel better if someone else came to let the dogs out. She says she will add the days in Time To Pet herself, so the office should watch for them and confirm coverage.",
+     "quote": "I'm very excited to reachout with a request for visitations next week."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client private message, Sep 16 9:03pm",
+     "office": true,
+     "note": "Open question from the client that needs an answer from the office: she asks whether Petcare Deluxe's protocols change when there are more than two dogs on a visit, and whether anything else is needed about Vivian.",
+     "quote": "let me know if there's anything else you need to know about Vivian or if your protocols change with more than 2 dogs per visit."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 16",
+     "source": "Client private message, Sep 16 9:03pm",
+     "office": false,
+     "note": "Vivian is a dog our sitters have not met. The client says she added Vivian's profile a few months ago and describes her as a mastiff boxer mix and very sweet. It has been a while since we last served this client, so treat the whole household as a first visit.",
+     "quote": "you haven't met Vivian yet. I added her profile a few months ago, she's a mastiff boxer mix and very sweet."
     }
    ],
    "dormant": false
