@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T18:20:07-04:00",
+ "generated": "2026-09-17T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -245,6 +245,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 17",
+     "source": "Mary Gilmore private message, 6:09pm",
+     "office": true,
+     "note": "Sent three minutes after the new address, in the same meet-and-greet thread. The message does not say what it refers to, so whether she means the two girls should be walked one at a time at the new place, or something about the meet and greet, is not stated. Worth confirming before any walking arrangement is set.",
+     "quote": "Probably safest to walk separately"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 16",
      "source": "Shannon Anderson visit report",
      "office": false,
@@ -290,16 +300,6 @@
      "office": false,
      "note": "Replying to the Sep 10 midday report, the client confirms the dog heads straight for the toilet whenever the water bowl is empty - in context of the sitter's report this is Puck, though the client says only 'she'. Keep the water bowl topped up and the lid down.",
      "quote": "Yes she goes straight for the toilet if the water bowl is empty"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Client private message, Sep 10 6:08pm",
-     "office": true,
-     "note": "UNANSWERED as of 6:09pm. Mary sent a private message saying she is applying to an apartment complex in Cuyahoga Falls, off the Seasons Rd exit, and asking whether Petcare Deluxe services that area. She gave the specific street address in the message - it is in Time To Pet. Needs an answer from the office before she commits to the apartment.",
-     "quote": "Do you service the area?"
     }
    ],
    "dormant": false
@@ -1787,6 +1787,16 @@
      "quote": "Leash hand-off in garage to prevent the other pup from running out of the house"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Jessica Shouldis private message, 7:07pm",
+     "office": true,
+     "note": "Client asks the office to relay to tomorrow's Astra walker that they should park in the turn-around. Needs passing on to whoever is assigned tomorrow; the message names no other change.",
+     "quote": "can you relay a message to whoever is walking astra tomorrow that they need to park in the turn-around please?"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -1845,16 +1855,6 @@
      "office": false,
      "note": "The client is home and hands the leash over at the front door, the doorbell does not work so knock, and only one dog is walked at a time.",
      "quote": "Client will be home, leash hand off at the front door."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Tiarra Roberts visit report Aug 31 morning",
-     "office": false,
-     "note": "Sitter logged 74 degrees at the Aug 31 morning walk and noted Astra panting slightly, with her pace slowing towards the end. Astra went #1 twice early and #2 near the end.",
-     "quote": "I hear Astra panting slightly"
     }
    ],
    "dormant": false
@@ -2548,6 +2548,46 @@
     },
     {
      "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Brandy Harkless message, 6:49pm",
+     "office": true,
+     "note": "Brandy asks that on Sunday the litter drawer bag be pulled and replaced and one cup of litter added to the bowl. Follows her note that the box was mishandled on the first visit. Needs confirming and writing into her notes.",
+     "quote": "can she pull the bag and put a new one in on sunday please? and add a cup off litter to the bowl"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Brandy Harkless message, 7:03pm",
+     "office": false,
+     "note": "Litter-Robot emptying procedure, in the client's own words: press the power button once to turn it off, pull the bottom drawer out and pull the trash bag, stretch a new bag over the drawer and push it back in, add one cup of litter, then press the power button once to turn it back on. Spare bags are in a container next to the Litter-Robot along with a container of extra litter with a tall cup in it.",
+     "quote": "so before she does anything have her turn it off by pressing the power button once."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Brandy Harkless message, 7:05pm",
+     "office": false,
+     "note": "Second half of the Litter-Robot procedure: once it is back on and has reset, press the cycle button once and let it run all the way around until it resets and turns blue, then it is done. A video was attached to the message.",
+     "quote": "have her hit the cycle button one time. let it come all the way around and wait until it resets and turns blue"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Brandy Harkless message, 7:05pm",
+     "office": false,
+     "note": "Do not intervene if the Litter-Robot shows red mid-cycle. The client says it is motion sensored and will stop, and that it will resume cycling on its own after a minute or two.",
+     "quote": "if it turns red don’t do anything. give it a min or two and then it will continue to cycle itself"
+    },
+    {
+     "cat": "home",
      "sev": "low",
      "type": "recent",
      "date": "Sep 17",
@@ -3056,6 +3096,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 17",
+     "source": "Dan Dantimo visit report, 6:48pm",
+     "office": false,
+     "quote": "",
+     "note": "Holly went both #1 and #2 on the Sep 17 evening walk and Dan logged the consistency as a little loose but not concerning. Sits after the Sep 16 soft and slimy reading and the Sep 14 loose one, so the soft-stool run is continuing. Client was home so the home was not checked."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 16",
      "source": "Julie Smith visit report",
      "office": false,
@@ -3091,16 +3141,6 @@
      "office": true,
      "note": "Lynne was home during the Sep 14 evening visit and asked that the door not be locked; Julie did not go into the home. Julie's message ends 'I will see you Wednesday night', so the next visit reads as Wednesday, but the client has not written that herself.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Sep 13 evening walk: Holly went both #1 and #2 and the sitter logged the #2 consistency as firm and healthy. That is a normal result after the looser stool logged on Sep 9.",
-     "quote": "It was firm and healthy"
     }
    ],
    "dormant": false
