@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T15:20:14-04:00",
+ "generated": "2026-09-17T16:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1197,6 +1197,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated contact information",
+     "office": true,
+     "note": "The Current Pet Care Note was shortened Sep 17 and the reason was dropped - it used to say Riggs is triggered by small animals. Company Notes still say he is reactive to wildlife and to check for small critters by the deck before unclipping, so the rule survives but the warning is less visible.",
+     "quote": "Please check for animals in the fenced in area before releasing Riggs off the leash."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Sep 13",
      "source": "Client pet record update, 12:50-12:58pm",
      "office": true,
@@ -1232,6 +1242,16 @@
      "office": false,
      "note": "The gate to the fenced potty area sticks and the latch must be pushed all the way down.",
      "quote": "The gate latch tends to stick and may need to be lifted to latch and unlatch."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated contact information",
+     "office": true,
+     "note": "The same Sep 17 rewrite deleted the Lighting & Safety line from Company Notes, which told sitters the security lights come on automatically. Nothing replaced it.",
+     "quote": "Security lights will turn on automatically when needed."
     },
     {
      "cat": "home",
@@ -1747,6 +1767,16 @@
      "quote": "nova comes straight back when called, but astra will bolt"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated contact information",
+     "office": false,
+     "note": "Escape-risk handling reconfirmed Sep 17. Client will be home; two dogs walked one at a time toward the Spyglass Hill development. The Current Pet Care Note was cut back to the ETA line, so the hand-off rule now lives only in Company Notes.",
+     "quote": "Leash hand-off in garage to prevent the other pup from running out of the house"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -1815,16 +1845,6 @@
      "office": false,
      "note": "Sitter logged 74 degrees at the Aug 31 morning walk and noted Astra panting slightly, with her pace slowing towards the end. Astra went #1 twice early and #2 near the end.",
      "quote": "I hear Astra panting slightly"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "Waste disposal rule, newly specific in the Aug 26 rewrite: terra cotta coloured plastic flower pot in front of the garage.",
-     "quote": "Used poop bags can be thrown into terra cotta colored plastic flower pot in front of garage"
     }
    ],
    "dormant": false
@@ -2434,6 +2454,16 @@
      "quote": "It took a few minutes, I tried putting her collar on but she kept barking."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated contact information",
+     "office": true,
+     "note": "Feeding amounts now disagree after the Sep 17 rewrite: Current Pet Care Note says 2 scoops Nutra Complete per feeding, Company Notes say 1. Feeding applies only when Matt is out of town, so it is live while he is away. Office should settle which is right. Multivitamins clarified as 2 morning, 2 bedtime, tossed like a treat.",
+     "quote": "1 scoop Nutra Complete - fridge (use same scoop)"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2452,16 +2482,6 @@
      "office": false,
      "note": "Client asks that while Tiarra is training, whoever is with her also put Ripley's training collar on. He says it is in the mudroom closet by the light switch at eye level. His wording is \"pls do hesitate\", which reads as a typo for \"do not hesitate\" - office should confirm before sitters act on it.",
      "quote": "While Tiarra trains…pls do hesitate to have whoever is w her put the Training collar on her…as well."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Client message",
-     "office": false,
-     "note": "Client messaged at 12:51pm that a contractor was working on the front of the house during today's visit window. No instruction given beyond the heads-up.",
-     "quote": "Monica - contractor there working on front of house…."
     }
    ],
    "dormant": false
@@ -2482,6 +2502,16 @@
      "office": true,
      "note": "A handling warning was deleted from Azuri's Pet Care Note and not replaced anywhere. It read that during new-people training sitters should stay in the driveway while the trainer brings him out, as he can get overwhelmed by lots of people at the leash hand-off or front door. Confirm with the client before walking up to the door.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated contact information",
+     "office": false,
+     "note": "Notes reorganized Sep 17. Parking moved into Access Instructions: park on the street, in the cul-de-sac. Azuri wears a red leash wrapped around his body.",
+     "quote": "Dispose of used poop bags in flower pot on front porch"
     }
    ],
    "dormant": false
@@ -4890,6 +4920,16 @@
      "cat": "health",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated contact information",
+     "office": true,
+     "note": "Miley's blood-pressure med line was rewritten Sep 17 and now reads as a 1/4 pill daily. The old wording was \"Give 1 pill daily-Brittany has cut pills into 1/4, and we will give 1 -1/4 each time we come\". Unclear whether the per-visit dose changed or only the wording. Office should confirm with Brittany before anyone doses.",
+     "quote": "Give 1/4 pill daily - Brittany has cut pills into 1/4 already"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 11",
      "source": "Contact update by Tiarra Roberts, 10:06-10:09am",
      "office": false,
@@ -4945,6 +4985,26 @@
      "office": false,
      "note": "A potty accident was found and cleaned up at the Sep 13 morning visit. The report does not say which cat, what kind of accident, or where in the house, so it cannot be tied to any one animal.",
      "quote": "I cleaned up a potty accident"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated contact information",
+     "office": false,
+     "note": "Sep 17 rewrite moves the water fountain to the living room; the old note said fountains were in the kitchen only. Still top off from the spring water jug on the counter each visit.",
+     "quote": "Water fountain in living room"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated contact information",
+     "office": false,
+     "note": "Sep 17 change for the outdoor/feral cat: both bowls now go inside the plastic pet house, where the old note put water inside and food outside. Dry food and fresh water only.",
+     "quote": "Only give dry food and refresh water. Bowls go INSIDE plastic house."
     }
    ],
    "dormant": false
@@ -4957,6 +5017,16 @@
     "Maui"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated contact information",
+     "office": false,
+     "note": "Escape risk confirmed in the Sep 17 Company Notes. Collars on both dogs before going outside for the invisible fence, both back in the dog room at the end, crate Maui before leaving and put the bench in front of the dog room door. Backyard potty breaks only, no walks.",
+     "quote": "Maui has learned how to open doors, escape his crate, and likes to chew things"
+    },
     {
      "cat": "behavior",
      "sev": "high",
