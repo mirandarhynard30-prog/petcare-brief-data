@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T08:20:05-04:00",
+ "generated": "2026-09-17T09:20:15-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3706,6 +3706,16 @@
     {
      "cat": "schedule",
      "sev": "high",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Client message, 8:37am",
+     "office": true,
+     "note": "Follow-up to his 8:01am request. He confirms the standing ask: two visits a day, Monday through Sunday, at the normal times. The weekend is the softer part - he says he is in town and not working and can cover Saturday and Sunday himself if we cannot fit them, but would prefer we take them. No reply from the office is visible in the mailbox as of 9:10am Sep 17.",
+     "quote": "Yes please, Monday to Sunday two visits at our normal times!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
      "type": "recent",
      "date": "Sep 15",
      "source": "Client message, Sep 15 2:03pm",
@@ -3802,16 +3812,6 @@
      "office": true,
      "note": "Sep 9 AFTERNOON visit (Alex Miller, shown around by Jade Popovitz): Whiskey's diarrhea is continuing. He went #2 twice on the 30-minute walk and the report logs the consistency as very loose/diarrhea but the pet seeming fine otherwise. This is the third consecutive report of loose stool after both Sep 8 visits. The email mentions no vet contact and no instruction from the client, so the office should decide whether to raise a vet visit with Erik.",
      "quote": "His tummy is still upset very very runny stools, he went twice, I will attach a picture."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Harvett Ellington visit report, Tue Sep 8 morning",
-     "office": false,
-     "note": "Tue Sep 8 morning visit: Whiskey went #1 and #2 and the sitter logged the stool as diarrhea, writing separately in the report that Whiskey has diarrhea. That follows soft stool on the Sep 7 morning visit and no #2 at all on the Sep 7 afternoon visit, so this is the third day running with his stool off. The sitter records him as otherwise fine, eating and walking normally.",
-     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
     }
    ],
    "dormant": false
