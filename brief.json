@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T16:20:04-04:00",
+ "generated": "2026-09-17T17:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -202,6 +202,26 @@
      "quote": "Thank you!! Yes, please feed them tomorrow!"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Client private message 5:03pm",
+     "office": true,
+     "note": "Mary asks to set up a meet and greet at the new place, Sunday Sep 27 or Monday Sep 28. She says she has not signed the lease yet and may take Monday off work. Unanswered so far.",
+     "quote": "i was hoping we could set up a meet and greet on sunday the 27th or monday the 28th"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Client private message 5:03pm follow-up",
+     "office": true,
+     "note": "One minute after the first message Mary narrowed the meet and greet to Monday Sep 28. Still needs an office reply, and it ties to her unset last service date at the current address.",
+     "quote": "On that monday the 28th"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -280,26 +300,6 @@
      "office": false,
      "note": "Sitter asked the client to confirm feeding at the Sep 9 evening visit, proposing the amounts below; the client replied 'Yes please!' the same morning. Confirm amounts against the client record before feeding.",
      "quote": "Puck gets 3/4c from the black container and Rusty get 3c from the container next to the bedroom?"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Shannon Anderson evening visit report",
-     "office": false,
-     "note": "At the Sep 9 evening visit neither dog would eat the dinner Shannon put down (Rusty 3c from the white container, Puck 3/4c from the black container). Puck decided to eat hers just before the sitter left; Rusty ate none. Both went #1 only, no #2 at this visit. First refusal reported, not a pattern - worth watching at the next feed.",
-     "quote": "I gave them both their dinner, but neither one ate any."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Client message",
-     "office": false,
-     "note": "Client says only Rusty is home today - she took Puck with her for a haircut. Sitter Elizabeth Sigler acknowledged in the same thread, so no action needed unless the visit was billed for both.",
-     "quote": "It will just be rusty today. I took puck with me to give her a haircut!"
     }
    ],
    "dormant": false
@@ -1574,6 +1574,16 @@
      "office": false,
      "note": "No walks at this house, backyard potty only. Contractors may be in the home - work around them.",
      "quote": "No walks — backyard potty only"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated Company Notes 4:12pm",
+     "office": false,
+     "note": "The Company Notes rewrite dropped the explicit 'pick up all poop' instruction from Waste Disposal; the bag locations and Thursday trash day stayed. The water wipe-up line also lost 'at end of visit'.",
+     "quote": "Pick up all poop, poop bags may be on kitchen counter or window sill, beside fridge"
     }
    ],
    "dormant": false
@@ -2527,6 +2537,26 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Client message 5:07pm",
+     "office": true,
+     "note": "Brandy says the litter box was not operated correctly on our first visit and got messed up. Her box appears to need specific handling; the email does not say what kind or how it works. Office should get operating instructions written down before Monday.",
+     "quote": "no one knew how to use mine the first time and it got messed up."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Client message 5:07pm",
+     "office": false,
+     "note": "Brandy is emptying the litter tonight and expects it may still overfill before Monday. She also confirms nothing else about her instructions has changed.",
+     "quote": "the litter i’m just going to pull tonight and hope it doesn’t overfill before monday."
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "standing",
@@ -3121,6 +3151,16 @@
      "office": false,
      "note": "Fill the water cups by the couch to the brim - easier for Oliver to drink.",
      "quote": "please make sure to fill the cups of water, by the couch, to the brim for Oliver"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated Company Notes 4:09pm",
+     "office": false,
+     "note": "The dry food instruction lost 'at every visit' and now reads only 'as needed'. Do-not-pet rule, wet food twice daily and the 95F heating pad are all unchanged.",
+     "quote": "Fill dry food bowl (located in bedroom in front of full-length mirror) as needed, at every visit"
     }
    ],
    "dormant": false
@@ -4778,6 +4818,16 @@
     {
      "cat": "home",
      "sev": "low",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated Company Notes 4:22pm",
+     "office": false,
+     "note": "Auto dry feeder and water bowl are now listed in the bar room; they previously said dining room by kitchen. The same edit trimmed 'check and top off dry feeder each visit' to 'check dry feeder each visit' and dropped 'Refresh water each visit'.",
+     "quote": "Auto dry feeder in bar room"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
      "type": "recent",
      "date": "Sep 13",
      "source": "Tiarra Roberts visit report, Sep 13 morning",
@@ -4794,16 +4844,6 @@
      "office": false,
      "note": "Suzanne is travelling in a different time zone while away and says replies may be delayed because of it. Explains the silence on the open kitchen sink light question. She did not give travel dates or a return date.",
      "quote": "Thank you. Sorry if I don’t respond due to the time difference. We were fast asleep."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 12",
-     "source": "Company Notes edited by Tiarra Roberts 9:33am",
-     "office": false,
-     "note": "Mail and newspaper now go on the entryway table only; the old note allowed the kitchen counter or the entryway table.",
-     "quote": "Place mail and newspaper on entryway table"
     }
    ],
    "dormant": false
@@ -5086,6 +5126,16 @@
      "office": false,
      "note": "Crate routine changed on Sep 11. To get Helios back into his basement crate, throw a treat in and he will run in after it. The older instruction - say the word crate, then give him a treat once he is inside - was removed. He wears a prong collar and his leash hangs by the side door.",
      "quote": "When finished, throw treat into crate and he will run in"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated Company Notes 4:24pm",
+     "office": false,
+     "note": "The Company Notes rewrite deleted the Walk & Care section, so there is no longer a line saying to walk Helios. The rest was wording only, plus 'new person should wait outside' becoming 'wait outside in driveway'.",
+     "quote": "• Walk Helios as needed"
     }
    ],
    "dormant": false
@@ -5191,6 +5241,16 @@
     "Miss Ashley"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated Company Notes 4:18pm",
+     "office": true,
+     "note": "The Company Notes rewrite deleted the line telling sitters to report an unusually hot house. The Nest thermostat line stayed. This is the same kind of hot-weather instruction that went missing from Mary Ann Mckeever's note on Sep 11 - worth checking whether the deletion was intended.",
+     "quote": "Notify management if house feels unusually hot"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
