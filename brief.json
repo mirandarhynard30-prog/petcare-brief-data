@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T22:20:05-04:00",
+ "generated": "2026-09-17T07:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -99,16 +99,6 @@
      "office": false,
      "note": "Caleb refused or picked at his canned food at the last two feedings. Livvie by contrast has been eating well.",
      "quote": "Unfortunately Caleb decided to be fussy with the canned food last night and this morning!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Kelly Huntington private message",
-     "office": true,
-     "note": "Client scheduled a visit for 11/14 and says 11/28 shows both an approved visit and a pending visit. She needs the 11/28 8:00-8:30 PM visit and asks the office to check what the other pending one is.",
-     "quote": "I DO need the 11/28 PM visit (8:00PM-8:30PM)."
     },
     {
      "cat": "health",
@@ -730,16 +720,6 @@
     },
     {
      "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Kayla Popow visit report, Aug 26",
-     "office": false,
-     "note": "Rex was jumpy on arrival and the sitter used the collar remote - vibrate first, then the static setting, which stopped him. Single reported instance, not a standing instruction.",
-     "quote": "Rex was jumpy so I had to use the collar remote today."
-    },
-    {
-     "cat": "behavior",
      "sev": "medium",
      "type": "recent",
      "date": "Sep 16",
@@ -1181,26 +1161,6 @@
      "office": false,
      "note": "Following her supply-notice rule, the client explains Troup's cooked meals are made to order by a hired chef and delivered along with water and food. She is still working out how long a batch lasts because he only recently started the new meal plan, so sitters reporting remaining portions is what lets her set up a rotation.",
      "quote": "I consistently have Troups cooked meals delivered along with water and food."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Josh Stone visit report",
-     "office": false,
-     "note": "Topp had another accident at the Aug 26 morning visit - he went #1 outside but #2 in his crate, which the sitter cleaned before anything else. Second crate accident reported this week.",
-     "quote": "Topp went #1 outside and #2 in his crate."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Josh Stone visit report",
-     "office": false,
-     "note": "Troup's chicken and rice is nearly out - the sitter reported one portion left and marked pet supplies as getting low.",
-     "quote": "One more portion of chicken/rice left"
     }
    ],
    "dormant": false
@@ -1484,7 +1444,7 @@
      "quote": "Groceries are not coming canceled order if there’s no water it’s fine tap"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Regina Mathews",
@@ -1504,16 +1464,6 @@
      "office": false,
      "note": "Lila and India are kept apart at the start of every visit - they are very high energy together. Milo can be out with either girl individually. All three can be let out together towards the end of the visit.",
      "quote": "We will keep Lila and India separated, at first, during the beginning of the visit."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Client message",
-     "office": true,
-     "note": "Client asked to push Thursday Aug 27's visit later - her landscaper is due at the usual time and the dogs could not go out. She suggested between 1 and 2. Needs the scheduler updated.",
-     "quote": "A later time such as between 1 and 2 would be ok"
     },
     {
      "cat": "behavior",
@@ -1604,16 +1554,6 @@
      "office": false,
      "note": "No walks at this house, backyard potty only. Contractors may be in the home - work around them.",
      "quote": "No walks — backyard potty only"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Tiarra Roberts",
-     "office": true,
-     "note": "Poop bags nearly out - three left on the roll. Restock request needed.",
-     "quote": "Only 3 bags left on the roll of poop bags."
     }
    ],
    "dormant": false
@@ -1727,16 +1667,6 @@
     },
     {
      "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Faith Collins",
-     "office": false,
-     "note": "Aug 26 late-evening visit: Bismark refused to walk and lay in the grass. Sitter new to him recorded him as anxious.",
-     "quote": "He didn't want to walk and just layed in the grass."
-    },
-    {
-     "cat": "behavior",
      "sev": "low",
      "type": "recent",
      "date": "Sep 7",
@@ -1766,7 +1696,7 @@
      "quote": "I came for Eddie's last afternoon visit with us."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Jessica Shouldis",
@@ -2414,6 +2344,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Matt Konn message, 6:52am",
+     "office": false,
+     "note": "Matt left for the airport the morning of Sep 17 and sent Ripley's feeding instructions because he did not leave a note at the house. Dry food is in the pantry, bottom left, 2 scoops. Wet food is in the fridge on the middle shelf: Nutra Complete 2 scoops plus roughly a third of a bag of the Farmer's Dog labeled Ripley. Ripley only went #1 before he left. He asks that sitters text him with any questions and says he will have WiFi on the plane; his number is in Time To Pet.",
+     "quote": "She will need fed at dinner tonite (2nd visit) and tomorrow morning as well."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2474,6 +2414,16 @@
      "quote": "Both dogs went berserk! I've never really had to use all my strengths for her. She is one strong lady."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Matt Konn message, 7:05am",
+     "office": false,
+     "note": "Home Depot may deliver large boxes of mirrors two days early. If they are sitting by the front door at today's visit, Matt asks that they be brought inside through the front door. He says they should not be heavy.",
+     "quote": "if they r by the front door today - putting them in the house thru front door would be appreciated."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2512,26 +2462,6 @@
      "office": false,
      "note": "On the Sep 5 morning walk the sitter saw a coyote in the tree line by the property and Ripley kept trying to go investigate. The sitter turned right instead of the usual route. Worth keeping Ripley close and away from the tree line on walks here until this settles.",
      "quote": "there was definitely a coyote in that tree line there"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Monica Hopewell 1:38pm message",
-     "office": false,
-     "note": "A Farmer's Dog delivery arrived as the sitter was leaving the 1:35pm visit and was left inside the garage. It is refrigerated food, so it should not sit there long - the next sitter or the client should bring it in.",
-     "quote": "farmers dog came just as I was walking out of the garage so I left that in the garage"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Monica Hopewell evening visit report",
-     "office": true,
-     "note": "The Farmer's Dog delivery Monica left inside the garage at the 1:38pm visit still appears to be there - the 6:34pm evening report answers No to bringing any mail or packages in. Refrigerated food, so it needs someone tonight.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -2812,16 +2742,6 @@
      "quote": "Milo ate the cats treats. So I tried again but defended the cat from Milo"
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Client message via Time To Pet",
-     "office": false,
-     "note": "Client says the dogs will be shut in the basement for today's visit because cleaners are at the house.",
-     "quote": "The dogs will be in the basement since the cleaners will be here today."
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -2931,16 +2851,6 @@
      "office": false,
      "note": "Aug 27 morning shows how the changed routine was carried out - Buddy Guard sprinkled on the food and made into a gravy with water, and the creases of Octavia's mouth cleaned. Does not resolve the missing frequency for the medicated pads.",
      "quote": "including sprinkling the buddy guard on her food and making a gravy with water"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Visit report from Margaret Bill",
-     "office": false,
-     "note": "Octavia barked at the sitter knocking on arrival, and on the way out started to bolt toward a chipmunk but stopped when told no.",
-     "quote": "She did not however , like me knocking and barked."
     },
     {
      "cat": "health",
@@ -3371,16 +3281,6 @@
      "office": false,
      "note": "Archie did not have a bowel movement on today's walk, though he urinated several times. Single observation only - worth watching on the next visit.",
      "quote": "Archie didn't go no.2 and went no.1 several times"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "The Aug 25 and Aug 26 visit reports both record the client at home during the visit and asking that the door not be locked.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -3501,16 +3401,6 @@
      "office": true,
      "note": "On the Aug 27 evening walk Guinness went #2 twice and the sitter recorded the consistency as \"a little loose but not concerning\". Loose stool is now on record Aug 24, Aug 25 and Aug 27. No other symptoms in the report - he was eager for the walk, walked well and drank; no accidents in the home.",
      "quote": "He did go number two twice as we headed toward home."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Dan Dantimo",
-     "office": false,
-     "note": "Met a dachshund the sitter judged too mean to let Guinness play with. Implied they have met before; location not given.",
-     "quote": "Guinness wanted to play but that dog was too mean"
     }
    ],
    "dormant": false
@@ -3601,26 +3491,6 @@
      "office": false,
      "note": "First meeting with a new sitter: Muffy barked when she first saw her, then settled quickly on the walk and was friendly by the end. Worth expecting from any sitter new to her.",
      "quote": "She barked at first when she saw me but quickly warmed up on the walk."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Dan Dantimo visit report, Aug 26",
-     "office": false,
-     "note": "Muffy is in a new collar and leash. She heels well when rewarded with a treat.",
-     "quote": "We worked on her heeling a number of times and she did very well with a treat reward"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Muffy's stool on the Aug 26 evening walk was logged as a little loose but not concerning. The sitter also took a water break on a long, quick-paced route.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -3644,7 +3514,7 @@
      "quote": ""
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Marcia Ontell",
@@ -3772,36 +3642,6 @@
      "office": false,
      "note": "Aayla had got hold of a black poop bag and shredded it over the couch and floor before the midday visit; the sitter cleared it up. Second destruction incident in three days - worth keeping bags out of her reach.",
      "quote": "she got a black poop bag from somewhere and it was ripped up on the couch and some on the floor"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Josh Stone",
-     "office": false,
-     "note": "Backfill - nothing was on file for this client. Aayla wanted ball play before going outside and the sitter did that first; recorded as one visit, not a confirmed rule.",
-     "quote": "She wanted me to play ball with her before going out so we did that first."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Josh Stone",
-     "office": false,
-     "note": "Sitter kept Aayla at a distance from two Boston terriers on the walk rather than letting her greet them; the email does not say whether that is a client rule.",
-     "quote": "We saw a couple of Boston terriers out today! We kept our distance"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Josh Stone",
-     "office": false,
-     "note": "Warm day, so the sitter took a shade break mid-walk. Heat sensitivity is not stated in the email, only the sitter's precaution.",
-     "quote": "It was a tad warmer so did take a little shade break."
     },
     {
      "cat": "home",
