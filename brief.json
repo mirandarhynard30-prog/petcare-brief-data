@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T17:20:07-04:00",
+ "generated": "2026-09-17T18:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -222,6 +222,26 @@
      "quote": "On that monday the 28th"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Mary Gilmore private message 6:03pm",
+     "office": true,
+     "note": "Following up on the Mon Sep 28 meet and greet, Mary asks for a later time slot - 4pm or after - so she has more time for moving trips back and forth. Still needs an office confirmation.",
+     "quote": "Probably the later the better, 4 or after? Gives us more time to take the trips back and forth!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Mary Gilmore private message 6:06pm",
+     "office": true,
+     "note": "Mary sent the street address of the new place in Cuyahoga Falls by private message. Building number and apartment number are not known yet, so the record in Time To Pet will be incomplete until she confirms them. Address itself is in Time To Pet, not repeated here.",
+     "quote": "Unsure on building number or apt # yet"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -280,26 +300,6 @@
      "office": true,
      "note": "UNANSWERED as of 6:09pm. Mary sent a private message saying she is applying to an apartment complex in Cuyahoga Falls, off the Seasons Rd exit, and asking whether Petcare Deluxe services that area. She gave the specific street address in the message - it is in Time To Pet. Needs an answer from the office before she commits to the apartment.",
      "quote": "Do you service the area?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Shannon Anderson message to Mary Gilmore, Wed Sep 9 9:36am; client replied 'Yes please!' at 9:56am",
-     "office": false,
-     "note": "Client confirmed the sitter should feed the girls at the evening visit. Sitter stated the amounts back to her and she agreed: Puck 3/4 cup from the black container, Rusty 3 cups from the container next to the bedroom. The email does not say whether this applies to every evening visit or only Sep 9, so treat the amounts as confirmed but the standing frequency as unconfirmed.",
-     "quote": "would you like me to feed the girls? If so, Puck gets 3/4c from the black container and Rusty get 3c"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Shannon Anderson message",
-     "office": false,
-     "note": "Sitter asked the client to confirm feeding at the Sep 9 evening visit, proposing the amounts below; the client replied 'Yes please!' the same morning. Confirm amounts against the client record before feeding.",
-     "quote": "Puck gets 3/4c from the black container and Rusty get 3c from the container next to the bedroom?"
     }
    ],
    "dormant": false
@@ -2555,6 +2555,16 @@
      "office": false,
      "note": "Brandy is emptying the litter tonight and expects it may still overfill before Monday. She also confirms nothing else about her instructions has changed.",
      "quote": "the litter i’m just going to pull tonight and hope it doesn’t overfill before monday."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Brandy Harkless message 5:16pm",
+     "office": true,
+     "note": "Follow-up to her 5:07pm litter message. She says the litter situation makes her apartment smell and is a mess, and she will see if her mom can help. The message breaks off mid-sentence, so what she wants her mom to do is not stated.",
+     "quote": "it’s okay. it makes me apartment smell and it’s a mess. i’ll see if my mom can"
     },
     {
      "cat": "behavior",
