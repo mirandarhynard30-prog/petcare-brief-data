@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T21:20:06-04:00",
+ "generated": "2026-09-16T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3544,6 +3544,16 @@
     },
     {
      "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client private message, 9:21pm",
+     "office": true,
+     "note": "Replying to a private message from the office, the client asks for guidance on harnesses for Muffy. She also says she and Muffy like sitter Julie and hopes Julie can do more of her walks. Both points are waiting on an office reply.",
+     "quote": "I would appreciate any guidance you can give me on harnesses."
+    },
+    {
+     "cat": "behavior",
      "sev": "low",
      "type": "recent",
      "date": "Sep 16",
@@ -5720,7 +5730,9 @@
    "name": "Nicole Zammit",
    "url": "https://www.timetopet.com/dashboard/client/s6p4vcpwHMY3",
    "pets": [
-    "Vivian"
+    "Vivian",
+    "Vito",
+    "Hamilton"
    ],
    "items": [
     {
@@ -5732,6 +5744,26 @@
      "office": true,
      "note": "Nicole is requesting visits for next week on short notice. Tim's dad will be in town while she is away and told her today he would feel better if someone else came to let the dogs out. She says she will add the days in Time To Pet herself, so the office should watch for them and confirm coverage.",
      "quote": "I'm very excited to reachout with a request for visitations next week."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 16",
+     "source": "Client private message, 9:29pm",
+     "office": false,
+     "note": "Client says Vito is not to go on walks anymore. She reports an incident in the metroparks: they were standing to the side, a person walked too close and startled him, and that person claimed they were bitten, though she says she never saw marks. No walking Vito.",
+     "quote": "Vito is not to go on walks anymore."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client private message, 9:29pm",
+     "office": true,
+     "note": "Office follow-up on the same message: the client has hired a lawyer over the alleged bite and says she is navigating the courts. She offered to connect over a call if we need more information. No reply has been sent from this mailbox.",
+     "quote": "I have hired a lawyer to help me navigate the courts but wanted to let you know."
     },
     {
      "cat": "schedule",
@@ -5752,6 +5784,16 @@
      "office": false,
      "note": "Vivian is a dog our sitters have not met. The client says she added Vivian's profile a few months ago and describes her as a mastiff boxer mix and very sweet. It has been a while since we last served this client, so treat the whole household as a first visit.",
      "quote": "you haven't met Vivian yet. I added her profile a few months ago, she's a mastiff boxer mix and very sweet."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 16",
+     "source": "Client private message, 9:20pm",
+     "office": false,
+     "note": "For Monday's requested visit the client says it is a potty break and play time only. The dogs can all go outside together, but keep Hamilton separate if Vito and Vivian start playing so he does not get involved; she says taking them out two at a time is also fine.",
+     "quote": "keep Hamilton seperate if Vito and Vivian start playing to avoid him from getting involved"
     }
    ],
    "dormant": false
