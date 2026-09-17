@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T13:20:05-04:00",
+ "generated": "2026-09-17T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3527,6 +3527,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 17",
+     "source": "Marcia Ontell private message, 1:51pm",
+     "office": false,
+     "note": "Follow-up to the vacuum that would not click together. Marcia says it closes now, though it is stiff, and asks to be told if it keeps giving trouble. Reads as the Sep 16 problem resolved rather than replaced.",
+     "quote": "The vacuum closes. It is a little stiff. Let me know if it continues to be a problem."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 16",
      "source": "Kiara Streety visit report, Sep 16 11:46am",
      "office": false,
@@ -3542,6 +3552,16 @@
      "office": false,
      "note": "Client is answering the sitter report about the vacuum that no longer clicks together. She says she will be at the house tomorrow to look at it and will buy a replacement before the next visit if it cannot be fixed. Until then sitters should expect the vacuum to still be broken.",
      "quote": "I will be over there tomorrow and will see what is wrong with the vacuum."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Marcia Ontell private message, 1:58pm",
+     "office": false,
+     "note": "Marcia points out a broom and dust pan kept in the closet in the living area, available to sitters if needed.",
+     "quote": "There is also a broom and dust pan in the closet in the living area if needed."
     },
     {
      "cat": "home",
