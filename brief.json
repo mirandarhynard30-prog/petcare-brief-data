@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T16:20:06-04:00",
+ "generated": "2026-09-18T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -49,6 +49,16 @@
      "office": true,
      "note": "Client says the concern is Livvie's Gabapentin in particular, and asks that Tiarra shadow Noella on AM visits so the client can work with both of them. Livvie's meds are AM-only, so PM-only shadowing cannot teach them. Office to arrange the AM shadowing.",
      "quote": "I think Noella may still be a little uncomfortable with Livvies AM meds"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Kelly Huntington message, 4:17pm",
+     "office": false,
+     "note": "Kelly says Livvie is eating much better. If Livvie does not finish her food, cover it with a paper towel and leave it on the counter - Kelly will give it to her when she gets home.",
+     "quote": "if she doesnt eat everything just cover with a paper towel and leave it on the counter"
     },
     {
      "cat": "schedule",
@@ -114,11 +124,11 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Sep 11",
-     "source": "Kelly Huntington has sent you a new message",
+     "date": "Sep 18",
+     "source": "Kelly Huntington message, 4:22pm",
      "office": false,
-     "note": "Client wrote Sep 11 that she is relieved the cat is eating. She does not say which cat, though the earlier appetite and medication thread was about Livvie. Reads as the appetite worry continuing to settle rather than a new problem.",
-     "quote": "Yes its such a relief shes eating!"
+     "note": "Kelly reports Livvie has regained a pound and her weight is now holding steady.",
+     "quote": "She gained a pound back! She hasnt gained any more yet but she hasnt lost any so Ill take it! Shes stable!"
     }
    ],
    "dormant": false
