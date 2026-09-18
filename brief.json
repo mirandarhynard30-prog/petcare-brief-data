@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T19:20:05-04:00",
+ "generated": "2026-09-17T20:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2588,6 +2588,16 @@
     },
     {
      "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Client message 7:15pm",
+     "office": false,
+     "note": "Lighting instructions in the client's own words. The second light switch button stays up; the first one controls the front door light. A black remote on the wall by the cat food dresser controls the living room light and fan - the fan stays on, and the light button has three brightness settings, brighter the more you click. Sent with a photo.",
+     "quote": "second light switch button stays up. first one controls the front door light."
+    },
+    {
+     "cat": "home",
      "sev": "low",
      "type": "recent",
      "date": "Sep 17",
@@ -3421,6 +3431,16 @@
      "office": true,
      "note": "Client wrote privately on the afternoon of Aug 29 asking that no walker come on Monday Sept 7. The visit still needs taking off the schedule and no reply has been sent back yet.",
      "quote": "I do not wish to have a walker on the 7th of September."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Dan Dantimo visit report 7:54pm",
+     "office": true,
+     "note": "Guinness' Sep 17 evening walk logged #2 as a little loose but not concerning. That continues the loose-stool run already recorded on Sep 4, 11, 14, 15 and 16, so this is the sixth logged instance and still has not been raised with Deb. The walk itself went well - good on leash, #1 and a small #2, chased off a bunny. Client was home and asked that the door not be locked.",
+     "quote": ""
     },
     {
      "cat": "health",
