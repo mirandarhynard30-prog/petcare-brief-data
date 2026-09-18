@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T09:20:06-04:00",
+ "generated": "2026-09-18T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -550,11 +550,11 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 17",
-     "source": "Kathy Pastor visit report, Sep 17 10:34am",
+     "date": "Sep 18",
+     "source": "Renee Dougherty visit report",
      "office": false,
-     "note": "Gordy's Sep 17 morning walk logged one #2 that was large and slightly loose - the report's consistency answer was 'a little loose but not concerning'. First loose stool recorded for Gordy; the household's earlier GI trouble was Sampson, not him. Single observation, worth watching on the next visit. The rest of the walk was normal and longer than usual in the cooler weather.",
-     "quote": "It was a little loose but not concerning"
+     "note": "Sep 18 morning visit: Sampson used the litter box but also left 2 poops outside it, plus a small vomit/hairball on the hallway floor. Renee saw no urine and cleaned up both messes. He took his pill, ate wet and dry food, water dumped and refreshed, litter boxes scooped, no supplies low.",
+     "quote": "He had a little bit of vomit/hairball on the floor in the hallway."
     }
    ],
    "dormant": false
