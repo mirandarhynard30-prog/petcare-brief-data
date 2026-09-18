@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T15:20:05-04:00",
+ "generated": "2026-09-18T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1455,6 +1455,16 @@
      "quote": "Do you have availability tomorrow between noon and 1:00 for a drop in?"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Regina Mathews private message, 3:28pm",
+     "office": true,
+     "note": "Client submitted a request for 3 visits on Monday Sep 21 and asks that they be spaced out across the day. She is driving to Michigan for the day. The request still needs approval and scheduling.",
+     "quote": "I jist put in a request for 3 visits on Monday. Do your best to space them out."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1533,6 +1543,16 @@
      "office": false,
      "note": "No walks at this house, backyard potty only. Contractors may be in the home - work around them.",
      "quote": "No walks — backyard potty only"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Regina Mathews private message, 3:36pm",
+     "office": false,
+     "note": "Client's own availability has changed - she is home most days now, which is context for scheduling future visits. She will notify the office if that changes.",
+     "quote": "I work from home most days now or only go in office for a half day. I will let you know if that changes"
     },
     {
      "cat": "home",
@@ -2273,6 +2293,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Matt Konn private message, 3:58pm",
+     "office": true,
+     "note": "Client says his daughters are at the house, so no feeding is needed for the rest of the weekend. Office needs to cancel or adjust the remaining weekend visits. He does not say whether the dog walks are also cancelled - only feeding is mentioned.",
+     "quote": "My daughters are there - so no feeding needs to be done the rest of weekend - TY"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -2381,16 +2411,6 @@
      "office": true,
      "note": "Feeding amounts now disagree after the Sep 17 rewrite: Current Pet Care Note says 2 scoops Nutra Complete per feeding, Company Notes say 1. Feeding applies only when Matt is out of town, so it is live while he is away. Office should settle which is right. Multivitamins clarified as 2 morning, 2 bedtime, tossed like a treat.",
      "quote": "1 scoop Nutra Complete - fridge (use same scoop)"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client private message 2:23pm",
-     "office": true,
-     "note": "Client asked whether two visits can be added for Saturday - he did not see them on the schedule. He followed up six minutes later with \"Oh...Ok! Just let me know! I'll let my daughters know. TY!\", so he may already have had a partial answer, but no confirmed Saturday visits are recorded here.",
-     "quote": "Hi Miranda - are we able to get 2 visits for Saturday as well? I did not see on the schedule…thx!"
     }
    ],
    "dormant": false
@@ -5615,6 +5635,16 @@
      "office": false,
      "note": "First behavior profile for this brand new client, written into Company Notes on Sep 15. The dog is NOT dog friendly and IS an escape risk. Listed triggers are German Shepherds or Shepherd-looking dogs, and car toppers. Allergies recorded as N/a. Treat as a solo walk and keep well clear of other dogs.",
      "quote": "Escape risk: Yes"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Brandon Keyes message, 3:19pm",
+     "office": true,
+     "note": "On his last-minute Sep 19 request, the client says any time after 3:00pm works and he will most likely be home by then. The Sep 19 service order is still awaiting approval.",
+     "quote": "if it would be anytime after three I will most likely be home by then"
     },
     {
      "cat": "home",
