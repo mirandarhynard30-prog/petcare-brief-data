@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T20:20:04-04:00",
+ "generated": "2026-09-17T22:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5915,6 +5915,16 @@
      "office": true,
      "note": "Follow-up on the alleged bite: the client says she has sent her lawyer a number of our visit reports to show the behaviour was out of character, and says she would call on us as a character witness if one is needed. Office should be aware our reports are now in the hands of her lawyer. She also says her back was turned and she cannot say what the other person did.",
      "quote": "I actually sent the lawyer many of your visitation reports to help show how out of character that is of him."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Nicole Zammit private message, 9:34pm",
+     "office": true,
+     "note": "Update on next week's entry arrangements while she is away: the client now says she will leave notes for Shannon and brief Tim's dad on what to expect. She had earlier said she would send a final plan on Sunday. Office should watch for that plan and make sure it reaches Shannon before the first visit.",
+     "quote": "I'll be sure to leave notes for Shannon next week and make sure Tim's dad knows what to expect."
     },
     {
      "cat": "schedule",
