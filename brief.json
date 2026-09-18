@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T22:20:06-04:00",
+ "generated": "2026-09-17T23:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5735,6 +5735,16 @@
      "office": false,
      "note": "Client asks that the door handle NOT be locked when leaving. Stated as a plain instruction with no reason given and no mention of which door; treat it as the door the sitter uses to exit. The sitter replied \"Ok not a problem\" at 7:19am.",
      "quote": "Please do NOT lock the door handle when leaving"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 17",
+     "source": "Client message",
+     "office": false,
+     "note": "Brandon expects a package on the front porch around the time of the next visit and asks the sitter to bring it inside.",
+     "quote": "I may have a package on front porch roughly around the time of your arrival if so could you please bring it in"
     },
     {
      "cat": "home",
