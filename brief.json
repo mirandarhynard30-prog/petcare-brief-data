@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T12:20:06-04:00",
+ "generated": "2026-09-18T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -205,6 +205,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 18",
+     "source": "Mary Gilmore private message",
+     "office": true,
+     "note": "Confirms Sunday 5pm works. Next week she is at the current house; the week of the 28th and after may be split between locations and she will confirm. Office should log which address applies to which visit.",
+     "quote": "Yes sunday at 5pm works great. For next week we will be at the current house."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 17",
      "source": "Client private message 5:03pm",
      "office": true,
@@ -290,16 +300,6 @@
      "office": false,
      "note": "A car parked at the back of the house does not mean the visit is cancelled. Shannon saw one on Sep 12, checked with the office first, and was told there was no cancellation; Mary then confirmed the blue Chevy Spark is her husband's.",
      "quote": "Ok thats my man, thank you!!!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Client message, Sep 10",
-     "office": false,
-     "note": "Replying to the Sep 10 midday report, the client confirms the dog heads straight for the toilet whenever the water bowl is empty - in context of the sitter's report this is Puck, though the client says only 'she'. Keep the water bowl topped up and the lid down.",
-     "quote": "Yes she goes straight for the toilet if the water bowl is empty"
     }
    ],
    "dormant": false
@@ -1444,6 +1444,16 @@
     "Lila"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Regina Mathews private message",
+     "office": true,
+     "note": "Asking whether we have availability tomorrow (Sat Sep 19) between noon and 1:00 for a drop in. Unanswered as of this run.",
+     "quote": "Do you have availability tomorrow between noon and 1:00 for a drop in?"
+    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -5350,7 +5360,8 @@
    "pets": [
     "Weezy",
     "Frank",
-    "Weezie"
+    "Weezie",
+    "Frankie"
    ],
    "items": [
     {
@@ -5402,6 +5413,16 @@
      "office": false,
      "note": "Visit type is backyard only - no walks. Water is a fountain in the kitchen next to the back door; treats are in the left cabinet above the stove.",
      "quote": "No walks required, just backyard time only."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Kathy Sullenberger visit report",
+     "office": false,
+     "note": "Weezie vocal/barking through the visit; sitter notes 'again', so not the first time. Weezie did not pee this visit; Frankie went #1. Shannon Anderson, on the same visit, separately described Weezie barking until she got attention. Name is spelled Weezie/Wheezie/Wheezy across reports - same dog.",
+     "quote": "Weezie is very vocal again but with love. She did not pee either."
     },
     {
      "cat": "behavior",
