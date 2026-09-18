@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T13:20:05-04:00",
+ "generated": "2026-09-18T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -182,6 +182,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Shannon Anderson visit report",
+     "office": true,
+     "note": "Shannon Anderson rubbed Puck's left ear and came away with brown spots on her finger; Puck tilted her head toward the finger and gave a tiny whimper. Sitter photographed her finger and said she was not sure whether the ear just needs cleaning or something else is going on. No vet advice was given in the message.",
+     "quote": "As soon as I started to rub her ear, she tilted her head to my finger and had a tiny whimper."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -290,16 +300,6 @@
      "office": false,
      "note": "Loose, light-toned stool in the fenced yard at the midday visit; sitter logged it under Puck (form: very loose/diarrhea, pet seems fine otherwise) and Rusty's as firm, but says both girls went close together so she could not be certain which dog it was. Worth a second look on the Wednesday visit.",
      "quote": "Not quite diarrhea, but something we should definitely be keeping an eye on."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 12",
-     "source": "Shannon Anderson visit report and client reply, Sep 12",
-     "office": false,
-     "note": "A car parked at the back of the house does not mean the visit is cancelled. Shannon saw one on Sep 12, checked with the office first, and was told there was no cancellation; Mary then confirmed the blue Chevy Spark is her husband's.",
-     "quote": "Ok thats my man, thank you!!!"
     }
    ],
    "dormant": false
@@ -1004,6 +1004,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 18",
+     "source": "Elizabeth Sigler visit report",
+     "office": false,
+     "note": "Chloe was barking at the top of the stairs on arrival; Elizabeth Sigler petted her until she had been quiet a couple of minutes, then carried her down the steps and down the front step. A worker was running a leaf blower in the driveway, so she turned Chloe right and walked between Chloe and the blower. Chloe peed quickly, then U-turned and hurried back inside. Client was home for this visit and asked that the door not be locked.",
+     "quote": "Once it had been a couple minutes since she’d last been barking, I gently carried her down the steps."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 17",
      "source": "Elizabeth Sigler visit report, Sep 17 11:04am",
      "office": false,
@@ -1049,16 +1059,6 @@
      "office": false,
      "note": "Chloe's Sep 14 mid-morning walk was also short. The sitter gave no reason beyond a guess that it was Monday. This is the earlier of the two short walks logged that day; stool was recorded firm and healthy at this visit.",
      "quote": "went on a short walk today. Maybe it is Monday."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Elizabeth Sigler visit report",
-     "office": false,
-     "note": "Chloe was hacking and wheezing a bit after her short Sep 11 walk. The sitter described it as not abnormal for her but flagged it anyway. Same report notes the sitter kept her clear of hedges and anything that could poke her face.",
-     "quote": "She was hacking and wheezing a bit. Not in a way that's abnormal for her but I still thought it was worth nothing."
     }
    ],
    "dormant": false
@@ -2346,6 +2346,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 18",
+     "source": "Monica Hopewell visit report; Matt Konn reply",
+     "office": false,
+     "note": "On the afternoon walk Monica Hopewell found what she took to be a cluster of puffball mushrooms growing on the stone work where the trail starts, and added a photo. Matt replied that he needs to spray them and that the moisture caused the same thing last year. Not treated as of this message.",
+     "quote": "TY!! I gotta spray those mushroom!! All the moisture had it there last year as well!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 17",
      "source": "Matt Konn message, 7:05am",
      "office": false,
@@ -2381,16 +2391,6 @@
      "office": true,
      "note": "Client asked whether two visits can be added for Saturday - he did not see them on the schedule. He followed up six minutes later with \"Oh...Ok! Just let me know! I'll let my daughters know. TY!\", so he may already have had a partial answer, but no confirmed Saturday visits are recorded here.",
      "quote": "Hi Miranda - are we able to get 2 visits for Saturday as well? I did not see on the schedule…thx!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 16",
-     "source": "Client private message 3:00pm",
-     "office": false,
-     "note": "Client asks that while Tiarra is training, whoever is with her also put Ripley's training collar on. He says it is in the mudroom closet by the light switch at eye level. His wording is \"pls do hesitate\", which reads as a typo for \"do not hesitate\" - office should confirm before sitters act on it.",
-     "quote": "While Tiarra trains…pls do hesitate to have whoever is w her put the Training collar on her…as well."
     }
    ],
    "dormant": false
