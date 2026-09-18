@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T23:20:08-04:00",
+ "generated": "2026-09-18T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -89,16 +89,6 @@
      "office": false,
      "note": "Client reports Livvie is much improved since being put back on her medication and is eating more. Sitter Noella confirmed both cats came out for dinner on the Sep 3 8pm visit and ate all their food. No medication name or dose was given in the message.",
      "quote": "Livvie has been doing MUCH better"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Kelly Huntington",
-     "office": false,
-     "note": "Caleb refused or picked at his canned food at the last two feedings. Livvie by contrast has been eating well.",
-     "quote": "Unfortunately Caleb decided to be fussy with the canned food last night and this morning!"
     },
     {
      "cat": "health",
@@ -315,6 +305,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Client message 4:55am",
+     "office": true,
+     "note": "Liz is not going into work today and has submitted a cancellation request; the portal notice shows it covers today's Fri Sep 18 11:00-11:45am Dog Visit-45 minute. Office needs to approve or decline the request, and today's assigned sitter needs telling the visit is off. She expects the pups to see Tommy on Monday.",
+     "quote": "Good morning. I am not going into work today. I submitted a cancellation request."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -423,16 +423,6 @@
      "office": false,
      "note": "Ambiguous: in the written report the sitter says Louie did not go, but the checklist for Louie on the same report logs #1 as Yes. The two disagree, so treat Louie's toileting as unconfirmed today and check at the next visit. Stella and Berry both went #1 and #2, firm and healthy; Emma's eye drops given and Berry's diaper back on.",
      "quote": "let everyone go no.#1 except Louie he didn't feel like it today"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Thomas Rakovec visit report, Sep 9 1:20pm",
-     "office": false,
-     "note": "Sep 9 visit report records medication administered for Emma - eye drops - plus a diaper put on Berry and pee pads checked and OK. Taken from this one report; the email does not say whether these are every-visit tasks, so confirm in the care notes.",
-     "quote": "eye drops Emma ..p pads ok ...diaper on Berry"
     }
    ],
    "dormant": false
@@ -709,16 +699,6 @@
      "quote": "I will be off work next Tuesday after Labor Day. Can you please remove us from services that day as well."
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Client private message, Aug 27 4:18 pm ET",
-     "office": true,
-     "note": "Client (Toni) says no services are needed Friday Sep 4 or Monday Sep 7 (Labor Day) because she is off work. Confirm those visits are removed from the schedule.",
-     "quote": "I will be off work on the 4th (Friday) and Monday the 7th. (Labor Day). No need for services those days."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -992,16 +972,6 @@
      "quote": "our sweet ellie passed away today."
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Kiara Streety",
-     "office": true,
-     "note": "Aug 27 afternoon: Ellie Mae was leashed and walked with Chloe, against the standing instruction that her vet asked her walking be minimised. She cut it short and went back inside after #2; Chloe finished alone. Sitter needs telling.",
-     "quote": "I came in and was approached by Ellie Mae she followed me to get Chloe leashed them both up and went on our walk."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1141,29 +1111,9 @@
      "office": false,
      "note": "Troup's current food topper is rice and bison, with fresh sweet potatoes in his fridge. Updates the earlier chicken-and-rice note.",
      "quote": "Troup has fresh sweet potatoes in his fridge. The current topper is rice and bison."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 27",
-     "source": "Nicole Allen",
-     "office": false,
-     "note": "Client states Topp is taken out often but still soils his crate, so a crate accident is expected rather than a one-off.",
-     "quote": "Topp goes out often but continues to potty in his crate."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 27",
-     "source": "Client message 1:24pm",
-     "office": false,
-     "note": "Following her supply-notice rule, the client explains Troup's cooked meals are made to order by a hired chef and delivered along with water and food. She is still working out how long a batch lasts because he only recently started the new meal plan, so sitters reporting remaining portions is what lets her set up a rotation.",
-     "quote": "I consistently have Troups cooked meals delivered along with water and food."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Barbara Turoczy",
@@ -1518,26 +1468,6 @@
     {
      "cat": "behavior",
      "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Monica Hopewell visit report, Aug 27",
-     "office": false,
-     "note": "Monica took the dogs out separately rather than together because Lila had seemed high energy the previous week. India wanted to come straight back inside, so Lila went back out with her.",
-     "quote": "I grabbed Lila out first since last week when I met her she seemed pretty high energy"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Monica Hopewell visit report",
-     "office": false,
-     "note": "Milo's stool on the Aug 27 afternoon visit was logged as a little loose but not concerning. Lila and India were both recorded with no bowel movement on the same visit.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
      "type": "standing",
      "date": "Aug 26",
      "source": "Client-added general information, updated in Time To Pet Aug 26",
@@ -1606,16 +1536,6 @@
      "quote": "is there anyone that can see him mid afternoon between like 12-2 ish?"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "client private message",
-     "office": true,
-     "note": "Asked for Friday Aug 28 8-9pm and Saturday Aug 29 8-10am. No office confirmation in the mailbox - check the scheduler.",
-     "quote": "we can do the 8-9 pm time frame on Friday August 28 and then on Saturday morning the 29th 8-10am ish?"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1674,26 +1594,6 @@
      "office": false,
      "note": "Christina messaged during the late Fri Aug 28 visit to say Bismark had been anxious after she left him earlier that day, and asked the sitter to check he was okay. Sitters found him calm and lying down outside.",
      "quote": "Bismark was really anxious when I left him earlier, I hope he’s okay"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "client private message",
-     "office": false,
-     "note": "Saturday Aug 29 morning: feed two scoops of dry kibble. Client warns he will not eat unless she or Patrick is home. She will leave a note and the kibble bin out.",
-     "quote": "you can feed him two scoops of his dry kibble in his bowl"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "client private message",
-     "office": false,
-     "note": "Sitter need not stay the whole Friday night visit - just check he is okay. Both owners are on nights.",
-     "quote": "She doesn't have to stay the whole time Friday night either more just make sure he's okay."
     },
     {
      "cat": "behavior",
@@ -2000,16 +1900,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Client message, Aug 27",
-     "office": true,
-     "note": "Client asked to pause dog walking until after Labor Day. No decision has been sent back to her yet.",
-     "quote": "Can we just wait till after Labor Day.??"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2068,26 +1958,6 @@
      "office": true,
      "note": "Marcella is floating the idea of isolating Buttercup in the laundry room for Robin so grooming goes better. It is a proposal, not a confirmed instruction - the office needs to answer before a sitter acts on it.",
      "quote": "I was thinking about isolated Buttercup in the laundry room for Robin. It may take longer for him to volunteer the connection for grooming."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Client message, Aug 27",
-     "office": true,
-     "note": "Cancelled again for today, meeting a painter after 5. She says she has meetings every day plus preparing for company.",
-     "quote": "Sorry to have to cancel again. Meeting with painter after 5."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Robin Lewis to client, Aug 27",
-     "office": true,
-     "note": "Robin told the client she would check with Miranda about the Labor Day pause. Still open on the office side.",
-     "quote": "let me get with Miranda on it."
     },
     {
      "cat": "schedule",
@@ -2853,16 +2723,6 @@
     },
     {
      "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Jade Popovitz",
-     "office": false,
-     "note": "Milo got into the cat's treats and the sitter had to block him so the cat could eat.",
-     "quote": "Milo ate the cats treats. So I tried again but defended the cat from Milo"
-    },
-    {
-     "cat": "behavior",
      "sev": "low",
      "type": "recent",
      "date": "Sep 15",
@@ -2961,16 +2821,6 @@
      "office": true,
      "note": "Follow-up confirmation eleven minutes later. The office question it answers is not reproduced in the notification email, so what is 'the same' - most likely the visit time - has to be read in the Time To Pet private thread.",
      "quote": "Yes, the same."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Margaret Bill",
-     "office": false,
-     "note": "Aug 27 morning shows how the changed routine was carried out - Buddy Guard sprinkled on the food and made into a gravy with water, and the creases of Octavia's mouth cleaned. Does not resolve the missing frequency for the medicated pads.",
-     "quote": "including sprinkling the buddy guard on her food and making a gravy with water"
     },
     {
      "cat": "health",
@@ -3531,16 +3381,6 @@
      "office": false,
      "note": "Guinness walked in a new harness on the Aug 28 evening walk and pulled noticeably less. The sitter tested it on the dirt path turnaround toward Jaycox and says it cut down the pulling, at least on this walk. First report of the harness - not yet an established rule.",
      "quote": "wow, what a difference a harness makes. Guinness was excellent on his walk today with his new harness."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Dan Dantimo visit report, Aug 27 evening walk",
-     "office": true,
-     "note": "On the Aug 27 evening walk Guinness went #2 twice and the sitter recorded the consistency as \"a little loose but not concerning\". Loose stool is now on record Aug 24, Aug 25 and Aug 27. No other symptoms in the report - he was eager for the walk, walked well and drank; no accidents in the home.",
-     "quote": "He did go number two twice as we headed toward home."
     }
    ],
    "dormant": false
@@ -3732,16 +3572,6 @@
      "office": false,
      "note": "Per the sitter relaying Marcia, Freddy's spot is the corner box in the closet - that is where to look for him on arrival. He came out on his own for food, treats and rubs.",
      "quote": "I came in and saw Freddy in the closet in the corner box where Marcia says he likes to be at!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 27",
-     "source": "Kiara Streety visit report, Aug 27",
-     "office": false,
-     "note": "Marcia was home and a house cleaner was working in the house. Kiara did Freddy's food first to stay out of the way, then the litter once the kitchen was clear.",
-     "quote": "I came in and there was a cleaner here."
     }
    ],
    "dormant": false
