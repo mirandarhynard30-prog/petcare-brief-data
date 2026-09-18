@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T17:20:05-04:00",
+ "generated": "2026-09-18T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4468,6 +4468,16 @@
      "office": false,
      "note": "Pee pads are in the upstairs bedroom - replace any that are used or destroyed and put them in the outside trash can in the garage. Poop bags also go in the garage trash can. Trash day is Tuesday morning, cans out Monday night.",
      "quote": "Trash day: Tuesday morning"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "At the Friday evening visit Timber ate more slowly than usual and did not finish his food; Tiarra left the uneaten portion upstairs with the dogs. Storm ate normally and Timber's stool was firm. One observation only - worth watching at the next visit, not a standing rule.",
+     "quote": "Timber was the slower one to eat today, but that's okay."
     },
     {
      "cat": "home",
