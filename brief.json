@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T06:20:05-04:00",
+ "generated": "2026-09-18T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -932,6 +932,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Client message, 8:58am",
+     "office": true,
+     "note": "Client cancelled this morning's visit at 8:58am today because Chloe has an appointment. She says she is happy to still pay for the visit and apologises for the short notice. Needs the visit cancelled in Time To Pet, the assigned sitter told directly, and a decision on the billing she offered.",
+     "quote": "just remembered Chloe has a doctors appointment this morning so no need to come. happy to still pay for the visit."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -970,6 +980,15 @@
      "office": false,
      "note": "Ellie Mae has died. Melody told the office on the afternoon of Aug 31. Only Chloe remains on visits from now on. Do not ask after Ellie Mae or expect her at the house; earlier standing notes about minimising her walking no longer apply.",
      "quote": "our sweet ellie passed away today."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Client message, 8:58am",
+     "office": false,
+     "note": "Chloe has a medical appointment the morning of Sep 18 - the client calls it a doctors appointment and gives no reason for it. Nothing in the message says what was found or whether anything changes for later visits."
     },
     {
      "cat": "behavior",
@@ -1030,16 +1049,6 @@
      "office": false,
      "note": "Chloe was hacking and wheezing a bit after her short Sep 11 walk. The sitter described it as not abnormal for her but flagged it anyway. Same report notes the sitter kept her clear of hedges and anything that could poke her face.",
      "quote": "She was hacking and wheezing a bit. Not in a way that's abnormal for her but I still thought it was worth nothing."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Elizabeth Sigler visit report, Sep 10",
-     "office": false,
-     "note": "Handling note from the Sep 10 visit: the sitter carried Chloe down every set of stairs on the way outside. One sitter, one visit - the report does not say this was asked for, so do not treat it as a standing instruction yet.",
-     "quote": "I made sure to carry her down any stairs we encountered"
     }
    ],
    "dormant": false
