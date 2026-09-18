@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T14:20:05-04:00",
+ "generated": "2026-09-18T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -222,6 +222,26 @@
      "quote": "Yes sunday at 5pm works great. For next week we will be at the current house."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Shannon Anderson message to client, 3:04pm",
+     "office": false,
+     "note": "Follow-up to the brown discharge found in Puck's left ear earlier today: Shannon Anderson tried to look inside the ear and Puck would not allow it. Shannon also notes Rusty was pushing her nose into the smell. No vet advice was given in the message.",
+     "quote": "I tried to actually look inside her ear but she refused to let me look."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Client message, 2:54pm",
+     "office": false,
+     "note": "Mary answered the ear report herself and says she will flush Puck's ears out. That closes the earlier request for a decision from the office, though nobody has confirmed whether she wants a vet look.",
+     "quote": "Ill flush her ears out!! Thanks so much."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -280,26 +300,6 @@
      "office": false,
      "note": "Rusty pulled the quilt next to her crate into the crate and chewed on it during the evening visit; sitter cleaned it up and refixed the blankets in both crates.",
      "quote": "Rusty had managed to grab ahold of the quilt next to her crate and pull it on and start chewing on it"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Client message 7:12am Sep 15",
-     "office": false,
-     "note": "Client asked this morning that the sitter stir the crock pot during today's visit. A kitchen task, not pet care - worth knowing before arrival.",
-     "quote": "Hi shannon, can you stir the crock pot today during your visit?"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Elizabeth Sigler visit report, 12:56pm",
-     "office": false,
-     "note": "Loose, light-toned stool in the fenced yard at the midday visit; sitter logged it under Puck (form: very loose/diarrhea, pet seems fine otherwise) and Rusty's as firm, but says both girls went close together so she could not be certain which dog it was. Worth a second look on the Wednesday visit.",
-     "quote": "Not quite diarrhea, but something we should definitely be keeping an eye on."
     }
    ],
    "dormant": false
