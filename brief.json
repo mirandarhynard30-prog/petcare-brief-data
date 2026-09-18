@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T10:20:05-04:00",
+ "generated": "2026-09-18T11:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -10,6 +10,16 @@
     "Caleb"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Client updated their own profile - General Information",
+     "office": false,
+     "note": "Client rewrote Livvie's AM medication instructions. Doses are unchanged - 1 and a 1/2 PrednisOLONE, plus 0.4 mls Gabapentin measured to the red line on the syringe - but the pill cutter changed from the blue one to the PURPLE one in the cat drawer, and she added syringe aftercare: rinse well with warm water and put it back on the paper towel on the counter. Check the pill cutter tray first in case there is a half pill from the previous day.",
+     "quote": "Use purple pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -3230,6 +3240,16 @@
      "office": true,
      "note": "Ray cancelled tomorrow's visit (Mon Sep 7) and expects service to resume Tuesday Sep 8. Sent as a message, not through the portal, so the visit is still on the schedule until the office removes it. Addressed to Tommy.",
      "quote": "Tommy I just realized I won’t need your services tomorrow, have a great day and we will see you Tuesday."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Visit report from Julie Smith",
+     "office": false,
+     "note": "Julie Smith's first visit with Archie. He was hesitant with her at the start and again when they got back, but warmed up over the walk and took two treats from her. She wrote that he started with a good hop in his step but slowed down toward the end of the walk. Client was home, so she did not go into the house. He went #1 several times and #2, firm and healthy.",
+     "quote": "Archie was a little hesitant when we first got there, but he warmed up to me as we went along."
     },
     {
      "cat": "home",
