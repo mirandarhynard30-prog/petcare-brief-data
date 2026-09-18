@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T11:20:04-04:00",
+ "generated": "2026-09-18T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2689,6 +2689,16 @@
      "office": true,
      "note": "Paulo cancelled Labor Day (Mon Sep 7) in a private message at 7:44am. Not yet processed in the scheduler as far as this run can tell.",
      "quote": "We won’t need you guys to come on Labor Day!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Jade Popovitz visit report",
+     "office": false,
+     "note": "Jade Popovitz reported Milo reacted to two dogs across the street on the walk - she got him to fully sit and relax while the second dog passed, but he was riled up for the first. Archer walked fine, quick full loop. Milo went to his crate after the walk; Archer's final treats were given only after Milo was secured because Milo kept trying to steal them. One visit, not a standing rule.",
+     "quote": "He walked mostly well but he was tested 2 times with dogs that were across the street."
     },
     {
      "cat": "schedule",
