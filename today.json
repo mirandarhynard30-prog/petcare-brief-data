@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T10:35:09-04:00",
+ "generated": "2026-09-18T13:05:14-04:00",
  "date": "2026-09-18",
  "label": "Sep 18, 2026",
  "clients": [
@@ -97,13 +97,6 @@
      "sort": "1200",
      "staff": "Shannon  Anderson",
      "service": "Dog Visit- 20 Minute (Fenced in Yard Only-No Feeding)",
-     "pets": "Frank, Weezie or Louise"
-    },
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Lise Stevens",
-     "service": "Shadow Visit with Staff Member-20 minute",
      "pets": "Frank, Weezie or Louise"
     },
     {
@@ -326,5 +319,5 @@
    ]
   }
  ],
- "visitCount": 31
+ "visitCount": 30
 }
