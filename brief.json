@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T10:20:07-04:00",
+ "generated": "2026-09-19T11:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2253,17 +2253,17 @@
    ],
    "items": [
     {
-     "cat": "schedule",
+     "cat": "home",
      "sev": "low",
      "type": "recent",
-     "date": "Aug 23",
-     "source": "Client message",
+     "date": "Sep 19",
+     "source": "Noella Assi visit report",
      "office": false,
-     "note": "Client was away for the weekend and said they would be back home the evening of Aug 23.",
-     "quote": "Thank you for taking care of Ginger this weekend! We will be back this evening"
+     "note": "Sep 19 visit: sitter entered using the door keypad code held in Time To Pet, collected the mail on the way in and left it on the kitchen table. Ginger ate all her breakfast and her stool was firm.",
+     "quote": "I entered with a door key code"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Matt Konn",
@@ -2688,6 +2688,26 @@
     "Bella"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Kathy Pastor visit report",
+     "office": false,
+     "note": "On Sep 19 the client was home for the visit and asked that the door not be locked on the way out. One visit only - confirm before assuming it applies again.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Kathy Pastor visit report",
+     "office": false,
+     "note": "Bella's stool was slightly loose on the Sep 19 morning walk; sitter did not flag it as concerning. Watch on the next visit.",
+     "quote": "It was a little loose but not concerning"
+    },
     {
      "cat": "health",
      "sev": "low",
@@ -4088,6 +4108,16 @@
      "quote": "No one needs any meds 😊 We did leave the emergency seizure kit out just in case."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Client message",
+     "office": false,
+     "note": "Client left the emergency seizure kit out for the Sep 19 midday visit, as a precaution. She states no dog needs medication at this visit. The message does not say which dog the kit is for.",
+     "quote": "We did leave the emergency seizure kit out just in case."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -4126,6 +4156,16 @@
      "office": false,
      "note": "Client warns she may have no cell service today and has named a nearby relative as backup contact, said to live under 10 minutes away. That contact's phone number is in Time To Pet and is deliberately not reproduced here.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Client message",
+     "office": false,
+     "note": "Client warned she may be unreachable by cell on Sep 19 and named a local backup contact who lives under ten minutes away. Contact details are in Time To Pet, not repeated here.",
+     "quote": "We may not have cell phone service"
     },
     {
      "cat": "schedule",
