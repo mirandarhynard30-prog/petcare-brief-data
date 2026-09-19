@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T17:20:05-04:00",
+ "generated": "2026-09-19T18:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2702,6 +2702,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 19",
+     "source": "Elizabeth Sigler visit report 5:48pm",
+     "office": false,
+     "note": "Supply low, reported on the Sep 19 evening visit: the dry food dispenser with the green lid is empty. The sitter fed the indoor cats (dry food untouched, left as it was), fed the outdoor cats on the porch, and Vicki showed her where the chicken is kept - two of the outdoor cats were given chicken. Vicki was home during the visit.",
+     "quote": "the dry food dispenser (with the green lid) is currently empty"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 19",
+     "source": "Elizabeth Sigler visit report 5:48pm",
+     "office": false,
+     "note": "Litter boxes are NOT to be scooped at afternoon visits. The sitter scooped all of them on the Sep 19 evening visit, apologised for doing it when she was not supposed to, and said she will skip them at afternoon visits going forward. Stated by the sitter, not by the client - worth confirming with Vicki what the intended rule is.",
+     "quote": "In the future I will definitely skip litter boxes during afternoon visits."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 13",
      "source": "Client message, Sep 13 morning",
      "office": false,
@@ -3115,6 +3135,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 19",
+     "source": "Dan Dantimo visit report 6:01pm",
+     "office": false,
+     "note": "Holly's Sep 19 evening walk with Dan Dantimo: she went both #1 and #2, and the report's consistency answer is again 'It was a little loose but not concerning'. That is six evenings running with soft or loose stool logged for Holly (Sep 14, 15, 16, 17, 18, 19). Nothing in the mailbox shows anyone raising it with Lynne. Lynne was home during the visit.",
+     "quote": "She did go number one on our walk and did great today as we headed for home"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 18",
      "source": "Dan Dantimo visit report, Sep 18 6:29pm",
      "office": true,
@@ -3150,16 +3180,6 @@
      "office": false,
      "note": "Holly went #1 on the Sep 15 evening walk but did not go #2. Sits directly after the Sep 14 evening walk where the stool was logged loose and slimy. Two days of abnormal output in a row - worth watching, not yet a vet question.",
      "quote": "She did not go number two on our walk."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Julie Smith evening visit report",
-     "office": false,
-     "note": "Holly's stool was loose and slimy on the Sunday evening walk. Julie notes it was solid when she walked her the previous Friday and says she is unsure whether loose is normal for Holly. The report's consistency field records it as 'a little loose but not concerning'.",
-     "quote": "She did go number two and it was a bit loose and slimy."
     }
    ],
    "dormant": false
@@ -3866,6 +3886,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 19",
+     "source": "Client message 1:34pm",
+     "office": true,
+     "note": "Client wrote at 1:34pm Sep 19 asking to PAUSE visits starting tomorrow (Sat Sep 20) because Praveena and his parents will both be in town. He sent a short 'Correct! Thank you!' at 3:35pm, which suggests somebody replied, but no office answer is visible in the mailbox and nothing confirms the pause was applied to the schedule. This sits against his Sep 17 standing ask for two visits a day, seven days a week.",
+     "quote": "could we actually put a pause on visits starting tomorrow?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 17",
      "source": "Client message 8:01am Sep 17",
      "office": true,
@@ -3971,16 +4001,6 @@
      "office": false,
      "note": "Client is home sick on Sep 9. He was sent home from work early, said he would nap in his bedroom while the sitter takes Whiskey out, and confirmed at 2:00pm that he was home with the bedroom door closed. Expect him in the apartment and keep the visit quiet.",
      "quote": "I’m feeling a little under the weather and I’ve been sent home from work today early"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Alex Miller visit report, Sep 9 2:44pm",
-     "office": true,
-     "note": "Sep 9 AFTERNOON visit (Alex Miller, shown around by Jade Popovitz): Whiskey's diarrhea is continuing. He went #2 twice on the 30-minute walk and the report logs the consistency as very loose/diarrhea but the pet seeming fine otherwise. This is the third consecutive report of loose stool after both Sep 8 visits. The email mentions no vet contact and no instruction from the client, so the office should decide whether to raise a vet visit with Erik.",
-     "quote": "His tummy is still upset very very runny stools, he went twice, I will attach a picture."
     }
    ],
    "dormant": false
