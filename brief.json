@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T12:20:06-04:00",
+ "generated": "2026-09-19T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2052,6 +2052,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Sep 18 9am visit report, Monica Hopewell",
+     "office": false,
+     "note": "Sep 18 9am walk: the report's security field records the client home and asking that the door not be locked. The Sep 11 arrival procedure on file says nothing about the door, so this is one visit's instruction and not yet confirmed as a standing rule.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "standing",
      "date": "Sep 11",
      "source": "Tiarra Roberts updated contact information for Charlene Szunyog",
@@ -3723,6 +3733,16 @@
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Client message, Sep 19 12:51pm",
+     "office": true,
+     "note": "Client wrote at 12:51pm Sep 19 to say she has added visits herself for the rest of this month and next month. A service order request for Oct 6 - Oct 29 arrived four minutes later and is awaiting approval. Office needs to approve or decline it.",
+     "quote": "My apologies, I just added the visits for the rest of this month and next months as well."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4286,6 +4306,16 @@
      "office": true,
      "note": "Follow-up to her earlier Saturday message. The client says Blackie will be at the neighbour Greg's house for the whole period the walk schedule covers, not at her own home. Confirm with her where each scheduled walk should start before a sitter is sent out. Access details in the same thread are deliberately not repeated here.",
      "quote": "Greg house he will be there this whole time that we have walk schedule"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Sep 18 11am visit report, Noella Assi",
+     "office": false,
+     "note": "Sep 18 11am visit: Blackie was collected from inside the Orlando house, not from neighbour Greg's, although Greg was outside at the time. The report's security field records the client home and asking that the door not be locked. Where Blackie starts the walk continues to vary day to day.",
+     "quote": "Greg was outside, I got Blackie out from inside."
     },
     {
      "cat": "home",
@@ -5733,9 +5763,20 @@
    "pets": [
     "Flaco",
     "Flacko",
-    "Flocko"
+    "Flocko",
+    "Flacco"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Sep 18 visit report, Elizabeth Cuffari",
+     "office": false,
+     "note": "On the Sep 18 afternoon walk at Lakewood Park Flacco barked and charged at a golden doodle. The sitter says everything was fine afterwards. This is the first recorded incident behind the standing not-dog-friendly rule already on file.",
+     "quote": "He did have a moment with a golden doodle, which I was surprised he started barking and charged towards it."
+    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -5837,14 +5878,14 @@
      "quote": ""
     },
     {
-     "cat": "behavior",
+     "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Sep 15",
-     "source": "Post visit report - Elizabeth Cuffari 5:59pm",
-     "office": true,
-     "note": "Meet and greet held the evening of Sep 15 by Shannon Anderson and Elizabeth Cuffari. Elizabeth called the dog 'such a sweetheart'. This is a brand new client with no care notes of any kind on file - a sitter arriving for the first real visit has nothing written to work from, so the office needs to write Pet Care Notes before then. Pet name spelling is unconfirmed: Elizabeth wrote 'Flaco', Shannon wrote 'Flocko'.",
-     "quote": "it was very nice meeting you and Flaco"
+     "date": "Sep 18",
+     "source": "Sep 18 visit report, Elizabeth Cuffari",
+     "office": false,
+     "note": "Flacco's stool on the Sep 18 afternoon walk was logged in the little-loose-but-not-concerning band. First loose reading for this new client; worth one more look rather than action. Quote left empty on purpose - the report wording is canned and identical across several clients.",
+     "quote": ""
     }
    ],
    "dormant": false
