@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T19:20:05-04:00",
+ "generated": "2026-09-18T20:20:04-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3375,6 +3375,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 18",
+     "source": "Dan Dantimo evening visit report",
+     "office": true,
+     "note": "Guinness went #1 and #2 on the Friday evening walk; the sitter recorded the #2 as a little loose but not concerning. Deb was home during the visit.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 17",
      "source": "Dan Dantimo visit report 7:54pm",
      "office": true,
@@ -5915,6 +5925,79 @@
      "office": false,
      "note": "For Monday's requested visit the client says it is a potty break and play time only. The dogs can all go outside together, but keep Hamilton separate if Vito and Vivian start playing so he does not get involved; she says taking them out two at a time is also fine.",
      "quote": "keep Hamilton seperate if Vito and Vivian start playing to avoid him from getting involved"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Michael Smith",
+   "url": "https://www.timetopet.com/dashboard/client/tkspa9PVgKoq",
+   "pets": [
+    "Toby (Buster)",
+    "Peppa",
+    "Beau-ba",
+    "White Kitty Boy"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Tiarra Roberts meet-and-greet report",
+     "office": false,
+     "note": "Toby, nickname Buster, is semi-blind in both eyes.",
+     "quote": "Toby, nickname: Buster is semi-blind in both eyes."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Tiarra Roberts meet-and-greet report",
+     "office": false,
+     "note": "Peppa (calico) and Beau-ba (white/grey tabby) are indoor-outdoor cats. White Kitty Boy is outside only.",
+     "quote": "White Kitty Boy, outside ONLY."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Tiarra Roberts meet-and-greet report",
+     "office": true,
+     "note": "Garage rule for Toby, recorded verbatim because the wording is ambiguous - it reads either as Toby being unable to get out of the garage when the main door is open, or as an instruction not to let him out then. Needs confirming with Michael.",
+     "quote": "Toby is unable to leave the garage, if the actual garage door is open."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Tiarra Roberts meet-and-greet report",
+     "office": false,
+     "note": "Toby needs attention and prompting to go #2; the sitter may have to tap his bottom to get him to go.",
+     "quote": "Give him attention and make him go #2. Might have to tap his bottom to make him go."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Tiarra Roberts meet-and-greet report",
+     "office": false,
+     "note": "Feeding: fill the bowls in the kitchen with dry food and water; the cats eat wet dog food; treats are in the garage.",
+     "quote": "Cats eat wet dog food."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Tiarra Roberts meet-and-greet report",
+     "office": false,
+     "note": "Mail goes on the kitchen counter/table. Trash out Sunday night, bins next to the garage side door.",
+     "quote": "Trash goes out Sunday night. Bins next to garage side door."
     }
    ],
    "dormant": false
