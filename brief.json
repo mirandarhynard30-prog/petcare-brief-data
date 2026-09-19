@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T20:20:04-04:00",
+ "generated": "2026-09-18T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -61,6 +61,26 @@
      "quote": "if she doesnt eat everything just cover with a paper towel and leave it on the counter"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Shannon Anderson visit report, Sep 18 8:47pm",
+     "office": true,
+     "note": "Evening visit with Tiarra Roberts shadowing. Caleb was unsettled by the change of routine and the new person. Both cats ate with no issues; each was given a few treats to help them warm to Tiarra. Shannon also reports Tiarra's phone died right after they arrived, so Tiarra's own detailed report was still outstanding at the time of this message - worth confirming it landed.",
+     "quote": "Mr. Caleb was a little upset that I changed routine and brought someone new to them."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Client message from Kelly Huntington, Sep 18 9:00pm",
+     "office": false,
+     "note": "Kelly confirms Caleb is slow to accept new sitters and needs repeat exposure rather than anything special on the day. She says she is glad introductions are starting early because she is going away; no dates given in this message.",
+     "quote": "You know him it just takes some time. Im glad were starting early before I leave."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -109,26 +129,6 @@
      "office": false,
      "note": "Client reports Livvie is much improved since being put back on her medication and is eating more. Sitter Noella confirmed both cats came out for dinner on the Sep 3 8pm visit and ate all their food. No medication name or dose was given in the message.",
      "quote": "Livvie has been doing MUCH better"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 21",
-     "source": "Client",
-     "office": false,
-     "note": "Livvie stays on morning gabapentin and the client gave the dose and storage details when Shannon Anderson asked to confirm them.",
-     "quote": "Shannon her Gaba dose is 0.4 mls. Its kept in the refrigerator and administered with a syringe."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Kelly Huntington message, 4:22pm",
-     "office": false,
-     "note": "Kelly reports Livvie has regained a pound and her weight is now holding steady.",
-     "quote": "She gained a pound back! She hasnt gained any more yet but she hasnt lost any so Ill take it! Shes stable!"
     }
    ],
    "dormant": false
@@ -3035,6 +3035,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 18",
+     "source": "Dan Dantimo visit report, Sep 18 6:29pm",
+     "office": true,
+     "note": "Holly, Sep 18 evening walk with Dan Dantimo - the report's #2 consistency answer was again the sitter's standard wording for a little loose but not concerning. That makes three evenings running after the Sep 16 soft stool and the Sep 17 loose stool. Lynne was home during the visit. NOTE FOR THE OFFICE: this exact item was handed off on the two previous runs and has still not appeared in the published brief - its dedup key collided with Deb Ward's identical Sep 18 form answer, so the quote is deliberately left empty here.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 17",
      "source": "Dan Dantimo visit report, 6:48pm",
      "office": false,
@@ -3070,16 +3080,6 @@
      "office": false,
      "note": "Holly's stool was loose and slimy on the Sunday evening walk. Julie notes it was solid when she walked her the previous Friday and says she is unsure whether loose is normal for Holly. The report's consistency field records it as 'a little loose but not concerning'.",
      "quote": "She did go number two and it was a bit loose and slimy."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Julie Smith evening visit report",
-     "office": true,
-     "note": "Lynne was home during the Sep 14 evening visit and asked that the door not be locked; Julie did not go into the home. Julie's message ends 'I will see you Wednesday night', so the next visit reads as Wednesday, but the client has not written that herself.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
