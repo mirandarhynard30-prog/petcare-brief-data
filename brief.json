@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T07:20:05-04:00",
+ "generated": "2026-09-19T08:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -545,6 +545,26 @@
      "office": false,
      "note": "Sep 18 morning visit: Sampson used the litter box but also left 2 poops outside it, plus a small vomit/hairball on the hallway floor. Renee saw no urine and cleaned up both messes. He took his pill, ate wet and dry food, water dumped and refreshed, litter boxes scooped, no supplies low.",
      "quote": "He had a little bit of vomit/hairball on the floor in the hallway."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Client",
+     "office": false,
+     "note": "Kitchen light rule: a light stays on overnight, the AM visit shuts it off, the PM visit turns lights on and leaves that one on. The bulb above the sink is blown and she cannot replace it. The middle switch in the laundry room by the back door is the outside garage lights.",
+     "quote": "When the light is on in the am, shut it off when you leave."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Client",
+     "office": true,
+     "note": "Client dismisses Sampson's three weeks of GI trouble as normal and has not asked for a vet check. Nobody has raised one with her.",
+     "quote": "The throw upspots and cats seem normal in cats, unfortunately."
     }
    ],
    "dormant": false
@@ -2416,6 +2436,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "Second vomit cleanup in two days - puke on the carpet this morning, a hairball at the Sep 18 evening visit. Which cat is not stated.",
+     "quote": "I cleaned up a little puke on the carpet"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Tiarra Roberts",
+     "office": true,
+     "note": "Sitter left the Litter-Robot drawer bag in place and asked the client whether to change it every visit. Unanswered, and it cuts against Brandy's Sep 17 instruction to pull and replace the bag Sunday.",
+     "quote": "But I did leave the bag, I don't want to be changing it too often"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2476,6 +2516,16 @@
      "quote": "second light switch button stays up. first one controls the front door light."
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Tiarra Roberts",
+     "office": false,
+     "note": "Five cans of the fish and shrimp wet food left as of this morning.",
+     "quote": "You have 5 fish and shrimp cans left"
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -2504,16 +2554,6 @@
      "office": true,
      "note": "Follow-up to her 5:07pm litter message. She says the litter situation makes her apartment smell and is a mess, and she will see if her mom can help. The message breaks off mid-sentence, so what she wants her mom to do is not stated.",
      "quote": "it’s okay. it makes me apartment smell and it’s a mess. i’ll see if my mom can"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Pet Care Note, Tiarra Roberts",
-     "office": false,
-     "note": "Jaxon, the black cat, bangs cabinet doors when he wants food. Leave the basket in front of the bathroom sink where it is, or he will do it there too. The white cat hides under the bed, in the closet (left shelf or back right corner) or on top of the kitchen cabinets.",
-     "quote": "Will slam cabinets for food"
     }
    ],
    "dormant": false
