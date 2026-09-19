@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T15:20:05-04:00",
+ "generated": "2026-09-19T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2609,6 +2609,16 @@
      "quote": "THEY ARE ALL VERY STRONG AND WILL PULL."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Yasmeen Abrams visit reports, Sep 19 midday and evening",
+     "office": false,
+     "note": "Frankie and Sammy each went #1 only at BOTH the Sep 19 midday and evening visits - no #2 at either. Marlo went #2 both times and the sitter logged it firm and healthy. Two visits in a row with nothing from two of the three dogs; worth watching on the next visit rather than treating as normal.",
+     "quote": "No #2 today"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2727,6 +2737,16 @@
      "office": false,
      "note": "Sep 19 morning visit completed after the entry problem was resolved. Vicki was home and fed the porch cats herself. The sitter did the litter boxes, refreshed the water bowl and fountain, fed the indoor and outdoor cats, and locked the door on leaving - so no request to leave this door unlocked, unlike some other clients this week.",
      "quote": "Vicki was there, and she fed the porch cats."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Vicki Davey client message, Sep 19 4:45pm",
+     "office": false,
+     "note": "Her 1:27pm question about what time the sitter clocked out now reads as answered - she replied \"Ok great\" at 4:45pm. No reply from the office appears in the mailbox, so the answer itself is not on file here; treat the question as closed but unverified.",
+     "quote": "Ok great"
     }
    ],
    "dormant": false
@@ -4238,6 +4258,16 @@
      "quote": "No pumpkin or cbd"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Thomas Rakovec visit report, Sep 19 3:19pm",
+     "office": false,
+     "note": "Older uncollected waste is sitting in the back yard - the sitter and Roo nearly stepped in it on the Sep 19 visit. Thomas says he will scan the yard and pick up after letting the dogs back in from now on. Both dogs' stool on this visit was firm and healthy.",
+     "quote": "Roo and I almost stepped in some previous no.#2"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -4266,16 +4296,6 @@
      "office": false,
      "note": "For the 9/19 visit Krysten wants an afternoon snack given plus the normal potty and play routine.",
      "quote": "We will ask him to give an afternoon snack and do the normal potty/play."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Krysten Whitesel private message, Sep 12 1:09pm",
-     "office": false,
-     "note": "Follow-up on the 9/19 afternoon snack she asked for: it is a small portion of the pets' own kibble, no pumpkin, and she will leave it in their bowls ready to go. She said she would also post this in the other chat.",
-     "quote": "It’ll just be a small portion of their kibble, no pumpkin needed. We will have it in their bowls ready to go!"
     }
    ],
    "dormant": false
