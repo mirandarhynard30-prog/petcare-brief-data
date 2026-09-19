@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T08:20:10-04:00",
+ "generated": "2026-09-19T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2353,6 +2353,16 @@
      "quote": "Both dogs went berserk! I've never really had to use all my strengths for her. She is one strong lady."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "Ripley barked at an unfamiliar sitter trying to put her collar on; the regular sitter had to put it on instead. Tiarra was shadowing Kristin Ashick. Walk and stool otherwise normal.",
+     "quote": "Ripley did bark when I tried to put her collar on. Kristin did have to put it on."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2381,16 +2391,6 @@
      "office": false,
      "note": "Ripley would not let the shadowing sitter put her collar on and kept barking, so the walk was replaced with time in the fenced back yard. Treats were used to build trust. Observed once today with a new sitter, not established as a standing rule.",
      "quote": "It took a few minutes, I tried putting her collar on but she kept barking."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Tiarra Roberts updated contact information",
-     "office": true,
-     "note": "Feeding amounts now disagree after the Sep 17 rewrite: Current Pet Care Note says 2 scoops Nutra Complete per feeding, Company Notes say 1. Feeding applies only when Matt is out of town, so it is live while he is away. Office should settle which is right. Multivitamins clarified as 2 morning, 2 bedtime, tossed like a treat.",
-     "quote": "1 scoop Nutra Complete - fridge (use same scoop)"
     }
    ],
    "dormant": false
@@ -2608,6 +2608,16 @@
     "Trudy"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Client message 9:07am",
+     "office": true,
+     "note": "Entry problem at this morning's visit - client wrote at 9:07am that she had just seen the message and was driving to the house to open it. The email does not say why entry failed or whether the sitter got in.",
+     "quote": "I just saw your email I’m on my way to the house to open it"
+    },
     {
      "cat": "health",
      "sev": "high",
