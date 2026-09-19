@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T09:20:05-04:00",
+ "generated": "2026-09-19T10:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -537,6 +537,16 @@
      "quote": "There are some boy dogs he doesn't like."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 19",
+     "source": "Anna Marie LeMaster has sent you a new message",
+     "office": false,
+     "note": "Client explains Sampson's litter habits: he uses the dining room box only sometimes and has not used the automatic box in a long time. She changed the litter and cleaned the back filter on Sep 19 and showed him the auto box; he was not interested. Do not expect him to use the automatic box.",
+     "quote": "Sometimes he uses the litter box in the dining room and sometimes he doesn't!"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -555,16 +565,6 @@
      "office": false,
      "note": "Kitchen light rule: a light stays on overnight, the AM visit shuts it off, the PM visit turns lights on and leaves that one on. The bulb above the sink is blown and she cannot replace it. The middle switch in the laundry room by the back door is the outside garage lights.",
      "quote": "When the light is on in the am, shut it off when you leave."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Client",
-     "office": true,
-     "note": "Client dismisses Sampson's three weeks of GI trouble as normal and has not asked for a vet check. Nobody has raised one with her.",
-     "quote": "The throw upspots and cats seem normal in cats, unfortunately."
     }
    ],
    "dormant": false
@@ -2436,6 +2436,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 19",
+     "source": "Tiarra Roberts updated contact information for Brandy Harkless",
+     "office": false,
+     "note": "Pet Care Note rewritten this morning. The litter rule is reversed: the whole drawer-and-bag changing procedure has been deleted and replaced with leave the robot alone. This answers the sitter question from earlier today about whether to change the Litter-Robot drawer bag every visit - the answer is now no unless told otherwise. White litter bags are in the clear tote next to the robot and black trash bags are under the kitchen sink; litter and wet food cans go in the trash compactor / garage bin near the main entrance.",
+     "quote": "Automated litter box in living room near patio door (leave alone unless directed otherwise)"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2454,6 +2464,26 @@
      "office": true,
      "note": "Sitter left the Litter-Robot drawer bag in place and asked the client whether to change it every visit. Unanswered, and it cuts against Brandy's Sep 17 instruction to pull and replace the bag Sunday.",
      "quote": "But I did leave the bag, I don't want to be changing it too often"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 19",
+     "source": "Tiarra Roberts updated contact information for Brandy Harkless",
+     "office": false,
+     "note": "Feeding changed in the same rewrite. The fish and shrimp blue can still goes on ONE plate, but the second can (any other flavor, NOT fish and shrimp) is no longer divided across three plates on black trays - it now goes near the dry food dispensers. Same routine AM and PM. Both automatic dry feeders in the living room still get topped off.",
+     "quote": "Place near dry food dispensers"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 19",
+     "source": "Tiarra Roberts updated contact information for Brandy Harkless",
+     "office": false,
+     "note": "Water changed in the same rewrite. The note previously said the water bowls were in the shower; it now says to refresh two red water bowls and does not say where they are. The hairball cleanup instruction (Dawn dish soap and hot water) was also deleted. The vacuum is still in the front entry closet for stray litter, and the basket in front of the bathroom sink still stays put or Jaxon slams the cabinets.",
+     "quote": "Refresh 2 red water bowls"
     },
     {
      "cat": "home",
@@ -2524,36 +2554,6 @@
      "office": false,
      "note": "Five cans of the fish and shrimp wet food left as of this morning.",
      "quote": "You have 5 fish and shrimp cans left"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Tiarra Roberts visit report 6:47pm",
-     "office": false,
-     "note": "Tiarra cleaned up what she thought was a small hairball vomit during the evening cat visit; cats were otherwise calm and content. Single observation, not a pattern. Litter Robot bag replaced and cycled, blue light normal.",
-     "quote": "I cleaned up a little hairball throw-up, I think lol with TP from bathroom."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Client message 5:07pm",
-     "office": false,
-     "note": "Brandy is emptying the litter tonight and expects it may still overfill before Monday. She also confirms nothing else about her instructions has changed.",
-     "quote": "the litter i’m just going to pull tonight and hope it doesn’t overfill before monday."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Brandy Harkless message 5:16pm",
-     "office": true,
-     "note": "Follow-up to her 5:07pm litter message. She says the litter situation makes her apartment smell and is a mess, and she will see if her mom can help. The message breaks off mid-sentence, so what she wants her mom to do is not stated.",
-     "quote": "it’s okay. it makes me apartment smell and it’s a mess. i’ll see if my mom can"
     }
    ],
    "dormant": false
@@ -2637,6 +2637,16 @@
      "office": false,
      "note": "Client asked the sitter mid-morning to shut the upstairs cat-room windows and the green bedroom window before heavy rain, and to message her if there is a problem.",
      "quote": "could u please shut the windows and the one in the green bedroom I just saw the weather"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Vicki Davey has sent you a new message",
+     "office": false,
+     "note": "Resolves this morning's entry problem. The client drove to the house and confirmed at about 9:23am that it was open; the sitter said she was walking up at about 9:18am. The emails still do not say why the sitter could not get in on her own.",
+     "quote": "House is opened"
     },
     {
      "cat": "home",
