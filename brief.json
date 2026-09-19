@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T14:20:06-04:00",
+ "generated": "2026-09-19T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4228,6 +4228,16 @@
      "quote": "We may not have cell phone service"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 19",
+     "source": "Sitter/client message exchange",
+     "office": false,
+     "note": "Sitter Thomas Rakovec checked at 2:20pm whether the dogs get pumpkin or CBD; Krysten replied \"Correct!\" at 2:21pm. Confirmed: no pumpkin and no CBD. The email does not say what prompted the question.",
+     "quote": "No pumpkin or cbd"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -5286,6 +5296,26 @@
      "office": false,
      "note": "Louie is on Apoquel for skin allergies. It goes with the morning and evening feedings only and is not given at midday visits. The Sep 11 edit moved this into the medication section and dropped the separate line that said he has skin allergies.",
      "quote": "Louie receives Apoquel for skin allergies"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 19",
+     "source": "Client message",
+     "office": false,
+     "note": "Feeding prep: the household feeds dehydrated raw, and biscuits are to be broken up and hydrated. Client stated this in connection with an Oct 3 visit that will include feeding.",
+     "quote": "We use dehydrated raw. Biscuits broken up and hydrated."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Client message",
+     "office": true,
+     "note": "Beth Nickel asked what the vacation policy is, in the same 2:19pm message. Unanswered in the mailbox - needs an office reply.",
+     "quote": "Also, what is your policy on vacations?"
     },
     {
      "cat": "behavior",
