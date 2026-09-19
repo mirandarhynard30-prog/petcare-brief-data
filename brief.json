@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T18:20:06-04:00",
+ "generated": "2026-09-19T19:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1858,6 +1858,26 @@
      "quote": "NOVA GETS ONE CUP OF DRY FOOD AND PENNY GETS A 1/2 CUP. TOTES ARE MARKED FOR EACH DOG."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 19",
+     "source": "Client message, Sep 19 6:24pm",
+     "office": false,
+     "note": "Client adds a second approved treat source: a jar of treats on the kitchen island, alongside the white cabinet sitters normally use. Read it together with her standing food-aggression rule - Nova gets no treats or chews while both dogs are in the same room - so treats from the jar still need the dogs separated. The sitter on the evening visit did keep them separate for treats.",
+     "quote": "there’s a jar of treats on the kitchen island if you want to give the pups some treats from that jar"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Dan Dantimo visit report, Sep 19 7:02pm",
+     "office": false,
+     "note": "Nova's #2 on the Sep 19 evening visit was logged in the report's consistency field as a little loose but not concerning. Penny went #1 only. This follows the Sep 6 loose-stool report for Nova; nothing on file says the client has been told.",
+     "quote": "not only were they playing with each other more penny went number one and Nova number two"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1916,26 +1936,6 @@
      "office": false,
      "note": "Walk Nova first, before feeding. She is excited on the way out so take care going down the front steps, but she walks without pulling. Avoid letting her interact with other dogs. Let both dogs out in the back yard after feeding, before leaving.",
      "quote": "she walks without any pulling. Avoid interactions with other dogs."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 29",
-     "source": "Company Notes updated by Dan Dantimo, Aug 29",
-     "office": false,
-     "note": "Do not let the cat out. Pee pads are throughout the downstairs; used pads and poop bags go in the green can in the driveway.",
-     "quote": "Make sure Spinkles(cat) doesn't get outside"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Client message to Dan Dantimo, Aug 29 afternoon",
-     "office": false,
-     "note": "Penny did not go #2 before the client left, although she did go in the morning. The client asks the sitter to try to get her to go at the afternoon visit, unless she has already gone in the crate.",
-     "quote": "Penny did not #2 before we left even though we tried."
     }
    ],
    "dormant": false
@@ -2516,6 +2516,16 @@
      "quote": "Refresh 2 red water bowls"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Noella Assi visit report, Sep 19 6:31pm",
+     "office": true,
+     "note": "On the Sep 19 evening visit the sitter opened an exterior door for Xander, saying he likes talking to a bird on the porch roof. The report does not say whether he went outside, how long the door was open, or whether Brandy allows this. These are indoor cats as far as the notes go, so confirm with Brandy before it becomes routine.",
+     "quote": "I opened the door for Xander, he loves talking to the bird living on your to porch roof"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2574,16 +2584,6 @@
      "office": false,
      "note": "Lighting instructions in the client's own words. The second light switch button stays up; the first one controls the front door light. A black remote on the wall by the cat food dresser controls the living room light and fan - the fan stays on, and the light button has three brightness settings, brighter the more you click. Sent with a photo.",
      "quote": "second light switch button stays up. first one controls the front door light."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "Five cans of the fish and shrimp wet food left as of this morning.",
-     "quote": "You have 5 fish and shrimp cans left"
     }
    ],
    "dormant": false
@@ -3285,6 +3285,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 19",
+     "source": "Client message, Sep 19 6:14pm",
+     "office": false,
+     "note": "Client wrote at 6:14pm that she has refilled supplies, which reads as closing the Sep 15 shortage of paper towels and Oakley's poop bags. She does not say which supplies she refilled or where they are kept, so the storage location is still not written into the Pet Care Note.",
+     "quote": "No worries at all, I got it all refilled!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 15",
      "source": "Tiarra Roberts visit report and follow-up message, Sep 15 12:16pm and 1:18pm",
      "office": true,
@@ -3370,16 +3380,6 @@
      "office": false,
      "note": "Oakley had eye discharge on the Tue Sep 8 morning visit; the sitter wiped it off and flagged it to Anna. The sitter guesses seasonal allergies based on her own dog, which is speculation, not a diagnosis - no vet or client confirmation.",
      "quote": "I noticed he has a couple of eye boogers I wiped those off"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 8",
-     "source": "Client message from Anna Caraboolad, Sep 8 8:18pm",
-     "office": false,
-     "note": "Owner says Oakley gets seasonal allergies around this time of year and she is managing them herself so far. No treatment named and nothing asked of the sitter.",
-     "quote": "He does get allergies around this time, we’re mitigating it pretty well so far this year thankfully!"
     }
    ],
    "dormant": false
