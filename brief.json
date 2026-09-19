@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T11:20:06-04:00",
+ "generated": "2026-09-19T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -689,6 +689,16 @@
      "quote": "I will be off work next Tuesday after Labor Day. Can you please remove us from services that day as well."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Ashley Corall left a message for Terry M",
+     "office": false,
+     "note": "The Sep 18 report's security fields say the sitter entered through the garage door, closed it fully before leaving, and answered yes to setting a house alarm before leaving. That is the first indication in the swept mail that this house has an alarm. No code is recorded here - it stays in Time To Pet. One report only, so it is not yet confirmed as a standing rule.",
+     "quote": "I entered through the garage door, garage door is fully closed before leaving"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -767,6 +777,16 @@
      "office": false,
      "note": "Owner points sitters to small water bottles kept in the outside refrigerator and a collapsible bowl on top of CJ's crate, to take on walks if the boys get thirsty. Offered because the week is muggy.",
      "quote": "There a collapse-able bowl on top of CJ’s crate you take along."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Ashley Corall left a message for Terry M",
+     "office": false,
+     "note": "Sep 18 midday walk: CJ went #1 and #2 and his stool was logged firm and healthy, which is a change from the Aug 31 report that flagged his stool. Rex went #1 only, no #2 that visit. Both dogs ate and drank after the walk. Rex led the way out the door, which the sitter notes is unusual because CJ is normally the eager one.",
+     "quote": "It was firm and healthy"
     }
    ],
    "dormant": false
@@ -1213,6 +1233,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 17",
+     "source": "Tiarra Roberts updated contact information for Mary Ann Mckeever",
+     "office": false,
+     "note": "Company Notes rewritten Sep 17 by Tiarra Roberts. Arrival routine, unchanged from the previous version: enter through the garage, ring the white doorbell button to the left of the door into the house before entering, close the garage door before entering and keep it closed during the walk. Mary will most likely be home and uses a walker. At the end of the visit turn off the laundry room light and close the garage door keypad flap. No codes are recorded here - they stay in Time To Pet.",
+     "quote": "Ring white doorbell button before entering (white button to left of door into house)"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -1321,16 +1351,6 @@
      "office": true,
      "note": "Client cancelled today's Fri Sep 4 visit outright. She is taking Georgie to Northfield for an emergency vet visit and does not know how long they will be. This supersedes the earlier plan of a short walk before she left at 11:00. Kristin acknowledged at 9:09am that she will not be coming today.",
      "quote": "Better cancel today."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client message 8:38am Sep 4",
-     "office": false,
-     "note": "Georgie's eyes have worsened since the toad incident and the owner is taking him for an emergency vet appointment in Northfield on Fri Sep 4. The email does not say what the vet found or whether any treatment follows.",
-     "quote": "His eyes have gotten worse since the toad incident, so thus is an emergency visit."
     }
    ],
    "dormant": false
