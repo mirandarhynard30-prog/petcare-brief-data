@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T23:20:08-04:00",
+ "generated": "2026-09-19T06:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -140,16 +140,6 @@
     "Nova"
    ],
    "items": [
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Client private message Aug 28",
-     "office": true,
-     "note": "Client asks the office to build out a recurring weekly Wednesday visit starting Sept 9. She says she does not need anything next week because her workplace is letting them work from home. Needs setting up in the scheduler and confirming back to her.",
-     "quote": "can you build out a recurring weekly Wednesday visit starting 9/9?"
-    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -537,26 +527,6 @@
      "quote": "When we got here, we smelled an odor and realized that Sampson had peed on the hardwood floor near the kitchen."
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Visit report from Margaret Bill, Aug 28 midday",
-     "office": true,
-     "note": "Aug 28 midday visit: urine on the hallway floor again, very loose stool in four separate places, and Sampson vomited once in the living room. He ate some food and then drank quite a bit of water. The sitter recorded the consistency as very loose/diarrhea with the pet seeming fine otherwise. The report opens with the name spelled Samsung but the visit is Sampson's.",
-     "quote": "Again, there was urine on the floor in the hallway. There was also very loose number two in the dining room."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Margaret Bill visit report, 10:45 am",
-     "office": true,
-     "note": "Morning visit: urine on the hallway floor again, runny #2 found and cleaned up in four separate places, and he vomited once in the living room. Took his pill easily in a bit of churro, ate some food and drank a lot of water. Second day of the same picture.",
-     "quote": "Again, there was urine on the floor in the hallway."
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -636,26 +606,6 @@
      "office": true,
      "note": "Jesse messaged that his surgery went well and he was heading home from the hospital today. Robin's daily cover was booked until further notice pending review after Mon Aug 31 - office needs to confirm an end date now that he is back home.",
      "quote": "Surgery went well and I will be on my way home from the hospital soon."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Client private message, Aug 28 4:08 pm",
-     "office": true,
-     "note": "Client asks for cover for the dogs starting tomorrow, Sat Aug 29, at 7:00 am and 11:30 am. He will be away from home and does not know for how long; he mentions a Monday commitment that has been moved up. Nothing is confirmed and no sitter is assigned - needs an office answer today.",
-     "quote": "Would someone be available to take care of the pups as soon as tomorrow, 7a and 11:30a? Not sure for how long."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Jesse Terdan private message, 4:32 pm",
-     "office": true,
-     "note": "Client confirmed coverage: Robin to start Saturday Aug 29 (7:00 am and 11:30 am visits) and keep coming in until further notice. End date open, to be reviewed after Monday Aug 31. Office needs to build the visits on the schedule tonight.",
-     "quote": "Have Robin start tomorrow and then keep coming in"
     },
     {
      "cat": "schedule",
@@ -797,16 +747,6 @@
      "office": false,
      "note": "Owner points sitters to small water bottles kept in the outside refrigerator and a collapsible bowl on top of CJ's crate, to take on walks if the boys get thirsty. Offered because the week is muggy.",
      "quote": "There a collapse-able bowl on top of CJ’s crate you take along."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Monica Hopewell visit report, 12:13 pm",
-     "office": true,
-     "note": "On disarming the alarm the panel reported the front door not engaged. Sitter left it rather than risk setting the alarm off, then re-armed on leaving. Worth checking with the client whether the front door sensor is faulty or the door was genuinely open.",
-     "quote": "It said something about the front door not being engaged, I didn't want to set it off so I left it alone."
     }
    ],
    "dormant": false
@@ -1643,16 +1583,6 @@
      "office": false,
      "note": "On the Aug 29 morning visit Bismark did not want to leave the backyard for his walk. The sitter needed two or three gentle tugs on the lead to get him out, after which the walk went normally and he went both #1 and #2. He returned to the backyard to finish the visit.",
      "quote": "after 2-3 gentle tugs, I got him out of the backyard"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Christina Palmieri message, 11:18pm",
-     "office": false,
-     "note": "Christina messaged during the late Fri Aug 28 visit to say Bismark had been anxious after she left him earlier that day, and asked the sitter to check he was okay. Sitters found him calm and lying down outside.",
-     "quote": "Bismark was really anxious when I left him earlier, I hope he’s okay"
     },
     {
      "cat": "behavior",
@@ -2639,16 +2569,6 @@
      "quote": "could u please shut the windows and the one in the green bedroom I just saw the weather"
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Harvett Ellington message to client",
-     "office": true,
-     "note": "Sitter Harvett Ellington wrote to the client that she heard Trudy is in the hospital. No detail on why, how long, or whether visits are affected. Trudy is listed as the pet on this account, but the wording could also refer to a person in the household - the office should confirm which before assuming visits are still needed.",
-     "quote": "Hey there, I heard Trudy is in the hospital, give her my best!"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2677,16 +2597,6 @@
      "office": false,
      "note": "Outdoor cat feeding station had flies and yellow jackets in the food bowls at the evening visit. Sitters dumped the old food, swapped in clean bowls with fresh food, told Trudy on site, and took out the trash so the uneaten wet food would not smell. Worth checking on the next outdoor visit.",
      "quote": "We found the outside food bowls with flies and yellow jackets."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Client reply",
-     "office": true,
-     "note": "Client Vicki Davey replied to that message a few minutes later without giving any detail about Trudy's condition or about the schedule, so the office still has nothing confirmed to work from.",
-     "quote": "I sure will thanks for reaching out!"
     }
    ],
    "dormant": false
@@ -3470,16 +3380,6 @@
      "office": false,
      "note": "Guinness went #2 on the Aug 31 evening walk and the consistency was again logged in the not-concerning loose band - the same reading as Aug 24, 25, 27 and 28. Five readings in eight days; no sitter has flagged it as a problem, but the run is worth watching.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 28",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Guinness walked in a new harness on the Aug 28 evening walk and pulled noticeably less. The sitter tested it on the dirt path turnaround toward Jaycox and says it cut down the pulling, at least on this walk. First report of the harness - not yet an established rule.",
-     "quote": "wow, what a difference a harness makes. Guinness was excellent on his walk today with his new harness."
     }
    ],
    "dormant": false
@@ -4098,6 +3998,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Client message to the business, Sep 19 6:03am",
+     "office": false,
+     "note": "For today's lunch visit the client says no dog needs any medication, but she has deliberately left the emergency seizure kit out just in case. Sitter should know where it is before starting the visit.",
+     "quote": "No one needs any meds 😊 We did leave the emergency seizure kit out just in case."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -4116,6 +4026,26 @@
      "office": false,
      "note": "For the Sep 4 visit the client's cousin will set out Ted's and Roo's pills in the morning. Client says Roo gets one pill and Ted continues his normal ones; no dosing details given beyond that.",
      "quote": "My cousin will set out Ted and Roo’s pills for you in the morning."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Client message to the business, Sep 19 6:03am",
+     "office": false,
+     "note": "The dogs' lunch has been set out on the counter for today's midday visit - lunch snack, potty and play.",
+     "quote": "We set their lunch out on the counter."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Client message to the business, Sep 19 6:03am",
+     "office": false,
+     "note": "Client warns she may have no cell service today and has named a nearby relative as backup contact, said to live under 10 minutes away. That contact's phone number is in Time To Pet and is deliberately not reproduced here.",
+     "quote": ""
     },
     {
      "cat": "schedule",
