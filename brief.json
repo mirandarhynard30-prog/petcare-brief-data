@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T06:20:06-04:00",
+ "generated": "2026-09-19T07:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1583,6 +1583,26 @@
      "office": false,
      "note": "On the Aug 29 morning visit Bismark did not want to leave the backyard for his walk. The sitter needed two or three gentle tugs on the lead to get him out, after which the walk went normally and he went both #1 and #2. He returned to the backyard to finish the visit.",
      "quote": "after 2-3 gentle tugs, I got him out of the backyard"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Jade Popovitz visit report",
+     "office": false,
+     "note": "Jade Popovitz's first visit with Bismark. He watched her from the top of the stairs on arrival and waited until he had smelled her before he was willing to go outside. Worth knowing for any other sitter meeting him for the first time.",
+     "quote": "He was at the top of the stairs when we came in looking down trying to figure out who I was"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Jade Popovitz visit report",
+     "office": false,
+     "note": "Bismark is low-energy outdoors - he settled down in the fenced back yard and started dozing rather than moving around. Outside time was the fenced yard, not a walk, and he did not go #2 on this visit.",
+     "quote": "it seems outside is actually just another place for him to lay down"
     },
     {
      "cat": "behavior",
