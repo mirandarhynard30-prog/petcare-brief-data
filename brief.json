@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T21:20:05-04:00",
+ "generated": "2026-09-18T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -19,6 +19,26 @@
      "office": false,
      "note": "Client rewrote Livvie's AM medication instructions. Doses are unchanged - 1 and a 1/2 PrednisOLONE, plus 0.4 mls Gabapentin measured to the red line on the syringe - but the pill cutter changed from the blue one to the PURPLE one in the cat drawer, and she added syringe aftercare: rinse well with warm water and put it back on the paper towel on the counter. Check the pill cutter tray first in case there is a half pill from the previous day.",
      "quote": "Use purple pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "Caleb will lick and bite the tied-up litter waste bag - keep the bag out of his reach and carry it out with you. Reported by Tiarra Roberts on her first shadowed visit.",
+     "quote": "keeping it away from Caleb because he will lick and bite it"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 18",
+     "source": "Kelly Huntington",
+     "office": false,
+     "note": "Client confirms Caleb has to be watched around bags generally, not only the litter bag.",
+     "quote": "And yes you got to watch that boy! Hes obsessed with bags!"
     },
     {
      "cat": "health",
@@ -109,26 +129,6 @@
      "office": true,
      "note": "Five minutes after the message above, the client offers a different option: move the 29th to the 28th AM instead. She adds that Monday AMs could work before work and that she will look at switching more visits. At 1:28pm she said she was leaving for an appointment and would come back to it. No date is settled yet - the office needs to pick one and confirm.",
      "quote": "Actually if you want to switch the 29th to the 28th AM that would work."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Client private message 5:09pm",
-     "office": true,
-     "note": "Client says she added Mondays in November including the Monday before she leaves, specifically to create AM shadowing slots. Confirm the schedule actually reflects these moves and that Tiarra is assigned.",
-     "quote": "So I moved another visit to a Monday in October and added a couple Mondays in November"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client message, Sep 3 8:32pm",
-     "office": false,
-     "note": "Client reports Livvie is much improved since being put back on her medication and is eating more. Sitter Noella confirmed both cats came out for dinner on the Sep 3 8pm visit and ate all their food. No medication name or dose was given in the message.",
-     "quote": "Livvie has been doing MUCH better"
     }
    ],
    "dormant": false
