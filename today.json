@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T00:05:06-04:00",
+ "generated": "2026-09-19T00:20:54-04:00",
  "date": "2026-09-19",
  "label": "Sep 19, 2026",
  "clients": [
@@ -159,18 +159,6 @@
    ]
   },
   {
-   "name": "Mary Gilmore",
-   "visits": [
-    {
-     "time": "11:30 AM",
-     "sort": "1130",
-     "staff": "Elizabeth Sigler",
-     "service": "Dog Visit-30 minute",
-     "pets": "Puck, Rusty"
-    }
-   ]
-  },
-  {
    "name": "Matt Konn",
    "visits": [
     {
@@ -228,5 +216,5 @@
    ]
   }
  ],
- "visitCount": 22
+ "visitCount": 21
 }
