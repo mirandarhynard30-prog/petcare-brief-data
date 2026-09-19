@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T13:20:05-04:00",
+ "generated": "2026-09-19T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2679,6 +2679,16 @@
      "quote": "House is opened"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Client message, Sep 19 1:27pm",
+     "office": true,
+     "note": "Unanswered client question about the Sep 19 morning visit. The sitter sent her report at 12:11pm and then wrote a minute later that she had thought she had clocked out. Vicki asked at 1:27pm what time the sitter actually clocked out. Nothing in the mailbox answers her. Office needs to check the time record and reply.",
+     "quote": "What time did she clock out at?"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2707,6 +2717,16 @@
      "office": false,
      "note": "Outdoor cat feeding station had flies and yellow jackets in the food bowls at the evening visit. Sitters dumped the old food, swapped in clean bowls with fresh food, told Trudy on site, and took out the trash so the uneaten wet food would not smell. Worth checking on the next outdoor visit.",
      "quote": "We found the outside food bowls with flies and yellow jackets."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Sitter visit report, Sep 19 12:11pm",
+     "office": false,
+     "note": "Sep 19 morning visit completed after the entry problem was resolved. Vicki was home and fed the porch cats herself. The sitter did the litter boxes, refreshed the water bowl and fountain, fed the indoor and outdoor cats, and locked the door on leaving - so no request to leave this door unlocked, unlike some other clients this week.",
+     "quote": "Vicki was there, and she fed the porch cats."
     }
    ],
    "dormant": false
