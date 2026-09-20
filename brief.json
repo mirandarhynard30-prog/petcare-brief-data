@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T11:20:05-04:00",
+ "generated": "2026-09-20T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1235,6 +1235,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Sep 20",
+     "source": "Tiarra Roberts updated contact information for Mary Ann Mckeever (Company Notes, 10:57 AM)",
+     "office": false,
+     "note": "Georgie's orange cooling collar is now stored in the FREEZER, not the fridge. Same rule otherwise - over 75 degrees, put it on before the walk and slip the harness over it. Sitters checking the fridge will not find it.",
+     "quote": "Orange cooling collar in freezer, if temp is over 75 degrees, put on before walk- slip harness over cooling collar"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Sep 18",
      "source": "Kristin Ashick visit report, Sep 18 evening walk",
@@ -1331,16 +1341,6 @@
      "office": true,
      "note": "On the Sep 11 evening visit the sitter reports Mary Ann had what she calls the last set of eyedrops ready and held Georgie while Mary Ann gave them; medication was logged as administered. The report does not actually say the course has ended, so the office should confirm whether eye drops stop after this and get the answer written into the care note - there is still no eye-drop instruction on file.",
      "quote": "Mary Ann had the last set of eyedrops ready, so I held him while she administered them."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Kristin Ashick visit report, Mon Sep 7 9:07pm",
-     "office": false,
-     "note": "Another toad was encountered on the Mon Sep 7 evening walk. The sitter says she acted fast and no contact was reported. She walked with her flashlight on, took few photos because she stayed on guard, and controlled exactly where Georgie was allowed to sniff. Relevant because Georgie's eye trouble followed an earlier toad incident and he is still on daily drops. This is one sitter's handling on one night walk, not a written rule.",
-     "quote": "We did encounter a toad but we acted fast but my heart was just pounding!"
     }
    ],
    "dormant": false
