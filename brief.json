@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T23:20:05-04:00",
+ "generated": "2026-09-20T09:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -515,16 +515,6 @@
      "office": true,
      "note": "Client responded to the morning report: Sampson's peeing spot is the hardwood floor, not the litter box. She adds that overnight Becca cleaned up pee in about the same spot and stool on the dining room carpet.",
      "quote": "Unfortunately Sampson's place to pee is on the hardwood floor not the litter box."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Renee Dougherty visit report",
-     "office": false,
-     "note": "Aug 29 morning visit: Sampson had urinated on the hardwood near the kitchen and had a stool accident in the dining room; sitters cleaned both and used the stain/odour eliminator. Report marked stool as a little loose but not concerning. Continues the litter-box avoidance seen since Friday.",
-     "quote": "When we got here, we smelled an odor and realized that Sampson had peed on the hardwood floor near the kitchen."
     },
     {
      "cat": "behavior",
@@ -1565,16 +1555,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Christina Palmieri private message, Aug 29 7:30 am",
-     "office": true,
-     "note": "Client asks whether anyone can see Bismark mid afternoon today, roughly 12-2, on top of the night visits. She is at a funeral this morning and says a neighbour can pop in instead if no sitter is free. Unanswered as of 8:15 am.",
-     "quote": "is there anyone that can see him mid afternoon between like 12-2 ish?"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1613,16 +1593,6 @@
      "office": false,
      "note": "Christina's suggested handling when Bismark will not walk: if the sitter is comfortable doing so, take him off the leash and walk toward the gate door to see whether he follows. She adds that otherwise he may just be lazy. This is the first time a technique has been offered rather than just a warning that he refuses.",
      "quote": "You can try taking him off the leash if you feel comfortable"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Harvett Ellington visit report, Aug 29 morning",
-     "office": false,
-     "note": "On the Aug 29 morning visit Bismark did not want to leave the backyard for his walk. The sitter needed two or three gentle tugs on the lead to get him out, after which the walk went normally and he went both #1 and #2. He returned to the backyard to finish the visit.",
-     "quote": "after 2-3 gentle tugs, I got him out of the backyard"
     },
     {
      "cat": "behavior",
@@ -2486,6 +2456,16 @@
      "quote": "Automated litter box in living room near patio door (leave alone unless directed otherwise)"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 20",
+     "source": "Sitter Tiarra Roberts, Sep 20 morning visit report",
+     "office": true,
+     "note": "Supplies running low, reported on the Sep 20 morning visit: only 3 blue fish-and-shrimp cans remain, and the sitter believes the Delectable treats are gone. She fed one fish-and-shrimp can and one salmon-and-shrimp can this morning. Dry food feeders were checked and were fine.",
+     "quote": "You only have 3 more fish and shrimp cans left. You have no more Delectable treats left"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2584,16 +2564,6 @@
      "office": false,
      "note": "Do not intervene if the Litter-Robot shows red mid-cycle. The client says it is motion sensored and will stop, and that it will resume cycling on its own after a minute or two.",
      "quote": "if it turns red don’t do anything. give it a min or two and then it will continue to cycle itself"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Client message 7:15pm",
-     "office": false,
-     "note": "Lighting instructions in the client's own words. The second light switch button stays up; the first one controls the front door light. A black remote on the wall by the cat food dresser controls the living room light and fan - the fan stays on, and the light button has three brightness settings, brighter the more you click. Sent with a photo.",
-     "quote": "second light switch button stays up. first one controls the front door light."
     }
    ],
    "dormant": false
@@ -2692,6 +2662,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 20",
+     "source": "Client message to sitter Jade, Sep 20 8:48am",
+     "office": false,
+     "note": "Entry note for the Sep 20 morning visit only: Vicki said she would have the side door open for the sitter and asked that it be pulled shut on the way out. This is a one-off arrangement for this visit, not a standing rule.",
+     "quote": "the side door will be opened just pull it shut when u leave"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 19",
      "source": "Vicki Davey has sent you a new message",
      "office": false,
@@ -2767,16 +2747,6 @@
      "office": false,
      "note": "Sep 19 morning visit completed after the entry problem was resolved. Vicki was home and fed the porch cats herself. The sitter did the litter boxes, refreshed the water bowl and fountain, fed the indoor and outdoor cats, and locked the door on leaving - so no request to leave this door unlocked, unlike some other clients this week.",
      "quote": "Vicki was there, and she fed the porch cats."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Vicki Davey client message, Sep 19 4:45pm",
-     "office": false,
-     "note": "Her 1:27pm question about what time the sitter clocked out now reads as answered - she replied \"Ok great\" at 4:45pm. No reply from the office appears in the mailbox, so the answer itself is not on file here; treat the question as closed but unverified.",
-     "quote": "Ok great"
     }
    ],
    "dormant": false
@@ -2817,16 +2787,6 @@
      "office": false,
      "note": "Sep 13 morning walk: Bella went both #1 and #2 and the sitter logged the #2 consistency as a little loose but not concerning. Visit was done by Renee Dougherty shadowing Chelsea Tompkins. Very little else is on file for this client.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Kathy Pastor visit report, Aug 29 9:25am",
-     "office": false,
-     "note": "Backfill - very little is on file for this client. The dog is Bella. On the Aug 29 visit she went #1 several times and #2 once, stool firm and healthy. A person called Linda was at the house and the shadowing sitter met her; the email does not say who Linda is.",
-     "quote": "It was nice to meet Linda and Bella!"
     }
    ],
    "dormant": false
@@ -2982,36 +2942,6 @@
      "quote": "She went number one mabt times and number two once"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "On the Aug 29 morning walk the sitter and Octavia ran into several dogs and had to avoid them. Margaret describes this as a general trait of Octavia's rather than a one-off; it is the sitter's own observation, not a client instruction.",
-     "quote": "Octavia does get upset when she sees other dogs."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Craig Wells private message, 10:36 am",
-     "office": true,
-     "note": "Craig replying in the private thread about next week's visits - he says he needs only Monday of next week. Which Monday is not stated in the notification; check the portal thread before editing the schedule.",
-     "quote": "Only Monday of next week. Thank you"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Craig Wells private message, 10:47 am",
-     "office": true,
-     "note": "Follow-up confirmation eleven minutes later. The office question it answers is not reproduced in the notification email, so what is 'the same' - most likely the visit time - has to be read in the Time To Pet private thread.",
-     "quote": "Yes, the same."
-    },
-    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -3050,16 +2980,6 @@
      "office": false,
      "note": "Octavia urinated repeatedly but had no bowel movement on the Aug 30 8pm walk; Margaret walked the complex to give her the chance. Client was home during the visit.",
      "quote": "She went #1 many times but no number two."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "Craig had already fed Octavia before the 9:00 am visit on Aug 29, so the sitter did no feeding and the report records no Buddy Guard or WinPro. Relevant to the open question about breakfast supplements.",
-     "quote": "Octavia had been fed when I came in and was ready to go for her walk."
     }
    ],
    "dormant": false
@@ -3130,16 +3050,6 @@
      "office": true,
      "note": "Lynne asks to cancel today (Sep 1) and tomorrow (Sep 2). The groomer cancelled Holly's appointment, so her coat is still long and the client will not risk her in this heat. She asks to be put back on for the holiday weekend. Needs the office to cancel both visits and add the holiday weekend dates - the specific days are not named in the message.",
      "quote": "Let’s cancel today and tomorrow. The groomer cancelled Holly’s appointment and she is too furry to go out in this temp."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Client message, Aug 29 5:21pm",
-     "office": true,
-     "note": "Lynne wrote in that Holly will be at the groomers tomorrow (Sunday Aug 30) and will not be available for a walk, and asks that the visit be cancelled. Needs cancelling in the schedule before tomorrow's visit goes out.",
-     "quote": "Won’t be available for a walk. Please cancel. Thanks."
     },
     {
      "cat": "health",
@@ -3471,16 +3381,6 @@
     "Guinness"
    ],
    "items": [
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Deb Ward has sent you a new private message.",
-     "office": true,
-     "note": "Client wrote privately on the afternoon of Aug 29 asking that no walker come on Monday Sept 7. The visit still needs taking off the schedule and no reply has been sent back yet.",
-     "quote": "I do not wish to have a walker on the 7th of September."
-    },
     {
      "cat": "health",
      "sev": "medium",
@@ -3831,16 +3731,6 @@
      "office": false,
      "note": "Aayla had shredded plush toys again - Lacey found ripped-up pieces around the floor and threw them away. Lacey's wording says this has happened before, but only this one report is on file, so treat it as a repeat observation rather than an established rule. Walk itself was normal, two firm stools, drank well.",
      "quote": "Aayla again had little ripped up pieces of plush toys around the floor."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 29",
-     "source": "Lacey Govil visit report, Aug 29 midday",
-     "office": false,
-     "note": "Aayla had got hold of a black poop bag and shredded it over the couch and floor before the midday visit; the sitter cleared it up. Second destruction incident in three days - worth keeping bags out of her reach.",
-     "quote": "she got a black poop bag from somewhere and it was ripped up on the couch and some on the floor"
     },
     {
      "cat": "home",
