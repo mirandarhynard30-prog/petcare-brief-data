@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T19:20:07-04:00",
+ "generated": "2026-09-19T20:20:11-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1233,6 +1233,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 18",
+     "source": "Kristin Ashick visit report, Sep 18 evening walk",
+     "office": false,
+     "note": "Sep 18 evening walk with Kristin Ashick: Georgie went #1 and #2, and the report's consistency field was answered 'It was a little loose but not concerning'. He otherwise had good energy - the sitter describes a relaxed pace and a nice pep in his step, chilly weather. Sits alongside his ongoing allergy medicine and eyedrop routine. Watch the next stool.",
+     "quote": "Georgie went number one and number two. I disposed of that in the trash in your garage."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -1341,16 +1351,6 @@
      "office": false,
      "note": "The client herself confirms Georgie habitually seeks out and alerts to toads - this is her wording after the second encounter in four days. A toad incident is what injured his eyes and led to the Sep 4 emergency vet visit and the daily eye drops. Treat toads as a recurring hazard on his walks, especially after dark: keep a flashlight on and control where he sniffs. Mary Ann raised no concern and thanked the sitter, so nothing is outstanding with the client.",
      "quote": "That boy is so alert to them!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client message 8:38am Sep 4",
-     "office": true,
-     "note": "Client cancelled today's Fri Sep 4 visit outright. She is taking Georgie to Northfield for an emergency vet visit and does not know how long they will be. This supersedes the earlier plan of a short walk before she left at 11:00. Kristin acknowledged at 9:09am that she will not be coming today.",
-     "quote": "Better cancel today."
     }
    ],
    "dormant": false
@@ -2291,6 +2291,16 @@
      "office": false,
      "note": "Sep 19 visit: sitter entered using the door keypad code held in Time To Pet, collected the mail on the way in and left it on the kitchen table. Ginger ate all her breakfast and her stool was firm.",
      "quote": "I entered with a door key code"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Noella Assi visit report, Sep 19 evening visit",
+     "office": false,
+     "note": "Sep 19 evening visit (Noella Assi): outside time was spent in the fenced-in back yard rather than on a walk. Ginger went #1 on the first trip out, then #2 on a second trip after dinner; consistency logged firm and healthy. Mail was brought in and left with the earlier mail on the kitchen table.",
+     "quote": "There was plenty of time after her dinner so we went back outside for a bit, she went number two then"
     }
    ],
    "dormant": false
