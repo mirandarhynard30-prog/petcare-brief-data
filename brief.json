@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T15:20:06-04:00",
+ "generated": "2026-09-20T16:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6057,7 +6057,8 @@
     "Toby (Buster)",
     "Peppa",
     "Beau-ba",
-    "White Kitty Boy"
+    "White Kitty Boy",
+    "Pickles"
    ],
    "items": [
     {
@@ -6094,6 +6095,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Sep 20",
+     "source": "Company Notes updated by Shannon Anderson",
+     "office": false,
+     "note": "Company Notes written for the first time (previously blank). Dog is not dog friendly and dog visits are backyard only - no walks. Not listed as an escape risk.",
+     "quote": "Dog friendly: No"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Sep 18",
      "source": "Tiarra Roberts meet-and-greet report",
      "office": false,
@@ -6109,6 +6120,36 @@
      "office": false,
      "note": "Feeding: fill the bowls in the kitchen with dry food and water; the cats eat wet dog food; treats are in the garage.",
      "quote": "Cats eat wet dog food."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 20",
+     "source": "Company Notes updated by Shannon Anderson",
+     "office": false,
+     "note": "Cats are indoor/outdoor and social, but Pickles hides in the basement near the washer and dryer - look there before reporting a cat missing.",
+     "quote": "Pickles will hide in basement by washer/dryer area"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 20",
+     "source": "Company Notes updated by Shannon Anderson",
+     "office": false,
+     "note": "Two litter boxes at the bottom of the basement steps; scooped waste goes in the outside trash can. Cleaning supplies in the kitchen.",
+     "quote": "2 litter boxes at bottom of basement steps"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 20",
+     "source": "Company Notes updated by Shannon Anderson",
+     "office": false,
+     "note": "Household tasks: mailbox by the front door, mail goes on the kitchen counter, trash day Monday. Park in the driveway. Client is not home during visits.",
+     "quote": "Mailbox location: by front door"
     },
     {
      "cat": "home",
