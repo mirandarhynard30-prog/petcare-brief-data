@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T16:20:08-04:00",
+ "generated": "2026-09-20T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1828,6 +1828,16 @@
      "quote": "NOVA GETS ONE CUP OF DRY FOOD AND PENNY GETS A 1/2 CUP. TOTES ARE MARKED FOR EACH DOG."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 20",
+     "source": "Ashley Gullett, Thomas Rakovec and Dan Dantimo messages, Sep 20 afternoon",
+     "office": true,
+     "note": "The Sep 20 afternoon visit ran late. Ashley messaged at 4:25pm asking whether the visit was still happening and said it had been booked for Tommy at 3:30. The sitter wrote that he had read the time as 4/4:30. Dan Dantimo checked, and at 4:31pm Ashley confirmed on her cameras that the sitter was there. Resolved the same afternoon, but the office may want to look at how the time was mis-read.",
+     "quote": "It was supposed to be Tommy for 330"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -1896,16 +1906,6 @@
      "office": false,
      "note": "Penny's harness is marked by body part - pink strap over the shoulders, grey under the belly. Harness and leash are by the front door; a reference photo is in Time To Pet.",
      "quote": "Harness is marked by body parts and pink strap goes over shoulders, gray goes under belly"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 29",
-     "source": "Company Notes updated by Dan Dantimo, Aug 29",
-     "office": false,
-     "note": "Walk Nova first, before feeding. She is excited on the way out so take care going down the front steps, but she walks without pulling. Avoid letting her interact with other dogs. Let both dogs out in the back yard after feeding, before leaving.",
-     "quote": "she walks without any pulling. Avoid interactions with other dogs."
     }
    ],
    "dormant": false
@@ -2692,6 +2692,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 20",
+     "source": "Elizabeth Sigler visit report, Sep 20 4:36pm",
+     "office": true,
+     "note": "The Sep 20 afternoon report gives two different accounts of the same visit: the written narrative names one entry route and the structured 'how was the home secured' answer names a different one. Deliberately not spelled out here - the report is in Time To Pet. The office should confirm with Vicki which entry and securing steps are correct so the note and the report agree. No supplies were reported low and all three water bowls were refreshed.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 19",
      "source": "Vicki Davey has sent you a new message",
      "office": false,
@@ -2747,16 +2757,6 @@
      "office": false,
      "note": "Resolves this morning's request - the windows Vicki asked to have shut were closed before the sitters left. Report also notes the outside cats were fed and watered ahead of the rain and all litter boxes (porch, basement, upstairs) scooped.",
      "quote": "closed the windows that had been left open"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Shannon Anderson visit report, Sep 12 4:24pm",
-     "office": false,
-     "note": "Outdoor cat feeding station had flies and yellow jackets in the food bowls at the evening visit. Sitters dumped the old food, swapped in clean bowls with fresh food, told Trudy on site, and took out the trash so the uneaten wet food would not smell. Worth checking on the next outdoor visit.",
-     "quote": "We found the outside food bowls with flies and yellow jackets."
     }
    ],
    "dormant": false
