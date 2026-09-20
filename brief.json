@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T10:20:05-04:00",
+ "generated": "2026-09-20T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1223,6 +1223,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 20",
+     "office": true,
+     "note": "Tiarra Roberts rewrote the Access Instructions this morning and the escape-artist warning for Georgie was dropped. Nothing in the note now tells a sitter the dog bolts. Same edit changed the closing instruction from the utility-room-to-hallway door to the laundry room door. Office to confirm the removal was intended.",
+     "quote": "Georgie is an escape artist.",
+     "source": "Tiarra Roberts, Access Instructions edit"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -1331,16 +1341,6 @@
      "office": false,
      "note": "Another toad was encountered on the Mon Sep 7 evening walk. The sitter says she acted fast and no contact was reported. She walked with her flashlight on, took few photos because she stayed on guard, and controlled exactly where Georgie was allowed to sniff. Relevant because Georgie's eye trouble followed an earlier toad incident and he is still on daily drops. This is one sitter's handling on one night walk, not a written rule.",
      "quote": "We did encounter a toad but we acted fast but my heart was just pounding!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 7",
-     "source": "Client message from Mary Ann Mckeever, Mon Sep 7 9:27pm, replying to Kristin about the evening walk toad encounter",
-     "office": false,
-     "note": "The client herself confirms Georgie habitually seeks out and alerts to toads - this is her wording after the second encounter in four days. A toad incident is what injured his eyes and led to the Sep 4 emergency vet visit and the daily eye drops. Treat toads as a recurring hazard on his walks, especially after dark: keep a flashlight on and control where he sniffs. Mary Ann raised no concern and thanked the sitter, so nothing is outstanding with the client.",
-     "quote": "That boy is so alert to them!"
     }
    ],
    "dormant": false
@@ -2253,6 +2253,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 20",
+     "office": true,
+     "note": "Client wrote this morning to say they are returning home this afternoon. No time given and nothing asked to be cancelled, but a later visit today may no longer be wanted. Worth one check against the schedule.",
+     "quote": "Thank you so much for taking care of Ginger! We’ll be back this afternoon",
+     "source": "Client message 10:20 AM"
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -2282,6 +2292,16 @@
     "Ripley"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 20",
+     "office": true,
+     "note": "Pet Care Note replaced this morning. It previously held the feeding instructions and the condition that Ripley is fed only when Matt is out of town. It now reads only SEND ETA WHEN ON THE WAY, UNLESS HE'S OUT OF TOWN, and feeding moved into Company Notes where it reads Feed 2 times per day with no out-of-town condition. As written a sitter would feed every visit whether or not Matt is home. Office needs to say which is right.",
+     "quote": "only feed if Matt is out of town",
+     "source": "Tiarra Roberts, Pet Care Note edit"
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -2373,6 +2393,16 @@
      "quote": "Kristin and I headed inside and had a little trouble with Ripley barking again."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 20",
+     "office": false,
+     "note": "Feeding amounts as they now stand in Company Notes: 2 scoops dry kibble (pantry, bottom left), 2 scoops Nutra Complete from the fridge using the same scoop, 1/3 bag Farmers Dog from the fridge, splash of water mixed in. An older version said 1 scoop Nutra Complete, so the current figure is double.",
+     "quote": "2 scoops Nutra Complete - fridge (use same scoop)",
+     "source": "Tiarra Roberts, Company Notes edit"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2381,26 +2411,6 @@
      "office": false,
      "note": "Ripley barked at an unfamiliar sitter trying to put her collar on; the regular sitter had to put it on instead. Tiarra was shadowing Kristin Ashick. Walk and stool otherwise normal.",
      "quote": "Ripley did bark when I tried to put her collar on. Kristin did have to put it on."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Monica Hopewell visit report; Matt Konn reply",
-     "office": false,
-     "note": "On the afternoon walk Monica Hopewell found what she took to be a cluster of puffball mushrooms growing on the stone work where the trail starts, and added a photo. Matt replied that he needs to spray them and that the moisture caused the same thing last year. Not treated as of this message.",
-     "quote": "TY!! I gotta spray those mushroom!! All the moisture had it there last year as well!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Matt Konn message, 7:05am",
-     "office": false,
-     "note": "Home Depot may deliver large boxes of mirrors two days early. If they are sitting by the front door at today's visit, Matt asks that they be brought inside through the front door. He says they should not be heavy.",
-     "quote": "if they r by the front door today - putting them in the house thru front door would be appreciated."
     }
    ],
    "dormant": false
@@ -2464,6 +2474,26 @@
      "office": true,
      "note": "Supplies running low, reported on the Sep 20 morning visit: only 3 blue fish-and-shrimp cans remain, and the sitter believes the Delectable treats are gone. She fed one fish-and-shrimp can and one salmon-and-shrimp can this morning. Dry food feeders were checked and were fine.",
      "quote": "You only have 3 more fish and shrimp cans left. You have no more Delectable treats left"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 20",
+     "office": true,
+     "note": "The white cat's hiding places were deleted from the Pet Care Note in this morning's rewrite. It previously told sitters to look under the bed, in the closet on the left shelf or back right corner, and on top of the kitchen cabinets. Nothing replaced it. The same edit also dropped the keep-a-basket-in-front-of-the-bathroom-sink instruction.",
+     "quote": "Closet (left shelf or back right corner)",
+     "source": "Tiarra Roberts, Pet Care Note edit"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 20",
+     "office": false,
+     "note": "Wet food plate placement is now more specific. Blue fish and shrimp can on ONE plate, second can (any flavor except fish and shrimp) on another, both near the dry food dispensers at opposite ends of the room. Earlier wording only said to place the second can near the dispensers.",
+     "quote": "Place plates near dry food dispensers at opposite ends",
+     "source": "Tiarra Roberts, Pet Care Note edit"
     },
     {
      "cat": "health",
@@ -2544,26 +2574,6 @@
      "office": false,
      "note": "Litter-Robot emptying procedure, in the client's own words: press the power button once to turn it off, pull the bottom drawer out and pull the trash bag, stretch a new bag over the drawer and push it back in, add one cup of litter, then press the power button once to turn it back on. Spare bags are in a container next to the Litter-Robot along with a container of extra litter with a tall cup in it.",
      "quote": "so before she does anything have her turn it off by pressing the power button once."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Brandy Harkless message, 7:05pm",
-     "office": false,
-     "note": "Second half of the Litter-Robot procedure: once it is back on and has reset, press the cycle button once and let it run all the way around until it resets and turns blue, then it is done. A video was attached to the message.",
-     "quote": "have her hit the cycle button one time. let it come all the way around and wait until it resets and turns blue"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Brandy Harkless message, 7:05pm",
-     "office": false,
-     "note": "Do not intervene if the Litter-Robot shows red mid-cycle. The client says it is motion sensored and will stop, and that it will resume cycling on its own after a minute or two.",
-     "quote": "if it turns red don’t do anything. give it a min or two and then it will continue to cycle itself"
     }
    ],
    "dormant": false
@@ -2672,6 +2682,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 20",
+     "office": false,
+     "note": "Resolves the Sep 19 supply problem. The empty dry food container was refilled at this morning's visit - Jade Popovitz and Shannon Anderson found the reserve in the basement, refilled it and returned it to the cabinet. The backup dry food lives in the basement. Vicki was home.",
+     "quote": "The dry food container was empty and we found it in the basement and refilled the container.",
+     "source": "Jade Popovitz visit report"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 19",
      "source": "Vicki Davey has sent you a new message",
      "office": false,
@@ -2737,16 +2757,6 @@
      "office": false,
      "note": "Outdoor cat feeding station had flies and yellow jackets in the food bowls at the evening visit. Sitters dumped the old food, swapped in clean bowls with fresh food, told Trudy on site, and took out the trash so the uneaten wet food would not smell. Worth checking on the next outdoor visit.",
      "quote": "We found the outside food bowls with flies and yellow jackets."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Sitter visit report, Sep 19 12:11pm",
-     "office": false,
-     "note": "Sep 19 morning visit completed after the entry problem was resolved. Vicki was home and fed the porch cats herself. The sitter did the litter boxes, refreshed the water bowl and fountain, fed the indoor and outdoor cats, and locked the door on leaving - so no request to leave this door unlocked, unlike some other clients this week.",
-     "quote": "Vicki was there, and she fed the porch cats."
     }
    ],
    "dormant": false
