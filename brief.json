@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T20:20:11-04:00",
+ "generated": "2026-09-19T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1438,6 +1438,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 19",
+     "source": "Client private message, 1:26pm",
+     "office": true,
+     "note": "Private message from the client: she is leaving at 7 am and will feed the dogs herself. She does not say which day this applies to or which visit it affects. Her outstanding request is for 3 visits on Mon Sep 21 spaced across the day, and those are still unapproved, so the office needs to confirm with her before the schedule is set.",
+     "quote": "Leaving at 7 am. I will feed them"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 18",
      "source": "Regina Mathews private message",
      "office": true,
@@ -1473,6 +1483,16 @@
      "office": false,
      "note": "Gate check widened from side gate only to side AND back gate before the dogs go out. Safety item.",
      "quote": "Check side, back gate is CLOSED (left corner) before letting them out"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 19",
+     "source": "Client private message, 1:15pm",
+     "office": true,
+     "note": "Separate private message eleven minutes earlier giving an approximate time of 5 or 6 pm. The message does not say what that time refers to or which visit it bears on - it needs clarifying with the client alongside her 'leaving at 7 am' message.",
+     "quote": "My guess is 5 or 6 pm"
     },
     {
      "cat": "home",
@@ -1533,26 +1553,6 @@
      "office": false,
      "note": "No walks at this house, backyard potty only. Contractors may be in the home - work around them.",
      "quote": "No walks — backyard potty only"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 18",
-     "source": "Regina Mathews private message, 3:36pm",
-     "office": false,
-     "note": "Client's own availability has changed - she is home most days now, which is context for scheduling future visits. She will notify the office if that changes.",
-     "quote": "I work from home most days now or only go in office for a half day. I will let you know if that changes"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Tiarra Roberts updated Company Notes 4:12pm",
-     "office": false,
-     "note": "The Company Notes rewrite dropped the explicit 'pick up all poop' instruction from Waste Disposal; the bag locations and Thursday trash day stayed. The water wipe-up line also lost 'at end of visit'.",
-     "quote": "Pick up all poop, poop bags may be on kitchen counter or window sill, beside fridge"
     }
    ],
    "dormant": false
