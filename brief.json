@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T18:20:09-04:00",
+ "generated": "2026-09-20T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3070,6 +3070,16 @@
      "office": true,
      "note": "Lynne asks to cancel today (Sep 1) and tomorrow (Sep 2). The groomer cancelled Holly's appointment, so her coat is still long and the client will not risk her in this heat. She asks to be put back on for the holiday weekend. Needs the office to cancel both visits and add the holiday weekend dates - the specific days are not named in the message.",
      "quote": "Let’s cancel today and tomorrow. The groomer cancelled Holly’s appointment and she is too furry to go out in this temp."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 20",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Holly's Sep 20 evening walk with Shannon Anderson: she went both #1 and #2 and the report's consistency answer was 'It was firm and healthy'. This is the first firm stool logged after the run of evening reports describing it as a little loose.",
+     "quote": "It was firm and healthy"
     },
     {
      "cat": "health",
