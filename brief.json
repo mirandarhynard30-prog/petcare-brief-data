@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T11:20:05-04:00",
+ "generated": "2026-09-21T12:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5523,6 +5523,16 @@
      "office": false,
      "note": "Visit type is backyard only - no walks. Water is a fountain in the kitchen next to the back door; treats are in the left cabinet above the stove.",
      "quote": "No walks required, just backyard time only."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 21",
+     "source": "Visit report - Shannon Anderson",
+     "office": false,
+     "note": "Weezie was very vocal again on the Sep 21 morning visit (also noted Sep 18). Both dogs went #1; Frank also went #2, firm. Sitter enters through the garage and makes sure the garage is closed before opening the house door.",
+     "quote": "Wheezy was very vocal today."
     },
     {
      "cat": "behavior",
