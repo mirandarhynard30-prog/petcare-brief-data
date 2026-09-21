@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T22:20:09-04:00",
+ "generated": "2026-09-20T23:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5938,6 +5938,36 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 20",
+     "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
+     "office": false,
+     "note": "Arrival plan for the Mon Sep 21 visit (Shannon's first visit in a while and first time meeting Vivian). Nicole's elderly father-in-law Ray will be home and moves slowly, so let yourself in through the side door by the grill; a chime rings when it opens. The dogs will be loose behind a baby gate at the steps. Treats are in the closet right inside - have the dogs sit and calm down before moving the gate. Let the dogs see you at that door first, not the deck door.",
+     "quote": "The dogs will be loose, but there will be a baby gate at the steps so you can say hi without them coming up to you right away."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 20",
+     "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
+     "office": false,
+     "note": "Vito is very shy. Ignore him and do not pet him; he needs to sniff you for a while and will eventually follow the other dogs' lead. Hamilton and Vivian are very attention-needy and will greet you.",
+     "quote": "Please ignore Vito and do not pet him as he will need to sniff you for a while."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 20",
+     "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
+     "office": false,
+     "note": "Outside rules: if the mastiffs start playing, bring Hamilton inside because they play too rough for him. The mastiffs must not be outside unattended, and do not let them bark at the fence, which runs right along the sidewalk.",
+     "quote": "The mastiffs shouldn't be outside unattended and don't let them bark at the fence as it goes right to the sidewalk."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -5991,6 +6021,26 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 20",
+     "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
+     "office": true,
+     "note": "Nicole offers to have Vito and Vivian crated before the sitter arrives if we prefer; otherwise Ray can help crate them if they are barking. She asks to be told. Needs a reply before the Mon Sep 21 visit - Nicole is flying Monday (her husband Tim is the backup contact; numbers are in Time To Pet).",
+     "quote": "if you prefer they're in the crate before you come in, just let me know."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 20",
+     "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
+     "office": false,
+     "note": "Nicole sent 6 short videos in Time To Pet showing how to unlock the gate off the driveway. Watch them before the visit. Treats may also be given before leaving.",
+     "quote": "Please watch so you know how to unlock the gate off the driveway."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 17",
      "source": "Client private message, Sep 17 12:39pm",
      "office": false,
@@ -6006,56 +6056,6 @@
      "office": false,
      "note": "The client suggests, but has not instructed, that with all three dogs present it may be easier to have at least one of them crated during a visit. Treat as her suggestion pending the final plan she is sending Sunday, not as a standing rule.",
      "quote": "With all 3 dogs, it might be easier to have at least one crated so it's not mayhem."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Client private message, Sep 17 12:39pm",
-     "office": true,
-     "note": "Follow-up on the alleged bite: the client says she has sent her lawyer a number of our visit reports to show the behaviour was out of character, and says she would call on us as a character witness if one is needed. Office should be aware our reports are now in the hands of her lawyer. She also says her back was turned and she cannot say what the other person did.",
-     "quote": "I actually sent the lawyer many of your visitation reports to help show how out of character that is of him."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Nicole Zammit private message, 9:34pm",
-     "office": true,
-     "note": "Update on next week's entry arrangements while she is away: the client now says she will leave notes for Shannon and brief Tim's dad on what to expect. She had earlier said she would send a final plan on Sunday. Office should watch for that plan and make sure it reaches Shannon before the first visit.",
-     "quote": "I'll be sure to leave notes for Shannon next week and make sure Tim's dad knows what to expect."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client private message, Sep 16 9:03pm",
-     "office": true,
-     "note": "Open question from the client that needs an answer from the office: she asks whether Petcare Deluxe's protocols change when there are more than two dogs on a visit, and whether anything else is needed about Vivian.",
-     "quote": "let me know if there's anything else you need to know about Vivian or if your protocols change with more than 2 dogs per visit."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 16",
-     "source": "Client private message, Sep 16 9:03pm",
-     "office": false,
-     "note": "Vivian is a dog our sitters have not met. The client says she added Vivian's profile a few months ago and describes her as a mastiff boxer mix and very sweet. It has been a while since we last served this client, so treat the whole household as a first visit.",
-     "quote": "you haven't met Vivian yet. I added her profile a few months ago, she's a mastiff boxer mix and very sweet."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client private message, 9:20pm",
-     "office": false,
-     "note": "For Monday's requested visit the client says it is a potty break and play time only. The dogs can all go outside together, but keep Hamilton separate if Vito and Vivian start playing so he does not get involved; she says taking them out two at a time is also fine.",
-     "quote": "keep Hamilton seperate if Vito and Vivian start playing to avoid him from getting involved"
     }
    ],
    "dormant": false
