@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T09:20:08-04:00",
+ "generated": "2026-09-21T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -505,6 +505,16 @@
      "office": false,
      "note": "The client says there are some male dogs Gordy does not like, and that she thinks he made Margaret fall when he saw one of them. She places that incident a while ago and does not date it.",
      "quote": "There are some boy dogs he doesn't like."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 21",
+     "source": "Renee Dougherty visit report",
+     "office": false,
+     "note": "Sep 21 morning walk: sitter gave Gordy no treats because of a procedure and no food. Client says she leaves around 12:15 for his 1pm appointment today. The report's wording ('he had his procedure') is ambiguous - most likely he was fasting before today's appointment; the emails do not say what the procedure is. Stool was a little loose but not concerning. Check for aftercare instructions before the next visit.",
+     "quote": "He couldn’t have any treats because he had his procedure and couldn’t have food."
     },
     {
      "cat": "behavior",
@@ -5818,14 +5828,14 @@
      "quote": ""
     },
     {
-     "cat": "health",
+     "cat": "home",
      "sev": "low",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Sep 18 visit report, Elizabeth Cuffari",
+     "type": "standing",
+     "date": "Sep 21",
+     "source": "Client message",
      "office": false,
-     "note": "Flacco's stool on the Sep 18 afternoon walk was logged in the little-loose-but-not-concerning band. First loose reading for this new client; worth one more look rather than action. Quote left empty on purpose - the report wording is canned and identical across several clients.",
-     "quote": ""
+     "note": "Rain gear: an umbrella and a blue Velcro dog jacket are on the shoe rack near the back door, for use if it is raining. Same Sep 21 messages ask the sitter to bring in small packages from the porch and possibly one in the inside doorway of the front door, and repeat that more treats are on the top shelf of the fridge.",
+     "quote": "Also there is an umbrella and blue Velcro dog jacket near back door on shoe rack if it is raining"
     }
    ],
    "dormant": false
