@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T14:20:08-04:00",
+ "generated": "2026-09-21T15:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1438,6 +1438,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 21",
+     "source": "Client private message",
+     "office": true,
+     "note": "Private message at 2:14pm: her Michigan appointment was canceled and she would be home in 25 minutes. She explicitly asks us to CANCEL THE LAST of today's three visits, and asks to be told when sitters are running late. She repeats that India may have peed in her crate because 1:30 (5 hours) was already pushing it and the visit was then delayed. The delayed visit did go ahead (Kristin Ashick). Office: confirm the last visit is cancelled and reply to her about the delay.",
+     "quote": "Please cancel the last appointment. I would appreciate communication when they are running late."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 19",
      "source": "Client private message, 1:26pm",
      "office": true,
@@ -1495,6 +1505,16 @@
      "quote": "I will be home in 30 minutes. My appointment in Michigan canceled"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 21",
+     "source": "Visit report - Kristin Ashick",
+     "office": false,
+     "note": "Delayed afternoon visit Sep 21: no accidents found (India had not soiled her crate) and all three went #1. Milo kept eating grass in the yard despite the sitter's efforts, then drank a lot of water and vomited up grass; it was cleaned up. Tiarra also had to stop Milo eating grass on the morning visit, so watch him in the yard.",
+     "quote": "spit up grass which is what I was afraid was gonna happen!"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -1523,26 +1543,6 @@
      "office": true,
      "note": "On the same Sep 15 visit that turned up damage on the doorframe of the dog room, the sitter also noticed an unfamiliar black truck in the driveway. The report does not say whose it is. The client's standing notes do say contractors may be in the home, so it may well be theirs - that is not confirmed either way. Worth one call to the client covering both the truck and the doorframe.",
      "quote": "I noticed a black truck in the driveway."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Client-added general information, updated in Time To Pet Aug 26",
-     "office": false,
-     "note": "Client instruction, restated in capitals: shut the kennel door immediately after letting a dog out so the others cannot steal the bone or toy. Baby wipes for after a bowel movement are on top of the microwave.",
-     "quote": "CLOSE THE KENNEL DOORS AS SOON AS YOU LET THEM OUT, SO THE OTHER DOGS DON'T STEAL THEIR BONE/TOY."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Pet care note updated by Tiarra Roberts, Aug 26",
-     "office": false,
-     "note": "Lila and India are kept apart at the start of the visit because they are very high energy together. Milo can be out with either girl; all three go out together towards the end of the visit. Put each girl back on the same side of the kennel she was in.",
-     "quote": "They are very high energy together."
     }
    ],
    "dormant": false
