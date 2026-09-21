@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T15:20:08-04:00",
+ "generated": "2026-09-21T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2361,6 +2361,16 @@
      "office": true,
      "note": "Follow-up to his request for two visits Wed Sep 2 (11-12:30 and 3-4): he asks that Monica do the feeding at about 11. The email does not say which pet, though Ripley is the pet on his other reports.",
      "quote": "If Monica can feed her at 11ish...that would be great! TY!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 21",
+     "source": "Visit report - Michelle Carrara",
+     "office": false,
+     "note": "Sep 21 afternoon walk (client home): sitter reports Ripley likes to set the pace on walks - when she stops, wait for her to re-engage rather than pull. Shorter walk than Sep 20, possibly because of rain. Sitter says Ripley is warming to her more each visit. One sitter's observation, not yet a standing rule.",
+     "quote": "When she stops, I just wait for her to reengage."
     },
     {
      "cat": "behavior",
