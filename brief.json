@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T23:20:06-04:00",
+ "generated": "2026-09-21T06:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -495,26 +495,6 @@
      "office": false,
      "note": "Sampson was given half a pill in a pill pocket at the Sat morning visit and ate it willingly; the report logs medication as administered. The email does not name the drug or the schedule - check the Pet Care Note before dosing.",
      "quote": "I gave Sampson his half of a pill in a pocket and he happily ate it."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Renee Dougherty visit report",
-     "office": true,
-     "note": "Aug 30 morning visit: urine in the hall right near the kitchen plus stool there, and more stool in the dining room. All cleaned and treated with the stain and odor eliminator. Nothing in the litter box again. Fifth consecutive day of accidents and still no confirmed litter box use.",
-     "quote": "When we arrived, there was urine in the hall right near the kitchen and poop."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Client message, Aug 30 9:24am",
-     "office": true,
-     "note": "Client responded to the morning report: Sampson's peeing spot is the hardwood floor, not the litter box. She adds that overnight Becca cleaned up pee in about the same spot and stool on the dining room carpet.",
-     "quote": "Unfortunately Sampson's place to pee is on the hardwood floor not the litter box."
     },
     {
      "cat": "behavior",
@@ -1960,26 +1940,6 @@
     },
     {
      "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Client message 9:06pm",
-     "office": true,
-     "note": "Marcella could not make an appointment on Aug 30 - a painter called. She did not say which appointment or ask to rebook, so the office needs to confirm what was missed and whether it is being rescheduled.",
-     "quote": "Thought I could make the appointment. Then the painter called. Sorry."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Client message 9:10pm",
-     "office": true,
-     "note": "Marcella is floating the idea of isolating Buttercup in the laundry room for Robin so grooming goes better. It is a proposal, not a confirmed instruction - the office needs to answer before a sitter acts on it.",
-     "quote": "I was thinking about isolated Buttercup in the laundry room for Robin. It may take longer for him to volunteer the connection for grooming."
-    },
-    {
-     "cat": "schedule",
      "sev": "low",
      "type": "recent",
      "date": "Sep 14",
@@ -2371,16 +2331,6 @@
      "office": true,
      "note": "Follow-up to his request for two visits Wed Sep 2 (11-12:30 and 3-4): he asks that Monica do the feeding at about 11. The email does not say which pet, though Ripley is the pet on his other reports.",
      "quote": "If Monica can feed her at 11ish...that would be great! TY!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Kristin Ashick visit report, Aug 30 9:55am",
-     "office": false,
-     "note": "On the Aug 30 morning walk Ripley reacted hard to another dog coming down the hill on the driveway - the sitter says she needed all her strength to hold her. Ripley settled quickly; the sitter turned around when the other dog reappeared and kept the walk short and on guard.",
-     "quote": "Both dogs went berserk! I've never really had to use all my strengths for her. She is one strong lady."
     },
     {
      "cat": "behavior",
@@ -2990,16 +2940,6 @@
      "office": false,
      "note": "The door was locked when the sitter arrived for the Aug 31 9am visit and Octavia barked a good deal before she got in, though the same report still records the home as 'Client was home during visit/ Client asked not to lock door'. Worth confirming with Craig whether the door should be left unlocked for morning visits.",
      "quote": "The door was locked so Octavia agreed to me with many barks"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Margaret Bill visit report, 8pm",
-     "office": false,
-     "note": "Octavia urinated repeatedly but had no bowel movement on the Aug 30 8pm walk; Margaret walked the complex to give her the chance. Client was home during the visit.",
-     "quote": "She went #1 many times but no number two."
     }
    ],
    "dormant": false
@@ -3753,16 +3693,6 @@
      "quote": "I'm not sure if she had gotten into something with styrofoam but I swept the floor clean of it"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Lacey Govil visit report, 12:58pm",
-     "office": false,
-     "note": "Aayla had shredded plush toys again - Lacey found ripped-up pieces around the floor and threw them away. Lacey's wording says this has happened before, but only this one report is on file, so treat it as a repeat observation rather than an established rule. Walk itself was normal, two firm stools, drank well.",
-     "quote": "Aayla again had little ripped up pieces of plush toys around the floor."
-    },
-    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -3791,16 +3721,6 @@
      "office": false,
      "note": "Client thanked the sitter for blowing out the candle found burning during the midday visit, so extinguishing it was the right call. She did not say whether candles may be lit at future visits.",
      "quote": "Thank you for putting the candle out!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 30",
-     "source": "Lacey Govil visit report, 12:58pm",
-     "office": false,
-     "note": "No broom where the sitter looked - Lacey checked the closet, did not find one, and picked the toy pieces up by hand into the kitchen trash. Worth telling the next sitter where cleaning supplies actually are.",
-     "quote": "I looked for a broom in the closet but did not see one"
     }
    ],
    "dormant": false
@@ -6170,6 +6090,26 @@
      "office": false,
      "note": "Mail goes on the kitchen counter/table. Trash out Sunday night, bins next to the garage side door.",
      "quote": "Trash goes out Sunday night. Bins next to garage side door."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Ed Buehrle",
+   "url": "https://www.timetopet.com/dashboard/client/teodtm0E9zAJ",
+   "pets": [
+    "Remi"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 21",
+     "source": "Ed Buehrle private message to office, Sep 21 2:15am, replying to the Sep 21-27 scheduling notice",
+     "office": true,
+     "note": "Ed is asking whether we can check on Remi this week (Sep 21-27) at 11am and 3pm on Wednesday and Thursday, plus an 11am visit on Tuesday and Friday. His wording on the second part is \"11 am not tues and fri?\" - most likely means \"11 am on Tues and Fri\" but that is ambiguous; confirm with Ed. Needs an office reply and booking.",
+     "quote": "Are you able to check on remi this week at 11 am and 3 pm wed thurs ?"
     }
    ],
    "dormant": false
