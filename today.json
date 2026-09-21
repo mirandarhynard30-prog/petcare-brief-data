@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T14:20:25-04:00",
+ "generated": "2026-09-21T15:35:09-04:00",
  "date": "2026-09-21",
  "label": "Sep 21, 2026",
  "clients": [
@@ -151,13 +151,6 @@
      "staff": "Drew Walker",
      "service": "Dog Visit-30 minute",
      "pets": "chloe, chloe"
-    },
-    {
-     "time": "3:00 PM",
-     "sort": "1500",
-     "staff": "Harvett Ellington",
-     "service": "Dog Visit-30 minute",
-     "pets": "chloe"
     }
    ]
   },
@@ -236,5 +229,5 @@
    ]
   }
  ],
- "visitCount": 21
+ "visitCount": 20
 }
