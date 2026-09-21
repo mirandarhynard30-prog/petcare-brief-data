@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T13:20:05-04:00",
+ "generated": "2026-09-21T14:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -215,6 +215,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 21",
+     "source": "Client private message",
+     "office": true,
+     "note": "Mary asks us to cancel the meet and greet at the new place. She says 'Sunday'; the earlier messages had narrowed it to Monday Sep 28, so confirm which booking she means. They will not have the keys to the new place until the beginning of October.",
+     "quote": "Hi miranda, you can cancel the meet and greet for sunday. We wont have the keys til beginning of october."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 18",
      "source": "Mary Gilmore private message",
      "office": true,
@@ -290,16 +300,6 @@
      "office": true,
      "note": "Sent three minutes after the new address, in the same meet-and-greet thread. The message does not say what it refers to, so whether she means the two girls should be walked one at a time at the new place, or something about the meet and greet, is not stated. Worth confirming before any walking arrangement is set.",
      "quote": "Probably safest to walk separately"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Rusty pulled the quilt next to her crate into the crate and chewed on it during the evening visit; sitter cleaned it up and refixed the blankets in both crates.",
-     "quote": "Rusty had managed to grab ahold of the quilt next to her crate and pull it on and start chewing on it"
     }
    ],
    "dormant": false
@@ -1428,6 +1428,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 21",
+     "source": "Client message",
+     "office": true,
+     "note": "Regina wrote at 2:08pm that today's 1:30 visit had been pushed back and she was worried India had been left crated about 5 hours and might have peed in her cage. She followed up with a private message asking why the time was moved with no message. Needs an office reply today.",
+     "quote": "Why was our appointment time pushed back with no message?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 19",
      "source": "Client private message, 1:26pm",
      "office": true,
@@ -1478,6 +1488,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 21",
+     "source": "Client message",
+     "office": true,
+     "note": "About a minute after the complaint, Regina wrote that she will be home in 30 minutes (around 2:40pm) because her appointment in Michigan was canceled. She did not say whether today's delayed visit is still wanted - office should confirm with her before a sitter goes.",
+     "quote": "I will be home in 30 minutes. My appointment in Michigan canceled"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 19",
      "source": "Client private message, 1:15pm",
      "office": true,
@@ -1523,26 +1543,6 @@
      "office": false,
      "note": "Lila and India are kept apart at the start of the visit because they are very high energy together. Milo can be out with either girl; all three go out together towards the end of the visit. Put each girl back on the same side of the kennel she was in.",
      "quote": "They are very high energy together."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Tiarra Roberts profile update",
-     "office": false,
-     "note": "Client instruction in capitals: wipe with a baby wipe after a bowel movement. Wipes on top of the microwave.",
-     "quote": "WIPE BUTT WITH BABY WIPE (ON TOP OF MICROWAVE) AFTER HAVING A BOWEL MOVEMENT."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Tiarra Roberts profile update",
-     "office": false,
-     "note": "No walks at this house, backyard potty only. Contractors may be in the home - work around them.",
-     "quote": "No walks — backyard potty only"
     }
    ],
    "dormant": false
