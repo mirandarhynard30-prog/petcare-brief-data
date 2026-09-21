@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T19:20:05-04:00",
+ "generated": "2026-09-20T21:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2496,6 +2496,16 @@
      "source": "Tiarra Roberts, Pet Care Note edit"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 20",
+     "source": "Tiarra Roberts evening visit report, Sep 20 7:47pm",
+     "office": true,
+     "note": "On the Sep 20 evening visit the sitter cycled the Litter-Robot and put a fresh bag in the drawer. That cuts against the Sep 19 Pet Care Note rewrite, which deleted the drawer-and-bag procedure and told sitters to leave the robot alone. Sitters are still working to the old rule; the office needs to say which one stands.",
+     "quote": "I cycled the LitterRobot and put a fresh bag in the drawer."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2564,16 +2574,6 @@
      "office": true,
      "note": "Brandy asks that on Sunday the litter drawer bag be pulled and replaced and one cup of litter added to the bowl. Follows her note that the box was mishandled on the first visit. Needs confirming and writing into her notes.",
      "quote": "can she pull the bag and put a new one in on sunday please? and add a cup off litter to the bowl"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Brandy Harkless message, 7:03pm",
-     "office": false,
-     "note": "Litter-Robot emptying procedure, in the client's own words: press the power button once to turn it off, pull the bottom drawer out and pull the trash bag, stretch a new bag over the drawer and push it back in, add one cup of litter, then press the power button once to turn it back on. Spare bags are in a container next to the Litter-Robot along with a container of extra litter with a tall cup in it.",
-     "quote": "so before she does anything have her turn it off by pressing the power button once."
     }
    ],
    "dormant": false
