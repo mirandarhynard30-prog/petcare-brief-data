@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T06:20:09-04:00",
+ "generated": "2026-09-21T09:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5861,6 +5861,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 21",
+     "source": "Client message",
+     "office": false,
+     "note": "Morning of Shannon Anderson's Mon Sep 21 visit: Nicole put a muzzle on Vito before she left, to be extra safe, noting no one is usually home when sitters have come in the past. She says the sitter may remove it once the dogs are settled or before leaving. Shannon replied she will take it off Vito as soon as they calm down.",
+     "quote": "Out an abundance of caution, I put a muzzle on Vito before I left."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 20",
      "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
      "office": false,
@@ -5966,16 +5976,6 @@
      "office": false,
      "note": "First real description of Vivian, the dog our sitters have not met. The client compares her to Hamilton: attention-seeking and happy to meet new people. She invited us to ask for more detail on Vivian if needed.",
      "quote": "she's like Hamilton- wants all the attention and very fond of meeting new people"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Client private message, Sep 17 12:39pm",
-     "office": false,
-     "note": "The client suggests, but has not instructed, that with all three dogs present it may be easier to have at least one of them crated during a visit. Treat as her suggestion pending the final plan she is sending Sunday, not as a standing rule.",
-     "quote": "With all 3 dogs, it might be easier to have at least one crated so it's not mayhem."
     }
    ],
    "dormant": false
