@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T12:20:10-04:00",
+ "generated": "2026-09-21T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -757,6 +757,16 @@
      "office": false,
      "note": "Owner points sitters to small water bottles kept in the outside refrigerator and a collapsible bowl on top of CJ's crate, to take on walks if the boys get thirsty. Offered because the week is muggy.",
      "quote": "There a collapse-able bowl on top of CJ’s crate you take along."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 21",
+     "source": "Visit report - Ashley Corall",
+     "office": false,
+     "note": "Sep 21 visit: Rex's stool was a little loose; the checklist logs it as 'a little loose but not concerning'. CJ's was firm. Walk was shortened because of rain.",
+     "quote": "Rex’s seemed a little loose today."
     },
     {
      "cat": "health",
@@ -1583,6 +1593,16 @@
      "office": false,
      "note": "Christina's suggested handling when Bismark will not walk: if the sitter is comfortable doing so, take him off the leash and walk toward the gate door to see whether he follows. She adds that otherwise he may just be lazy. This is the first time a technique has been offered rather than just a warning that he refuses.",
      "quote": "You can try taking him off the leash if you feel comfortable"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 21",
+     "source": "Client message",
+     "office": false,
+     "note": "Client says it is always fine to skip staying out in the rain and bring Bismark in early.",
+     "quote": "it’s always okay to not stay out in the rain and head in early."
     },
     {
      "cat": "behavior",
