@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T00:05:08-04:00",
+ "generated": "2026-09-21T09:50:12-04:00",
  "date": "2026-09-21",
  "label": "Sep 21, 2026",
  "clients": [
@@ -108,18 +108,6 @@
      "staff": "Julie Smith",
      "service": "Dog Visit-30 minute",
      "pets": "Holly"
-    }
-   ]
-  },
-  {
-   "name": "Marcella Singer",
-   "visits": [
-    {
-     "time": "7:00 PM",
-     "sort": "1900",
-     "staff": "Robin Lewis",
-     "service": "Cat Visit-30 Minutes",
-     "pets": "Buttercup, Sandy, Simba, Misty"
     }
    ]
   },
@@ -255,5 +243,5 @@
    ]
   }
  ],
- "visitCount": 23
+ "visitCount": 22
 }
