@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T18:20:06-04:00",
+ "generated": "2026-09-21T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3072,6 +3072,16 @@
      "quote": "I hear thunder I think. Could we wait?"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 21",
+     "source": "Client messages 6:29pm-7:12pm; Julie Smith reply 7:09pm",
+     "office": true,
+     "note": "Outcome of the Sep 21 evening walk that was put on hold for rain/thunder: Lynne wrote at 6:29pm that the walk should be cancelled if the rain continued without a break, and at 7:12pm said she and Holly had just come back soaking wet (she walked Holly herself). Julie Smith replied she will see Holly tomorrow. So the sitter walk appears not to have happened - office should confirm the Sep 21 evening visit is cancelled in the scheduler. Not explicitly stated whether it was formally cancelled.",
+     "quote": "We should cancel if it continues without a break"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3100,16 +3110,6 @@
      "office": true,
      "note": "Holly, Sep 18 evening walk with Dan Dantimo - the report's #2 consistency answer was again the sitter's standard wording for a little loose but not concerning. That makes three evenings running after the Sep 16 soft stool and the Sep 17 loose stool. Lynne was home during the visit. NOTE FOR THE OFFICE: this exact item was handed off on the two previous runs and has still not appeared in the published brief - its dedup key collided with Deb Ward's identical Sep 18 form answer, so the quote is deliberately left empty here.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Dan Dantimo visit report, 6:48pm",
-     "office": false,
-     "quote": "",
-     "note": "Holly went both #1 and #2 on the Sep 17 evening walk and Dan logged the consistency as a little loose but not concerning. Sits after the Sep 16 soft and slimy reading and the Sep 14 loose one, so the soft-stool run is continuing. Client was home so the home was not checked."
     }
    ],
    "dormant": false
