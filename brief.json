@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T17:20:05-04:00",
+ "generated": "2026-09-21T18:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -671,6 +671,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Sep 21",
+     "source": "Client message (Toni)",
+     "office": false,
+     "note": "On rainy days, sitters may just use the garage because the back yard gets mushy. Client will leave towels in the garage to pat the boys dry; they like being toweled off.",
+     "quote": "Feel free to just use the garage on rainy days, the back yard gets mushy."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Sep 18",
      "source": "Ashley Corall left a message for Terry M",
@@ -767,16 +777,6 @@
      "office": false,
      "note": "Sep 21 visit: Rex's stool was a little loose; the checklist logs it as 'a little loose but not concerning'. CJ's was firm. Walk was shortened because of rain.",
      "quote": "Rex’s seemed a little loose today."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Ashley Corall left a message for Terry M",
-     "office": false,
-     "note": "Sep 18 midday walk: CJ went #1 and #2 and his stool was logged firm and healthy, which is a change from the Aug 31 report that flagged his stool. Rex went #1 only, no #2 that visit. Both dogs ate and drank after the walk. Rex led the way out the door, which the sitter notes is unusual because CJ is normally the eager one.",
-     "quote": "It was firm and healthy"
     }
    ],
    "dormant": false
@@ -3052,6 +3052,26 @@
      "quote": "Let’s cancel today and tomorrow. The groomer cancelled Holly’s appointment and she is too furry to go out in this temp."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 21",
+     "source": "Client message",
+     "office": false,
+     "note": "Client says Holly will not go out on a walk if there is thunder. Light rain is OK per the client (keep your head covered).",
+     "quote": "She won’t go if there is thunder."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 21",
+     "source": "Client message (to Julie Smith)",
+     "office": false,
+     "note": "Sep 21 evening walk: client heard thunder and asked the sitter to wait (earlier she suggested giving it an hour). Julie Smith replied \"Of course!\" - new time not stated.",
+     "quote": "I hear thunder I think. Could we wait?"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3090,26 +3110,6 @@
      "office": false,
      "quote": "",
      "note": "Holly went both #1 and #2 on the Sep 17 evening walk and Dan logged the consistency as a little loose but not concerning. Sits after the Sep 16 soft and slimy reading and the Sep 14 loose one, so the soft-stool run is continuing. Client was home so the home was not checked."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Julie Smith visit report",
-     "office": false,
-     "note": "Holly's stool was still soft and slimy on the evening walk with some runny drips; the sitter described it as a little loose but not concerning. The word 'still' suggests this has been going on more than one visit, but this email does not say for how long.",
-     "quote": "Her poop was a little soft and slimy still. She did have a little bit of runny drips"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Dan Dantimo Sep 15 evening visit report",
-     "office": false,
-     "note": "Holly went #1 on the Sep 15 evening walk but did not go #2. Sits directly after the Sep 14 evening walk where the stool was logged loose and slimy. Two days of abnormal output in a row - worth watching, not yet a vet question.",
-     "quote": "She did not go number two on our walk."
     }
    ],
    "dormant": false
