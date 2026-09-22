@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T13:20:08-04:00",
+ "generated": "2026-09-22T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -962,6 +962,16 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Jade Popovitz visit report, Sep 22 2:28pm",
+     "office": false,
+     "note": "Sep 22 early-afternoon visit: Chloe was standing on the bottom stairs barking loudly on arrival and the walk was cut short even though she ran most of it. Back at the house the sitter sat with her a few minutes and she relaxed and lay down, then went back to barking, and was still barking as he left. Ambiguous point: the sitter writes that she seemed stressed because mom was not home, but the visit report form on the same message records Client was home during visit / Client asked not to lock door.",
+     "quote": "She seems very stressed since mom wasn’t home so her walk went short even though she was running pretty much the whole time."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1019,16 +1029,6 @@
      "office": false,
      "note": "Second short walk for Chloe on Sep 14 - Drew Walker's afternoon walk did not get far, though she went #1 a couple of times and no #2 was logged. Harvett Ellington's morning report the same day also described a short walk. The report does not say why either walk was cut short, so the reason is unconfirmed; it echoes the Sep 11 short walk after which she was hacking and wheezing. Same report answers that the client was home during the visit and asked that the door not be locked.",
      "quote": "I began my walk with Chloe where we didn’t make it too far but she went number 1 a couple times."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Harvett Ellington mid-morning visit report",
-     "office": false,
-     "note": "Chloe's Sep 14 mid-morning walk was also short. The sitter gave no reason beyond a guess that it was Monday. This is the earlier of the two short walks logged that day; stool was recorded firm and healthy at this visit.",
-     "quote": "went on a short walk today. Maybe it is Monday."
     }
    ],
    "dormant": false
