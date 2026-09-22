@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T22:20:06-04:00",
+ "generated": "2026-09-22T09:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -727,36 +727,6 @@
      "office": false,
      "note": "Client (Toni) says the boys lick and asks sitters to watch out for it; she is working on the licking and jumping. Handling note, not a correction request.",
      "quote": "just watch out for the licking lol. We are working on it!! Work in progress!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Kayla Popow visit report Aug 31 12:31 pm ET",
-     "office": false,
-     "note": "CJ's stool on the Aug 31 midday walk looked to the sitter as though he had eaten something he should not have; she photographed it for the owners. The report's consistency answer for CJ was still recorded as firm and healthy, so the two do not agree - worth a look at the photo.",
-     "quote": "it looked like he got ahold of something and just wanted you both to see just incase"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Kayla Popow visit report Aug 31 12:31 pm ET",
-     "office": false,
-     "note": "The Aug 31 midday walk was cut short because it turned very muggy; the sitter brought Rex and CJ back into the air conditioning early and gave them extra indoor playtime instead. Both still went #1 and #2.",
-     "quote": "I knew if I was dripping sweat that the boys were so I got them in the AC"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Client message from Toni, Aug 31 afternoon",
-     "office": false,
-     "note": "Replying to Kayla about CJ's stool: Toni says both dogs have been having pumpkin as a topping on their food and it may account for the colouring, and that she will watch CJ's stool tonight. She does not know what he ate.",
-     "quote": "They’ve both been eating pumpkin as a topping on their food so not sure if that could be the coloring"
     },
     {
      "cat": "home",
@@ -1748,26 +1718,6 @@
     {
      "cat": "behavior",
      "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Tiarra Roberts visit report Aug 31 morning",
-     "office": false,
-     "note": "On the Aug 31 morning walk Astra fixated on two hound dogs across the street and kept stopping to stare, then watched another dog for a while later in the walk. Sitter describes her as always interested in other dogs. No pulling or reaction is reported, only staring and stopping.",
-     "quote": "Astra kept stopping and looking at them"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Client private message 10:18am",
-     "office": false,
-     "note": "Follow-up to the garage hand-off she agreed to earlier this morning: the garage will be open and she will be standing outside with the dogs when the sitter arrives.",
-     "quote": "Yes, it'll be open, but I'll be standing outside with them when they come so no worries."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
      "type": "standing",
      "date": "Aug 26",
      "source": "Tiarra Roberts",
@@ -2048,16 +1998,6 @@
      "office": false,
      "note": "On the Sep 1 morning walk in high heat Murphy started to get warm toward the end. Walk was otherwise normal, #1 and #2 both done and stool firm and healthy. Watch the heat on the next few visits.",
      "quote": "I think he was starting to get a little warm at end, but he will probably have a great nap today!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Charlene Szunyog",
-     "office": true,
-     "note": "Charlene replied at 10:18pm agreeing to a 9:30 or 10 arrival time. The notification carries no visit date or service, so the office needs to open the thread to see which visit she is confirming and set the time.",
-     "quote": "9:30 or 10 is fine!"
     },
     {
      "cat": "behavior",
@@ -2821,6 +2761,26 @@
      "quote": "We won’t need you guys to come on Labor Day!"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Client message from Paulo Garcia, Sep 22 8:30am",
+     "office": false,
+     "note": "Cleaners are coming today, so Milo is at daycare and will not be home for today's visit. Same pattern as Sep 2, 10 and 16.",
+     "quote": "Since the cleaners are coming today, Milo is at daycare"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Client message from Paulo Garcia, Sep 22 8:30am",
+     "office": false,
+     "note": "Cleaners are in the house today. Archer is shut in the upstairs bedroom again - look for him there on arrival. The message does not say which bedroom; on Sep 16 it was the far right room upstairs.",
+     "quote": "Archer is in the upstairs bedroom again"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2909,16 +2869,6 @@
      "office": false,
      "note": "No trash bag in the bin, so used poop bags are being left on the floor beside it - others were already there. Kiara also refilled Milo's poop bag dispenser after it ran out. Milo and Archer were walked one at a time.",
      "quote": "I put the poop bags on the floor on the floor by the trash because I saw there was no trash bag in it"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Visit report, Shannon Anderson, Sep 10 1:17pm",
-     "office": false,
-     "note": "Sep 10 midday visit covered Archer only because Milo was at daycare that day. There is also a cat, Carl, in the house who waits in the kitchen and was given snacks alongside Archer, and both water bowls were changed. The client was home during the visit. Archer's #2 was logged firm and healthy.",
-     "quote": "I got to visit with just Archer since Milo was at daycare today"
     }
    ],
    "dormant": false
@@ -2982,7 +2932,7 @@
      "quote": "The door was locked so Octavia agreed to me with many barks"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Lynne Reno",
@@ -3480,26 +3430,6 @@
      "office": false,
      "note": "On the Sep 4 evening walk Guinness went #2 twice and Dan logged the consistency as a little loose but not concerning. Same reading as Sep 1, Aug 28, Aug 27, Aug 25 and Aug 24; the Sep 2 visit was firm. The loose readings are now recurring over roughly two weeks.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Dan Dantimo visit report, Aug 31 evening walk",
-     "office": false,
-     "note": "Second report on the new harness: Dan says Guinness is still walking without pulling and that it was easier to hold him back when they came across deer near the Commons. Follows the Aug 28 report on the same harness.",
-     "quote": "this new harness makes a big difference. So far so good on him walking without pulling!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Dan Dantimo visit report, Aug 31 evening walk",
-     "office": false,
-     "note": "Guinness went #2 on the Aug 31 evening walk and the consistency was again logged in the not-concerning loose band - the same reading as Aug 24, 25, 27 and 28. Five readings in eight days; no sitter has flagged it as a problem, but the run is worth watching.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -3931,16 +3861,6 @@
      "office": false,
      "note": "Murphy ended the Tue Sep 8 morning walk himself with a couple of minutes still to go, turning back for the house, and was panting a little on his return. The sitter describes the morning as cool in shade but warm in direct sun. Second walk in recent reports to finish short, after the Aug 31 walk that was cut at the stop sign for heat. Stool firm and healthy, went #1 and #2.",
      "quote": "He was panting a little bit when we made it back to his home"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 31",
-     "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "Aug 31 10am walk: Murphy seemed fairly hot in very humid weather, panted and looked tired, so the sitter cut the route short at the stop sign and brought him in. Storm threatening. Client was home during the visit and asked that the door not be locked.",
-     "quote": "He looked tired and he was panting , so I brought him in and took his leash off and harness."
     },
     {
      "cat": "home",
@@ -6170,6 +6090,24 @@
      "office": true,
      "note": "Ed is asking whether we can check on Remi this week (Sep 21-27) at 11am and 3pm on Wednesday and Thursday, plus an 11am visit on Tuesday and Friday. His wording on the second part is \"11 am not tues and fri?\" - most likely means \"11 am on Tues and Fri\" but that is ambiguous; confirm with Ed. Needs an office reply and booking.",
      "quote": "Are you able to check on remi this week at 11 am and 3 pm wed thurs ?"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Gina Sullivan",
+   "url": "https://www.timetopet.com/dashboard/client/t7fnymq07A1G",
+   "pets": [],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Client messages from Gina Sullivan, Sep 22 9:02am and 9:13am",
+     "office": true,
+     "note": "Gina says her mom is about to move: assessed and signing papers on Oct 1, moving soon after. In a follow-up reply to Miranda she named where (see Time To Pet). Message does not say what this means for pet care or future visits - office should confirm with Gina.",
+     "quote": "She gets assessed and signs papers on 10/1. and will be moving soon after that."
     }
    ],
    "dormant": false
