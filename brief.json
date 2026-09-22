@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T12:20:06-04:00",
+ "generated": "2026-09-22T13:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -668,6 +668,16 @@
     "CJ"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Monica Hopewell visit report",
+     "office": true,
+     "note": "Both Rex and CJ passed foil in their stool on the Sep 22 walk. The report does not say where the foil came from or how much.",
+     "quote": "They both had some sort of foil in their number 2 today."
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -2132,6 +2142,16 @@
     "Daffodil"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Shannon Anderson meet and greet report",
+     "office": false,
+     "note": "First meeting with Shannon and Kathy: Oliver was friendly right away, Daffodil was unsure of the new sitter. The two dogs were walked one at a time, with Daffodil left in her crate while Oliver was out.",
+     "quote": "Oliver took to me right away while Daff is unsure."
+    },
     {
      "cat": "schedule",
      "sev": "medium",
