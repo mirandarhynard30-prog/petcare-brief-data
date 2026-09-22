@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T21:20:05-04:00",
+ "generated": "2026-09-21T22:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6011,6 +6011,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 21",
+     "source": "Shannon Anderson visit messages, Sep 21 (1:35pm, 2:34pm, 9:59pm)",
+     "office": false,
+     "note": "Outcome of the Mon Sep 21 visit (Shannon with Tiarra training): Shannon got Vito's muzzle off as soon as they were outside; Vito was still unsure but took a few treats from her. That evening Shannon told Nicole that if Vito is muzzled again at the next visit she will do the same and remove it once everyone is calm, though she doesn't think he'll need it. Nicole replied she expects him to be less shy by Wednesday. Also: the blue water bowl was not changed because they did not want to risk breaking it taking it apart.",
+     "quote": "If you feel that Vito needs his muzzle again tomorrow, I'll do the same as today, take it off once everyone is calm."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 20",
      "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
      "office": true,
@@ -6026,16 +6036,6 @@
      "office": false,
      "note": "Nicole sent 6 short videos in Time To Pet showing how to unlock the gate off the driveway. Watch them before the visit. Treats may also be given before leaving.",
      "quote": "Please watch so you know how to unlock the gate off the driveway."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Client private message, Sep 17 12:39pm",
-     "office": false,
-     "note": "First real description of Vivian, the dog our sitters have not met. The client compares her to Hamilton: attention-seeking and happy to meet new people. She invited us to ask for more detail on Vivian if needed.",
-     "quote": "she's like Hamilton- wants all the attention and very fond of meeting new people"
     }
    ],
    "dormant": false
