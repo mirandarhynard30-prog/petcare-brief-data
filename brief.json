@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T19:20:05-04:00",
+ "generated": "2026-09-21T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3391,6 +3391,16 @@
     "Guinness"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 21",
+     "source": "Client message",
+     "office": true,
+     "note": "Deb's Sep 21 evening visit did not happen - sitter Dan held off due to heavy rain and Deb was out at a meeting. Deb says it is fine; office should confirm the visit is marked skipped and not charged.",
+     "quote": "I was at my meeting but the weather was bad so no problem that Dan didn’t come!"
+    },
     {
      "cat": "health",
      "sev": "medium",
