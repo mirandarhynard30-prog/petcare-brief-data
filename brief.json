@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T10:20:06-04:00",
+ "generated": "2026-09-22T11:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -545,6 +545,16 @@
      "office": false,
      "note": "Kitchen light rule: a light stays on overnight, the AM visit shuts it off, the PM visit turns lights on and leaves that one on. The bulb above the sink is blown and she cannot replace it. The middle switch in the laundry room by the back door is the outside garage lights.",
      "quote": "When the light is on in the am, shut it off when you leave."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Chelsea Tompkins visit report",
+     "office": false,
+     "note": "Sep 22 morning walk, the day after Gordy's Sep 21 appointment: he was excited and walked the usual route, went #2 twice. Sitter rated the stool a little loose but not concerning. Client was home.",
+     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -1524,6 +1534,16 @@
     "Bismark"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Alex Miller visit report",
+     "office": false,
+     "note": "Sep 22 visit (Alex Miller): Bismark greeted him at the stairs but lay down in the yard for about 5 minutes, then lay down again just outside the gate. He was shaking a bit, so Alex did not push the walk. No potty on this visit. The report's checkbox says the walk went as planned, which does not match the written text. Continues the pattern of refusing walks seen Sep 7-18.",
+     "quote": "he was shaking a bit so I didn’t want to push him to hard to walk"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -3975,6 +3995,16 @@
      "quote": "Favorite hiding spots: Under the bed or in basement (Theo), hallway to the basement is in the kitchen, next to interior garage door."
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Company Notes edit by Tiarra Roberts",
+     "office": false,
+     "note": "Sep 22 Company Notes rewrite: feeding now reads only 'Free-feed dry food'. The old lines to top off all food bowls at every visit and take a picture were removed; the email does not say whether that is still expected. Frank's grain allergy line stays.",
+     "quote": "Free-feed dry food"
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "standing",
@@ -5157,6 +5187,16 @@
      "quote": "When finished, throw treat into crate and he will run in"
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Company Notes edit by Tiarra Roberts",
+     "office": false,
+     "note": "Sep 22 rewrite removed 'Bring Helios out to meet them'. The notes still say a new person should wait outside in the driveway, but no longer say what happens next.",
+     "quote": "New person should wait outside in driveway"
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "standing",
@@ -5329,6 +5369,26 @@
      "office": false,
      "note": "Two wet cans per visit, split unevenly: one and a half cans for Mr Crowley, who eats no dry food, and half a can for Miss Ashley next to her dry bowl. Miss Ashley eats on the right, Mr Crowley on the left. Both litter boxes get scooped every visit.",
      "quote": "1 and 1/2 can for Mr crowley (he does not eat dry food)"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Company Notes edit by Tiarra Roberts",
+     "office": false,
+     "note": "Hot-house instruction is back: the Nest thermostat line now says to contact management if the house feels warm. This replaces the gap noted on Sep 17.",
+     "quote": "Nest thermostat on wall, if house feeling warm, contact management"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Company Notes edit by Tiarra Roberts",
+     "office": true,
+     "note": "The same Sep 22 rewrite removed the line 'Scoop all litter boxes each visit' (bags, scoopers and disposal lines remain) and the Care Notes section. The email does not say whether scooping every visit still applies. Office to confirm.",
+     "quote": ""
     }
    ],
    "dormant": false
