@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T09:20:10-04:00",
+ "generated": "2026-09-22T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -10,6 +10,16 @@
     "Caleb"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Company Notes rewrite by Tiarra Roberts, Sep 22",
+     "office": true,
+     "note": "Sep 22 rewrite: the medication section for Livvie now lists only Prednisolone (AM only, 1 1/2 pills, purple pill cutter, check the tray for a saved half pill). The client-added General Information was cleared in the same edit, and that was where the 0.4 ml Gabapentin instruction lived. Gabapentin no longer appears anywhere in the notes. The email does not say if Gabapentin was stopped or just lost in the rewrite. Office to confirm with Kelly before the next AM visit.",
+     "quote": "1½ Prednisolone pills"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -119,16 +129,6 @@
      "office": true,
      "note": "Follow-up to the Tiarra shadowing thread. Client says the 29th could move to a PM if that suits better, and that she has separately submitted a change moving the Oct 13 visit to PM because the cats have a vet appointment that morning. She also flags a problem with PM shadowing: Livvie's medication is AM only, so a sitter who only shadows PM visits cannot learn it.",
      "quote": "They have a vet visit that AM so PM actually works better."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Client private message, Sep 15 1:14pm",
-     "office": true,
-     "note": "Five minutes after the message above, the client offers a different option: move the 29th to the 28th AM instead. She adds that Monday AMs could work before work and that she will look at switching more visits. At 1:28pm she said she was leaving for an appointment and would come back to it. No date is settled yet - the office needs to pick one and confirm.",
-     "quote": "Actually if you want to switch the 29th to the 28th AM that would work."
     }
    ],
    "dormant": false
@@ -4482,6 +4482,16 @@
     {
      "cat": "health",
      "sev": "low",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Pet Care Note and Company Notes, edited by Tiarra Roberts Sep 22",
+     "office": false,
+     "note": "The Pet Care Note is now empty. It used to say the wet canned food (1/2 can each) is fed at the evening visit. The Company Notes still put wet food at the midday visit (1-6pm) when Bill is out of town, with no feeding usually needed at the evening visit. The Sep 22 rewrite also moved water to the kitchen and the upstairs dog room.",
+     "quote": "Midday: 1–6pm wet can food"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
      "type": "recent",
      "date": "Sep 18",
      "source": "Tiarra Roberts visit report",
@@ -5028,6 +5038,16 @@
     {
      "cat": "home",
      "sev": "low",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Company Notes, edited by Tiarra Roberts Sep 22",
+     "office": false,
+     "note": "The second Sep 22 edit removed the 'standard litter box - Scoop' line, so only the automatic box (empty the drawer if needed) is listed. The note still says 2 litter boxes total in the office, so it is unclear if the standard box is gone. Check both.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
      "type": "standing",
      "date": "Sep 17",
      "source": "Tiarra Roberts updated contact information",
@@ -5094,6 +5114,16 @@
      "source": "Contact update by Tiarra Roberts, 10:23-10:25am",
      "office": false,
      "note": "Archie's vaccination restriction has been lifted - 'backyard potty only until May 16, no walks until he has his shots' was removed from both the Pet Care Note and Company Notes, and the instruction now reads to walk him around the house for potty time. Collar only, no harness; leash and poop bags by the back door. Stays in the play pen when unattended, no feeding.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Company Notes rewrite by Tiarra Roberts, Sep 22",
+     "office": false,
+     "note": "The Sep 22 rewrite removed the 'No harness, use collar only' line for Archie. The email does not say whether the rule changed or was just trimmed. Archie still stays in his play pen when unattended.",
      "quote": ""
     }
    ],
@@ -5248,6 +5278,16 @@
      "office": true,
      "note": "The Pet Care Note was replaced on Sep 11 with a single line about checking the fridge for an open cat food can. What it replaced was the 6PM routine: feed Blue, Princess and Tom the fish, turn off Tom's light, and give Blue and Princess their meds at that feeding. The medication detail does still exist in Company Notes, so this is a duplication being removed rather than lost outright - worth confirming that was intended.",
      "quote": "Blue and Princess gets meds when we feed."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Company Notes rewrite by Tiarra Roberts, Sep 22",
+     "office": false,
+     "note": "The Sep 22 rewrite dropped the line saying Blue's escape risk is unknown at the new location. It also dropped the line allowing the backyard line for PM feeding visits. The email does not say whether either was resolved or just trimmed, so keep treating Blue as an unknown at doors. The harness is now described as on the bench with the leash.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -6108,6 +6148,58 @@
      "office": true,
      "note": "Gina says her mom is about to move: assessed and signing papers on Oct 1, moving soon after. In a follow-up reply to Miranda she named where (see Time To Pet). Message does not say what this means for pet care or future visits - office should confirm with Gina.",
      "quote": "She gets assessed and signs papers on 10/1. and will be moving soon after that."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Ashley Corall",
+   "url": "https://www.timetopet.com/dashboard/client/s009jhSdyWrQ",
+   "pets": [
+    "Odie",
+    "Zeno",
+    "Griswold"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Pet Care Note and Company Notes, edited by Tiarra Roberts Sep 22",
+     "office": true,
+     "note": "The two notes CONTRADICT each other on Odie's muzzle at the end of the visit. Both say take the muzzle off at the start. The Pet Care Note says crate him WITHOUT the muzzle when you leave. The Company Notes say put the muzzle back on before leaving, and pick up his water bowl because he cannot drink with it on. Office to confirm which one is right.",
+     "quote": "put him in his crate WITHOUT muzzle on when you leave."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Company Notes, Sep 22",
+     "office": false,
+     "note": "Zeno is food/treat aggressive. Give Zeno his treat first, send him to his crate in the bedroom, and shut the door while he eats. Then give the other dogs their treats and let Zeno out after they finish. Zeno only gets treats from the container with the white lid, never milk bones.",
+     "quote": "Give Zeno his treat FIRST"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Company Notes, Sep 22",
+     "office": false,
+     "note": "Griswold must be on a leash every time he goes out, front or back yard. Do not let him into the backyard off leash. Go only far enough for a potty. His leash is on the table by the front door. Odie and Zeno can use the backyard.",
+     "quote": "MUST be taken out on leash (front yard/back yard)"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Pet Care Note and Company Notes, edited by Tiarra Roberts Sep 22",
+     "office": true,
+     "note": "All care for the cat Sloan was removed from both notes in the Sep 22 edit. That includes litter, feeding, the wet treat pouch and the as-needed 1 mL liquid constipation medication. The line 'Cat present (no care needed)' was removed too. The email does not say whether Sloan still lives there or still needs care. Office to confirm.",
+     "quote": ""
     }
    ],
    "dormant": false
