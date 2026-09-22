@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T11:20:06-04:00",
+ "generated": "2026-09-22T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -365,6 +365,16 @@
      "quote": "I will be off Monday too for the holiday. I will enter the cancellation requests now."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Thomas Rakovec visit report",
+     "office": true,
+     "note": "Sitter says they are out of cat food and he put out the last of it at the Sep 22 midday visit. The report checklist still answers No to supplies getting low, so this may not have been flagged anywhere else. Client needs to restock before the next visit.",
+     "quote": "out of cat food put the last out"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -423,16 +433,6 @@
      "office": false,
      "note": "Thomas switched off the long leash back to the normal leashes for Stella and Berry's walk; he says Stella takes advantage of the longer one. One sitter's choice on one walk, not a written rule.",
      "quote": "went back to the normal leashes Because Stella takes advantage of that longer one"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Thomas Rakovec visit report, Sep 10",
-     "office": false,
-     "note": "Ambiguous: in the written report the sitter says Louie did not go, but the checklist for Louie on the same report logs #1 as Yes. The two disagree, so treat Louie's toileting as unconfirmed today and check at the next visit. Stella and Berry both went #1 and #2, firm and healthy; Emma's eye drops given and Berry's diaper back on.",
-     "quote": "let everyone go no.#1 except Louie he didn't feel like it today"
     }
    ],
    "dormant": false
@@ -2326,6 +2326,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 22",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "Ripley has a shock collar. Matt showed the sitter how it works on Sep 22 (client was home). The sitter did not use it and took it off after the walk, leaving it on the kitchen counter. The email does not say whether it has to be worn on every walk.",
+     "quote": "I also took her shock collar off and left it on the kitchen counter."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 21",
      "source": "Visit report - Michelle Carrara",
      "office": false,
@@ -2351,16 +2361,6 @@
      "note": "Feeding amounts as they now stand in Company Notes: 2 scoops dry kibble (pantry, bottom left), 2 scoops Nutra Complete from the fridge using the same scoop, 1/3 bag Farmers Dog from the fridge, splash of water mixed in. An older version said 1 scoop Nutra Complete, so the current figure is double.",
      "quote": "2 scoops Nutra Complete - fridge (use same scoop)",
      "source": "Tiarra Roberts, Company Notes edit"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Tiarra Roberts visit report",
-     "office": false,
-     "note": "Ripley barked at an unfamiliar sitter trying to put her collar on; the regular sitter had to put it on instead. Tiarra was shadowing Kristin Ashick. Walk and stool otherwise normal.",
-     "quote": "Ripley did bark when I tried to put her collar on. Kristin did have to put it on."
     }
    ],
    "dormant": false
@@ -5583,6 +5583,16 @@
      "office": false,
      "note": "Visit type is backyard only - no walks. Water is a fountain in the kitchen next to the back door; treats are in the left cabinet above the stove.",
      "quote": "No walks required, just backyard time only."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Elizabeth Sigler visit report (shadowing Shannon Anderson)",
+     "office": false,
+     "note": "Indoor potty accident found and cleaned up at the Sep 22 visit. The report does not say which dog or where.",
+     "quote": "I cleaned up a potty accident"
     },
     {
      "cat": "behavior",
