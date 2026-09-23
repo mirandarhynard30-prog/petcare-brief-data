@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T11:20:07-04:00",
+ "generated": "2026-09-23T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1475,6 +1475,16 @@
      "quote": "Check side, back gate is CLOSED (left corner) before letting them out"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 23",
+     "source": "Private message from Regina Mathews to Miranda, Sep 23 11:20am",
+     "office": true,
+     "note": "Client states the dogs should not be left alone more than 4 hours. India sometimes pees in her crate if the gap is longer, depending on how much she has drunk. This is the standing rule behind the Sep 21 complaint about the delayed visit. Office should keep visit gaps inside 4 hours when scheduling.",
+     "quote": "we try not to leave them more than 4 hours. India sometimes pees in her cage if we go beyond that"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -1513,16 +1523,6 @@
      "office": true,
      "note": "Separate private message eleven minutes earlier giving an approximate time of 5 or 6 pm. The message does not say what that time refers to or which visit it bears on - it needs clarifying with the client alongside her 'leaving at 7 am' message.",
      "quote": "My guess is 5 or 6 pm"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Tiarra Roberts visit report, Sep 15 4:01pm",
-     "office": true,
-     "note": "Sitter reported damage on the doorframe of the dog room. The report does not say whether it is new or what caused it, so the office should check with the client rather than a sitter assuming it was already there.",
-     "quote": "I noticed some damage on the doorframe of the dog room."
     }
    ],
    "dormant": false
@@ -2824,6 +2824,16 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Sep 23",
+     "source": "Visit report from Alex Miller, Sep 23 12:02pm",
+     "office": false,
+     "note": "Milo needed time to settle before he could be taken out, so his walk was shorter than Archer's. Lots of dogs and squirrels about meant frequent stops. He went #1 twice, no #2. Archer's walk was normal and his stool was firm.",
+     "quote": "Milo took a while to calm down to get him outside today so his walk was slightly shorter"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Sep 15",
      "source": "Drew Walker visit report, Sep 15 1:09pm",
      "office": true,
@@ -2839,16 +2849,6 @@
      "office": false,
      "note": "On the Sep 14 midday visit Milo was put back in his crate before the sitter left. One sitter on one visit - the report does not say whether crating Milo at the end of every visit is the standing instruction, so confirm before treating it as one. Milo and Archer were walked separately, Milo first.",
      "quote": "putting Milo back in his crate before leaving for the day and locking the door"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "No trash bag in the bin, so used poop bags are being left on the floor beside it - others were already there. Kiara also refilled Milo's poop bag dispenser after it ran out. Milo and Archer were walked one at a time.",
-     "quote": "I put the poop bags on the floor on the floor by the trash because I saw there was no trash bag in it"
     }
    ],
    "dormant": false
@@ -5525,6 +5525,16 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Visit report from Elizabeth Sigler, Sep 23 11:20am",
+     "office": false,
+     "note": "Landscapers were working at the property during the midday visit. When one entered the backyard both dogs became very upset and anxious, so the sitter cut the yard time short, walked them around the backyard and finished the visit indoors. Neither dog went potty. Louise also took about ten minutes of intermittent barking to settle with this sitter before she wanted attention; Frank was calm throughout.",
+     "quote": "they both got very upset and anxious a few minutes later when one of the landscapers entered the backyard"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -5623,16 +5633,6 @@
      "office": false,
      "note": "New client. Meet-and-greet held Sep 11 at about 4pm with Shannon Anderson and Elizabeth Cuffari. Pets are Weezy and Frank (Frank also called Frankie). No handling, access or feeding details appear in any message yet.",
      "quote": "It was wonderful meeting everyone. Can't wait to start visiting with Weezy and Frankie"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Shannon Anderson contact-information update, Sep 11 6:38pm",
-     "office": false,
-     "note": "No poop bags at this house. Use the poop scooper and toss waste over the railing. Cleaning supplies are under the kitchen sink. Park on the street on Riverway.",
-     "quote": "use poop scooper and toss over railing"
     }
    ],
    "dormant": false
