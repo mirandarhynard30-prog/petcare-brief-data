@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T14:20:05-04:00",
+ "generated": "2026-09-23T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6002,6 +6002,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 23",
+     "source": "Client message, 3:00pm",
+     "office": true,
+     "note": "Nicole replied to Shannon Anderson's 1:34pm report and explained the arm-grab: she says Vito does the same to her whenever he wants to play or wants attention, lightly taking her arm and leading her to the couch to sit and pet him. She reads it as Vito having warmed up to the sitter, not as aggression. This is the client's own account of the behavior; it does not change the open alleged-bite matter or the no-walk rule.",
+     "quote": "he lightly grabs my arm and walks me to the couch so I can sit and pet him."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 22",
      "source": "Tiarra Roberts updated contact information for Nicole Zammit (Sep 22)",
      "office": true,
@@ -6097,16 +6107,6 @@
      "office": true,
      "note": "Office follow-up on the same message: the client has hired a lawyer over the alleged bite and says she is navigating the courts. She offered to connect over a call if we need more information. No reply has been sent from this mailbox.",
      "quote": "I have hired a lawyer to help me navigate the courts but wanted to let you know."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Shannon Anderson visit messages, Sep 21 (1:35pm, 2:34pm, 9:59pm)",
-     "office": false,
-     "note": "Outcome of the Mon Sep 21 visit (Shannon with Tiarra training): Shannon got Vito's muzzle off as soon as they were outside; Vito was still unsure but took a few treats from her. That evening Shannon told Nicole that if Vito is muzzled again at the next visit she will do the same and remove it once everyone is calm, though she doesn't think he'll need it. Nicole replied she expects him to be less shy by Wednesday. Also: the blue water bowl was not changed because they did not want to risk breaking it taking it apart.",
-     "quote": "If you feel that Vito needs his muzzle again tomorrow, I'll do the same as today, take it off once everyone is calm."
     }
    ],
    "dormant": false
