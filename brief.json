@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T08:20:06-04:00",
+ "generated": "2026-09-23T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1465,6 +1465,16 @@
      "quote": "Check side, back gate is CLOSED (left corner) before letting them out"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Tiarra Roberts updated contact information for Regina Mathews (Sep 22)",
+     "office": true,
+     "note": "The Sep 22 Access Instructions rewrite dropped the step explaining that the keypad has to be woken with any button press before it lights up and will accept a code. A sitter who does not know that may think the code is wrong.",
+     "quote": ""
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -1503,16 +1513,6 @@
      "office": true,
      "note": "Sitter reported damage on the doorframe of the dog room. The report does not say whether it is new or what caused it, so the office should check with the client rather than a sitter assuming it was already there.",
      "quote": "I noticed some damage on the doorframe of the dog room."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Tiarra Roberts visit report, Sep 15 4:01pm",
-     "office": true,
-     "note": "On the same Sep 15 visit that turned up damage on the doorframe of the dog room, the sitter also noticed an unfamiliar black truck in the driveway. The report does not say whose it is. The client's standing notes do say contractors may be in the home, so it may well be theirs - that is not confirmed either way. Worth one call to the client covering both the truck and the doorframe.",
-     "quote": "I noticed a black truck in the driveway."
     }
    ],
    "dormant": false
@@ -3202,6 +3202,16 @@
      "quote": "Oakley might be hiding upstairs, if he does not come down for you please look in bedroom"
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Tiarra Roberts updated contact information for Anna Caraboolad (Sep 22)",
+     "office": false,
+     "note": "Sep 22 Pet Care Note rewrite. The old condition 'if he does not come down for you' was dropped, so it now reads as a standing instruction to go look for Oakley in the main-floor bedroom, possibly in the closet. The same edit removed the shoes-off line from the Pet Care Note, though a remove-shoes line still appears in the access instructions.",
+     "quote": "THE HARDWOOD FLOORS CAN SCARE HIM."
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "standing",
@@ -3210,16 +3220,6 @@
      "office": false,
      "note": "Orange leash and harness in the laundry room. Dining room now holds a food bowl as well as the water bowl. Treats on the counter by the paper towels; poop bags in the small bin by the garage trash cans.",
      "quote": "One water bowl and one food bowl in dining room"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Ashley Corall visit report, Tue Sep 8 morning",
-     "office": false,
-     "note": "Oakley had eye discharge on the Tue Sep 8 morning visit; the sitter wiped it off and flagged it to Anna. The sitter guesses seasonal allergies based on her own dog, which is speculation, not a diagnosis - no vet or client confirmation.",
-     "quote": "I noticed he has a couple of eye boogers I wiped those off"
     }
    ],
    "dormant": false
@@ -5065,6 +5065,16 @@
      "office": false,
      "note": "Escape risk. Crate Maui before leaving and put the bench in front of the dog room door. Both dogs must have their collars on before going outside - the fence is invisible and only works with the collars on. Both stay in the dog room, immediately left of the front door, and go back there at the end of the visit.",
      "quote": "Maui has learned how to open doors, escape his crate, and likes to chew things"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Tiarra Roberts updated contact information for Kayle Cruz (Sep 22)",
+     "office": true,
+     "note": "The Sep 22 Company Notes rewrite removed the water refresh line. The notes now list only that there is one water bowl in the dog room.",
+     "quote": "Refresh water at each visit"
     }
    ],
    "dormant": false
@@ -5196,6 +5206,16 @@
      "office": false,
      "note": "Both dogs bark and can be apprehensive meeting someone new. Louie is the more protective of the two, Lanie is shy at first, and both usually settle once they are comfortable. Neither has shown any interest in escaping. Backyard time only, no walks required.",
      "quote": "Both dogs can be a little apprehensive and bark when first meeting someone."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Tiarra Roberts updated contact information for Beth Nickel (Sep 22, 9:44am ET)",
+     "office": false,
+     "note": "The first Sep 22 Company Notes edit removed the entry-door line from the Client Overview, so the notes no longer state which door to enter by. A second edit two minutes later removed the tap-water-is-fine aside from the water bowl line; the cold-water warning about the reversed kitchen sink symbols is still there.",
+     "quote": "Enter through the front door"
     }
    ],
    "dormant": false
@@ -5890,6 +5910,16 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Tiarra Roberts updated contact information for Nicole Zammit (Sep 22)",
+     "office": true,
+     "note": "The Sep 22 Company Notes rewrite still describes Vito only as shy and to be ignored on arrival. The full new text contains no mention of the no-walk rule or the muzzle, so a sitter reading only the notes would not know either applies. Worth checking the notes match the current handling rule.",
+     "quote": "Vito: Very shy. Ignore Vito initially and do not attempt to pet him."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "recent",
      "date": "Sep 21",
      "source": "Client message",
@@ -5996,16 +6026,6 @@
      "office": true,
      "note": "Nicole offers to have Vito and Vivian crated before the sitter arrives if we prefer; otherwise Ray can help crate them if they are barking. She asks to be told. Needs a reply before the Mon Sep 21 visit - Nicole is flying Monday (her husband Tim is the backup contact; numbers are in Time To Pet).",
      "quote": "if you prefer they're in the crate before you come in, just let me know."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 20",
-     "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
-     "office": false,
-     "note": "Nicole sent 6 short videos in Time To Pet showing how to unlock the gate off the driveway. Watch them before the visit. Treats may also be given before leaving.",
-     "quote": "Please watch so you know how to unlock the gate off the driveway."
     }
    ],
    "dormant": false
@@ -6018,9 +6038,20 @@
     "Peppa",
     "Beau-ba",
     "White Kitty Boy",
-    "Pickles"
+    "Pickles",
+    "Toby"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Tiarra Roberts updated contact information for Michael Smith (Sep 22)",
+     "office": true,
+     "note": "The Sep 22 Pet Care Note rewrite cut the note down to the visit dates and arrival windows only. Everything else went with it: that there is 1 dog (Toby) and 4 cats, that only the cats are being cared for on the September dates, which cats are indoor vs outdoor, the garage arrangement for the outside cats, the litter box count, and the feeding detail (free-feed dry, half a can of wet at both visits, no meds). Visits start Sep 28.",
+     "quote": "for sept dates we will only be caring for the cat"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -6050,6 +6081,26 @@
      "office": true,
      "note": "Garage rule for Toby, recorded verbatim because the wording is ambiguous - it reads either as Toby being unable to get out of the garage when the main door is open, or as an instruction not to let him out then. Needs confirming with Michael.",
      "quote": "Toby is unable to leave the garage, if the actual garage door is open."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Tiarra Roberts updated contact information for Michael Smith (Sep 22)",
+     "office": true,
+     "note": "The same Sep 22 edit removed the Dog Behavior block from the Company Notes, which had answered 'Dog friendly: No' and 'Escape risk: No' for Toby. The dog-friendly answer in particular is a safety detail and is now absent.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 22",
+     "source": "Tiarra Roberts updated contact information for Michael Smith (Sep 22)",
+     "office": true,
+     "note": "The same Sep 22 edit also dropped the litter box cleaning instruction from the Company Notes. Only the location of the 2 boxes at the bottom of the basement steps remains; the line saying to scoop and dispose of waste in the outside trash can is gone.",
+     "quote": ""
     },
     {
      "cat": "behavior",
@@ -6110,16 +6161,6 @@
      "office": false,
      "note": "Household tasks: mailbox by the front door, mail goes on the kitchen counter, trash day Monday. Park in the driveway. Client is not home during visits.",
      "quote": "Mailbox location: by front door"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 18",
-     "source": "Tiarra Roberts meet-and-greet report",
-     "office": false,
-     "note": "Mail goes on the kitchen counter/table. Trash out Sunday night, bins next to the garage side door.",
-     "quote": "Trash goes out Sunday night. Bins next to garage side door."
     }
    ],
    "dormant": false
