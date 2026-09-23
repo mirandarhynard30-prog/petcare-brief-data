@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T17:20:05-04:00",
+ "generated": "2026-09-23T18:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -243,6 +243,16 @@
      "quote": "Thank you!! Yes, please feed them tomorrow!"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Evening visit: Rusty had pulled blanket corners into her crate. Shannon Anderson removed them and moved the blankets to the opposite side of the room so Rusty could not swallow pieces. No ingestion reported.",
+     "quote": "noticed that Rusty had pulled a few corners of the blankets into her crate. I removed them from her crate"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -311,16 +321,6 @@
      "office": true,
      "note": "One minute after the first message Mary narrowed the meet and greet to Monday Sep 28. Still needs an office reply, and it ties to her unset last service date at the current address.",
      "quote": "On that monday the 28th"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Mary Gilmore private message 6:03pm",
-     "office": true,
-     "note": "Following up on the Mon Sep 28 meet and greet, Mary asks for a later time slot - 4pm or after - so she has more time for moving trips back and forth. Still needs an office confirmation.",
-     "quote": "Probably the later the better, 4 or after? Gives us more time to take the trips back and forth!"
     }
    ],
    "dormant": false
