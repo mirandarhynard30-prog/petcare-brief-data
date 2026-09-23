@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T09:20:06-04:00",
+ "generated": "2026-09-23T10:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -182,6 +182,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Client message replying to Shannon Anderson, Sep 23 10:11am ET",
+     "office": true,
+     "note": "Shannon Anderson asked Mary this morning whether she should feed the girls as usual at tonight's visit or just do a potty break and backyard time. Mary replied 'Feed them please!' Confirm tonight's visit is booked as a feeding visit, not a potty break. Same pattern as the Sep 15 feeding confirmation.",
+     "quote": "Feed them please!"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -290,16 +300,6 @@
      "office": true,
      "note": "Following up on the Mon Sep 28 meet and greet, Mary asks for a later time slot - 4pm or after - so she has more time for moving trips back and forth. Still needs an office confirmation.",
      "quote": "Probably the later the better, 4 or after? Gives us more time to take the trips back and forth!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Mary Gilmore private message 6:06pm",
-     "office": true,
-     "note": "Mary sent the street address of the new place in Cuyahoga Falls by private message. Building number and apartment number are not known yet, so the record in Time To Pet will be incomplete until she confirms them. Address itself is in Time To Pet, not repeated here.",
-     "quote": "Unsure on building number or apt # yet"
     }
    ],
    "dormant": false
