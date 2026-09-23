@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T13:20:06-04:00",
+ "generated": "2026-09-23T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -703,6 +703,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 23",
+     "source": "Terry M message to Ashley Corall, 1:14pm",
+     "office": true,
+     "note": "Client identified the source of the foil seen in both dogs' stool Sep 22 and Sep 23: Rex tore through a foil-lined blanket in his crate overnight, and the client believes CJ got into Rex's crate and swallowed some too. No vet contact mentioned by the client.",
+     "quote": "Rex had torn through one of his blankets and it was foil lined."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 22",
      "source": "Monica Hopewell visit report",
      "office": true,
@@ -718,6 +728,16 @@
      "office": true,
      "note": "Terry wrote asking to be removed from services on Tuesday Sep 8, the day after Labor Day, because he is off work that day. Needs taking off the schedule and a reply.",
      "quote": "I will be off work next Tuesday after Labor Day. Can you please remove us from services that day as well."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 23",
+     "source": "Terry M message to Ashley Corall, 1:14pm",
+     "office": false,
+     "note": "Client says both dogs chew in their crates and that is why only tough chew toys are given. Client uses inexpensive blankets as crate liners and expects holes in them.",
+     "quote": "They are chewers while in their crate which is why we give the tough chewing toys only."
     },
     {
      "cat": "home",
@@ -5971,6 +5991,16 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Shannon Anderson visit report, 1:34pm",
+     "office": true,
+     "note": "During play in the fenced back yard Vito put his mouth on the sitter's arm. The sitter described it as light and as part of play, and reported no injury and an otherwise good visit.",
+     "quote": "Him and I actually tried to play, he lightly grabbed my arm."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "standing",
      "date": "Sep 22",
      "source": "Tiarra Roberts updated contact information for Nicole Zammit (Sep 22)",
@@ -6077,16 +6107,6 @@
      "office": false,
      "note": "Outcome of the Mon Sep 21 visit (Shannon with Tiarra training): Shannon got Vito's muzzle off as soon as they were outside; Vito was still unsure but took a few treats from her. That evening Shannon told Nicole that if Vito is muzzled again at the next visit she will do the same and remove it once everyone is calm, though she doesn't think he'll need it. Nicole replied she expects him to be less shy by Wednesday. Also: the blue water bowl was not changed because they did not want to risk breaking it taking it apart.",
      "quote": "If you feel that Vito needs his muzzle again tomorrow, I'll do the same as today, take it off once everyone is calm."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 20",
-     "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
-     "office": true,
-     "note": "Nicole offers to have Vito and Vivian crated before the sitter arrives if we prefer; otherwise Ray can help crate them if they are barking. She asks to be told. Needs a reply before the Mon Sep 21 visit - Nicole is flying Monday (her husband Tim is the backup contact; numbers are in Time To Pet).",
-     "quote": "if you prefer they're in the crate before you come in, just let me know."
     }
    ],
    "dormant": false
