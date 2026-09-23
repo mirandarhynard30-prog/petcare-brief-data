@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T20:20:11-04:00",
+ "generated": "2026-09-22T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -81,6 +81,26 @@
      "quote": "I think Noella may still be a little uncomfortable with Livvies AM meds"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Noella Assi visit report, Sep 22 8:58pm",
+     "office": true,
+     "note": "Sitter reports the dry kibble bag is running low at the Sep 22 evening visit; she topped the kibble up from what was left. The report's supplies-getting-low question is answered Yes. Office to let Kelly know or arrange more food.",
+     "quote": "The kibble bag is low on food."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Noella Assi visit report, Sep 22 8:58pm",
+     "office": false,
+     "note": "Sep 22 evening visit: Livvie stayed under the bed the whole visit and only showed herself for a second while the litter was being cleaned. She still ate all her wet food, which was served to her under the bed. Caleb was not at the door either but came into the kitchen for dinner and ate all of his.",
+     "quote": "Livvie did not come out from under the bed."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -109,26 +129,6 @@
      "office": false,
      "note": "Kelly confirms Caleb is slow to accept new sitters and needs repeat exposure rather than anything special on the day. She says she is glad introductions are starting early because she is going away; no dates given in this message.",
      "quote": "You know him it just takes some time. Im glad were starting early before I leave."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Client private message",
-     "office": true,
-     "note": "Client will be home for some upcoming visits and asks that Tiarra shadow those so she can meet her. She first said the next two AM visits on the 22nd and 29th, then corrected herself in a follow-up message that the 22nd is a PM visit. She also said she may try to be home early enough on Friday to catch the visit. Needs scheduling action from the office.",
-     "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Client private message, Sep 15 1:09pm",
-     "office": true,
-     "note": "Follow-up to the Tiarra shadowing thread. Client says the 29th could move to a PM if that suits better, and that she has separately submitted a change moving the Oct 13 visit to PM because the cats have a vet appointment that morning. She also flags a problem with PM shadowing: Livvie's medication is AM only, so a sitter who only shadows PM visits cannot learn it.",
-     "quote": "They have a vet visit that AM so PM actually works better."
     }
    ],
    "dormant": false
