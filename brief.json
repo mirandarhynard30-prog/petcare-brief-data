@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T19:20:05-04:00",
+ "generated": "2026-09-22T20:20:11-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3381,6 +3381,16 @@
     "Guinness"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Dan Dantimo visit report, Sep 22 evening walk",
+     "office": false,
+     "note": "Sep 22 evening walk: Guinness went #1 a couple of times and #2 near the clubhouse, and Dan again answered the report's consistency field 'It was a little loose but not concerning'. Continues the run of loose-stool answers logged on his evening walks since early September. Client was home for the visit.",
+     "quote": "Guinness did go number two as we hung out by the clubhouse area for a little while."
+    },
     {
      "cat": "schedule",
      "sev": "medium",
