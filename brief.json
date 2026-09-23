@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T22:20:05-04:00",
+ "generated": "2026-09-23T08:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -212,6 +212,16 @@
      "quote": "Thank you!! Yes, please feed them tomorrow!"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 22",
+     "source": "Elizabeth Sigler post-visit report, Sep 22",
+     "office": false,
+     "note": "Sep 22 midday visit: the sitter put out fresh water but could not get Puck to drink any. The sitter noted Puck seemed fine otherwise. No other symptoms reported in this visit.",
+     "quote": "Despite my best efforts, I couldn’t get Puck to drink any. She seemed fine otherwise!"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -290,16 +300,6 @@
      "office": true,
      "note": "Mary sent the street address of the new place in Cuyahoga Falls by private message. Building number and apartment number are not known yet, so the record in Time To Pet will be incomplete until she confirms them. Address itself is in Time To Pet, not repeated here.",
      "quote": "Unsure on building number or apt # yet"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Mary Gilmore private message, 6:09pm",
-     "office": true,
-     "note": "Sent three minutes after the new address, in the same meet-and-greet thread. The message does not say what it refers to, so whether she means the two girls should be walked one at a time at the new place, or something about the meet and greet, is not stated. Worth confirming before any walking arrangement is set.",
-     "quote": "Probably safest to walk separately"
     }
    ],
    "dormant": false
@@ -609,16 +609,6 @@
     },
     {
      "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Client message to Robin, 10:15am",
-     "office": true,
-     "note": "Jesse messaged that his surgery went well and he was heading home from the hospital today. Robin's daily cover was booked until further notice pending review after Mon Aug 31 - office needs to confirm an end date now that he is back home.",
-     "quote": "Surgery went well and I will be on my way home from the hospital soon."
-    },
-    {
-     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
      "date": "Sep 8",
@@ -727,16 +717,6 @@
      "office": false,
      "note": "On very hot days the client says a walk is not required - letting the dogs out back to do their business and come straight back into the AC is fine.",
      "quote": "Days like today, you don’t necessarily need or have to walk them"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Monica Hopewell visit report",
-     "office": false,
-     "note": "CJ and Rex panting heavily in the humidity - Monica cut the walk to one cul-de-sac and headed back for water. Both went #1 and #2, consistency firm and normal.",
-     "quote": "the boys were panting pretty heavily, which to be fair its really muggy out"
     },
     {
      "cat": "behavior",
@@ -2020,16 +2000,6 @@
      "quote": ""
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Ashley Corall visit report Sep 1",
-     "office": false,
-     "note": "On the Sep 1 morning walk in high heat Murphy started to get warm toward the end. Walk was otherwise normal, #1 and #2 both done and stool firm and healthy. Watch the heat on the next few visits.",
-     "quote": "I think he was starting to get a little warm at end, but he will probably have a great nap today!"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -2185,16 +2155,6 @@
     {
      "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Client message, Sep 1 8:23pm",
-     "office": false,
-     "note": "Client wrote in to warn sitters about the drive to her house: the Sprague Road railroad crossing is closed for repairs through Friday evening. Plan an alternate route and allow extra time until Sat Sep 5.",
-     "quote": "the Sprague road railroad crossing is closed for repairs through Friday evening."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
      "type": "standing",
      "date": "Aug 20",
      "source": "Kathy Sullenberger",
@@ -2311,36 +2271,6 @@
      "office": false,
      "note": "Ripley reacted to unfamiliar people during the Sep 9 midday visit. A man and a woman were by an SUV in the driveway and the man walked toward the sitter while Ripley had her hackles up and was sitting between the sitter's legs; she also rumbled at an Amazon driver. She was too focused on the front of the house to go on the trail, so the sitter kept her in the fenced back yard. Recorded as one visit, not established as a standing rule.",
      "quote": "he started walking towards me even with Ripley's hackles raised and her sitting between my legs in warning"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Matt Konn private message, Sep 1 5:34pm and 5:49pm",
-     "office": true,
-     "note": "Client asked at 5:34pm for an extra visit tomorrow, Wed Sep 2, so two visits for the day. At 5:49pm he gave the windows: he leaves about 9:15, so 11-12:30 and 3-4. Both still need building in the schedule.",
-     "quote": "I’m heading out about 9:15…so 11-12:30 & 3-4 would be great!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Matt Konn private message, Sep 1 5:52pm",
-     "office": true,
-     "note": "Separate 5:52pm message: client asked for three visits this Saturday, Sep 5 - 8-9 visit and feed, 12-1 visit, 4-5 visit and feed. He is going to Pittsburgh for the day and acknowledged it is the holiday weekend. Needs confirming and staffing.",
-     "quote": "I’m heading to Pittsburgh for the day"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Matt Konn message 8:09pm",
-     "office": true,
-     "note": "Follow-up to his request for two visits Wed Sep 2 (11-12:30 and 3-4): he asks that Monica do the feeding at about 11. The email does not say which pet, though Ripley is the pet on his other reports.",
-     "quote": "If Monica can feed her at 11ish...that would be great! TY!"
     },
     {
      "cat": "behavior",
@@ -3032,16 +2962,6 @@
      "quote": "Then we cancel the later visit ok"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Client private message, Sep 1 11:47am",
-     "office": true,
-     "note": "Lynne asks to cancel today (Sep 1) and tomorrow (Sep 2). The groomer cancelled Holly's appointment, so her coat is still long and the client will not risk her in this heat. She asks to be put back on for the holiday weekend. Needs the office to cancel both visits and add the holiday weekend dates - the specific days are not named in the message.",
-     "quote": "Let’s cancel today and tomorrow. The groomer cancelled Holly’s appointment and she is too furry to go out in this temp."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -3360,16 +3280,6 @@
      "office": false,
      "note": "On the Sep 11 walk Archie went both #1 and #2 and the stool was logged firm and healthy. Follows the Sep 1 visit where he had no bowel movement, so that watch item looks closed. Sitter's note says see you Monday.",
      "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 1",
-     "source": "Thomas Rakovec visit report, 10:37am",
-     "office": false,
-     "note": "Archie did not have a bowel movement on today's walk, though he urinated several times. Single observation only - worth watching on the next visit.",
-     "quote": "Archie didn't go no.2 and went no.1 several times"
     }
    ],
    "dormant": false
