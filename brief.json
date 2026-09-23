@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T10:20:07-04:00",
+ "generated": "2026-09-23T11:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -505,6 +505,16 @@
      "office": false,
      "note": "The client says there are some male dogs Gordy does not like, and that she thinks he made Margaret fall when he saw one of them. She places that incident a while ago and does not date it.",
      "quote": "There are some boy dogs he doesn't like."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Kathy Pastor visit report and client reply, Sep 23 morning",
+     "office": false,
+     "note": "Sep 23 morning walk: Gordy went #2 four times and the consistency field was answered 'It was a little loose but not concerning'. Anna Marie replied that she thinks the four stools follow him not eating Monday morning and not eating until later that day, and that he ate everything Tuesday including Sampson's food when he got the chance. Third straight day the stool has been logged loose (Sep 22 and Sep 23); no vet contact mentioned.",
+     "quote": "Maybe the 4 times 💩 was because he couldn't eat Monday morning"
     },
     {
      "cat": "health",
@@ -5176,6 +5186,16 @@
      "office": false,
      "note": "Louie is on Apoquel for skin allergies. It goes with the morning and evening feedings only and is not given at midday visits. The Sep 11 edit moved this into the medication section and dropped the separate line that said he has skin allergies.",
      "quote": "Louie receives Apoquel for skin allergies"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Client messages 10:16am and 10:30am, Sep 23",
+     "office": true,
+     "note": "Beth chased an earlier unanswered request at 10:16am ('Wondering if you saw my request?'), then at 10:30am, after being told someone was traveling, asked whether the company will come to the home and stay overnight if they go away for a week or so. Still an open office question - this is the second unanswered Beth Nickel enquiry in the brief after the Sep 19 vacation-policy question.",
+     "quote": "do you come to the Home, spend the night?"
     },
     {
      "cat": "behavior",
