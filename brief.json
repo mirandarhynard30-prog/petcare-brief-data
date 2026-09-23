@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T18:20:06-04:00",
+ "generated": "2026-09-23T19:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -253,6 +253,16 @@
      "quote": "noticed that Rusty had pulled a few corners of the blankets into her crate. I removed them from her crate"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 23",
+     "source": "Mary Gilmore message, 6:37pm",
+     "office": false,
+     "note": "Mary replied to Shannon Anderson's evening report and gave sitters permission to move the blankets away from Rusty's crate. Follows the same evening's report of Rusty pulling blanket corners into her crate while the house is being packed. Mary did not say how long the packing lasts.",
+     "quote": "Youre totally fine to move the blankets!! Thanks :)"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -311,16 +321,6 @@
      "office": true,
      "note": "Mary asks to set up a meet and greet at the new place, Sunday Sep 27 or Monday Sep 28. She says she has not signed the lease yet and may take Monday off work. Unanswered so far.",
      "quote": "i was hoping we could set up a meet and greet on sunday the 27th or monday the 28th"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Client private message 5:03pm follow-up",
-     "office": true,
-     "note": "One minute after the first message Mary narrowed the meet and greet to Monday Sep 28. Still needs an office reply, and it ties to her unset last service date at the current address.",
-     "quote": "On that monday the 28th"
     }
    ],
    "dormant": false
