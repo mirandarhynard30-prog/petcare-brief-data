@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T12:20:05-04:00",
+ "generated": "2026-09-23T13:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -137,9 +137,20 @@
    "name": "Terri Orengo",
    "url": "https://www.timetopet.com/dashboard/client/tg7x5zgQWtst",
    "pets": [
-    "Nova"
+    "Nova",
+    "Benji"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Nova did not want to go outside on the midday visit and resisted even having her harness put on. Shannon got her out with a few mini milk bones. Nova did not potty at all - she would act as if she was about to go and then come back looking for a treat. She settled in bed with Benji afterwards and water was changed out.",
+     "quote": "She was reluctant about going outside today, even trying to put her harness on, she didn’t want to go."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -159,6 +170,16 @@
      "office": false,
      "note": "Client treats Nova letting a new sitter pet her as a major milestone, so expect Nova to be slow to warm to unfamiliar people and to need a slow introduction.",
      "quote": "Noves letting you pet her already is HUGE!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 23",
+     "source": "Client message to the office",
+     "office": false,
+     "note": "Answering that report, Terri says Nova not going potty on a visit is not a concern - she is reliable about going when she needs to. Terri adds that Nova did both #1 and #2 before she left for work that morning.",
+     "quote": "She’s pretty good about going potty if she has to, so if she didn’t, she should be ok."
     },
     {
      "cat": "schedule",
@@ -668,6 +689,16 @@
     "CJ"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Ashley Corall visit report",
+     "office": true,
+     "note": "Second straight day of foil in the stool. Ashley Corall read yesterday's report and says she saw foil again today in both Rex's and CJ's #2. The checklist still records both stools as firm and healthy, and the report does not say where the foil is coming from or how much. No vet contact is recorded. Office should find the source with the client.",
+     "quote": "I noticed today as well it in both of the pups"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -3135,6 +3166,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 23",
+     "source": "Tiarra Roberts contact information update",
+     "office": true,
+     "note": "Company Notes were edited again today by Tiarra Roberts. The only change is under 'Be careful with back door': the line 'Do NOT lock yourself out' was replaced by 'Take shoes off, inside'. The deadbolt lock-out warning is now gone from Time To Pet, and the shoes-off rule was already recorded elsewhere. Only the office can put the warning back.",
+     "quote": "Do NOT lock yourself out"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 19",
      "source": "Client message, Sep 19 6:14pm",
      "office": false,
@@ -3220,16 +3261,6 @@
      "office": false,
      "note": "Sep 22 Pet Care Note rewrite. The old condition 'if he does not come down for you' was dropped, so it now reads as a standing instruction to go look for Oakley in the main-floor bedroom, possibly in the closet. The same edit removed the shoes-off line from the Pet Care Note, though a remove-shoes line still appears in the access instructions.",
      "quote": "THE HARDWOOD FLOORS CAN SCARE HIM."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:34pm",
-     "office": false,
-     "note": "Orange leash and harness in the laundry room. Dining room now holds a food bowl as well as the water bowl. Treats on the counter by the paper towels; poop bags in the small bin by the garage trash cans.",
-     "quote": "One water bowl and one food bowl in dining room"
     }
    ],
    "dormant": false
@@ -3641,6 +3672,16 @@
      "office": false,
      "note": "Styrofoam debris found on the floor and swept up by the sitter. He could not tell whether Aayla had gotten into something containing it. Nothing else was reported wrong - she ate, walked and went #1 and #2 firm - but worth watching for more of it.",
      "quote": "I'm not sure if she had gotten into something with styrofoam but I swept the floor clean of it"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Josh Stone visit report",
+     "office": false,
+     "note": "Handling heads-up from today's visit: Aayla greets at the door by jumping, reaching nearly the sitter's eye level. The sitter describes it as her usual greeting and the rest of the visit was normal - walk, both #1 and #2, stool firm.",
+     "quote": "Jumping for joy at almost my eye level"
     },
     {
      "cat": "home",
