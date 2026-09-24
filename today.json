@@ -1,27 +1,15 @@
 {
- "generated": "2026-09-23T13:50:20-04:00",
- "date": "2026-09-23",
- "label": "Sep 23, 2026",
+ "generated": "2026-09-24T00:05:06-04:00",
+ "date": "2026-09-24",
+ "label": "Sep 24, 2026",
  "clients": [
-  {
-   "name": "Anna Caraboolad",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Tiarra Roberts",
-     "service": "Dog Visit-45 minute",
-     "pets": "Oakley"
-    }
-   ]
-  },
   {
    "name": "Anna Marie LeMaster",
    "visits": [
     {
-     "time": "10:00 AM",
-     "sort": "1000",
-     "staff": "Kathy Pastor",
+     "time": "9:30 AM",
+     "sort": "0930",
+     "staff": "Renee Dougherty",
      "service": "Dog Visit-30 minute",
      "pets": "Gordy (Gordon)"
     }
@@ -31,9 +19,9 @@
    "name": "Christine Jenison",
    "visits": [
     {
-     "time": "10:30 AM",
-     "sort": "1030",
-     "staff": "Elizabeth Sigler",
+     "time": "12:00 PM",
+     "sort": "1200",
+     "staff": "Elizabeth Cuffari",
      "service": "Dog Visit-30 minute",
      "pets": "Frank, Weezie or Louise"
     }
@@ -52,23 +40,11 @@
    ]
   },
   {
-   "name": "Jessica Shouldis",
-   "visits": [
-    {
-     "time": "10:45 AM",
-     "sort": "1045",
-     "staff": "Monica Hopewell",
-     "service": "Dog Visit-30 minute",
-     "pets": "Nova"
-    }
-   ]
-  },
-  {
    "name": "Liz Wainio",
    "visits": [
     {
-     "time": "11:45 AM",
-     "sort": "1145",
+     "time": "11:00 AM",
+     "sort": "1100",
      "staff": "Thomas Rakovec",
      "service": "Dog Visit-45 minute",
      "pets": "Stella, Berry, Emma, Louie"
@@ -81,21 +57,9 @@
     {
      "time": "6:00 PM",
      "sort": "1800",
-     "staff": "Julie Smith",
-     "service": "Dog Visit-30 minute",
+     "staff": "Dan Dantimo",
+     "service": "Long Range Visit-30 Minute",
      "pets": "Holly"
-    }
-   ]
-  },
-  {
-   "name": "Marcia Ontell",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Drew Walker",
-     "service": "Cat Visit-20 Minutes",
-     "pets": "Freddy"
     }
    ]
   },
@@ -103,17 +67,17 @@
    "name": "Mary Ann Mckeever",
    "visits": [
     {
-     "time": "10:00 AM",
-     "sort": "1000",
-     "staff": "Monica Hopewell",
+     "time": "9:30 AM",
+     "sort": "0930",
+     "staff": "Kristin Ashick",
      "service": "Dog Visit-30 minute",
      "pets": "Georgie"
     },
     {
      "time": "8:30 PM",
      "sort": "2030",
-     "staff": "Kristin Ashick",
-     "service": "Dog Visit-30 minute",
+     "staff": "Tiarra Roberts",
+     "service": "Dog Visit-20 minute",
      "pets": "Georgie"
     }
    ]
@@ -122,15 +86,8 @@
    "name": "Mary Gilmore",
    "visits": [
     {
-     "time": "11:30 AM",
-     "sort": "1130",
-     "staff": "Elizabeth Sigler",
-     "service": "Dog Visit-30 minute",
-     "pets": "Puck, Rusty"
-    },
-    {
-     "time": "5:30 PM",
-     "sort": "1730",
+     "time": "12:00 PM",
+     "sort": "1200",
      "staff": "Shannon  Anderson",
      "service": "Dog Visit-30 minute",
      "pets": "Puck, Rusty"
@@ -141,8 +98,8 @@
    "name": "Matt Konn",
    "visits": [
     {
-     "time": "11:30 AM",
-     "sort": "1130",
+     "time": "1:00 PM",
+     "sort": "1300",
      "staff": "Monica Hopewell",
      "service": "Dog Visit-30 minute",
      "pets": "Ripley"
@@ -155,7 +112,7 @@
     {
      "time": "12:00 PM",
      "sort": "1200",
-     "staff": "Josh Stone",
+     "staff": "Margaret Bill",
      "service": "Dog Visit-30 minute",
      "pets": "Aayla"
     }
@@ -165,15 +122,15 @@
    "name": "Melody Siska",
    "visits": [
     {
-     "time": "10:30 AM",
-     "sort": "1030",
-     "staff": "Alex Miller",
-     "service": "Dog Visit-30 minute",
+     "time": "10:00 AM",
+     "sort": "1000",
+     "staff": "Shannon  Anderson",
+     "service": "Long Range Visit-30 Minute",
      "pets": "chloe"
     },
     {
-     "time": "1:30 PM",
-     "sort": "1330",
+     "time": "2:00 PM",
+     "sort": "1400",
      "staff": "Harvett Ellington",
      "service": "Dog Visit-30 minute",
      "pets": "chloe"
@@ -181,25 +138,13 @@
    ]
   },
   {
-   "name": "Nicole Zammit",
-   "visits": [
-    {
-     "time": "1:15 PM",
-     "sort": "1315",
-     "staff": "Shannon  Anderson",
-     "service": "Dog Visit- 20 Minute (Fenced in Yard Only-No Feeding)",
-     "pets": "Hamilton , Vito, Vivian"
-    }
-   ]
-  },
-  {
    "name": "Paulo Garcia",
    "visits": [
     {
-     "time": "11:15 AM",
-     "sort": "1115",
-     "staff": "Alex Miller",
-     "service": "Dog Visit-45 minute",
+     "time": "10:45 AM",
+     "sort": "1045",
+     "staff": "Shannon  Anderson",
+     "service": "Long Range Visit-45 Minute",
      "pets": "Archer, Milo"
     }
    ]
@@ -215,43 +160,7 @@
      "pets": "Archie"
     }
    ]
-  },
-  {
-   "name": "Roseann Fekete",
-   "visits": [
-    {
-     "time": "7:00 PM",
-     "sort": "1900",
-     "staff": "Julie Smith",
-     "service": "Dog Visit-30 minute",
-     "pets": "Muffy"
-    }
-   ]
-  },
-  {
-   "name": "Terri Orengo",
-   "visits": [
-    {
-     "time": "12:15 PM",
-     "sort": "1215",
-     "staff": "Shannon  Anderson",
-     "service": "Dog Visit- 20 Minute (Fenced in Yard Only-No Feeding)",
-     "pets": "Nova"
-    }
-   ]
-  },
-  {
-   "name": "Terry M",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Ashley Corall",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "CJ, Rex"
-    }
-   ]
   }
  ],
- "visitCount": 22
+ "visitCount": 14
 }
