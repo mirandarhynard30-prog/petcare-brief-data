@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T13:20:05-04:00",
+ "generated": "2026-09-24T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2282,6 +2282,26 @@
      "office": false,
      "note": "Ripley reacted to unfamiliar people during the Sep 9 midday visit. A man and a woman were by an SUV in the driveway and the man walked toward the sitter while Ripley had her hackles up and was sitting between the sitter's legs; she also rumbled at an Amazon driver. She was too focused on the front of the house to go on the trail, so the sitter kept her in the fenced back yard. Recorded as one visit, not established as a standing rule.",
      "quote": "he started walking towards me even with Ripley's hackles raised and her sitting between my legs in warning"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Monica Hopewell visit message, Sep 24 1:32pm",
+     "office": false,
+     "note": "At the 1pm walk Ripley was very worked up at the garage door and nearly knocked Monica over coming in; Monica had to make her sit to get the collar on because she kept circling her feet. One visit, not recorded as a standing pattern.",
+     "quote": "She was right at the garage door when I came inside and about took me out with excitement"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Monica Hopewell message to Matt Konn, Sep 24 1:34pm",
+     "office": false,
+     "note": "During the 1pm walk Monica saw a gray sedan, which she thought was an older BMW, moving very slowly through the neighborhood and stopping at nearly every driveway including Matt's, then speeding off once other people noticed it. Reported for awareness; no incident and nothing taken.",
+     "quote": "there was someone driving very slowly all throughout the neighborhood"
     },
     {
      "cat": "behavior",
