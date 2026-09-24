@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T14:20:06-04:00",
+ "generated": "2026-09-24T15:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6313,6 +6313,59 @@
      "office": true,
      "note": "All care for the cat Sloan was removed from both notes in the Sep 22 edit. That includes litter, feeding, the wet treat pouch and the as-needed 1 mL liquid constipation medication. The line 'Cat present (no care needed)' was removed too. The email does not say whether Sloan still lives there or still needs care. Office to confirm.",
      "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Julia Rosenthal",
+   "url": "https://www.timetopet.com/dashboard/client/t1pw2ph34LLl",
+   "pets": [
+    "Sebastian",
+    "Leo",
+    "Tino",
+    "Binx"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Client message, 2:32pm",
+     "office": true,
+     "note": "Julia corrected the visit dates in reply to the office: not tomorrow. She says the visits should be Saturday evening and Sunday morning. The schedule needs checking against what she actually wants before anything is confirmed back to her.",
+     "quote": "You mentioned tomorrow but the visits should be Saturday evening and Sunday morning."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 24",
+     "source": "Client message, 2:32pm",
+     "office": false,
+     "note": "Four cats now, not five - Sebastian, Leo, Tino and Binx. Archie was put down in July after getting sick. Do not look for him or ask after him on arrival.",
+     "quote": "Unfortunately Archie got sick and we had to put him down in July"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Client message, 2:44pm",
+     "office": true,
+     "note": "Julia asked the office to confirm the entry details held for her home, and typed an access code and a key location into the message. Deliberately not recorded here - verify what is stored in Time To Pet directly and reply to her there.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Client message, 2:44pm",
+     "office": false,
+     "note": "Julia apologised in advance that the garbage is full of her son's belongings while he stays with them until his apartment is ready. She says nothing else at the home has changed.",
+     "quote": "the garbage is full of my sons stuff as he’s staying with us until his apt is ready"
     }
    ],
    "dormant": false
