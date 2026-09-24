@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T06:20:05-04:00",
+ "generated": "2026-09-24T07:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4673,6 +4673,16 @@
     "Pippa"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Client message",
+     "office": true,
+     "note": "Client writes that service is scheduled to start October 7 while she is out of town, and asks for sitter availability next week to hold a meet and greet with the cats. Needs an office reply; no meet and greet is on the books yet.",
+     "quote": "I’d like to get the meet and greet with the sitters scheduled. What is their availability next week to meet the cats?"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
