@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T19:20:10-04:00",
+ "generated": "2026-09-23T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3451,6 +3451,26 @@
      "office": false,
      "note": "On the Sep 4 evening walk Guinness went #2 twice and Dan logged the consistency as a little loose but not concerning. Same reading as Sep 1, Aug 28, Aug 27, Aug 25 and Aug 24; the Sep 2 visit was firm. The loose readings are now recurring over roughly two weeks.",
      "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Guinness's stool on the Sep 23 evening walk was logged as slightly loose, with the sitter marking it not concerning. No vomiting, appetite change or other symptom reported, and no prior loose stool noted in this report.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Dan Dantimo's Sep 23 evening report: Guinness was very excitable and walked fast, and the harness kept him manageable. Dan also noted he is listening better to commands. Walk stayed on the streets toward Jaycox.",
+     "quote": "he was walking very quickly today but that harness sure holds him at bay"
     }
    ],
    "dormant": false
@@ -3462,6 +3482,26 @@
     "Muffy"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Julie Smith visit report",
+     "office": false,
+     "note": "Julie Smith's Sep 23 evening walk report: Muffy pulled throughout the walk, but the current collar and leash cut down the self-choking compared with before. Julie linked the pulling to unspent energy. The report does not say what the previous setup was.",
+     "quote": "She definitely still was pulling, but she wasn’t choking herself as much with this collar and leash."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 23",
+     "source": "Julie Smith visit report",
+     "office": false,
+     "note": "At the end of the same Sep 23 walk Muffy saw another dog and pulled extremely hard, choking herself; Julie worked to redirect her using heel and reports it was not very successful. Single occurrence in this report, not stated as a standing pattern.",
+     "quote": "she started pulling extremely hard, even though the dog already went inside"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
