@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T16:20:06-04:00",
+ "generated": "2026-09-24T19:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2971,6 +2971,16 @@
      "office": true,
      "note": "Client confirmed the later visit on Sep 9 should be cancelled, in reply to Dan Dantimo. Needs to be actioned in the scheduler.",
      "quote": "Then we cancel the later visit ok"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Dan Dantimo visit report, Sep 24 6:50pm",
+     "office": false,
+     "note": "Holly, Sep 24 evening walk with Dan Dantimo: she went both #1 and #2, and the report's #2 consistency answer was the canned option \"It was a little loose but not concerning\". Her last recorded consistency answer (Sep 20, Shannon Anderson) was firm and healthy, so this is a change. The sitter did not flag it as a concern and reported no other symptoms; Holly walked well and the client was home during the visit.",
+     "quote": ""
     },
     {
      "cat": "behavior",
