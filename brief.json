@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T20:20:05-04:00",
+ "generated": "2026-09-24T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -339,6 +339,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 24",
+     "source": "Client message, 4:54am Sep 24",
+     "office": true,
+     "note": "Liz messaged at 4:54am Sep 24 to say she is home from work again today and would be submitting a cancellation request for the dogs' visit. Office needs to process the cancellation request in Time To Pet and confirm with her. This is a second consecutive day of cancellation.",
+     "quote": "Good morning. I’m going to be home again today from work so I will submit a cancellation request for the pups."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 18",
      "source": "Client message 4:55am",
      "office": true,
@@ -444,16 +454,6 @@
      "office": false,
      "note": "Sep 14 report: Emma's eye drops were given and medication logged as administered. All four dogs got outside and went #1; Stella's #2 was logged firm and healthy, and Berry, Emma and Louie each had no #2. Client was home during the visit.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "Thomas switched off the long leash back to the normal leashes for Stella and Berry's walk; he says Stella takes advantage of the longer one. One sitter's choice on one walk, not a written rule.",
-     "quote": "went back to the normal leashes Because Stella takes advantage of that longer one"
     }
    ],
    "dormant": false
@@ -627,16 +627,6 @@
      "office": true,
      "note": "Sitter found vomit in Oliver's room by the window on the Sep 6 7am visit and cleaned it up. Her wording 'more throw up' implies she had seen vomit there before, though the earlier reports only log a potty accident and an upset belly on Sep 5 - so this is the second consecutive morning with a GI problem in that room. Oliver's stool on this visit was logged firm and healthy. Office should tell Jesse and decide whether a vet call is needed.",
      "quote": "I did find more throw up this morning in his room by the window. I cleaned it up."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Client private message, 8:41am",
-     "office": true,
-     "note": "Jesse is home from the hospital and asks to keep the daily visits running until his follow-up appointment on Wednesday, September 9. This gives the open-ended booking an end date the office can now set in the scheduler.",
-     "quote": "I would like to continue having someone come in until then."
     },
     {
      "cat": "schedule",
@@ -2184,36 +2174,6 @@
      "quote": "Oliver took to me right away while Daff is unsure."
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Client message",
-     "office": false,
-     "note": "Kristin is working from home today but still wants the visit; Kathy should come as scheduled.",
-     "quote": "Morning! Heads up that I’m working from home today, though we’d still like Kathy to come."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Kathy Sullenberger 11:35am",
-     "office": false,
-     "note": "Oliver Chip's belly belt was wet when the sitter arrived. She put it on the washer and fitted a clean belt on him. First mention of the belly belt in the brief - one visit, so not recorded as a standing rule.",
-     "quote": "His belly belt was wet. I put it on the washer."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Kathy Sullenberger 11:35am",
-     "office": false,
-     "note": "Sitter reported glass in the road across the street from the house (written 'hlass' in the email) and kept the dogs clear of it on the walk.",
-     "quote": "I noticed there's some hlass in the road across the street."
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2222,16 +2182,6 @@
      "office": false,
      "note": "A sitter confirmed she will watch for lawn-chemical warning signs; the client's original caution is not in this thread.",
      "quote": "I will be aware of the yard chemical signs."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Kathy Sullenberger 11:35am",
-     "office": false,
-     "note": "Heat shortened the visit: Oliver went #1 only and the walk was cut a little short; Daffodil went #1 and #2 but did not want to go far and stayed on the grass.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -2783,16 +2733,6 @@
    "items": [
     {
      "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Client private message",
-     "office": true,
-     "note": "Paulo cancelled Labor Day (Mon Sep 7) in a private message at 7:44am. Not yet processed in the scheduler as far as this run can tell.",
-     "quote": "We won’t need you guys to come on Labor Day!"
-    },
-    {
-     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
      "date": "Sep 22",
@@ -2860,16 +2800,6 @@
      "office": false,
      "note": "Second logged report of Milo pulling on the lead, this one from Drew Walker on the Sep 14 midday walk (the first was Sep 9, a different sitter). Drew walks Milo first, on his own, and puts the pulling down to meeting about four other dogs rather than to Milo. Two observations by two sitters, so worth watching, but still not written up anywhere as a standing rule.",
      "quote": "he pulled a lot today but we also encountered like 4 other dogs so it wasn’t really his fault"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Client message",
-     "office": false,
-     "note": "Milo is at daycare today, so he will not be home for the visit. Jade Popovitz acknowledged at 8:01am.",
-     "quote": "Milo will be at daycare today!"
     },
     {
      "cat": "behavior",
@@ -3243,26 +3173,6 @@
      "quote": "He does get allergies around this time"
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Ashley Corall 11:15am",
-     "office": false,
-     "note": "A #2 accident scattered over several spots was found in the basement on the morning visit and cleaned up. The sitter could not tell how long it had been there and photographed the area.",
-     "quote": "I’m not sure how long it had been there for it felt on the colder side."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Ashley Corall 11:15am",
-     "office": false,
-     "note": "No carpet cleaner findable in the house - the sitter looked for some to treat the basement accident and could not find any.",
-     "quote": "I searched for carpet cleaner but I couldn’t find anything"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -3571,16 +3481,6 @@
      "office": false,
      "note": "Client says Muffy pulls hard on lead for her - she hopes the heel work will let her walk Muffy without being dragged. Confirms from the owner's side that the leash pulling sitters have been working on is an ongoing trait, not a one-off. She also said Muffy loves her ball enough to fall asleep holding it.",
      "quote": "it gives me hope she will let me walk her without wildly dragging me all over the grounds"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Julie Smith visit report, Sep 2 evening",
-     "office": false,
-     "note": "First meeting with a new sitter: Muffy barked when she first saw her, then settled quickly on the walk and was friendly by the end. Worth expecting from any sitter new to her.",
-     "quote": "She barked at first when she saw me but quickly warmed up on the walk."
     }
    ],
    "dormant": false
@@ -3696,16 +3596,6 @@
     {
      "cat": "home",
      "sev": "high",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Josh Stone visit report, Sep 2 12:40pm",
-     "office": true,
-     "note": "Sitter found a lit candle burning in the home and blew it out, unsure whether it was meant to be left lit. Office should confirm with the client what sitters should do if they find one again.",
-     "quote": "There was a candle burning that I blew out."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
      "type": "standing",
      "date": "Aug 27",
      "source": "Megan Nickoli",
@@ -3762,16 +3652,6 @@
      "office": false,
      "note": "Owner explains the styrofoam on the floor that the sitter found and swept up on the Sep 8 visit: it came from her own late-night project, not from the dog getting into something.",
      "quote": "The styrofoam was all me, late night building a new rollable island, thank you so much for all you do!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 2",
-     "source": "Client message, 1:25pm",
-     "office": false,
-     "note": "Client thanked the sitter for blowing out the candle found burning during the midday visit, so extinguishing it was the right call. She did not say whether candles may be lit at future visits.",
-     "quote": "Thank you for putting the candle out!"
     }
    ],
    "dormant": false
