@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T15:20:07-04:00",
+ "generated": "2026-09-24T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4732,6 +4732,16 @@
      "office": true,
      "note": "Lauren replied with meet-and-greet availability ahead of her Oct 7 service start: Thursday Oct 1 or Friday Oct 2, evenings after 5:30pm, and she is also flexible next weekend during the day. Office needs to confirm a sitter and a time.",
      "quote": "Next week Thursday (10/1) or Friday (10/2) would work for us. Preferable times would be the evening after 5:30 pm."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Lauren Stuy private message, 4:01pm",
+     "office": true,
+     "note": "Meet-and-greet now confirmed for Friday Oct 2 at 5:30pm, ahead of service starting Oct 7. She and her husband expect to meet the sitters then - office still needs to assign and name who is attending.",
+     "quote": "Thanks, Miranda. Friday, 10/2, at 5:30 pm is great. My husband and I look forward to meeting with the sitters then."
     },
     {
      "cat": "behavior",
