@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T10:20:06-04:00",
+ "generated": "2026-09-24T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -993,6 +993,16 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Shannon Anderson visit report, 10:27am",
+     "office": false,
+     "note": "Chloe's stool was runny on this morning's walk. Single observation on an otherwise normal visit - she walked the usual route, went #1 twice, and the sitter reported no wheezing or distress. Worth watching for a repeat given her recent health run.",
+     "quote": "She went #1 twice and #2, which was a little runny this morning."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1050,16 +1060,6 @@
      "office": false,
      "note": "On arrival Chloe was at the top of the stairs already panting from barking. Echoes the Sep 7 report of her barking at the top of the stairs, but this one adds that she had worked herself into panting before the sitter was in the house.",
      "quote": "I arrived to Chloe at the top of the stairs and she was already panting from barking a whole lot"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Drew Walker visit report, Sep 14 2:16pm",
-     "office": false,
-     "note": "Second short walk for Chloe on Sep 14 - Drew Walker's afternoon walk did not get far, though she went #1 a couple of times and no #2 was logged. Harvett Ellington's morning report the same day also described a short walk. The report does not say why either walk was cut short, so the reason is unconfirmed; it echoes the Sep 11 short walk after which she was hacking and wheezing. Same report answers that the client was home during the visit and asked that the door not be locked.",
-     "quote": "I began my walk with Chloe where we didn’t make it too far but she went number 1 a couple times."
     }
    ],
    "dormant": false
@@ -3093,6 +3093,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 24",
+     "source": "Company Notes updated by Tiarra Roberts, 11:09am",
+     "office": false,
+     "note": "The outdoor leash rule changed this morning. Company Notes now say the unfenced backyard requires the green leash hanging on the back door; the previous wording allowed a leash or the long lead. Sitters should use the green leash rather than the long lead until told otherwise.",
+     "quote": "Backyard is NOT fenced — must use green leash hanging on back door"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -3111,6 +3121,16 @@
      "office": false,
      "note": "Company Notes now state the back yard is NOT fenced, so Oakley must be on a leash or the long lead any time he is outside. The long lead is at the house.",
      "quote": "Backyard is NOT fenced — must use leash or long lead (available)"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Company Notes updated by Tiarra Roberts, 11:08am",
+     "office": true,
+     "note": "The whole 'Be careful with back door' block was deleted from Company Notes at 11:08am - both the deadbolt caution and the take-shoes-off-inside instruction went with it. This is the second time in two days that back-door text has been removed. Office should confirm whether the removal was intended and restore the shoes-off rule if not.",
+     "quote": "Take shoes off, inside"
     },
     {
      "cat": "home",
