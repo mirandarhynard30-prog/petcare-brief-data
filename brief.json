@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T11:20:05-04:00",
+ "generated": "2026-09-24T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5532,7 +5532,8 @@
     "Weezy",
     "Frank",
     "Weezie",
-    "Frankie"
+    "Frankie",
+    "Weezie/Louise"
    ],
    "items": [
     {
@@ -5596,6 +5597,16 @@
      "quote": "No walks required, just backyard time only."
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Elizabeth Cuffari visit report",
+     "office": false,
+     "note": "Cleaning service was in the house at the midday visit and the dogs had been shut in the workout room; sitter let them out. One occurrence, not confirmed as a regular arrangement.",
+     "quote": "The pups were in the workout room ,so I let them out."
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -5644,16 +5655,6 @@
      "office": true,
      "note": "Two more pet records were added on Sep 13 - 'Frank' and 'Weezie or Louise' - while the account already lists the two French bulldogs as Weezy and Frank. Likely duplicate records rather than new animals; office should check and merge before the next visit so sitters are not shown four pets.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Shannon Anderson and Elizabeth Cuffari messages",
-     "office": false,
-     "note": "New client. Meet-and-greet held Sep 11 at about 4pm with Shannon Anderson and Elizabeth Cuffari. Pets are Weezy and Frank (Frank also called Frankie). No handling, access or feeding details appear in any message yet.",
-     "quote": "It was wonderful meeting everyone. Can't wait to start visiting with Weezy and Frankie"
     }
    ],
    "dormant": false
