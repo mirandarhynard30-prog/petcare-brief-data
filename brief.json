@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T07:20:06-04:00",
+ "generated": "2026-09-24T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -471,6 +471,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 24",
+     "source": "Renee Dougherty visit report, Sep 24 10:02am",
+     "office": true,
+     "note": "Gordy's stool still loose on the Sep 24 morning walk - the sitter marked consistency as a little loose but not concerning, and he went #2 three times on one walk around the block. This is the third consecutive day loose stool has been reported and no vet contact is recorded. Office should decide today whether to ask Anna Marie about a vet call.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 13",
      "source": "Chelsea Tompkins visit report, Sep 13 morning",
      "office": true,
@@ -576,16 +586,6 @@
      "office": false,
      "note": "Kitchen light rule: a light stays on overnight, the AM visit shuts it off, the PM visit turns lights on and leaves that one on. The bulb above the sink is blown and she cannot replace it. The middle switch in the laundry room by the back door is the outside garage lights.",
      "quote": "When the light is on in the am, shut it off when you leave."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Chelsea Tompkins visit report",
-     "office": false,
-     "note": "Sep 22 morning walk, the day after Gordy's Sep 21 appointment: he was excited and walked the usual route, went #2 twice. Sitter rated the stool a little loose but not concerning. Client was home.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -4682,6 +4682,16 @@
      "office": true,
      "note": "Client writes that service is scheduled to start October 7 while she is out of town, and asks for sitter availability next week to hold a meet and greet with the cats. Needs an office reply; no meet and greet is on the books yet.",
      "quote": "I’d like to get the meet and greet with the sitters scheduled. What is their availability next week to meet the cats?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Lauren Stuy private message, Sep 24 9:29am",
+     "office": true,
+     "note": "Lauren replied with meet-and-greet availability ahead of her Oct 7 service start: Thursday Oct 1 or Friday Oct 2, evenings after 5:30pm, and she is also flexible next weekend during the day. Office needs to confirm a sitter and a time.",
+     "quote": "Next week Thursday (10/1) or Friday (10/2) would work for us. Preferable times would be the evening after 5:30 pm."
     },
     {
      "cat": "behavior",
