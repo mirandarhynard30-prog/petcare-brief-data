@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T00:05:06-04:00",
+ "generated": "2026-09-24T09:05:06-04:00",
  "date": "2026-09-24",
  "label": "Sep 24, 2026",
  "clients": [
@@ -36,18 +36,6 @@
      "staff": "Dan Dantimo",
      "service": "Dog Visit-30 minute",
      "pets": "Guinness"
-    }
-   ]
-  },
-  {
-   "name": "Liz Wainio",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Thomas Rakovec",
-     "service": "Dog Visit-45 minute",
-     "pets": "Stella, Berry, Emma, Louie"
     }
    ]
   },
@@ -162,5 +150,5 @@
    ]
   }
  ],
- "visitCount": 14
+ "visitCount": 13
 }
