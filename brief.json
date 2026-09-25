@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T17:20:05-04:00",
+ "generated": "2026-09-25T18:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -206,6 +206,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 25",
+     "source": "Client private message, 6:06pm",
+     "office": true,
+     "note": "Move plan has changed and the client is asking the office a direct question that is still unanswered. They do not have the new apartment yet, so the tentative plan is a hotel/motel in Macedonia for a week. She asks whether it is worth doing a meet and greet plus one walk a day for that week, or waiting until the new place, and says she is unsure which is best. This follows her Sep 21 message cancelling the meet and greet at the new place. No dates are confirmed and no service is booked - a decision from the office is needed before anything can be scheduled.",
+     "quote": "our current plan is to stay at a hotel/motel in macedonia for the week"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 23",
      "source": "Client message replying to Shannon Anderson, Sep 23 10:11am ET",
      "office": true,
@@ -251,6 +261,16 @@
      "office": false,
      "note": "About halfway through outside time in the fenced back yard Puck stood at the door and whined to go in; the sitter tried more attention and pets, it did not help, and she finished the play time indoors. Rusty was fine and played fetch. The report flags no accidents, no low supplies and no discomfort or other symptom, so the reason Puck wanted in is not stated - it may be nothing. One visit, one sitter.",
      "quote": "Puck began to stand near the door and whine as if she wanted to go inside"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Client private message, 6:07pm",
+     "office": true,
+     "note": "One minute after the hotel-week message the client sent a second message asking whether it would start next Thursday. It is phrased as a question, not a statement, so the start date is proposed and unconfirmed. Next Thursday from Fri Sep 25 is Oct 1. Office needs to confirm the date as part of answering the hotel-week question.",
+     "quote": "Starting next thursday-?"
     },
     {
      "cat": "behavior",
@@ -301,26 +321,6 @@
      "office": true,
      "note": "Confirms Sunday 5pm works. Next week she is at the current house; the week of the 28th and after may be split between locations and she will confirm. Office should log which address applies to which visit.",
      "quote": "Yes sunday at 5pm works great. For next week we will be at the current house."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Shannon Anderson message to client, 3:04pm",
-     "office": false,
-     "note": "Follow-up to the brown discharge found in Puck's left ear earlier today: Shannon Anderson tried to look inside the ear and Puck would not allow it. Shannon also notes Rusty was pushing her nose into the smell. No vet advice was given in the message.",
-     "quote": "I tried to actually look inside her ear but she refused to let me look."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Client message, 2:54pm",
-     "office": false,
-     "note": "Mary answered the ear report herself and says she will flush Puck's ears out. That closes the earlier request for a decision from the office, though nobody has confirmed whether she wants a vet look.",
-     "quote": "Ill flush her ears out!! Thanks so much."
     }
    ],
    "dormant": false
