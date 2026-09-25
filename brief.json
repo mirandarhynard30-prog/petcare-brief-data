@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T09:20:06-04:00",
+ "generated": "2026-09-25T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -481,6 +481,26 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 25",
+     "source": "Kathy Pastor message 10:11am Sep 25",
+     "office": false,
+     "note": "Resolution of the missed dose earlier today - Sampson DID get his pill on the Sep 25 morning visit. Kathy opened a new can of wet food, put the pill in it and set some churu next to it on a plate; she watched him eat it, and he stopped eating once he realised, so he had tasted it.",
+     "quote": "put the pill in there put some churro next to it on a plate and he finally ate it!"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 25",
+     "source": "Client message 9:43am Sep 25",
+     "office": false,
+     "note": "Client's instruction after the missed dose: stop using pill pockets for Sampson. Her 9:43am message reads as quoted and she corrected it a minute later with a single word, 'Wouldn't', so the intent is that she would NOT try the pill pocket any more. Use the wet-food method instead.",
+     "quote": "I think if I were you, I would try the pill pocket anymore."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 24",
      "source": "Renee Dougherty visit report, Sep 24 10:02am",
      "office": true,
@@ -556,26 +576,6 @@
      "office": false,
      "note": "Same Sep 25 morning visit: three poops cleaned up in the dining room, one throw up in the laundry room and pee in the hallway. Both litter boxes were empty but there was a little discolouration in one corner of the laundry box, and the mat in front of it was changed. Continues the pattern of Sampson going outside the boxes.",
      "quote": "I cleaned up three poops in the dining room and one throw up in the laundry room."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Kathy Pastor visit report and client reply, Sep 23 morning",
-     "office": false,
-     "note": "Sep 23 morning walk: Gordy went #2 four times and the consistency field was answered 'It was a little loose but not concerning'. Anna Marie replied that she thinks the four stools follow him not eating Monday morning and not eating until later that day, and that he ate everything Tuesday including Sampson's food when he got the chance. Third straight day the stool has been logged loose (Sep 22 and Sep 23); no vet contact mentioned.",
-     "quote": "Maybe the 4 times 💩 was because he couldn't eat Monday morning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Renee Dougherty visit report",
-     "office": false,
-     "note": "Sep 21 morning walk: sitter gave Gordy no treats because of a procedure and no food. Client says she leaves around 12:15 for his 1pm appointment today. The report's wording ('he had his procedure') is ambiguous - most likely he was fasting before today's appointment; the emails do not say what the procedure is. Stool was a little loose but not concerning. Check for aftercare instructions before the next visit.",
-     "quote": "He couldn’t have any treats because he had his procedure and couldn’t have food."
     }
    ],
    "dormant": false
@@ -896,6 +896,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 25",
+     "source": "Client message 9:17am Sep 25",
+     "office": true,
+     "note": "Melody messaged at 9:17am on Sep 25 to say Chloe does not need walking today because they are at home. No reply or portal cancellation notice had come through as of 10:15am, so today's walk still needs cancelling in the system.",
+     "quote": "If it's not too late, Chloe doesn't need walking today. We are at home."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 18",
      "source": "Client message, 8:58am",
      "office": true,
@@ -1000,16 +1010,6 @@
      "office": false,
      "note": "Chloe completed a full normal walk on Sep 16 with no wheezing, hacking or early finish recorded, and her stool was logged firm and healthy. That breaks the run of short or cut-short walks on Sep 11, Sep 14 and Sep 15. The sitter found her napping upstairs and carried her down.",
      "quote": "We had a nice walk, went numbers one and two."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Drew Walker visit report, Sep 15 1:56pm",
-     "office": false,
-     "note": "On arrival Chloe was at the top of the stairs already panting from barking. Echoes the Sep 7 report of her barking at the top of the stairs, but this one adds that she had worked herself into panting before the sitter was in the house.",
-     "quote": "I arrived to Chloe at the top of the stairs and she was already panting from barking a whole lot"
     }
    ],
    "dormant": false
