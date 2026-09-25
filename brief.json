@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T12:20:05-04:00",
+ "generated": "2026-09-25T13:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -670,6 +670,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Ashley Corall visit report",
+     "office": false,
+     "note": "Rex slipped out of his harness on the client's own street while he and CJ were wrestling, and ran loose to the front porch. He did not respond to being called. Sitter says he is unhurt, the street was quiet, and both dogs were crated and secure at the end of the visit. Harness was not broken.",
+     "quote": "Rex completely slipped his harness and went running straight home to the front porch"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -698,6 +708,16 @@
      "office": true,
      "note": "Both Rex and CJ passed foil in their stool on the Sep 22 walk. The report does not say where the foil came from or how much.",
      "quote": "They both had some sort of foil in their number 2 today."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Ashley Corall visit report",
+     "office": true,
+     "note": "Sitter asks the office two things after the harness slip: whether Rex has a recall command the household uses, and suggests his harness may need tightening. Both unanswered as of this run.",
+     "quote": "I also checked the harness and nothing was broken so maybe it may need to be tightened a little bit it more."
     },
     {
      "cat": "behavior",
@@ -768,16 +788,6 @@
      "office": false,
      "note": "Owner points sitters to small water bottles kept in the outside refrigerator and a collapsible bowl on top of CJ's crate, to take on walks if the boys get thirsty. Offered because the week is muggy.",
      "quote": "There a collapse-able bowl on top of CJ’s crate you take along."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Visit report - Ashley Corall",
-     "office": false,
-     "note": "Sep 21 visit: Rex's stool was a little loose; the checklist logs it as 'a little loose but not concerning'. CJ's was firm. Walk was shortened because of rain.",
-     "quote": "Rex’s seemed a little loose today."
     }
    ],
    "dormant": false
@@ -2343,6 +2353,16 @@
      "note": "Feeding amounts as they now stand in Company Notes: 2 scoops dry kibble (pantry, bottom left), 2 scoops Nutra Complete from the fridge using the same scoop, 1/3 bag Farmers Dog from the fridge, splash of water mixed in. An older version said 1 scoop Nutra Complete, so the current figure is double.",
      "quote": "2 scoops Nutra Complete - fridge (use same scoop)",
      "source": "Tiarra Roberts, Company Notes edit"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Ripley's stool on this visit logged as a little loose but not concerning; otherwise a normal walk and she ate/drank fine. One reading only.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -2821,6 +2841,26 @@
      "office": false,
      "note": "Second logged report of Milo pulling on the lead, this one from Drew Walker on the Sep 14 midday walk (the first was Sep 9, a different sitter). Drew walks Milo first, on his own, and puts the pulling down to meeting about four other dogs rather than to Milo. Two observations by two sitters, so worth watching, but still not written up anywhere as a standing rule.",
      "quote": "he pulled a lot today but we also encountered like 4 other dogs so it wasn’t really his fault"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Milo pulled on the leash and the sitter had to keep guiding him off it. One observation from one sitter.",
+     "quote": "He was pulling so I had to guide him to stop pulling so much he did good!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "How this sitter ran the visit: Milo out of his crate and leashed first to burn energy, Archer taken out separately afterwards, Milo back in the crate at the end. Describes one visit, not a confirmed standing instruction.",
+     "quote": "I came in and let Milo out the crate to run around while I got his leash together!"
     },
     {
      "cat": "behavior",
@@ -5554,7 +5594,8 @@
     "Frank",
     "Weezie",
     "Frankie",
-    "Weezie/Louise"
+    "Weezie/Louise",
+    "Louise"
    ],
    "items": [
     {
@@ -5618,6 +5659,36 @@
      "quote": "No walks required, just backyard time only."
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Elizabeth Sigler visit report",
+     "office": false,
+     "note": "Louise was wary of this sitter at first and warmed up over the course of the visit; Frank was immediately affectionate. One visit, one sitter - not recorded as a standing rule.",
+     "quote": "At first, Louise wasn’t so sure of me. But after I’d been here for a little while she let me give her some pets."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Elizabeth Sigler visit report",
+     "office": false,
+     "note": "Sitter cleaned up an indoor potty accident on this visit. The report does not say which dog.",
+     "quote": "I cleaned up a potty accident"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Elizabeth Sigler visit report",
+     "office": false,
+     "note": "A potted plant on the outdoor table had fallen over; sitter righted it and sent before/after photos. She did not think a dog knocked it over but could not tell. Water fountain checked and working.",
+     "quote": "I did my best to pick up a plant that had fallen over off of the table outside."
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -5646,36 +5717,6 @@
      "office": false,
      "note": "Weezie was very vocal again on the Sep 21 morning visit (also noted Sep 18). Both dogs went #1; Frank also went #2, firm. Sitter enters through the garage and makes sure the garage is closed before opening the house door.",
      "quote": "Wheezy was very vocal today."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Kathy Sullenberger visit report",
-     "office": false,
-     "note": "Weezie vocal/barking through the visit; sitter notes 'again', so not the first time. Weezie did not pee this visit; Frankie went #1. Shannon Anderson, on the same visit, separately described Weezie barking until she got attention. Name is spelled Weezie/Wheezie/Wheezy across reports - same dog.",
-     "quote": "Weezie is very vocal again but with love. She did not pee either."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Kathy Sullenberger and Elizabeth Cuffari visit reports, Sep 17 11:30am",
-     "office": false,
-     "note": "Kathy Sullenberger shadowed Elizabeth Cuffari on this visit and says she expects to be back tomorrow. Weezie would not go #1 with a new person present - both sitters put it down to her being distracted by Kathy. Weezie did come outside and was vocal. Backyard only, both got treats.",
-     "quote": "Only Frankie did #1. Weezie was not interested."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Client pet records added, 10:03am and 10:05am",
-     "office": true,
-     "note": "Two more pet records were added on Sep 13 - 'Frank' and 'Weezie or Louise' - while the account already lists the two French bulldogs as Weezy and Frank. Likely duplicate records rather than new animals; office should check and merge before the next visit so sitters are not shown four pets.",
-     "quote": ""
     }
    ],
    "dormant": false
