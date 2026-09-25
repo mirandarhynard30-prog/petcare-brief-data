@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T14:20:05-04:00",
+ "generated": "2026-09-25T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -246,6 +246,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 25",
+     "source": "Elizabeth Sigler visit report, Sep 25 11:51am",
+     "office": false,
+     "note": "About halfway through outside time in the fenced back yard Puck stood at the door and whined to go in; the sitter tried more attention and pets, it did not help, and she finished the play time indoors. Rusty was fine and played fetch. The report flags no accidents, no low supplies and no discomfort or other symptom, so the reason Puck wanted in is not stated - it may be nothing. One visit, one sitter.",
+     "quote": "Puck began to stand near the door and whine as if she wanted to go inside"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 23",
      "source": "Shannon Anderson visit report",
      "office": false,
@@ -311,16 +321,6 @@
      "office": false,
      "note": "Mary answered the ear report herself and says she will flush Puck's ears out. That closes the earlier request for a decision from the office, though nobody has confirmed whether she wants a vet look.",
      "quote": "Ill flush her ears out!! Thanks so much."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Client private message 5:03pm",
-     "office": true,
-     "note": "Mary asks to set up a meet and greet at the new place, Sunday Sep 27 or Monday Sep 28. She says she has not signed the lease yet and may take Monday off work. Unanswered so far.",
-     "quote": "i was hoping we could set up a meet and greet on sunday the 27th or monday the 28th"
     }
    ],
    "dormant": false
@@ -2080,6 +2080,16 @@
      "office": false,
      "note": "The second dog in the home can react to other dogs by barking and pulling.",
      "quote": "Macy can be dog reactive (barking and pulling)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Monica Hopewell visit report, Sep 25 9:58am",
+     "office": false,
+     "note": "Monica says her previous two walks with Murphy wore him out completely, and on Sep 25 she used the main loop Ashley showed her instead. He was in a sniffing mood and needed a lot of encouragement to keep moving. Went both #1 and #2, firm and healthy. Client was home and asked that the door not be locked. The sitter's own assessment of her earlier walks, not a client instruction.",
+     "quote": "instead of going crazy and wearing him completely out"
     },
     {
      "cat": "health",
