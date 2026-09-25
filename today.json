@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T00:06:32-04:00",
+ "generated": "2026-09-25T09:35:07-04:00",
  "date": "2026-09-25",
  "label": "Sep 25, 2026",
  "clients": [
@@ -11,6 +11,13 @@
      "sort": "0800",
      "staff": "Kathy Pastor",
      "service": "Cat Visit-30 Minutes",
+     "pets": "Sampson"
+    },
+    {
+     "time": "9:30 AM",
+     "sort": "0930",
+     "staff": "Kathy Pastor",
+     "service": "Cat Visit-20 Minutes",
      "pets": "Sampson"
     }
    ]
@@ -95,18 +102,6 @@
    ]
   },
   {
-   "name": "Liz Wainio",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Thomas Rakovec",
-     "service": "Dog Visit-45 minute",
-     "pets": "Stella, Berry, Emma, Louie"
-    }
-   ]
-  },
-  {
    "name": "Lynne  Reno",
    "visits": [
     {
@@ -174,25 +169,6 @@
    ]
   },
   {
-   "name": "Melody Siska",
-   "visits": [
-    {
-     "time": "10:30 AM",
-     "sort": "1030",
-     "staff": "Kiara Streety",
-     "service": "Dog Visit-30 minute",
-     "pets": "chloe"
-    },
-    {
-     "time": "2:00 PM",
-     "sort": "1400",
-     "staff": "Harvett Ellington",
-     "service": "Dog Visit-30 minute",
-     "pets": "chloe"
-    }
-   ]
-  },
-  {
    "name": "Paulo Garcia",
    "visits": [
     {
@@ -248,5 +224,5 @@
    ]
   }
  ],
- "visitCount": 22
+ "visitCount": 20
 }
