@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T10:20:06-04:00",
+ "generated": "2026-09-25T11:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -501,6 +501,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 25",
+     "source": "Kathy Pastor visit report 10:23am",
+     "office": true,
+     "note": "SUPPLY: Kathy's full Sep 25 morning visit report says she went through about five pills getting one into Sampson and there are now no half pills left in the house. Whoever covers the next dose has nothing pre-split to work with. Needs an office call to the client today.",
+     "quote": "I tried so many pills that there are no more half pills left."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 24",
      "source": "Renee Dougherty visit report, Sep 24 10:02am",
      "office": true,
@@ -566,16 +576,6 @@
      "office": false,
      "note": "The client says there are some male dogs Gordy does not like, and that she thinks he made Margaret fall when he saw one of them. She places that incident a while ago and does not date it.",
      "quote": "There are some boy dogs he doesn't like."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Visit report from Kathy Pastor, Sep 25 8:54am",
-     "office": false,
-     "note": "Same Sep 25 morning visit: three poops cleaned up in the dining room, one throw up in the laundry room and pee in the hallway. Both litter boxes were empty but there was a little discolouration in one corner of the laundry box, and the mat in front of it was changed. Continues the pattern of Sampson going outside the boxes.",
-     "quote": "I cleaned up three poops in the dining room and one throw up in the laundry room."
     }
    ],
    "dormant": false
@@ -1726,6 +1726,16 @@
      "office": false,
      "note": "Client spells out the difference between the two dogs if one gets loose: Nova comes back when called, Astra bolts. She says the dogs have halo collars for this but they were on charge the last time Astra got out. She agrees to a garage hand-off going forward, so sitters should take and return the dogs through the garage rather than the front door.",
      "quote": "nova comes straight back when called, but astra will bolt"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Monica Hopewell visit report 10:44am",
+     "office": false,
+     "note": "On the Sep 25 morning walk Astra turned back toward someone near the stop sign, wrapped her leash around the post and was badly startled. Single incident, not a standing rule, but worth knowing given the existing escape-risk note that Astra bolts if she gets loose. She went #1 only, no #2.",
+     "quote": "her leash got wrapped around the stop sign and it spooked her so bad"
     },
     {
      "cat": "behavior",
