@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T13:35:06-04:00",
+ "generated": "2026-09-25T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -722,6 +722,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Client Terry M message to Ashley Corall, Sep 25 afternoon",
+     "office": false,
+     "note": "Client (Toni) responded to today's harness escape: she will adjust Rex's harness this weekend and see if she can make it stay on, and may buy a new one. Nothing has been changed yet, so sitters should assume Rex can still back out of the harness he is wearing. She attributes his built-up energy to the wet weather and a soggy back yard he has not been allowed to run in, and says she gave the dogs a brief walk around the cul-de-sac this morning to settle him. She did not answer the sitter's question about a recall command.",
+     "quote": "I’ll adjust his harness and walk him this weekend and see how I can make it stay on"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Sep 23",
      "source": "Terry M message to Ashley Corall, 1:14pm",
@@ -778,16 +788,6 @@
      "office": false,
      "note": "Client (Toni) says the boys lick and asks sitters to watch out for it; she is working on the licking and jumping. Handling note, not a correction request.",
      "quote": "just watch out for the licking lol. We are working on it!! Work in progress!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 31",
-     "source": "Client message from Toni, Aug 31 afternoon",
-     "office": false,
-     "note": "Owner points sitters to small water bottles kept in the outside refrigerator and a collapsible bowl on top of CJ's crate, to take on walks if the boys get thirsty. Offered because the week is muggy.",
-     "quote": "There a collapse-able bowl on top of CJ’s crate you take along."
     }
    ],
    "dormant": false
