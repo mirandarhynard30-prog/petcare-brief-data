@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T22:20:06-04:00",
+ "generated": "2026-09-25T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -339,6 +339,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 25",
+     "source": "Client message from Liz Wainio, Sep 25 8:22am",
+     "office": true,
+     "note": "Liz messaged at 8:22am to say she is home from work again today and would submit a cancellation request. A separate portal Service Change notice at 8:32am shows a cancellation for Friday Sep 25 11:00-11:45am Dog Visit. Third such same-day cancellation this month; office needs to process it and confirm the visit is off.",
+     "quote": "Good morning, sorry for the late notice. I will be home again today."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 24",
      "source": "Client message, 4:54am Sep 24",
      "office": true,
@@ -374,26 +384,6 @@
      "office": false,
      "note": "Louie has an ongoing hurt leg/hip that Thomas says still hurts him a lot. He handles it by giving Louie breaks and avoiding picking him up; when he has to lift him he goes very slowly. Thomas offered this as his own explanation for Louie's grumpiness after the client asked about it - it is his account, not a vet assessment.",
      "quote": "I try not to pick him up at all cause of it"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client message, Sep 3 6:57am",
-     "office": true,
-     "note": "Liz cancels today's visits because she is not going into work. A portal cancellation followed at 7:06am for the 11:30-12:15 45-minute dog visit; her message says visits plural, so check whether anything else today also needs pulling. Thomas Rakovec replied at 7:08am so the sitter is aware, but the cancellation still needs processing.",
-     "quote": "I need to cancel the pups visits for today. I am not going into work today."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client private message",
-     "office": true,
-     "note": "Client is off work Fri Sep 4 and Mon Sep 7 and says she will enter the cancellation requests herself; she expects visits to resume Tue Sep 8. Office should confirm both cancellations actually came through.",
-     "quote": "I will be off Monday too for the holiday. I will enter the cancellation requests now."
     },
     {
      "cat": "home",
@@ -470,6 +460,26 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Sep 25",
+     "source": "Client message from Anna Marie LeMaster, Sep 25 9:07am",
+     "office": false,
+     "note": "Client's own method for Sampson's pill: give it with his soft food, a little of the food under the pill and some on top, and keep adding soft food over a few tries until he takes it. She says a pill pocket only works if given a little at a time while watching him, because he is good at spitting the pill out. She stresses the dose must not be skipped.",
+     "quote": "He can't go without his pill!"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Visit report from Kathy Pastor, Sep 25 8:54am",
+     "office": true,
+     "note": "Sampson did not get his pill at the Sep 25 morning visit. Kathy gave the half pill in a pill pocket; he ate most of the pocket but left the part containing the pill, and refused a second half pocket. He was fed his canned and crunchy food and treats were changed out. The dose is missed for that visit.",
+     "quote": "So sorry I couldn't get him to take his pill."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Sep 24",
      "source": "Renee Dougherty visit report, Sep 24 10:02am",
@@ -541,6 +551,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 25",
+     "source": "Visit report from Kathy Pastor, Sep 25 8:54am",
+     "office": false,
+     "note": "Same Sep 25 morning visit: three poops cleaned up in the dining room, one throw up in the laundry room and pee in the hallway. Both litter boxes were empty but there was a little discolouration in one corner of the laundry box, and the mat in front of it was changed. Continues the pattern of Sampson going outside the boxes.",
+     "quote": "I cleaned up three poops in the dining room and one throw up in the laundry room."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 23",
      "source": "Kathy Pastor visit report and client reply, Sep 23 morning",
      "office": false,
@@ -556,36 +576,6 @@
      "office": false,
      "note": "Sep 21 morning walk: sitter gave Gordy no treats because of a procedure and no food. Client says she leaves around 12:15 for his 1pm appointment today. The report's wording ('he had his procedure') is ambiguous - most likely he was fasting before today's appointment; the emails do not say what the procedure is. Stool was a little loose but not concerning. Check for aftercare instructions before the next visit.",
      "quote": "He couldn’t have any treats because he had his procedure and couldn’t have food."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 19",
-     "source": "Anna Marie LeMaster has sent you a new message",
-     "office": false,
-     "note": "Client explains Sampson's litter habits: he uses the dining room box only sometimes and has not used the automatic box in a long time. She changed the litter and cleaned the back filter on Sep 19 and showed him the auto box; he was not interested. Do not expect him to use the automatic box.",
-     "quote": "Sometimes he uses the litter box in the dining room and sometimes he doesn't!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Renee Dougherty visit report",
-     "office": false,
-     "note": "Sep 18 morning visit: Sampson used the litter box but also left 2 poops outside it, plus a small vomit/hairball on the hallway floor. Renee saw no urine and cleaned up both messes. He took his pill, ate wet and dry food, water dumped and refreshed, litter boxes scooped, no supplies low.",
-     "quote": "He had a little bit of vomit/hairball on the floor in the hallway."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 18",
-     "source": "Client",
-     "office": false,
-     "note": "Kitchen light rule: a light stays on overnight, the AM visit shuts it off, the PM visit turns lights on and leaves that one on. The bulb above the sink is blown and she cannot replace it. The middle switch in the laundry room by the back door is the outside garage lights.",
-     "quote": "When the light is on in the am, shut it off when you leave."
     }
    ],
    "dormant": false
@@ -708,16 +698,6 @@
      "office": true,
      "note": "Both Rex and CJ passed foil in their stool on the Sep 22 walk. The report does not say where the foil came from or how much.",
      "quote": "They both had some sort of foil in their number 2 today."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Terry M private message, 1:42pm",
-     "office": true,
-     "note": "Terry wrote asking to be removed from services on Tuesday Sep 8, the day after Labor Day, because he is off work that day. Needs taking off the schedule and a reply.",
-     "quote": "I will be off work next Tuesday after Labor Day. Can you please remove us from services that day as well."
     },
     {
      "cat": "behavior",
@@ -898,36 +878,6 @@
      "office": true,
      "note": "In her full report on the visit where she again found the garage door open, Margaret says she closed the garage but did not lock the interior door into the condo. The property may have been left with that inside door unlocked after the visit.",
      "quote": "I shut it, but didn't lock that inside door."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client private message, Sep 3 6:30am",
-     "office": true,
-     "note": "Carol says the noon walker visit today is not needed and today should be the 4:00 only. Today is Thursday, so this settles part of the Thursday 4:00 add-on she asked for on Aug 31, which was still unbuilt. The noon visit needs pulling off the schedule and the sitter told before she drives out.",
-     "quote": "I do not need a Walker here at 12 today, just 4!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Margaret Bill message to client, Sep 3 11:45am",
-     "office": true,
-     "note": "Margaret Bill messaged Carol at 11:45am giving an ETA of noon for today's midday visit - the same visit Carol asked to drop in her 6:30am message. The noon walker had still not been pulled from the schedule when this run swept the mailbox.",
-     "quote": "Hi Carol! My eta is noon. I'll see you then."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Margaret Bill visit report, 12:38pm",
-     "office": true,
-     "note": "The noon visit Carol asked to cancel in her 6:30am message went ahead - Margaret's post-visit report shows she walked Lucy with Angela home. The cancellation was never processed; office should decide how this visit is billed and confirm the 4:00 is still on.",
-     "quote": "Angela was in the dining room when I came up. Lucy was ready to go for her walk."
     }
    ],
    "dormant": false
@@ -1768,16 +1718,6 @@
      "quote": "we should forgo the walk today. The weather is being finicky"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client private message 3:58pm",
-     "office": true,
-     "note": "Client confirms Tue Sep 8 works for her, conditional on staffing - office needs to assign a sitter and confirm back. Follows her Sep 2 portal cancellation of the Sep 2 10:30-11:00 visit.",
-     "quote": "The 8th looks good if anyone is available"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -2009,26 +1949,6 @@
      "office": false,
      "note": "For tonight's visit only, Marcella says she will leave the front door open and the sitter should walk straight in rather than knock or wait. She is home during the visit.",
      "quote": "I will open front door. So come in."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client text message 3:24pm",
-     "office": true,
-     "note": "Client accepts Mon Sep 14. She adds that next week is taken up by workers on her rental unit - it is not stated whether that means she needs no visits next week, so the office should confirm both the 14th and next week's coverage.",
-     "quote": "The 14th looks good."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client text message 3:29pm",
-     "office": false,
-     "note": "Ongoing work in the home this week: carpet installer in the family room Sep 3, painters still coming but only at night, and her niece and fiance arriving around noon Sep 4. Sitters should expect other people in the house and doors being opened.",
-     "quote": "Carpet guy coming to do family room today."
     },
     {
      "cat": "schedule",
@@ -3967,16 +3887,6 @@
      "quote": "Allergies: Frank - Grain allergy"
     },
     {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Time To Pet profile update notice",
-     "office": true,
-     "note": "Stephanie updated her own profile in Time To Pet at 2:49pm: her service address changed from Strongsville to Parma Heights (the new street address is in her client record, not repeated here), and her primary emergency contact changed to a different person, now listed as her brother, with a new phone number. Office needs to confirm the new address and contact before the next visit is dispatched.",
-     "quote": ""
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -4108,16 +4018,6 @@
      "office": false,
      "note": "Ted is now to be walked back up onto the porch rather than allowed to run or jump up - client says his vision has made him clumsier since the last booking.",
      "quote": "we are now walking Ted back up on the porch instead of letting him run/jump"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 3",
-     "source": "Client message",
-     "office": false,
-     "note": "For the Sep 4 visit the client's cousin will set out Ted's and Roo's pills in the morning. Client says Roo gets one pill and Ted continues his normal ones; no dosing details given beyond that.",
-     "quote": "My cousin will set out Ted and Roo’s pills for you in the morning."
     },
     {
      "cat": "home",
