@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T18:20:06-04:00",
+ "generated": "2026-09-25T19:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -216,6 +216,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 25",
+     "source": "Client private message 6:48pm",
+     "office": true,
+     "note": "Follow-up to her 6:06pm hotel-week question, and it is still a question, not a booking. She asks the office to check whether Margaret can do a meet and greet at the Macedonia hotel on Thursday Oct 1, 5-7pm. Nothing is on the schedule for it and no one has replied.",
+     "quote": "maybe ask Margaret for thurs the 1st 5-7pm? If thats possible for her?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 23",
      "source": "Client message replying to Shannon Anderson, Sep 23 10:11am ET",
      "office": true,
@@ -273,6 +283,26 @@
      "quote": "Starting next thursday-?"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Client private message 6:48pm",
+     "office": true,
+     "note": "Her coming week is now split: the first half stays as normal and the back half is undecided pending the hotel plan. She writes Mon-wed and thurs-sat without dates; in context that reads as Sep 28-30 normal and Oct 1-3 unresolved, but she did not state the dates so treat the mapping as inferred.",
+     "quote": "Yes, Mon-wed like normal. Unclear about thurs-sat"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Client private message 6:48pm",
+     "office": true,
+     "note": "Client agrees to a SECOND meet and greet once the family is in the new apartment, separate from any hotel-week meet and greet. This replaces the meet and greet she cancelled on Sep 21. No date proposed for it.",
+     "quote": "Agreed about doing another meet and greet when we get to the new apt!"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -291,36 +321,6 @@
      "office": false,
      "note": "Mary replied to Shannon Anderson's evening report and gave sitters permission to move the blankets away from Rusty's crate. Follows the same evening's report of Rusty pulling blanket corners into her crate while the house is being packed. Mary did not say how long the packing lasts.",
      "quote": "Youre totally fine to move the blankets!! Thanks :)"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Elizabeth Sigler post-visit report, Sep 22",
-     "office": false,
-     "note": "Sep 22 midday visit: the sitter put out fresh water but could not get Puck to drink any. The sitter noted Puck seemed fine otherwise. No other symptoms reported in this visit.",
-     "quote": "Despite my best efforts, I couldn’t get Puck to drink any. She seemed fine otherwise!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Client private message",
-     "office": true,
-     "note": "Mary asks us to cancel the meet and greet at the new place. She says 'Sunday'; the earlier messages had narrowed it to Monday Sep 28, so confirm which booking she means. They will not have the keys to the new place until the beginning of October.",
-     "quote": "Hi miranda, you can cancel the meet and greet for sunday. We wont have the keys til beginning of october."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Mary Gilmore private message",
-     "office": true,
-     "note": "Confirms Sunday 5pm works. Next week she is at the current house; the week of the 28th and after may be split between locations and she will confirm. Office should log which address applies to which visit.",
-     "quote": "Yes sunday at 5pm works great. For next week we will be at the current house."
     }
    ],
    "dormant": false
@@ -3027,6 +3027,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 25",
+     "source": "Dan Dantimo evening report 6:43pm",
+     "office": false,
+     "note": "Holly went #1 and #2 on the Sep 25 evening walk and the consistency field was answered as slightly loose. The sitter judged it not concerning. Single reading, no other symptoms noted. Worth a second look at the next visit rather than action now.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 24",
      "source": "Dan Dantimo visit report, Sep 24 6:50pm",
      "office": false,
@@ -3082,16 +3092,6 @@
      "office": false,
      "note": "Holly's Sep 19 evening walk with Dan Dantimo: she went both #1 and #2, and the report's consistency answer is again 'It was a little loose but not concerning'. That is six evenings running with soft or loose stool logged for Holly (Sep 14, 15, 16, 17, 18, 19). Nothing in the mailbox shows anyone raising it with Lynne. Lynne was home during the visit.",
      "quote": "She did go number one on our walk and did great today as we headed for home"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Dan Dantimo visit report, Sep 18 6:29pm",
-     "office": true,
-     "note": "Holly, Sep 18 evening walk with Dan Dantimo - the report's #2 consistency answer was again the sitter's standard wording for a little loose but not concerning. That makes three evenings running after the Sep 16 soft stool and the Sep 17 loose stool. Lynne was home during the visit. NOTE FOR THE OFFICE: this exact item was handed off on the two previous runs and has still not appeared in the published brief - its dedup key collided with Deb Ward's identical Sep 18 form answer, so the quote is deliberately left empty here.",
-     "quote": ""
     }
    ],
    "dormant": false
