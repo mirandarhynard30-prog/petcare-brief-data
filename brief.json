@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T15:20:05-04:00",
+ "generated": "2026-09-25T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -732,6 +732,26 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Client private message, 1:39pm",
+     "office": true,
+     "note": "Following up on today's harness escape, the client says there are no concerns or worries and no fault to Ashley, and asks the office to pass that on to her. This answers the open point from the escape; the sitter had not been told as of this run.",
+     "quote": "Please tell Ashley all is good"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Client private message, 1:39pm",
+     "office": false,
+     "note": "Client explains Rex is high energy and still in a puppy stage with energy built up from the recent wet weather, and that the household has not been letting him run through the back yard because the ground by the shed is a muddy mess. Stated as the household's own practice, not given as a sitter instruction, so treat it as background rather than a standing rule.",
+     "quote": "back by the shed area is just a muddy mess"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Sep 23",
      "source": "Terry M message to Ashley Corall, 1:14pm",
@@ -768,26 +788,6 @@
      "office": false,
      "note": "Going out the back deck Rex was ready and CJ was not, and Rex fell down the deck stairs. The report describes the rest of the walk as normal and does not mention any injury. One of the two is also harder to harness than the other.",
      "quote": "Rex basically fell down the stairs of the back deck"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 2",
-     "source": "Client message (Toni), 1:13pm",
-     "office": false,
-     "note": "On very hot days the client says a walk is not required - letting the dogs out back to do their business and come straight back into the AC is fine.",
-     "quote": "Days like today, you don’t necessarily need or have to walk them"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 1",
-     "source": "Client message from Toni",
-     "office": false,
-     "note": "Client (Toni) says the boys lick and asks sitters to watch out for it; she is working on the licking and jumping. Handling note, not a correction request.",
-     "quote": "just watch out for the licking lol. We are working on it!! Work in progress!"
     }
    ],
    "dormant": false
@@ -1460,6 +1460,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 25",
+     "source": "Client private message, 3:53pm",
+     "office": true,
+     "note": "Client is retrying the Michigan day trip on Monday Sep 28 - away 7am to about 5:30pm - and wants 3 visits spaced no more than 4 hours apart. She asks whether she should submit the request herself or the office will enter it. That question was unanswered in the mailbox at the time of this run.",
+     "quote": "We will be gone from 7 am to approx 5:30 pm. I would like 3 visits no more than 4 hours apart."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 21",
      "source": "Client message",
      "office": true,
@@ -1527,6 +1537,16 @@
      "quote": "Check side, back gate is CLOSED (left corner) before letting them out"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Client private message, 4:08pm",
+     "office": true,
+     "note": "Fifteen minutes after the trip request she wrote this, which suggests someone in the office answered her inside Time To Pet. No reply is visible in this mailbox, so whether the three Monday visits are actually on the schedule is unconfirmed.",
+     "quote": "Looks good. Thank you"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -1555,26 +1575,6 @@
      "office": true,
      "note": "About a minute after the complaint, Regina wrote that she will be home in 30 minutes (around 2:40pm) because her appointment in Michigan was canceled. She did not say whether today's delayed visit is still wanted - office should confirm with her before a sitter goes.",
      "quote": "I will be home in 30 minutes. My appointment in Michigan canceled"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Visit report - Kristin Ashick",
-     "office": false,
-     "note": "Delayed afternoon visit Sep 21: no accidents found (India had not soiled her crate) and all three went #1. Milo kept eating grass in the yard despite the sitter's efforts, then drank a lot of water and vomited up grass; it was cleaned up. Tiarra also had to stop Milo eating grass on the morning visit, so watch him in the yard.",
-     "quote": "spit up grass which is what I was afraid was gonna happen!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Client private message, 1:15pm",
-     "office": true,
-     "note": "Separate private message eleven minutes earlier giving an approximate time of 5 or 6 pm. The message does not say what that time refers to or which visit it bears on - it needs clarifying with the client alongside her 'leaving at 7 am' message.",
-     "quote": "My guess is 5 or 6 pm"
     }
    ],
    "dormant": false
