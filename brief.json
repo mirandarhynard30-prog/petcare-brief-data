@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T19:20:06-04:00",
+ "generated": "2026-09-24T20:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1370,9 +1370,40 @@
    "name": "Yasmeen Abrams",
    "url": "https://www.timetopet.com/dashboard/client/sraaoqSfFtql",
    "pets": [
-    "Evee"
+    "Evee",
+    "Milky Way"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 24",
+     "source": "Client message 7:14pm",
+     "office": true,
+     "note": "Yasmeen will be away from Friday 5pm until roughly midnight Sunday. She sent a batch of care-note rewrites and photo/video references the same evening, so coverage and instructions for that window should be confirmed against the updated notes.",
+     "quote": "I will be gone and will not be returning home starting Friday 5 PM and will return promptly around midnight Sunday"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 24",
+     "source": "Pet Care Note update for Evee 7:25pm",
+     "office": false,
+     "note": "Evee's feeding windows were widened in her Pet Care Note: morning 6-10am, lunch 12-3pm, dinner 5-7pm (previously 6-9am, 11-1pm, 5/6pm). Pumpkin changed from 1/3 can to 2 spoons per serving, mixed with a splash of water. Treats stay above the fridge and must not be left out.",
+     "quote": "Pure pumpkin 2 spoons per serving in fridge"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 24",
+     "source": "Pet Care Note update plus client message 7:21pm",
+     "office": true,
+     "note": "The dry-kibble block dropped out of Evee's rewritten Pet Care Note - the previous version carried '3x cup dry kibble a day (by food bowl)' and the new version has no kibble line at all. The owner restated it by message minutes later as 1 cup at each of three feedings, topped with 2 spoons of pumpkin and a sprinkle of water. Her message gives the morning window as 8-10am while the care note says 6-10am, so the two do not agree; the office should reconcile them and put the kibble amount back in the note.",
+     "quote": "Yes sorry forgot 3 cups feed a day"
+    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -1397,21 +1428,51 @@
      "cat": "health",
      "sev": "medium",
      "type": "standing",
+     "date": "Sep 24",
+     "source": "Pet Care Note update for Milky Way 7:27pm",
+     "office": false,
+     "note": "Milky Way (cat) is free fed - nothing needs doing with the food. Water only needs topping off: spring water if it is low, tap if the spring has run out. Litter box to be checked at bedtime visits. Liquid cat food is above the fridge, one pack.",
+     "quote": "Just check litter box @bedtime visits thank you"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 24",
+     "source": "Client message 7:20pm",
+     "office": true,
+     "note": "Owner states she now has only one cat, Milky Way. Worth checking whether any other cat is still listed as active on her Time To Pet record.",
+     "quote": "I only have one cat now, which is Milky Way."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 24",
+     "source": "Client message 7:20pm",
+     "office": false,
+     "note": "Supply and clean-up locations, sent with photo references: towel and scooper beside the litter box; pet stain and odour remover on the shelf; cleaners under the kitchen cabinets, owner prefers the disinfectant wipes; paper towels on the counter; Evee's extra supplies in the blue bucket by the shoes. Her food storage container broke and has been replaced with a new one now kept in the kitchen.",
+     "quote": "I broke her food storage so it’s in kitchen now a new one"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 24",
+     "source": "Client message 7:29pm",
+     "office": false,
+     "note": "Owner says Evee can comfortably go 8 hours between outings, and is flexible on visit timing to suit the schedule. Useful for planning the Friday-to-Sunday coverage.",
+     "quote": "She’s good with waiting 8hr to go out whatever works for everyone schedule and comfortability"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
      "date": "Aug 26",
      "source": "Client care-note update for pet Evee",
      "office": false,
      "note": "Feeding updated by owner: 6-9am, 11-1pm, 5/6pm. Three cups dry kibble a day, kibble now kept by the food bowl (previously by the TV). Pure pumpkin, 1/3 can from the fridge, mixed with a splash of water. Treats above the fridge - do not leave food out, she will get into it.",
      "quote": "3x cup dry kibble a day (by food bowl)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Client message",
-     "office": false,
-     "note": "Package expected out front that the owner asked to be brought inside. She described the contents as tattoo needles, so handle with care.",
-     "quote": "There’s a package that’ll be out front that needs to be brought in."
     },
     {
      "cat": "home",
@@ -1422,19 +1483,9 @@
      "office": false,
      "note": "Standing house rules: shoes off, leave the AC on as it runs on a timer, and leave the ceiling fan on with the living room light off.",
      "quote": "The ceiling fan should be on, but make sure the light is turned off the switch is by the dog food"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 26",
-     "source": "Client message",
-     "office": false,
-     "note": "Owner cancelled the grocery order she had mentioned; if there is no spring water in the fridge, tap water is fine.",
-     "quote": "Groceries are not coming canceled order if there’s no water it’s fine tap"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Regina Mathews",
@@ -3316,6 +3367,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 24",
+     "source": "Dan Dantimo visit report 7:54pm",
+     "office": true,
+     "note": "Guinness went both #1 and #2 on the Sep 24 evening walk and Dan Dantimo again answered the report's consistency field with the canned option 'It was a little loose but not concerning'. The brief already carries that same answer for Sep 4, 11, 14, 15, 16, 17, 18, 22 and 23, so this is the tenth such reading this month. No other symptom reported - he was energetic, took treats and played afterwards, and Deb was home during the visit. Nobody has yet asked Deb whether a vet has seen him. Quote field deliberately left empty: the verbatim canned answer collides with Anna Marie LeMaster's Sep 24 item under the relay's de-duplication key.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 22",
      "source": "Dan Dantimo visit report, Sep 22 evening walk",
      "office": false,
@@ -3421,16 +3482,6 @@
      "office": false,
      "note": "Guinness's stool on the Sep 23 evening walk was logged as slightly loose, with the sitter marking it not concerning. No vomiting, appetite change or other symptom reported, and no prior loose stool noted in this report.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Dan Dantimo's Sep 23 evening report: Guinness was very excitable and walked fast, and the harness kept him manageable. Dan also noted he is listening better to commands. Walk stayed on the streets toward Jaycox.",
-     "quote": "he was walking very quickly today but that harness sure holds him at bay"
     }
    ],
    "dormant": false
