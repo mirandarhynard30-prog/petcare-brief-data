@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T16:20:06-04:00",
+ "generated": "2026-09-25T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3695,6 +3695,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Client private message, 4:53pm",
+     "office": true,
+     "note": "Client confirms in a private message that she is going on vacation and Aayla will be staying with her parents for the week. This is a reply to an office question that is not visible in this mailbox, so WHICH week she means is unconfirmed - it may or may not be the Oct 6 to Oct 29 service order request she placed Sep 19 that is still awaiting approval. If Aayla is at the grandparents' house those visits would not be at Megan's home. Office should confirm the dates before approving or declining that order.",
+     "quote": "Yes ma’am that is correct, I am going on vacation and she is staying with my parents for the week!"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -3723,6 +3733,16 @@
      "office": false,
      "note": "Styrofoam debris found on the floor and swept up by the sitter. He could not tell whether Aayla had gotten into something containing it. Nothing else was reported wrong - she ate, walked and went #1 and #2 firm - but worth watching for more of it.",
      "quote": "I'm not sure if she had gotten into something with styrofoam but I swept the floor clean of it"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Client message, 4:49pm",
+     "office": false,
+     "note": "FYI for anyone scheduled Saturday Sep 26: the client says Aayla is going to the zoo tomorrow for their \"Bark after dark\" event. She does not say a time or ask for any visit change, so treat this as a heads-up only, not a cancellation.",
+     "quote": "Miss Aayla bug gets to take a little trip to the zoo for their “Bark after dark” tomorrow."
     },
     {
      "cat": "behavior",
