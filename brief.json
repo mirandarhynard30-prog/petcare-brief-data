@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T11:20:06-04:00",
+ "generated": "2026-09-25T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1577,6 +1577,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 25",
+     "source": "Christina Palmieri message",
+     "office": false,
+     "note": "Client says Bismark will not walk for any sitter any more and puts it down to age and stubbornness. She is not bothered that the visit becomes yard/outside time instead of a walk. Kiara Streety's Sep 25 report matches: she tried to walk him, he refused and sat down.",
+     "quote": "I’m sorry he never walks for anyone anymore, idk what it is, other than he’s old and stubborn"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1625,6 +1635,16 @@
      "office": false,
      "note": "Christina's suggested handling when Bismark will not walk: if the sitter is comfortable doing so, take him off the leash and walk toward the gate door to see whether he follows. She adds that otherwise he may just be lazy. This is the first time a technique has been offered rather than just a warning that he refuses.",
      "quote": "You can try taking him off the leash if you feel comfortable"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Sitter reports Bismark resists going back indoors after outside time. Single observation from the Sep 25 visit, not previously recorded.",
+     "quote": "he definitely never wants to go back inside he fights lol"
     },
     {
      "cat": "behavior",
