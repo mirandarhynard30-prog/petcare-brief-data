@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T13:20:05-04:00",
+ "generated": "2026-09-26T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3920,6 +3920,36 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Stephanie Sarrocco message Sep 26",
+     "office": false,
+     "note": "Client says Frank gets very lonely and asks that sitters give him attention during the visit; sitter reports scratches and brushing quiet him down.",
+     "quote": "Frank can get very lonely so thank you for giving him that attention."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Stephanie Sarrocco message Sep 26",
+     "office": false,
+     "note": "Theo is content on his own but a churu treat is the reliable way to draw him out; client also asks sitters to tell him he is handsome if they see him.",
+     "quote": "The churu route was the way to go to get him out, the boy can’t resist them."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Noella Assi visit report Sep 26",
+     "office": false,
+     "note": "Water bowl was found empty at the Sep 26 afternoon visit; sitter refilled it and topped off kibble. Worth watching whether the bowl is big enough between visits.",
+     "quote": "I checked the food and water, the water was gone."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Sep 10",
      "office": false,
@@ -3968,6 +3998,16 @@
      "quote": "Favorite hiding spots: Under the bed or in basement (Theo), hallway to the basement is in the kitchen, next to interior garage door."
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Noella Assi visit report Sep 26",
+     "office": false,
+     "note": "Theo stays under the bed for much of the visit; sitter notes that is his safe spot and he returned to it after taking the treat.",
+     "quote": "I had to go get Theo from under the bed with a churru treat."
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "standing",
@@ -3976,36 +4016,6 @@
      "office": false,
      "note": "Sep 22 Company Notes rewrite: feeding now reads only 'Free-feed dry food'. The old lines to top off all food bowls at every visit and take a picture were removed; the email does not say whether that is still expected. Frank's grain allergy line stays.",
      "quote": "Free-feed dry food"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:12pm",
-     "office": false,
-     "note": "Standing household task at every visit: put the TV on a nature channel for the cats.",
-     "quote": "turn on the TV with the remote and make sure it's set on a nature channel (BBC Earth) or Cat TV on YouTube"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Pet Care Note updated by Tiarra Roberts, Sep 10 2:22pm",
-     "office": false,
-     "note": "Churu wording settled after several edits today: wash the small glass bowl if used, squeeze one packet in, set it next to the food and water. Theo is the one who wants it.",
-     "quote": "Wash bowl if used and squeeze packet of Churu into bowl and place next to food/water."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:12pm",
-     "office": false,
-     "note": "Mailbox next to the front stairs; mail on the dining room table, packages inside the front door. Bins out Tuesday night, Wednesday is trash day.",
-     "quote": "Where to place mail: Dining room table, place packages inside front door."
     }
    ],
    "dormant": false
