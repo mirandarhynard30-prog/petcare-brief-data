@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T18:20:07-04:00",
+ "generated": "2026-09-26T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4818,6 +4818,16 @@
      "quote": "So She did not go number one or two."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts updated contact information for Suzanne Slimak",
+     "office": true,
+     "note": "Company Notes retyped at 6:15pm deleted the entire Visit Timing block - morning visits 6am-10am, afternoon/evening visits 3pm-6pm. Nothing else in the record states the windows. The wet food storage line also lost its with provided lid on detail.",
+     "quote": "Morning visits between 6am–10am"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -4916,16 +4926,6 @@
      "office": false,
      "note": "The clock in the bathroom was showing the wrong time at the Sep 13 morning visit. The sitter reset it and thinks the battery may be going. Worth mentioning to the client; nothing for the sitter to do.",
      "quote": "I was washing my hands in the bathroom sink and noticed the clock was displaying the wrong time."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Client message, Sep 12 2:23am ET",
-     "office": false,
-     "note": "Suzanne is travelling in a different time zone while away and says replies may be delayed because of it. Explains the silence on the open kitchen sink light question. She did not give travel dates or a return date.",
-     "quote": "Thank you. Sorry if I don’t respond due to the time difference. We were fast asleep."
     }
    ],
    "dormant": false
@@ -5278,6 +5278,16 @@
      "office": false,
      "note": "Crate routine changed on Sep 11. To get Helios back into his basement crate, throw a treat in and he will run in after it. The older instruction - say the word crate, then give him a treat once he is inside - was removed. He wears a prong collar and his leash hangs by the side door.",
      "quote": "When finished, throw treat into crate and he will run in"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts updated contact information for Tom Noble",
+     "office": false,
+     "note": "Company Notes retyped at 6:17pm dropped the line telling the sitter poop bags are attached to the leash. Walk supplies now list only the leash by the side door and the green treat fanny pack, so a sitter may arrive without bags.",
+     "quote": "Poop bags attached to leash"
     },
     {
      "cat": "behavior",
@@ -6288,6 +6298,26 @@
      "quote": "Toby is unable to leave the garage, if the actual garage door is open."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts updated contact information for Michael Smith",
+     "office": true,
+     "note": "Pet Care Note was emptied at 6:55pm, deleting the only record of this job's dates and arrival windows - visits Sept 28 through Oct 3, two a day, morning 7am-10am and evening 4-7pm. First visit is Monday and nothing in the record now states the windows. Office should confirm the booked schedule matches.",
+     "quote": "needs visits starting sept 28 am and last visit will be oct 3 am visit (2 visits a day)"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts updated contact information for Michael Smith",
+     "office": true,
+     "note": "Company Notes retyped at 7:14pm dropped the whole Dog Feeding block and the cat dry food brand. The record no longer says when the dog is fed; wet/dry cat feeding instructions survived. Ambiguous whether the dog is fed at all now, since the Pet Care Note reads BACKYARD VISIT ONLY.",
+     "quote": "Feeding times: Morning, Bedtime"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -6346,26 +6376,6 @@
      "office": false,
      "note": "Company Notes retype dropped the parking guidance and the entry-method line. The fuller entry instruction survived, so nothing critical is missing. This is the new account built Sep 24 and it has now been through a retype before its first visit.",
      "quote": "Best place to park is the driveway"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 20",
-     "source": "Company Notes updated by Shannon Anderson",
-     "office": false,
-     "note": "Cats are indoor/outdoor and social, but Pickles hides in the basement near the washer and dryer - look there before reporting a cat missing.",
-     "quote": "Pickles will hide in basement by washer/dryer area"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 20",
-     "source": "Company Notes updated by Shannon Anderson",
-     "office": false,
-     "note": "Two litter boxes at the bottom of the basement steps; scooped waste goes in the outside trash can. Cleaning supplies in the kitchen.",
-     "quote": "2 litter boxes at bottom of basement steps"
     }
    ],
    "dormant": false
