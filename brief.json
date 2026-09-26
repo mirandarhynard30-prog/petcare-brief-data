@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T20:20:09-04:00",
+ "generated": "2026-09-25T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1385,6 +1385,26 @@
      "quote": "Evee will be loose when entering so be careful!"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Tiarra Roberts visit report (shadowing Monica Hopewell), Sep 25 9:38pm",
+     "office": true,
+     "note": "Dog food is down to roughly enough for the remaining visits of this trip and may run out afterwards. Monica checked the level during the evening visit.",
+     "quote": "there will be just enough dog food for these visits"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 25",
+     "source": "Tiarra Roberts visit report (shadowing Monica Hopewell), Sep 25 9:38pm",
+     "office": false,
+     "note": "No spare cat litter could be found in the house. The box was scooped but the sitters could not locate a refill, and the report flagged supplies low for Milky Way.",
+     "quote": "We scooped the litterbox and looked for extra litter, but we could not find any."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -1433,16 +1453,6 @@
      "office": false,
      "note": "Feeding updated by owner: 6-9am, 11-1pm, 5/6pm. Three cups dry kibble a day, kibble now kept by the food bowl (previously by the TV). Pure pumpkin, 1/3 can from the fridge, mixed with a splash of water. Treats above the fridge - do not leave food out, she will get into it.",
      "quote": "3x cup dry kibble a day (by food bowl)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 20",
-     "source": "Client",
-     "office": false,
-     "note": "Standing house rules: shoes off, leave the AC on as it runs on a timer, and leave the ceiling fan on with the living room light off.",
-     "quote": "The ceiling fan should be on, but make sure the light is turned off the switch is by the dog food"
     }
    ],
    "dormant": false
