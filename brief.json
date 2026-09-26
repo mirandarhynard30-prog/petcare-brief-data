@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T15:20:05-04:00",
+ "generated": "2026-09-26T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1326,6 +1326,26 @@
      "quote": "she can still wiggle out so we kept a short leash"
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts record edit, 4:06pm",
+     "office": true,
+     "note": "Evee's choke-chain walking instruction was deleted from her Current Pet Care Note in a record rewrite by Tiarra Roberts at about 4:06pm. The note previously specified a choke chain attached to the blue leash by the front door; nothing replaced it, and the note now covers only the rain coat and the feeding amounts. This is the same day a sitter reported Evee wiggling out of her tightened regular collar on a walk.",
+     "quote": "Evee will wear a choke chain for walks-blue leash hanging by the front door ( choke chain should be attached to the leash)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts record edit, Company Notes",
+     "office": true,
+     "note": "Two cat-related rules disappeared from Yasmeen's Company Notes in the same round of edits: keeping Evee out of the bathroom so she cannot eat the cats' food, and the cats' no-wet-food rule. 'Take Evee for a quick potty walk each visit' was dropped as well. The current notes still cover litter, water, treats and topping off dry food, but carry none of these three.",
+     "quote": "Do not allow Evee into the bathroom, or she will eat the cats' food."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1404,26 +1424,6 @@
      "office": false,
      "note": "Litter confirmed low Saturday morning. Client ordered supplies and says delivery is expected 2-3 PM Saturday. Monica has no spare of that litter type to bridge the gap, so the morning visit had none.",
      "quote": "Everything ordered and expected to be there @2/3 PM thank you"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Ashley Corall visit report 2:56 PM",
-     "office": true,
-     "note": "Evee's proper collar was not where the sitter looked for it and could not be found in the home. Where it is has not been established - worth asking the client before the next walk.",
-     "quote": "I went in search of the collar no such luck"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Tiarra Roberts visit report (shadowing Monica Hopewell), Sep 25 9:38pm",
-     "office": true,
-     "note": "Dog food is down to roughly enough for the remaining visits of this trip and may run out afterwards. Monica checked the level during the evening visit.",
-     "quote": "there will be just enough dog food for these visits"
     }
    ],
    "dormant": false
