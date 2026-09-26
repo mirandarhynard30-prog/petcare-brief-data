@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T17:20:16-04:00",
+ "generated": "2026-09-26T18:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -886,6 +886,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 26",
+     "source": "Client message 18:06 ET",
+     "office": true,
+     "note": "Client asked this evening for a same-day walk for Chloe tonight between 8:30 and 9:30pm; the office replied and she thanked us, so a sitter needs to be confirmed and scheduled for tonight.",
+     "quote": "Hi any chance we could get someone here this evening to walk Chloe between 8:30-9:30 timeframe?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 25",
      "source": "Client message 9:17am Sep 25",
      "office": true,
@@ -931,6 +941,16 @@
      "office": false,
      "note": "Ellie Mae has died. Melody told the office on the afternoon of Aug 31. Only Chloe remains on visits from now on. Do not ask after Ellie Mae or expect her at the house; earlier standing notes about minimising her walking no longer apply.",
      "quote": "our sweet ellie passed away today."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Client message 18:12 ET",
+     "office": true,
+     "note": "Melody is leaving a $20 cash tip on the counter for tonight's sitter for the late-notice walk and has asked us to make sure the sitter actually receives it.",
+     "quote": "I will leave an extra $20 bill on the counter for her."
     },
     {
      "cat": "health",
@@ -980,16 +1000,6 @@
      "office": false,
      "note": "Same Sep 17 report: there are construction workers in the house, and the sitter observed Chloe getting extra agitated whenever one of them made a loud sound - something heavy or metallic set down, a hammer. The sitter also wrote that Chloe does not hear noises the way people do, which reads as her being deaf or hard of hearing, but the email does not say that outright. One sitter on one visit, so treat the noise trigger as an observation rather than a standing rule.",
      "quote": "she would get extra agitated if one of the construction workers made a loud sound"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Visit report from Harvett Ellington, Sep 16 11:08am",
-     "office": false,
-     "note": "Chloe completed a full normal walk on Sep 16 with no wheezing, hacking or early finish recorded, and her stool was logged firm and healthy. That breaks the run of short or cut-short walks on Sep 11, Sep 14 and Sep 15. The sitter found her napping upstairs and carried her down.",
-     "quote": "We had a nice walk, went numbers one and two."
     }
    ],
    "dormant": false
@@ -3998,6 +4008,16 @@
      "quote": "FYI, there will be a CVS package coming on 10/1."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts record edit 18:12 ET",
+     "office": true,
+     "note": "Pet Care Note was retyped down to a shoes-off line, deleting the whole Churu instruction: Churu packets and a small glass bowl are left on the kitchen counter, the bowl is washed if used, and a packet is squeezed into it and set next to food and water. Nothing in the new record mentions Churu, so a sitter will now skip that feeding entirely. Stephanie is on today's schedule.",
+     "quote": "Wash bowl if used and squeeze packet of Churu into bowl and place next to food/water."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -4036,16 +4056,6 @@
      "office": false,
      "note": "Scooped litter disposal has CHANGED - the old rule was a bucket on the front porch, explicitly not the garage trash. Now scoop into the provided bag and put it in the garbage can in the garage. One box, office, across from the computer, front lid tilts up.",
      "quote": "Scoop into bag and dispose of bag in garbage can located in garage."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:22pm",
-     "office": false,
-     "note": "With the cats no longer confined upstairs the hiding spots have changed: Theo may be under the bed or in the basement, reached by the hallway off the kitchen next to the interior garage door. Frank is very vocal.",
-     "quote": "Favorite hiding spots: Under the bed or in basement (Theo), hallway to the basement is in the kitchen, next to interior garage door."
     }
    ],
    "dormant": false
@@ -5163,6 +5173,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts record edit 17:35 ET",
+     "office": true,
+     "note": "Company Notes retype deleted the escape warning for Maui. The record still tells the sitter to crate Maui and wedge a bench against the dog-room door but no longer says why, so the reason for both steps is gone.",
+     "quote": "Maui has learned how to open doors, escape his crate, and likes to chew things"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 17",
      "source": "Tiarra Roberts updated contact information",
      "office": false,
@@ -5178,6 +5198,16 @@
      "office": false,
      "note": "Escape risk. Crate Maui before leaving and put the bench in front of the dog room door. Both dogs must have their collars on before going outside - the fence is invisible and only works with the collars on. Both stay in the dog room, immediately left of the front door, and go back there at the end of the visit.",
      "quote": "Maui has learned how to open doors, escape his crate, and likes to chew things"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts record edits 17:35 to 17:39 ET",
+     "office": true,
+     "note": "The same run of edits lost the dry-food-only feeding rule, and at 17:37 the fish line changed from 'Fish only need to be fed at PM visits' to 'Fish need to be fed at PM visits', dropping the restriction. The Pet Care Note that had carried the fish instruction was also emptied.",
+     "quote": "Dry food only"
     },
     {
      "cat": "home",
@@ -5454,6 +5484,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts record edit 18:08 ET",
+     "office": true,
+     "note": "Company Notes retype deleted the instruction to lay eyes on both cats each visit. Both cats are shy and hide behind the office books or under the office couch, so without this line a sitter can finish a visit without ever confirming one of them is alright.",
+     "quote": "Try to visually confirm both cats during visits"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -5482,6 +5522,16 @@
      "office": false,
      "note": "Two wet cans per visit, split unevenly: one and a half cans for Mr Crowley, who eats no dry food, and half a can for Miss Ashley next to her dry bowl. Miss Ashley eats on the right, Mr Crowley on the left. Both litter boxes get scooped every visit.",
      "quote": "1 and 1/2 can for Mr crowley (he does not eat dry food)"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts record edit 18:08 ET",
+     "office": true,
+     "note": "The same retype also dropped where the litter bags and scoopers are kept, the parking guidance, the note that Lysol may be used on surfaces, and the line that the garage holds the trash bins.",
+     "quote": "Bags and scoopers in litter room"
     },
     {
      "cat": "home",
@@ -6065,6 +6115,26 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts record edit 17:57 ET",
+     "office": true,
+     "note": "The Backyard & Safety section was deleted wholesale in a Company Notes retype. The rule keeping the dogs off the fence line is gone, and that fence runs directly along a public sidewalk. This record already has an open alleged-bite matter against it.",
+     "quote": "Do not allow the dogs to stand at the fence barking—the fence is directly next to the sidewalk."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts record edit 17:57 ET",
+     "office": true,
+     "note": "The same deleted section carried the rule never to leave the mastiffs outside on their own. Visits here are backyard potty breaks only, so this was the line governing the whole visit.",
+     "quote": "Do not leave the mastiffs outside unattended."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "recent",
      "date": "Sep 23",
      "source": "Shannon Anderson visit report, 1:34pm",
@@ -6161,26 +6231,6 @@
      "office": true,
      "note": "Nicole is requesting visits for next week on short notice. Tim's dad will be in town while she is away and told her today he would feel better if someone else came to let the dogs out. She says she will add the days in Time To Pet herself, so the office should watch for them and confirm coverage.",
      "quote": "I'm very excited to reachout with a request for visitations next week."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 16",
-     "source": "Client private message, 9:29pm",
-     "office": false,
-     "note": "Client says Vito is not to go on walks anymore. She reports an incident in the metroparks: they were standing to the side, a person walked too close and startled him, and that person claimed they were bitten, though she says she never saw marks. No walking Vito.",
-     "quote": "Vito is not to go on walks anymore."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client private message, 9:29pm",
-     "office": true,
-     "note": "Office follow-up on the same message: the client has hired a lawyer over the alleged bite and says she is navigating the courts. She offered to connect over a call if we need more information. No reply has been sent from this mailbox.",
-     "quote": "I have hired a lawyer to help me navigate the courts but wanted to let you know."
     }
    ],
    "dormant": false
@@ -6288,6 +6338,16 @@
      "quote": "Cats eat wet dog food."
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts record edit 17:50 ET",
+     "office": false,
+     "note": "Company Notes retype dropped the parking guidance and the entry-method line. The fuller entry instruction survived, so nothing critical is missing. This is the new account built Sep 24 and it has now been through a retype before its first visit.",
+     "quote": "Best place to park is the driveway"
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "standing",
@@ -6306,16 +6366,6 @@
      "office": false,
      "note": "Two litter boxes at the bottom of the basement steps; scooped waste goes in the outside trash can. Cleaning supplies in the kitchen.",
      "quote": "2 litter boxes at bottom of basement steps"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 20",
-     "source": "Company Notes updated by Shannon Anderson",
-     "office": false,
-     "note": "Household tasks: mailbox by the front door, mail goes on the kitchen counter, trash day Monday. Park in the driveway. Client is not home during visits.",
-     "quote": "Mailbox location: by front door"
     }
    ],
    "dormant": false
@@ -6441,6 +6491,16 @@
      "quote": "You mentioned tomorrow but the visits should be Saturday evening and Sunday morning."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Client message 17:32 ET",
+     "office": true,
+     "note": "Julia confirms the family left town a few hours before 17:32 today and that the cats had been fed. This is the first clear word on her departure after the Thursday-versus-Saturday mix-up; the rest of her dates should be checked against the schedule.",
+     "quote": "Thank you we left a few hours ago. They were happy to be fed."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -6459,6 +6519,16 @@
      "office": true,
      "note": "Julia asked the office to confirm the entry details held for her home, and typed an access code and a key location into the message. Deliberately not recorded here - verify what is stored in Time To Pet directly and reply to her there.",
      "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Monica Hopewell visit report 17:28 ET",
+     "office": false,
+     "note": "Sitter reports Tino is the social one and met her at the garage door; Binx and Leo came close but dodged being petted; Sebastian stayed hidden under the bed, which the sitter describes as his usual. Sebastian is fed upstairs, two cats are fed in the laundry room.",
+     "quote": "Sebastian said not today and hid under the bed per usual."
     },
     {
      "cat": "home",
