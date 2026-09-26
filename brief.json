@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T22:20:05-04:00",
+ "generated": "2026-09-26T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -868,26 +868,6 @@
      "office": true,
      "note": "Fifth open-garage report in five days. Margaret found the garage door open again at today's midday visit and shut it. Her report says she locked all doors on leaving. Nobody has yet raised the repeated open garage with Carol or checked whether the door is malfunctioning.",
      "quote": "The garage door was open again when I came in so I shut it."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Margaret Bill visit message 9:49am",
-     "office": true,
-     "note": "Fourth open-garage report in three days. Margaret found the garage door standing open again at today's visit and closed it, and now suspects the door itself is malfunctioning rather than being left open. Office should raise it with Carol - a repeatedly open garage is a security and pet-escape risk. Margaret also came early because of the incoming storm.",
-     "quote": "Garage door is open again. Maybe it's malfunctioning. I will close it again."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Margaret Bill post-visit report, 10:29am",
-     "office": true,
-     "note": "In her full report on the visit where she again found the garage door open, Margaret says she closed the garage but did not lock the interior door into the condo. The property may have been left with that inside door unlocked after the visit.",
-     "quote": "I shut it, but didn't lock that inside door."
     }
    ],
    "dormant": false
@@ -941,16 +921,6 @@
      "office": true,
      "note": "Sep 15 afternoon walk was cut short again because Chloe kept wheezing; the sitter ended it early as a precaution and sat with her back at the house. This is the fourth short or interrupted walk in five days (Sep 11 hacking and wheezing, two short walks Sep 14, now Sep 15) and the first time a sitter has stopped a walk for it. She went #1 a few times, no #2. Worth a call to the client.",
      "quote": "On the walk she kept weezing so I ended it a bit early to stay on the cautious side"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client msg 11:39am",
-     "office": true,
-     "note": "Cancel today's afternoon walk - Chloe has an appointment and probably will not be back. Offered to still pay for the late notice.",
-     "quote": "can we please cancel our afternoon walk? i am happy to still pay"
     },
     {
      "cat": "health",
@@ -1331,9 +1301,20 @@
    "url": "https://www.timetopet.com/dashboard/client/sraaoqSfFtql",
    "pets": [
     "Evee",
-    "Milky Way"
+    "Milky Way",
+    "Milky way"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Front door lock is fighting sitters. Monica struggled to get in Saturday morning; Tiarra reported difficulty Friday night too. Allow extra time at the door.",
+     "quote": "After fighting for my life with the lock I made it inside"
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -1385,6 +1366,36 @@
      "quote": "Evee will be loose when entering so be careful!"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Evee's choker collar went missing overnight - it was on her Friday night and gone Saturday morning. Monica searched, could not find it, walked her on her regular collar, and said she would bring a spare from home Saturday evening if it does not turn up.",
+     "quote": "it was not on her this morning. I looked under everything but still couldn't find it"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Monica Hopewell visit report",
+     "office": true,
+     "note": "Monica asked whether Evee's pumpkin is supposed to be mixed into her food and got no answer. Evee ate regardless. Client or office needs to confirm the intended method.",
+     "quote": "let me know if I'm supposed to mix the pumpkin with the food"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Monica Hopewell visit report and client reply",
+     "office": false,
+     "note": "Litter confirmed low Saturday morning. Client ordered supplies and says delivery is expected 2-3 PM Saturday. Monica has no spare of that litter type to bridge the gap, so the morning visit had none.",
+     "quote": "Everything ordered and expected to be there @2/3 PM thank you"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -1413,46 +1424,6 @@
      "office": false,
      "note": "Milky Way (cat) is free fed - nothing needs doing with the food. Water only needs topping off: spring water if it is low, tap if the spring has run out. Litter box to be checked at bedtime visits. Liquid cat food is above the fridge, one pack.",
      "quote": "Just check litter box @bedtime visits thank you"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 24",
-     "source": "Client message 7:20pm",
-     "office": true,
-     "note": "Owner states she now has only one cat, Milky Way. Worth checking whether any other cat is still listed as active on her Time To Pet record.",
-     "quote": "I only have one cat now, which is Milky Way."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 24",
-     "source": "Client message 7:20pm",
-     "office": false,
-     "note": "Supply and clean-up locations, sent with photo references: towel and scooper beside the litter box; pet stain and odour remover on the shelf; cleaners under the kitchen cabinets, owner prefers the disinfectant wipes; paper towels on the counter; Evee's extra supplies in the blue bucket by the shoes. Her food storage container broke and has been replaced with a new one now kept in the kitchen.",
-     "quote": "I broke her food storage so it’s in kitchen now a new one"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 24",
-     "source": "Client message 7:29pm",
-     "office": false,
-     "note": "Owner says Evee can comfortably go 8 hours between outings, and is flexible on visit timing to suit the schedule. Useful for planning the Friday-to-Sunday coverage.",
-     "quote": "She’s good with waiting 8hr to go out whatever works for everyone schedule and comfortability"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Client care-note update for pet Evee",
-     "office": false,
-     "note": "Feeding updated by owner: 6-9am, 11-1pm, 5/6pm. Three cups dry kibble a day, kibble now kept by the food bowl (previously by the TV). Pure pumpkin, 1/3 can from the fridge, mixed with a splash of water. Treats above the fridge - do not leave food out, she will get into it.",
-     "quote": "3x cup dry kibble a day (by food bowl)"
     }
    ],
    "dormant": false
@@ -1748,16 +1719,6 @@
      "quote": "Leash hand-off, inside garage now."
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client msg 11:34am",
-     "office": true,
-     "note": "Jessica cancelled today's walk on the weather after the sitter asked how it looked. Confirm off the schedule and check billing.",
-     "quote": "we should forgo the walk today. The weather is being finicky"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1796,26 +1757,6 @@
      "office": true,
      "note": "Client asks the office to relay to tomorrow's Astra walker that they should park in the turn-around. Needs passing on to whoever is assigned tomorrow; the message names no other change.",
      "quote": "can you relay a message to whoever is walking astra tomorrow that they need to park in the turn-around please?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client message 8:30am Sep 4",
-     "office": true,
-     "note": "Client agreed to a 12:00 time. The message itself names no date, so which visit it settles is not stated in the email - most likely the Tue Sep 8 visit she confirmed on Sep 3, which still needs a sitter assigned. Office should verify before scheduling.",
-     "quote": "Sure, 12 sounds good"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client msg 11:36am",
-     "office": false,
-     "note": "After cancelling she said she would see the team next week, so nothing further this week. Her Tue Sep 8 noon visit still needs a sitter.",
-     "quote": "Sounds good, we'll see you next week!"
     },
     {
      "cat": "behavior",
@@ -2031,16 +1972,6 @@
     "Macy"
    ],
    "items": [
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Client message 10:09am",
-     "office": true,
-     "note": "Charlene cancelled today's (Fri Sep 4) visit because storms are forecast all day. Sent 10:09am, after the morning walk window for some clients - confirm the visit is actually removed from the schedule and not billed. No mention of the weekend, so Saturday onward is unaffected as far as this message says.",
-     "quote": "It looks like it’s going to be storming most of the day. Let’s cancel for today!"
-    },
     {
      "cat": "home",
      "sev": "medium",
@@ -3482,16 +3413,6 @@
      "office": false,
      "note": "Evening walk: Guinness's new harness made him much easier to control, including through two dog encounters, and seemed to keep him walking more. Single observation so far, not yet a standing rule.",
      "quote": "with that new harness, it was so much easier to control Guinness"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "On the Sep 4 evening walk Guinness went #2 twice and Dan logged the consistency as a little loose but not concerning. Same reading as Sep 1, Aug 28, Aug 27, Aug 25 and Aug 24; the Sep 2 visit was firm. The loose readings are now recurring over roughly two weeks.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -4188,16 +4109,6 @@
      "office": true,
      "note": "Krysten asked at 1:00pm whether Tom is available for their 9/19 visit. A follow-up five minutes later reads as though she got an answer, but the 9/19 sitter assignment should be confirmed in the schedule.",
      "quote": "We were wondering if Tom would be available for our visit on 9/19?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 4",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "At the Sep 4 morning visit Thomas found Ted's collar on very tight and loosened it before taking him out. Check the collar fit at the start of each visit until the owner confirms the new setting.",
-     "quote": "I loosened it a little but it was really tight"
     },
     {
      "cat": "behavior",
