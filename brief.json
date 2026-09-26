@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T11:20:06-04:00",
+ "generated": "2026-09-26T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5846,6 +5846,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 26",
+     "source": "Shannon Anderson message to client, Sep 26 12:43 PM",
+     "office": false,
+     "note": "Arrival time for today's hand-off visit is now confirmed: Shannon and Elizabeth told Brandon they will arrive around 1pm. This closes the open question of the unconfirmed hand-off time.",
+     "quote": "Hi Brandon, Elizabeth and I will be there around 1pm"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 18",
      "source": "Brandon Keyes message, 3:19pm",
      "office": true,
@@ -5921,16 +5931,6 @@
      "office": false,
      "note": "Supply locations from the same Sep 15 Company Notes: leash and poop bags by the back door, food and water bowls in the living room fireplace, treats in a cooler with ice or in the fridge (Dad makes all food and treats), toys in the living room, cleaning supplies in the kitchen, used bags in the trash cans lined up alongside the garage.",
      "quote": "Leash location: By backdoor"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 15",
-     "source": "Brandon Keyes updated details for pet Flacko",
-     "office": false,
-     "note": "The client filled in his own pet record late on Sep 15 for this brand new client. Vet is Emerald Animal Hospital, 4185 Ridge Rd, phone 216-749-7161. Allergies recorded as None. The client's own record spells the dog FLACKO, which settles the Flaco / Flocko split in the two staff meet-and-greet messages.",
-     "quote": ""
     }
    ],
    "dormant": false
