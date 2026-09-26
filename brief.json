@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T16:20:05-04:00",
+ "generated": "2026-09-26T17:20:16-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1077,6 +1077,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Company Notes rewrite deleted the Behavior Notes section warning that Riggs is reactive to wildlife. He is unclipped in a fenced potty area, so this is an escape risk. The critter check before unclipping does survive.",
+     "quote": "Riggs is reactive to wildlife and may try to chase animals."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 10",
      "source": "Pet Care Note updated by Tiarra Roberts, Sep 10 2:39pm",
      "office": false,
@@ -1092,6 +1102,16 @@
      "office": false,
      "note": "Riggs must not be unclipped in the fenced area until it has been checked for animals, as the care note records he is reactive to wildlife.",
      "quote": "Please check for animals in the fenced in area before releasing him off the leash, he is triggered by other animals."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Same rewrite dropped that the gate latch must end fully down, and 'MAKE SURE TO CLOSE BOTH DOORS IN GARAGE AND LOCK. Then replace key in lockbox.' Outside bottled water and bowl also gone.",
+     "quote": "Make sure the latch is in all the way down position."
     },
     {
      "cat": "behavior",
@@ -1346,6 +1366,26 @@
      "quote": "Do not allow Evee into the bathroom, or she will eat the cats' food."
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Client message from Yasmeen Abrams",
+     "office": false,
+     "note": "Yasmeen says Evee's harness is by the door or in the blue bucket - the only current written answer to how Evee is secured, after the choke-chain line was deleted today.",
+     "quote": "Her harness is by the door or in blue bucket"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Ashley Corall message to client",
+     "office": false,
+     "note": "Evee's usual collar still not found, so Ashley Corall dropped off a spare collar and clipped it to Evee's leash; she tried it on and it fits without being tight. Use this one.",
+     "quote": "I just dropped one off and attached it to her leash. I tried it on her and it fits not tight on her"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1404,26 +1444,6 @@
      "office": false,
      "note": "Evee's choker collar went missing overnight - it was on her Friday night and gone Saturday morning. Monica searched, could not find it, walked her on her regular collar, and said she would bring a spare from home Saturday evening if it does not turn up.",
      "quote": "it was not on her this morning. I looked under everything but still couldn't find it"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Monica Hopewell visit report",
-     "office": true,
-     "note": "Monica asked whether Evee's pumpkin is supposed to be mixed into her food and got no answer. Evee ate regardless. Client or office needs to confirm the intended method.",
-     "quote": "let me know if I'm supposed to mix the pumpkin with the food"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Monica Hopewell visit report and client reply",
-     "office": false,
-     "note": "Litter confirmed low Saturday morning. Client ordered supplies and says delivery is expected 2-3 PM Saturday. Monica has no spare of that litter type to bridge the gap, so the morning visit had none.",
-     "quote": "Everything ordered and expected to be there @2/3 PM thank you"
     }
    ],
    "dormant": false
@@ -1972,6 +1992,16 @@
     "Macy"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Client-written General Information field emptied, losing Murphy's weight-loss target. Company Notes still say the goal is weight loss but not how much. Second client-written field wiped today.",
+     "quote": "Murphy needs to lose 20 pounds"
+    },
     {
      "cat": "home",
      "sev": "medium",
@@ -3145,6 +3175,16 @@
      "quote": "Backyard is NOT fenced — must use leash or long lead (available)"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Pet Care Note replaced wholesale with 'REMOVE SHOES BEFORE ENTERING'. Deleted and not repeated anywhere: Oakley may hide upstairs or in the main-floor bedroom closet, and hardwood floors can scare him.",
+     "quote": "Oakley might be hiding upstairs, look in bedroom closet on the main floor. The hardwood floors can scare him."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3223,16 +3263,6 @@
      "office": false,
      "note": "Oakley may hide upstairs on arrival; if he does not come down to greet you, check the bedroom.",
      "quote": "Oakley might be hiding upstairs, if he does not come down for you please look in bedroom"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 22",
-     "source": "Tiarra Roberts updated contact information for Anna Caraboolad (Sep 22)",
-     "office": false,
-     "note": "Sep 22 Pet Care Note rewrite. The old condition 'if he does not come down for you' was dropped, so it now reads as a standing instruction to go look for Oakley in the main-floor bedroom, possibly in the closet. The same edit removed the shoes-off line from the Pet Care Note, though a remove-shoes line still appears in the access instructions.",
-     "quote": "THE HARDWOOD FLOORS CAN SCARE HIM."
     }
    ],
    "dormant": false
@@ -4413,6 +4443,16 @@
      "quote": "Use cheese if needed to get them inside"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Company Notes rewrite dropped the leash location and the line that messes in the dog room need not be cleaned up.",
+     "quote": "Leashes are usually on the island in kitchen"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -4989,6 +5029,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Eight edits in seven minutes. Every note saying where to find Miley is gone - Pet Care Note emptied, then '(sleeps in bedroom)' stripped from Company Notes. Miley takes a quarter blood-pressure pill daily, so a sitter who cannot find her cannot medicate her.",
+     "quote": "Miley is usually sleeping on the bed, in bedroom"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -5007,6 +5057,26 @@
      "office": false,
      "note": "Miley gets blood pressure medication - one quarter pill each visit, in a pill pocket. Brittany pre-cuts the pills into quarters. Supplies, medication and the water jug are on the kitchen counter, along with a binder of instructions.",
      "quote": "Miley is usually sleeping on the bed, in the bedroom"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Same run deleted the pointer to the client's instruction binder on the kitchen table, and the line that the kittens hide during visits.",
+     "quote": "There is a binder with instructions/kittie info on kitchen table"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Additional Cats section lost both that there is an outdoor cat we feed and that she is the kittens' mother. What is left says how to feed an outdoor cat without saying one is there.",
+     "quote": "Outdoor cat present and we will feed"
     },
     {
      "cat": "health",
@@ -5077,16 +5147,6 @@
      "office": false,
      "note": "Sep 17 rewrite moves the water fountain to the living room; the old note said fountains were in the kitchen only. Still top off from the spring water jug on the counter each visit.",
      "quote": "Water fountain in living room"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Tiarra Roberts updated contact information",
-     "office": false,
-     "note": "Sep 17 change for the outdoor/feral cat: both bowls now go inside the plastic pet house, where the old note put water inside and food outside. Dry food and fresh water only.",
-     "quote": "Only give dry food and refresh water. Bowls go INSIDE plastic house."
     }
    ],
    "dormant": false
@@ -5224,11 +5284,41 @@
      "cat": "health",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Three Company Notes rewrites in twelve minutes. Louie's Apoquel entry lost the line excluding midday visits, so a midday sitter could dose him again.",
+     "quote": "Will not be administered during midday visits"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 11",
      "source": "Company Notes rewritten by Tiarra Roberts",
      "office": false,
      "note": "Louie is on Apoquel for skin allergies. It goes with the morning and evening feedings only and is not given at midday visits. The Sep 11 edit moved this into the medication section and dropped the separate line that said he has skin allergies.",
      "quote": "Louie receives Apoquel for skin allergies"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Same rewrites removed the Dog Areas section - hallway gate stays up, Lanie may chew pillows or cushions - and dropped that Lanie is shy at first, Louie is more protective, and the dogs may use the back patio.",
+     "quote": "Lanie may chew pillows or cushions if given access to certain areas"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Same rewrites dropped the cold-water warning. The kitchen sink's hot and cold symbols are backwards, so bowls could be filled from the wrong tap.",
+     "quote": "MAKE SURE IT'S COLD WATER, the red/blue symbol is backwards on kitchen sink"
     },
     {
      "cat": "schedule",
@@ -6306,6 +6396,16 @@
      "office": false,
      "note": "Griswold must be on a leash every time he goes out, front or back yard. Do not let him into the backyard off leash. Go only far enough for a potty. His leash is on the table by the front door. Odie and Zeno can use the backyard.",
      "quote": "MUST be taken out on leash (front yard/back yard)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Time To Pet record edit by Tiarra Roberts",
+     "office": true,
+     "note": "Pet Care Note cut back to the Odie muzzle line only; Zeno's treat-aggression rule and Griswold's leash-only rule deleted from it. Both survive in Company Notes, so nothing lost outright, but the field sitters read first no longer carries them.",
+     "quote": "Griswold has to be leashed up, do not let him in the back yard without being leashed."
     },
     {
      "cat": "health",
