@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T14:20:05-04:00",
+ "generated": "2026-09-26T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1316,6 +1316,16 @@
      "quote": "After fighting for my life with the lock I made it inside"
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Ashley Corall visit report 2:56 PM",
+     "office": false,
+     "note": "ESCAPE RISK. Evee's usual collar could not be found, so the sitter used her regular collar tightened as far as it would go and Evee could still wiggle out of it. Sitter kept her on a short leash and cut the walk short rather than risk her slipping the collar.",
+     "quote": "she can still wiggle out so we kept a short leash"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1399,11 +1409,11 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 25",
-     "source": "Tiarra Roberts visit report (shadowing Monica Hopewell), Sep 25 9:38pm",
+     "date": "Sep 26",
+     "source": "Ashley Corall visit report 2:56 PM",
      "office": true,
-     "note": "Dog food is down to roughly enough for the remaining visits of this trip and may run out afterwards. Monica checked the level during the evening visit.",
-     "quote": "there will be just enough dog food for these visits"
+     "note": "Evee's proper collar was not where the sitter looked for it and could not be found in the home. Where it is has not been established - worth asking the client before the next walk.",
+     "quote": "I went in search of the collar no such luck"
     },
     {
      "cat": "home",
@@ -1411,19 +1421,9 @@
      "type": "recent",
      "date": "Sep 25",
      "source": "Tiarra Roberts visit report (shadowing Monica Hopewell), Sep 25 9:38pm",
-     "office": false,
-     "note": "No spare cat litter could be found in the house. The box was scooped but the sitters could not locate a refill, and the report flagged supplies low for Milky Way.",
-     "quote": "We scooped the litterbox and looked for extra litter, but we could not find any."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 24",
-     "source": "Pet Care Note update for Milky Way 7:27pm",
-     "office": false,
-     "note": "Milky Way (cat) is free fed - nothing needs doing with the food. Water only needs topping off: spring water if it is low, tap if the spring has run out. Litter box to be checked at bedtime visits. Liquid cat food is above the fridge, one pack.",
-     "quote": "Just check litter box @bedtime visits thank you"
+     "office": true,
+     "note": "Dog food is down to roughly enough for the remaining visits of this trip and may run out afterwards. Monica checked the level during the evening visit.",
+     "quote": "there will be just enough dog food for these visits"
     }
    ],
    "dormant": false
@@ -3951,6 +3951,26 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 26",
+     "source": "Noella Assi visit message 2:46 PM",
+     "office": false,
+     "note": "Theo did come out during the visit but bolted whenever the sitter got close. Handling note for whoever is next in: approach slowly, do not chase.",
+     "quote": "he was definitely a runner and runs away if I got too close"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Stephanie Sarrocco client message 2:14 PM",
+     "office": false,
+     "note": "Client says a CVS package is due at the house on 10/1. Sitters on that date should expect it and bring it inside.",
+     "quote": "FYI, there will be a CVS package coming on 10/1."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 10",
      "office": false,
      "source": "Meet and greet report from Noella Assi for Stephanie Sarrocco, Sep 10 12:43pm",
@@ -3996,26 +4016,6 @@
      "office": false,
      "note": "With the cats no longer confined upstairs the hiding spots have changed: Theo may be under the bed or in the basement, reached by the hallway off the kitchen next to the interior garage door. Frank is very vocal.",
      "quote": "Favorite hiding spots: Under the bed or in basement (Theo), hallway to the basement is in the kitchen, next to interior garage door."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Noella Assi visit report Sep 26",
-     "office": false,
-     "note": "Theo stays under the bed for much of the visit; sitter notes that is his safe spot and he returned to it after taking the treat.",
-     "quote": "I had to go get Theo from under the bed with a churru treat."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 22",
-     "source": "Company Notes edit by Tiarra Roberts",
-     "office": false,
-     "note": "Sep 22 Company Notes rewrite: feeding now reads only 'Free-feed dry food'. The old lines to top off all food bowls at every visit and take a picture were removed; the email does not say whether that is still expected. Frank's grain allergy line stays.",
-     "quote": "Free-feed dry food"
     }
    ],
    "dormant": false
