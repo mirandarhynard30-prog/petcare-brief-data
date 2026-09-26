@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T09:20:05-04:00",
+ "generated": "2026-09-26T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5836,6 +5836,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 26",
+     "source": "Client message 9:38am Sep 26",
+     "office": false,
+     "note": "Client says today's visit changes to a hand-off - his fiancee will be at the home. He does not give a time. Shannon Anderson acknowledged it at 9:39am.",
+     "quote": "slight adjustment to the schedule today my fiance will be there for a hand off"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 18",
      "source": "Brandon Keyes message, 3:19pm",
      "office": true,
@@ -5921,16 +5931,6 @@
      "office": false,
      "note": "The client filled in his own pet record late on Sep 15 for this brand new client. Vet is Emerald Animal Hospital, 4185 Ridge Rd, phone 216-749-7161. Allergies recorded as None. The client's own record spells the dog FLACKO, which settles the Flaco / Flocko split in the two staff meet-and-greet messages.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 21",
-     "source": "Client message",
-     "office": false,
-     "note": "Rain gear: an umbrella and a blue Velcro dog jacket are on the shoe rack near the back door, for use if it is raining. Same Sep 21 messages ask the sitter to bring in small packages from the porch and possibly one in the inside doorway of the front door, and repeat that more treats are on the top shelf of the fridge.",
-     "quote": "Also there is an umbrella and blue Velcro dog jacket near back door on shoe rack if it is raining"
     }
    ],
    "dormant": false
