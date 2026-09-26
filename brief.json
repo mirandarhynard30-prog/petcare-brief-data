@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T19:20:06-04:00",
+ "generated": "2026-09-25T20:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3367,6 +3367,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 25",
+     "source": "Dan Dantimo visit report, Sep 25 7:49pm",
+     "office": true,
+     "note": "On the Sep 25 evening walk Dan Dantimo answered Guinness' #2 consistency field with the a-little-loose-but-not-concerning option again. No other symptoms reported; Guinness walked the long way round the block, took treats and played normally. Dan signed off see you Monday, so nothing is logged between this visit and Monday.",
+     "quote": "He did go number one and two and behaved very well"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 24",
      "source": "Dan Dantimo visit report 7:54pm",
      "office": true,
@@ -3471,16 +3481,6 @@
      "source": "Dan Dantimo visit report",
      "office": false,
      "note": "On the Sep 4 evening walk Guinness went #2 twice and Dan logged the consistency as a little loose but not concerning. Same reading as Sep 1, Aug 28, Aug 27, Aug 25 and Aug 24; the Sep 2 visit was firm. The loose readings are now recurring over roughly two weeks.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Guinness's stool on the Sep 23 evening walk was logged as slightly loose, with the sitter marking it not concerning. No vomiting, appetite change or other symptom reported, and no prior loose stool noted in this report.",
      "quote": "It was a little loose but not concerning"
     }
    ],
