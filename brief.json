@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T19:20:05-04:00",
+ "generated": "2026-09-26T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2540,6 +2540,16 @@
      "office": false,
      "note": "Dogs stay in the utility room when unattended - gate up and door shut. Walk the property only, not the neighborhood. All of them are strong pullers.",
      "quote": "THEY ARE ALL VERY STRONG AND WILL PULL."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts updated contact information for Lance Hoffman",
+     "office": true,
+     "note": "At 7:36pm the Pet Care Note was emptied and its contents retyped into Company Notes. Most of it survived, but the water bowl locations - laundry room and kitchen - were dropped entirely, and the utility-room rule lost its 'when unattended' qualifier, so the record now reads as if the dogs stay shut in the utility room for the whole visit. 'Watch out for deer poop' also lost 'in back yard field'. Office should put the water bowl line back and confirm whether the confinement is only when unattended.",
+     "quote": "There is a water bowl in the laundry room and in kitchen."
     },
     {
      "cat": "health",
