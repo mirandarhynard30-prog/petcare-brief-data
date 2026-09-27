@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T13:20:05-04:00",
+ "generated": "2026-09-27T14:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -263,6 +263,16 @@
      "quote": "Thank you!! Yes, please feed them tomorrow!"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 27",
+     "source": "Mary Gilmore private message, Sep 27 1:52pm ET",
+     "office": true,
+     "note": "Client replies accepting something the office proposed as '5' and adds that she also needs services on Friday and Saturday. The email does not say what '5' refers to - a 5pm arrival window or a count of visits - and it does not give the Friday/Saturday dates, so the office has to confirm both before anything is on the schedule. Follows her earlier Oct 1 Macedonia question already in the brief.",
+     "quote": "Okay great, 5 works! Yes, ill need services fri and sat too. Thanks!"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -311,16 +321,6 @@
      "office": false,
      "note": "Evening visit: Rusty had pulled blanket corners into her crate. Shannon Anderson removed them and moved the blankets to the opposite side of the room so Rusty could not swallow pieces. No ingestion reported.",
      "quote": "noticed that Rusty had pulled a few corners of the blankets into her crate. I removed them from her crate"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 23",
-     "source": "Mary Gilmore message, 6:37pm",
-     "office": false,
-     "note": "Mary replied to Shannon Anderson's evening report and gave sitters permission to move the blankets away from Rusty's crate. Follows the same evening's report of Rusty pulling blanket corners into her crate while the house is being packed. Mary did not say how long the packing lasts.",
-     "quote": "Youre totally fine to move the blankets!! Thanks :)"
     }
    ],
    "dormant": false
@@ -1436,14 +1436,14 @@
      "quote": "Evee will be loose when entering so be careful!"
     },
     {
-     "cat": "behavior",
+     "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Monica Hopewell visit report",
+     "type": "standing",
+     "date": "Sep 27",
+     "source": "Ashley Corall visit report, Sep 27 1:48pm ET",
      "office": false,
-     "note": "Evee's choker collar went missing overnight - it was on her Friday night and gone Saturday morning. Monica searched, could not find it, walked her on her regular collar, and said she would bring a spare from home Saturday evening if it does not turn up.",
-     "quote": "it was not on her this morning. I looked under everything but still couldn't find it"
+     "note": "Evee's second choke collar, which had been missing, was found on the Sep 27 visit and is now hanging by the door. This is the first record of where that collar lives and it bears directly on the choke-chain instruction the brief records as having been deleted from the account on Sep 20 - the equipment exists and has a home, even though the written rule for using it does not.",
+     "quote": "she helped me find her other choke collar"
     }
    ],
    "dormant": false
@@ -4021,6 +4021,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Sep 27",
+     "source": "Noella Assi visit report, Sep 27 2:10pm ET",
+     "office": false,
+     "note": "Theo hides under the bed and the sitter used the lickable treat in the tiny dish to draw him out and get eyes on him. Frank greets at the door; Theo does not. This is a working method for a cat the sitter has to lay eyes on, and it is the same lickable-treat routine the brief records as having been deleted from the account.",
+     "quote": "I also gave him some to get him out from under the bed."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Sep 26",
      "source": "Stephanie Sarrocco message Sep 26",
      "office": false,
@@ -4096,16 +4106,6 @@
      "office": false,
      "note": "Both cats are social but may hide under the bed; Frankie is the chubbier one, Theo the slender one. Churu/paste is left on the kitchen counter - one pack a day in the small glass bowl the client provides, washed before refilling. Theo is the one who mainly wants it.",
      "quote": "PLEASE GIVE ONE PACK A DAY ON A SMALL GLASS BOWL THAT SHE WILL PROVIDE. WASH IT BEFORE ADDING NEW CHURU."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Pet Care Note updated by Tiarra Roberts, Sep 10 3:05pm",
-     "office": false,
-     "note": "Added to the top of the Pet Care Note at 3:05pm: shoes come off at the front door.",
-     "quote": "SHOES OFF AT FRONT DOOR"
     }
    ],
    "dormant": false
@@ -5279,6 +5279,16 @@
      "office": false,
      "note": "Louie is on Apoquel for skin allergies. It goes with the morning and evening feedings only and is not given at midday visits. The Sep 11 edit moved this into the medication section and dropped the separate line that said he has skin allergies.",
      "quote": "Louie receives Apoquel for skin allergies"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 27",
+     "source": "Beth Nickel client message, Sep 27 1:18pm ET",
+     "office": true,
+     "note": "For Saturday Oct 3 the client will pre-portion the pets' food herself, so the sitter only has to put it out rather than prepare it. She says she will leave a note if anything changes. She also asks the office a billing question in the same message that is still unanswered. Access details in this message are deliberately not recorded here.",
+     "quote": "Saturday, the 3rd, I will have their food ready. Will just have to put out."
     },
     {
      "cat": "behavior",
