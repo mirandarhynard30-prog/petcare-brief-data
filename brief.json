@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T12:20:07-04:00",
+ "generated": "2026-09-27T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1749,6 +1749,26 @@
      "quote": "nova comes straight back when called, but astra will bolt"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Company Notes as of Tiarra Roberts edit, Sep 26 5:32pm",
+     "office": false,
+     "note": "Cat Care block that has been sitting in the Company Notes and the brief has never held: automatic dry food feeder upstairs, automatic litter box upstairs, one water fountain in the upstairs bathroom by the sink, and the dogs are not allowed upstairs - a gate is in place. Relevant to any sitter who goes upstairs with a dog on leash.",
+     "quote": "Dogs are not allowed upstairs (gate in place)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Company Notes as of Tiarra Roberts edit, Sep 26 5:32pm",
+     "office": false,
+     "note": "How to tell the two dogs apart, never carried in the brief before. Matters here because the brief already records that Nova comes back when called and Astra bolts, so a sitter needs to know which dog is on the leash.",
+     "quote": "Astra wears black harness with teal leash. Nova wears pink and purple harness with rainbow leash."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1797,6 +1817,16 @@
      "office": false,
      "note": "The client is home and hands the leash over at the front door, the doorbell does not work so knock, and only one dog is walked at a time.",
      "quote": "Client will be home, leash hand off at the front door."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Company Notes as of Tiarra Roberts edit, Sep 26 5:32pm",
+     "office": false,
+     "note": "Waste disposal rule, never carried in the brief before: used poop bags go in the garbage bin inside the garage. Consistent with the garage leash hand-off already on file.",
+     "quote": "Used poop bags can be thrown into garbage bin inside garage"
     }
    ],
    "dormant": false
@@ -3113,6 +3143,16 @@
      "office": false,
      "note": "Standing rule in the company notes, in capitals. Oliver hides under the couch or behind the bed.",
      "quote": "DO NOT PET Oliver"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts Company Notes edit, Sep 26 5:42pm",
+     "office": true,
+     "note": "The Sep 26 5:42pm edit removed 'as needed' from the dry-food instruction, which now carries no frequency at all. The brief's Sep 17 item recorded the earlier loss of 'at every visit'; with 'as needed' now gone too, how often to fill Oliver's dry bowl is no longer written anywhere on the account. Office should decide and put it back. Everything else in that edit and the 5:43pm edit was punctuation only.",
+     "quote": "Fill dry food bowl (located in bedroom in front of full-length mirror)"
     },
     {
      "cat": "home",
@@ -6531,24 +6571,24 @@
    ],
    "items": [
     {
-     "cat": "behavior",
+     "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Aug 18",
-     "source": "Noella visit report",
+     "type": "standing",
+     "date": "Sep 27",
+     "source": "Noella Assi visit report, Sep 27 12:51pm",
      "office": false,
-     "note": "Feeding routine seen on this visit: a yellow Churu squeezed into her food bowl, bowl rinsed out once she had licked it clean, and water added to her main water fountain. Recorded from one visit only - not confirmed as a standing instruction.",
-     "quote": "She got a yellow churru in her food bowl, when she was done licking it clean I rinsed it out."
+     "note": "Sep 27 report records equipment the brief has never carried: an automatic dry-food feeder AND a water fountain in the home, both full on arrival, and the sitter topped up both. She also cleaned TWO litter boxes - the brief has only ever recorded one, in the bathroom. First record of an automatic feeder on this client, which is worth reading alongside the two August items about the food bowl being empty on arrival.",
+     "quote": "The automatic feeder looked okay and full. So did the water fountain, I did put more water in both of them."
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Aug 17",
-     "source": "client message",
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 27",
+     "source": "Noella Assi visit report, Sep 27 12:51pm",
      "office": false,
-     "note": "Terri asked whether Norah's kibble was in the bowl when the sitter arrived. Her reason was not stated, so treat it as ambiguous - but she is evidently interested in the arrival kibble level, so it is worth reporting.",
-     "quote": "Was the kibble in her bowl when you arrived? Just curious"
+     "note": "Where to find Norah: she spends most of the visit in the sun room, sitting in the sun rays. Sitter says she loves it there. Useful on a client where the sitter has to lay eyes on the cat.",
+     "quote": "I spent most of our time in the sun room which she loves, she sits in the sun rays and cleaned herself."
     },
     {
      "cat": "behavior",
@@ -6559,29 +6599,9 @@
      "office": false,
      "note": "Norah is a very vocal cat who demands attention, leads the sitter to her food and follows them room to room. Expect loud meowing on arrival.",
      "quote": "She is very vocal and showed me to her food."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 18",
-     "source": "Noella visit report",
-     "office": false,
-     "note": "Litter box is in the bathroom. On this visit the used litter was taken out to the garage/garbage. Complete litter change out was done.",
-     "quote": "I threw both trash litter in the garage/garbage."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Aug 18",
-     "source": "Noella visit report",
-     "office": false,
-     "note": "On this visit the food bowl was empty on arrival. Not clear from the report whether Norah had eaten it or none had been left out.",
-     "quote": "There was no kibbles in her food bowl today."
     }
    ],
-   "dormant": true
+   "dormant": false
   }
  ]
 }
