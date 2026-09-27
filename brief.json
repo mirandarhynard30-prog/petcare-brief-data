@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T20:20:05-04:00",
+ "generated": "2026-09-26T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -956,6 +956,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 26",
+     "source": "Kiara Streety visit report, 9:17pm",
+     "office": false,
+     "note": "Chloe's stool was slightly loose on the Sep 26 evening walk; sitter judged it not concerning. Single observation - watch on the next visit.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 24",
      "source": "Shannon Anderson visit report, 10:27am",
      "office": false,
@@ -990,16 +1000,6 @@
      "office": false,
      "note": "Chloe was barking at the top of the stairs on arrival; Elizabeth Sigler petted her until she had been quiet a couple of minutes, then carried her down the steps and down the front step. A worker was running a leaf blower in the driveway, so she turned Chloe right and walked between Chloe and the blower. Chloe peed quickly, then U-turned and hurried back inside. Client was home for this visit and asked that the door not be locked.",
      "quote": "Once it had been a couple minutes since she’d last been barking, I gently carried her down the steps."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Elizabeth Sigler visit report, Sep 17 11:04am",
-     "office": false,
-     "note": "Same Sep 17 report: there are construction workers in the house, and the sitter observed Chloe getting extra agitated whenever one of them made a loud sound - something heavy or metallic set down, a hammer. The sitter also wrote that Chloe does not hear noises the way people do, which reads as her being deaf or hard of hearing, but the email does not say that outright. One sitter on one visit, so treat the noise trigger as an observation rather than a standing rule.",
-     "quote": "she would get extra agitated if one of the construction workers made a loud sound"
     }
    ],
    "dormant": false
