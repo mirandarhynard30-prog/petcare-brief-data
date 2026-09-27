@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T15:20:08-04:00",
+ "generated": "2026-09-27T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4453,6 +4453,26 @@
      "quote": "Use cheese if needed to get them inside"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 27",
+     "source": "Company Notes updated by Tiarra Roberts, Sep 27 4:57pm",
+     "office": false,
+     "note": "Company Notes now list THREE water bowls to refresh - kitchen, deck, and upstairs in the dog room. The note previously listed only two (kitchen and upstairs), so the deck bowl is new and easy to miss.",
+     "quote": "3 water bowls: in kitchen, on deck and upstairs, in dog room"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 27",
+     "source": "Tiarra Roberts visit report, Sep 27 4:36pm",
+     "office": true,
+     "note": "Second report of Timber eating slowly - he again took longer than usual and left a little food, which the sitter put upstairs with them when leaving. The first was Sep 18. His #2 this visit was firm and healthy and Storm ate normally. No vet contact or instruction recorded either time.",
+     "quote": "Timber took a little longer to eat, today, again."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -4541,16 +4561,6 @@
      "office": false,
      "note": "At the Friday evening visit Timber ate more slowly than usual and did not finish his food; Tiarra left the uneaten portion upstairs with the dogs. Storm ate normally and Timber's stool was firm. One observation only - worth watching at the next visit, not a standing rule.",
      "quote": "Timber was the slower one to eat today, but that's okay."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Company Notes, Sep 11",
-     "office": false,
-     "note": "Trash day at this house is Tuesday morning and the cans go out Monday night. Confirmed in the Sep 11 Company Notes.",
-     "quote": "Take trash cans out Monday night"
     }
    ],
    "dormant": false
