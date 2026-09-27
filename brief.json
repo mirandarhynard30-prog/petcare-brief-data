@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T11:35:05-04:00",
+ "generated": "2026-09-27T12:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2116,6 +2116,16 @@
      "cat": "home",
      "sev": "low",
      "type": "standing",
+     "date": "Sep 26",
+     "source": "Company Notes edit by Tiarra Roberts, Sep 26 5:26pm Eastern",
+     "office": false,
+     "note": "Waste disposal for Mac CHANGED. Used poop bags now go IN the outside trash bin next to the garage. The previous rule, which the brief still carries from Sep 11, was to leave them on top of the outside trash can. Everything else in the note held: fenced backyard only, no walks, blinds open, two water bowls.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
      "date": "Sep 11",
      "source": "Tiarra Roberts updated contact information for Diane Hoard",
      "office": false,
@@ -2353,6 +2363,16 @@
      "source": "Contact update by Tiarra Roberts, 10:22am",
      "office": true,
      "note": "A handling warning was deleted from Azuri's Pet Care Note and not replaced anywhere. It read that during new-people training sitters should stay in the driveway while the trainer brings him out, as he can get overwhelmed by lots of people at the leash hand-off or front door. Confirm with the client before walking up to the door.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Company Notes edit by Tiarra Roberts, Sep 26 5:28pm Eastern",
+     "office": false,
+     "note": "Waste disposal for Azuri, which the brief did not carry: used poop bags go in the flower pot on the front porch. Saturday's edit added a comma and changed nothing else.",
      "quote": ""
     },
     {
@@ -3948,6 +3968,16 @@
      "quote": "Allergies: Frank - Grain allergy"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 27",
+     "source": "Client message to Tiarra and Noella, Sep 27 12:02pm Eastern",
+     "office": false,
+     "note": "Client says her brother may have stopped by Saturday evening and may be over periodically in the evenings. She does not want sitters alarmed if things look moved out of place. So an unexpected person or signs of someone in the house are expected, not a break-in.",
+     "quote": "my brother may have stopped by yesterday evening, and may be over periodically in the evening"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -4036,16 +4066,6 @@
      "office": false,
      "note": "Added to the top of the Pet Care Note at 3:05pm: shoes come off at the front door.",
      "quote": "SHOES OFF AT FRONT DOOR"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:12pm",
-     "office": false,
-     "note": "Scooped litter disposal has CHANGED - the old rule was a bucket on the front porch, explicitly not the garage trash. Now scoop into the provided bag and put it in the garbage can in the garage. One box, office, across from the computer, front lid tilts up.",
-     "quote": "Scoop into bag and dispose of bag in garbage can located in garage."
     }
    ],
    "dormant": false
@@ -5103,6 +5123,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Sep 26",
+     "source": "Company Notes as rewritten by Tiarra Roberts, Sep 26 evening",
+     "office": false,
+     "note": "Archie's current record in full, as the brief held almost nothing on this client: he stays in the play pen when unattended. Leash and poop bags by the back door in the kitchen, lunge line in the backyard. Potty time is a walk around the house. Used bags go in the bucket on the back porch. One water bowl in the play pen, refresh as needed. Treats on top of the crate, toys in the crate, cleaning supplies on the counter by the play pen. No feeding required. Saturday's three edits changed only headings and punctuation.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Sep 11",
      "source": "Contact update by Tiarra Roberts, 10:23-10:25am",
      "office": false,
@@ -5296,6 +5326,16 @@
      "cat": "health",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 26",
+     "source": "Company Notes as rewritten by Tiarra Roberts, Sep 26 evening",
+     "office": false,
+     "note": "Blue's full feeding sequence, not previously in the brief: twice daily about 6AM and 6PM, 3/4 cup dry in the slow feeder, wait about 5 minutes and in that time give the B12 supplement (can be tossed like a treat), half a Vetri tablet and half a Cosequin, then a second 3/4 cup dry with his probiotic on top. Food on the kitchen island near the back door. All water bowls filled from the Brita pitcher in the fridge. One carrot at the morning visit. Blue has skin allergies, is not allowed on furniture, must sit before food.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 11",
      "source": "Company Notes rewritten by Tiarra Roberts",
      "office": false,
@@ -5311,6 +5351,26 @@
      "office": false,
      "note": "Blue the dog can reach Princess's medicated wet food, so stay and watch that she actually eats hers.",
      "quote": "Blue can reach Princess's wet food, so monitor meals and make sure Princess has the opportunity to eat her medicated food"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Company Notes edit by Tiarra Roberts, Sep 26 5:15pm Eastern",
+     "office": true,
+     "note": "The do-not-say-the-word-walk warning for Blue was DELETED from Company Notes in Saturday evening's rewrite and not replaced. It said not to say walk unless actually taking him out, because he gets very excited. The brief still carries the rule from Sep 11; the account no longer does. An earlier edit the same evening also dropped that mowed grass paths lead to the sidewalk.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 26",
+     "source": "Company Notes edit by Tiarra Roberts, Sep 26 5:21pm Eastern",
+     "office": true,
+     "note": "The last edit of the evening dropped three more lines from Blue's record: that he may have urine accidents indoors (only the Equalizer-cleaner instruction survives, with no reason given), that his water bowl sits next to his food dish, and that the mailbox is on the street. Poop bags are now folded into the leash line on the front-door bench. Princess went from not consistently social to not social with new people.",
+     "quote": ""
     },
     {
      "cat": "behavior",
