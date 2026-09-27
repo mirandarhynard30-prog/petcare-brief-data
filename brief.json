@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T23:20:05-04:00",
+ "generated": "2026-09-27T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -637,16 +637,6 @@
      "office": false,
      "note": "Second visit of the day, arrival ~11:25am: no accidents found and no vomit mentioned anywhere in the report. Oliver went #1 and #2, stool logged firm and healthy. Ginger went #1 only, no #2 this visit. Follows the same sitter finding vomit in Oliver's room at the 7am visit.",
      "quote": "There were no accidents"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Robin Lewis visit report, Sep 5 7:33am",
-     "office": false,
-     "note": "On the Sep 5 7am visit the sitter found a potty accident in Oliver's room and wrote that he had an upset belly; she cleaned it up. Note the report is internally inconsistent - the per-pet section logs Oliver's stool on the walk as firm and healthy, so the upset belly is the sitter's read of the accident rather than a stool she saw. Worth watching on the next visit.",
-     "quote": "Oliver had an accident in his room. He an upset belly"
     },
     {
      "cat": "health",
@@ -1911,16 +1901,6 @@
      "quote": "Penny will also want to chew on anything she can put her teeth on"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Ashley Gullett client message",
-     "office": false,
-     "note": "For the Sat evening visit only: no walks, Penny just needs letting outside to potty. Both dogs went #2 before Ashley left, so neither is likely to go #2 on this visit.",
-     "quote": "No walks this evening because we won’t be gone super long."
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2570,16 +2550,6 @@
      "office": false,
      "note": "They eat three times a day (am, midday, evening) in the utility room - portioned bags in the refrigerator or on the kitchen island, rice/chicken plus kibble in each bowl. Treats in the utility room cabinet. Water bowls in laundry room and kitchen.",
      "quote": "NO NEED TO PICK UP THE #2'S. WATCH OUT FOR DEER POOP IN BACK YARD FIELD."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Yasmeen Abrams visit report 2:16pm",
-     "office": false,
-     "note": "A loose nail was found in the home on the Sep 5 visit and the sitter disposed of it. Lance replied that it was not theirs and that they were not bothered. Worth a glance at the floors with three dogs in the house.",
-     "quote": "Sorry about the nail I disposed of it properly"
     }
    ],
    "dormant": false
@@ -4211,7 +4181,7 @@
      "quote": "He went #1 several times but no #2."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Fabiana Orlando",
@@ -4220,26 +4190,6 @@
     "Blackie"
    ],
    "items": [
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Client message",
-     "office": true,
-     "note": "Client wrote Sat morning that Blackie will not be at the house - he will be at their neighbour Greg's. Confirm with the client whether the visit still goes ahead and where the pet actually is before a sitter is sent. Access details included in the same message are deliberately not repeated here.",
-     "quote": "Blackie will be at our neighbors house his name is Greg in case he is home."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Client message",
-     "office": true,
-     "note": "Follow-up to her earlier Saturday message. The client says Blackie will be at the neighbour Greg's house for the whole period the walk schedule covers, not at her own home. Confirm with her where each scheduled walk should start before a sitter is sent out. Access details in the same thread are deliberately not repeated here.",
-     "quote": "Greg house he will be there this whole time that we have walk schedule"
-    },
     {
      "cat": "home",
      "sev": "medium",
@@ -4299,16 +4249,6 @@
      "office": false,
      "note": "On Sep 9 Blackie was collected from and returned to neighbor Greg rather than the house; the report notes the client was home and asked that the door not be locked. Greg had already walked him at 9am.",
      "quote": "I got Blackie from the neighbor Greg."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Client message",
-     "office": true,
-     "note": "Separate one-line client reply at 10:32am. It answers a question that is not contained in the notification, so exactly which visits or dates she is confirming is unclear - it appears to cover next week and the week after, but the office should confirm the dates with her in writing.",
-     "quote": "Yes next week and the following"
     }
    ],
    "dormant": false
@@ -4321,36 +4261,6 @@
     "Nebula"
    ],
    "items": [
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Visit report - Renee Dougherty",
-     "office": false,
-     "note": "Both cats were upstairs hiding under the beds when the sitter arrived Sat morning, and were described as a little shy. Expect to have to look for them. This is the first substantive note on file for this client.",
-     "quote": "When we arrived, both cats were upstairs underneath the beds."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Client message 3:08pm",
-     "office": true,
-     "note": "Sonja is watching on camera and sees Star sniffing and sitting by the closed bedroom door at the top of the stairs. She is asking whether a sitter opened that door and whether Nebula could be shut inside; Nebula has not been seen since this morning. Unanswered as of this run - needs a reply from whoever visited.",
-     "quote": "Just wanted to make sure there’s no chance of nebula being in there"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Sonja Cuollo client message 3:18pm",
-     "office": true,
-     "note": "Follow-up to Sonja's 3:08pm question about Star sitting at the closed upstairs bedroom door. Sonja says the door was already closed when she left, so she doubts Nebula is shut in, but she is still asking the office to confirm no sitter opened it. Unanswered as of 4:10pm.",
-     "quote": "It was closed when we left so I doubt she’s in there"
-    },
     {
      "cat": "behavior",
      "sev": "low",
@@ -4370,16 +4280,6 @@
      "office": false,
      "note": "Sitter wound the grandfather clock as part of the Sep 6 visit and put the litter waste bags in the garbage in the garage. Unclear from the email whether the clock is a standing request or a one-off.",
      "quote": "We wound up the grandfather clock as well."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Sonja Cuollo client message 4:09pm",
-     "office": true,
-     "note": "Closed out: Sonja's earlier question about whether Nebula could be shut in the upstairs bedroom is resolved - she says Star was just missing them. No sitter follow-up needed.",
-     "quote": "Thanks for checking! He’s just missed us then 😭 thank you all for taking care of them"
     }
    ],
    "dormant": false
@@ -4442,7 +4342,7 @@
      "quote": "he wouldn't go back yard so we took a nice 12 min walk"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Bill Brock",
@@ -4561,16 +4461,6 @@
      "office": false,
      "note": "Trash day at this house is Tuesday morning and the cans go out Monday night. Confirmed in the Sep 11 Company Notes.",
      "quote": "Take trash cans out Monday night"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Monica Hopewell visit report, Sep 5 evening",
-     "office": false,
-     "note": "Storm - stool consistency at the Sep 5 evening visit was logged as \"a little loose but not concerning\". Timber's was logged firm and healthy. One reading only; worth a look at the next visit if it repeats.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -4603,16 +4493,6 @@
      "office": false,
      "note": "Both of Lucy's medications were given at the Sun Sep 6 evening visit, after she had eaten her dinner, and she took them with no issues. The report does not name the drugs or the doses, so the standing gap in the Pet Care Note (3 fluoxetine at night plus apoquel, no dose or timing recorded) is still open - but it does establish that both are given at the evening visit, after food.",
      "quote": "After she ate, I gave her both medications. She took them with no issues."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Emily Tharp message 12:36pm",
-     "office": false,
-     "note": "Client asked the sitter to let Silas back in. Shannon Anderson replied that Silas was inside when they arrived and came downstairs to meet them, so it is unclear whether Silas had been let out on this visit or the request was about a previous one. Worth checking Silas is indoors before leaving.",
-     "quote": "Thank you! Can you let Silas back in"
     },
     {
      "cat": "behavior",
@@ -4653,16 +4533,6 @@
      "office": false,
      "note": "At the end of the Sun Sep 6 evening visit the sitter left the lamp by Lucy's cage on and the TV playing country music. She says she did it partly to distract the animals from fireworks going off outside, so it is not established whether this is a standing house routine or a one-off for the night.",
      "quote": "I left the lamp by Lucy's cage on as well as the TV playing some country music for them."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Elizabeth Sigler visit report 1:02pm",
-     "office": false,
-     "note": "Lucy, Penny and Silas share one water bowl; the sitter refreshed it on the midday visit. Two sitters attended (Shannon Anderson with Elizabeth Sigler); no accidents, no supplies low.",
-     "quote": "we made sure to refresh the water bowl shared by Lucy, Penny, and Silas"
     }
    ],
    "dormant": false
@@ -4683,16 +4553,6 @@
      "office": true,
      "note": "Second appetite report in three days. At the Mon Sep 7 visit Miguel was offered a Sheba and a churu and ate neither while the sitter was there; water was refreshed and dry food topped off. The Sep 5 report was ambiguous on this, so this is now a pattern worth raising with Kari rather than a one-off.",
      "quote": "I gave him a Sheba and a churu. He did not eat while I was here."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Margaret Bill visit report 1:37pm",
-     "office": false,
-     "note": "Miguel ate all his wet food but only some of his dry. The same report also says he drank water but did not eat while she was there, so the two statements conflict - worth confirming appetite at the next visit. She left out part of a can from the fridge plus a Sheba and gave a churu at the end.",
-     "quote": "Miguel ate all of his moist food, but a limited amount of his dry food"
     },
     {
      "cat": "health",
@@ -4723,16 +4583,6 @@
      "office": false,
      "note": "The visit includes more than the cat: there is a fish to feed (a pinch of both foods) and bird food to put out on the outside rails. No wildlife food was found on this visit.",
      "quote": "I put the bird food on the rails outside."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Margaret Bill visit report 1:37pm",
-     "office": true,
-     "note": "Sitter asked the client whether the garbage needs taking out and has had no answer yet. Also could not find Miguel's laser toy and used his two string toys instead.",
-     "quote": "Also let me know if the garbage needs to go out."
     }
    ],
    "dormant": false
@@ -4755,7 +4605,7 @@
      "quote": "has added a pet with name Lily to their account"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Lauren Stuy",
@@ -6562,6 +6412,66 @@
     }
    ],
    "dormant": false
+  },
+  {
+   "name": "Terri Reitmeier",
+   "url": "https://www.timetopet.com/dashboard/client/tjay2qLZwCKb",
+   "pets": [
+    "Norah"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 18",
+     "source": "Noella visit report",
+     "office": false,
+     "note": "Feeding routine seen on this visit: a yellow Churu squeezed into her food bowl, bowl rinsed out once she had licked it clean, and water added to her main water fountain. Recorded from one visit only - not confirmed as a standing instruction.",
+     "quote": "She got a yellow churru in her food bowl, when she was done licking it clean I rinsed it out."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 17",
+     "source": "client message",
+     "office": false,
+     "note": "Terri asked whether Norah's kibble was in the bowl when the sitter arrived. Her reason was not stated, so treat it as ambiguous - but she is evidently interested in the arrival kibble level, so it is worth reporting.",
+     "quote": "Was the kibble in her bowl when you arrived? Just curious"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Aug 18",
+     "source": "Noella visit report",
+     "office": false,
+     "note": "Norah is a very vocal cat who demands attention, leads the sitter to her food and follows them room to room. Expect loud meowing on arrival.",
+     "quote": "She is very vocal and showed me to her food."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 18",
+     "source": "Noella visit report",
+     "office": false,
+     "note": "Litter box is in the bathroom. On this visit the used litter was taken out to the garage/garbage. Complete litter change out was done.",
+     "quote": "I threw both trash litter in the garage/garbage."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Aug 18",
+     "source": "Noella visit report",
+     "office": false,
+     "note": "On this visit the food bowl was empty on arrival. Not clear from the report whether Norah had eaten it or none had been left out.",
+     "quote": "There was no kibbles in her food bowl today."
+    }
+   ],
+   "dormant": true
   }
  ]
 }
