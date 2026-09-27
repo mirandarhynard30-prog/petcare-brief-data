@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T06:20:05-04:00",
+ "generated": "2026-09-27T08:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2530,6 +2530,16 @@
      "office": true,
      "note": "At 7:36pm the Pet Care Note was emptied and its contents retyped into Company Notes. Most of it survived, but the water bowl locations - laundry room and kitchen - were dropped entirely, and the utility-room rule lost its 'when unattended' qualifier, so the record now reads as if the dogs stay shut in the utility room for the whole visit. 'Watch out for deer poop' also lost 'in back yard field'. Office should put the water bowl line back and confirm whether the confinement is only when unattended.",
      "quote": "There is a water bowl in the laundry room and in kitchen."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts updated contact information for Lance Hoffman (7:37-7:38pm)",
+     "office": false,
+     "note": "Two further Company Notes edits at 7:37pm and 7:38pm finished the rewrite. The containment rule now reads unconditionally - the earlier 'when unattended' qualifier is gone - and it now specifies which door: the one leading to the house. The strong-puller warning was cut from Company Notes at 7:38pm and now sits in the Current Pet Care Note as 'VERY STRONG, WILL PULL DURING WALK'. The deer-poop warning kept but no longer says 'in back yard field'.",
+     "quote": "All 3 dogs stay in the utility room. Make sure to replace the gate and keep door shut, leading to house."
     },
     {
      "cat": "health",
