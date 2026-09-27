@@ -1,36 +1,17 @@
 {
- "generated": "2026-09-26T18:35:07-04:00",
- "date": "2026-09-26",
- "label": "Sep 26, 2026",
+ "generated": "2026-09-27T00:05:30-04:00",
+ "date": "2026-09-27",
+ "label": "Sep 27, 2026",
  "clients": [
   {
    "name": "Anna Marie LeMaster",
    "visits": [
     {
-     "time": "9:00 AM",
-     "sort": "0900",
+     "time": "7:45 AM",
+     "sort": "0745",
      "staff": "Chelsea Tompkins",
-     "service": "Reassigned Visit-30 minute",
+     "service": "Cat Visit-30 Minutes",
      "pets": "Sampson"
-    }
-   ]
-  },
-  {
-   "name": "Brandon Keyes",
-   "visits": [
-    {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Shannon  Anderson",
-     "service": "Trainer Visit-45 minute",
-     "pets": "Flacko"
-    },
-    {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Elizabeth Sigler",
-     "service": "Shadow Visit with Staff Member-45 minute",
-     "pets": "Flacko"
     }
    ]
   },
@@ -38,11 +19,11 @@
    "name": "Jennifer Peganoff",
    "visits": [
     {
-     "time": "10:00 AM",
-     "sort": "1000",
-     "staff": "Kathy Pastor",
-     "service": "Reassigned Visit-20 minute",
-     "pets": "Bella"
+     "time": "8:45 AM",
+     "sort": "0845",
+     "staff": "Chelsea Tompkins",
+     "service": "Dog Visit-20 minute",
+     "pets": "Bella, Bella, Bella"
     }
    ]
   },
@@ -50,23 +31,18 @@
    "name": "Julia Rosenthal",
    "visits": [
     {
-     "time": "5:00 PM",
-     "sort": "1700",
-     "staff": "Monica Hopewell",
-     "service": "Cat Visit-20 Minutes",
-     "pets": "Sebastian, Leo ,  Valentino (Tino), Binx"
-    }
-   ]
-  },
-  {
-   "name": "Lance Hoffman",
-   "visits": [
+     "time": "9:00 AM",
+     "sort": "0900",
+     "staff": "Michelle Carrara",
+     "service": "Trainer Visit-20 minute",
+     "pets": "Sebastian, Leo , Binx,  Valentino (Tino)"
+    },
     {
-     "time": "2:30 PM",
-     "sort": "1430",
-     "staff": "Kristin Ashick",
-     "service": "Dog Visit-30 minute",
-     "pets": "Marlo, Frankie, Sammy"
+     "time": "9:00 AM",
+     "sort": "0900",
+     "staff": "Tiarra Roberts",
+     "service": "Shadow Visit with Staff Member-20 minute",
+     "pets": "Sebastian, Leo , Binx,  Valentino (Tino)"
     }
    ]
   },
@@ -76,7 +52,7 @@
     {
      "time": "6:00 PM",
      "sort": "1800",
-     "staff": "Dan Dantimo",
+     "staff": "Shannon  Anderson",
      "service": "Long Range Visit-30 Minute",
      "pets": "Holly"
     }
@@ -86,35 +62,11 @@
    "name": "Mary Ann Mckeever",
    "visits": [
     {
-     "time": "10:00 PM",
-     "sort": "2200",
+     "time": "8:30 PM",
+     "sort": "2030",
      "staff": "Tiarra Roberts",
      "service": "Dog Visit-20 minute",
      "pets": "Georgie"
-    }
-   ]
-  },
-  {
-   "name": "Mary Gilmore",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Elizabeth Sigler",
-     "service": "Dog Visit-30 minute",
-     "pets": "Puck, Rusty"
-    }
-   ]
-  },
-  {
-   "name": "Melody Siska",
-   "visits": [
-    {
-     "time": "9:00 PM",
-     "sort": "2100",
-     "staff": "Kiara Streety",
-     "service": "Last Minute Visit- 30 minute",
-     "pets": "chloe"
     }
    ]
   },
@@ -131,38 +83,43 @@
    ]
   },
   {
+   "name": "Terri Reitmeier",
+   "visits": [
+    {
+     "time": "12:00 PM",
+     "sort": "1200",
+     "staff": "Noella Assi",
+     "service": "Long Range Visit-45 Minute",
+     "pets": "Norah"
+    }
+   ]
+  },
+  {
    "name": "Yasmeen Abrams",
    "visits": [
     {
-     "time": "8:00 AM",
-     "sort": "0800",
-     "staff": "Monica Hopewell",
+     "time": "7:50 AM",
+     "sort": "0750",
+     "staff": "Tiarra Roberts",
      "service": "Dog and Cat Visit-30 minute",
      "pets": "Milky way, Evee"
     },
     {
-     "time": "2:30 PM",
-     "sort": "1430",
+     "time": "1:30 PM",
+     "sort": "1330",
      "staff": "Ashley Corall",
      "service": "Dog and Cat Visit-30 minute",
      "pets": "Milky way, Evee"
     },
     {
-     "time": "8:45 PM",
-     "sort": "2045",
+     "time": "8:00 PM",
+     "sort": "2000",
      "staff": "Monica Hopewell",
-     "service": "Trainer Visit-30minute",
-     "pets": "Milky way, Evee"
-    },
-    {
-     "time": "8:45 PM",
-     "sort": "2045",
-     "staff": "Michelle Carrara",
-     "service": "Shadow Visit with Staff Member-30 minute",
+     "service": "Dog Visit-30 minute",
      "pets": "Milky way, Evee"
     }
    ]
   }
  ],
- "visitCount": 15
+ "visitCount": 11
 }
