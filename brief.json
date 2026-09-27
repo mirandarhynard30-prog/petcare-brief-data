@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T09:20:05-04:00",
+ "generated": "2026-09-27T10:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6361,6 +6361,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 27",
+     "source": "Tiarra Roberts updated contact information, 10:04am",
+     "office": true,
+     "note": "The whole Current Pet Care Note was replaced this morning with the single line TAKE SHOES OFF BEFORE ENTERING. Most of the detail was moved into Company Notes, but the feeding amount did not survive the move: the old note said one scoop of dry food per bowl, top every bowl off at every visit, and leave a bowl alone if it still has food in it. Nothing in the new Company Notes states any amount or frequency. Office to put that back.",
+     "quote": "We just want to make sure they are topped off with a scoop of dry food every visit"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -6369,6 +6379,16 @@
      "office": true,
      "note": "Julia corrected the visit dates in reply to the office: not tomorrow. She says the visits should be Saturday evening and Sunday morning. The schedule needs checking against what she actually wants before anything is confirmed back to her.",
      "quote": "You mentioned tomorrow but the visits should be Saturday evening and Sunday morning."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 27",
+     "source": "Julia Rosenthal message, 9:25am",
+     "office": false,
+     "note": "All the cats get the same dry food now. Julia said so this morning, which retires the old note line that gave Leo his own special dry food and named a cat called Juniper who also had her own. Juniper is not one of the four cats on record, so that part was already unclear.",
+     "quote": "No they all get the same food now. Sorry forgot to mention that."
     },
     {
      "cat": "schedule",
@@ -6399,6 +6419,26 @@
      "office": true,
      "note": "Julia asked the office to confirm the entry details held for her home, and typed an access code and a key location into the message. Deliberately not recorded here - verify what is stored in Time To Pet directly and reply to her there.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 27",
+     "source": "Tiarra Roberts updated contact information, 10:04am",
+     "office": false,
+     "note": "The light above the kitchen sink is meant to stay on. That line was in the old Pet Care Note and did not carry over into the new Company Notes, so it is no longer written down anywhere on the account.",
+     "quote": "The light above the sink should stay on"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 27",
+     "source": "Julia Rosenthal message, 9:44am",
+     "office": false,
+     "note": "Sitters pointed out some damage in the house on this morning's visit. Julia replied that it is old and pre-existing, so there is no need to report it again.",
+     "quote": "The damages are old but thanks for pointing them out."
     },
     {
      "cat": "behavior",
