@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T14:20:07-04:00",
+ "generated": "2026-09-27T15:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2306,6 +2306,16 @@
      "quote": "he started walking towards me even with Ripley's hackles raised and her sitting between my legs in warning"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 26",
+     "source": "Tiarra Roberts updated contact information for Matt Konn (Company Notes)",
+     "office": true,
+     "note": "The Sep 26 9:48pm Company Notes rewrite dropped the frequency from Ripley's water instruction. It previously read 'Refresh 1 water bowl in kitchen every visit'; it now reads only 'Refresh 1 water bowl in kitchen', so the every-visit requirement is no longer written anywhere. Filtered fridge water from the door is unchanged. Office should restore the frequency.",
+     "quote": "Refresh 1 water bowl in kitchen"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2364,16 +2374,6 @@
      "note": "Feeding amounts as they now stand in Company Notes: 2 scoops dry kibble (pantry, bottom left), 2 scoops Nutra Complete from the fridge using the same scoop, 1/3 bag Farmers Dog from the fridge, splash of water mixed in. An older version said 1 scoop Nutra Complete, so the current figure is double.",
      "quote": "2 scoops Nutra Complete - fridge (use same scoop)",
      "source": "Tiarra Roberts, Company Notes edit"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Monica Hopewell visit report",
-     "office": false,
-     "note": "Ripley's stool on this visit logged as a little loose but not concerning; otherwise a normal walk and she ate/drank fine. One reading only.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -2574,6 +2574,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Sep 27",
+     "source": "Tiarra Roberts updated contact information for Lance Hoffman (Company Notes)",
+     "office": false,
+     "note": "Waste rule confirmed in the current Company Notes and not previously recorded in the brief: sitters do not have to pick up #2 on this property, and should watch their step for deer droppings while walking the dogs around the property.",
+     "quote": "No need to pick up #2, watch out for deer poop."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Sep 26",
      "source": "Tiarra Roberts updated contact information for Lance Hoffman",
@@ -2610,6 +2620,16 @@
      "office": false,
      "note": "They eat three times a day (am, midday, evening) in the utility room - portioned bags in the refrigerator or on the kitchen island, rice/chicken plus kibble in each bowl. Treats in the utility room cabinet. Water bowls in laundry room and kitchen.",
      "quote": "NO NEED TO PICK UP THE #2'S. WATCH OUT FOR DEER POOP IN BACK YARD FIELD."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 27",
+     "source": "Tiarra Roberts updated contact information for Lance Hoffman (Company Notes)",
+     "office": false,
+     "note": "Supply location confirmed in the current Company Notes and not previously recorded: the dogs' treats live in the utility room cabinet, the same room they are contained in.",
+     "quote": "Treats are in cabinet in utility room."
     }
    ],
    "dormant": false
