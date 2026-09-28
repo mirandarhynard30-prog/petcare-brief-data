@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T17:20:06-04:00",
+ "generated": "2026-09-28T19:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -396,6 +396,16 @@
      "quote": "I’m thinking Berry went no.#1 on the love seat because he snuck out of his diaper"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 28",
+     "source": "Client message 7:04pm Sep 28",
+     "office": false,
+     "note": "Liz replied at 7:04pm confirming the love seat #1 was Berry and that it is an ongoing pattern, not a one-off: she says he has been peeing on the love seat and on everything else, and that he and Louie are marking against each other. Expect marking indoors and check the love seat on arrival. She did not answer the diaper question.",
+     "quote": "Yes, he has been peeing on the loveseat and everything else too! He and Louie are in a never ending pissing contest."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -444,16 +454,6 @@
      "office": false,
      "note": "Sep 15 report: Louie jumped and the sitter carried him outside rather than let him walk out. Relevant to the hurt leg/hip already on file for Louie from Sep 10. The report gives no further detail and does not say Louie was in pain. Louie is logged as going #1 only. Emma's eye drops were given and medication marked administered; Stella and Berry both went #2, firm and healthy.",
      "quote": "even Louie jumped so I carried him out"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Thomas Rakovec visit report Sep 14",
-     "office": false,
-     "note": "Sep 14 report: Emma's eye drops were given and medication logged as administered. All four dogs got outside and went #1; Stella's #2 was logged firm and healthy, and Berry, Emma and Louie each had no #2. Client was home during the visit.",
-     "quote": ""
     }
    ],
    "dormant": false
