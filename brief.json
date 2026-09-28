@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T23:20:06-04:00",
+ "generated": "2026-09-28T07:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -263,6 +263,16 @@
      "quote": "Thank you!! Yes, please feed them tomorrow!"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Client message to the office, 7:09am Mon Sep 28",
+     "office": false,
+     "note": "Client left a physical yellow card for sitter Shannon Anderson, outside the bedroom door. It is addressed to Shannon specifically; the message does not say what is written on it. Whoever visits should look for it on arrival.",
+     "quote": "Shannon, the yellow card outside the bedroom door is for you!"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -311,16 +321,6 @@
      "office": true,
      "note": "Client agrees to a SECOND meet and greet once the family is in the new apartment, separate from any hotel-week meet and greet. This replaces the meet and greet she cancelled on Sep 21. No date proposed for it.",
      "quote": "Agreed about doing another meet and greet when we get to the new apt!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Evening visit: Rusty had pulled blanket corners into her crate. Shannon Anderson removed them and moved the blankets to the opposite side of the room so Rusty could not swallow pieces. No ingestion reported.",
-     "quote": "noticed that Rusty had pulled a few corners of the blankets into her crate. I removed them from her crate"
     }
    ],
    "dormant": false
@@ -609,16 +609,6 @@
      "quote": "after September 9th I will not need help with the dogs"
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Robin Lewis visit report, Sep 6 7am visit",
-     "office": true,
-     "note": "Sitter found vomit in Oliver's room by the window on the Sep 6 7am visit and cleaned it up. Her wording 'more throw up' implies she had seen vomit there before, though the earlier reports only log a potty accident and an upset belly on Sep 5 - so this is the second consecutive morning with a GI problem in that room. Oliver's stool on this visit was logged firm and healthy. Office should tell Jesse and decide whether a vet call is needed.",
-     "quote": "I did find more throw up this morning in his room by the window. I cleaned it up."
-    },
-    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -627,16 +617,6 @@
      "office": true,
      "note": "Robin Lewis says she will arrive later than scheduled for Jesse's SECOND visit on Tue Sep 8 because of an appointment, and will come as soon as it is over. No new time given. Jesse has not been told a time and this is his second-to-last scheduled day before service ends after Sep 9.",
      "quote": "i will be here a little later for the next visit due to an appt i have"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Robin Lewis visit report",
-     "office": false,
-     "note": "Second visit of the day, arrival ~11:25am: no accidents found and no vomit mentioned anywhere in the report. Oliver went #1 and #2, stool logged firm and healthy. Ginger went #1 only, no #2 this visit. Follows the same sitter finding vomit in Oliver's room at the 7am visit.",
-     "quote": "There were no accidents"
     },
     {
      "cat": "health",
@@ -848,16 +828,6 @@
      "office": true,
      "note": "THIRD ATTEMPT TO PUBLISH - this item was handed off at 13:13 and again at 14:13 and has still not appeared in the published brief. Mon Sep 7 11:30am visit: Lucy's stool was looser than normal, she would not touch her treats, she sat down at the mailboxes and would not move until Margaret sat down beside her, and back at the house she refused both water and kibble. The report records the stool as a little loose but not concerning. She was otherwise bright, walked her usual route and went into her pen easily.",
      "quote": "She sat down where the mailboxes are and didn't want to move."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Margaret Bill visit report",
-     "office": true,
-     "note": "Fifth open-garage report in five days. Margaret found the garage door open again at today's midday visit and shut it. Her report says she locked all doors on leaving. Nobody has yet raised the repeated open garage with Carol or checked whether the door is malfunctioning.",
-     "quote": "The garage door was open again when I came in so I shut it."
     }
    ],
    "dormant": false
@@ -1909,16 +1879,6 @@
      "office": false,
      "note": "Nova's #2 on the Sep 19 evening visit was logged in the report's consistency field as a little loose but not concerning. Penny went #1 only. This follows the Sep 6 loose-stool report for Nova; nothing on file says the client has been told.",
      "quote": "not only were they playing with each other more penny went number one and Nova number two"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Dan Dantimo visit report, 2:00pm",
-     "office": false,
-     "note": "Nova's stool at the Sun 2:00pm visit was reported loose. Penny went #1 only. Watch the next couple of visits; if it continues Ashley should be told.",
-     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "behavior",
@@ -3365,16 +3325,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Client message, 6:12pm",
-     "office": true,
-     "note": "Ray cancelled tomorrow's visit (Mon Sep 7) and expects service to resume Tuesday Sep 8. Sent as a message, not through the portal, so the visit is still on the schedule until the office removes it. Addressed to Tommy.",
-     "quote": "Tommy I just realized I won’t need your services tomorrow, have a great day and we will see you Tuesday."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -4382,7 +4332,7 @@
      "quote": "We wound up the grandfather clock as well."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Christi Russo",
@@ -4595,16 +4545,6 @@
      "quote": "She now also takes 3 pills of fluoxetine at night with the apoquel!"
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Shannon Anderson visit report, Sun Sep 6 evening",
-     "office": false,
-     "note": "Both of Lucy's medications were given at the Sun Sep 6 evening visit, after she had eaten her dinner, and she took them with no issues. The report does not name the drugs or the doses, so the standing gap in the Pet Care Note (3 fluoxetine at night plus apoquel, no dose or timing recorded) is still open - but it does establish that both are given at the evening visit, after food.",
-     "quote": "After she ate, I gave her both medications. She took them with no issues."
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -4613,36 +4553,6 @@
      "office": false,
      "note": "At the Mon Sep 7 morning visit the same sitter reversed the evening setup - she turned Lucy's lamp off and left the country music station playing. Lucy was again upstairs on arrival and came down while breakfast was got ready; she ate, walked, went #1 and #2, and there were no accidents in the home.",
      "quote": "I turned off Lucy's lamp but left the country music station playing for them."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Elizabeth Sigler visit report 10:32am",
-     "office": false,
-     "note": "Sep 6 morning visit: the sitter changed Lucy's walk route because another dog was coming down the hill they normally walk up (Professor). She went down W 7th St past Rising Star, up a different hill, and back down Professor instead. The report does not say why she chose to avoid the other dog, so do not read it as a reactivity note.",
-     "quote": "we didn’t go the usual way and continued walking down W 7th St since a dog was coming right down the hill"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Elizabeth Sigler visit report 10:32am",
-     "office": false,
-     "note": "Same visit: Lucy was upstairs on arrival and had to be called down; Silas and Penny were on the couch. Lucy was fed, walked, watered twice and treated, stool firm, no accidents. The sitter checked the cat auto feeder and says it appears to be working, with the food going down incrementally.",
-     "quote": "Auto feeder seems to be working well- I think I’ve noticed that the cat food is going down incrementally."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 6",
-     "source": "Shannon Anderson visit report, Sun Sep 6 evening",
-     "office": false,
-     "note": "At the end of the Sun Sep 6 evening visit the sitter left the lamp by Lucy's cage on and the TV playing country music. She says she did it partly to distract the animals from fireworks going off outside, so it is not established whether this is a standing house routine or a one-off for the night.",
-     "quote": "I left the lamp by Lucy's cage on as well as the TV playing some country music for them."
     }
    ],
    "dormant": false
