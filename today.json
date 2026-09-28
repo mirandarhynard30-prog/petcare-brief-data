@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T10:36:57-04:00",
+ "generated": "2026-09-28T12:50:11-04:00",
  "date": "2026-09-28",
  "label": "Sep 28, 2026",
  "clients": [
@@ -146,18 +146,6 @@
      "staff": "Dan Dantimo",
      "service": "Long Range Visit-30 Minute",
      "pets": "Holly"
-    }
-   ]
-  },
-  {
-   "name": "Marcella Singer",
-   "visits": [
-    {
-     "time": "7:00 PM",
-     "sort": "1900",
-     "staff": "Robin Lewis",
-     "service": "Cat Visit-30 Minutes",
-     "pets": "Buttercup, Sandy, Simba, Misty"
     }
    ]
   },
@@ -336,5 +324,5 @@
    ]
   }
  ],
- "visitCount": 31
+ "visitCount": 30
 }
