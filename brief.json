@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T08:20:05-04:00",
+ "generated": "2026-09-28T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6228,6 +6228,26 @@
      "quote": "Toby is unable to leave the garage, if the actual garage door is open."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 28",
+     "source": "Tiarra Roberts updated contact information for Michael Smith.",
+     "office": false,
+     "note": "General Information (Added By Client) was filled in for the first time on Sep 28 - the field had been blank. It gives a hiding spot for Pickles so a sitter can lay eyes on her: under the white dresser in the girl's bedroom. This does not match the Company Notes, which still say Pickles hides in the basement by the washer and dryer. Check both.",
+     "quote": "Pickles hides under white dresser in girl's bedroom"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 28",
+     "source": "Tiarra Roberts updated contact information for Michael Smith.",
+     "office": false,
+     "note": "Company Notes as they read after the Sep 28 edit, recorded because this client's written record has been cut down repeatedly: dry food in the kitchen, wet food in the garage, fed at the morning and evening visits; split one container of wet food between all dishes and fill the dry bowls as needed. Two litter boxes at the bottom of the basement steps. Mailbox by the front steps, mail onto the kitchen counter, trash bins to the curb Sunday for Monday pickup. There is still no dog feeding instruction anywhere in the note.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -6286,26 +6306,6 @@
      "office": false,
      "note": "Toby needs attention and prompting to go #2; the sitter may have to tap his bottom to get him to go.",
      "quote": "Give him attention and make him go #2. Might have to tap his bottom to make him go."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 18",
-     "source": "Tiarra Roberts meet-and-greet report",
-     "office": false,
-     "note": "Feeding: fill the bowls in the kitchen with dry food and water; the cats eat wet dog food; treats are in the garage.",
-     "quote": "Cats eat wet dog food."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Tiarra Roberts record edit 17:50 ET",
-     "office": false,
-     "note": "Company Notes retype dropped the parking guidance and the entry-method line. The fuller entry instruction survived, so nothing critical is missing. This is the new account built Sep 24 and it has now been through a retype before its first visit.",
-     "quote": "Best place to park is the driveway"
     }
    ],
    "dormant": false
