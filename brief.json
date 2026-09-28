@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T21:20:05-04:00",
+ "generated": "2026-09-27T23:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1194,6 +1194,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 27",
+     "source": "Tiarra Roberts visit report, Sep 27 9:04pm",
+     "office": false,
+     "note": "On the Sep 27 evening visit the sitter again helped Mary Ann give Georgie his eyedrops, then gave him 3 ice cube treats. The eyedrop routine at evening visits is still running; the brief's most recent eyedrop entries were Sep 15 and Sep 18.",
+     "quote": "I helped Mary Ann with Georgie's eyedrops."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1302,16 +1312,6 @@
      "office": true,
      "note": "Georgie's hot-weather protocol was deleted from the Current Pet Care Note, which now reads only 'Send ETA when on the way over'. Gone from every field: the 20-minute cap on outside time, 'if he is still panting after the walk leave the cooling collar on', and the post-walk ice cube. What survives is one line in Company Notes - orange cooling collar in the FRIDGE if over 75, slip harness over it. The deleted version said FREEZER, so the long-standing freezer/fridge contradiction got resolved by deletion rather than by decision. Restore the protocol and settle freezer vs fridge before the next warm-weather walk.",
      "quote": "When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Tiarra Roberts visit report, Sep 11 evening",
-     "office": true,
-     "note": "On the Sep 11 evening visit the sitter reports Mary Ann had what she calls the last set of eyedrops ready and held Georgie while Mary Ann gave them; medication was logged as administered. The report does not actually say the course has ended, so the office should confirm whether eye drops stop after this and get the answer written into the care note - there is still no eye-drop instruction on file.",
-     "quote": "Mary Ann had the last set of eyedrops ready, so I held him while she administered them."
     }
    ],
    "dormant": false
@@ -1334,6 +1334,16 @@
      "office": true,
      "note": "Something happened on the Sep 27 evening walk when Monica took Evee across the street. Monica calls it scary but sent the detail only as a private Connecteam message, so no description exists in Time To Pet. Office needs to retrieve it and decide whether the route or handling should change.",
      "quote": "Right now that girl is my best friend because yeah that was a little bit scary."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 27",
+     "source": "Monica Hopewell visit report, Sep 27 8:30pm",
+     "office": true,
+     "note": "The entry hardware defeated a sitter again on the Sep 27 evening visit - Monica Hopewell reports fighting the lockbox while Evee waited at the door. With the Saturday morning and Friday night reports already in the brief this is the third struggle in three days, and Evee is an escape risk standing loose on the other side of it. Allow extra time and have the lockbox itself looked at.",
+     "quote": "Evee was at the door while I fought with the lockbox of doom."
     },
     {
      "cat": "home",
@@ -1434,16 +1444,6 @@
      "office": false,
      "note": "Owner's stated leash preference for Evee: choke collar and rope leash (harness available if the sitter prefers). Poop bags by the door on the purple harness. If it rains, her outfits are in the blue bucket by the shoe rack.",
      "quote": "I prefer choke collar and rope leash she’s pretty good with that"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Aug 20",
-     "source": "Ashley Corall",
-     "office": false,
-     "note": "Evee is loose in the house when sitters walk in, so the door must be opened carefully.",
-     "quote": "Evee will be loose when entering so be careful!"
     }
    ],
    "dormant": false
@@ -2775,6 +2775,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 27",
+     "source": "Chelsea Tompkins visit report, Sep 27 9:06am",
+     "office": true,
+     "note": "Bella's #2 on the Sep 27 morning visit was logged as frank diarrhea - the report's consistency field reads very loose/diarrhea, with the sitter noting the pet seemed fine otherwise. Chelsea also wrote that Bella went #1 a few times and #2 twice. This is the second frank-diarrhea reading in eight days; the brief already carries the same finding for Sep 20. No vet contact and no client reply are recorded for either.",
+     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 20",
      "source": "Chelsea Tompkins visit report, Sep 20 morning visit",
      "office": true,
@@ -3068,6 +3078,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 27",
+     "source": "Shannon Anderson visit report, Sep 27 6:28pm",
+     "office": false,
+     "note": "Holly's #2 on the Sep 27 evening walk with Shannon Anderson was logged as firm and healthy - the first firm reading after slightly loose on both Sep 24 and Sep 25, so that trend appears to have resolved. Lynne was home during the visit and Holly was well behaved passing a pitbull and two papillons.",
+     "quote": "It was firm and healthy"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 25",
      "source": "Dan Dantimo evening report 6:43pm",
      "office": false,
@@ -3123,16 +3143,6 @@
      "office": false,
      "note": "Holly's Sep 20 evening walk with Shannon Anderson: she went both #1 and #2 and the report's consistency answer was 'It was firm and healthy'. This is the first firm stool logged after the run of evening reports describing it as a little loose.",
      "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Dan Dantimo visit report 6:01pm",
-     "office": false,
-     "note": "Holly's Sep 19 evening walk with Dan Dantimo: she went both #1 and #2, and the report's consistency answer is again 'It was a little loose but not concerning'. That is six evenings running with soft or loose stool logged for Holly (Sep 14, 15, 16, 17, 18, 19). Nothing in the mailbox shows anyone raising it with Lynne. Lynne was home during the visit.",
-     "quote": "She did go number one on our walk and did great today as we headed for home"
     }
    ],
    "dormant": false
