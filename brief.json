@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T15:20:07-04:00",
+ "generated": "2026-09-28T17:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4675,16 +4675,36 @@
    "items": [
     {
      "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Time To Pet account notification",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 28",
+     "source": "Time To Pet record update notification",
+     "office": false,
+     "note": "Alexandria filled in Lily's care details herself at 4:21pm. Food is in a jar in the fridge; add enough water to coat the kibble and microwave it 10 seconds before serving.",
+     "quote": "Add enough water to coat kibble and microwave 10 secs"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 28",
+     "source": "Time To Pet record update notification",
      "office": true,
-     "note": "Alexandria added a new pet, Lily, to her account at 6:33pm. No care details, no meet and greet and no booking attached to her yet.",
-     "quote": "has added a pet with name Lily to their account"
+     "note": "Access instructions added by Alexandria the same afternoon: entry is the front door, with a lockbox. The code arrived in the clear in the notification mail and is deliberately not repeated here - it stays in Time To Pet. Her record went from empty to complete today, so the Sep 5 gap on Lily is closed; office should check whether a meet and greet and a booking are still outstanding.",
+     "quote": "Entry: Front door."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 28",
+     "source": "Time To Pet record update notification",
+     "office": false,
+     "note": "Lily's leash and harness hang by the garage door.",
+     "quote": "Leash and harness: hanging by garage door"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Lauren Stuy",
