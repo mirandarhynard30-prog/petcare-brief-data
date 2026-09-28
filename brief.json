@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T12:20:06-04:00",
+ "generated": "2026-09-28T13:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -283,6 +283,26 @@
      "quote": ""
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Visit report, Shannon Anderson, Sep 28 12:26 PM",
+     "office": true,
+     "note": "Sitter had no usable water bowl and refilled water using the bathroom sink instead.",
+     "quote": "I did have to improvise for their water bowl. I used the bathroom sink."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Visit report, Shannon Anderson, Sep 28 12:26 PM",
+     "office": false,
+     "note": "Both dogs went into the garage and would not come when called; the sitter had to get down on the ground before they came out.",
+     "quote": "They decided they were going to go into the garage and ignore me when I called them."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -301,26 +321,6 @@
      "office": false,
      "note": "About halfway through outside time in the fenced back yard Puck stood at the door and whined to go in; the sitter tried more attention and pets, it did not help, and she finished the play time indoors. Rusty was fine and played fetch. The report flags no accidents, no low supplies and no discomfort or other symptom, so the reason Puck wanted in is not stated - it may be nothing. One visit, one sitter.",
      "quote": "Puck began to stand near the door and whine as if she wanted to go inside"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client private message, 6:07pm",
-     "office": true,
-     "note": "One minute after the hotel-week message the client sent a second message asking whether it would start next Thursday. It is phrased as a question, not a statement, so the start date is proposed and unconfirmed. Next Thursday from Fri Sep 25 is Oct 1. Office needs to confirm the date as part of answering the hotel-week question.",
-     "quote": "Starting next thursday-?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client private message 6:48pm",
-     "office": true,
-     "note": "Her coming week is now split: the first half stays as normal and the back half is undecided pending the hotel plan. She writes Mon-wed and thurs-sat without dates; in context that reads as Sep 28-30 normal and Oct 1-3 unresolved, but she did not state the dates so treat the mapping as inferred.",
-     "quote": "Yes, Mon-wed like normal. Unclear about thurs-sat"
     }
    ],
    "dormant": false
@@ -683,6 +683,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 28",
+     "source": "Client message (signed Toni), Sep 28 12:17 PM",
+     "office": false,
+     "note": "Client adjusted Rex's harness and it is now a bit tighter; she asks the sitter to check the fit is OK before leaving.",
+     "quote": "I adjusted Rex’s harness it’s a bit tighter so just check to see if it’s ok before you leave"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 25",
      "source": "Ashley Corall visit report",
      "office": true,
@@ -748,16 +758,6 @@
      "office": false,
      "note": "The Sep 18 report's security fields say the sitter entered through the garage door, closed it fully before leaving, and answered yes to setting a house alarm before leaving. That is the first indication in the swept mail that this house has an alarm. No code is recorded here - it stays in Time To Pet. One report only, so it is not yet confirmed as a standing rule.",
      "quote": "I entered through the garage door, garage door is fully closed before leaving"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Monica Hopewell visit report",
-     "office": false,
-     "note": "Going out the back deck Rex was ready and CJ was not, and Rex fell down the deck stairs. The report describes the rest of the walk as normal and does not mention any injury. One of the two is also harder to harness than the other.",
-     "quote": "Rex basically fell down the stairs of the back deck"
     }
    ],
    "dormant": false
@@ -838,6 +838,25 @@
      "office": false,
      "note": "Client wrote to Margaret at 11:54am Sep 28: a collar and a black leash are on the dining room table and those are the ones to use for Lucy. She suggests putting the collar on while Lucy is still in her pen, and says the sitter should have no trouble with her. The message reads as guidance for this visit; it does not say whether it applies to every visit.",
      "quote": "there is a collar and a black leash on the dining room table. That is what you can use for Lucy"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Visit report, Margaret Bill, Sep 28 12:18 PM",
+     "office": false,
+     "note": "Lucy scooted several times indoors before going out. On the walk she went #1 twice and no #2. One observation, not recorded as a pattern.",
+     "quote": "scooted several times while still in the house"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Visit report, Margaret Bill, Sep 28 12:18 PM",
+     "office": true,
+     "note": "Sitter used the paisley collar. The client's 11:54 AM message that morning pointed to a collar and a black leash on the dining room table; it is not clear from the report whether that is the same collar. Worth confirming which collar to use."
     }
    ],
    "dormant": false
@@ -1567,6 +1586,16 @@
     "Bismark"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Visit report, Drew Walker, Sep 28 12:59 PM",
+     "office": false,
+     "note": "Bismark got further than usual on this visit, out past the gate, then would not go on. Sitter sat outside with him before bringing him back in. No #2 on this visit.",
+     "quote": "We made it further than we normally do, we made it outside the gate"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -3384,6 +3413,16 @@
     "Guinness"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Visit report, Dan Dantimo, Sep 28 12:47 PM",
+     "office": false,
+     "note": "Guinness went #2 on the midday walk and the sitter logged the consistency as loose. Walk itself was normal and energetic.",
+     "quote": "It was a little loose but not concerning"
+    },
     {
      "cat": "health",
      "sev": "medium",
