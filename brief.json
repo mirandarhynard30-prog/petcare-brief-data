@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T11:20:08-04:00",
+ "generated": "2026-09-28T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -828,6 +828,16 @@
      "office": true,
      "note": "THIRD ATTEMPT TO PUBLISH - this item was handed off at 13:13 and again at 14:13 and has still not appeared in the published brief. Mon Sep 7 11:30am visit: Lucy's stool was looser than normal, she would not touch her treats, she sat down at the mailboxes and would not move until Margaret sat down beside her, and back at the house she refused both water and kibble. The report records the stool as a little loose but not concerning. She was otherwise bright, walked her usual route and went into her pen easily.",
      "quote": "She sat down where the mailboxes are and didn't want to move."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Client message 11:54am Sep 28",
+     "office": false,
+     "note": "Client wrote to Margaret at 11:54am Sep 28: a collar and a black leash are on the dining room table and those are the ones to use for Lucy. She suggests putting the collar on while Lucy is still in her pen, and says the sitter should have no trouble with her. The message reads as guidance for this visit; it does not say whether it applies to every visit.",
+     "quote": "there is a collar and a black leash on the dining room table. That is what you can use for Lucy"
     }
    ],
    "dormant": false
@@ -2867,6 +2877,16 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Sep 28",
+     "source": "Visit report, Drew Walker, 11:17am Sep 28",
+     "office": false,
+     "note": "On the Sep 28 late-morning visit Milo was walked first and pulled on the leash only when he saw a squirrel; otherwise he walked well. One observation from one sitter on one walk, not a standing rule. Archer walked a lap around the block afterwards. Both dogs went #1 and #2, consistency firm, no accidents, no supplies low.",
+     "quote": "didn’t pull much at all unless he saw a squirrel"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Sep 25",
      "source": "Kiara Streety visit report",
      "office": false,
@@ -2902,16 +2922,6 @@
      "office": true,
      "note": "Milo was put back in his crate before the sitter left, the second such report and both from the same sitter. Still no written instruction saying end-of-visit crating is required, so it remains unconfirmed whether this is the client's rule or the sitter's habit. Worth asking the client once and writing the answer down.",
      "quote": "before putting Milo in his crate"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Drew Walker visit report, Sep 14 1:28pm",
-     "office": false,
-     "note": "On the Sep 14 midday visit Milo was put back in his crate before the sitter left. One sitter on one visit - the report does not say whether crating Milo at the end of every visit is the standing instruction, so confirm before treating it as one. Milo and Archer were walked separately, Milo first.",
-     "quote": "putting Milo back in his crate before leaving for the day and locking the door"
     }
    ],
    "dormant": false
@@ -5149,6 +5159,16 @@
     "Helios"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Client message 12:05pm Sep 28",
+     "office": false,
+     "note": "Client wrote at 12:05pm Sep 28 that his dog will NOT need to be fed and that he himself will be home, and that what he wants is for the dog to get some exercise. He expects the dog to be excited to see everyone. The message arrived alongside a request for dates Sep 29 to Oct 1, so it most likely applies to that window, but the message itself names no dates.",
+     "quote": "He will not need to be fed, I will be home"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
