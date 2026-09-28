@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T20:20:06-04:00",
+ "generated": "2026-09-27T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1326,6 +1326,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 27",
+     "source": "Monica Hopewell visit report, Sep 27 8:30pm",
+     "office": true,
+     "note": "Something happened on the Sep 27 evening walk when Monica took Evee across the street. Monica calls it scary but sent the detail only as a private Connecteam message, so no description exists in Time To Pet. Office needs to retrieve it and decide whether the route or handling should change.",
+     "quote": "Right now that girl is my best friend because yeah that was a little bit scary."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -1434,16 +1444,6 @@
      "office": false,
      "note": "Evee is loose in the house when sitters walk in, so the door must be opened carefully.",
      "quote": "Evee will be loose when entering so be careful!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 27",
-     "source": "Ashley Corall visit report, Sep 27 1:48pm ET",
-     "office": false,
-     "note": "Evee's second choke collar, which had been missing, was found on the Sep 27 visit and is now hanging by the door. This is the first record of where that collar lives and it bears directly on the choke-chain instruction the brief records as having been deleted from the account on Sep 20 - the equipment exists and has a home, even though the written rule for using it does not.",
-     "quote": "she helped me find her other choke collar"
     }
    ],
    "dormant": false
