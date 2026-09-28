@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T09:20:05-04:00",
+ "generated": "2026-09-28T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -276,6 +276,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 28",
+     "source": "Client private message, Sep 28 10:07am",
+     "office": true,
+     "note": "Mary sent her away-from-home lodging details - street address, city and the name of the place she is staying - as a private message at 10:07am, with no other text. Read as the travel contact information for the trip her recent scheduling messages have been about. The details are deliberately NOT reproduced here because this page is public and they would say where she is and that her home is empty; retrieve them from the private conversation tab in Time To Pet and file them against the trip. This also still does not answer the outstanding booking question - she accepted '5' on Sep 27 and said she needs Friday and Saturday too, and that booking has yet to be made.",
+     "quote": ""
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 27",
      "source": "Mary Gilmore private message, Sep 27 1:52pm ET",
      "office": true,
@@ -311,16 +321,6 @@
      "office": true,
      "note": "Her coming week is now split: the first half stays as normal and the back half is undecided pending the hotel plan. She writes Mon-wed and thurs-sat without dates; in context that reads as Sep 28-30 normal and Oct 1-3 unresolved, but she did not state the dates so treat the mapping as inferred.",
      "quote": "Yes, Mon-wed like normal. Unclear about thurs-sat"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client private message 6:48pm",
-     "office": true,
-     "note": "Client agrees to a SECOND meet and greet once the family is in the new apartment, separate from any hotel-week meet and greet. This replaces the meet and greet she cancelled on Sep 21. No date proposed for it.",
-     "quote": "Agreed about doing another meet and greet when we get to the new apt!"
     }
    ],
    "dormant": false
@@ -6248,6 +6248,16 @@
      "quote": ""
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Noella Assi visit report, Sep 28 9:10am, shadowing Tiarra Roberts",
+     "office": false,
+     "note": "First actual sighting of Pickles reconciles the two conflicting written records: the sitters found Pickles under the white dresser in the bedroom, and when disturbed he ran down to the basement. So both recorded hiding spots are real, the dresser is where he settles and the basement is where he bolts to. Sitters should expect to hunt for him. Note the sitter calls Pickles 'he' while the Sep 28 General Information entry says girl's bedroom - the room, not the cat's sex, so no conflict, but Pickles's sex is not confirmed anywhere in writing.",
+     "quote": "Pickles was hiding in the room under the white dresser. He was very shy and ran down to the basement and hid."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -6296,16 +6306,6 @@
      "office": false,
      "note": "Company Notes written for the first time (previously blank). Dog is not dog friendly and dog visits are backyard only - no walks. Not listed as an escape risk.",
      "quote": "Dog friendly: No"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 18",
-     "source": "Tiarra Roberts meet-and-greet report",
-     "office": false,
-     "note": "Toby needs attention and prompting to go #2; the sitter may have to tap his bottom to get him to go.",
-     "quote": "Give him attention and make him go #2. Might have to tap his bottom to make him go."
     }
    ],
    "dormant": false
