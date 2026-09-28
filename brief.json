@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T10:20:06-04:00",
+ "generated": "2026-09-28T11:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -10,6 +10,16 @@
     "Caleb"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 28",
+     "source": "Tiarra Roberts updated contact information for Kelly Huntington (Pet Care Note), 10:32am",
+     "office": true,
+     "note": "Livvie's AM Pet Care Note was edited this morning and the Appetite Stimulant line was REMOVED. The previous version read: wear gloves, rub ointment on the ear, alternate ear each day. The note now lists only Prednisolone and Gabapentin. The email does not say whether the vet discontinued it or whether the line was dropped by accident - office should confirm before the next AM visit.",
+     "quote": "Appetite Stimulant -wear gloves, rub ointment on the ear, alternate ear each day"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -81,6 +91,26 @@
      "quote": "I think Noella may still be a little uncomfortable with Livvies AM meds"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 28",
+     "source": "Tiarra Roberts updated contact information for Kelly Huntington (Pet Care Note), 10:32am",
+     "office": false,
+     "note": "Gabapentin dosing for Livvie was clarified in the same round of edits - the syringe is now to be filled to the red line. Prednisolone was also reworded to 1 1/2 tablet. AM only, Livvie only.",
+     "quote": "Gabapentin - 0.4ml in syringe, to red line (bottle is on top shelf in the fridge. Give a little shake)"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 28",
+     "source": "Tiarra Roberts updated contact information for Kelly Huntington (Company Notes), 10:32am",
+     "office": true,
+     "note": "The Company Notes line naming where scooped litter goes was REMOVED in the same round of edits. Plastic bags in the hallway closet and scooper under the sink are still listed, but there is now no stated destination for the scooped waste. Restore it or tell sitters what replaced it.",
+     "quote": "Bathroom trash can beside toilet used for scooped litter"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -99,36 +129,6 @@
      "office": false,
      "note": "Sep 22 evening visit: Livvie stayed under the bed the whole visit and only showed herself for a second while the litter was being cleaned. She still ate all her wet food, which was served to her under the bed. Caleb was not at the door either but came into the kitchen for dinner and ate all of his.",
      "quote": "Livvie did not come out from under the bed."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Kelly Huntington message, 4:17pm",
-     "office": false,
-     "note": "Kelly says Livvie is eating much better. If Livvie does not finish her food, cover it with a paper towel and leave it on the counter - Kelly will give it to her when she gets home.",
-     "quote": "if she doesnt eat everything just cover with a paper towel and leave it on the counter"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Shannon Anderson visit report, Sep 18 8:47pm",
-     "office": true,
-     "note": "Evening visit with Tiarra Roberts shadowing. Caleb was unsettled by the change of routine and the new person. Both cats ate with no issues; each was given a few treats to help them warm to Tiarra. Shannon also reports Tiarra's phone died right after they arrived, so Tiarra's own detailed report was still outstanding at the time of this message - worth confirming it landed.",
-     "quote": "Mr. Caleb was a little upset that I changed routine and brought someone new to them."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 18",
-     "source": "Client message from Kelly Huntington, Sep 18 9:00pm",
-     "office": false,
-     "note": "Kelly confirms Caleb is slow to accept new sitters and needs repeat exposure rather than anything special on the day. She says she is glad introductions are starting early because she is going away; no dates given in this message.",
-     "quote": "You know him it just takes some time. Im glad were starting early before I leave."
     }
    ],
    "dormant": false
