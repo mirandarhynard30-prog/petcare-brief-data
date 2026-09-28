@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T13:20:08-04:00",
+ "generated": "2026-09-28T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -386,6 +386,16 @@
      "quote": "I try not to pick him up at all cause of it"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Thomas Rakovec visit report, Sep 28 1:28 PM",
+     "office": false,
+     "note": "Sitter found a #1 accident on the love seat and believes Berry slipped out of his diaper. He removed the diaper, took it downstairs, put another sheet on the love seat and put Berry back in his diaper. The sitter states this as what he thinks happened, not as confirmed.",
+     "quote": "I’m thinking Berry went no.#1 on the love seat because he snuck out of his diaper"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -693,6 +703,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 28",
+     "source": "Ashley Corall visit report, Sep 28 1:45 PM",
+     "office": false,
+     "note": "On the Sep 28 afternoon walk the sitter did not bungee CJ and Rex together. She clipped one end of the bungee to Rex's collar and the other end to his harness so the dogs stay side by side but can be separated if there is trouble on the street. One sitter, one visit - not a standing rule.",
+     "quote": "I also didn’t bungee them together and I took the bungee instead"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 25",
      "source": "Ashley Corall visit report",
      "office": true,
@@ -748,16 +768,6 @@
      "office": false,
      "note": "On rainy days, sitters may just use the garage because the back yard gets mushy. Client will leave towels in the garage to pat the boys dry; they like being toweled off.",
      "quote": "Feel free to just use the garage on rainy days, the back yard gets mushy."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Ashley Corall left a message for Terry M",
-     "office": false,
-     "note": "The Sep 18 report's security fields say the sitter entered through the garage door, closed it fully before leaving, and answered yes to setting a house alarm before leaving. That is the first indication in the swept mail that this house has an alarm. No code is recorded here - it stays in Time To Pet. One report only, so it is not yet confirmed as a standing rule.",
-     "quote": "I entered through the garage door, garage door is fully closed before leaving"
     }
    ],
    "dormant": false
@@ -3077,6 +3087,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 28",
+     "source": "Dan Dantimo visit report, Sep 28 1:43 PM",
+     "office": false,
+     "note": "Holly went #1 and #2 on the Sep 28 midday walk and the sitter logged the #2 consistency on the report form as a little loose but not concerning. The walk itself was long and she walked well.",
+     "quote": "She did go number one and two."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 27",
      "source": "Shannon Anderson visit report, Sep 27 6:28pm",
      "office": false,
@@ -3132,16 +3152,6 @@
      "office": true,
      "note": "Outcome of the Sep 21 evening walk that was put on hold for rain/thunder: Lynne wrote at 6:29pm that the walk should be cancelled if the rain continued without a break, and at 7:12pm said she and Holly had just come back soaking wet (she walked Holly herself). Julie Smith replied she will see Holly tomorrow. So the sitter walk appears not to have happened - office should confirm the Sep 21 evening visit is cancelled in the scheduler. Not explicitly stated whether it was formally cancelled.",
      "quote": "We should cancel if it continues without a break"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 20",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Holly's Sep 20 evening walk with Shannon Anderson: she went both #1 and #2 and the report's consistency answer was 'It was firm and healthy'. This is the first firm stool logged after the run of evening reports describing it as a little loose.",
-     "quote": "It was firm and healthy"
     }
    ],
    "dormant": false
