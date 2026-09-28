@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T07:20:07-04:00",
+ "generated": "2026-09-28T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3971,6 +3971,16 @@
      "cat": "home",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 28",
+     "source": "Tiarra Roberts updated contact information for Stephanie Sarrocco.",
+     "office": false,
+     "note": "Access Instructions were edited this morning to correct the LOCKING step: locking the front door now requires pushing the top grey 'Schlage' button AND twisting the grey knob. The previous wording said only to push the button, which is how the door was being left. Entry wording is unchanged. Codes stay in Time To Pet.",
+     "quote": "To lock: push the top gray button 'Schlage' and twisting grey knob"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 10",
      "source": "Pet Care Note updated by Tiarra Roberts",
      "office": false,
@@ -3986,6 +3996,16 @@
      "office": false,
      "note": "Frank has a grain allergy. It is in the Company Notes only, not the Pet Care Note, so anyone working from the care note alone will not see it. Food is Wellness Core dry, free-fed. No reaction detail given.",
      "quote": "Allergies: Frank - Grain allergy"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Tiarra Roberts left a message for Stephanie Sarrocco.",
+     "office": false,
+     "note": "Tiarra struggled with the front door lock on the Sep 28 morning visit before getting in. The Access Instructions were corrected one minute later, so this may have been the trigger; the email does not say whether the hardware itself is sticking. Allow extra time at the door.",
+     "quote": "I had just a little trouble with the front door lock, but I finally got it unlocked."
     },
     {
      "cat": "home",
@@ -4066,26 +4086,6 @@
      "office": true,
      "note": "Pet Care Note was retyped down to a shoes-off line, deleting the whole Churu instruction: Churu packets and a small glass bowl are left on the kitchen counter, the bowl is washed if used, and a packet is squeezed into it and set next to food and water. Nothing in the new record mentions Churu, so a sitter will now skip that feeding entirely. Stephanie is on today's schedule.",
      "quote": "Wash bowl if used and squeeze packet of Churu into bowl and place next to food/water."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 10",
-     "office": false,
-     "source": "Meet and greet report from Noella Assi for Stephanie Sarrocco, Sep 10 12:43pm",
-     "note": "Meet and greet on Sep 10 for two cats. Both hid under the bed and only came out for treats. Frank is the fluffy, bigger cat; Theo is smaller and shyer. Expect to need treats to get eyes on them. One visit only, so this is an observation rather than a confirmed standing rule.",
-     "quote": "They were both hiding under the bed but eventually came out for treats so we got to see them"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Pet Care Note updated by Tiarra Roberts",
-     "office": false,
-     "note": "Both cats are social but may hide under the bed; Frankie is the chubbier one, Theo the slender one. Churu/paste is left on the kitchen counter - one pack a day in the small glass bowl the client provides, washed before refilling. Theo is the one who mainly wants it.",
-     "quote": "PLEASE GIVE ONE PACK A DAY ON A SMALL GLASS BOWL THAT SHE WILL PROVIDE. WASH IT BEFORE ADDING NEW CHURU."
     }
    ],
    "dormant": false
