@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T08:20:06-04:00",
+ "generated": "2026-09-29T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2235,6 +2235,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Client private message 9:02am Sep 29",
+     "office": true,
+     "note": "Matt sent a private message at 9:02am this morning asking for two visits a day on Thursday, Friday and Saturday - windows 7-9 AM and 1-3 PM - while he is out of town 10/1 to 10/4. He says his daughter will be at the house and apologises for the short notice. This is a request in a message, not a booking placed in the system, and no reply is visible yet.",
+     "quote": "Can I get 2 visits on Thurs/Fri/Sat? 7-9 am & 1-3 pm"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -2343,16 +2353,6 @@
      "office": false,
      "note": "Sep 21 afternoon walk (client home): sitter reports Ripley likes to set the pace on walks - when she stops, wait for her to re-engage rather than pull. Shorter walk than Sep 20, possibly because of rain. Sitter says Ripley is warming to her more each visit. One sitter's observation, not yet a standing rule.",
      "quote": "When she stops, I just wait for her to reengage."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 20",
-     "source": "Tiarra Roberts visit report, Sep 20 morning visit",
-     "office": false,
-     "note": "Ripley barked at the shadowing sitter again on the Sep 20 morning visit - the third visit in four days with the same problem (Sep 17, Sep 19, Sep 20), each time with Tiarra Roberts shadowing Kristin Ashick. Tiarra says she will be visiting on her own next week.",
-     "quote": "Kristin and I headed inside and had a little trouble with Ripley barking again."
     }
    ],
    "dormant": false
@@ -6125,6 +6125,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 29",
+     "source": "Pet Care Note edit by Tiarra Roberts 7:03am Sep 29",
+     "office": false,
+     "note": "The Current Pet Care Note was blank and now holds four standing instructions: send an ETA when on the way; Ray, the client's elderly father-in-law, may be home during visits; give a courtesy knock before entering; a chime will sound when the door opens. The father-in-law and courtesy-knock lines were moved out of Company Notes in the same edit, so they are no longer duplicated there.",
+     "quote": "Send ETA when on the way"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 26",
      "source": "Tiarra Roberts record edit 17:57 ET",
      "office": true,
@@ -6220,16 +6230,6 @@
      "office": true,
      "note": "Entry arrangements for next week's visits are still unsettled. The relative who will be at the house while she is away has not yet decided whether he will let the sitter in each day or whether sitters should enter on their own. The client says she will send a final plan on Sunday, so the sitter instructions for Mon-Wed cannot be finalised before then.",
      "quote": "I'll send a final plan over Sunday of what he decides."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Client private message, Sep 17 12:43pm",
-     "office": true,
-     "note": "New service question that needs an office answer: the client asks whether we ended up offering pet pickup/drop-off. Friends of hers are bringing two dogs to a playdate at her house this Saturday Sep 19 and need help getting those two dogs back home. She offered to send more details. Nothing has been promised to her.",
-     "quote": "If I provided more details, is this something that we could arrange through you?"
     }
    ],
    "dormant": false
