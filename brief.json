@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T07:20:07-04:00",
+ "generated": "2026-09-29T08:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -306,21 +306,21 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 28",
+     "source": "Private message from Mary Gilmore",
+     "office": true,
+     "note": "Mary sent the hotel she is staying at while away as her away-contact details; the address itself is in Time To Pet, not repeated here.",
+     "quote": ""
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 27",
      "source": "Mary Gilmore private message, Sep 27 1:52pm ET",
      "office": true,
      "note": "Client replies accepting something the office proposed as '5' and adds that she also needs services on Friday and Saturday. The email does not say what '5' refers to - a 5pm arrival window or a count of visits - and it does not give the Friday/Saturday dates, so the office has to confirm both before anything is on the schedule. Follows her earlier Oct 1 Macedonia question already in the brief.",
      "quote": "Okay great, 5 works! Yes, ill need services fri and sat too. Thanks!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Elizabeth Sigler visit report, Sep 25 11:51am",
-     "office": false,
-     "note": "About halfway through outside time in the fenced back yard Puck stood at the door and whined to go in; the sitter tried more attention and pets, it did not help, and she finished the play time indoors. Rusty was fine and played fetch. The report flags no accidents, no low supplies and no discomfort or other symptom, so the reason Puck wanted in is not stated - it may be nothing. One visit, one sitter.",
-     "quote": "Puck began to stand near the door and whine as if she wanted to go inside"
     }
    ],
    "dormant": false
@@ -406,6 +406,16 @@
      "quote": "Yes, he has been peeing on the loveseat and everything else too! He and Louie are in a never ending pissing contest."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Client message from Liz Wainio",
+     "office": false,
+     "note": "Liz says the dog has been urinating on the loveseat and on everything else; she names Louie, while the same-day sitter report names Berry, so which dog is meant is unclear.",
+     "quote": "Yes, he has been peeing on the loveseat and everything else too!"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -444,16 +454,6 @@
      "office": false,
      "note": "Visit included eye drops, a pee-pad check, a diaper change for Berry and medication administered for Emma. The report does not say which pet the eye drops were for.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Thomas Rakovec midday visit report, Sep 15",
-     "office": false,
-     "note": "Sep 15 report: Louie jumped and the sitter carried him outside rather than let him walk out. Relevant to the hurt leg/hip already on file for Louie from Sep 10. The report gives no further detail and does not say Louie was in pain. Louie is logged as going #1 only. Emma's eye drops were given and medication marked administered; Stella and Berry both went #2, firm and healthy.",
-     "quote": "even Louie jumped so I carried him out"
     }
    ],
    "dormant": false
@@ -837,6 +837,16 @@
      "source": "Visit report, Margaret Bill, Sep 28 12:18 PM",
      "office": true,
      "note": "Sitter used the paisley collar. The client's 11:54 AM message that morning pointed to a collar and a black leash on the dining room table; it is not clear from the report whether that is the same collar. Worth confirming which collar to use."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Sitter Margaret Bill visit report",
+     "office": false,
+     "note": "Lucy scooted several times indoors before going out, urinated twice outside and had no bowel movement during the visit.",
+     "quote": "She didn't seem in a hurry to go outside, but scooted several times while still in the house."
     }
    ],
    "dormant": false
@@ -5187,6 +5197,16 @@
      "office": false,
      "note": "Client wrote at 12:05pm Sep 28 that his dog will NOT need to be fed and that he himself will be home, and that what he wants is for the dog to get some exercise. He expects the dog to be excited to see everyone. The message arrived alongside a request for dates Sep 29 to Oct 1, so it most likely applies to that window, but the message itself names no dates.",
      "quote": "He will not need to be fed, I will be home"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 28",
+     "source": "Client message from Tom Noble",
+     "office": false,
+     "note": "Tom will be home recovering from surgery during this booking; the dog does not need to be fed and he mainly wants the dog exercised.",
+     "quote": "He will not need to be fed, I will be home I am recovering from surgery"
     },
     {
      "cat": "behavior",
