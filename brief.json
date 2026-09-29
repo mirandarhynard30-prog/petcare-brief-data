@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T16:20:05-04:00",
+ "generated": "2026-09-29T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -216,6 +216,26 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 29",
+     "source": "Mary Gilmore private message, Sep 29 4:14 PM",
+     "office": true,
+     "note": "Client says she cancelled tomorrow's (Wed Sep 30) afternoon visit herself in Time To Pet. A portal Service Change Requested notice followed at 4:22 PM. Office should confirm the Sep 30 afternoon visit is off the schedule.",
+     "quote": "I just cancelled tomorrows afternoon visit."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Mary Gilmore private message, Sep 29 4:52 PM",
+     "office": true,
+     "note": "Client wrote this at 4:52 PM. It is ambiguous against the Sep 29 note that the house is packed up and the dogs will not be there from Thursday - unclear whether Thursday visits are on, or whether she means seeing the team socially. Office should confirm Thursday Oct 1 coverage with the client directly.",
+     "quote": "i look forward to seeing everyone thursday!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 25",
      "source": "Client private message, 6:06pm",
      "office": true,
@@ -293,34 +313,14 @@
      "quote": "For the rest of our visit I stood in front of the window anytime they started to sniff around it"
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Client message to the office, 7:09am Mon Sep 28",
-     "office": false,
-     "note": "Client left a physical yellow card for sitter Shannon Anderson, outside the bedroom door. It is addressed to Shannon specifically; the message does not say what is written on it. Whoever visits should look for it on arrival.",
-     "quote": "Shannon, the yellow card outside the bedroom door is for you!"
-    },
-    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 28",
-     "source": "Client private message, Sep 28 10:07am",
+     "date": "Sep 29",
+     "source": "Mary Gilmore private message, Sep 29 4:14 PM",
      "office": true,
-     "note": "Mary sent her away-from-home lodging details - street address, city and the name of the place she is staying - as a private message at 10:07am, with no other text. Read as the travel contact information for the trip her recent scheduling messages have been about. The details are deliberately NOT reproduced here because this page is public and they would say where she is and that her home is empty; retrieve them from the private conversation tab in Time To Pet and file them against the trip. This also still does not answer the outstanding booking question - she accepted '5' on Sep 27 and said she needs Friday and Saturday too, and that booking has yet to be made.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Visit report, Shannon Anderson, Sep 28 12:26 PM",
-     "office": true,
-     "note": "Sitter had no usable water bowl and refilled water using the bathroom sink instead.",
-     "quote": "I did have to improvise for their water bowl. I used the bathroom sink."
+     "note": "Same message: client invites Shannon to stop by before 5 PM tomorrow (Wed Sep 30) to say goodbye to the dogs, and adds that either way is okay. Someone in the office needs to pass this to Shannon Anderson; it is an invitation, not a booked visit.",
+     "quote": "Please tell shannon that she can run by and say goodbye the girls tomorrow, if she can swing by before 5."
     }
    ],
    "dormant": false
