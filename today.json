@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T00:05:08-04:00",
+ "generated": "2026-09-29T09:05:57-04:00",
  "date": "2026-09-29",
  "label": "Sep 29, 2026",
  "clients": [
@@ -250,18 +250,6 @@
    ]
   },
   {
-   "name": "Paulo Garcia",
-   "visits": [
-    {
-     "time": "10:45 AM",
-     "sort": "1045",
-     "staff": "Kiara Streety",
-     "service": "Dog Visit-45 minute",
-     "pets": "Archer, Milo"
-    }
-   ]
-  },
-  {
    "name": "Ray Koesel",
    "visits": [
     {
@@ -336,5 +324,5 @@
    ]
   }
  ],
- "visitCount": 31
+ "visitCount": 30
 }
