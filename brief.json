@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T13:35:07-04:00",
+ "generated": "2026-09-29T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -206,6 +206,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 29",
+     "source": "Shannon Anderson message to client, 1:32pm",
+     "office": true,
+     "note": "Sitter Shannon Anderson told the client at 1:32pm that the house is packed up and the dogs will not be there from Thursday. This is the sitter stating the move date, not the client confirming it. Office needs to check which visits from Thursday Oct 1 onward still stand and close out the remaining schedule.",
+     "quote": "Their stuff is all packed. Thursday they are no longer there."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 25",
      "source": "Client private message, 6:06pm",
      "office": true,
@@ -263,6 +273,16 @@
      "quote": "Thank you!! Yes, please feed them tomorrow!"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "office": false,
+     "source": "Elizabeth Sigler visit report, 1:17-1:55pm visit",
+     "note": "During the 1:17pm visit both dogs got into the garage through a side window as soon as they were let out back. The sitter got them out quickly and wrote it down so the next person would know. This is a second garage incident in two days after the Sep 28 report, but by a different route, so it is logged as two separate events and not yet a standing rule.",
+     "quote": "They immediately peed and then hopped through that side window into the garage."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -301,26 +321,6 @@
      "office": false,
      "note": "Both dogs went into the garage and would not come when called; the sitter had to get down on the ground before they came out.",
      "quote": "They decided they were going to go into the garage and ignore me when I called them."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Private message from Mary Gilmore",
-     "office": true,
-     "note": "Mary sent the hotel she is staying at while away as her away-contact details; the address itself is in Time To Pet, not repeated here.",
-     "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 27",
-     "source": "Mary Gilmore private message, Sep 27 1:52pm ET",
-     "office": true,
-     "note": "Client replies accepting something the office proposed as '5' and adds that she also needs services on Friday and Saturday. The email does not say what '5' refers to - a 5pm arrival window or a count of visits - and it does not give the Friday/Saturday dates, so the office has to confirm both before anything is on the schedule. Follows her earlier Oct 1 Macedonia question already in the brief.",
-     "quote": "Okay great, 5 works! Yes, ill need services fri and sat too. Thanks!"
     }
    ],
    "dormant": false
@@ -3858,6 +3858,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 29",
+     "office": true,
+     "source": "Client message, 2:13pm",
+     "note": "Client wrote at 2:13pm during the same-day noon walk that Praveena has to get Whiskey to a sitter before her flight to New York, and asked that Whiskey be back by 2:50. He does not say how long Whiskey will be at the sitter or whether the standing twice-daily visits should pause, so the office needs to ask before the next scheduled visit.",
+     "quote": "I know she has to also get Whiskey to the sitter before she leaves for her flight to New York"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 19",
      "source": "Client message 1:34pm",
      "office": true,
@@ -3943,16 +3953,6 @@
      "office": true,
      "note": "On the Sep 11 midday walk Whiskey started with less energy than usual and his stool turned to diarrhea by the end of the walk; sitter gave only a small piece of chicken jerky and left the food bowl as it was. Sitter photographed the stool. Client had reported loose stool in the crate the previous evening, so this is a second episode - worth an office check on whether a vet call is wanted.",
      "quote": "At first, the poo seemed normal. But then by the end what was coming out of him turned into diarrhea."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Elizabeth Sigler visit report",
-     "office": true,
-     "note": "Sep 10 morning visit: sitter cleaned up an indoor potty accident. Visit report logged #1 only; no #2 and no stool consistency recorded.",
-     "quote": "I cleaned up a potty accident"
     }
    ],
    "dormant": false
