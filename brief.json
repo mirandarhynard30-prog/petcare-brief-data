@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T11:05:06-04:00",
+ "generated": "2026-09-29T11:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6243,7 +6243,8 @@
     "Beau-ba",
     "White Kitty Boy",
     "Pickles",
-    "Toby"
+    "Toby",
+    "Whitty Kitty Boy"
    ],
    "items": [
     {
@@ -6285,6 +6286,16 @@
      "office": true,
      "note": "Garage rule for Toby, recorded verbatim because the wording is ambiguous - it reads either as Toby being unable to get out of the garage when the main door is open, or as an instruction not to let him out then. Needs confirming with Michael.",
      "quote": "Toby is unable to leave the garage, if the actual garage door is open."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Client message 11:04 AM",
+     "office": false,
+     "note": "Michael asks the sitter to try to give the white cat attention if he allows it - he was stressed when the family left.",
+     "quote": "Please try to give attention to white kitty... If he lets you. He was stressin when we left."
     },
     {
      "cat": "behavior",
@@ -6355,16 +6366,6 @@
      "office": true,
      "note": "The same Sep 22 edit also dropped the litter box cleaning instruction from the Company Notes. Only the location of the 2 boxes at the bottom of the basement steps remains; the line saying to scoop and dispose of waste in the outside trash can is gone.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 20",
-     "source": "Company Notes updated by Shannon Anderson",
-     "office": false,
-     "note": "Company Notes written for the first time (previously blank). Dog is not dog friendly and dog visits are backyard only - no walks. Not listed as an escape risk.",
-     "quote": "Dog friendly: No"
     }
    ],
    "dormant": false
