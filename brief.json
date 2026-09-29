@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T14:20:05-04:00",
+ "generated": "2026-09-29T15:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6022,6 +6022,16 @@
      "quote": "I didn't give Flacko any treats today because I couldn't find them."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Client message, 2:47pm",
+     "office": false,
+     "note": "Answering the sitter's Sep 29 report that Flacko's treats could not be found: the client says he will get more treats made, and that there is dog ice cream in the freezer for Flacko. He does not say whether the dog ice cream may be given on a normal visit or only as a substitute when treats are out.",
+     "quote": "also dog ice cream in the freezer for him"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -6100,16 +6110,6 @@
      "office": true,
      "note": "Client will not submit next week's requests until Sunday - he wants to see how much he will be working, which he says depends on the weather. Next week's Flacko schedule should be treated as unconfirmed until then.",
      "quote": "I will wait till Sunday to upload the schedule just to see if I’m gonna be working a lot"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 15",
-     "source": "Company Notes written by Shannon Anderson, Sep 15 6:22pm",
-     "office": false,
-     "note": "Visit type is Dog Midday (weekly walks / drop-ins), a dog walk. Park at the back of the driveway. Entry is by a keypad on the back door - the code is in Time To Pet and is deliberately not reproduced here. No house alarm system, and the client is not home during visits.",
-     "quote": "Best place to park: Back of driveway"
     }
    ],
    "dormant": false
