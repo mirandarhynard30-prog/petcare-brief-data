@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T12:20:06-04:00",
+ "generated": "2026-09-29T13:35:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -336,6 +336,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Thomas Rakovec visit report 12:14pm",
+     "office": true,
+     "note": "Louie again did not want to go out back with the others. The same sitter reported the same thing on Sep 17. That is now twice in twelve days, on top of the Sep 10 note that he was growling at the other dogs and grumpier than usual when groomed. Recording the repeat only - no cause is stated anywhere in the mail. Worth the office checking with the client whether a vet has seen him.",
+     "quote": "arrived at the house let everyone out back except Louie, he didn't feel like it today"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -444,16 +454,6 @@
      "office": true,
      "note": "Louie was the only dog not let out back at this visit. The report gives no reason. Worth an office check given his ongoing hurt leg/hip. Stella and Berry were walked; both went #1 only.",
      "quote": "I arrived and let em all out back to go to the bathroom except Louie today"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "Visit included eye drops, a pee-pad check, a diaper change for Berry and medication administered for Emma. The report does not say which pet the eye drops were for.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -2164,6 +2164,26 @@
     "Daffodil"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Client message 12:33pm",
+     "office": false,
+     "note": "Daffodil had an accident indoors at the 11:45am visit on Sep 29. Kathy Sullenberger and Shannon Anderson cleaned it with soap and water. The client asked for a description of where the spot is so she can treat it when she gets home, and says she will set out the cleaner in case it happens again. Shannon Anderson replied at 12:41pm pointing her to the second photo, so the location question looks answered - worth a glance to confirm she got what she needed.",
+     "quote": "I’ll make sure to set out the cleaner in case it happens again."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Client message 12:33pm",
+     "office": false,
+     "note": "The client says the Sep 29 indoor accident was out of character because Daffodil had already pooped when she took her out before work. No other symptom is mentioned. Logged so a second accident would be recognised as a pattern rather than a one-off.",
+     "quote": "that’s really unexpected, especially since she pooped when I took her before work, too."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -5719,6 +5739,16 @@
      "quote": "There are also eye drops for Louise up there. It looks like her eye is pretty dry. She has a chronic issue."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Elizabeth Sigler message 12:34pm",
+     "office": true,
+     "note": "Follow-up to the client's eye-drop message: Elizabeth Sigler replied at 12:34pm that she did NOT give Louise the eye drops at the Sep 29 visit (Louise was resting when she left) and that she is not on Frank and Louise's schedule again this week. She said she would tell the other sitters so whoever sees Louise next can do it. So the drops are still outstanding and whoever covers the next visit needs to know. Which cabinet, and whether sitters are to apply them at all, is still unconfirmed - see the open office item on that.",
+     "quote": "I unfortunately don't see Frank and Louise on my schedule again this week."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -5817,16 +5847,6 @@
      "office": false,
      "note": "Louise was wary of this sitter at first and warmed up over the course of the visit; Frank was immediately affectionate. One visit, one sitter - not recorded as a standing rule.",
      "quote": "At first, Louise wasn’t so sure of me. But after I’d been here for a little while she let me give her some pets."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Elizabeth Sigler visit report",
-     "office": false,
-     "note": "Sitter cleaned up an indoor potty accident on this visit. The report does not say which dog.",
-     "quote": "I cleaned up a potty accident"
     }
    ],
    "dormant": false
@@ -5992,6 +6012,16 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Elizabeth Sigler visit report 12:48pm",
+     "office": true,
+     "note": "Sitter could not find Flacko's treats at the Sep 29 visit and gave him none. The visit report's pet-supplies-low field was answered Yes. The brief's Sep 16 note says the client keeps a small bag of treats on the top shelf in the fridge, so either they have run out or the sitter did not know where to look. Office should confirm which before the next visit.",
+     "quote": "I didn't give Flacko any treats today because I couldn't find them."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -6080,16 +6110,6 @@
      "office": false,
      "note": "Visit type is Dog Midday (weekly walks / drop-ins), a dog walk. Park at the back of the driveway. Entry is by a keypad on the back door - the code is in Time To Pet and is deliberately not reproduced here. No house alarm system, and the client is not home during visits.",
      "quote": "Best place to park: Back of driveway"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 15",
-     "source": "Company Notes written by Shannon Anderson, Sep 15 6:22pm",
-     "office": false,
-     "note": "Supply locations from the same Sep 15 Company Notes: leash and poop bags by the back door, food and water bowls in the living room fireplace, treats in a cooler with ice or in the fridge (Dad makes all food and treats), toys in the living room, cleaning supplies in the kitchen, used bags in the trash cans lined up alongside the garage.",
-     "quote": "Leash location: By backdoor"
     }
    ],
    "dormant": false
@@ -6308,6 +6328,16 @@
      "quote": "Please try to give attention to white kitty... If he lets you. He was stressin when we left."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Noella Assi message 12:50pm",
+     "office": false,
+     "note": "Answering the client's Sep 29 note that the white cat was stressed when they left: the sitter confirms she did see him eat some food at the morning visit. She did not see Beau-ba at all that morning. The mail does not say whether Beau-ba being unseen is unusual for this house.",
+     "quote": "we did see him eat some food, I did not see Beau-ba this morning."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -6365,16 +6395,6 @@
      "source": "Tiarra Roberts updated contact information for Michael Smith (Sep 22)",
      "office": true,
      "note": "The same Sep 22 edit removed the Dog Behavior block from the Company Notes, which had answered 'Dog friendly: No' and 'Escape risk: No' for Toby. The dog-friendly answer in particular is a safety detail and is now absent.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 22",
-     "source": "Tiarra Roberts updated contact information for Michael Smith (Sep 22)",
-     "office": true,
-     "note": "The same Sep 22 edit also dropped the litter box cleaning instruction from the Company Notes. Only the location of the 2 boxes at the bottom of the basement steps remains; the line saying to scoop and dispose of waste in the outside trash can is gone.",
      "quote": ""
     }
    ],
