@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T11:20:13-04:00",
+ "generated": "2026-09-29T13:35:10-04:00",
  "date": "2026-09-29",
  "label": "Sep 29, 2026",
  "clients": [
@@ -122,8 +122,8 @@
    "name": "Erik Risa",
    "visits": [
     {
-     "time": "1:45 PM",
-     "sort": "1345",
+     "time": "2:15 PM",
+     "sort": "1415",
      "staff": "Elizabeth Sigler",
      "service": "Last Minute Visit- 45 minute",
      "pets": "Whiskey"
@@ -196,8 +196,8 @@
    "name": "Mary Gilmore",
    "visits": [
     {
-     "time": "12:45 PM",
-     "sort": "1245",
+     "time": "1:15 PM",
+     "sort": "1315",
      "staff": "Elizabeth Sigler",
      "service": "Dog Visit-30 minute",
      "pets": "Puck, Rusty"
