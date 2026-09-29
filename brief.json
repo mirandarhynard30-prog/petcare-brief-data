@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T15:20:08-04:00",
+ "generated": "2026-09-29T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -283,6 +283,16 @@
      "quote": "They immediately peed and then hopped through that side window into the garage."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Elizabeth Sigler message to client, Sep 29 3:40pm",
+     "office": false,
+     "note": "Workaround one sitter used for the garage side window the dogs got through earlier on Sep 29: for the rest of that visit Elizabeth Sigler positioned herself in front of the window whenever the dogs started sniffing at it, and they moved on quickly. One sitter on one visit - recorded as what she did, not as a standing instruction.",
+     "quote": "For the rest of our visit I stood in front of the window anytime they started to sniff around it"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -311,16 +321,6 @@
      "office": true,
      "note": "Sitter had no usable water bowl and refilled water using the bathroom sink instead.",
      "quote": "I did have to improvise for their water bowl. I used the bathroom sink."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Visit report, Shannon Anderson, Sep 28 12:26 PM",
-     "office": false,
-     "note": "Both dogs went into the garage and would not come when called; the sitter had to get down on the ground before they came out.",
-     "quote": "They decided they were going to go into the garage and ignore me when I called them."
     }
    ],
    "dormant": false
@@ -808,6 +808,36 @@
      "office": true,
      "note": "Client (signs as Carol) sent a private message on the evening of Sep 8 cancelling the walker for the next day, Sep 9.",
      "quote": "I will need to cancel walker for tomorrow"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Margaret Bill visit report, Sep 29 12:41pm",
+     "office": false,
+     "note": "Sep 29 midday walk: Lucy was lying in her bed on arrival, had to be encouraged to walk, and the sitter used the treat game to move her along. She took the treats on the walk but would not eat or drink when the sitter offered. She went #1, no #2, and the sitter wrote she did not seem to have much energy and hoped she was okay. See the client's own explanation for this, filed separately - do not read the two as one message.",
+     "quote": "I tried to get her to eat or drink but she wouldn't take either."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Client message (signs as Carol), Sep 29 3:37pm",
+     "office": false,
+     "note": "Client's answer to the low-energy report: she says not to worry about Lucy's energy because Lucy has just come out of two weeks of training camp and it is normal for them to sleep a lot afterwards. She also says Lucy's high-energy time is usually late afternoon. This is the client's own reassurance, not a vet opinion, and she asks for nothing.",
+     "quote": "I would not worry much about her new energy. She has been in training camp for two weeks"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 29",
+     "source": "Client message (signs as Carol), Sep 29 3:37pm",
+     "office": false,
+     "note": "Client confirms that getting Lucy's collar on and off is a known sensitivity with her - she was glad to hear the sitter had no trouble with it on Sep 29. Treat the collar as something to take time over on every visit. The client does not say what to do if Lucy resists.",
+     "quote": "I am happy you are not having any trouble getting her collar on and off. That is a big thing with her."
     },
     {
      "cat": "behavior",
@@ -6032,6 +6062,16 @@
      "quote": "also dog ice cream in the freezer for him"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 29",
+     "source": "Client message, Sep 29 3:39pm",
+     "office": true,
+     "note": "Follow-up to his 2:47pm message about dog ice cream in the freezer: the client says it is in orange boxes. That locates it, but he still has not said whether the ice cream is an everyday treat or only a stand-in for when the regular treats have run out, so the open office question is unchanged.",
+     "quote": "It's in orange boxes"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -6100,16 +6140,6 @@
      "office": false,
      "note": "First walk for this brand new client. The dog walked well down Clifton and went #1, but the sitter judged he was getting hot in the humidity and brought him back to the house early to hang out indoors instead of finishing the usual walk. One observation on one humid day, not yet an established rule - worth watching on the next warm visit. Sitter refilled his water and gave him the fridge treats.",
      "quote": "He went number one, but he did seem like he was getting kinda hot."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client private message 2:32pm",
-     "office": true,
-     "note": "Client will not submit next week's requests until Sunday - he wants to see how much he will be working, which he says depends on the weather. Next week's Flacko schedule should be treated as unconfirmed until then.",
-     "quote": "I will wait till Sunday to upload the schedule just to see if I’m gonna be working a lot"
     }
    ],
    "dormant": false
