@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T06:20:07-04:00",
+ "generated": "2026-09-29T07:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2804,6 +2804,16 @@
    "items": [
     {
      "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Client message in Time To Pet, 6:28am",
+     "office": true,
+     "note": "Same-day cancellation for TODAY Sep 29. Paulo wrote at 6:28am to say he forgot Milo and Archer have dental appointments this morning and no visit is needed today. Sent as a message, not a portal cancellation, so the visit is likely still on the schedule - office needs to pull it before a sitter drives out.",
+     "quote": "I forgot Milo and Archer have dental visits this morning, so you guys won’t need to come out today!"
+    },
+    {
+     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
      "date": "Sep 22",
@@ -2911,16 +2921,6 @@
      "office": false,
      "note": "Milo needed time to settle before he could be taken out, so his walk was shorter than Archer's. Lots of dogs and squirrels about meant frequent stops. He went #1 twice, no #2. Archer's walk was normal and his stool was firm.",
      "quote": "Milo took a while to calm down to get him outside today so his walk was slightly shorter"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Drew Walker visit report, Sep 15 1:09pm",
-     "office": true,
-     "note": "Milo was put back in his crate before the sitter left, the second such report and both from the same sitter. Still no written instruction saying end-of-visit crating is required, so it remains unconfirmed whether this is the client's rule or the sitter's habit. Worth asking the client once and writing the answer down.",
-     "quote": "before putting Milo in his crate"
     }
    ],
    "dormant": false
@@ -6095,6 +6095,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Sep 29",
+     "source": "Time To Pet record update by Tiarra Roberts, 7:03am",
+     "office": true,
+     "note": "This morning's Company Notes retype still does not restore the Backyard & Safety text that was deleted on Sep 26, so the rule about never leaving the mastiffs outside on their own is still missing from the record. Vito is still described only as shy and to be ignored on arrival, with no mention of him putting his mouth on a sitter's arm on Sep 23. Office should decide what the standing safety wording should say and put it back.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 26",
      "source": "Tiarra Roberts record edit 17:57 ET",
      "office": true,
@@ -6200,16 +6210,6 @@
      "office": true,
      "note": "New service question that needs an office answer: the client asks whether we ended up offering pet pickup/drop-off. Friends of hers are bringing two dogs to a playdate at her house this Saturday Sep 19 and need help getting those two dogs back home. She offered to send more details. Nothing has been promised to her.",
      "quote": "If I provided more details, is this something that we could arrange through you?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client private message, Sep 16 9:03pm",
-     "office": true,
-     "note": "Nicole is requesting visits for next week on short notice. Tim's dad will be in town while she is away and told her today he would feel better if someone else came to let the dogs out. She says she will add the days in Time To Pet herself, so the office should watch for them and confirm coverage.",
-     "quote": "I'm very excited to reachout with a request for visitations next week."
     }
    ],
    "dormant": false
