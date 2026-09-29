@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T10:05:22-04:00",
+ "generated": "2026-09-29T11:20:13-04:00",
  "date": "2026-09-29",
  "label": "Sep 29, 2026",
  "clients": [
@@ -115,6 +115,18 @@
      "staff": "Monica Hopewell",
      "service": "Dog Visit-45 minute",
      "pets": "Mac"
+    }
+   ]
+  },
+  {
+   "name": "Erik Risa",
+   "visits": [
+    {
+     "time": "1:45 PM",
+     "sort": "1345",
+     "staff": "Elizabeth Sigler",
+     "service": "Last Minute Visit- 45 minute",
+     "pets": "Whiskey"
     }
    ]
   },
@@ -324,5 +336,5 @@
    ]
   }
  ],
- "visitCount": 30
+ "visitCount": 31
 }
