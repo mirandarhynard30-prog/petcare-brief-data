@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T09:20:06-04:00",
+ "generated": "2026-09-29T11:05:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -471,6 +471,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 29",
+     "source": "Kathy Pastor 10:41am visit report Sep 29",
+     "office": true,
+     "note": "Gordy's stool marked loose again on the Sep 29 10am walk - Kathy Pastor ticked the consistency box for a little loose but not concerning. The brief already carries a loose reading for Gordy on Sep 24, so this is at least the second in under a week. Otherwise he was frisky, eager to walk, went #1 and two #2s. No vet contact mentioned.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 26",
      "source": "Chelsea Tompkins Sep 26 morning visit report; client reply same morning",
      "office": true,
@@ -576,16 +586,6 @@
      "office": true,
      "note": "Third day of GI trouble. Sitter found feces on the laundry room floor with a red substance that looked like blood, plus feces in the dining room and urine/hairball in the hallway. He also used his box and pee pad. Half pill given. The report's consistency field still says firm and healthy, which conflicts with the blood note in the same report.",
      "quote": "there was red substance in it, it did appear to be blood when I cleaned it up"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Visit report, Renee Dougherty 9:16am",
-     "office": true,
-     "note": "Day two of GI trouble for Sampson. Renee found five spots to clean plus a poop on the pink carpet, no urine on the floor and none in the litter box either. She gave his half pill with churu. Yesterday afternoon the client reported the litter box was unusual. Two days of vomiting plus litter box irregularity is worth an office call about a vet check.",
-     "quote": "When I arrived, there was two spots of vomit on the hardwood floor and three spots on the pink carpet"
     }
    ],
    "dormant": false
@@ -922,6 +922,16 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Kiara Streety 10:26am visit report Sep 29",
+     "office": false,
+     "note": "Chloe's stool loose again on the Sep 29 morning walk - Kiara Streety ticked a little loose but not concerning. That makes three loose or runny readings this month alongside the Sep 24 and Sep 26 entries already in the brief. Walk itself was normal, usual route, she went #1 and #2.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -969,16 +979,6 @@
      "source": "Client message, 8:58am",
      "office": false,
      "note": "Chloe has a medical appointment the morning of Sep 18 - the client calls it a doctors appointment and gives no reason for it. Nothing in the message says what was found or whether anything changes for later visits."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Elizabeth Sigler visit report",
-     "office": false,
-     "note": "Chloe was barking at the top of the stairs on arrival; Elizabeth Sigler petted her until she had been quiet a couple of minutes, then carried her down the steps and down the front step. A worker was running a leaf blower in the driveway, so she turned Chloe right and walked between Chloe and the blower. Chloe peed quickly, then U-turned and hurried back inside. Client was home for this visit and asked that the door not be locked.",
-     "quote": "Once it had been a couple minutes since she’d last been barking, I gently carried her down the steps."
     }
    ],
    "dormant": false
@@ -3818,6 +3818,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 29",
+     "source": "Client message 9:52am Sep 29 + reply thread",
+     "office": true,
+     "note": "Same-day add: client asked at 9:52am whether anyone could take Whiskey out around noon today. Elizabeth Sigler messaged him at 10:09am saying she is excited to see Whiskey later, and the client replied 'That would be perfect, thank you!' at 10:08am. The emails do not show the visit being entered on the schedule - office should confirm it exists and is billed.",
+     "quote": "Sorry for the late request, would it be possible for anyone to take Whiskey out around noon?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 19",
      "source": "Client message 1:34pm",
      "office": true,
@@ -3923,16 +3933,6 @@
      "office": false,
      "note": "Sep 10 AFTERNOON visit, separate from the morning one: Whiskey went #1 only on a long walk and the report logs no #2 today, so there is no stool consistency to record for this visit. Home checked and no accidents found. Whiskey has been logged with diarrhea at visits since Sep 8, so a visit with no stool at all is not by itself an all-clear.",
      "quote": "Went out for a long walk. Went number one only!"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Client message, Sep 9 1:36pm and 2:00pm",
-     "office": false,
-     "note": "Client is home sick on Sep 9. He was sent home from work early, said he would nap in his bedroom while the sitter takes Whiskey out, and confirmed at 2:00pm that he was home with the bedroom door closed. Expect him in the apartment and keep the visit quiet.",
-     "quote": "I’m feeling a little under the weather and I’ve been sent home from work today early"
     }
    ],
    "dormant": false
