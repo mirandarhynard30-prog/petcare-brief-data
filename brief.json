@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T23:20:06-04:00",
+ "generated": "2026-09-29T06:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -600,26 +600,6 @@
    "items": [
     {
      "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Client private message",
-     "office": true,
-     "note": "Mon Sep 7 4:32pm private message: Jesse says he is feeling good and will not need help with the dogs after Sep 9, and asks that the dates for Sep 22nd and after be cancelled. He does not say what happens between Sep 10 and Sep 21, so the office needs to confirm exactly which visits he wants ended before cancelling anything.",
-     "quote": "I wanted to let you know that I am feeling good so after September 9th I will not need help with the dogs."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Client private message",
-     "office": true,
-     "note": "Client says he is feeling well again and will not need help with the dogs after Sep 9. He also asked that the dates from Sep 22 onward be cancelled. Service ends after today unless the office hears otherwise.",
-     "quote": "after September 9th I will not need help with the dogs"
-    },
-    {
-     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
      "date": "Sep 8",
@@ -828,16 +808,6 @@
      "office": true,
      "note": "Client (signs as Carol) sent a private message on the evening of Sep 8 cancelling the walker for the next day, Sep 9.",
      "quote": "I will need to cancel walker for tomorrow"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Margaret Bill visit report, Mon Sep 7 11:30am visit",
-     "office": true,
-     "note": "THIRD ATTEMPT TO PUBLISH - this item was handed off at 13:13 and again at 14:13 and has still not appeared in the published brief. Mon Sep 7 11:30am visit: Lucy's stool was looser than normal, she would not touch her treats, she sat down at the mailboxes and would not move until Margaret sat down beside her, and back at the house she refused both water and kibble. The report records the stool as a little loose but not concerning. She was otherwise bright, walked her usual route and went into her pen easily.",
-     "quote": "She sat down where the mailboxes are and didn't want to move."
     },
     {
      "cat": "behavior",
@@ -1705,16 +1675,6 @@
      "office": false,
      "note": "Bismark is low-energy outdoors - he settled down in the fenced back yard and started dozing rather than moving around. Outside time was the fenced yard, not a walk, and he did not go #2 on this visit.",
      "quote": "it seems outside is actually just another place for him to lay down"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Drew Walker visit report, Sep 7 12:47pm",
-     "office": false,
-     "note": "On the Sep 7 midday visit Bismark was leashed and taken out but immediately lay down in the shade, then looped back to the back gate rather than walk. The sitter sat with him and refilled his water instead. No #2 on this visit. The sitter attributes the refusal to the heat.",
-     "quote": "he just didn’t want to move today I think he just doesn’t like the heat"
     }
    ],
    "dormant": false
@@ -4614,7 +4574,7 @@
      "quote": "I turned off Lucy's lamp but left the country music station playing for them."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Kari Majewski",
@@ -4664,7 +4624,7 @@
      "quote": "I put the bird food on the rails outside."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Alexandria Francis",
@@ -4743,16 +4703,6 @@
      "office": true,
      "note": "Meet-and-greet now confirmed for Friday Oct 2 at 5:30pm, ahead of service starting Oct 7. She and her husband expect to meet the sitters then - office still needs to assign and name who is attending.",
      "quote": "Thanks, Miranda. Friday, 10/2, at 5:30 pm is great. My husband and I look forward to meeting with the sitters then."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Time To Pet profile updates",
-     "office": true,
-     "note": "New client on the system: two cats added Mon Sep 7 at 10:05-10:09am - Polly (female, American shorthair, brown and black) and Pippa (female, American shorthair, gray, orange and white). Both listed with no allergies and North Royalton Animal Hospital as vet. No Pet Care Note, handling detail or meet-and-greet on file yet.",
-     "quote": ""
     }
    ],
    "dormant": false
