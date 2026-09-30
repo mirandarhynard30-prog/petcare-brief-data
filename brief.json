@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T21:20:09-04:00",
+ "generated": "2026-09-29T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6319,6 +6319,16 @@
      "quote": "I looked for Beau-ba and could not find him, making me a bit worried."
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 29",
+     "source": "Michael Smith client message, 9:15pm",
+     "office": false,
+     "note": "Client gave the cat's usual sleeping spots so sitters know where to look: the driver seat of the car in the garage, and the top of the cat tree in the garage. AMBIGUOUS - the client wrote only \"He\" and named no cat. It arrived after the sitter reported Beau-ba could not be found, so it most likely means Beau-ba, but an earlier message in the same thread was about White Kitty Boy. Confirm with the office before relying on it for a specific cat.",
+     "quote": "sleep in the driver seat of the car in the garage and also on top of the cat tree in the garage"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -6391,6 +6401,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Michael Smith client message, 9:15pm",
+     "office": false,
+     "note": "Client's answer to the sitter's Sep 29 evening worry about not finding Beau-ba: being out of sight for a whole day is normal for this cat. Lowers the alarm on a not-found report, though the same \"He\" ambiguity applies.",
+     "quote": "He's a stinker and sometimes is gone all day."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Sep 28",
      "source": "Tiarra Roberts updated contact information for Michael Smith.",
@@ -6407,26 +6427,6 @@
      "office": false,
      "note": "Company Notes as they read after the Sep 28 edit, recorded because this client's written record has been cut down repeatedly: dry food in the kitchen, wet food in the garage, fed at the morning and evening visits; split one container of wet food between all dishes and fill the dry bowls as needed. Two litter boxes at the bottom of the basement steps. Mailbox by the front steps, mail onto the kitchen counter, trash bins to the curb Sunday for Monday pickup. There is still no dog feeding instruction anywhere in the note.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Noella Assi visit report, Sep 28 9:10am, shadowing Tiarra Roberts",
-     "office": false,
-     "note": "First actual sighting of Pickles reconciles the two conflicting written records: the sitters found Pickles under the white dresser in the bedroom, and when disturbed he ran down to the basement. So both recorded hiding spots are real, the dresser is where he settles and the basement is where he bolts to. Sitters should expect to hunt for him. Note the sitter calls Pickles 'he' while the Sep 28 General Information entry says girl's bedroom - the room, not the cat's sex, so no conflict, but Pickles's sex is not confirmed anywhere in writing.",
-     "quote": "Pickles was hiding in the room under the white dresser. He was very shy and ran down to the basement and hid."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Tiarra Roberts updated contact information for Michael Smith",
-     "office": true,
-     "note": "Pet Care Note was emptied at 6:55pm, deleting the only record of this job's dates and arrival windows - visits Sept 28 through Oct 3, two a day, morning 7am-10am and evening 4-7pm. First visit is Monday and nothing in the record now states the windows. Office should confirm the booked schedule matches.",
-     "quote": "needs visits starting sept 28 am and last visit will be oct 3 am visit (2 visits a day)"
     }
    ],
    "dormant": false
