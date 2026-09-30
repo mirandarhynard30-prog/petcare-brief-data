@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T07:20:05-04:00",
+ "generated": "2026-09-30T10:20:12-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3364,6 +3364,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "On the Sep 30 morning walk Archie went #1 several times but had no bowel movement. Same pattern was logged on Sep 1; the Sep 11 walk was normal and firm. Worth watching whether the next walk produces a #2.",
+     "quote": "We went on a great walk and he went no.#1 several times but no no.#2."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Thomas Rakovec visit report",
+     "office": true,
+     "note": "The Sep 30 visit report form answer says there was a potty accident and the pet got sick and was cleaned up, with before and after pictures. The sitter's written message does not mention any of this and says Ray was home during the visit. The two do not agree - office should ask Thomas what actually happened before this is treated as a sick-pet report.",
+     "quote": "There was a potty accident and the pet got sick, and I cleaned it up"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -4007,6 +4027,16 @@
      "quote": "Allergies: Frank - Grain allergy"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Noella Assi visit report",
+     "office": false,
+     "note": "At the Sep 30 morning visit Frank stayed shut away in the room and only came out as the sitter was leaving; lasers and treats did not draw him out. Theo was out waiting and took two churus. The sitter's word 'again' suggests this is not the first time, but this is one report - the standing record has Theo as the hider and Frank as the one who greets at the door, so the two are now reversed.",
+     "quote": "Frank was in the room again and only came out when I was leaving."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4085,16 +4115,6 @@
      "office": false,
      "note": "Client says a CVS package is due at the house on 10/1. Sitters on that date should expect it and bring it inside.",
      "quote": "FYI, there will be a CVS package coming on 10/1."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Tiarra Roberts record edit 18:12 ET",
-     "office": true,
-     "note": "Pet Care Note was retyped down to a shoes-off line, deleting the whole Churu instruction: Churu packets and a small glass bowl are left on the kitchen counter, the bowl is washed if used, and a packet is squeezed into it and set next to food and water. Nothing in the new record mentions Churu, so a sitter will now skip that feeding entirely. Stephanie is on today's schedule.",
-     "quote": "Wash bowl if used and squeeze packet of Churu into bowl and place next to food/water."
     }
    ],
    "dormant": false
