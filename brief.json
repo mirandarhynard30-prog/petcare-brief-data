@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T20:35:11-04:00",
+ "generated": "2026-09-29T21:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1213,6 +1213,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Tiarra Roberts evening visit report, Sep 29",
+     "office": false,
+     "note": "Another toad on the Sep 29 evening walk. Tiarra saw it and steered Georgie clear, and Mary Ann wrote back to thank her for guiding him away from it. Tiarra replied that she is on high alert on the PM visits. This is the second documented toad encounter on this route after the two at the gate on Sep 16, so the hazard is current, not historical.",
+     "quote": "We did see a toad, but we avoided it."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -1321,16 +1331,6 @@
      "office": true,
      "note": "On the Sep 12 evening visit Georgie was given BOTH a pill medicine and eyedrops, the sitter assisting Mary Ann, and medication was logged as administered. This contradicts the Sep 11 report calling the eyedrops the last set - the course is evidently still running. Neither the pill nor the drops is named, and no dose or frequency is recorded anywhere. The pill is probably the allergy medicine Mary Ann described on Sep 12, but the report does not say so and it should not be assumed. Office: get the drug names, doses and schedule into the Pet Care Note.",
      "quote": "I gave Georgie an ice cube after helping give him his pill medicine and eyedrops."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Contact update by Tiarra Roberts, 10:40am",
-     "office": true,
-     "note": "Georgie's hot-weather protocol was deleted from the Current Pet Care Note, which now reads only 'Send ETA when on the way over'. Gone from every field: the 20-minute cap on outside time, 'if he is still panting after the walk leave the cooling collar on', and the post-walk ice cube. What survives is one line in Company Notes - orange cooling collar in the FRIDGE if over 75, slip harness over it. The deleted version said FREEZER, so the long-standing freezer/fridge contradiction got resolved by deletion rather than by decision. Restore the protocol and settle freezer vs fridge before the next warm-weather walk.",
-     "quote": "When the temperature is over 75 degrees, please shorten walk down (20 min max outside time)."
     }
    ],
    "dormant": false
