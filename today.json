@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T11:35:27-04:00",
+ "generated": "2026-09-30T12:50:28-04:00",
  "date": "2026-09-30",
  "label": "Sep 30, 2026",
  "clients": [
@@ -322,18 +322,6 @@
    ]
   },
   {
-   "name": "Test Visit",
-   "visits": [
-    {
-     "time": "12:30 PM",
-     "sort": "1230",
-     "staff": "Miranda",
-     "service": "Cat Visit-20 Minutes",
-     "pets": "Zeus, Henri"
-    }
-   ]
-  },
-  {
    "name": "Tom Noble",
    "visits": [
     {
@@ -346,5 +334,5 @@
    ]
   }
  ],
- "visitCount": 31
+ "visitCount": 30
 }
