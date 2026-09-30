@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T12:20:05-04:00",
+ "generated": "2026-09-30T13:20:11-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -349,6 +349,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 30",
+     "source": "Thomas Rakovec message, 12:17 PM",
+     "office": true,
+     "note": "Sitter Thomas Rakovec reports a joint loose enough that he dislikes picking the dog up. The message does not name the pet; the surrounding thread is about Louie, who the client said this morning is continuing Rimadyl and has gained weight. Needs confirming which pet this is and whether there is a standing lifting or handling instruction - this is one sitter's remark, not yet an established rule.",
+     "quote": "That joint is so loose I hate picking him up"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 29",
      "source": "Thomas Rakovec visit report 12:14pm",
      "office": true,
@@ -416,6 +426,16 @@
      "quote": "arrived and let everyone out, Louie didn't feel like it today"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 30",
+     "source": "Client message, 1:06 PM",
+     "office": false,
+     "note": "Following the vet's advice to cut Louie's treats back, the client says she splits the tiny soft treats for him and he does fine that way. Give split tiny soft treats rather than whole ones. She adds that he drops treats he does not like out of his mouth.",
+     "quote": "I’ve been splitting the tiny soft ones for him and he does ok with that"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -434,26 +454,6 @@
      "office": false,
      "note": "Liz replied at 7:04pm confirming the love seat #1 was Berry and that it is an ongoing pattern, not a one-off: she says he has been peeing on the love seat and on everything else, and that he and Louie are marking against each other. Expect marking indoors and check the love seat on arrival. She did not answer the diaper question.",
      "quote": "Yes, he has been peeing on the loveseat and everything else too! He and Louie are in a never ending pissing contest."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Client message from Liz Wainio",
-     "office": false,
-     "note": "Liz says the dog has been urinating on the loveseat and on everything else; she names Louie, while the same-day sitter report names Berry, so which dog is meant is unclear.",
-     "quote": "Yes, he has been peeing on the loveseat and everything else too!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Thomas Rakovec visit report",
-     "office": true,
-     "note": "Sitter says they are out of cat food and he put out the last of it at the Sep 22 midday visit. The report checklist still answers No to supplies getting low, so this may not have been flagged anywhere else. Client needs to restock before the next visit.",
-     "quote": "out of cat food put the last out"
     }
    ],
    "dormant": false
@@ -778,6 +778,26 @@
      "office": true,
      "note": "Client (signs as Carol) cancelled the Sep 11 visit the evening before. Confirm it actually came off the schedule so nobody is dispatched.",
      "quote": "we will not be needing service tomorrow"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Margaret Bill visit report, 12:28 PM",
+     "office": false,
+     "note": "Lucy ate all the kibble she was given and her #2 was logged firm and healthy. That reverses the Sep 29 midday visit where she refused both food and water. She also seemed less tired than the day before.",
+     "quote": "She ate all the kibble that I gave her."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Margaret Bill visit report, 12:28 PM",
+     "office": true,
+     "note": "Sitter found Lucy in her crate with the crate door standing open on arrival, and has asked the client to confirm how Lucy should be left. Until told otherwise she is putting Lucy back in the pen with the door CLOSED. The client has not answered, so two sitters could reasonably do opposite things.",
+     "quote": "Until you tell me differently, I will put her back in the pen with the door closed."
     },
     {
      "cat": "health",
@@ -2093,6 +2113,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Ashley Corall visit report, 12:34 PM",
+     "office": false,
+     "note": "On the midday visit the neighbour to the right told sitter Ashley Corall he had seen a younger man dressed all in black walking down the sidewalk with something covering his face, and said he would park his mother's car in Diane's driveway. So an unfamiliar car in the driveway today is expected, and a suspicious person was reported on the street.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -2121,6 +2151,16 @@
      "office": false,
      "note": "Standing tasks for Mac: leave the white wooden front blinds open and note the second water bowl is now outside.",
      "quote": "PLEASE ENSURE WOODEN WHITE FRONT BLINDS ARE OPEN FOR MAC TO LOOK OUT - 2ND WATER BOWL NOW ON PATIO IN THE BACKYARD"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 30",
+     "source": "Client message, 1:02 PM",
+     "office": false,
+     "note": "Client confirms the neighbour who flagged the stranger is Mike and that he watches the house for them. A friendly neighbour approaching a sitter at this address is normal.",
+     "quote": "Mike's a good guy. He keeps an eye out for us too."
     },
     {
      "cat": "home",
@@ -3075,6 +3115,16 @@
      "quote": "Then we cancel the later visit ok"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Client private message, 12:58 PM",
+     "office": true,
+     "note": "Client sent a private message at 12:58 PM asking whether she should have heard from a walker today. Sitter Julie Smith sent an ETA nine minutes later at 1:07 PM saying she was about 30 minutes out, so the visit does appear to be going ahead - but nobody has actually answered Lynne's question.",
+     "quote": "Haven’t heard from a walker today?"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3133,16 +3183,6 @@
      "office": false,
      "note": "Sep 21 evening walk: client heard thunder and asked the sitter to wait (earlier she suggested giving it an hour). Julie Smith replied \"Of course!\" - new time not stated.",
      "quote": "I hear thunder I think. Could we wait?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Client messages 6:29pm-7:12pm; Julie Smith reply 7:09pm",
-     "office": true,
-     "note": "Outcome of the Sep 21 evening walk that was put on hold for rain/thunder: Lynne wrote at 6:29pm that the walk should be cancelled if the rain continued without a break, and at 7:12pm said she and Holly had just come back soaking wet (she walked Holly herself). Julie Smith replied she will see Holly tomorrow. So the sitter walk appears not to have happened - office should confirm the Sep 21 evening visit is cancelled in the scheduler. Not explicitly stated whether it was formally cancelled.",
-     "quote": "We should cancel if it continues without a break"
     }
    ],
    "dormant": false
@@ -3438,6 +3478,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 30",
+     "source": "Dan Dantimo visit report, 12:56 PM",
+     "office": true,
+     "note": "Midday walk with Dan Dantimo: Guinness went both #1 and #2 on an extended walk down to Jaycox, and Dan answered the report's #2 consistency field with the a-little-loose-but-not-concerning option again. That is the eleventh loose reading logged since Sep 11 and no vet contact appears anywhere in the record. Quote deliberately left empty - the verbatim wording is identical to an already-published Sep 30 health item for another client and the current de-duplication key would silently drop one of them.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 28",
      "source": "Visit report, Dan Dantimo, Sep 28 12:47 PM",
      "office": false,
@@ -3543,16 +3593,6 @@
      "office": true,
      "note": "On the Sep 11 evening walk Guinness went both #1 and #2 and Dan logged the consistency as a little loose but not concerning. The brief already carries that same answer on Aug 27, Aug 31, Sep 1, Sep 2, Sep 4 and Sep 8, so this is a run of loose stools going back more than two weeks. Nobody has raised a vet call. Deb was home for this visit and asked that the door not be locked.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Evening walk: Guinness's new harness made him much easier to control, including through two dog encounters, and seemed to keep him walking more. Single observation so far, not yet a standing rule.",
-     "quote": "with that new harness, it was so much easier to control Guinness"
     }
    ],
    "dormant": false
@@ -5712,6 +5752,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Shannon Anderson visit report, 12:42 PM",
+     "office": true,
+     "note": "Shannon Anderson's midday report on Frank and Weezie/Louise makes no mention of eye drops anywhere - not in the narrative and not in the report form. Louise's drops were already missed at the Sep 29 visit, so this reads as a second consecutive miss. The report's silence is not proof either way, so it needs checking rather than assuming.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "standing",
      "date": "Sep 29",
      "source": "Client message 11:44am",
@@ -5810,24 +5860,14 @@
      "quote": "No walks required, just backyard time only."
     },
     {
-     "cat": "behavior",
+     "cat": "home",
      "sev": "low",
      "type": "recent",
-     "date": "Sep 29",
-     "source": "Elizabeth Sigler visit report 11:36am",
+     "date": "Sep 30",
+     "source": "Shannon Anderson visit report, 12:42 PM",
      "office": false,
-     "note": "On this one visit the barking and suspicion on arrival stopped in about half the usual time. The sitter had given a greeting treat first and says she cannot tell whether that or growing familiarity made the difference. One observation, not a rule.",
-     "quote": "it actually didn’t take too long for Weezie to stop barking and treating me with suspicion"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Elizabeth Sigler visit report",
-     "office": false,
-     "note": "Louise was wary of this sitter at first and warmed up over the course of the visit; Frank was immediately affectionate. One visit, one sitter - not recorded as a standing rule.",
-     "quote": "At first, Louise wasn’t so sure of me. But after I’d been here for a little while she let me give her some pets."
+     "note": "Two Amazon packages brought in on the midday visit - one from the front porch, one from the garage steps - and set on the table with the ones already there. Deliveries are accumulating at this house.",
+     "quote": ""
     }
    ],
    "dormant": false
