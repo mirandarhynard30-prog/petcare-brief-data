@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T17:20:05-04:00",
+ "generated": "2026-09-29T20:35:11-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6304,9 +6304,20 @@
     "White Kitty Boy",
     "Pickles",
     "Toby",
-    "Whitty Kitty Boy"
+    "Whitty Kitty Boy",
+    "Pepa"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Tiarra Roberts visit report, Sep 29 evening",
+     "office": true,
+     "note": "Beau-ba could not be found at the Sep 29 evening visit and the sitter flagged being worried. Pepa greeted at the side garage door and Pickles was found in a bedroom closet, so Beau-ba is the only cat unaccounted for on that visit. Next sitter should confirm he is seen.",
+     "quote": "I looked for Beau-ba and could not find him, making me a bit worried."
+    },
     {
      "cat": "home",
      "sev": "high",
@@ -6370,6 +6381,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Sep 29",
+     "source": "Tiarra Roberts visit report, Sep 29 evening",
+     "office": false,
+     "note": "Pickles hid in a bedroom closet on the Sep 29 evening visit; the sitter backed off rather than press him. Reported once, not established as a standing rule.",
+     "quote": "I found Pickles in the girl's bedroom closet. I quickly left him alone, so he wouldn't have to bolt."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Sep 28",
      "source": "Tiarra Roberts updated contact information for Michael Smith.",
@@ -6406,26 +6427,6 @@
      "office": true,
      "note": "Pet Care Note was emptied at 6:55pm, deleting the only record of this job's dates and arrival windows - visits Sept 28 through Oct 3, two a day, morning 7am-10am and evening 4-7pm. First visit is Monday and nothing in the record now states the windows. Office should confirm the booked schedule matches.",
      "quote": "needs visits starting sept 28 am and last visit will be oct 3 am visit (2 visits a day)"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Tiarra Roberts updated contact information for Michael Smith",
-     "office": true,
-     "note": "Company Notes retyped at 7:14pm dropped the whole Dog Feeding block and the cat dry food brand. The record no longer says when the dog is fed; wet/dry cat feeding instructions survived. Ambiguous whether the dog is fed at all now, since the Pet Care Note reads BACKYARD VISIT ONLY.",
-     "quote": "Feeding times: Morning, Bedtime"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 22",
-     "source": "Tiarra Roberts updated contact information for Michael Smith (Sep 22)",
-     "office": true,
-     "note": "The same Sep 22 edit removed the Dog Behavior block from the Company Notes, which had answered 'Dog friendly: No' and 'Escape risk: No' for Toby. The dog-friendly answer in particular is a safety detail and is now absent.",
-     "quote": ""
     }
    ],
    "dormant": false
