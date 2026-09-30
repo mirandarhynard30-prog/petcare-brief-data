@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T15:20:06-04:00",
+ "generated": "2026-09-30T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -798,6 +798,16 @@
      "office": true,
      "note": "Sitter found Lucy in her crate with the crate door standing open on arrival, and has asked the client to confirm how Lucy should be left. Until told otherwise she is putting Lucy back in the pen with the door CLOSED. The client has not answered, so two sitters could reasonably do opposite things.",
      "quote": "Until you tell me differently, I will put her back in the pen with the door closed."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 30",
+     "source": "Client message 3:24 PM Sep 30, replying to Margaret Bill",
+     "office": false,
+     "note": "This answers the open crate-door question. The client wants Lucy put back in the pen at the end of the visit, for now - she is still worried about house-training accidents and chewing while Lucy is young. The client says she would eventually like to drop the habit but wants to go slowly, so treat it as the current rule until she says otherwise.",
+     "quote": "Yes I am going to keep her going back in the pen for a while. Until I feel a little more comfortable."
     },
     {
      "cat": "health",
