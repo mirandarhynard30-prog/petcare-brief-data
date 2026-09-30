@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T11:20:11-04:00",
+ "generated": "2026-09-30T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -338,6 +338,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Sep 30",
+     "office": true,
+     "source": "Client message, Sep 30 12:00 PM",
+     "note": "Client update: Louie has been grumpy lately, she took him to the vet and he is continuing Rimadyl. He has gained weight and the vet recommended cutting back on his treats; if he keeps gaining she will have his thyroid checked. The treat restriction is a standing change and is not yet in his Pet Care Note.",
+     "quote": "I took him to the vet and he is continuing Rimadyl."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Sep 29",
      "source": "Thomas Rakovec visit report 12:14pm",
@@ -399,6 +409,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 30",
+     "office": false,
+     "source": "Thomas Rakovec visit report, Sep 30 late morning",
+     "note": "Louie again did not want to go outside on the Sep 30 visit while the other dogs went out and came back in. At least the third such refusal logged this month. Emma's eye drops were given and Berry's diaper was put back on.",
+     "quote": "arrived and let everyone out, Louie didn't feel like it today"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 28",
      "source": "Thomas Rakovec visit report, Sep 28 1:28 PM",
      "office": false,
@@ -434,26 +454,6 @@
      "office": true,
      "note": "Sitter says they are out of cat food and he put out the last of it at the Sep 22 midday visit. The report checklist still answers No to supplies getting low, so this may not have been flagged anywhere else. Client needs to restock before the next visit.",
      "quote": "out of cat food put the last out"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Thomas Rakovec visit report, Sep 17 late morning",
-     "office": false,
-     "note": "Indoor #2 accident found in the living room. The sitter cleaned and sanitized it and replaced the pee pads. He believed it was Stella, but the same report's checklist logs Stella's outdoor #2 as firm and healthy, so which dog had the accident is not certain.",
-     "quote": "It looked like Stella may have gone no.#2 in the living room"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Thomas Rakovec visit report, Sep 17 late morning",
-     "office": true,
-     "note": "Louie was the only dog not let out back at this visit. The report gives no reason. Worth an office check given his ongoing hurt leg/hip. Stella and Berry were walked; both went #1 only.",
-     "quote": "I arrived and let em all out back to go to the bathroom except Louie today"
     }
    ],
    "dormant": false
@@ -467,6 +467,16 @@
     "Gordy (Gordon)"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 30",
+     "office": true,
+     "source": "Margaret Bill visit report, Sep 30 morning walk",
+     "note": "Gordy's stool was logged loose again on the Sep 30 morning walk - the fourth loose reading in a week after Sep 24, Sep 28 and Sep 29. Still no vet contact visible in any message. He walked the usual route but slowed part way through.",
+     "quote": "It was a little loose but not concerning"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -576,16 +586,6 @@
      "office": true,
      "note": "Client's own reply to the Sep 13 morning report. She says Sampson used the litter box in the dining room at some point before the sitters arrived, but there were throw-ups and one stool on the dining room carpet and urine in his usual hallway/kitchen spot. She reports a spot of blood in his poop and speculates he may have strained. This is the client herself confirming blood, and it follows the possible blood the sitter saw on Sep 12. No vet visit has been raised by either side.",
      "quote": "His poop had a spot of blood in it. I don't know how that could be."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Lacey Govil visit report 9:27am",
-     "office": true,
-     "note": "Third day of GI trouble. Sitter found feces on the laundry room floor with a red substance that looked like blood, plus feces in the dining room and urine/hairball in the hallway. He also used his box and pee pad. Half pill given. The report's consistency field still says firm and healthy, which conflicts with the blood note in the same report.",
-     "quote": "there was red substance in it, it did appear to be blood when I cleaned it up"
     }
    ],
    "dormant": false
@@ -2844,6 +2844,16 @@
      "quote": "FYI the dogs may be a bit groggy from yesterday and the meds the vet has them on"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Drew Walker visit report, Sep 30 late morning",
+     "office": true,
+     "note": "Milo's stool on the Sep 30 late-morning visit was logged as diarrhea. This is the first stool reading since the client said that morning that both dogs are on medication after a vet visit yesterday. Archer's was firm and healthy the same visit.",
+     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2872,6 +2882,16 @@
      "office": false,
      "note": "Milo had an indoor accident on the carpet during the Sep 30 late-morning visit and Drew Walker cleaned it up. Reported in the same exchange in which the client said Milo may have been left out of his crate.",
      "quote": "Ah okay, he had an accident on the carpet I’m cleaning it up now"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "office": true,
+     "source": "Drew Walker visit report, Sep 30 late morning",
+     "note": "Drew found an accident on the rug between the dining and living room, bagged that rug and left it near the side door, and cleaned the hardwood. Small brown spots remain on the larger living-room rug that he could not clean out.",
+     "quote": "I put the rug in a trash bag and left it near the side door"
     },
     {
      "cat": "schedule",
@@ -2932,26 +2952,6 @@
      "office": false,
      "note": "Third logged report of Milo pulling on the lead - Sep 9, Sep 14 and now Sep 15, across two sitters. Consistent enough to expect on every walk rather than treat as a one-off. Drew describes it as mild this time and says Milo was otherwise good.",
      "quote": "he pulled a bit but was overall good"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Drew Walker visit report, Sep 14 1:28pm",
-     "office": false,
-     "note": "Second logged report of Milo pulling on the lead, this one from Drew Walker on the Sep 14 midday walk (the first was Sep 9, a different sitter). Drew walks Milo first, on his own, and puts the pulling down to meeting about four other dogs rather than to Milo. Two observations by two sitters, so worth watching, but still not written up anywhere as a standing rule.",
-     "quote": "he pulled a lot today but we also encountered like 4 other dogs so it wasn’t really his fault"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Visit report, Drew Walker, 11:17am Sep 28",
-     "office": false,
-     "note": "On the Sep 28 late-morning visit Milo was walked first and pulled on the leash only when he saw a squirrel; otherwise he walked well. One observation from one sitter on one walk, not a standing rule. Archer walked a lap around the block afterwards. Both dogs went #1 and #2, consistency firm, no accidents, no supplies low.",
-     "quote": "didn’t pull much at all unless he saw a squirrel"
     }
    ],
    "dormant": false
