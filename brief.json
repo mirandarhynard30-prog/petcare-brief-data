@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T16:20:05-04:00",
+ "generated": "2026-09-30T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6420,6 +6420,26 @@
      "quote": "Toby is unable to leave the garage, if the actual garage door is open."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Tiarra Roberts visit report, Sep 30 evening",
+     "office": false,
+     "note": "Beau-ba was FOUND on the Sep 30 evening visit, ending the run of three consecutive visits with no sighting. The sitter first checked the project car seats and the cat tree in the garage with no luck, then put wet food down in the bowls and he came out. Putting wet food down worked once here; it is not yet an established rule.",
+     "quote": "I put wet food down in the bowls and guess who shows up!! Beau-ba!!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Tiarra Roberts visit report, Sep 30 evening",
+     "office": false,
+     "note": "Pickles was not seen on the Sep 30 evening visit. The sitter scooped the litter boxes and tried to get eyes on him and did not manage it. White Kitty Boy was seen in the garage. This follows Pickles hiding in a bedroom closet on Sep 29, so it is a second visit in a row without a confirmed sighting.",
+     "quote": "I never did get eyes on Pickles..."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -6448,26 +6468,6 @@
      "office": false,
      "note": "Pickles hid in a bedroom closet on the Sep 29 evening visit; the sitter backed off rather than press him. Reported once, not established as a standing rule.",
      "quote": "I found Pickles in the girl's bedroom closet. I quickly left him alone, so he wouldn't have to bolt."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Michael Smith client message, 9:15pm",
-     "office": false,
-     "note": "Client's answer to the sitter's Sep 29 evening worry about not finding Beau-ba: being out of sight for a whole day is normal for this cat. Lowers the alarm on a not-found report, though the same \"He\" ambiguity applies.",
-     "quote": "He's a stinker and sometimes is gone all day."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 28",
-     "source": "Tiarra Roberts updated contact information for Michael Smith.",
-     "office": false,
-     "note": "General Information (Added By Client) was filled in for the first time on Sep 28 - the field had been blank. It gives a hiding spot for Pickles so a sitter can lay eyes on her: under the white dresser in the girl's bedroom. This does not match the Company Notes, which still say Pickles hides in the basement by the washer and dryer. Check both.",
-     "quote": "Pickles hides under white dresser in girl's bedroom"
     }
    ],
    "dormant": false
