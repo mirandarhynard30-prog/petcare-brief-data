@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T22:20:05-04:00",
+ "generated": "2026-09-30T07:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -296,6 +296,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 30",
+     "source": "Client message",
+     "office": false,
+     "note": "Client asks the sitter to keep Rusty outside as much as possible this visit - indoors he goes for the trash. Sent 7:05 AM Sep 30, the morning after she said she had cancelled today's afternoon visit, so whether the visit is on is unconfirmed.",
+     "quote": "Try to spend as much time outside as possible outside, all rusty wants to do is dig through the trash inside!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 29",
      "office": false,
      "source": "Elizabeth Sigler visit report, 1:17-1:55pm visit",
@@ -311,16 +321,6 @@
      "office": false,
      "note": "Workaround one sitter used for the garage side window the dogs got through earlier on Sep 29: for the rest of that visit Elizabeth Sigler positioned herself in front of the window whenever the dogs started sniffing at it, and they moved on quickly. One sitter on one visit - recorded as what she did, not as a standing instruction.",
      "quote": "For the rest of our visit I stood in front of the window anytime they started to sniff around it"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Mary Gilmore private message, Sep 29 4:14 PM",
-     "office": true,
-     "note": "Same message: client invites Shannon to stop by before 5 PM tomorrow (Wed Sep 30) to say goodbye to the dogs, and adds that either way is okay. Someone in the office needs to pass this to Shannon Anderson; it is an invitation, not a booked visit.",
-     "quote": "Please tell shannon that she can run by and say goodbye the girls tomorrow, if she can swing by before 5."
     }
    ],
    "dormant": false
@@ -619,7 +619,7 @@
      "quote": "They both ate all their food and i changed the water in the water bowl."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Terry M",
@@ -778,36 +778,6 @@
      "office": true,
      "note": "Client (signs as Carol) cancelled the Sep 11 visit the evening before. Confirm it actually came off the schedule so nobody is dispatched.",
      "quote": "we will not be needing service tomorrow"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Margaret Bill visit report, Tue Sep 8 11:30am",
-     "office": true,
-     "note": "A fecal sample was collected at the Tue Sep 8 11:30am visit and left on the metal chair in the garage for the household. The email does not say who asked for it or whether it is going to a vet - worth confirming with Carol so it is not left sitting.",
-     "quote": "I put a fecal sample on the metal chair in the garage for you guys."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Angela Jozsa private message, Tue Sep 8 5:35pm",
-     "office": true,
-     "note": "Carol messaged at 5:35pm Tue Sep 8 to cancel the walker for tomorrow, Wed Sep 9. No other dates mentioned and no portal change request seen. Needs confirming back to her and pulling off Wednesday's schedule.",
-     "quote": "Hi Miranda! I will need to cancel walker for tomorrow"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Client private message",
-     "office": true,
-     "note": "Client (signs as Carol) sent a private message on the evening of Sep 8 cancelling the walker for the next day, Sep 9.",
-     "quote": "I will need to cancel walker for tomorrow"
     },
     {
      "cat": "health",
@@ -3805,16 +3775,6 @@
      "quote": "My apologies, I just added the visits for the rest of this month and next months as well."
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Josh Stone visit report, 12:37pm",
-     "office": false,
-     "note": "Styrofoam debris found on the floor and swept up by the sitter. He could not tell whether Aayla had gotten into something containing it. Nothing else was reported wrong - she ate, walked and went #1 and #2 firm - but worth watching for more of it.",
-     "quote": "I'm not sure if she had gotten into something with styrofoam but I swept the floor clean of it"
-    },
-    {
      "cat": "schedule",
      "sev": "low",
      "type": "recent",
@@ -3843,16 +3803,6 @@
      "office": false,
      "note": "Client explained the styrofoam debris a sitter found was from her own late-night building project, not the dog. No action needed.",
      "quote": "The styrofoam was all me, late night building a new rollable island"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Client message from Megan Nickoli, Sep 8 8:57pm",
-     "office": false,
-     "note": "Owner explains the styrofoam on the floor that the sitter found and swept up on the Sep 8 visit: it came from her own late-night project, not from the dog getting into something.",
-     "quote": "The styrofoam was all me, late night building a new rollable island, thank you so much for all you do!"
     }
    ],
    "dormant": false
@@ -4005,16 +3955,6 @@
      "quote": "Client was home during visit/ Client asked not to lock door"
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Lacey Govil visit report, Tue Sep 8 morning walk",
-     "office": false,
-     "note": "Murphy ended the Tue Sep 8 morning walk himself with a couple of minutes still to go, turning back for the house, and was panting a little on his return. The sitter describes the morning as cool in shade but warm in direct sun. Second walk in recent reports to finish short, after the Aug 31 walk that was cut at the stop sign for heat. Stool firm and healthy, went #1 and #2.",
-     "quote": "He was panting a little bit when we made it back to his home"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -4023,16 +3963,6 @@
      "office": false,
      "note": "Julie is normally home for the walk and asks that the door not be locked. Recorded the same way on both the Aug 17 and Aug 24 visit reports, so sitters have not needed to enter or secure the house.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 8",
-     "source": "Lacey Govil visit report, Tue Sep 8 morning walk",
-     "office": false,
-     "note": "On this visit the sitter put Murphy's waste in the garbage bin in the garage. Recorded once so far, not confirmed as a standing house rule.",
-     "quote": "I threw away Murphys waste in the garbage in the garage."
     }
    ],
    "dormant": false
