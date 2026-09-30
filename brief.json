@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T14:35:12-04:00",
+ "generated": "2026-09-30T15:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -952,6 +952,26 @@
      "quote": "On the walk, Chloe went number 1 and 2 and was cheerful and happy the whole time."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 30",
+     "source": "Elizabeth Sigler visit report, 2:47 PM",
+     "office": false,
+     "note": "One of the cats is shut in an upstairs room and the door is meant to stay closed. On the Sep 30 afternoon visit the cat was meowing and pawing at the door; the sitter opened it a crack, the cat came out for pets, then wanted back in, and the sitter shut the door again because that is how the client had left it. Leave that door as you find it.",
+     "quote": "Wanted to make a note of this just so you know that one of the cats is upstairs!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Elizabeth Sigler visit report, 2:47 PM",
+     "office": false,
+     "note": "On the Sep 30 afternoon visit the home-security field was logged as the client being home during the visit and asking that the door not be locked on the way out. Quote deliberately left empty - that field text is a canned dropdown option that other clients logged the same day, and the de-duplication key would silently drop one of them.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -980,26 +1000,6 @@
      "office": false,
      "note": "Chloe's stool was slightly loose on the Sep 26 evening walk; sitter judged it not concerning. Single observation - watch on the next visit.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Shannon Anderson visit report, 10:27am",
-     "office": false,
-     "note": "Chloe's stool was runny on this morning's walk. Single observation on an otherwise normal visit - she walked the usual route, went #1 twice, and the sitter reported no wheezing or distress. Worth watching for a repeat given her recent health run.",
-     "quote": "She went #1 twice and #2, which was a little runny this morning."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Jade Popovitz visit report, Sep 22 2:28pm",
-     "office": false,
-     "note": "Sep 22 early-afternoon visit: Chloe was standing on the bottom stairs barking loudly on arrival and the walk was cut short even though she ran most of it. Back at the house the sitter sat with her a few minutes and she relaxed and lay down, then went back to barking, and was still barking as he left. Ambiguous point: the sitter writes that she seemed stressed because mom was not home, but the visit report form on the same message records Client was home during visit / Client asked not to lock door.",
-     "quote": "She seems very stressed since mom wasn’t home so her walk went short even though she was running pretty much the whole time."
     }
    ],
    "dormant": false
@@ -1827,6 +1827,26 @@
      "office": false,
      "note": "The client is home and hands the leash over at the front door, the doorbell does not work so knock, and only one dog is walked at a time.",
      "quote": "Client will be home, leash hand off at the front door."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Tiarra Roberts visit report, 12:01 PM",
+     "office": false,
+     "note": "Nova was very worked up on arrival and settled as soon as the walk started. She is a heavy sniffer and was drawn to a parked Amazon van and a squirrel on the Sep 30 morning walk, but handled both without trouble. Stool logged firm and healthy. One sitter on one walk, so an observation rather than a rule.",
+     "quote": "she calmed down once we started the walk"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Tiarra Roberts visit report, 12:01 PM",
+     "office": false,
+     "note": "The Sep 30 morning walk was logged with the client at home and the door left unlocked at her request. Quote omitted on purpose - the field is a canned dropdown identical to other clients' Sep 30 entries and the de-duplication key does not include the client name.",
+     "quote": ""
     },
     {
      "cat": "home",
@@ -4098,6 +4118,26 @@
      "quote": "Frank was in the room again and only came out when I was leaving."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Client message, 2:59 PM",
+     "office": true,
+     "note": "The client is away and says they only have internet in certain places, which is why she has not been replying. Expect slow or patchy answers from this client while she is travelling - do not read silence as a problem. She does not give a return date anywhere in the mail.",
+     "quote": "we only have Internet in certain places"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 30",
+     "source": "Client message, 2:59 PM",
+     "office": false,
+     "note": "The client's own read of her two cats, which settles the contradiction flagged from this morning's report: Frank having lazy days and staying out of sight is normal for him and does not mean he is unhappy, and Theo warms up over time and will come looking for scratches. This morning's report of Frank hiding and Theo greeting is therefore consistent with the client's picture, not a reversal.",
+     "quote": "And Frank has lazy days (weeks haha!), but I know he is happy with the visits"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4156,26 +4196,6 @@
      "office": false,
      "note": "Water bowl was found empty at the Sep 26 afternoon visit; sitter refilled it and topped off kibble. Worth watching whether the bowl is big enough between visits.",
      "quote": "I checked the food and water, the water was gone."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Noella Assi visit message 2:46 PM",
-     "office": false,
-     "note": "Theo did come out during the visit but bolted whenever the sitter got close. Handling note for whoever is next in: approach slowly, do not chase.",
-     "quote": "he was definitely a runner and runs away if I got too close"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Stephanie Sarrocco client message 2:14 PM",
-     "office": false,
-     "note": "Client says a CVS package is due at the house on 10/1. Sitters on that date should expect it and bring it inside.",
-     "quote": "FYI, there will be a CVS package coming on 10/1."
     }
    ],
    "dormant": false
@@ -6681,6 +6701,16 @@
      "office": false,
      "note": "Sep 27 report records equipment the brief has never carried: an automatic dry-food feeder AND a water fountain in the home, both full on arrival, and the sitter topped up both. She also cleaned TWO litter boxes - the brief has only ever recorded one, in the bathroom. First record of an automatic feeder on this client, which is worth reading alongside the two August items about the food bowl being empty on arrival.",
      "quote": "The automatic feeder looked okay and full. So did the water fountain, I did put more water in both of them."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Sep 30",
+     "source": "Josh Stone visit report, 12:13 PM",
+     "office": false,
+     "note": "House routine for this cat-only visit, as carried out on Sep 30: scoop both litter boxes and sweep around them, top off the water fountains, check the dry food level, bag the used litter into the garage trash can, put the trash and recycling bins out or bring them back up, and check for mail to bring in. Norah is very vocal and sociable and expects chat and a treat.",
+     "quote": ""
     },
     {
      "cat": "home",
