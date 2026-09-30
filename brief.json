@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T10:20:12-04:00",
+ "generated": "2026-09-30T11:20:11-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -925,6 +925,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Sep 30",
+     "source": "Drew Walker visit report to Melody Siska, Sep 30 10:40 AM",
+     "office": false,
+     "note": "Chloe's stool on the Sep 30 morning walk was ticked firm and healthy, the first normal reading after loose or runny on Sep 24, Sep 26 and Sep 29. She went both #1 and #2 and was cheerful throughout. The sitter notes they turned around at about the distance she used to manage, so the route is still shortened.",
+     "quote": "On the walk, Chloe went number 1 and 2 and was cheerful and happy the whole time."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 29",
      "source": "Kiara Streety 10:26am visit report Sep 29",
      "office": false,
@@ -970,15 +980,6 @@
      "office": false,
      "note": "Sep 22 early-afternoon visit: Chloe was standing on the bottom stairs barking loudly on arrival and the walk was cut short even though she ran most of it. Back at the house the sitter sat with her a few minutes and she relaxed and lay down, then went back to barking, and was still barking as he left. Ambiguous point: the sitter writes that she seemed stressed because mom was not home, but the visit report form on the same message records Client was home during visit / Client asked not to lock door.",
      "quote": "She seems very stressed since mom wasn’t home so her walk went short even though she was running pretty much the whole time."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Client message, 8:58am",
-     "office": false,
-     "note": "Chloe has a medical appointment the morning of Sep 18 - the client calls it a doctors appointment and gives no reason for it. Nothing in the message says what was found or whether anything changes for later visits."
     }
    ],
    "dormant": false
@@ -2833,6 +2834,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Client message, Paulo Garcia, Sep 30 10:57 AM",
+     "office": false,
+     "note": "Client warns both dogs may be groggy today from a vet visit yesterday and the medication they are now on. No medication name, dose or schedule is given, and the visit does not appear to involve giving any. Expect lower energy; do not push the walk.",
+     "quote": "FYI the dogs may be a bit groggy from yesterday and the meds the vet has them on"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2841,6 +2852,26 @@
      "office": true,
      "note": "Same-day cancellation for TODAY Sep 29. Paulo wrote at 6:28am to say he forgot Milo and Archer have dental appointments this morning and no visit is needed today. Sent as a message, not a portal cancellation, so the visit is likely still on the schedule - office needs to pull it before a sitter drives out.",
      "quote": "I forgot Milo and Archer have dental visits this morning, so you guys won’t need to come out today!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Client message, Paulo Garcia, Sep 30 10:59 AM",
+     "office": true,
+     "note": "Drew Walker asked whether Milo had been crated before the family left; the client answered that he should have been crated but a household member may have left him loose today. Office should confirm with the client whether Milo is crated as standing practice, because the sitter could not tell on arrival.",
+     "quote": "He should’ve been put in this crate, but Brianna might’ve let him roam for today"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Drew Walker visit message to Paulo Garcia, Sep 30 10:59 AM",
+     "office": false,
+     "note": "Milo had an indoor accident on the carpet during the Sep 30 late-morning visit and Drew Walker cleaned it up. Reported in the same exchange in which the client said Milo may have been left out of his crate.",
+     "quote": "Ah okay, he had an accident on the carpet I’m cleaning it up now"
     },
     {
      "cat": "schedule",
@@ -2921,36 +2952,6 @@
      "office": false,
      "note": "On the Sep 28 late-morning visit Milo was walked first and pulled on the leash only when he saw a squirrel; otherwise he walked well. One observation from one sitter on one walk, not a standing rule. Archer walked a lap around the block afterwards. Both dogs went #1 and #2, consistency firm, no accidents, no supplies low.",
      "quote": "didn’t pull much at all unless he saw a squirrel"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "Milo pulled on the leash and the sitter had to keep guiding him off it. One observation from one sitter.",
-     "quote": "He was pulling so I had to guide him to stop pulling so much he did good!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "How this sitter ran the visit: Milo out of his crate and leashed first to burn energy, Archer taken out separately afterwards, Milo back in the crate at the end. Describes one visit, not a confirmed standing instruction.",
-     "quote": "I came in and let Milo out the crate to run around while I got his leash together!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Visit report from Alex Miller, Sep 23 12:02pm",
-     "office": false,
-     "note": "Milo needed time to settle before he could be taken out, so his walk was shorter than Archer's. Lots of dogs and squirrels about meant frequent stops. He went #1 twice, no #2. Archer's walk was normal and his stool was firm.",
-     "quote": "Milo took a while to calm down to get him outside today so his walk was slightly shorter"
     }
    ],
    "dormant": false
@@ -6259,6 +6260,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Noella Assi visit report to Michael Smith, Sep 30 10:23 AM",
+     "office": true,
+     "note": "Beau-ba was not seen again on the Sep 30 morning visit. That is a third consecutive visit with no sighting. The client said on Sep 29 that a whole day out of sight is normal for this cat, but three in a row goes past what he described, so the office should check in with him rather than leave it to the sitter.",
+     "quote": "I did not see Beau-ba again this morning"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -6367,16 +6378,6 @@
      "office": false,
      "note": "General Information (Added By Client) was filled in for the first time on Sep 28 - the field had been blank. It gives a hiding spot for Pickles so a sitter can lay eyes on her: under the white dresser in the girl's bedroom. This does not match the Company Notes, which still say Pickles hides in the basement by the washer and dryer. Check both.",
      "quote": "Pickles hides under white dresser in girl's bedroom"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 28",
-     "source": "Tiarra Roberts updated contact information for Michael Smith.",
-     "office": false,
-     "note": "Company Notes as they read after the Sep 28 edit, recorded because this client's written record has been cut down repeatedly: dry food in the kitchen, wet food in the garage, fed at the morning and evening visits; split one container of wet food between all dishes and fill the dry bowls as needed. Two litter boxes at the bottom of the basement steps. Mailbox by the front steps, mail onto the kitchen counter, trash bins to the curb Sunday for Monday pickup. There is still no dog feeding instruction anywhere in the note.",
-     "quote": ""
     }
    ],
    "dormant": false
