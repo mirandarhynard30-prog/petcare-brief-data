@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T18:20:05-04:00",
+ "generated": "2026-09-30T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5290,6 +5290,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Tiarra Roberts visit report, Sep 30 6:18 PM",
+     "office": false,
+     "note": "Helios bolted for the door as the leash went on and was held back by the leash. Have the leash clipped and a firm hold before the door opens.",
+     "quote": "he did try to fly out the door like Superman, but I had a firm hold of the leash"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Tiarra Roberts visit report, Sep 30 6:18 PM",
+     "office": false,
+     "note": "On the evening walk Helios growled at full-size Halloween decorations, and got wound up once mid-walk (back-leg kicking) before settling. Strong on the leash; carried his rib toy the whole walk.",
+     "quote": "He growled at some full-size Halloween decor, I told him they were fake."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -5328,6 +5348,16 @@
      "office": false,
      "note": "Crate routine changed on Sep 11. To get Helios back into his basement crate, throw a treat in and he will run in after it. The older instruction - say the word crate, then give him a treat once he is inside - was removed. He wears a prong collar and his leash hangs by the side door.",
      "quote": "When finished, throw treat into crate and he will run in"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Tiarra Roberts visit report, Sep 30 6:18 PM",
+     "office": false,
+     "note": "Client was home for the Sep 30 evening visit and asked that the door not be locked. One visit only - not confirmed as a standing instruction.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
     },
     {
      "cat": "home",
