@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T13:20:11-04:00",
+ "generated": "2026-09-30T14:35:12-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -206,6 +206,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 30",
+     "source": "Elizabeth Sigler visit report, 1:45 PM",
+     "office": true,
+     "note": "The 1:00 PM visit DID go ahead - Elizabeth Sigler filed a full visit report at 1:45 PM. This closes five runs of escalation: the client said on Sep 29 at 4:14 PM that she had cancelled today's afternoon visit and the portal Service Change notice was never processed, but the visit happened anyway. The unprocessed portal request still needs clearing so the record matches reality.",
+     "quote": ""
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 29",
      "source": "Shannon Anderson message to client, 1:32pm",
      "office": true,
@@ -303,24 +313,14 @@
      "quote": "Try to spend as much time outside as possible outside, all rusty wants to do is dig through the trash inside!"
     },
     {
-     "cat": "behavior",
+     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 29",
-     "office": false,
-     "source": "Elizabeth Sigler visit report, 1:17-1:55pm visit",
-     "note": "During the 1:17pm visit both dogs got into the garage through a side window as soon as they were let out back. The sitter got them out quickly and wrote it down so the next person would know. This is a second garage incident in two days after the Sep 28 report, but by a different route, so it is logged as two separate events and not yet a standing rule.",
-     "quote": "They immediately peed and then hopped through that side window into the garage."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Elizabeth Sigler message to client, Sep 29 3:40pm",
-     "office": false,
-     "note": "Workaround one sitter used for the garage side window the dogs got through earlier on Sep 29: for the rest of that visit Elizabeth Sigler positioned herself in front of the window whenever the dogs started sniffing at it, and they moved on quickly. One sitter on one visit - recorded as what she did, not as a standing instruction.",
-     "quote": "For the rest of our visit I stood in front of the window anytime they started to sniff around it"
+     "date": "Sep 30",
+     "source": "Elizabeth Sigler visit report, 1:45 PM",
+     "office": true,
+     "note": "The sitter's report reads as a goodbye - she says she will miss Puck and Rusty, was tearing up during the visit, and wishes the client well with her move. This strongly suggests the client is moving and the engagement is ending, which would explain the cancellation. Nothing in the mail states an end date, so the office needs to confirm whether service is finishing and when.",
+     "quote": "I hope your move goes well"
     }
    ],
    "dormant": false
@@ -436,6 +436,16 @@
      "quote": "I’ve been splitting the tiny soft ones for him and he does ok with that"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 30",
+     "source": "Thomas Rakovec message, 1:55 PM",
+     "office": false,
+     "note": "The sitter and client have now agreed how to cut the treats back: a small piece of the soft dental treat for their teeth first, then split tiny ones after that. This is the sitter's side of the instruction the client gave at 1:06 PM, so the two now match and it can go into the Pet Care Note.",
+     "quote": "after that I'll just split tiny ones"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -444,16 +454,6 @@
      "office": false,
      "note": "Sitter found a #1 accident on the love seat and believes Berry slipped out of his diaper. He removed the diaper, took it downstairs, put another sheet on the love seat and put Berry back in his diaper. The sitter states this as what he thinks happened, not as confirmed.",
      "quote": "I’m thinking Berry went no.#1 on the love seat because he snuck out of his diaper"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 28",
-     "source": "Client message 7:04pm Sep 28",
-     "office": false,
-     "note": "Liz replied at 7:04pm confirming the love seat #1 was Berry and that it is an ongoing pattern, not a one-off: she says he has been peeing on the love seat and on everything else, and that he and Louie are marking against each other. Expect marking indoors and check the love seat on arrival. She did not answer the diaper question.",
-     "quote": "Yes, he has been peeing on the loveseat and everything else too! He and Louie are in a never ending pissing contest."
     }
    ],
    "dormant": false
@@ -670,6 +670,26 @@
      "quote": "They both had some sort of foil in their number 2 today."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Client message, 1:40 PM",
+     "office": false,
+     "note": "Waste bags have run out at this house. The client says she needs to order more and has been using grocery plastic bags in the meantime, so sitters should bring their own bags to this address until she restocks.",
+     "quote": "I need to order more anyway. I’ve been using the grocery plastic bags."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Client message, 1:40 PM",
+     "office": true,
+     "note": "The client volunteers that they should be home all weekend. She does not say whether that changes any booked visits, so the office should check whether weekend walks are still wanted or should be adjusted.",
+     "quote": "Anyway we should be home all weekend."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -728,26 +748,6 @@
      "office": false,
      "note": "Client explains Rex is high energy and still in a puppy stage with energy built up from the recent wet weather, and that the household has not been letting him run through the back yard because the ground by the shed is a muddy mess. Stated as the household's own practice, not given as a sitter instruction, so treat it as background rather than a standing rule.",
      "quote": "back by the shed area is just a muddy mess"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 23",
-     "source": "Terry M message to Ashley Corall, 1:14pm",
-     "office": false,
-     "note": "Client says both dogs chew in their crates and that is why only tough chew toys are given. Client uses inexpensive blankets as crate liners and expects holes in them.",
-     "quote": "They are chewers while in their crate which is why we give the tough chewing toys only."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 21",
-     "source": "Client message (Toni)",
-     "office": false,
-     "note": "On rainy days, sitters may just use the garage because the back yard gets mushy. Client will leave towels in the garage to pat the boys dry; they like being toweled off.",
-     "quote": "Feel free to just use the garage on rainy days, the back yard gets mushy."
     }
    ],
    "dormant": false
@@ -2366,6 +2366,16 @@
      "quote": "he started walking towards me even with Ripley's hackles raised and her sitting between my legs in warning"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Monica Hopewell visit report, 1:35 PM",
+     "office": true,
+     "note": "The sitter states in her report that she is covering both the AM and the afternoon visit tomorrow, which confirms the twice-daily pattern for Oct 1. The Oct 2 to Oct 4 visits in the same request are still not confirmed anywhere in the mail, so the rest of that booking window needs checking on the schedule.",
+     "quote": "I will see her tomorrow for the AM and afternoon visit."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2404,16 +2414,6 @@
      "office": false,
      "note": "During the 1pm walk Monica saw a gray sedan, which she thought was an older BMW, moving very slowly through the neighborhood and stopping at nearly every driveway including Matt's, then speeding off once other people noticed it. Reported for awareness; no incident and nothing taken.",
      "quote": "there was someone driving very slowly all throughout the neighborhood"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Tiarra Roberts visit report",
-     "office": false,
-     "note": "Ripley has a shock collar. Matt showed the sitter how it works on Sep 22 (client was home). The sitter did not use it and took it off after the walk, leaving it on the kitchen counter. The email does not say whether it has to be worn on every walk.",
-     "quote": "I also took her shock collar off and left it on the kitchen counter."
     }
    ],
    "dormant": false
@@ -3125,6 +3125,26 @@
      "quote": "Haven’t heard from a walker today?"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Julie Smith visit report, 2:10 PM",
+     "office": false,
+     "note": "This answers the client's 12:58 PM question about not having heard from a walker. The sitter explains today's visit was scheduled for 1:30 PM because she works until 1 PM in Parma, which is where the confusion came from, and confirms she will arrive at 1 PM tomorrow and Friday. The client replied Ok at 1:16 PM, so the open office item from the previous run is now resolved.",
+     "quote": "tomorrow and Friday I will be coming at 1 PM"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Julie Smith visit report, 2:10 PM",
+     "office": false,
+     "note": "Holly reacted to another dog while turning the corner into the cul-de-sac - she started jumping. The sitter redirected her and took her on down the street rather than passing the other dog. She was fine with several walkers and did not bark at anyone. One sitter's observation on one walk, so not yet a standing rule, but worth knowing on that route.",
+     "quote": "Holly started jumping, but I was able to redirect her"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3163,26 +3183,6 @@
      "office": false,
      "note": "Holly, Sep 24 evening walk with Dan Dantimo: she went both #1 and #2, and the report's #2 consistency answer was the canned option \"It was a little loose but not concerning\". Her last recorded consistency answer (Sep 20, Shannon Anderson) was firm and healthy, so this is a change. The sitter did not flag it as a concern and reported no other symptoms; Holly walked well and the client was home during the visit.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 21",
-     "source": "Client message",
-     "office": false,
-     "note": "Client says Holly will not go out on a walk if there is thunder. Light rain is OK per the client (keep your head covered).",
-     "quote": "She won’t go if there is thunder."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Client message (to Julie Smith)",
-     "office": false,
-     "note": "Sep 21 evening walk: client heard thunder and asked the sitter to wait (earlier she suggested giving it an hour). Julie Smith replied \"Of course!\" - new time not stated.",
-     "quote": "I hear thunder I think. Could we wait?"
     }
    ],
    "dormant": false
@@ -3605,6 +3605,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Dan Dantimo message, 2:07 PM",
+     "office": true,
+     "note": "A visit time change today reached the sitter but not the client - she did not know about it and they had to talk it through on the doorstep. The sitter apologised. Whatever changed the time was not communicated to this client, so the office should check how the change was made and whether other clients were affected the same way.",
+     "quote": "sorry that you were unaware of the time change"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3653,6 +3663,16 @@
      "office": true,
      "note": "Replying to a private message from the office, the client asks for guidance on harnesses for Muffy. She also says she and Muffy like sitter Julie and hopes Julie can do more of her walks. Both points are waiting on an office reply.",
      "quote": "I would appreciate any guidance you can give me on harnesses."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Dan Dantimo visit report, 2:07 PM",
+     "office": false,
+     "note": "Muffy went both #1 and #2 on the walk and the report's consistency field was answered with the a-little-loose-but-not-concerning option. First loose reading logged for this pet in the current record, so it is an isolated observation, not a pattern. Quote left empty on purpose - that canned phrase is identical to already-published Sep 30 health items for other clients and the de-duplication key would silently drop one of them.",
+     "quote": ""
     },
     {
      "cat": "behavior",
@@ -6035,6 +6055,26 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Sep 30",
+     "source": "Client message, 2:15 PM",
+     "office": false,
+     "note": "Explains a recurring oddity at this house: Flacko's treat ball rolls into the stereo and knocks the power button on, which leaves it blaring static. The client confirmed this is what happens and thanked the sitter for switching it off, so turning the stereo off when you find it on is correct.",
+     "quote": "when he rolls his treat ball around it hits the power button on the stereo"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Shannon Anderson visit report, 1:44 PM",
+     "office": false,
+     "note": "There were no treats in the fridge on the midday visit, so the sitter took an ice cream cup from the freezer instead and Flacko loved it. The client's reply at 2:15 PM thanked her, which settles the question carried for several runs about whether the freezer ice cream is an everyday treat or only a stand-in - it is acceptable. The fridge treats still need restocking.",
+     "quote": "I looked in the fridge for some treats and didn't see any"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Sep 29",
      "source": "Elizabeth Sigler visit report 12:48pm",
@@ -6111,26 +6151,6 @@
      "office": false,
      "note": "Brandon expects a package on the front porch around the time of the next visit and asks the sitter to bring it inside.",
      "quote": "I may have a package on front porch roughly around the time of your arrival if so could you please bring it in"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 16",
-     "source": "Client message via Time To Pet, Sep 16 9:41am",
-     "office": false,
-     "note": "Client says there is a small bag of treats for the dog on the top shelf of the fridge. New standing supply location for this brand new client. Note the client spells the dog Flocko here while the pet record reads Flacko - same dog, spelling is inconsistent in Time To Pet.",
-     "quote": "I have a small bag of treats on the top shelf in the fridge for Flocko"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Visit report from Elizabeth Cuffari, Sep 16 1:51pm",
-     "office": false,
-     "note": "First walk for this brand new client. The dog walked well down Clifton and went #1, but the sitter judged he was getting hot in the humidity and brought him back to the house early to hang out indoors instead of finishing the usual walk. One observation on one humid day, not yet an established rule - worth watching on the next warm visit. Sitter refilled his water and gave him the fridge treats.",
-     "quote": "He went number one, but he did seem like he was getting kinda hot."
     }
    ],
    "dormant": false
