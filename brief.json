@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T18:20:05-04:00",
+ "generated": "2026-10-01T19:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3169,6 +3169,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 1",
+     "source": "Dan Dantimo post-visit report",
+     "office": false,
+     "note": "Oct 1 evening visit ran and the client was home during it (report records 'Client was home during visit'). Holly got a second walk. Dan tells Lynne he will see her Saturday; the report gives no calendar date, so which Saturday is not established.",
+     "quote": "I will see you Saturday."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Client private message, 12:58 PM",
      "office": true,
@@ -3224,16 +3234,6 @@
      "office": false,
      "note": "Holly went #1 and #2 on the Sep 25 evening walk and the consistency field was answered as slightly loose. The sitter judged it not concerning. Single reading, no other symptoms noted. Worth a second look at the next visit rather than action now.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Dan Dantimo visit report, Sep 24 6:50pm",
-     "office": false,
-     "note": "Holly, Sep 24 evening walk with Dan Dantimo: she went both #1 and #2, and the report's #2 consistency answer was the canned option \"It was a little loose but not concerning\". Her last recorded consistency answer (Sep 20, Shannon Anderson) was firm and healthy, so this is a change. The sitter did not flag it as a concern and reported no other symptoms; Holly walked well and the client was home during the visit.",
-     "quote": ""
     }
    ],
    "dormant": false
