@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T20:20:07-04:00",
+ "generated": "2026-09-30T21:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6801,6 +6801,24 @@
      "office": false,
      "note": "Norah is a very vocal cat who demands attention, leads the sitter to her food and follows them room to room. Expect loud meowing on arrival.",
      "quote": "She is very vocal and showed me to her food."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Nicole Smith",
+   "url": "https://www.timetopet.com/dashboard/client/tlgwtkKi37yv",
+   "pets": [],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Faith Collins post-visit message, Sep 30 9:01 PM",
+     "office": true,
+     "note": "New client - the Sep 30 evening slot was a meet-and-greet, and Faith Collins, Kiara Streety and Reese Rath all met Nicole and the dogs. Faith signed off saying she promises to wear socks next time, which reads like a shoes-off / socks-in-the-house preference, but nothing in the email is a client instruction and the preference is not confirmed. Office should check what Nicole actually asked for and get it into the Pet Care Note before the first real visit. Email does not name the dogs.",
+     "quote": "Again, I promise to where socks"
     }
    ],
    "dormant": false
