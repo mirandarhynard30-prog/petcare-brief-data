@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T22:20:05-04:00",
+ "generated": "2026-09-30T23:20:12-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4707,22 +4707,32 @@
     {
      "cat": "health",
      "sev": "medium",
-     "type": "recent",
-     "date": "Sep 7",
-     "source": "Lacey Govil visit report to Kari Majewski, Mon Sep 7 11:28am",
+     "type": "standing",
+     "date": "Sep 30",
+     "source": "Kari Majewski private message, 11:03 PM",
      "office": true,
-     "note": "Second appetite report in three days. At the Mon Sep 7 visit Miguel was offered a Sheba and a churu and ate neither while the sitter was there; water was refreshed and dry food topped off. The Sep 5 report was ambiguous on this, so this is now a pattern worth raising with Kari rather than a one-off.",
-     "quote": "I gave him a Sheba and a churu. He did not eat while I was here."
+     "note": "New standing feeding rule from the client: Miguel has turned picky about his wet food, so put out a variety of options and let him choose, then refrigerate the rest. This replaces the plain one-food routine and follows the Sep 7 appetite reports.",
+     "quote": "Miguel is getting rather picky with his wet food. Please put out a variety for him to choose from."
     },
     {
-     "cat": "health",
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Sep 30",
+     "source": "Kari Majewski private message, 11:03 PM",
+     "office": true,
+     "note": "Routine change: the raccoons are NO LONGER to be fed. Birdseed for the birds only, kept in the kitchen closet on the floor. The published standing note still says bird food generally, so it needs correcting in Time To Pet.",
+     "quote": "We are no longer feeding the raccoons, just the birdseed for the birds."
+    },
+    {
+     "cat": "home",
      "sev": "low",
      "type": "recent",
-     "date": "Sep 7",
-     "source": "Lacey Govil visit report to Kari Majewski, Mon Sep 7 11:28am",
+     "date": "Sep 30",
+     "source": "Kari Majewski private message, 11:03 PM",
      "office": false,
-     "note": "The fish did not respond to feeding at the Sep 7 visit - the sitter put a pinch of food in the tank and it stayed at the side of the tank. First time this has been reported; no conclusion drawn.",
-     "quote": "I tried to wake up the fish and I put a pinch of food in his tank"
+     "note": "Client has left a handwritten note for the sitter on the counter. Worth looking for on arrival: her message says 'The same rest of the routine is as follows' and then lists nothing, so the rest of the routine may only be on that counter note.",
+     "quote": "I’ve left a note for you as well on the counter."
     },
     {
      "cat": "home",
@@ -4745,7 +4755,7 @@
      "quote": "I put the bird food on the rails outside."
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Alexandria Francis",
