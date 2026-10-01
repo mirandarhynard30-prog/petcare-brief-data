@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T15:20:07-04:00",
+ "generated": "2026-10-01T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3149,6 +3149,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 1",
+     "source": "Lynne Reno private message 3:33 PM",
+     "office": true,
+     "note": "Client replied at 3:33 PM to a private message from Miranda, accepting one of two options she was offered. The two options are not in this mailbox - the outgoing message is not here - so it is not known what she agreed to or which visit or date it concerns. Needs checking in Time To Pet before anything is scheduled on the strength of it.",
+     "quote": "One or the other will work for me"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Client private message, 12:58 PM",
      "office": true,
@@ -3224,16 +3234,6 @@
      "office": false,
      "note": "Holly went #1 and #2 on the Oct 1 1pm walk with Julie Smith and the consistency field was answered firm and healthy. The sitter also thought Holly tired sooner than usual and slowed down earlier in the walk.",
      "quote": "I think she might’ve been a bit tired today"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Julie Smith visit report, Oct 1 1:27 PM",
-     "office": false,
-     "note": "On the Oct 1 walk a dog across the street barked at Holly and she stopped and stared without barking back.",
-     "quote": "the dog was barking at Holly, but she just stopped and stared"
     }
    ],
    "dormant": false
@@ -5955,6 +5955,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 1",
+     "source": "Yasmeen Abrams message to client 3:53 PM",
+     "office": true,
+     "note": "Sitter Yasmeen Abrams asked the client at 3:53 PM whether the dogs need feeding at tomorrow evening's visit. No answer from the client had arrived by 4:13 PM. The feeding expectation for the Oct 2 evening visit is therefore still unsettled.",
+     "quote": "For tmr evening visit do pups need feed ?"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 17",
      "source": "Sitter visit report, Sep 17 12:36pm",
      "office": false,
@@ -6059,16 +6069,6 @@
      "source": "Ashley Corall visit report",
      "office": false,
      "note": "Outside on Sep 15 Bailey reacted loudly to the chocolate lab in the next-door yard; the sitter described it as guard-dog behaviour and says Bailey was sweet and affectionate once back indoors. First logged reactivity note for Bailey - worth watching on future walks rather than treating as a rule."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 15",
-     "source": "Client message",
-     "office": false,
-     "note": "Context on Bailey's barking at the neighbour dog: the client says Bailey's bark is much bigger than her bite, and that neighbour dog Charlie is docile, used to her barking and just likes staring at them.",
-     "quote": "bails is such a guard dog with a bark sooo much bigger than her bite"
     }
    ],
    "dormant": false
@@ -6875,6 +6875,16 @@
      "office": true,
      "note": "Returning client needs cat care Oct 26-28 and wants a meet-and-greet before then. Also asks whether she should request the Oct 26-28 dates in Time To Pet now or wait until after the meeting. Follows her earlier Oct 1 message about restarting service; still unanswered.",
      "quote": "I will be needing someone October 26-28. So would like to meet before then."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Kim Knight private message 4:08 PM",
+     "office": true,
+     "note": "Kim has now given her availability for the meet-and-greet she asked for earlier today: Tuesday morning before 11, Wednesday afternoon, Friday afternoon, or most evenings. Her wording implies she is replying to a message from Miranda, but that outgoing message is not in this mailbox so what was offered is unknown. The Oct 26-28 cat care is still unbooked and she had asked whether to request the dates before or after the meeting.",
+     "quote": "I am free Tuesday morning before 11, AM Wednesday afternoon or Friday afternoon. If evening works I can do most evenings"
     }
    ],
    "dormant": false
