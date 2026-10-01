@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T13:50:07-04:00",
+ "generated": "2026-10-01T16:20:15-04:00",
  "date": "2026-10-01",
  "label": "Oct 1, 2026",
  "clients": [
@@ -109,6 +109,13 @@
      "sort": "1300",
      "staff": "Julie Smith",
      "service": "Dog Visit-30 minute",
+     "pets": "Holly"
+    },
+    {
+     "time": "6:00 PM",
+     "sort": "1800",
+     "staff": "Dan Dantimo",
+     "service": "Last Minute Visit- 30 minute",
      "pets": "Holly"
     }
    ]
@@ -302,5 +309,5 @@
    ]
   }
  ],
- "visitCount": 29
+ "visitCount": 30
 }
