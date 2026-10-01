@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T11:20:06-04:00",
+ "generated": "2026-10-01T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2954,6 +2954,16 @@
      "quote": "I forgot Milo and Archer have dental visits this morning, so you guys won’t need to come out today!"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Drew Walker visit report, Oct 1",
+     "office": false,
+     "note": "Drew Walker reported both dogs were tired and groggy on the Oct 1 midday visit; she shortened both walks and played with them inside instead. No cause given in the report.",
+     "quote": "Both pups seemed very tired and groggy today and slowed down a lot on the walks"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3032,16 +3042,6 @@
      "office": false,
      "note": "Cleaners are in the house today. Archer is shut upstairs in the far right room with the door closed - that is where to find him on arrival. On Aug 26 the dogs were shut in the basement for the same reason, so the room used varies.",
      "quote": "Archer is upstairs in the far right room with the door closed"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 15",
-     "source": "Drew Walker visit report, Sep 15 1:09pm",
-     "office": false,
-     "note": "Third logged report of Milo pulling on the lead - Sep 9, Sep 14 and now Sep 15, across two sitters. Consistent enough to expect on every walk rather than treat as a one-off. Drew describes it as mild this time and says Milo was otherwise good.",
-     "quote": "he pulled a bit but was overall good"
     }
    ],
    "dormant": false
@@ -6083,6 +6083,26 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Client private message, Oct 1 11:18 AM ET",
+     "office": true,
+     "note": "Client asks to move a visit time back to what he believes was the 1-3 PM block. He does not name the date, so the office has to match it against his open orders.",
+     "quote": "I believe it was the one to three p.m. block."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Client private message, Oct 1 11:19 AM ET",
+     "office": true,
+     "note": "Follow-up message one minute later asking that the same visit be changed to the 60 minute length.",
+     "quote": "Also, yes, could you make it the 60 minute visit?"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -6161,26 +6181,6 @@
      "office": true,
      "note": "On his last-minute Sep 19 request, the client says any time after 3:00pm works and he will most likely be home by then. The Sep 19 service order is still awaiting approval.",
      "quote": "if it would be anytime after three I will most likely be home by then"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Client message 7:18am Sep 17",
-     "office": false,
-     "note": "Client asks that the door handle NOT be locked when leaving. Stated as a plain instruction with no reason given and no mention of which door; treat it as the door the sitter uses to exit. The sitter replied \"Ok not a problem\" at 7:19am.",
-     "quote": "Please do NOT lock the door handle when leaving"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Client message",
-     "office": false,
-     "note": "Brandon expects a package on the front porch around the time of the next visit and asks the sitter to bring it inside.",
-     "quote": "I may have a package on front porch roughly around the time of your arrival if so could you please bring it in"
     }
    ],
    "dormant": false
