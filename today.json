@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T00:06:12-04:00",
+ "generated": "2026-10-01T10:05:10-04:00",
  "date": "2026-10-01",
  "label": "Oct 1, 2026",
  "clients": [
@@ -24,6 +24,18 @@
      "staff": "Margaret Bill",
      "service": "Long Range Visit-30 Minute",
      "pets": "Gordy (Gordon)"
+    }
+   ]
+  },
+  {
+   "name": "Bill Brock",
+   "visits": [
+    {
+     "time": "5:00 PM",
+     "sort": "1700",
+     "staff": "Tiarra Roberts",
+     "service": "Last Minute Visit- 45 minute",
+     "pets": "Storm, Timber"
     }
    ]
   },
@@ -290,5 +302,5 @@
    ]
   }
  ],
- "visitCount": 28
+ "visitCount": 29
 }
