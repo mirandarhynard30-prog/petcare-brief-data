@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T17:20:08-04:00",
+ "generated": "2026-10-01T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -333,14 +333,14 @@
      "quote": "Hi Mary Margaret and I will arrive around 5pm for the meet and greet"
     },
     {
-     "cat": "behavior",
+     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 30",
-     "source": "Client message",
-     "office": false,
-     "note": "Client asks the sitter to keep Rusty outside as much as possible this visit - indoors he goes for the trash. Sent 7:05 AM Sep 30, the morning after she said she had cancelled today's afternoon visit, so whether the visit is on is unconfirmed.",
-     "quote": "Try to spend as much time outside as possible outside, all rusty wants to do is dig through the trash inside!"
+     "date": "Oct 1",
+     "source": "Shannon Anderson post-visit report, Oct 1 6:09 PM",
+     "office": true,
+     "note": "The 5 PM meet-and-greet went ahead. Shannon Anderson wrote at 6:09 PM that she was glad to see the dogs tonight, that she is looking forward to the visit tomorrow, and that Margaret would file tonight's report. Neither message mentions the move or the Sep 30 cancellation, so neither is resolved by this.",
+     "quote": "I'm so glad I got to see my girls tonight. I can't wait for the visit tomorrow."
     }
    ],
    "dormant": false
@@ -3159,6 +3159,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 1",
+     "source": "Dan Dantimo message to client, Oct 1 5:26 PM; client reply 5:55 PM",
+     "office": false,
+     "note": "Dan Dantimo told the client at 5:26 PM he will be there at six, and she replied 'Thanks' at 5:55 PM. This closes the loop on the two options she agreed to at 3:33 PM. The messages do not say which day the six o'clock visit is for.",
+     "quote": "Hi Lynne, I'll be there at six"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Client private message, 12:58 PM",
      "office": true,
@@ -3224,16 +3234,6 @@
      "office": false,
      "note": "Holly, Sep 24 evening walk with Dan Dantimo: she went both #1 and #2, and the report's #2 consistency answer was the canned option \"It was a little loose but not concerning\". Her last recorded consistency answer (Sep 20, Shannon Anderson) was firm and healthy, so this is a change. The sitter did not flag it as a concern and reported no other symptoms; Holly walked well and the client was home during the visit.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Julie Smith visit report, Oct 1 1:27 PM",
-     "office": false,
-     "note": "Holly went #1 and #2 on the Oct 1 1pm walk with Julie Smith and the consistency field was answered firm and healthy. The sitter also thought Holly tired sooner than usual and slowed down earlier in the walk.",
-     "quote": "I think she might’ve been a bit tired today"
     }
    ],
    "dormant": false
@@ -4516,6 +4516,16 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Tiarra Roberts post-visit report, Oct 1 5:41 PM",
+     "office": false,
+     "note": "On the Oct 1 evening visit both dogs did not want to eat when first offered and the uneaten food was left upstairs. The same report records wet and dry food as fed, so whether they ate later in the visit is unclear.",
+     "quote": "The boys didn't seem to want to eat, yet."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "standing",
      "date": "Sep 27",
      "source": "Company Notes updated by Tiarra Roberts, Sep 27 4:57pm",
@@ -4604,24 +4614,14 @@
      "quote": "Trash day: Tuesday morning"
     },
     {
-     "cat": "health",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 22",
-     "source": "Pet Care Note and Company Notes, edited by Tiarra Roberts Sep 22",
-     "office": false,
-     "note": "The Pet Care Note is now empty. It used to say the wet canned food (1/2 can each) is fed at the evening visit. The Company Notes still put wet food at the midday visit (1-6pm) when Bill is out of town, with no feeding usually needed at the evening visit. The Sep 22 rewrite also moved water to the kitchen and the upstairs dog room.",
-     "quote": "Midday: 1–6pm wet can food"
-    },
-    {
-     "cat": "health",
+     "cat": "home",
      "sev": "low",
      "type": "recent",
-     "date": "Sep 18",
-     "source": "Tiarra Roberts visit report",
+     "date": "Oct 1",
+     "source": "Tiarra Roberts post-visit report, Oct 1 5:41 PM",
      "office": false,
-     "note": "At the Friday evening visit Timber ate more slowly than usual and did not finish his food; Tiarra left the uneaten portion upstairs with the dogs. Storm ate normally and Timber's stool was firm. One observation only - worth watching at the next visit, not a standing rule.",
-     "quote": "Timber was the slower one to eat today, but that's okay."
+     "note": "Tiarra Roberts cleaned up a small indoor potty accident near the couch on the Oct 1 evening visit; before and after pictures are in the report. She wrote 'I believe', so which dog it was is not established.",
+     "quote": "I cleaned up a small potty accident near the couch, I believe."
     }
    ],
    "dormant": false
