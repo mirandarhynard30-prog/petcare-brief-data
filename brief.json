@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T13:20:05-04:00",
+ "generated": "2026-10-01T14:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3214,6 +3214,26 @@
      "office": false,
      "note": "Holly, Sep 24 evening walk with Dan Dantimo: she went both #1 and #2, and the report's #2 consistency answer was the canned option \"It was a little loose but not concerning\". Her last recorded consistency answer (Sep 20, Shannon Anderson) was firm and healthy, so this is a change. The sitter did not flag it as a concern and reported no other symptoms; Holly walked well and the client was home during the visit.",
      "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Julie Smith visit report, Oct 1 1:27 PM",
+     "office": false,
+     "note": "Holly went #1 and #2 on the Oct 1 1pm walk with Julie Smith and the consistency field was answered firm and healthy. The sitter also thought Holly tired sooner than usual and slowed down earlier in the walk.",
+     "quote": "I think she might’ve been a bit tired today"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Julie Smith visit report, Oct 1 1:27 PM",
+     "office": false,
+     "note": "On the Oct 1 walk a dog across the street barked at Holly and she stopped and stared without barking back.",
+     "quote": "the dog was barking at Holly, but she just stopped and stared"
     }
    ],
    "dormant": false
@@ -5804,6 +5824,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 1",
+     "source": "Dan Dantimo visit report, Oct 1 1:24 PM",
+     "office": true,
+     "note": "Oct 1 midday report, written by Dan Dantimo while shadowing Elizabeth Cuffari, makes no mention of Louise's (Weezie's) eye drops, and the report form carries no medication question at all. Third report in a row with no record of the drops.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Shannon Anderson visit report, 12:42 PM",
      "office": true,
@@ -5909,16 +5939,6 @@
      "office": false,
      "note": "Visit type is backyard only - no walks. Water is a fountain in the kitchen next to the back door; treats are in the left cabinet above the stove.",
      "quote": "No walks required, just backyard time only."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Shannon Anderson visit report, 12:42 PM",
-     "office": false,
-     "note": "Two Amazon packages brought in on the midday visit - one from the front porch, one from the garage steps - and set on the table with the ones already there. Deliveries are accumulating at this house.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -6783,6 +6803,16 @@
      "office": false,
      "note": "Vet of record added for Zoey: Avon Animal Hospital, 37160 Detroit Rd, Avon, OH 44011, (440) 934-6516. Client entered this herself on Oct 1; it had been blank. Confirms her two dogs are named Bear and Zoey.",
      "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Jade Popovitz visit report, Oct 1 1:16 PM",
+     "office": false,
+     "note": "Oct 1 midday visit, reported by Jade Popovitz after Drew Walker handed the report over. Coming in from the yard, Bear and Zoey both stopped below the steps and had to be coaxed back up to the house.",
+     "quote": "they stared at us from below until we went back down to encourage them"
     },
     {
      "cat": "home",
