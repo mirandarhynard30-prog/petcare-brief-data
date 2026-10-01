@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T09:20:07-04:00",
+ "generated": "2026-10-01T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6758,8 +6758,31 @@
   {
    "name": "Nicole Smith",
    "url": "https://www.timetopet.com/dashboard/client/tlgwtkKi37yv",
-   "pets": [],
+   "pets": [
+    "Bear",
+    "Zoey"
+   ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 1",
+     "source": "Nicole Smith pet record update - Bear",
+     "office": false,
+     "note": "Vet of record added for Bear: Avon Animal Hospital, 37160 Detroit Rd, Avon, OH 44011, (440) 934-6516. Client entered this herself on Oct 1; it had been blank.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 1",
+     "source": "Nicole Smith pet record update - Zoey",
+     "office": false,
+     "note": "Vet of record added for Zoey: Avon Animal Hospital, 37160 Detroit Rd, Avon, OH 44011, (440) 934-6516. Client entered this herself on Oct 1; it had been blank. Confirms her two dogs are named Bear and Zoey.",
+     "quote": ""
+    },
     {
      "cat": "home",
      "sev": "low",
@@ -6801,6 +6824,16 @@
      "office": false,
      "note": "Two new 1-year-old rescue cats adopted, Drew (female) and Doughty (male), a bonded pair. Both are still very shy. Kopi is doing well and is described by the client as the boss of the house and the braver of the three.",
      "quote": "Currently Kopi is more brave with the babies still being very shy"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Kim Knight private message",
+     "office": true,
+     "note": "Returning client needs cat care Oct 26-28 and wants a meet-and-greet before then. Also asks whether she should request the Oct 26-28 dates in Time To Pet now or wait until after the meeting. Follows her earlier Oct 1 message about restarting service; still unanswered.",
+     "quote": "I will be needing someone October 26-28. So would like to meet before then."
     }
    ],
    "dormant": false
