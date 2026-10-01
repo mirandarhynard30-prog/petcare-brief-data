@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T23:20:12-04:00",
+ "generated": "2026-10-01T09:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2346,6 +2346,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Oct 1 morning walk: Ripley reacted strongly on leash to a neighbouring dog the sitter calls Archie, just outside the garage. Sitter needed a firmer voice to settle her, rerouted to the shorter cul-de-sac, and Ripley stayed on high alert for the rest of the walk; they crossed paths again on the way back with no incident. Reported once so far, not yet confirmed as a standing rule.",
+     "quote": "we had just passed under the garage door when Ripley went berserk. Archie her arch nemesis was passing by."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2404,16 +2414,6 @@
      "office": true,
      "note": "Private message to Miranda asking for a call. No subject given and no reply is visible in the mailbox as of Sep 15 morning. He is on today's schedule.",
      "quote": "Miranda - do u have a few minutes to talk?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Monica Hopewell visit report, Sep 9 midday",
-     "office": false,
-     "note": "Ripley reacted to unfamiliar people during the Sep 9 midday visit. A man and a woman were by an SUV in the driveway and the man walked toward the sitter while Ripley had her hackles up and was sitting between the sitter's legs; she also rumbled at an Amazon driver. She was too focused on the front of the house to go on the trail, so the sitter kept her in the fenced back yard. Recorded as one visit, not established as a standing rule.",
-     "quote": "he started walking towards me even with Ripley's hackles raised and her sitting between my legs in warning"
     },
     {
      "cat": "schedule",
@@ -3146,26 +3146,6 @@
     },
     {
      "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Client message",
-     "office": true,
-     "note": "Client wrote mid-morning that she is stuck at the hospital with her husband and asked whether anyone could walk Holly within the hour. She later added that they are usually out in about 3 hours and it has never taken this long.",
-     "quote": "Is anyone available to walk Holly in the next hour?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Client message",
-     "office": true,
-     "note": "Client confirmed the later visit on Sep 9 should be cancelled, in reply to Dan Dantimo. Needs to be actioned in the scheduler.",
-     "quote": "Then we cancel the later visit ok"
-    },
-    {
-     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
      "date": "Sep 30",
@@ -3737,26 +3717,6 @@
     {
      "cat": "behavior",
      "sev": "low",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Dan Dantimo evening visit report",
-     "office": false,
-     "note": "Muffy was excitable at the Sep 9 evening visit after having to wait indoors for the rain to stop. The sitter kept the route close to the house, walked near the pond and a couple of streets, and practised heel; he says she did fine for the most part and he will keep working on it.",
-     "quote": "Muffy was sure in an excitable mood today as she had to wait for the rain to stop when I first arrived."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Dan Dantimo evening visit report",
-     "office": false,
-     "note": "The Sep 9 evening walk was cut short when a siren went off and the rain returned. The sitter still logged it as a good walk. Client was home during the visit, so the home was not checked or secured by the sitter.",
-     "quote": "We headed back cutting the walk short as a siren went off and rain returned but good walk for Muffy."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
      "type": "standing",
      "date": "Sep 3",
      "source": "Client private message, Sep 3 7:59pm",
@@ -3924,16 +3884,6 @@
      "office": false,
      "note": "Handling heads-up from today's visit: Aayla greets at the door by jumping, reaching nearly the sitter's eye level. The sitter describes it as her usual greeting and the rest of the visit was normal - walk, both #1 and #2, stool firm.",
      "quote": "Jumping for joy at almost my eye level"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Client message",
-     "office": false,
-     "note": "Client explained the styrofoam debris a sitter found was from her own late-night building project, not the dog. No action needed.",
-     "quote": "The styrofoam was all me, late night building a new rollable island"
     }
    ],
    "dormant": false
@@ -4429,16 +4379,6 @@
      "office": true,
      "note": "Greg was home during the Sep 14 11am visit, and the household had already walked Blackie about 10:30am, so the sitter's walk was a second outing and she did not go into the home. Worth confirming with the client whether visits are still wanted on days someone is home.",
      "quote": "Greg mentioned that Blackie went number one and two before we got here."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 9",
-     "source": "Noella Assi visit report",
-     "office": false,
-     "note": "On Sep 9 Blackie was collected from and returned to neighbor Greg rather than the house; the report notes the client was home and asked that the door not be locked. Greg had already walked him at 9am.",
-     "quote": "I got Blackie from the neighbor Greg."
     }
    ],
    "dormant": false
@@ -6413,6 +6353,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 1",
+     "source": "Noella Assi visit report",
+     "office": true,
+     "note": "Oct 1 morning visit: Pickles again not found in any usual hiding spot. This is a second consecutive visit with no sighting (also missed Sep 30 evening) while the family is away. Office should contact the client to confirm whether Pickles is accounted for.",
+     "quote": "I tried looking for pickles but I did not see him in any of his usual hiding spot."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Noella Assi visit report to Michael Smith, Sep 30 10:23 AM",
      "office": true,
@@ -6483,6 +6433,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 1",
+     "source": "Noella Assi visit report",
+     "office": false,
+     "note": "Oct 1 morning visit: Beau-ba also not seen. Pepe and the white cat were both waiting as usual; food, water and litter were all done.",
+     "quote": "I looked for Beau-ba but I did not see him"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Tiarra Roberts visit report, Sep 30 evening",
      "office": false,
@@ -6508,26 +6468,6 @@
      "office": false,
      "note": "Michael asks the sitter to try to give the white cat attention if he allows it - he was stressed when the family left.",
      "quote": "Please try to give attention to white kitty... If he lets you. He was stressin when we left."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Noella Assi message 12:50pm",
-     "office": false,
-     "note": "Answering the client's Sep 29 note that the white cat was stressed when they left: the sitter confirms she did see him eat some food at the morning visit. She did not see Beau-ba at all that morning. The mail does not say whether Beau-ba being unseen is unusual for this house.",
-     "quote": "we did see him eat some food, I did not see Beau-ba this morning."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Tiarra Roberts visit report, Sep 29 evening",
-     "office": false,
-     "note": "Pickles hid in a bedroom closet on the Sep 29 evening visit; the sitter backed off rather than press him. Reported once, not established as a standing rule.",
-     "quote": "I found Pickles in the girl's bedroom closet. I quickly left him alone, so he wouldn't have to bolt."
     }
    ],
    "dormant": false
@@ -6829,6 +6769,38 @@
      "office": true,
      "note": "New client - the Sep 30 evening slot was a meet-and-greet, and Faith Collins, Kiara Streety and Reese Rath all met Nicole and the dogs. Faith signed off saying she promises to wear socks next time, which reads like a shoes-off / socks-in-the-house preference, but nothing in the email is a client instruction and the preference is not confirmed. Office should check what Nicole actually asked for and get it into the Pet Care Note before the first real visit. Email does not name the dogs.",
      "quote": "Again, I promise to where socks"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Kim Knight",
+   "url": "https://www.timetopet.com/dashboard/client/sps00hf8fFgD",
+   "pets": [
+    "Kopi",
+    "Drew",
+    "Doughty"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "client private message",
+     "office": true,
+     "note": "Returning client after a long gap. Kim is asking how to restart service, whether a new contract is needed now that she has new pets and updated food routines, and whether to book a meet-and-greet. Unanswered as of this run.",
+     "quote": "how do you recommend going forward with restarting using the services? Do I need another contract since I have new pets/updated food routines?"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 1",
+     "source": "client private message",
+     "office": false,
+     "note": "Two new 1-year-old rescue cats adopted, Drew (female) and Doughty (male), a bonded pair. Both are still very shy. Kopi is doing well and is described by the client as the boss of the house and the braver of the three.",
+     "quote": "Currently Kopi is more brave with the babies still being very shy"
     }
    ],
    "dormant": false
