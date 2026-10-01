@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T19:20:05-04:00",
+ "generated": "2026-09-30T20:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -141,6 +141,26 @@
     "Benji"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Sep 30",
+     "source": "Client message (Terri Orengo)",
+     "office": false,
+     "note": "Client says Nova has started pain management for arthritis. Volunteered in reply to the sitter remarking she was surprised Nova had a few seconds of zoomies in the yard that day, so Terri is offering it as the likely explanation. Neither the drug nor the dosing schedule is named, and nothing is asked of the sitter. Arthritis is new information in the brief and may also explain Nova's repeated reluctance to go outside.",
+     "quote": "She started pain management for arthritis (another thing for her 😭) so that might be why."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Sep 30",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "On the 11:30 AM visit Nova again refused to go outside at first. Shannon slid the harness on without clipping it and Nova would not move until she heard the leash clip, then ran straight to the back door. Useful handling trick, but recorded as one observation rather than a standing rule. Nova did not potty; she did do a few seconds of zoomies in the fenced yard and took mini milk bones.",
+     "quote": "She wouldn't go today until she heard the leash clip."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
