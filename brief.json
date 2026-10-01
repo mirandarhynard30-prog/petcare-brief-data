@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T21:20:08-04:00",
+ "generated": "2026-09-30T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1237,6 +1237,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
+     "date": "Sep 30",
+     "source": "Client message, Sep 30 9:36 PM",
+     "office": false,
+     "note": "Client's own Sep 30 evening message thanks Kristin for avoiding 'the toad and the reported coyotes' on the night walk. COYOTES have not appeared anywhere in the brief before. AMBIGUOUS: no email says who reported the coyotes, when, or where - Kristin's 8:32 PM walk report for the same visit mentions neither a toad nor a coyote, so the client is the only source and the detail may have been passed on in person. Toads at this address are already a known standing hazard (Sep 16, Sep 29). Treat as unconfirmed predator activity on the evening walk route until the office pins down the source.",
+     "quote": "Glad you avoided the toad and the reported coyotes. Yikes!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 29",
      "source": "Tiarra Roberts evening visit report, Sep 29",
      "office": false,
@@ -1342,16 +1352,6 @@
      "office": false,
      "note": "Client reports the dog now has allergies affecting his eyes and his arms, with itching. She gives him allergy medicine herself and asks the sitter to hold his collar while she does it. The medication is not named and no dose or schedule is given anywhere in the email.",
      "quote": "He now has allergies affecting his eyes and his arms(itching)"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Tiarra Roberts visit report, Sep 12 evening (9:34pm)",
-     "office": true,
-     "note": "On the Sep 12 evening visit Georgie was given BOTH a pill medicine and eyedrops, the sitter assisting Mary Ann, and medication was logged as administered. This contradicts the Sep 11 report calling the eyedrops the last set - the course is evidently still running. Neither the pill nor the drops is named, and no dose or frequency is recorded anywhere. The pill is probably the allergy medicine Mary Ann described on Sep 12, but the report does not say so and it should not be assumed. Office: get the drug names, doses and schedule into the Pet Care Note.",
-     "quote": "I gave Georgie an ice cube after helping give him his pill medicine and eyedrops."
     }
    ],
    "dormant": false
