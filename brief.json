@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T12:20:06-04:00",
+ "generated": "2026-10-01T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -436,6 +436,16 @@
      "quote": "I try not to pick him up at all cause of it"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Sitter Thomas Rakovec, Oct 1 midday visit report",
+     "office": false,
+     "note": "Emma gets eye drops at the visit - the Oct 1 report lists them in the narrative and answers 'Was medication administered?' Yes under Emma. This is the first time eye drops for Emma appear in the mail; whether they are a standing every-visit instruction or only for this period is not stated anywhere in the email.",
+     "quote": "Emma's eye drops"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -464,16 +474,6 @@
      "office": false,
      "note": "The sitter and client have now agreed how to cut the treats back: a small piece of the soft dental treat for their teeth first, then split tiny ones after that. This is the sitter's side of the instruction the client gave at 1:06 PM, so the two now match and it can go into the Pet Care Note.",
      "quote": "after that I'll just split tiny ones"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Thomas Rakovec visit report, Sep 28 1:28 PM",
-     "office": false,
-     "note": "Sitter found a #1 accident on the love seat and believes Berry slipped out of his diaper. He removed the diaper, took it downstairs, put another sheet on the love seat and put Berry back in his diaper. The sitter states this as what he thinks happened, not as confirmed.",
-     "quote": "I’m thinking Berry went no.#1 on the love seat because he snuck out of his diaper"
     }
    ],
    "dormant": false
@@ -800,6 +800,26 @@
      "quote": "we will not be needing service tomorrow"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Sitter Margaret Bill, Oct 1 midday visit report",
+     "office": false,
+     "note": "Lucy broke off the walk partway because of people at the neighbouring property, and only continued once they had gone. She was also in no hurry to leave the pen and had to be encouraged out. One observation, not recorded as a standing rule.",
+     "quote": "she went three quarters away down to the garbage bin and then wanted to come back because there were people next door"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Sitter Margaret Bill, Oct 1 midday visit report",
+     "office": false,
+     "note": "Lucy went #1 only on the Oct 1 midday walk and had no bowel movement. She was lying in her bed in her pen on arrival and had to be encouraged to move. She ate treats and kibble and went back into the pen without difficulty. This continues the low-energy and no-#2 pattern already logged on Sep 28 and Sep 29.",
+     "quote": "She did not do any number two today."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -878,25 +898,6 @@
      "office": false,
      "note": "Lucy scooted several times indoors before going out. On the walk she went #1 twice and no #2. One observation, not recorded as a pattern.",
      "quote": "scooted several times while still in the house"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Visit report, Margaret Bill, Sep 28 12:18 PM",
-     "office": true,
-     "note": "Sitter used the paisley collar. The client's 11:54 AM message that morning pointed to a collar and a black leash on the dining room table; it is not clear from the report whether that is the same collar. Worth confirming which collar to use."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Sitter Margaret Bill visit report",
-     "office": false,
-     "note": "Lucy scooted several times indoors before going out, urinated twice outside and had no bowel movement during the visit.",
-     "quote": "She didn't seem in a hurry to go outside, but scooted several times while still in the house."
     }
    ],
    "dormant": false
@@ -3508,6 +3509,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 1",
+     "source": "Sitter Elizabeth Cuffari, Oct 1 afternoon visit report",
+     "office": true,
+     "note": "First firm-and-healthy stool reading for Guinness after a long run of loose readings. Elizabeth Cuffari, shadowing Dan Dantimo on her first visit with Guinness, reports he went #2 twice on the walk and answered the report's consistency field 'It was firm and healthy'. Office should weigh this against the loose-stool follow-up that has been open since Sep 11 before closing or escalating it.",
+     "quote": "He went number one and number two twice."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Dan Dantimo visit report, 12:56 PM",
      "office": true,
@@ -3612,16 +3623,6 @@
      "source": "Dan Dantimo evening visit report, Sep 14 7:30pm",
      "office": true,
      "note": "On the Sep 14 evening walk Guinness went both #1 and #2 and Dan again logged the consistency as a little loose but not concerning. That is the sixth loose reading in the brief since Aug 27 (Aug 27, Aug 31, Sep 4, Sep 8, Sep 11, Sep 14); the only firm reading in that span was Sep 2. No one has raised it with Deb in writing. Dan reports the walk itself went well and Guinness walked the usual Commons and Pembrooke route with no trouble.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Dan Dantimo visit report, Sep 11 6:44pm",
-     "office": true,
-     "note": "On the Sep 11 evening walk Guinness went both #1 and #2 and Dan logged the consistency as a little loose but not concerning. The brief already carries that same answer on Aug 27, Aug 31, Sep 1, Sep 2, Sep 4 and Sep 8, so this is a run of loose stools going back more than two weeks. Nobody has raised a vet call. Deb was home for this visit and asked that the door not be locked.",
      "quote": "It was a little loose but not concerning"
     }
    ],
