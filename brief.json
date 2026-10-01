@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T14:20:07-04:00",
+ "generated": "2026-10-01T15:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6518,6 +6518,16 @@
    "url": "https://www.timetopet.com/dashboard/client/t7fnymq07A1G",
    "pets": [],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Client message and private message, Oct 1 2:21pm and 2:22pm",
+     "office": true,
+     "note": "Gina asks to schedule a meet-and-greet before Oct 12, suggesting Oct 11 or an evening the week before. Sent twice, as a standard message and a private message, so she is waiting on a reply. She does not say what the visits after the 12th are for. This may follow her Sep 22 note that her mother signs papers Oct 1 and moves soon after, but the email does not say the two are connected.",
+     "quote": "Could we do a meet and greet before the 12th. Maybe the 11th or an evening the week before? Thanks"
+    },
     {
      "cat": "schedule",
      "sev": "medium",
