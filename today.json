@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T12:20:08-04:00",
+ "generated": "2026-10-02T13:35:11-04:00",
  "date": "2026-10-02",
  "label": "Oct 2, 2026",
  "clients": [
@@ -145,6 +145,18 @@
    ]
   },
   {
+   "name": "Karen Mitterholzer",
+   "visits": [
+    {
+     "time": "5:30 PM",
+     "sort": "1730",
+     "staff": "Monica Hopewell",
+     "service": "Last Minute Visit- 30 minute",
+     "pets": "Paula Rose \"Rosie\", Frankie Thomas \"Frankie\""
+    }
+   ]
+  },
+  {
    "name": "Lauren Stuy",
    "visits": [
     {
@@ -158,13 +170,6 @@
      "time": "5:30 PM",
      "sort": "1730",
      "staff": "Michelle Carrara",
-     "service": "Client Consultation with a Team Member",
-     "pets": "Polly, Pippa"
-    },
-    {
-     "time": "5:30 PM",
-     "sort": "1730",
-     "staff": "Monica Hopewell",
      "service": "Client Consultation with a Team Member",
      "pets": "Polly, Pippa"
     }
@@ -322,7 +327,7 @@
      "time": "12:30 PM",
      "sort": "1230",
      "staff": "Kiara Streety",
-     "service": "Dog Visit-30 minute",
+     "service": "Dog Visit-45 minute",
      "pets": "Bear, Zoey"
     },
     {
