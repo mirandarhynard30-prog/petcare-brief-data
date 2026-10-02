@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T08:20:08-04:00",
+ "generated": "2026-10-02T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4646,6 +4646,16 @@
      "quote": "We are no longer feeding the raccoons, just the birdseed for the birds."
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Margaret Bill message to client",
+     "office": true,
+     "note": "Sitter asked the client which food Miguel prefers, chicken or seafood. Unanswered; client's Oct 3 order is also still awaiting approval.",
+     "quote": "Any suggestions for Miguel's food would be appreciated. Does he like the chicken or the seafood?"
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -6308,9 +6318,21 @@
     "Pickles",
     "Toby",
     "Whitty Kitty Boy",
-    "Pepa"
+    "Pepa",
+    "Beau-Ba",
+    "White boy"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Noella Assi visit report",
+     "office": true,
+     "note": "Fourth consecutive visit with no sighting of Pickles. Noella searched the house after finishing chores and did not see him; Beau-Ba, White boy and Pepa were all accounted for. Family is away.",
+     "quote": "After I was done with all chores I looked for pickles. I still have not seen him"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -6402,6 +6424,16 @@
      "quote": "Toby is unable to leave the garage, if the actual garage door is open."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Noella Assi visit report",
+     "office": true,
+     "note": "Wet cat food is out. Sitter flagged supplies low on this morning's visit; someone needs to restock or tell the family.",
+     "quote": "( No more cat food/wet)"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -6410,26 +6442,6 @@
      "office": false,
      "note": "Oct 1 morning visit: Beau-ba also not seen. Pepe and the white cat were both waiting as usual; food, water and litter were all done.",
      "quote": "I looked for Beau-ba but I did not see him"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Shannon Anderson post-visit report, Oct 1 7:19 PM",
-     "office": false,
-     "note": "Beau-ba WAS seen on the Oct 1 evening visit - Peppa and Beau-ba were both waiting in the garage, and White Kitty Boy met the sitter in the driveway. This closes the Oct 1 morning no-sighting flag for Beau-ba. All three ate; wet and dry food, water and litter all done.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Tiarra Roberts visit report, Sep 30 evening",
-     "office": false,
-     "note": "Beau-ba was FOUND on the Sep 30 evening visit, ending the run of three consecutive visits with no sighting. The sitter first checked the project car seats and the cat tree in the garage with no luck, then put wet food down in the bowls and he came out. Putting wet food down worked once here; it is not yet an established rule.",
-     "quote": "I put wet food down in the bowls and guess who shows up!! Beau-ba!!"
     }
    ],
    "dormant": false
@@ -6736,6 +6748,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Kiara Streety visit report",
+     "office": true,
+     "note": "A second sitter now describes putting a mask on both dogs before taking them outside. No mask or muzzle appears anywhere else in Nicole's record. Office must confirm what this equipment is and get it written into Company Notes before more sitters guess.",
+     "quote": "so I put both there mask on and leash Zoey and we went outside"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Bear is given probiotics at the morning visit, before food.",
+     "quote": "I gave bear his probiotics than fed them both"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -6744,6 +6776,16 @@
      "office": false,
      "note": "Back yard is very dark after sunset. Faith Collins asked on the Oct 1 evening visit whether there was a light out back; Nicole replied there is a switch by the back door but it does not reach far, and that a flashlight is on the shelves by the back door. Evening sitters should expect to need the flashlight.",
      "quote": "There is a switch for the light right by the door but it doesn’t light up very far"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Waste bags go in the trash can by the door, per the client's own instruction. Paws are wiped at the door before the dogs come back inside.",
+     "quote": "Put the poop bags in the trash by the door where you said it was"
     },
     {
      "cat": "health",
