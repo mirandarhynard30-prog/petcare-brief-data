@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T21:20:05-04:00",
+ "generated": "2026-10-02T08:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -416,16 +416,6 @@
      "quote": "Good morning. I am not going into work today. I submitted a cancellation request."
     },
     {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Client message from Liz Wainio, Sep 10 12:12pm",
-     "office": false,
-     "note": "Client wrote in on Sep 10 asking whether Louie is being grumpy with the sitter. She says he has been growling at all the pups at home and is more grumpy than usual when she tries to groom him. Handle grooming and dog-to-dog contact carefully. This is a new report from the client, not a standing rule, and she is waiting on an answer.",
-     "quote": "He has been growling at all the pups and if I try to groom him he is more grumpy than usual"
-    },
-    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -779,26 +769,6 @@
     "Lucy"
    ],
    "items": [
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 10",
-     "office": false,
-     "source": "Visit report from Margaret Bill for Angela Jozsa, Sep 10 12:16pm",
-     "note": "Sep 10 late-morning visit: Lucy went #1 and #2, the #2 was loose and she scooted a lot afterwards. The report checklist logs the consistency as very loose/diarrhea with the pet seeming fine otherwise. She ate some kibble, went back into her pen without struggle and was lying on her side when the sitter came back in.",
-     "quote": "She went #1 and #2 but the 2 was loose and after that she scooted a lot"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Private client message, 6:52pm",
-     "office": true,
-     "note": "Client (signs as Carol) cancelled the Sep 11 visit the evening before. Confirm it actually came off the schedule so nobody is dispatched.",
-     "quote": "we will not be needing service tomorrow"
-    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -3127,26 +3097,6 @@
     },
     {
      "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 10",
-     "office": true,
-     "source": "Client message from Lynne Reno, Sep 10 12:11pm",
-     "note": "Client asked on Sep 10 what time Dan is coming, because Holly has a grooming appointment and may not be home early. Unanswered - needs a reply today and possibly a time change to today's visit.",
-     "quote": "What time is Dan coming today. Holly has a grooming appointment finally and she may not be home early"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Client message 1:17pm",
-     "office": true,
-     "note": "Follow-up to her 12:11pm question about what time Dan is coming - she now asks to push today's visit to 5:30 to be safe, because of Holly's grooming appointment. Needs a confirmation from the office; no reply seen in the mailbox.",
-     "quote": "Can we make it 5;30 to be safe?"
-    },
-    {
-     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
      "date": "Oct 1",
@@ -3455,6 +3405,16 @@
     "Archie"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Julie Smith message to client, Oct 2 8:02 AM",
+     "office": true,
+     "note": "Julie Smith asked Ray to move today's 9:30 AM walk to 10:00 AM to let the rain pass. No reply from Ray on the thread as of 8:13 AM - the visit time for today is unconfirmed.",
+     "quote": "Are you ok with me coming at 10 am instead of 9:30 so we can avoid the rain?"
+    },
     {
      "cat": "health",
      "sev": "medium",
@@ -4899,16 +4859,6 @@
      "quote": "Everything looked normal and I added an extra scoop of litter into it so the bottom was fully covered."
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 10",
-     "source": "Client message 4:45pm Sep 10",
-     "office": false,
-     "note": "Client asks the sitter to bring in a package that was delivered and left on the front porch. Tiarra Roberts confirmed at 4:47pm that this will be done and that she will send a photo of the package inside the house.",
-     "quote": "It should be on the front porch. Thank you"
-    },
-    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -5008,19 +4958,9 @@
      "office": false,
      "note": "Vet for both Rosie and Frankie is Westpark Veterinary, 4117 Rocky River Dr, Cleveland OH 44135, 216-252-4500. Entered by the client on Sep 9; no medical history has been recorded yet.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 9",
-     "source": "Client profile update via Time To Pet",
-     "office": false,
-     "note": "New client. Profile set up Sep 9, 2026 with home address in Brunswick OH, two emergency contacts, and both pets added. Entry is by garage door code - the code is in Time To Pet, not here.",
-     "quote": ""
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Jen Moyse",
