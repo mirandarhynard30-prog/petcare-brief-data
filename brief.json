@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T13:35:06-04:00",
+ "generated": "2026-10-02T14:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -973,6 +973,26 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Elizabeth Sigler visit report, 2:08 PM",
+     "office": false,
+     "note": "Chloe is carried down the front steps at the start of the walk; the sitter describes this as her usual practice every visit.",
+     "quote": "I carried Chloe down the front steps like I always do"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Elizabeth Sigler visit report, 2:08 PM",
+     "office": false,
+     "note": "Chloe had lots of energy and the sitter says she seems more like herself again. The report names no condition, so what she is recovering from is not stated here.",
+     "quote": "It makes me so happy to see her feeling more like herself again!"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1011,26 +1031,6 @@
      "office": false,
      "note": "Chloe's stool loose again on the Sep 29 morning walk - Kiara Streety ticked a little loose but not concerning. That makes three loose or runny readings this month alongside the Sep 24 and Sep 26 entries already in the brief. Walk itself was normal, usual route, she went #1 and #2.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Client message 18:12 ET",
-     "office": true,
-     "note": "Melody is leaving a $20 cash tip on the counter for tonight's sitter for the late-notice walk and has asked us to make sure the sitter actually receives it.",
-     "quote": "I will leave an extra $20 bill on the counter for her."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Kiara Streety visit report, 9:17pm",
-     "office": false,
-     "note": "Chloe's stool was slightly loose on the Sep 26 evening walk; sitter judged it not concerning. Single observation - watch on the next visit.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -2226,6 +2226,26 @@
     {
      "cat": "home",
      "sev": "low",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Kristin Ashick visit report, 1:51 PM",
+     "office": false,
+     "note": "A package was sitting on the porch; the sitter brought it in and set it on the floor inside the door.",
+     "quote": "There was a package on the porch, I put that on the floor when you come in."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Kristin Ashick visit report, 1:51 PM",
+     "office": false,
+     "note": "Mac spotted a squirrel beyond the fence and stayed on guard a short while. Otherwise settled, cuddly and happy in the fenced back yard.",
+     "quote": "He saw a squirrel on the other side of the fence and was on gaurd for a little bit."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
      "type": "standing",
      "date": "Sep 30",
      "source": "Client message, 1:02 PM",
@@ -3145,6 +3165,26 @@
      "office": false,
      "note": "Door instruction changed within half an hour and the second message wins: front door UNLOCKED but CLOSED, not left open. Her earlier message said she would leave the front door open for the walker. She is also leaving a plate of food on the kitchen counter for Holly and asks that Holly have fresh water.",
      "quote": "No, she can leave the front door unlocked but closed."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Julie Smith visit report, 1:37 PM",
+     "office": false,
+     "note": "The client's husband has died. The sitter opened today's report with condolences and we are helping with Holly's walks. The client has been home during visits and asks that the door not be locked.",
+     "quote": "how so sorry I am for the loss of your husband"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Julie Smith visit report, 1:37 PM",
+     "office": false,
+     "note": "A dog barked from a car driving by and Holly perked up with a hop in her step; the sitter read it as wanting to chase the car. Holly also pulled a bit toward the end of the walk.",
+     "quote": "I think she wanted to chase down the car."
     },
     {
      "cat": "schedule",
