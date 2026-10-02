@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T15:35:07-04:00",
+ "generated": "2026-10-02T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1369,6 +1369,16 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts, Company Notes update 3:16 PM",
+     "office": false,
+     "note": "Company Notes changed from Her harness, leash and extra poop bags are located by front door to the choke collar. This puts the choke collar back in writing after it was deleted from Evee's Pet Care Note on Sep 26, and it supersedes the harness as the written answer to how this escape-risk dog is secured. Rain jacket is still in the blue bucket. Cat gravity feeder named for the first time in the same edit.",
+     "quote": "Her choke collar, leash and extra poop bags are located by front door."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "recent",
      "date": "Sep 27",
      "source": "Monica Hopewell visit report, Sep 27 8:30pm",
@@ -1475,16 +1485,6 @@
      "office": true,
      "note": "The dry-kibble block dropped out of Evee's rewritten Pet Care Note - the previous version carried '3x cup dry kibble a day (by food bowl)' and the new version has no kibble line at all. The owner restated it by message minutes later as 1 cup at each of three feedings, topped with 2 spoons of pumpkin and a sprinkle of water. Her message gives the morning window as 8-10am while the care note says 6-10am, so the two do not agree; the office should reconcile them and put the kibble amount back in the note.",
      "quote": "Yes sorry forgot 3 cups feed a day"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Client care-note update for pet Evee",
-     "office": false,
-     "note": "Owner's stated leash preference for Evee: choke collar and rope leash (harness available if the sitter prefers). Poop bags by the door on the purple harness. If it rains, her outfits are in the blue bucket by the shoe rack.",
-     "quote": "I prefer choke collar and rope leash she’s pretty good with that"
     }
    ],
    "dormant": false
@@ -1579,6 +1579,16 @@
      "quote": "Check side, back gate is CLOSED (left corner) before letting them out"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts, Company Notes update 3:19 PM",
+     "office": false,
+     "note": "Company Notes now name which side of the kennel each girl goes back into: India on the left, Lila on the right. That detail was not in the previous version, which only said to put them back in the side they were in originally. Treat location also clarified to on top of the kennel in the dog room.",
+     "quote": "India; left and Lila; right"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -1607,16 +1617,6 @@
      "office": true,
      "note": "The Sep 22 Access Instructions rewrite dropped the step explaining that the keypad has to be woken with any button press before it lights up and will accept a code. A sitter who does not know that may think the code is wrong.",
      "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Client message",
-     "office": true,
-     "note": "About a minute after the complaint, Regina wrote that she will be home in 30 minutes (around 2:40pm) because her appointment in Michigan was canceled. She did not say whether today's delayed visit is still wanted - office should confirm with her before a sitter goes.",
-     "quote": "I will be home in 30 minutes. My appointment in Michigan canceled"
     }
    ],
    "dormant": false
@@ -2471,6 +2471,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 2",
+     "source": "Michelle Carrara visit report, 3:19 PM",
+     "office": true,
+     "note": "In her report on the 2:40 PM visit Michelle Carrara tells Matt she is looking forward to seeing Ripley again on Sunday afternoon. Matt's Sep 29 request covered Thursday, Friday and Saturday only, so a Sunday visit sits outside it. The client has not confirmed it either way. The visit itself was uneventful: usual route, no accidents, treat and water given, Ripley went #1.",
+     "quote": "looking forward to seeing her again on Sunday afternoon"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Monica Hopewell visit report, 1:35 PM",
      "office": true,
@@ -2496,16 +2506,6 @@
      "office": true,
      "note": "The Sep 26 9:48pm Company Notes rewrite dropped the frequency from Ripley's water instruction. It previously read 'Refresh 1 water bowl in kitchen every visit'; it now reads only 'Refresh 1 water bowl in kitchen', so the every-visit requirement is no longer written anywhere. Filtered fridge water from the door is unchanged. Office should restore the frequency.",
      "quote": "Refresh 1 water bowl in kitchen"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Monica Hopewell visit message, Sep 24 1:32pm",
-     "office": false,
-     "note": "At the 1pm walk Ripley was very worked up at the garage door and nearly knocked Monica over coming in; Monica had to make her sit to get the collar on because she kept circling her feet. One visit, not recorded as a standing pattern.",
-     "quote": "She was right at the garage door when I came inside and about took me out with excitement"
     }
    ],
    "dormant": false
@@ -5892,6 +5892,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts, Current Pet Care Note update 3:28 PM",
+     "office": false,
+     "note": "Current Pet Care Note now reads only this, in capitals: the dogs are backyard-potty only, no walk. The same round of edits removed the Type of visit: Backyard Only line from Company Notes, so the Pet Care Note is now the only place this rule is written down.",
+     "quote": "BACKYARD VISIT ONLY"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts, Company Notes update 3:29 PM",
+     "office": true,
+     "note": "Eye-drop instruction rewritten: drops are in the LEFT cabinet above or next to the stove, give them if her eye is goopy and she lets you. The softener If not, no big deal was removed in that same edit. The conflict is unresolved: the client's own Sep 29 message put the drops in the upper cabinet on the RIGHT, and that line was deleted from the Pet Care Note today, so the two records no longer agree and nobody has confirmed which cabinet is correct.",
+     "quote": "Use eye drops (left cabinet above stove/next to stove) if eye is goopy, if she lets you"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -5990,26 +6010,6 @@
      "office": false,
      "note": "First logged instance of Weezy's left eye actually being bad: the sitter describes it as very red with a lot of dried discharge, and gave the eye drops under the existing standing instruction. Right eye not mentioned.",
      "quote": "I also gave Weezy some eye drops in her left eye cause it did look very red"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Shannon Anderson contact-information update, Sep 11 6:38pm",
-     "office": false,
-     "note": "Frank, the male French bulldog, has excitement urination on greeting. Keep your voice calm when you first meet him.",
-     "quote": "Frank can get the excited pees so have a calm voice when meeting."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Shannon Anderson contact-information update, Sep 11 6:38pm",
-     "office": false,
-     "note": "Standing instruction for Weezy: give eye drops if her left eye is full of goop. The drops are kept in the same cabinet as the treats, the left cabinet above the stove. The note does not say a dose or a frequency.",
-     "quote": "Weezy- Use eye drops if you see left eye full of goop"
     }
    ],
    "dormant": false
@@ -6176,6 +6176,26 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts, Current Pet Care Note update 3:33 PM",
+     "office": false,
+     "note": "Pet Care Note rewritten this afternoon: do not lock the door handle on the way out, the keypad lock is what secures the door. Umbrella and blue velcro dog jacket for rain are by the back door on the shoe rack. The entry code itself is in Time To Pet and is deliberately not repeated here.",
+     "quote": "Do NOT lock the door handle when leaving"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts, Company Notes update 3:35 PM",
+     "office": true,
+     "note": "The Company Notes rewrite dropped three lines that were there before: toy location (living room), cleaning supplies location (kitchen) and the allergies line (previously N/a). The treat line now reads Homemade treats instead of naming Dad. Parking, leash and poop bag location, water bowl and the whole behavior block are unchanged. Office should decide whether the dropped lines are meant to be gone.",
+     "quote": ""
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -6254,26 +6274,6 @@
      "office": false,
      "note": "Client says today's visit changes to a hand-off - his fiancee will be at the home. He does not give a time. Shannon Anderson acknowledged it at 9:39am.",
      "quote": "slight adjustment to the schedule today my fiance will be there for a hand off"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Shannon Anderson message to client, Sep 26 12:43 PM",
-     "office": false,
-     "note": "Arrival time for today's hand-off visit is now confirmed: Shannon and Elizabeth told Brandon they will arrive around 1pm. This closes the open question of the unconfirmed hand-off time.",
-     "quote": "Hi Brandon, Elizabeth and I will be there around 1pm"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Brandon Keyes message, 3:19pm",
-     "office": true,
-     "note": "On his last-minute Sep 19 request, the client says any time after 3:00pm works and he will most likely be home by then. The Sep 19 service order is still awaiting approval.",
-     "quote": "if it would be anytime after three I will most likely be home by then"
     }
    ],
    "dormant": false
