@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T09:20:05-04:00",
+ "generated": "2026-10-02T10:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2313,7 +2313,8 @@
    "name": "Matt Konn",
    "url": "https://www.timetopet.com/dashboard/client/t5w537Rv22EF",
    "pets": [
-    "Ripley"
+    "Ripley",
+    "Luna"
    ],
    "items": [
     {
@@ -2387,6 +2388,16 @@
      "quote": "Miranda - do u have a few minutes to talk?"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Monica Hopewell visit report, Fri morning",
+     "office": false,
+     "note": "Ripley reacted hard on the walk when another dog came out at the end of the shorter cul-de-sac; sitter had to tell her to sit repeatedly and even a garbage truck did not distract her as it normally does. No incidents, and less pulling than the day before. Sitter kept a firm grip on the leash and took no photos for that reason.",
+     "quote": "she did have to be told to sit quite a few times but she listened and we made it back without any incidents"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2425,16 +2436,6 @@
      "office": false,
      "note": "At the 1pm walk Ripley was very worked up at the garage door and nearly knocked Monica over coming in; Monica had to make her sit to get the collar on because she kept circling her feet. One visit, not recorded as a standing pattern.",
      "quote": "She was right at the garage door when I came inside and about took me out with excitement"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Monica Hopewell message to Matt Konn, Sep 24 1:34pm",
-     "office": false,
-     "note": "During the 1pm walk Monica saw a gray sedan, which she thought was an older BMW, moving very slowly through the neighborhood and stopping at nearly every driveway including Matt's, then speeding off once other people noticed it. Reported for awareness; no incident and nothing taken.",
-     "quote": "there was someone driving very slowly all throughout the neighborhood"
     }
    ],
    "dormant": false
@@ -3414,6 +3415,16 @@
      "office": true,
      "note": "Julie Smith asked Ray to move today's 9:30 AM walk to 10:00 AM to let the rain pass. No reply from Ray on the thread as of 8:13 AM - the visit time for today is unconfirmed.",
      "quote": "Are you ok with me coming at 10 am instead of 9:30 so we can avoid the rain?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Client message, Fri 9:19 AM",
+     "office": false,
+     "note": "Client answered the rain-delay offer: a later visit is acceptable but not beyond the time offered, because Archie needs to pee. Julie Smith messaged that she was 15 minutes out at 9:30 AM, so the visit appears to have gone ahead on the delayed time.",
+     "quote": "Yes but no later. I don’t want him wet but I don’t want him uncomfortable because he has to pee."
     },
     {
      "cat": "health",
