@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T20:20:05-04:00",
+ "generated": "2026-10-01T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6796,6 +6796,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 1",
+     "source": "Faith Collins visit report and client reply, Oct 1 8:19-8:35 PM",
+     "office": false,
+     "note": "Back yard is very dark after sunset. Faith Collins asked on the Oct 1 evening visit whether there was a light out back; Nicole replied there is a switch by the back door but it does not reach far, and that a flashlight is on the shelves by the back door. Evening sitters should expect to need the flashlight.",
+     "quote": "There is a switch for the light right by the door but it doesn’t light up very far"
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "standing",
@@ -6824,6 +6834,16 @@
      "office": false,
      "note": "Oct 1 midday visit, reported by Jade Popovitz after Drew Walker handed the report over. Coming in from the yard, Bear and Zoey both stopped below the steps and had to be coaxed back up to the house.",
      "quote": "they stared at us from below until we went back down to encourage them"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 1",
+     "source": "Faith Collins visit report, Oct 1 8:19 PM",
+     "office": false,
+     "note": "Oct 1 evening visit: both dogs urinated but neither passed stool. Single observation, no other symptoms reported; food was topped off with wet food and both ate straight away.",
+     "quote": "neither dog went number two both went number one"
     },
     {
      "cat": "home",
