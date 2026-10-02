@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T12:20:05-04:00",
+ "generated": "2026-10-02T13:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -358,6 +358,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Thomas Rakovec visit report 1:05 PM",
+     "office": true,
+     "note": "The report's accidents field was set to the pet got sick and was cleaned up, with before and after pictures. The written note names no animal and describes only used pee pads in the living room, so which animal was sick is not stated anywhere in the report.",
+     "quote": "The pet got sick and I cleaned it up"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "standing",
      "date": "Sep 30",
      "office": true,
@@ -429,6 +439,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 2",
+     "source": "Thomas Rakovec visit report 1:05 PM",
+     "office": false,
+     "note": "Emma had her eye drops at this visit and the report logs medication as administered for her.",
+     "quote": "eye drops for Emma"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 1",
      "source": "Sitter Thomas Rakovec, Oct 1 midday visit report",
      "office": false,
@@ -454,16 +474,6 @@
      "office": false,
      "note": "Following the vet's advice to cut Louie's treats back, the client says she splits the tiny soft treats for him and he does fine that way. Give split tiny soft treats rather than whole ones. She adds that he drops treats he does not like out of his mouth.",
      "quote": "I’ve been splitting the tiny soft ones for him and he does ok with that"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 30",
-     "source": "Thomas Rakovec message, 1:55 PM",
-     "office": false,
-     "note": "The sitter and client have now agreed how to cut the treats back: a small piece of the soft dental treat for their teeth first, then split tiny ones after that. This is the sitter's side of the instruction the client gave at 1:06 PM, so the two now match and it can go into the Pet Care Note.",
-     "quote": "after that I'll just split tiny ones"
     }
    ],
    "dormant": false
@@ -683,6 +693,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 2",
+     "source": "Monica Hopewell visit report 12:47 PM",
+     "office": true,
+     "note": "The house alarm was already off when the sitter let herself in at midday. She set it on leaving. Nothing says whether the client meant it to be off.",
+     "quote": "When I came in the alarm was already off so I did make sure to set that when I left."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Client message, 1:40 PM",
      "office": false,
@@ -748,16 +768,6 @@
      "office": true,
      "note": "Following up on today's harness escape, the client says there are no concerns or worries and no fault to Ashley, and asks the office to pass that on to her. This answers the open point from the escape; the sitter had not been told as of this run.",
      "quote": "Please tell Ashley all is good"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client private message, 1:39pm",
-     "office": false,
-     "note": "Client explains Rex is high energy and still in a puppy stage with energy built up from the recent wet weather, and that the household has not been letting him run through the back yard because the ground by the shed is a muddy mess. Stated as the household's own practice, not given as a sitter instruction, so treat it as background rather than a standing rule.",
-     "quote": "back by the shed area is just a muddy mess"
     }
    ],
    "dormant": false
@@ -778,6 +788,16 @@
      "office": false,
      "note": "At today's visit Lucy was out of her pen with collar and leash already on under the client's supervision, and was expected to greet the sitter at the door. Client did not say whether this is how she will be left at future visits.",
      "quote": "Lucy is out of her pen but has collar and leash on since she’s been under my supervision."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Margaret Bill visit report 1:06 PM",
+     "office": false,
+     "note": "Lucy went #1 and #2 on the midday walk, #2 well formed and solid. Follows the earlier reports of no #2 and low energy.",
+     "quote": "Her number two was well formed and solid."
     },
     {
      "cat": "behavior",
@@ -878,16 +898,6 @@
      "office": false,
      "note": "Lucy scooted several times indoors before going out. On the walk she went #1 twice and no #2. One observation, not recorded as a pattern.",
      "quote": "scooted several times while still in the house"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Client message 12:09 PM",
-     "office": false,
-     "note": "Client is home for today's visit and said she would most likely be on a call when the sitter arrived; she planned to pop out to say hi before the sitter left.",
-     "quote": "I’m home but will most likely be jumping on a call in the next ten minutes."
     }
    ],
    "dormant": false
@@ -3550,6 +3560,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 2",
+     "source": "Dan Dantimo visit report 12:51 PM",
+     "office": false,
+     "note": "Guinness's #2 at the midday walk was again logged a little loose but not concerning. He walked, ate and played normally otherwise.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 1",
      "source": "Sitter Elizabeth Cuffari, Oct 1 afternoon visit report",
      "office": true,
@@ -3655,16 +3675,6 @@
      "office": false,
      "note": "Sep 15 evening walk: Guinness went #1 and a small #2, and Dan again logged the consistency as a little loose but not concerning. That continues the same not-concerning loose reading logged on Sep 4, Sep 8, Sep 11 and Sep 14 - no sitter has yet flagged it as a change, but the run is now long enough that the office may want to mention it to the client.",
      "quote": "He did go number one and a small number two on our walk."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Dan Dantimo evening visit report, Sep 14 7:30pm",
-     "office": true,
-     "note": "On the Sep 14 evening walk Guinness went both #1 and #2 and Dan again logged the consistency as a little loose but not concerning. That is the sixth loose reading in the brief since Aug 27 (Aug 27, Aug 31, Sep 4, Sep 8, Sep 11, Sep 14); the only firm reading in that span was Sep 2. No one has raised it with Deb in writing. Dan reports the walk itself went well and Guinness walked the usual Commons and Pembrooke route with no trouble.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -4686,6 +4696,16 @@
     "Miguel"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Client message 12:43 PM",
+     "office": false,
+     "note": "Answer to the open question on Miguel's food: open two different cans and let him pick. He may not eat while the sitter is there and will eat later. Feed on arrival and on leaving.",
+     "quote": "As per usual just feed him when you get there and when you go."
+    },
     {
      "cat": "health",
      "sev": "medium",
@@ -5885,6 +5905,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts message 12:58 PM",
+     "office": true,
+     "note": "Sitter says that driving away she may have gone onto the grass beside the driveway, and that it could also have been the exterminator's vehicle. She saw it only in passing, so which vehicle it was is not established.",
+     "quote": "I may have went a little on the grass next to the driveway."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 29",
      "source": "Elizabeth Sigler visit report 11:36am",
      "office": false,
@@ -5940,16 +5970,6 @@
      "office": false,
      "note": "Standing instruction for Weezy: give eye drops if her left eye is full of goop. The drops are kept in the same cabinet as the treats, the left cabinet above the stove. The note does not say a dose or a frequency.",
      "quote": "Weezy- Use eye drops if you see left eye full of goop"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Shannon Anderson contact-information update, Sep 11 6:38pm",
-     "office": false,
-     "note": "Visit type is backyard only - no walks. Water is a fountain in the kitchen next to the back door; treats are in the left cabinet above the stove.",
-     "quote": "No walks required, just backyard time only."
     }
    ],
    "dormant": false
@@ -6829,6 +6849,16 @@
      "quote": "I gave bear his probiotics than fed them both"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Kiara Streety messages 12:26 and 12:28 PM",
+     "office": true,
+     "note": "Sitter could not find Bear for about five minutes and he would not come out, so she messaged the client mid-visit to ask where his hiding spots are. She found him two minutes later.",
+     "quote": "could you remind where Bear hiding spots are again"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -6949,6 +6979,36 @@
      "office": true,
      "note": "Kim has now given her availability for the meet-and-greet she asked for earlier today: Tuesday morning before 11, Wednesday afternoon, Friday afternoon, or most evenings. Her wording implies she is replying to a message from Miranda, but that outgoing message is not in this mailbox so what was offered is unknown. The Oct 26-28 cat care is still unbooked and she had asked whether to request the dates before or after the meeting.",
      "quote": "I am free Tuesday morning before 11, AM Wednesday afternoon or Friday afternoon. If evening works I can do most evenings"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Mary Walters",
+   "url": "https://www.timetopet.com/dashboard/client/stmumvaHUbQj",
+   "pets": [
+    "Calvin"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Client message 12:48 PM",
+     "office": false,
+     "note": "Food bowls are kept inside the microwave because Calvin has learned to get up on the kitchen counters.",
+     "quote": "Their bowls will be in the microwave because Calvin has learned how to get up on the counters."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Client message 12:48 PM",
+     "office": true,
+     "note": "Client says her Monday Oct 5 request went in without feeding instructions, and asks that feeding be as close to 5:00 PM as possible. Needs adding to that visit.",
+     "quote": "Please feed them as close to 5:00 pm as you can."
     }
    ],
    "dormant": false
