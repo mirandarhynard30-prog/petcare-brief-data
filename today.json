@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T00:05:10-04:00",
+ "generated": "2026-10-02T08:50:14-04:00",
  "date": "2026-10-02",
  "label": "Oct 2, 2026",
  "clients": [
@@ -34,7 +34,14 @@
      "time": "1:00 PM",
      "sort": "1300",
      "staff": "Elizabeth Cuffari",
-     "service": "Dog Visit-60 minute",
+     "service": "Trainer Visit-60 minute",
+     "pets": "Flacko"
+    },
+    {
+     "time": "1:00 PM",
+     "sort": "1300",
+     "staff": "Tiarra Roberts",
+     "service": "Shadow Visit with Staff Member-60 minute",
      "pets": "Flacko"
     }
    ]
@@ -58,7 +65,14 @@
      "time": "12:15 PM",
      "sort": "1215",
      "staff": "Elizabeth Cuffari",
-     "service": "Dog Visit-30 minute",
+     "service": "Trainer Visit-30minute",
+     "pets": "Frank, Weezie or Louise"
+    },
+    {
+     "time": "12:15 PM",
+     "sort": "1215",
+     "staff": "Tiarra Roberts",
+     "service": "Shadow Visit with Staff Member-30 minute",
      "pets": "Frank, Weezie or Louise"
     }
    ]
@@ -79,8 +93,8 @@
    "name": "Diane Hoard",
    "visits": [
     {
-     "time": "11:45 AM",
-     "sort": "1145",
+     "time": "1:00 PM",
+     "sort": "1300",
      "staff": "Kristin Ashick",
      "service": "Dog Visit-45 minute",
      "pets": "Mac"
@@ -222,8 +236,8 @@
    "name": "Mary Ann Mckeever",
    "visits": [
     {
-     "time": "11:00 AM",
-     "sort": "1100",
+     "time": "12:15 PM",
+     "sort": "1215",
      "staff": "Kristin Ashick",
      "service": "Dog Visit-30 minute",
      "pets": "Georgie"
@@ -267,8 +281,8 @@
    "name": "Matt Konn",
    "visits": [
     {
-     "time": "8:00 AM",
-     "sort": "0800",
+     "time": "9:00 AM",
+     "sort": "0900",
      "staff": "Monica Hopewell",
      "service": "Dog Visit-30 minute",
      "pets": "Ripley"
@@ -395,5 +409,5 @@
    ]
   }
  ],
- "visitCount": 38
+ "visitCount": 40
 }
