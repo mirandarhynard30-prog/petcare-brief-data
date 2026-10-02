@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T18:20:05-04:00",
+ "generated": "2026-10-02T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -223,6 +223,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Client private message, Oct 2 5:33 PM and 5:39 PM",
+     "office": true,
+     "note": "Client has the lease on the new place and is hoping to get keys Monday or Tuesday; she asks for another meet and greet Wednesday or Thursday afternoon. Someone replied between 5:33 and 5:39 PM - her follow-up is \"Thanks! Ill keep you updated if things change\" - but no date is confirmed anywhere in this mailbox, and her other Oct 2 message says keys \"next week\" rather than Monday or Tuesday, so the key handover date is not settled. Re-sent: this item was handed off at 6:18 PM and is not in the 6:20 PM published brief.",
+     "quote": "So maybe another meet and greet wednesday or thursday afternoon?"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -331,16 +341,6 @@
      "office": true,
      "note": "Shannon Anderson rubbed Puck's left ear and came away with brown spots on her finger; Puck tilted her head toward the finger and gave a tiny whimper. Sitter photographed her finger and said she was not sure whether the ear just needs cleaning or something else is going on. No vet advice was given in the message.",
      "quote": "As soon as I started to rub her ear, she tilted her head to my finger and had a tiny whimper."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client message, 6:39pm",
-     "office": true,
-     "note": "Client confirms the move is going ahead: her lease is up at the end of this month and the family is moving south. Replying to the evening sitter saying she would miss the dogs. This answers the open Sep 10 apartment thread in the sense that a move is happening, but she does not give a date beyond end of the month, and nothing here says when service should stop. Office needs to confirm the last service date and what happens to the visits already on the schedule.",
-     "quote": "our lease is up end of the month and were moving south :( we will miss you!!"
     }
    ],
    "dormant": false
@@ -4871,6 +4871,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts and client messages, Oct 2 6:30-6:32 PM",
+     "office": true,
+     "note": "New client. After the Oct 2 consult Tiarra Roberts proposed next week's visit windows - mornings between 6am and 9am, evening visits between 5pm and 8pm - and the client confirmed they work. No service order for those visits is visible in this mailbox, so the office still needs to put the week on the schedule.",
+     "quote": "Those times work for us!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 24",
      "source": "Client message",
      "office": true,
@@ -4896,6 +4906,16 @@
      "office": true,
      "note": "Meet-and-greet now confirmed for Friday Oct 2 at 5:30pm, ahead of service starting Oct 7. She and her husband expect to meet the sitters then - office still needs to assign and name who is attending.",
      "quote": "Thanks, Miranda. Friday, 10/2, at 5:30 pm is great. My husband and I look forward to meeting with the sitters then."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts consult report, Oct 2 6:16 PM",
+     "office": false,
+     "note": "New client, consult done Oct 2 by Tiarra Roberts with Michelle Carrara taking photos. Two cats. The consult report in Time To Pet has photos attached showing where things are located in the house - worth opening before a first solo visit.",
+     "quote": ""
     }
    ],
    "dormant": false
