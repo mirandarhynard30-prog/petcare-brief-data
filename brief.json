@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T17:20:07-04:00",
+ "generated": "2026-10-02T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6023,6 +6023,26 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Yasmeen Abrams visit report",
+     "office": true,
+     "note": "Oakley's backyard tie-out would not unclip and looks rusted, so the sitter improvised her own lead to take him out and then struggled to get it off again. Needs replacing or confirming before the next visit.",
+     "quote": "I couldn’t get the tie out to work or unclip so I made my own"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Yasmeen Abrams visit report",
+     "office": false,
+     "note": "No waste bags found in the house. Bailey's #2 was left by the neighbours' fence area and the client replied to leave it, she would pick it up. Sitters should bring their own bags until restocked.",
+     "quote": "could not find bags anywhere I think u may be out and need more"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -6121,26 +6141,6 @@
      "office": true,
      "note": "Bailey has left ear discomfort this week; client hoped to get her to the vet Mon Sep 14. No diagnosis or medication written down yet - check with the client before the next visit and watch the ear.",
      "quote": "Bailey this week if having some left ear discomfort, hoping to get her in the vet tomorrow"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Sitter visit report, Sep 17 12:36pm",
-     "office": false,
-     "note": "Harnesses were used on both dogs at this visit, which suggests the blue harness that could not be found on Sep 16 has turned up. The report does not say so explicitly, so treat as probable rather than confirmed.",
-     "quote": "I put on their harnesses and we headed out"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Sitter visit report, Sep 17 12:36pm",
-     "office": false,
-     "note": "Oakley appears to be crated between visits: the sitter unzipped his crate on arrival and put him back in it before leaving. This is the first report to mention crating and the client has not stated it as a rule, so it is logged as an observation.",
-     "quote": "I got Oakley back in his crate"
     }
    ],
    "dormant": false
