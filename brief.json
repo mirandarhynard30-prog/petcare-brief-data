@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T14:20:07-04:00",
+ "generated": "2026-10-02T15:35:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6455,6 +6455,16 @@
      "quote": "After I was done with all chores I looked for pickles. I still have not seen him"
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts, contact information update 3:13 PM",
+     "office": false,
+     "note": "ANSWERS THE FOUR-VISIT RUN OF NO SIGHTINGS. Tiarra Roberts rewrote the client-facing General Information with Pickles' hiding spots: the closet of the girl's bedroom down the hallway, or the basement by the washer/dryer. It previously read only that he hides under the white dresser in the girl's bedroom. The basement washer/dryer spot was also removed from the Company Notes litter-box line in the same edit, so this General Information entry is now the only place it is recorded. Sitters who could not find him were looking under a dresser.",
+     "quote": "PICKLES HIDES IN CLOSET OF GIRL'S BEDROOM (DOWN HALLWAY) OR IN BASEMENT BY WASHER/DRYER"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -6553,16 +6563,6 @@
      "office": true,
      "note": "Wet cat food is out. Sitter flagged supplies low on this morning's visit; someone needs to restock or tell the family.",
      "quote": "( No more cat food/wet)"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Noella Assi visit report",
-     "office": false,
-     "note": "Oct 1 morning visit: Beau-ba also not seen. Pepe and the white cat were both waiting as usual; food, water and litter were all done.",
-     "quote": "I looked for Beau-ba but I did not see him"
     }
    ],
    "dormant": false
