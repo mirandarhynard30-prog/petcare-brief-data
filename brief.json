@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T10:20:07-04:00",
+ "generated": "2026-10-02T11:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2094,6 +2094,26 @@
      "quote": "Macy can be dog reactive (barking and pulling)"
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Kristin Ashick message, Oct 2 10:52 AM",
+     "office": false,
+     "note": "Kristin Ashick's GPS misrouted her on the way to the Oct 2 9:30 AM visit and she gave a new ETA of 10:55 AM. She does not say where it sent her or whether the address held in the system is wrong, so this is unconfirmed either way.",
+     "quote": "My GPS took me some place very weird."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Client message, Oct 2 10:20 AM",
+     "office": true,
+     "note": "Charlene agreed at 10:20 AM to something the office proposed, but the outbound message is not in this mailbox so what she accepted is not visible here. Same gap as the Sep 13 agreement already on file.",
+     "quote": "Works for me! Have a great weekend!"
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -3425,6 +3445,16 @@
      "office": false,
      "note": "Client answered the rain-delay offer: a later visit is acceptable but not beyond the time offered, because Archie needs to pee. Julie Smith messaged that she was 15 minutes out at 9:30 AM, so the visit appears to have gone ahead on the delayed time.",
      "quote": "Yes but no later. I don’t want him wet but I don’t want him uncomfortable because he has to pee."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Julie Smith visit report, Oct 2 10:19 AM",
+     "office": false,
+     "note": "On the Oct 2 morning walk Archie went #1 several times but had no bowel movement. That is the third no-#2 walk on file (Sep 1, Sep 30, Oct 2). Ground was wet from the rain and he preferred the street to the grass.",
+     "quote": "No number two today."
     },
     {
      "cat": "health",
