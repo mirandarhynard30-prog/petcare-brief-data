@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T19:20:06-04:00",
+ "generated": "2026-10-01T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -223,6 +223,36 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 1",
+     "source": "Company Notes updated by Shannon Anderson, Oct 1 8:05 PM",
+     "office": false,
+     "note": "Company Notes written for this client for the first time (the email shows the previous value as blank). Both dogs are flagged an ESCAPE RISK, and dog-friendly is Yes. Treat every door and gate at the new location as a flight risk.",
+     "quote": "Escape risk: Yes"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 1",
+     "source": "Company Notes updated by Shannon Anderson, Oct 1 8:05 PM",
+     "office": true,
+     "note": "The visit location has changed and is no longer a house. Park in the parking lot; entry is through a front desk, there is no house alarm, and the client is NOT home during visits. The exact entry/key procedure is in the Time To Pet note and is deliberately not repeated here. Office: confirm the new address and visit location are correct in the system.",
+     "quote": "Best place to park: Parking Lot"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 1",
+     "source": "Company Notes updated by Shannon Anderson, Oct 1 8:05 PM",
+     "office": true,
+     "note": "Service is continuing after the move, not ending: the client is now set up as Dog Midday (Weekly Walks/Drop Ins) with the visit type Dog Walk. This answers the open question running since Sep 25 about whether the move ends service. The Sep 30 portal cancellation still needs closing out separately.",
+     "quote": "Type of visit: Dog Walk"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -311,36 +341,6 @@
      "office": true,
      "note": "Client confirms the move is going ahead: her lease is up at the end of this month and the family is moving south. Replying to the evening sitter saying she would miss the dogs. This answers the open Sep 10 apartment thread in the sense that a move is happening, but she does not give a date beyond end of the month, and nothing here says when service should stop. Office needs to confirm the last service date and what happens to the visits already on the schedule.",
      "quote": "our lease is up end of the month and were moving south :( we will miss you!!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Client message 12:35pm",
-     "office": true,
-     "note": "Client confirmed she wants the girls FED on Wed Sep 16. Confirm a feeding visit is actually on tomorrow's schedule.",
-     "quote": "Thank you!! Yes, please feed them tomorrow!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Shannon Anderson / client reply",
-     "office": true,
-     "note": "Shannon Anderson told the client at 4:21pm that she and Margaret would arrive around 5pm today for a meet-and-greet; client replied at 4:22pm that she would be waiting out front. Worth reconciling against the uncleared Sep 30 portal cancellation on this client and the open question of whether her move ends service - a meet-and-greet going ahead points the other way, but neither message says so.",
-     "quote": "Hi Mary Margaret and I will arrive around 5pm for the meet and greet"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Shannon Anderson post-visit report, Oct 1 6:09 PM",
-     "office": true,
-     "note": "The 5 PM meet-and-greet went ahead. Shannon Anderson wrote at 6:09 PM that she was glad to see the dogs tonight, that she is looking forward to the visit tomorrow, and that Margaret would file tonight's report. Neither message mentions the move or the Sep 30 cancellation, so neither is resolved by this.",
-     "quote": "I'm so glad I got to see my girls tonight. I can't wait for the visit tomorrow."
     }
    ],
    "dormant": false
@@ -1235,6 +1235,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 1",
+     "source": "Tiarra Roberts post-visit report, Oct 1 8:11 PM",
+     "office": false,
+     "note": "Evening routine confirmed again: after the walk the sitter removes Georgie's harness, assists Mary Ann with his eyedrops, then gives him an ice cube treat. Mary Ann is home and the sitter assists rather than administering alone. Now logged on three separate evening visits (Sep 15, Sep 27, Oct 1), so treat it as the standing evening routine rather than a one-off. Harness goes on in the laundry room. Oct 1 stool was recorded firm and healthy.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -1343,16 +1353,6 @@
      "office": true,
      "note": "Sitter's Sep 13 evening report refers to an upcoming 'new Dr visit' she expects to hear about at the next night's visit. The email does not say whose appointment it is, what it is for, or when - it is ambiguous whether it is Georgie's vet or a human appointment. Office needs to find out and record it.",
      "quote": "Looking forward to it, to hear how the new Dr visit goes."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 12",
-     "source": "Client message from Mary Ann Mckeever, Sep 12",
-     "office": false,
-     "note": "Client reports the dog now has allergies affecting his eyes and his arms, with itching. She gives him allergy medicine herself and asks the sitter to hold his collar while she does it. The medication is not named and no dose or schedule is given anywhere in the email.",
-     "quote": "He now has allergies affecting his eyes and his arms(itching)"
     }
    ],
    "dormant": false
@@ -6385,6 +6385,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 1",
+     "source": "Shannon Anderson post-visit report, Oct 1 7:19 PM",
+     "office": true,
+     "note": "Pickles not seen again on the Oct 1 evening visit. That is a THIRD consecutive visit with no sighting (Sep 30 evening, Oct 1 morning, Oct 1 evening). The sitter also noted the litter boxes looked as though they had not been used since earlier in the day. The family is away and has not been told. This needs a call to the client before the next visit.",
+     "quote": "I then went to check on Pickles but did not see him."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Noella Assi visit report to Michael Smith, Sep 30 10:23 AM",
      "office": true,
@@ -6465,31 +6475,21 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 1",
+     "source": "Shannon Anderson post-visit report, Oct 1 7:19 PM",
+     "office": false,
+     "note": "Beau-ba WAS seen on the Oct 1 evening visit - Peppa and Beau-ba were both waiting in the garage, and White Kitty Boy met the sitter in the driveway. This closes the Oct 1 morning no-sighting flag for Beau-ba. All three ate; wet and dry food, water and litter all done.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Tiarra Roberts visit report, Sep 30 evening",
      "office": false,
      "note": "Beau-ba was FOUND on the Sep 30 evening visit, ending the run of three consecutive visits with no sighting. The sitter first checked the project car seats and the cat tree in the garage with no luck, then put wet food down in the bowls and he came out. Putting wet food down worked once here; it is not yet an established rule.",
      "quote": "I put wet food down in the bowls and guess who shows up!! Beau-ba!!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Tiarra Roberts visit report, Sep 30 evening",
-     "office": false,
-     "note": "Pickles was not seen on the Sep 30 evening visit. The sitter scooped the litter boxes and tried to get eyes on him and did not manage it. White Kitty Boy was seen in the garage. This follows Pickles hiding in a bedroom closet on Sep 29, so it is a second visit in a row without a confirmed sighting.",
-     "quote": "I never did get eyes on Pickles..."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Client message 11:04 AM",
-     "office": false,
-     "note": "Michael asks the sitter to try to give the white cat attention if he allows it - he was stressed when the family left.",
-     "quote": "Please try to give attention to white kitty... If he lets you. He was stressin when we left."
     }
    ],
    "dormant": false
