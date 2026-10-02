@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T11:20:10-04:00",
+ "generated": "2026-10-02T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -773,6 +773,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 2",
+     "source": "Client message 12:09 PM",
+     "office": false,
+     "note": "At today's visit Lucy was out of her pen with collar and leash already on under the client's supervision, and was expected to greet the sitter at the door. Client did not say whether this is how she will be left at future visits.",
+     "quote": "Lucy is out of her pen but has collar and leash on since she’s been under my supervision."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 1",
      "source": "Sitter Margaret Bill, Oct 1 midday visit report",
      "office": false,
@@ -868,6 +878,16 @@
      "office": false,
      "note": "Lucy scooted several times indoors before going out. On the walk she went #1 twice and no #2. One observation, not recorded as a pattern.",
      "quote": "scooted several times while still in the house"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Client message 12:09 PM",
+     "office": false,
+     "note": "Client is home for today's visit and said she would most likely be on a call when the sitter arrived; she planned to pop out to say hi before the sitter left.",
+     "quote": "I’m home but will most likely be jumping on a call in the next ten minutes."
     }
    ],
    "dormant": false
@@ -2949,6 +2969,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 2",
+     "source": "Kiara Streety visit report 11:52 AM",
+     "office": false,
+     "note": "Milo went #1 only on today's walk, no bowel movement; Archer went #1 and #2 and the stool was firm and healthy. Milo pulled not at all and both animals were calm.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Kiara Streety visit report 11:52 AM",
+     "office": true,
+     "note": "Sitter does not know whether Milo and Archer are still on medication and said so in her report rather than asking directly. Office needs to confirm the current medication status with the client and get it into the care notes.",
+     "quote": "not sure if they are still on medicine or not!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 1",
      "source": "Drew Walker visit report, Oct 1",
      "office": false,
@@ -3014,26 +3054,6 @@
      "office": false,
      "note": "Jade Popovitz reported Milo reacted to two dogs across the street on the walk - she got him to fully sit and relax while the second dog passed, but he was riled up for the first. Archer walked fine, quick full loop. Milo went to his crate after the walk; Archer's final treats were given only after Milo was secured because Milo kept trying to steal them. One visit, not a standing rule.",
      "quote": "He walked mostly well but he was tested 2 times with dogs that were across the street."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client message from Paulo Garcia, Sep 16 10:59am",
-     "office": false,
-     "note": "Milo is at daycare today because the cleaners are coming, so he will not be home for today's visit. Same pattern as Sep 2 and Sep 10.",
-     "quote": "Since the cleaners are coming today, Milo is at daycare and Archer is upstairs in the far right room with the door closed"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client message from Paulo Garcia, Sep 16 10:59am",
-     "office": false,
-     "note": "Cleaners are in the house today. Archer is shut upstairs in the far right room with the door closed - that is where to find him on arrival. On Aug 26 the dogs were shut in the basement for the same reason, so the room used varies.",
-     "quote": "Archer is upstairs in the far right room with the door closed"
     }
    ],
    "dormant": false
@@ -3918,6 +3938,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Client message 11:44 AM",
+     "office": false,
+     "note": "Client wrote at 11:44 AM, about fifteen minutes before the noon walk, that the building front desk has to open the door for that visit. Apartment building - sitter cannot let herself in for the noon walk.",
+     "quote": "The door will need to be opened by the front desk for the noon walking."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -4026,16 +4056,6 @@
      "office": true,
      "note": "Client and his girlfriend were both home Sep 14 and say their work routines have changed recently, so they are reworking Whiskey's visit schedule. They asked that Sep 14 and Sep 15 stand as booked. No reply from the office is visible in the mailbox.",
      "quote": "let’s stay the course for today / tomorrow for whiskey’s visits!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Elizabeth Sigler visit report",
-     "office": true,
-     "note": "On the Sep 11 midday walk Whiskey started with less energy than usual and his stool turned to diarrhea by the end of the walk; sitter gave only a small piece of chicken jerky and left the food bowl as it was. Sitter photographed the stool. Client had reported loose stool in the crate the previous evening, so this is a second episode - worth an office check on whether a vet call is wanted.",
-     "quote": "At first, the poo seemed normal. But then by the end what was coming out of him turned into diarrhea."
     }
    ],
    "dormant": false
