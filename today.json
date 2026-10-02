@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T13:35:11-04:00",
+ "generated": "2026-10-02T16:05:47-04:00",
  "date": "2026-10-02",
  "label": "Oct 2, 2026",
  "clients": [
@@ -302,14 +302,14 @@
      "sort": "0800",
      "staff": "Noella Assi",
      "service": "Cat Visit-20 Minutes",
-     "pets": "Beau-ba, White Kitty, Pepa, Pickles, Toby"
+     "pets": "Beau-ba, White Kitty Boy, Pepa, Pickles, Toby"
     },
     {
-     "time": "5:00 PM",
-     "sort": "1700",
+     "time": "4:15 PM",
+     "sort": "1615",
      "staff": "Shannon  Anderson",
      "service": "Cat Visit-20 Minutes",
-     "pets": "Beau-ba, Pepa, White Kitty, Pickles, Toby"
+     "pets": "Beau-ba, Pepa, White Kitty Boy, Pickles, Toby"
     }
    ]
   },
