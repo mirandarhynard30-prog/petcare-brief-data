@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T11:05:06-04:00",
+ "generated": "2026-10-03T12:20:11-04:00",
  "date": "2026-10-03",
  "label": "Oct 3, 2026",
  "clients": [
@@ -19,8 +19,8 @@
    "name": "Beth Nickel",
    "visits": [
     {
-     "time": "2:00 PM",
-     "sort": "1400",
+     "time": "1:00 PM",
+     "sort": "1300",
      "staff": "Kristin Ashick",
      "service": "Dog Visit-30 minute",
      "pets": "Louie, Lanie"
