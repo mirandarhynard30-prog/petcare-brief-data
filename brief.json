@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T08:20:07-04:00",
+ "generated": "2026-10-03T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2387,6 +2387,16 @@
      "quote": "I will see her again tomorrow morning with Noella."
     },
     {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Client private message 9:09 AM",
+     "office": false,
+     "note": "Derek wrote back that the short notice was no problem. He does not say what it refers to, but in context it reads as the 7:15 AM visit he cancelled at 6:25 AM this morning. No action requested of us.",
+     "quote": "No problem, I know it was last minute."
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -2417,6 +2427,16 @@
     "Luna"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts visit report",
+     "office": true,
+     "note": "Main garage door keypad would not light up when the code was entered and may be dead; Tiarra got in through the secondary garage instead. Needs the office to confirm with Matt and arrange a fix.",
+     "quote": "I believe the main garage door keypad may be dead, it would not light up when putting the code in"
+    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -2491,6 +2511,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "Ripley barked and refused the collar; each further attempt made her more skittish and she kept her distance, so Tiarra set the collar and leash down and let her out into the fenced back yard to go #1 twice. One visit only - not yet a standing rule.",
+     "quote": "Ripley did bark and refused the collar"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 2",
      "source": "Monica Hopewell visit report, Fri morning",
      "office": false,
@@ -2516,26 +2546,6 @@
      "office": true,
      "note": "The sitter states in her report that she is covering both the AM and the afternoon visit tomorrow, which confirms the twice-daily pattern for Oct 1. The Oct 2 to Oct 4 visits in the same request are still not confirmed anywhere in the mail, so the rest of that booking window needs checking on the schedule.",
      "quote": "I will see her tomorrow for the AM and afternoon visit."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Tiarra Roberts visit report, Sep 28 3:10pm",
-     "office": false,
-     "note": "On the afternoon walk Ripley barked at a woman walking past; the sitter kept a firm hold of the leash. Ripley also tried to sit down twice near the start of the walk before continuing, and was asked to sit for two oncoming cars and given a treat afterward. One sitter, one visit - recorded as recent, not a standing rule.",
-     "quote": "She did bark at a women walking, but I had a firm hold of the leash."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Tiarra Roberts updated contact information for Matt Konn (Company Notes)",
-     "office": true,
-     "note": "The Sep 26 9:48pm Company Notes rewrite dropped the frequency from Ripley's water instruction. It previously read 'Refresh 1 water bowl in kitchen every visit'; it now reads only 'Refresh 1 water bowl in kitchen', so the every-visit requirement is no longer written anywhere. Filtered fridge water from the door is unchanged. Office should restore the frequency.",
-     "quote": "Refresh 1 water bowl in kitchen"
     }
    ],
    "dormant": false
@@ -4878,6 +4888,16 @@
      "quote": ""
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts message to client",
+     "office": false,
+     "note": "Litterbox bagging plan: one box of small blue trash bags at the downstairs litterbox is enough, and the same bag is carried on to the 2nd and 3rd litterboxes. Bags, paper towels and cleaning supplies are in the utility room, now noted in the client profile.",
+     "quote": "1 box of small blue trash bags on the downstairs litterbox should be good enough"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -4956,16 +4976,6 @@
      "office": false,
      "note": "New client, consult done Oct 2 by Tiarra Roberts with Michelle Carrara taking photos. Two cats. The consult report in Time To Pet has photos attached showing where things are located in the house - worth opening before a first solo visit.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 2",
-     "source": "Tiarra Roberts updated contact information for Lauren Stuy (Current Pet Care Note, 7:50 PM)",
-     "office": false,
-     "note": "The Pet Care Note now reads, in full, that shoes come off before entering. Toys are in the brown desk in the living room, and the cats' favourite hiding spots are under the bed, upstairs.",
-     "quote": "REMOVE SHOES BEFORE ENTERING"
     }
    ],
    "dormant": false
