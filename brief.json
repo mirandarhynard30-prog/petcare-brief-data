@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T12:20:05-04:00",
+ "generated": "2026-10-03T13:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3189,6 +3189,26 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Client message, 12:31 PM Oct 3",
+     "office": false,
+     "note": "Client is out at the funeral home this afternoon and asked that Holly simply be dropped off when the walk is done; she says the door is open. One-off for today only - this is not a standing access rule.",
+     "quote": "I have to go to the funeral home so please just drop her off when you are done. Door open."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Dan Dantimo message to client, 1:03 PM Oct 3",
+     "office": true,
+     "note": "At 1:03 PM Dan Dantimo, on site with Tiarra, asked the client whether to leave the door open when they leave. No reply from the client is recorded. Her 12:31 PM message covered the drop-off but did not address leaving. Needs an answer.",
+     "quote": "I'm here with Tiarra, do you want me to leave the door open when we leave"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "standing",
      "date": "Oct 2",
      "source": "Julie Smith visit report, 1:37 PM",
@@ -3285,16 +3305,6 @@
      "office": false,
      "note": "Holly's #2 on the Sep 27 evening walk with Shannon Anderson was logged as firm and healthy - the first firm reading after slightly loose on both Sep 24 and Sep 25, so that trend appears to have resolved. Lynne was home during the visit and Holly was well behaved passing a pitbull and two papillons.",
      "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Dan Dantimo evening report 6:43pm",
-     "office": false,
-     "note": "Holly went #1 and #2 on the Sep 25 evening walk and the consistency field was answered as slightly loose. The sitter judged it not concerning. Single reading, no other symptoms noted. Worth a second look at the next visit rather than action now.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
