@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T15:20:06-04:00",
+ "generated": "2026-10-03T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3188,6 +3188,16 @@
    "items": [
     {
      "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Lynne  Reno (3:46 PM)",
+     "office": true,
+     "note": "Access rule rewritten this afternoon. Company Notes now say the client will be home and Holly is handed off on leash at the front door; the Access Instructions say the garage is to be used ONLY if the client is not home. The previous wording, which said she would notify us and sitters would enter through the front door, is gone. This does not answer Dan Dantimo's 1:03 PM question about whether to leave the door open when sitters leave, so that is still open. Entry code is in Time To Pet and is deliberately not repeated here.",
+     "quote": "Client will be home; leash hand-off at front door"
+    },
+    {
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
      "date": "Oct 3",
@@ -3205,6 +3215,26 @@
      "office": true,
      "note": "At 1:03 PM Dan Dantimo, on site with Tiarra, asked the client whether to leave the door open when they leave. No reply from the client is recorded. Her 12:31 PM message covered the drop-off but did not address leaving. Needs an answer.",
      "quote": "I'm here with Tiarra, do you want me to leave the door open when we leave"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Lynne  Reno (3:46 PM)",
+     "office": false,
+     "note": "Standing handling rule, now re-saved in capitals in the Current Pet Care Note (wording unchanged): Holly is hesitant with men and takes a while to warm up. Ignore her until she is comfortable with you. First time this has reached the brief.",
+     "quote": "HESITANT WITH MALES-WILL TAKE A LITTLE BIT TO WARM UP TO INITIALLY"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Lynne  Reno (3:46 PM)",
+     "office": false,
+     "note": "There is a cat in the house. Take care going in and out so it does not get past you.",
+     "quote": "Client has a cat, be careful when entering/exiting"
     },
     {
      "cat": "home",
@@ -3275,36 +3305,6 @@
      "office": false,
      "note": "This answers the client's 12:58 PM question about not having heard from a walker. The sitter explains today's visit was scheduled for 1:30 PM because she works until 1 PM in Parma, which is where the confusion came from, and confirms she will arrive at 1 PM tomorrow and Friday. The client replied Ok at 1:16 PM, so the open office item from the previous run is now resolved.",
      "quote": "tomorrow and Friday I will be coming at 1 PM"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Julie Smith visit report, 2:10 PM",
-     "office": false,
-     "note": "Holly reacted to another dog while turning the corner into the cul-de-sac - she started jumping. The sitter redirected her and took her on down the street rather than passing the other dog. She was fine with several walkers and did not bark at anyone. One sitter's observation on one walk, so not yet a standing rule, but worth knowing on that route.",
-     "quote": "Holly started jumping, but I was able to redirect her"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Dan Dantimo visit report, Sep 28 1:43 PM",
-     "office": false,
-     "note": "Holly went #1 and #2 on the Sep 28 midday walk and the sitter logged the #2 consistency on the report form as a little loose but not concerning. The walk itself was long and she walked well.",
-     "quote": "She did go number one and two."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 27",
-     "source": "Shannon Anderson visit report, Sep 27 6:28pm",
-     "office": false,
-     "note": "Holly's #2 on the Sep 27 evening walk with Shannon Anderson was logged as firm and healthy - the first firm reading after slightly loose on both Sep 24 and Sep 25, so that trend appears to have resolved. Lynne was home during the visit and Holly was well behaved passing a pitbull and two papillons.",
-     "quote": "It was firm and healthy"
     }
    ],
    "dormant": false
@@ -5537,6 +5537,16 @@
      "cat": "health",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Beth Nickel (4:12 PM)",
+     "office": true,
+     "note": "The 4:12 PM Company Notes rewrite deleted one line and nothing else: the Feeding section's description of what the food actually is. That was the only place in Company Notes saying the food is homemade/dehydrated. It went the same afternoon a new sitter reported she was not sure she had prepared the rehydrated food correctly and Lanie ate very little, so the written description has been removed just when it was most needed. Office should put the food type and the preparation method back into the notes. Apoquel lines, morning-and-evening-only feeding and all other sections are unchanged.",
+     "quote": "Homemade/dehydrated"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 26",
      "source": "Time To Pet record edit by Tiarra Roberts",
      "office": true,
@@ -5642,16 +5652,6 @@
      "office": true,
      "note": "Beth chased an earlier unanswered request at 10:16am ('Wondering if you saw my request?'), then at 10:30am, after being told someone was traveling, asked whether the company will come to the home and stay overnight if they go away for a week or so. Still an open office question - this is the second unanswered Beth Nickel enquiry in the brief after the Sep 19 vacation-policy question.",
      "quote": "do you come to the Home, spend the night?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 19",
-     "source": "Client message",
-     "office": false,
-     "note": "Feeding prep: the household feeds dehydrated raw, and biscuits are to be broken up and hydrated. Client stated this in connection with an Oct 3 visit that will include feeding.",
-     "quote": "We use dehydrated raw. Biscuits broken up and hydrated."
     }
    ],
    "dormant": false
@@ -6247,6 +6247,16 @@
      "quote": "We did encounter a pizza delivery delivery car going down the street and he let out a few barks"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Brandon Keyes (3:53 PM)",
+     "office": false,
+     "note": "The Company Notes rewrite adds a leashing instruction that was not in the notes before: the collar slides over Flacko's head. Worth following exactly given he is on file as an escape risk. The behavior block itself is unchanged - not dog friendly, escape risk, triggers are German Shepherds or Shepherd-looking dogs and car toppers.",
+     "quote": "Leash/poop bags located by backdoor. Slide collar over head"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -6325,16 +6335,6 @@
      "office": false,
      "note": "Answering the sitter's Sep 29 report that Flacko's treats could not be found: the client says he will get more treats made, and that there is dog ice cream in the freezer for Flacko. He does not say whether the dog ice cream may be given on a normal visit or only as a substitute when treats are out.",
      "quote": "also dog ice cream in the freezer for him"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 29",
-     "source": "Client message, Sep 29 3:39pm",
-     "office": true,
-     "note": "Follow-up to his 2:47pm message about dog ice cream in the freezer: the client says it is in orange boxes. That locates it, but he still has not said whether the ice cream is an everyday treat or only a stand-in for when the regular treats have run out, so the open office question is unchanged.",
-     "quote": "It's in orange boxes"
     }
    ],
    "dormant": false
