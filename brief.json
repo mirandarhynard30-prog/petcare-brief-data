@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T06:20:05-04:00",
+ "generated": "2026-10-03T07:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -700,6 +700,26 @@
      "quote": "When I came in the alarm was already off so I did make sure to set that when I left."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Monica Hopewell midday visit report, Oct 2 12:47 PM",
+     "office": false,
+     "note": "CJ's #2 on the Oct 2 midday walk was logged on the report form as a little loose but not concerning; Rex's was logged firm and healthy. Single reading, no other symptoms described. Worth a second look at this house given the Sep 22-23 foil-in-stool episode for both dogs.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Monica Hopewell midday visit report, Oct 2 12:47 PM",
+     "office": true,
+     "note": "Sitter says she usually covers this house on Fridays but will be in Chicago next week, and that she has told the clients so. The report gives no date, so the office needs to confirm which Friday is affected and assign cover.",
+     "quote": "I'll be in Chicago next week and I told them this"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -748,26 +768,6 @@
      "office": true,
      "note": "Sitter asks the office two things after the harness slip: whether Rex has a recall command the household uses, and suggests his harness may need tightening. Both unanswered as of this run.",
      "quote": "I also checked the harness and nothing was broken so maybe it may need to be tightened a little bit it more."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client Terry M message to Ashley Corall, Sep 25 afternoon",
-     "office": false,
-     "note": "Client (Toni) responded to today's harness escape: she will adjust Rex's harness this weekend and see if she can make it stay on, and may buy a new one. Nothing has been changed yet, so sitters should assume Rex can still back out of the harness he is wearing. She attributes his built-up energy to the wet weather and a soggy back yard he has not been allowed to run in, and says she gave the dogs a brief walk around the cul-de-sac this morning to settle him. She did not answer the sitter's question about a recall command.",
-     "quote": "I’ll adjust his harness and walk him this weekend and see how I can make it stay on"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client private message, 1:39pm",
-     "office": true,
-     "note": "Following up on today's harness escape, the client says there are no concerns or worries and no fault to Ashley, and asks the office to pass that on to her. This answers the open point from the escape; the sitter had not been told as of this run.",
-     "quote": "Please tell Ashley all is good"
     }
    ],
    "dormant": false
