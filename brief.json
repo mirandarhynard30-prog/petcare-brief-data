@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T13:20:07-04:00",
+ "generated": "2026-10-03T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5574,6 +5574,36 @@
      "quote": "We use invisible fence collar for Lou. (Orange collar)."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Kristin Ashick visit report",
+     "office": false,
+     "note": "Oct 3 report: Louie went out wearing his electric fence collar and the sitter took it off at the end of the visit; Lanie went out on a lunge line on the other side of the fence and tried to eat things outside, so she was watched. Sitter also checked the gates were up before leaving.",
+     "quote": "We headed outside after I found louie's electric fence collar."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Kristin Ashick visit report",
+     "office": false,
+     "note": "Lanie ate only a small amount of her rehydrated food on the Oct 3 visit; Louie ate everything. The sitter tried to get her to eat more, then left Lanie's food down. Worth watching whether her appetite picks up at the next visit.",
+     "quote": "Lanie only ate a little bit."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Kristin Ashick visit report",
+     "office": true,
+     "note": "New sitter on this client was not sure she prepared the rehydrated food correctly and said so in her Oct 3 report. Office should confirm the feeding method with Beth and get it written clearly into the Pet Care Note.",
+     "quote": "I hope I did it right!"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -5622,36 +5652,6 @@
      "office": false,
      "note": "Feeding prep: the household feeds dehydrated raw, and biscuits are to be broken up and hydrated. Client stated this in connection with an Oct 3 visit that will include feeding.",
      "quote": "We use dehydrated raw. Biscuits broken up and hydrated."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Client message",
-     "office": true,
-     "note": "Beth Nickel asked what the vacation policy is, in the same 2:19pm message. Unanswered in the mailbox - needs an office reply.",
-     "quote": "Also, what is your policy on vacations?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Company Notes rewritten by Tiarra Roberts",
-     "office": false,
-     "note": "Both dogs bark and can be apprehensive meeting someone new. Louie is the more protective of the two, Lanie is shy at first, and both usually settle once they are comfortable. Neither has shown any interest in escaping. Backyard time only, no walks required.",
-     "quote": "Both dogs can be a little apprehensive and bark when first meeting someone."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Beth Nickel message",
-     "office": false,
-     "note": "Feeding setup per client: dry food on the kitchen counter is to be hydrated with warm water, fed in the laundry room. Peanut butter bones are on the cupboard by the food bowls, to give the dogs when leaving.",
-     "quote": "Louie is in front of washer,Lanie’s in front of door. Louie’s dish is white."
     }
    ],
    "dormant": false
