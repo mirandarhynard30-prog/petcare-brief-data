@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T18:20:05-04:00",
+ "generated": "2026-10-03T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1757,6 +1757,16 @@
      "office": true,
      "note": "Service for Eddie is active and continuing, which bears on the Aug 26 item that read as his last afternoon visit. Elizabeth Cuffari filed an evening visit report on Oct 2 and told Judy she would be back the following day for his afternoon visit. The report records no accidents, firm and healthy stool, and no supplies low. The email does not say how long the current block of visits runs, so the end date is still unconfirmed.",
      "quote": "I will be back tomorrow for his afternoon visit"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Elizabeth Sigler visit report for Judy Steele, Oct 3 evening",
+     "office": false,
+     "note": "Eddie's stool was a little loose on the Oct 3 evening walk and the sitter marked it as not concerning. The Oct 2 evening report recorded firm, healthy stool, so this is the first loose stool on record rather than a pattern. Same report: no accidents in the home, water bowls refilled, no supplies low, two taco treats given. Worth a look on the next visit in case it repeats.",
+     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
