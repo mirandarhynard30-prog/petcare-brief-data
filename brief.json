@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T17:35:06-04:00",
+ "generated": "2026-10-03T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7241,6 +7241,60 @@
      "office": true,
      "note": "Access Instructions cut to the garage line alone at 4:35 PM. Two lines went: that the front door takes the same code, and that the code changes after each set of visits. There is now no written fallback if the garage will not open, and the notes themselves call the front door an escape risk. The Company Notes edit in the same batch was cosmetic. Codes stay in Time To Pet.",
      "quote": "Front door will have same code."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Michael & Kelly Smith",
+   "url": "https://www.timetopet.com/dashboard/client/tkspa9PVgKoq",
+   "pets": [
+    "Toby (Buster)",
+    "Peppa",
+    "Beau-ba",
+    "White Kitty Boy",
+    "Pickles"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Michael & Kelly Smith client message, Oct 3 5:24 PM",
+     "office": false,
+     "note": "RESOLVES THE RUN OF NO SIGHTINGS. Pickles was found inside the living room furnace vent after the clients searched 20 minutes on returning home. Floor vents are a hiding spot to check when he cannot be found.",
+     "quote": "he was in the furnace vent in the living room"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Michael & Kelly Smith client message, Oct 3 5:24 PM",
+     "office": true,
+     "note": "Clients are back home as of the Oct 3 late afternoon. Check whether any remaining scheduled visits should be cancelled.",
+     "quote": "Thank you everyone for caring for our pets! Its so nice to be home."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Michael & Kelly Smith client message, Oct 3 5:24 PM",
+     "office": true,
+     "note": "A living room floor board was cut out to free Pickles, so there is an open floor board in the living room. The client says the vent cover was off and should have been on; the email does not say whether either has been repaired or covered since.",
+     "quote": "We had to cut out a floor board to get his fat butt out."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts message to Michael & Kelly Smith, Oct 3 5:40 PM",
+     "office": false,
+     "note": "Sitter noted Pickles made no sound while he was trapped, which is why searching the house on earlier visits did not turn him up.",
+     "quote": "Aww, the poor boy! He wasn't meowing or anything"
     }
    ],
    "dormant": false
