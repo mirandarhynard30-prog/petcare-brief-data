@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T21:20:06-04:00",
+ "generated": "2026-10-03T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1750,16 +1750,16 @@
    "items": [
     {
      "cat": "schedule",
-     "sev": "high",
+     "sev": "medium",
      "type": "recent",
-     "date": "Aug 26",
-     "source": "Shannon Anderson visit report to client, Aug 26 afternoon",
+     "date": "Oct 2",
+     "source": "Elizabeth Cuffari visit report for Judy Steele, Oct 2 evening",
      "office": true,
-     "note": "The sitter's Aug 26 afternoon report describes it as Eddie's last afternoon visit with us. The report does not say whether the whole service is ending or only this block of visits - confirm with Judy before changing the schedule.",
-     "quote": "I came for Eddie's last afternoon visit with us."
+     "note": "Service for Eddie is active and continuing, which bears on the Aug 26 item that read as his last afternoon visit. Elizabeth Cuffari filed an evening visit report on Oct 2 and told Judy she would be back the following day for his afternoon visit. The report records no accidents, firm and healthy stool, and no supplies low. The email does not say how long the current block of visits runs, so the end date is still unconfirmed.",
+     "quote": "I will be back tomorrow for his afternoon visit"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Jessica Shouldis",
@@ -2272,16 +2272,6 @@
      "office": false,
      "note": "Waste and supplies as rewritten Sep 11: poop bags are by the front door and used bags go on top of the outside trash can. Toys are in the container behind the recliner beside the food bowls.",
      "quote": "Place poop bags on top of outside trash can"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Tiarra Roberts updated contact information for Diane Hoard",
-     "office": true,
-     "note": "The Sep 11 edit cleared Diane Hoard's Pet Care Note to empty. The blinds and second-water-bowl instructions that used to sit there still appear in the Company Notes, so nothing looks lost, but the Pet Care Note is now blank - office may want to confirm that was intended.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -2517,16 +2507,6 @@
     "Azuri"
    ],
    "items": [
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Contact update by Tiarra Roberts, 10:22am",
-     "office": true,
-     "note": "A handling warning was deleted from Azuri's Pet Care Note and not replaced anywhere. It read that during new-people training sitters should stay in the driveway while the trainer brings him out, as he can get overwhelmed by lots of people at the leash hand-off or front door. Confirm with the client before walking up to the door.",
-     "quote": ""
-    },
     {
      "cat": "home",
      "sev": "low",
@@ -3158,16 +3138,6 @@
    "items": [
     {
      "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Client messages, 7:54am and 8:21am",
-     "office": false,
-     "note": "Door instruction changed within half an hour and the second message wins: front door UNLOCKED but CLOSED, not left open. Her earlier message said she would leave the front door open for the walker. She is also leaving a plate of food on the kitchen counter for Holly and asks that Holly have fresh water.",
-     "quote": "No, she can leave the front door unlocked but closed."
-    },
-    {
-     "cat": "home",
      "sev": "medium",
      "type": "standing",
      "date": "Oct 2",
@@ -3286,16 +3256,6 @@
     "Oliver"
    ],
    "items": [
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Pet Care Note cut down by Tiarra Roberts",
-     "office": true,
-     "note": "Oliver's Pet Care Note was cut down twice on Sep 11 and the heating pad setting went with it. The note now reads only: check the fridge first before opening a new wet food can, and fill both water glasses to the brim. Deleted and not replaced anywhere: the heating pad instruction, the do-not-pet warning, topping off the dry food in the bedroom by the full-length mirror, and half a can of wet food morning and evening. Needs restoring or confirming.",
-     "quote": "Reprogram Oliver's heating pad at each visit for 95 degrees at 12 hours"
-    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -3575,16 +3535,6 @@
      "office": false,
      "note": "Archie's Sep 14 morning walk: Ray was home, had Archie ready at the door and asked that the door not be locked on the way out. That is the third report recording the same thing (Aug 25, Aug 26, Sep 14), so it is looking like the normal arrangement rather than a one-off - but it has not been confirmed as a standing rule. Sitter did not go through the home because the client was there. Archie went #1 and #2 and the stool was logged firm and healthy.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Thomas Rakovec left a message for Ray Koesel",
-     "office": false,
-     "note": "On the Sep 11 walk Archie went both #1 and #2 and the stool was logged firm and healthy. Follows the Sep 1 visit where he had no bowel movement, so that watch item looks closed. Sitter's note says see you Monday.",
-     "quote": "It was firm and healthy"
     }
    ],
    "dormant": false
@@ -3896,16 +3846,6 @@
      "office": false,
      "note": "The vacuum at this house no longer clicks back together and the sitter had to hold it with two hands to use it after changing the litter. First report of this.",
      "quote": "had to use 2 hands for vaccum it will not click back into place anymore it keeps falling apart"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "Kiara found an already-opened can of wet food sitting out on the counter and moved it to the fridge, unsure how long it had been out. There are now two cans in the fridge for Freddy. She asked Marcia if that was ok; no reply seen.",
-     "quote": "I noticed he had food open sitting on the counter I put that one in the fridge"
     },
     {
      "cat": "behavior",
@@ -5000,16 +4940,6 @@
    ],
    "items": [
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Yasmeen Abrams visit report, Sep 11 evening (shadowing Tiarra Roberts)",
-     "office": true,
-     "note": "Evening visit found nothing in the litter box, so the sitters recorded that P did not go #1 or #2 on this visit. The report's wording is ambiguous about whether the Litter Genie or the litter box itself was sifted, so treat the finding as 'nothing found', not a confirmed 24-hour count. Suzanne left town the afternoon of Sep 10 and P is alone in the house. No follow-up to the client about it is visible in this mail sweep, and this run did not open the Sep 11 morning report to see what that visit logged.",
-     "quote": "So She did not go number one or two."
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -5068,16 +4998,6 @@
      "office": false,
      "note": "Treat limit for P relayed by Tiarra Roberts while training a new sitter: three treats a day. The trainee gave two. This limit is not written anywhere in the Pet Care Note or Company Notes as they currently stand.",
      "quote": "Tiarra told me 3x treats a day we only gave 2 just to make sure."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Monica Hopewell morning visit report, Sep 11 9:22am",
-     "office": true,
-     "note": "Same-day counterpoint to the evening report that found nothing in the litter box: at the Sep 11 morning visit Monica went upstairs, tended the litter box and recorded it as normal, then topped it up with an extra scoop of litter. So P was using the box earlier that day. P was not in sight on arrival but came out after the squirrels were fed, ate her wet food and had her dry food checked.",
-     "quote": "Everything looked normal and I added an extra scoop of litter into it so the bottom was fully covered."
     },
     {
      "cat": "health",
@@ -5201,7 +5121,7 @@
      "quote": "I want it starting on 1/4/2027 and every other day until 2/19/2027."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Brittany Lisbon",
@@ -5735,16 +5655,6 @@
      "quote": "Escape risk is unknown at the new location"
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Pet Care Note replaced by Tiarra Roberts",
-     "office": true,
-     "note": "The Pet Care Note was replaced on Sep 11 with a single line about checking the fridge for an open cat food can. What it replaced was the 6PM routine: feed Blue, Princess and Tom the fish, turn off Tom's light, and give Blue and Princess their meds at that feeding. The medication detail does still exist in Company Notes, so this is a duplication being removed rather than lost outright - worth confirming that was intended.",
-     "quote": "Blue and Princess gets meds when we feed."
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -5878,16 +5788,6 @@
     },
     {
      "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Chelsea Tompkins visit report, Sep 11 evening",
-     "office": true,
-     "note": "Chloe's Phos-bind was NOT given at the Sep 11 evening visit because there was none at the house. The sitter states this plainly in the report; she does not say where it is normally kept or whether the supply has run out. Office needs to check with the client whether more is available before the next feeding, and whether any missed doses matter.",
-     "quote": "There was no Phos-bind so Chloe didn’t get that."
-    },
-    {
-     "cat": "health",
      "sev": "medium",
      "type": "recent",
      "date": "Sep 14",
@@ -5945,16 +5845,6 @@
      "office": true,
      "note": "The Sep 12 evening report covers mail, wet food for Bella, dry food and water for Chloe and treat puzzles, but makes no mention of Chloe's medicine or Phos-bind. Whether an evening dose was expected is not stated anywhere - the office should confirm the dosing schedule rather than assume it was skipped or not due.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 11",
-     "source": "Chelsea Tompkins visit report 9:43am Sep 11",
-     "office": false,
-     "note": "On the Sep 11 morning visit Bella kept her distance - she greeted the sitter at the door but then watched from across the room and would not come over, and only took a small handful of dry food by hand right at the end. The visit report also marked both pets as a little shy.",
-     "quote": "I sat for a little bit seeing if Bella would come over she didn’t"
     },
     {
      "cat": "home",
