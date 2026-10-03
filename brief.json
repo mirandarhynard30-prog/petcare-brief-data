@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T19:20:05-04:00",
+ "generated": "2026-10-02T20:35:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4868,6 +4868,36 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts updated contact information for Lauren Stuy (Company Notes written for the first time, 7:50-8:02 PM)",
+     "office": false,
+     "note": "New client. Company Notes were created for this client tonight - the previous value was blank. Front door is an escape risk for the two cats: park in the driveway and enter through the garage, not the front door.",
+     "quote": "Park in the driveway and enter through garage, escape risk at front door"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts updated contact information for Lauren Stuy (General Information - Added By Client, 8:01 PM)",
+     "office": false,
+     "note": "Standing escalation rule added tonight. The cats use Pretty Litter; red or purple litter colour means the sitter contacts management rather than handling it on the visit. No condition or medication is named anywhere in the note.",
+     "quote": "Pretty Litter: Red, Purple colors mean significant problems; contact management"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts updated contact information for Lauren Stuy (Current Pet Care Note, 7:50 PM)",
+     "office": true,
+     "note": "OFFICE: the Pet Care Note was overwritten tonight and the whole previous value was lost. The old text was the only written record in this mailbox of the Oct 7-11 visit pattern - leaving in the AM on Oct 7 so only one PM visit that day, two visits on the 8th, 9th and 10th, one morning visit Oct 11, returning that evening - plus 'wanting 2 visits a day', the Jan/Feb interest and the dehumidifier request. The new note is one line about shoes. This is from a note field, not a client message. Re-enter the visit pattern somewhere before Oct 7, and check it against the windows the client agreed tonight (mornings 6-9am, evenings 5-8pm).",
+     "quote": ""
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -4876,6 +4906,36 @@
      "office": true,
      "note": "New client. After the Oct 2 consult Tiarra Roberts proposed next week's visit windows - mornings between 6am and 9am, evening visits between 5pm and 8pm - and the client confirmed they work. No service order for those visits is visible in this mailbox, so the office still needs to put the week on the schedule.",
      "quote": "Those times work for us!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts updated contact information for Lauren Stuy (Company Notes and General Information, 8:02 PM)",
+     "office": false,
+     "note": "Feeding, as written in tonight's notes: dry food is free-fed from the bowl near the kitchen island; wet food at both morning and evening visits - 1 Temptation wet food split between two plates in the morning, 2 Delectables packets on two plates in the evening. Food, treats and plates are in the pantry. Separately, in the AM visit only, a pile of Temptation treats goes on the upstairs bedroom dresser for Pippa.",
+     "quote": "Pile Temptation treats on upstairs bedroom dresser for Pippa in AM visit."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts updated contact information for Lauren Stuy (Company Notes, 8:02 PM)",
+     "office": false,
+     "note": "Three litter boxes, not one: sunroom by the kitchen, upstairs bedroom, and by the upstairs stairwell/TV. Scoopings go into the mini blue trash bags and then into the black garbage bin inside the garage. Spare blue bags are in the top cabinet and paper towels in the bottom cabinet of the utility room across from the garage.",
+     "quote": "3 litterboxes; sunroom (by kitchen), upstairs bedroom and by upstairs stairwell/TV"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts updated contact information for Lauren Stuy (Company Notes, 8:02 PM)",
+     "office": false,
+     "note": "Per-visit house tasks in tonight's notes: empty the dehumidifier once a day - it is upstairs in the office, unplug it, pull the canister from the back and dump it in the bathroom sink. Turn the front door interior light on at the PM visit and off at the AM visit (second switch from the left by the front door), same for the exterior garage lights (switch on the right side in the garage). Check the thermostat left of the front door reads 67-70. Turn CatTV on the upstairs TV. Trash day is Friday, bins to the curb Thursday night.",
+     "quote": "Empty dehumidifier, once daily, upstairs in office."
     },
     {
      "cat": "schedule",
@@ -4916,6 +4976,16 @@
      "office": false,
      "note": "New client, consult done Oct 2 by Tiarra Roberts with Michelle Carrara taking photos. Two cats. The consult report in Time To Pet has photos attached showing where things are located in the house - worth opening before a first solo visit.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Tiarra Roberts updated contact information for Lauren Stuy (Current Pet Care Note, 7:50 PM)",
+     "office": false,
+     "note": "The Pet Care Note now reads, in full, that shoes come off before entering. Toys are in the brown desk in the living room, and the cats' favourite hiding spots are under the bed, upstairs.",
+     "quote": "REMOVE SHOES BEFORE ENTERING"
     }
    ],
    "dormant": false
