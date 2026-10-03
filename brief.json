@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T14:20:05-04:00",
+ "generated": "2026-10-03T15:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2521,6 +2521,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 3",
+     "source": "Monica Hopewell visit report, 2:37 PM",
+     "office": false,
+     "note": "Third day running that Ripley has reacted on leash to another dog. On the 2:05 PM walk she pulled hard down the hill, then a dog came out partway down the second cul-de-sac and she reacted and whined; the sitter turned around and headed back. Sitter rates it less intense than her reaction to Archie. Otherwise a clean visit - went both #1 and #2, firm stool, water refreshed, treat given, entered and left through the garage door.",
+     "quote": "not as reactive as she is with Archie but she definitely was let me play reactive and whining"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 2",
      "source": "Monica Hopewell visit report, Fri morning",
      "office": false,
@@ -2536,16 +2546,6 @@
      "office": true,
      "note": "In her report on the 2:40 PM visit Michelle Carrara tells Matt she is looking forward to seeing Ripley again on Sunday afternoon. Matt's Sep 29 request covered Thursday, Friday and Saturday only, so a Sunday visit sits outside it. The client has not confirmed it either way. The visit itself was uneventful: usual route, no accidents, treat and water given, Ripley went #1.",
      "quote": "looking forward to seeing her again on Sunday afternoon"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Monica Hopewell visit report, 1:35 PM",
-     "office": true,
-     "note": "The sitter states in her report that she is covering both the AM and the afternoon visit tomorrow, which confirms the twice-daily pattern for Oct 1. The Oct 2 to Oct 4 visits in the same request are still not confirmed anywhere in the mail, so the rest of that booking window needs checking on the schedule.",
-     "quote": "I will see her tomorrow for the AM and afternoon visit."
     }
    ],
    "dormant": false
@@ -6237,6 +6237,16 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Elizabeth Cuffari visit report, 2:40 PM",
+     "office": false,
+     "note": "On the afternoon walk Flacko barked at a passing pizza delivery car. That lines up with the car-toppers trigger already on his standing profile, so treat delivery vehicles as a real trigger and keep a short leash when one passes. No dogs were encountered and the walk was otherwise clean - he listened well, went #1 several times and #2 once, and was very thirsty on return so his water was refilled.",
+     "quote": "We did encounter a pizza delivery delivery car going down the street and he let out a few barks"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -6325,16 +6335,6 @@
      "office": true,
      "note": "Follow-up to his 2:47pm message about dog ice cream in the freezer: the client says it is in orange boxes. That locates it, but he still has not said whether the ice cream is an everyday treat or only a stand-in for when the regular treats have run out, so the open office question is unchanged.",
      "quote": "It's in orange boxes"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Client message 9:38am Sep 26",
-     "office": false,
-     "note": "Client says today's visit changes to a hand-off - his fiancee will be at the home. He does not give a time. Shannon Anderson acknowledged it at 9:39am.",
-     "quote": "slight adjustment to the schedule today my fiance will be there for a hand off"
     }
    ],
    "dormant": false
