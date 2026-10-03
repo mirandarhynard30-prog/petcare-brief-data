@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T10:20:05-04:00",
+ "generated": "2026-10-03T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4968,14 +4968,14 @@
      "quote": "Thanks, Miranda. Friday, 10/2, at 5:30 pm is great. My husband and I look forward to meeting with the sitters then."
     },
     {
-     "cat": "home",
+     "cat": "behavior",
      "sev": "low",
      "type": "standing",
-     "date": "Oct 2",
-     "source": "Tiarra Roberts consult report, Oct 2 6:16 PM",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts, contact information update 10:40 AM",
      "office": false,
-     "note": "New client, consult done Oct 2 by Tiarra Roberts with Michelle Carrara taking photos. Two cats. The consult report in Time To Pet has photos attached showing where things are located in the house - worth opening before a first solo visit.",
-     "quote": ""
+     "note": "Evening wet food is now specified by product in the Company Notes: 2 Delectables BISQUE packets, where the note previously read only 'Delectables packets'. Still 2 packets on two plates in the evening, and 1 Temptation wet food split between two plates in the morning. Worth matching the right product in the pantry rather than any Delectables variety.",
+     "quote": "2 Delectables Bisque packets in EVENING on two plates"
     }
    ],
    "dormant": false
@@ -6496,6 +6496,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts, contact information update 10:31 AM",
+     "office": false,
+     "note": "Pickles' hiding spots rewritten again this morning, and the white dresser is back in the list. The client-facing General Information now gives THREE places, not two: the closet of the girl's bedroom down the hallway, under the white dresser, and the basement by the washer/dryer. The Oct 2 version of this note had dropped the dresser. Anyone searching for Pickles should check all three. This is the fullest version recorded so far.",
+     "quote": "PICKLES HIDES IN CLOSET OF GIRL'S BEDROOM (DOWN HALLWAY), UNDER WHITE DRESSER OR IN BASEMENT, BY WASHER/DRYER"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -6604,16 +6614,6 @@
      "office": true,
      "note": "Garage rule for Toby, recorded verbatim because the wording is ambiguous - it reads either as Toby being unable to get out of the garage when the main door is open, or as an instruction not to let him out then. Needs confirming with Michael.",
      "quote": "Toby is unable to leave the garage, if the actual garage door is open."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts visit report",
-     "office": false,
-     "note": "White Kitty Boy and Beau-ba came for breakfast and left again; as Tiarra was leaving she saw White Kitty Boy outside heading toward the neighbour's house. These cats go outdoors.",
-     "quote": "I saw White Kitty Boy by the red SUV, then he walked heading towards neighbors house."
     }
    ],
    "dormant": false
