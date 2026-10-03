@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T07:20:06-04:00",
+ "generated": "2026-10-03T08:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -223,6 +223,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Mary Gilmore message, Oct 3 8:03 AM",
+     "office": false,
+     "note": "Rusty came into heat overnight with a small amount of blood. The client went to Walmart last night for doggy diapers, found none, and says she will get some today. No vet contact mentioned and no instruction about walks.",
+     "quote": "Rusty started her heat cycle last night, just a little bit of blood."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -331,16 +341,6 @@
      "office": true,
      "note": "Shannon Anderson asked Mary this morning whether she should feed the girls as usual at tonight's visit or just do a potty break and backyard time. Mary replied 'Feed them please!' Confirm tonight's visit is booked as a feeding visit, not a potty break. Same pattern as the Sep 15 feeding confirmation.",
      "quote": "Feed them please!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Shannon Anderson visit report",
-     "office": true,
-     "note": "Shannon Anderson rubbed Puck's left ear and came away with brown spots on her finger; Puck tilted her head toward the finger and gave a tiny whimper. Sitter photographed her finger and said she was not sure whether the ear just needs cleaning or something else is going on. No vet advice was given in the message.",
-     "quote": "As soon as I started to rub her ear, she tilted her head to my finger and had a tiny whimper."
     }
    ],
    "dormant": false
@@ -2338,6 +2338,36 @@
    "items": [
     {
      "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Shannon Anderson visit report, 7:47 AM",
+     "office": true,
+     "note": "Two sitters filed reports on a morning visit to Ginger today, Shannon Anderson at 7:47 AM and Noella Assi at 7:50 AM. A portal cancellation notice for the Oct 3 7:15-7:45 AM visit came in at 6:25 AM the same morning. Neither report states a visit time, so the mail does not prove the visit that went ahead was the cancelled one. Office should check whether the cancellation was processed and whether the visit is billable.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Shannon Anderson visit report, 7:47 AM",
+     "office": false,
+     "note": "Shannon Anderson was shadowing Noella Assi on this visit. Ginger barked loudly when the two sitters came in, then warmed up over the course of the visit and took treats from Shannon's hand without trouble.",
+     "quote": "Upon entering, Ginger let out several loud barks."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Noella Assi visit report, 7:50 AM",
+     "office": false,
+     "note": "Noella Assi's own report on the same morning visit: Ginger was guarded when the sitters walked in, stopped, and was much better by the end of the visit after a lot of treats.",
+     "quote": "Ginger was on guard when we walked in."
+    },
+    {
+     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
      "date": "Sep 20",
@@ -2345,6 +2375,16 @@
      "note": "Client wrote this morning to say they are returning home this afternoon. No time given and nothing asked to be cancelled, but a later visit today may no longer be wanted. Worth one check against the schedule.",
      "quote": "Thank you so much for taking care of Ginger! We’ll be back this afternoon",
      "source": "Client message 10:20 AM"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Shannon Anderson visit report, 7:47 AM",
+     "office": false,
+     "note": "Sitter states in her report that she will be back with Noella Assi tomorrow morning.",
+     "quote": "I will see her again tomorrow morning with Noella."
     },
     {
      "cat": "home",
