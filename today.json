@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T09:50:14-04:00",
+ "generated": "2026-10-03T11:05:06-04:00",
  "date": "2026-10-03",
  "label": "Oct 3, 2026",
  "clients": [
@@ -173,7 +173,7 @@
    ]
   },
   {
-   "name": "Michael Smith",
+   "name": "Michael & Kelly Smith",
    "visits": [
     {
      "time": "9:00 AM",
@@ -198,7 +198,7 @@
      "time": "3:00 PM",
      "sort": "1500",
      "staff": "Reese Rath",
-     "service": "Dog Visit-30 minute",
+     "service": "Long Range Visit-30 Minute",
      "pets": "Bear, Zoey"
     },
     {
