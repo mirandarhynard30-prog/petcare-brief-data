@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T00:05:24-04:00",
+ "generated": "2026-10-03T09:50:14-04:00",
  "date": "2026-10-03",
  "label": "Oct 3, 2026",
  "clients": [
@@ -111,18 +111,6 @@
    ]
   },
   {
-   "name": "Linda Gross",
-   "visits": [
-    {
-     "time": "9:30 PM",
-     "sort": "2130",
-     "staff": "Kiara Streety",
-     "service": "Dog Visit-30 minute",
-     "pets": "All"
-    }
-   ]
-  },
-  {
    "name": "Lynne  Reno",
    "visits": [
     {
@@ -191,7 +179,7 @@
      "time": "9:00 AM",
      "sort": "0900",
      "staff": "Tiarra Roberts",
-     "service": "Cat Visit-20 Minutes",
+     "service": "Cat Visit-30 Minutes",
      "pets": "Beau-ba, Pepa, White Kitty Boy, Pickles, Toby"
     }
    ]
@@ -209,15 +197,8 @@
     {
      "time": "3:00 PM",
      "sort": "1500",
-     "staff": "Faith Collins",
-     "service": "Trainer Visit-30minute",
-     "pets": "Bear, Zoey"
-    },
-    {
-     "time": "3:00 PM",
-     "sort": "1500",
      "staff": "Reese Rath",
-     "service": "Shadow Visit with Staff Member-30 minute",
+     "service": "Dog Visit-30 minute",
      "pets": "Bear, Zoey"
     },
     {
@@ -245,8 +226,8 @@
    "name": "Vicki Davey",
    "visits": [
     {
-     "time": "10:00 AM",
-     "sort": "1000",
+     "time": "10:30 AM",
+     "sort": "1030",
      "staff": "Harvett Ellington",
      "service": "Cat Visit-45 minute",
      "pets": "3 indoor cats, 6 outdoor cats"
@@ -254,12 +235,12 @@
     {
      "time": "4:00 PM",
      "sort": "1600",
-     "staff": "Faith Collins",
-     "service": "Cat Visit-30 Minutes",
+     "staff": "Harvett Ellington",
+     "service": "Reassigned Visit-30 minute",
      "pets": "3 indoor cats, 6 outdoor cats"
     }
    ]
   }
  ],
- "visitCount": 26
+ "visitCount": 24
 }
