@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T20:35:05-04:00",
+ "generated": "2026-10-02T21:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6135,6 +6135,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Oct 2",
+     "source": "Client message",
+     "office": false,
+     "note": "Client wrote this unprompted at 6:05 PM, right after her message about leaving the waste bag: Oakley whines when he is excited and that is his normal behaviour, so a sitter who hears him whining should not read it as distress. No action asked for. Not previously in the brief.",
+     "quote": "Also Oakley is very whiny when excited so his normal behavior!!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Oct 1",
      "source": "Yasmeen Abrams message to client 3:53 PM",
@@ -6221,16 +6231,6 @@
      "office": true,
      "note": "Ashley Corall asked the client whether Oakley could wiggle under the fence. No answer from the client on that point yet. Ashley notes the dogs are never left unattended outside. Office should get a yes or no and get it written into Time To Pet.",
      "quote": "Okay I just sure if Oakley could wiggle under the fence even though we are outside with them all the time"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Client message from Lauren White, Sep 13 4:48pm",
-     "office": true,
-     "note": "Bailey has left ear discomfort this week; client hoped to get her to the vet Mon Sep 14. No diagnosis or medication written down yet - check with the client before the next visit and watch the ear.",
-     "quote": "Bailey this week if having some left ear discomfort, hoping to get her in the vet tomorrow"
     }
    ],
    "dormant": false
