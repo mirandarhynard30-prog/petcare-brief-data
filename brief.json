@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T09:20:06-04:00",
+ "generated": "2026-10-03T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -491,6 +491,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 3",
+     "source": "Renee Dougherty visit report",
+     "office": true,
+     "note": "Sampson (the report calls him Sammy) spat out his medicine when it was given in a Churu. Renee then fed him his hard and soft food mixed with the 1/2 pill and he ate it. The report records medication as administered.",
+     "quote": "I gave him his medicine with a churo, but he kept spitting it out"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 30",
      "office": true,
      "source": "Margaret Bill visit report, Sep 30 morning walk",
@@ -596,16 +606,6 @@
      "office": true,
      "note": "Fourth consecutive day of GI trouble. At the Sep 13 morning visit Sampson vomited twice - a hair ball seen while the sitter was walking, plus a second spot of vomit on the living room carpet, both cleaned up. He also went number 2 under the table rather than in the litter box, and the litter box was unused. His medicine (a pill, still unnamed in any report) was given in a lickable treat and the sitter waited to confirm he swallowed it. Office should call the client about a vet visit - this has now run Sep 10 to Sep 13 with possible blood reported Sep 12.",
      "quote": "As I was walking I noticed he threw up a hair ball."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Client message, Sep 13 9:35am",
-     "office": true,
-     "note": "Client's own reply to the Sep 13 morning report. She says Sampson used the litter box in the dining room at some point before the sitters arrived, but there were throw-ups and one stool on the dining room carpet and urine in his usual hallway/kitchen spot. She reports a spot of blood in his poop and speculates he may have strained. This is the client herself confirming blood, and it follows the possible blood the sitter saw on Sep 12. No vet visit has been raised by either side.",
-     "quote": "His poop had a spot of blood in it. I don't know how that could be."
     }
    ],
    "dormant": false
@@ -5519,7 +5519,8 @@
    "url": "https://www.timetopet.com/dashboard/client/tgmsecNHtd45",
    "pets": [
     "Louie",
-    "Lanie"
+    "Lanie",
+    "Lainey"
    ],
    "items": [
     {
@@ -5541,6 +5542,26 @@
      "office": false,
      "note": "Louie is on Apoquel for skin allergies. It goes with the morning and evening feedings only and is not given at midday visits. The Sep 11 edit moved this into the medication section and dropped the separate line that said he has skin allergies.",
      "quote": "Louie receives Apoquel for skin allergies"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Beth Nickel message",
+     "office": false,
+     "note": "Client instruction: leave the gate up down the long hall and keep the gate up in front of the sunroom door. Lainey chews pillowcases and carpet.",
+     "quote": "Lainey likes to eat my pillow cases and chew at the carpet."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Beth Nickel message",
+     "office": false,
+     "note": "Louie wears an orange invisible-fence collar. Lainey's lead is in front of the fence door and is already attached out in the yard. A couple of sticks and a ball are on the patio.",
+     "quote": "We use invisible fence collar for Lou. (Orange collar)."
     },
     {
      "cat": "schedule",
@@ -5613,14 +5634,14 @@
      "quote": "Both dogs can be a little apprehensive and bark when first meeting someone."
     },
     {
-     "cat": "home",
+     "cat": "behavior",
      "sev": "low",
      "type": "standing",
-     "date": "Sep 22",
-     "source": "Tiarra Roberts updated contact information for Beth Nickel (Sep 22, 9:44am ET)",
+     "date": "Oct 3",
+     "source": "Beth Nickel message",
      "office": false,
-     "note": "The first Sep 22 Company Notes edit removed the entry-door line from the Client Overview, so the notes no longer state which door to enter by. A second edit two minutes later removed the tap-water-is-fine aside from the water bowl line; the cold-water warning about the reversed kitchen sink symbols is still there.",
-     "quote": "Enter through the front door"
+     "note": "Feeding setup per client: dry food on the kitchen counter is to be hydrated with warm water, fed in the laundry room. Peanut butter bones are on the cupboard by the food bowls, to give the dogs when leaving.",
+     "quote": "Louie is in front of washer,Lanie’s in front of door. Louie’s dish is white."
     }
    ],
    "dormant": false
@@ -6585,14 +6606,14 @@
      "quote": "Toby is unable to leave the garage, if the actual garage door is open."
     },
     {
-     "cat": "home",
+     "cat": "behavior",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 2",
-     "source": "Noella Assi visit report",
-     "office": true,
-     "note": "Wet cat food is out. Sitter flagged supplies low on this morning's visit; someone needs to restock or tell the family.",
-     "quote": "( No more cat food/wet)"
+     "date": "Oct 3",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "White Kitty Boy and Beau-ba came for breakfast and left again; as Tiarra was leaving she saw White Kitty Boy outside heading toward the neighbour's house. These cats go outdoors.",
+     "quote": "I saw White Kitty Boy by the red SUV, then he walked heading towards neighbors house."
     }
    ],
    "dormant": false
@@ -6907,6 +6928,16 @@
      "office": true,
      "note": "A second sitter now describes putting a mask on both dogs before taking them outside. No mask or muzzle appears anywhere else in Nicole's record. Office must confirm what this equipment is and get it written into Company Notes before more sitters guess.",
      "quote": "so I put both there mask on and leash Zoey and we went outside"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Nicole Smith message",
+     "office": true,
+     "note": "Client asked for something to be set to 68. The message carries no antecedent for \"it\" - most likely a thermostat, but that is not stated. Needs confirming with her.",
+     "quote": "Can you put it at 68 please? Thank you!"
     },
     {
      "cat": "health",
