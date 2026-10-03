@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T16:20:05-04:00",
+ "generated": "2026-10-03T17:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1235,6 +1235,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Mary Ann Mckeever (4:41 PM)",
+     "office": true,
+     "note": "The 4:41 PM Company Notes rewrite deleted the whole Walk Instructions section - that walks are preferred over the backyard, and that the best walking area is across the street on the sidewalks. Nothing replaced it, so the notes no longer say where or whether to walk Georgie. Mary Ann is on today's schedule and the brief still carries the walk routine, so the sitter page is ahead of Time To Pet. Garage entry, white doorbell, pen, harness, plaid leash and cooling collar are unchanged.",
+     "quote": "Walks preferred over backyard"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -1343,16 +1353,6 @@
      "office": false,
      "note": "Sep 15 evening visit: the sitter again helped Mary Ann give Georgie his pill medicine and his eyedrops after the walk, so the medication routine is still running as of Sep 15. On the Sep 15 morning walk the sitter noted Mary Ann had already done the eyedrops herself earlier that day.",
      "quote": "I helped Mary Ann give Georgie his medicine"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Tiarra Roberts visit report, Sep 13 8:53pm",
-     "office": true,
-     "note": "Sitter's Sep 13 evening report refers to an upcoming 'new Dr visit' she expects to hear about at the next night's visit. The email does not say whose appointment it is, what it is for, or when - it is ambiguous whether it is Georgie's vet or a human appointment. Office needs to find out and record it.",
-     "quote": "Looking forward to it, to hear how the new Dr visit goes."
     }
    ],
    "dormant": false
@@ -1790,6 +1790,16 @@
      "quote": "nova comes straight back when called, but astra will bolt"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Jessica Shouldis (4:28 PM)",
+     "office": true,
+     "note": "The 4:28 PM rewrite deleted the whole Walk Instructions section, the only line saying where to walk and that one dog goes per visit. Garage leash hand-off, the two-dogs-one-at-a-time line and the harness colours survive. The brief still carries the Spyglass Hill route from Aug 26.",
+     "quote": "Walk Astra or Nova each visit, towards the Spyglass Hill housing development"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -1878,16 +1888,6 @@
      "office": false,
      "note": "The Sep 30 morning walk was logged with the client at home and the door left unlocked at her request. Quote omitted on purpose - the field is a canned dropdown identical to other clients' Sep 30 entries and the de-duplication key does not include the client name.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Company Notes as of Tiarra Roberts edit, Sep 26 5:32pm",
-     "office": false,
-     "note": "Waste disposal rule, never carried in the brief before: used poop bags go in the garbage bin inside the garage. Consistent with the garage leash hand-off already on file.",
-     "quote": "Used poop bags can be thrown into garbage bin inside garage"
     }
    ],
    "dormant": false
@@ -5000,6 +5000,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Suzanne Slimak (5:02 PM)",
+     "office": true,
+     "note": "The 5:02 PM rewrite deleted one line and nothing else: the feeding frequency. Half a wet food container per feeding, fridge storage, bar-room feeder and water, squirrel almonds and mail are untouched. With the Visit Timing block already deleted Sep 26, nothing in Company Notes now says how often or when P is fed.",
+     "quote": "Feed morning and afternoon/evening"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -5221,6 +5231,16 @@
      "quote": "Miley is usually sleeping on the bed, in the bedroom"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Brittany Lisbon (4:21 PM)",
+     "office": true,
+     "note": "The 4:21 PM rewrite retitled the section 'AM Feeding Instructions' and deleted the line giving the window, so the notes say morning without saying when. Miley's blood-pressure quarter-pill and the three-wet-cans-on-one-plate line are unchanged. Worth settling because the medication goes in a pill pocket with the food.",
+     "quote": "Feed in morning (around 6-11am)"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -5299,16 +5319,6 @@
      "office": false,
      "note": "The second Sep 22 edit removed the 'standard litter box - Scoop' line, so only the automatic box (empty the drawer if needed) is listed. The note still says 2 litter boxes total in the office, so it is unclear if the standard box is gone. Check both.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Tiarra Roberts updated contact information",
-     "office": false,
-     "note": "Sep 17 rewrite moves the water fountain to the living room; the old note said fountains were in the kitchen only. Still top off from the spring water jug on the counter each visit.",
-     "quote": "Water fountain in living room"
     }
    ],
    "dormant": false
@@ -5382,6 +5392,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Jackie Martanovic (4:27 PM)",
+     "office": true,
+     "note": "The 4:27 PM rewrite dropped the refresh instruction from the water line, which now only says a bowl exists in the play pen. Archie stays in the pen when unattended and there is no feeding at these visits, so water is the only thing to top off.",
+     "quote": "1 water bowl in play pen (refresh as needed)"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -5400,6 +5420,16 @@
      "office": false,
      "note": "Archie's vaccination restriction has been lifted - 'backyard potty only until May 16, no walks until he has his shots' was removed from both the Pet Care Note and Company Notes, and the instruction now reads to walk him around the house for potty time. Collar only, no harness; leash and poop bags by the back door. Stays in the play pen when unattended, no feeding.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Jackie Martanovic (4:27 PM)",
+     "office": false,
+     "note": "The same rewrite removed the lunge line from the Dog Overview. The email does not say whether it is gone from the house or only from the notes.",
+     "quote": "Lunge line in backyard"
     },
     {
      "cat": "behavior",
@@ -7120,6 +7150,97 @@
      "office": true,
      "note": "Client says her Monday Oct 5 request went in without feeding instructions, and asks that feeding be as close to 5:00 PM as possible. Needs adding to that visit.",
      "quote": "Please feed them as close to 5:00 pm as you can."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Ryan Stanton",
+   "url": "https://www.timetopet.com/dashboard/client/sznnhspwlkey",
+   "pets": [
+    "Brody"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Ryan Stanton (4:56 PM)",
+     "office": false,
+     "note": "Visits are fenced-backyard potty breaks only, no walks. The long Pet Care Note was replaced by this one line and the care detail moved into Company Notes, which had been empty. First time this client has reached the brief.",
+     "quote": "FENCED BACKYARD VISITS ONLY"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Ryan Stanton (4:56 PM)",
+     "office": true,
+     "note": "Two door rules in the old Pet Care Note were not carried into the new Company Notes and now appear nowhere: do not lock the door going into the house, and shut the garage door AND the second entry door while entering, because Brody has free roam. A sitter working from the new notes alone would not know either.",
+     "quote": "Do not lock the door going into the house"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Ryan Stanton (4:56 PM)",
+     "office": true,
+     "note": "2 scoops of dry food from the clear container next to the kitchen table, with 2 Cosequin hip/joint tablets crumbled over it, bottle on the kitchen table. The old note also said to photograph the bowl before feeding; that line was not carried over.",
+     "quote": "He will eat 1x a day during the mid-day visit."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Ryan Stanton (4:56 PM)",
+     "office": false,
+     "note": "The old note placed the bowls - one inside by the food bowl in the dining room, one outside on the patio by the back door - and said to keep the outside one full or Brody drinks from the pool. The new wording keeps the pool reason but drops both locations.",
+     "quote": "2 water bowls, bring 1 outside during visit (prevent drinking from pool) and bring back inside after visit"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Ryan Stanton (4:56 PM)",
+     "office": true,
+     "note": "Access Instructions cut to garage entry and which opener button to use. The previous version also pointed to a lockbox on the front porch as the backup if the garage door misbehaves; that fallback is no longer written down. Codes stay in Time To Pet.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Ryan Stanton (4:56 PM)",
+     "office": false,
+     "note": "Waste disposal, per the new Company Notes.",
+     "quote": "Poop bags go in grey trashcan on back patio"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Lauren & Brian Stuy",
+   "url": "https://www.timetopet.com/dashboard/client/tkapwcpNcgZ5",
+   "pets": [
+    "Pippa",
+    "Polly"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Lauren & Brian Stuy (4:35 PM)",
+     "office": true,
+     "note": "Access Instructions cut to the garage line alone at 4:35 PM. Two lines went: that the front door takes the same code, and that the code changes after each set of visits. There is now no written fallback if the garage will not open, and the notes themselves call the front door an escape risk. The Company Notes edit in the same batch was cosmetic. Codes stay in Time To Pet.",
+     "quote": "Front door will have same code."
     }
    ],
    "dormant": false
