@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T20:20:07-04:00",
+ "generated": "2026-10-03T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7060,6 +7060,16 @@
      "office": false,
      "note": "Back yard is very dark after sunset. Faith Collins asked on the Oct 1 evening visit whether there was a light out back; Nicole replied there is a switch by the back door but it does not reach far, and that a flashlight is on the shelves by the back door. Evening sitters should expect to need the flashlight.",
      "quote": "There is a switch for the light right by the door but it doesn’t light up very far"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Kiara Streety visit report, 9:04 PM",
+     "office": false,
+     "note": "Night visit: a noise in the trees sent Zoey and Bear straight back indoors, so yard time was cut short - both went #1 only. One sitter's observation on one evening visit, not a standing rule. They also finished the food left on the plate from the earlier visit.",
+     "quote": "We heard something in them tress and both pups immediately came back inside"
     },
     {
      "cat": "home",
