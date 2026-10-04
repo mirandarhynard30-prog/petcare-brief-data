@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T10:20:05-04:00",
+ "generated": "2026-10-04T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2884,6 +2884,26 @@
      "quote": "Yes please thats what I told Trudy on Friday"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Harvett Ellington visit report, Oct 4 10:43am",
+     "office": false,
+     "note": "Loose stool found in the porch litter box on the Oct 4 morning visit. The report does not say which cat it came from. No accidents were found elsewhere in the home and the rest of the visit was normal - litter boxes and bowls cleaned, fresh water, wet and dry food fed, supplies not low.",
+     "quote": "On the porch, the litter box shows that one of the cats' stools is loose."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 4",
+     "office": false,
+     "source": "Client message, Oct 4 9:48am",
+     "note": "Entry condition the client set for today's 10:00am visit: if the door is not open when the sitter arrives, she wants to be told. She says she arranged the 10:00 time with Trudy on Friday. This follows a run of entry problems at this house, so it is worth carrying into this afternoon's visit too.",
+     "quote": "I told her 10:00 if the doors not open let me no"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2942,26 +2962,6 @@
      "office": false,
      "note": "Supply low, reported on the Sep 19 evening visit: the dry food dispenser with the green lid is empty. The sitter fed the indoor cats (dry food untouched, left as it was), fed the outdoor cats on the porch, and Vicki showed her where the chicken is kept - two of the outdoor cats were given chicken. Vicki was home during the visit.",
      "quote": "the dry food dispenser (with the green lid) is currently empty"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 19",
-     "source": "Elizabeth Sigler visit report 5:48pm",
-     "office": false,
-     "note": "Litter boxes are NOT to be scooped at afternoon visits. The sitter scooped all of them on the Sep 19 evening visit, apologised for doing it when she was not supposed to, and said she will skip them at afternoon visits going forward. Stated by the sitter, not by the client - worth confirming with Vicki what the intended rule is.",
-     "quote": "In the future I will definitely skip litter boxes during afternoon visits."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Client message, Sep 13 morning",
-     "office": false,
-     "note": "The client sent an entry instruction for today's visit in a short morning message. The detail is deliberately not recorded here - open her Sep 13 message in Time To Pet before arriving.",
-     "quote": ""
     }
    ],
    "dormant": false
