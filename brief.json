@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T11:20:05-04:00",
+ "generated": "2026-10-04T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1780,6 +1780,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Client private message, Oct 4 12:00pm",
+     "office": true,
+     "note": "Client is out of town Oct 7 and Oct 9 and cannot do the leash hand-off herself. Someone else will be at the house and can hand off, but he will not receive the sitter's arrival updates, so she is asking for a guaranteed fixed hand-off time, offering to move the appointment time, or alternatively to skip next week and resume the week after. She sent a short 'Absolutely, thank you!' eleven minutes later, so the office appears to have replied in Time To Pet, but nothing in the mail says which option was agreed or what time was set - still needs confirming.",
+     "quote": "I'll be out of town on the 7th and 9th and wont be available for hand off."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1888,16 +1898,6 @@
      "office": false,
      "note": "Nova was very worked up on arrival and settled as soon as the walk started. She is a heavy sniffer and was drawn to a parked Amazon van and a squirrel on the Sep 30 morning walk, but handled both without trouble. Stool logged firm and healthy. One sitter on one walk, so an observation rather than a rule.",
      "quote": "she calmed down once we started the walk"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Tiarra Roberts visit report, 12:01 PM",
-     "office": false,
-     "note": "The Sep 30 morning walk was logged with the client at home and the door left unlocked at her request. Quote omitted on purpose - the field is a canned dropdown identical to other clients' Sep 30 entries and the de-duplication key does not include the client name.",
-     "quote": ""
     }
    ],
    "dormant": false
