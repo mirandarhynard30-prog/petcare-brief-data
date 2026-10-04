@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T09:20:05-04:00",
+ "generated": "2026-10-04T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -501,6 +501,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 4",
+     "source": "Visit report, Renee Dougherty, Oct 4 9:41am",
+     "office": true,
+     "note": "Sampson had two poop accidents on the carpet plus one in the litter box, and also threw up in the family room. No urine found anywhere. Sitter cleaned up all of it. Worth telling the client and watching at the next visit.",
+     "quote": "He pooped twice on the carpet and once in the litter box."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 3",
      "source": "Renee Dougherty visit report",
      "office": true,
@@ -596,16 +606,6 @@
      "office": true,
      "note": "SUPPLY: Kathy's full Sep 25 morning visit report says she went through about five pills getting one into Sampson and there are now no half pills left in the house. Whoever covers the next dose has nothing pre-split to work with. Needs an office call to the client today.",
      "quote": "I tried so many pills that there are no more half pills left."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Renee Dougherty visit report, Sep 24 10:02am",
-     "office": true,
-     "note": "Gordy's stool still loose on the Sep 24 morning walk - the sitter marked consistency as a little loose but not concerning, and he went #2 three times on one walk around the block. This is the third consecutive day loose stool has been reported and no vet contact is recorded. Office should decide today whether to ask Anna Marie about a vet call.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -2558,6 +2558,16 @@
      "quote": "Ok - I’ll replace the batteries…TY!"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Visit report, Kristin Ashick, Oct 4 9:18am",
+     "office": false,
+     "note": "The garage keypad battery is dead. Sitter got in by using the other garage instead.",
+     "quote": "the battery is dead. I used the other garage to enter."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2576,16 +2586,6 @@
      "office": false,
      "note": "Third day running that Ripley has reacted on leash to another dog. On the 2:05 PM walk she pulled hard down the hill, then a dog came out partway down the second cul-de-sac and she reacted and whined; the sitter turned around and headed back. Sitter rates it less intense than her reaction to Archie. Otherwise a clean visit - went both #1 and #2, firm stool, water refreshed, treat given, entered and left through the garage door.",
      "quote": "not as reactive as she is with Archie but she definitely was let me play reactive and whining"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Monica Hopewell visit report, Fri morning",
-     "office": false,
-     "note": "Ripley reacted hard on the walk when another dog came out at the end of the shorter cul-de-sac; sitter had to tell her to sit repeatedly and even a garbage truck did not distract her as it normally does. No incidents, and less pulling than the day before. Sitter kept a firm grip on the leash and took no photos for that reason.",
-     "quote": "she did have to be told to sit quite a few times but she listened and we made it back without any incidents"
     }
    ],
    "dormant": false
@@ -3227,6 +3227,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Client message via Time To Pet, Oct 4 10:04am",
+     "office": true,
+     "note": "Client asks for two walkers on Tuesday Oct 6, the second one around 4:00 pm while the family attends calling hours. Needs an office reply and a schedule change; no response to her seen in this mailbox.",
+     "quote": "I will need two walkers on Tuesday. Oct. 6."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -3335,16 +3345,6 @@
      "office": true,
      "note": "Client sent a private message at 12:58 PM asking whether she should have heard from a walker today. Sitter Julie Smith sent an ETA nine minutes later at 1:07 PM saying she was about 30 minutes out, so the visit does appear to be going ahead - but nobody has actually answered Lynne's question.",
      "quote": "Haven’t heard from a walker today?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Julie Smith visit report, 2:10 PM",
-     "office": false,
-     "note": "This answers the client's 12:58 PM question about not having heard from a walker. The sitter explains today's visit was scheduled for 1:30 PM because she works until 1 PM in Parma, which is where the confusion came from, and confirms she will arrive at 1 PM tomorrow and Friday. The client replied Ok at 1:16 PM, so the open office item from the previous run is now resolved.",
-     "quote": "tomorrow and Friday I will be coming at 1 PM"
     }
    ],
    "dormant": false
@@ -6992,6 +6992,16 @@
      "quote": "so I put both there mask on and leash Zoey and we went outside"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Visit report, Reese Rath, Oct 4 9:47am",
+     "office": false,
+     "note": "On the Oct 4 morning visit both dogs went #1 and #2 outside. Bear had his probiotic chew. Feet wiped afterwards as the grass was damp.",
+     "quote": "they both went #1 and #2"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7089,16 +7099,6 @@
      "source": "Nicole Smith pet record update - Bear",
      "office": false,
      "note": "Vet of record added for Bear: Avon Animal Hospital, 37160 Detroit Rd, Avon, OH 44011, (440) 934-6516. Client entered this herself on Oct 1; it had been blank.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 1",
-     "source": "Nicole Smith pet record update - Zoey",
-     "office": false,
-     "note": "Vet of record added for Zoey: Avon Animal Hospital, 37160 Detroit Rd, Avon, OH 44011, (440) 934-6516. Client entered this herself on Oct 1; it had been blank. Confirms her two dogs are named Bear and Zoey.",
      "quote": ""
     }
    ],
