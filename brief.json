@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T12:20:05-04:00",
+ "generated": "2026-10-04T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -223,6 +223,36 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Client private message, Oct 4 12:57 PM",
+     "office": true,
+     "note": "Client cancelled the Oct 7 midday visit in her own words - she wants it skipped until the meet and greet has happened. Separate from the portal Service Change notice; the Oct 7 midday visit needs taking off the schedule.",
+     "quote": "No, well just skip the visit on the midday visit on the 7th until the meet and greet"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Client private message, Oct 4 12:18 PM",
+     "office": true,
+     "note": "Move timeline and meet-and-greet dates updated: hotel Monday and probably Tuesday, hopefully in the new place Wednesday. She says Oct 7 or Oct 8 works for the meet and greet. The office still has to pick one of those two dates and confirm it back to her.",
+     "quote": "Yes the 7th or 8th should work for meet and greet."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Client private message, Oct 4 12:48 PM",
+     "office": true,
+     "note": "Access to the new apartment is not direct: there is a main building door before her unit and she believes a key is needed for it. She is unsure herself, so building access is unresolved and needs settling before any visit there.",
+     "quote": "You have to go through a main door to get to my unit."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -311,36 +341,6 @@
      "office": true,
      "note": "Client wrote this at 4:52 PM. It is ambiguous against the Sep 29 note that the house is packed up and the dogs will not be there from Thursday - unclear whether Thursday visits are on, or whether she means seeing the team socially. Office should confirm Thursday Oct 1 coverage with the client directly.",
      "quote": "i look forward to seeing everyone thursday!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client private message, 6:06pm",
-     "office": true,
-     "note": "Move plan has changed and the client is asking the office a direct question that is still unanswered. They do not have the new apartment yet, so the tentative plan is a hotel/motel in Macedonia for a week. She asks whether it is worth doing a meet and greet plus one walk a day for that week, or waiting until the new place, and says she is unsure which is best. This follows her Sep 21 message cancelling the meet and greet at the new place. No dates are confirmed and no service is booked - a decision from the office is needed before anything can be scheduled.",
-     "quote": "our current plan is to stay at a hotel/motel in macedonia for the week"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client private message 6:48pm",
-     "office": true,
-     "note": "Follow-up to her 6:06pm hotel-week question, and it is still a question, not a booking. She asks the office to check whether Margaret can do a meet and greet at the Macedonia hotel on Thursday Oct 1, 5-7pm. Nothing is on the schedule for it and no one has replied.",
-     "quote": "maybe ask Margaret for thurs the 1st 5-7pm? If thats possible for her?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Client message replying to Shannon Anderson, Sep 23 10:11am ET",
-     "office": true,
-     "note": "Shannon Anderson asked Mary this morning whether she should feed the girls as usual at tonight's visit or just do a potty break and backyard time. Mary replied 'Feed them please!' Confirm tonight's visit is booked as a feeding visit, not a potty break. Same pattern as the Sep 15 feeding confirmation.",
-     "quote": "Feed them please!"
     }
    ],
    "dormant": false
@@ -1810,6 +1810,16 @@
      "quote": "nova comes straight back when called, but astra will bolt"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Client private message, Oct 4 12:32 PM",
+     "office": true,
+     "note": "Follow-up to this morning's Oct 7 / Oct 9 hand-off question: the client says it is settled and she will put it on the schedule for the person doing the hand-off for her. The agreed hand-off time itself does not appear anywhere in the mail, so the exact time still needs confirming to whoever is assigned.",
+     "quote": "That's great! Ill stick it on the schedule for him. Thank you!"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -1888,16 +1898,6 @@
      "office": false,
      "note": "The client is home and hands the leash over at the front door, the doorbell does not work so knock, and only one dog is walked at a time.",
      "quote": "Client will be home, leash hand off at the front door."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Tiarra Roberts visit report, 12:01 PM",
-     "office": false,
-     "note": "Nova was very worked up on arrival and settled as soon as the walk started. She is a heavy sniffer and was drawn to a parked Amazon van and a squirrel on the Sep 30 morning walk, but handled both without trouble. Stool logged firm and healthy. One sitter on one walk, so an observation rather than a rule.",
-     "quote": "she calmed down once we started the walk"
     }
    ],
    "dormant": false
@@ -7113,6 +7113,16 @@
     "Doughty"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Client private message, Oct 4 1:02 PM",
+     "office": true,
+     "note": "Kim has accepted a meet-and-greet time, following the slots she offered on Oct 1. Which slot was agreed is not visible in the mail, so the booked date and time still need confirming and putting on the schedule.",
+     "quote": "That would work for me. See you then"
+    },
     {
      "cat": "schedule",
      "sev": "medium",
