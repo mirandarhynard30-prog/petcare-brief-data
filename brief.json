@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T14:20:05-04:00",
+ "generated": "2026-10-04T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1762,6 +1762,46 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Oct 4",
+     "source": "Elizabeth Sigler visit report, Oct 4 afternoon",
+     "office": false,
+     "note": "Oct 4 afternoon walk: Eddie went #2 and the sitter recorded the consistency as firm and healthy. This follows the Oct 3 evening report of slightly loose stool, so the loose stool did not continue.",
+     "quote": "It was firm and healthy"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Elizabeth Sigler visit report, Oct 4 afternoon",
+     "office": false,
+     "note": "Eddie barked at a much larger dog across the street while in his own front yard on the way back from the Oct 4 afternoon walk. The other dog did not react. One observation only.",
+     "quote": "We were halfway through your front yard when he spotted a much bigger dog across the street and started barking at it"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Elizabeth Sigler visit report, Oct 4 afternoon",
+     "office": false,
+     "note": "Judy was home during the Oct 4 afternoon visit and asked that the door not be locked on the way out. Recorded for this visit only; it is not stated as a standing instruction.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Judy Steele message, Oct 4 2:39 PM",
+     "office": true,
+     "note": "Judy wrote to thank the team and said she hopes to see them next month. The sitter's own Oct 4 report also speaks of the weekend as finished. No dates are given anywhere in the mail, so whether anything is on the books after today is not settled here - office to check the schedule.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Oct 3",
      "source": "Elizabeth Sigler visit report for Judy Steele, Oct 3 evening",
      "office": false,
@@ -2571,21 +2611,21 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts visit report",
+     "date": "Oct 4",
+     "source": "Michelle Carrara visit report, Oct 4 afternoon",
      "office": false,
-     "note": "Ripley barked and refused the collar; each further attempt made her more skittish and she kept her distance, so Tiarra set the collar and leash down and let her out into the fenced back yard to go #1 twice. One visit only - not yet a standing rule.",
-     "quote": "Ripley did bark and refused the collar"
+     "note": "Oct 4 afternoon walk: Ripley was hesitant about having her leash put on and it took longer than normal, though she was happy once outside. They did the usual route down the road but did not get as far as they normally do. Single-visit observation, not a standing rule.",
+     "quote": "Ripley was a bit hesitant today while I was trying to get her leash on."
     },
     {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
      "date": "Oct 3",
-     "source": "Monica Hopewell visit report, 2:37 PM",
+     "source": "Tiarra Roberts visit report",
      "office": false,
-     "note": "Third day running that Ripley has reacted on leash to another dog. On the 2:05 PM walk she pulled hard down the hill, then a dog came out partway down the second cul-de-sac and she reacted and whined; the sitter turned around and headed back. Sitter rates it less intense than her reaction to Archie. Otherwise a clean visit - went both #1 and #2, firm stool, water refreshed, treat given, entered and left through the garage door.",
-     "quote": "not as reactive as she is with Archie but she definitely was let me play reactive and whining"
+     "note": "Ripley barked and refused the collar; each further attempt made her more skittish and she kept her distance, so Tiarra set the collar and leash down and let her out into the fenced back yard to go #1 twice. One visit only - not yet a standing rule.",
+     "quote": "Ripley did bark and refused the collar"
     }
    ],
    "dormant": false
