@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-03T12:20:11-04:00",
- "date": "2026-10-03",
- "label": "Oct 3, 2026",
+ "generated": "2026-10-04T00:05:10-04:00",
+ "date": "2026-10-04",
+ "label": "Oct 4, 2026",
  "clients": [
   {
    "name": "Anna Marie LeMaster",
@@ -12,30 +12,6 @@
      "staff": "Renee Dougherty",
      "service": "Cat Visit-30 Minutes",
      "pets": "Sampson"
-    }
-   ]
-  },
-  {
-   "name": "Beth Nickel",
-   "visits": [
-    {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Kristin Ashick",
-     "service": "Dog Visit-30 minute",
-     "pets": "Louie, Lanie"
-    }
-   ]
-  },
-  {
-   "name": "Brandon Keyes",
-   "visits": [
-    {
-     "time": "1:45 PM",
-     "sort": "1345",
-     "staff": "Elizabeth Cuffari",
-     "service": "Dog Visit-60 minute",
-     "pets": "Flacko"
     }
    ]
   },
@@ -76,37 +52,18 @@
    "name": "Judy Steele",
    "visits": [
     {
-     "time": "9:15 AM",
-     "sort": "0915",
-     "staff": "Elizabeth Sigler",
-     "service": "Dog Visit-30 minute",
-     "pets": "Eddie"
-    },
-    {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Elizabeth Cuffari",
-     "service": "Dog Visit-30 minute",
-     "pets": "Eddie"
-    },
-    {
-     "time": "6:00 PM",
-     "sort": "1800",
-     "staff": "Elizabeth Sigler",
-     "service": "Dog Visit-30 minute",
-     "pets": "Eddie"
-    }
-   ]
-  },
-  {
-   "name": "Kari Majewski",
-   "visits": [
-    {
      "time": "9:00 AM",
      "sort": "0900",
-     "staff": "Margaret Bill",
-     "service": "Cat Visit-60 Minute",
-     "pets": "Miguel"
+     "staff": "Elizabeth Sigler",
+     "service": "Dog Visit-30 minute",
+     "pets": "Eddie"
+    },
+    {
+     "time": "1:30 PM",
+     "sort": "1330",
+     "staff": "Elizabeth Sigler",
+     "service": "Dog Visit-30 minute",
+     "pets": "Eddie"
     }
    ]
   },
@@ -116,7 +73,7 @@
     {
      "time": "1:00 PM",
      "sort": "1300",
-     "staff": "Dan Dantimo",
+     "staff": "Shannon  Anderson",
      "service": "Trainer Visit-30minute",
      "pets": "Holly"
     },
@@ -133,8 +90,8 @@
    "name": "Mary Ann Mckeever",
    "visits": [
     {
-     "time": "10:00 PM",
-     "sort": "2200",
+     "time": "8:00 PM",
+     "sort": "2000",
      "staff": "Tiarra Roberts",
      "service": "Dog Visit-20 minute",
      "pets": "Georgie"
@@ -142,45 +99,21 @@
    ]
   },
   {
-   "name": "Mary Gilmore",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Renee Dougherty",
-     "service": "Dog Visit-30 minute",
-     "pets": "Puck, Rusty"
-    }
-   ]
-  },
-  {
    "name": "Matt Konn",
    "visits": [
     {
-     "time": "8:00 AM",
-     "sort": "0800",
-     "staff": "Tiarra Roberts",
+     "time": "8:30 AM",
+     "sort": "0830",
+     "staff": "Kristin Ashick",
      "service": "Dog Visit-30 minute",
      "pets": "Ripley"
     },
     {
      "time": "2:00 PM",
      "sort": "1400",
-     "staff": "Monica Hopewell",
+     "staff": "Michelle Carrara",
      "service": "Dog Visit-30 minute",
      "pets": "Ripley"
-    }
-   ]
-  },
-  {
-   "name": "Michael & Kelly Smith",
-   "visits": [
-    {
-     "time": "9:00 AM",
-     "sort": "0900",
-     "staff": "Tiarra Roberts",
-     "service": "Cat Visit-30 Minutes",
-     "pets": "Beau-ba, Pepa, White Kitty Boy, Pickles, Toby"
     }
    ]
   },
@@ -188,37 +121,18 @@
    "name": "Nicole Smith",
    "visits": [
     {
-     "time": "7:30 AM",
-     "sort": "0730",
-     "staff": "Kiara Streety",
-     "service": "Dog Visit-30 minute",
-     "pets": "Bear, Zoey"
-    },
-    {
-     "time": "3:00 PM",
-     "sort": "1500",
+     "time": "9:00 AM",
+     "sort": "0900",
      "staff": "Reese Rath",
      "service": "Long Range Visit-30 Minute",
      "pets": "Bear, Zoey"
     },
     {
-     "time": "8:45 PM",
-     "sort": "2045",
-     "staff": "Kiara Streety",
-     "service": "Dog Visit- 20 Minute (Fenced in Yard Only-No Feeding)",
+     "time": "2:00 PM",
+     "sort": "1400",
+     "staff": "Reese Rath",
+     "service": "Reassigned Visit-30 minute",
      "pets": "Bear, Zoey"
-    }
-   ]
-  },
-  {
-   "name": "Stephanie Sarrocco",
-   "visits": [
-    {
-     "time": "9:30 AM",
-     "sort": "0930",
-     "staff": "Tiarra Roberts",
-     "service": "Cat Visit-30 Minutes",
-     "pets": "Theodore Roosevelt McCabe-Sarrocco, Franklin Roosevelt McCabe-Sarrocco"
     }
    ]
   },
@@ -226,8 +140,8 @@
    "name": "Vicki Davey",
    "visits": [
     {
-     "time": "10:30 AM",
-     "sort": "1030",
+     "time": "9:00 AM",
+     "sort": "0900",
      "staff": "Harvett Ellington",
      "service": "Cat Visit-45 minute",
      "pets": "3 indoor cats, 6 outdoor cats"
@@ -242,5 +156,5 @@
    ]
   }
  ],
- "visitCount": 24
+ "visitCount": 16
 }
