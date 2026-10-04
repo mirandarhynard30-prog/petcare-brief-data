@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T13:20:05-04:00",
+ "generated": "2026-10-04T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -253,6 +253,16 @@
      "quote": "You have to go through a main door to get to my unit."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Client private message 1:22 PM",
+     "office": true,
+     "note": "At 1:22 PM the client set the meet and greet time at 5:30. The date is still not settled in the mail - she had said Oct 7 or Oct 8 should work but has not named one, and the Oct 7 midday visit is already cancelled until the meet and greet has happened. The office needs to pick the date, confirm 5:30 back to her and put it in Time To Pet. She also sent the street address of the new apartment in this message; it is in Time To Pet and is deliberately not repeated here.",
+     "quote": "Lets do 5:30 to be safe!"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -331,16 +341,6 @@
      "office": true,
      "note": "Client says she cancelled tomorrow's (Wed Sep 30) afternoon visit herself in Time To Pet. A portal Service Change Requested notice followed at 4:22 PM. Office should confirm the Sep 30 afternoon visit is off the schedule.",
      "quote": "I just cancelled tomorrows afternoon visit."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Mary Gilmore private message, Sep 29 4:52 PM",
-     "office": true,
-     "note": "Client wrote this at 4:52 PM. It is ambiguous against the Sep 29 note that the house is packed up and the dogs will not be there from Thursday - unclear whether Thursday visits are on, or whether she means seeing the team socially. Office should confirm Thursday Oct 1 coverage with the client directly.",
-     "quote": "i look forward to seeing everyone thursday!"
     }
    ],
    "dormant": false
