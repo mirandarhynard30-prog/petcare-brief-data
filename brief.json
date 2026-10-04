@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T21:20:05-04:00",
+ "generated": "2026-10-04T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2360,6 +2360,26 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 4",
+     "source": "Visit report, Shannon Anderson (with Noella Assi), Oct 4 morning",
+     "office": false,
+     "note": "Oct 4 morning visit: Ginger met the sitters with protective barking and was still barking as her breakfast was being put down, so for safety they crated her until the bowl was on the floor, then opened the crate and she ate. One visit, not a standing instruction.",
+     "quote": "She was barking as I put her food down so for safety, we put her in her crate"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Visit report, Shannon Anderson, Oct 4 morning",
+     "office": false,
+     "note": "Same visit: after eating and treats Ginger moved closer on the couch and rolled onto her side, but began grumbling when the sitter gently touched her, and the sitter stopped. She accepted proximity and treats; petting was not welcome.",
+     "quote": "I gently touched her until she started grumbling so I stopped"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 3",
      "source": "Shannon Anderson visit report, 7:47 AM",
      "office": false,
@@ -2824,6 +2844,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Client message, Oct 4 8:04am",
+     "office": true,
+     "note": "Client wrote this morning questioning the visit time. The sitter (Harvett Ellington) had messaged at 6:39am that she would arrive between 8:50 and 8:55am; the client says the schedule she checked on Friday showed 10:00 today. Office should check what the Oct 4 schedule actually holds for her.",
+     "quote": "When did your time change you were scheduled for 10:00 today when I checked the schedule on Friday"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -2844,14 +2874,14 @@
      "quote": "please read the top of the cans cause some things have changed to help Trudy’s situation"
     },
     {
-     "cat": "home",
-     "sev": "high",
+     "cat": "schedule",
+     "sev": "medium",
      "type": "recent",
-     "date": "Sep 12",
-     "source": "Client message 10:03am",
-     "office": false,
-     "note": "Client asked the sitter mid-morning to shut the upstairs cat-room windows and the green bedroom window before heavy rain, and to message her if there is a problem.",
-     "quote": "could u please shut the windows and the one in the green bedroom I just saw the weather"
+     "date": "Oct 4",
+     "source": "Client message, Oct 4 8:06am",
+     "office": true,
+     "note": "The sitter offered to come at 10:00am instead and the client accepted, saying that is what she arranged with Trudy on Friday. Today's visit is settled at 10:00am between client and sitter, but the booked time in Time To Pet may still be wrong and the Friday arrangement with Trudy does not appear to have reached the schedule.",
+     "quote": "Yes please thats what I told Trudy on Friday"
     },
     {
      "cat": "home",
@@ -2932,16 +2962,6 @@
      "office": false,
      "note": "The client sent an entry instruction for today's visit in a short morning message. The detail is deliberately not recorded here - open her Sep 13 message in Time To Pet before arriving.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Elizabeth Sigler visit report 10:55am",
-     "office": false,
-     "note": "Resolves this morning's request - the windows Vicki asked to have shut were closed before the sitters left. Report also notes the outside cats were fed and watered ahead of the rain and all litter boxes (porch, basement, upstairs) scooped.",
-     "quote": "closed the windows that had been left open"
     }
    ],
    "dormant": false
@@ -4381,26 +4401,6 @@
      "office": false,
      "note": "Older uncollected waste is sitting in the back yard - the sitter and Roo nearly stepped in it on the Sep 19 visit. Thomas says he will scan the yard and pick up after letting the dogs back in from now on. Both dogs' stool on this visit was firm and healthy.",
      "quote": "Roo and I almost stepped in some previous no.#2"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Krysten Whitesel private message",
-     "office": true,
-     "note": "Krysten asked at 1:00pm whether Tom is available for their 9/19 visit. A follow-up five minutes later reads as though she got an answer, but the 9/19 sitter assignment should be confirmed in the schedule.",
-     "quote": "We were wondering if Tom would be available for our visit on 9/19?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Krysten Whitesel private message",
-     "office": false,
-     "note": "For the 9/19 visit Krysten wants an afternoon snack given plus the normal potty and play routine.",
-     "quote": "We will ask him to give an afternoon snack and do the normal potty/play."
     }
    ],
    "dormant": false
@@ -5068,16 +5068,6 @@
      "office": false,
      "note": "Kitchen sink light rule now written down: on for the PM visit, off at the AM visit. The old note said only to leave it on.",
      "quote": "Leave kitchen light on above sink for PM visit and turn off at AM visit"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Tiarra Roberts visit report 9:33am",
-     "office": false,
-     "note": "P used the box for both #1 and #2 at the Sep 12 morning visit after neither the day before. Ate her wet food right away, purring throughout. One treat given.",
-     "quote": "She went #1 and #2, which I'm happy about because I was a little worried from yesterday"
     },
     {
      "cat": "home",
@@ -5987,26 +5977,6 @@
      "source": "Chelsea Tompkins evening visit report, Sep 13",
      "office": true,
      "note": "The Sep 13 evening report covers wet food for Bella, topping off Chloe's dry food, water, litter box scooping and treat puzzles, but makes no mention of Chloe's medicine or Phos-bind. This is the second consecutive evening report with no medication entry. The report does not say whether an evening dose was due, so the office should confirm the actual drug, dose and schedule rather than assume it was skipped or not required.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Renee Dougherty visit report 9:45am",
-     "office": true,
-     "note": "Chloe was given her medicine at the Sep 12 morning visit and took it. The report does not name the medication, so this email does not confirm whether it was the Phos-bind missed on Sep 11.",
-     "quote": "We gave Chloe her medicine and she took it."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 12",
-     "source": "Chelsea Tompkins visit report, Sep 12 evening",
-     "office": true,
-     "note": "The Sep 12 evening report covers mail, wet food for Bella, dry food and water for Chloe and treat puzzles, but makes no mention of Chloe's medicine or Phos-bind. Whether an evening dose was expected is not stated anywhere - the office should confirm the dosing schedule rather than assume it was skipped or not due.",
      "quote": ""
     },
     {
@@ -7034,6 +7004,16 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Visit report, Kiara Streety, Oct 3 evening",
+     "office": false,
+     "note": "Oct 3 evening visit: both Bear and Zoey went #1, and no #2 was recorded for either dog. Single visit observation, no other symptoms reported; they finished food left on the plate from the earlier visit and water was refreshed.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "standing",
      "date": "Oct 2",
      "source": "Kiara Streety visit report",
@@ -7072,6 +7052,26 @@
      "quote": "We heard something in them tress and both pups immediately came back inside"
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Visit report, Kiara Streety, Oct 3 evening",
+     "office": true,
+     "note": "The Oct 3 evening report says the dogs were leashed and a mask was put on before going outside. It is not clear from the email what this refers to - a muzzle, a head halter, or the sitter's own face mask - and no such instruction appears elsewhere. Worth confirming with the sitter before another sitter follows it.",
+     "quote": "Gave them love, leashed up, mask on and went outside"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Visit report, Kiara Streety, Oct 3 evening",
+     "office": true,
+     "note": "The sitter closed her Oct 3 evening report by wishing the client a safe trip home, which reads as the client travelling back. Nothing was said by the client and no visit was cancelled; worth checking whether the remaining visits still stand.",
+     "quote": "Have a safe travel back home!"
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "standing",
@@ -7100,36 +7100,6 @@
      "office": false,
      "note": "Vet of record added for Zoey: Avon Animal Hospital, 37160 Detroit Rd, Avon, OH 44011, (440) 934-6516. Client entered this herself on Oct 1; it had been blank. Confirms her two dogs are named Bear and Zoey.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Jade Popovitz visit report, Oct 1 1:16 PM",
-     "office": false,
-     "note": "Oct 1 midday visit, reported by Jade Popovitz after Drew Walker handed the report over. Coming in from the yard, Bear and Zoey both stopped below the steps and had to be coaxed back up to the house.",
-     "quote": "they stared at us from below until we went back down to encourage them"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Faith Collins visit report, Oct 1 8:19 PM",
-     "office": false,
-     "note": "Oct 1 evening visit: both dogs urinated but neither passed stool. Single observation, no other symptoms reported; food was topped off with wet food and both ate straight away.",
-     "quote": "neither dog went number two both went number one"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Faith Collins post-visit message, Sep 30 9:01 PM",
-     "office": true,
-     "note": "New client - the Sep 30 evening slot was a meet-and-greet, and Faith Collins, Kiara Streety and Reese Rath all met Nicole and the dogs. Faith signed off saying she promises to wear socks next time, which reads like a shoes-off / socks-in-the-house preference, but nothing in the email is a client instruction and the preference is not confirmed. Office should check what Nicole actually asked for and get it into the Pet Care Note before the first real visit. Email does not name the dogs.",
-     "quote": "Again, I promise to where socks"
     }
    ],
    "dormant": false
