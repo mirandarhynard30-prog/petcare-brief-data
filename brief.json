@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T19:20:05-04:00",
+ "generated": "2026-10-03T20:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2377,6 +2377,16 @@
      "quote": "Ginger was on guard when we walked in."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Renee Dougherty visit report, Oct 3 evening",
+     "office": false,
+     "note": "Oct 3 evening visit by Renee Dougherty, who was shadowing. Ginger was nervous, barked at her and showed her teeth before settling; treats brought her round and she lay down calmly by the end of the visit. She went #1 and #2 (firm, healthy), ate her dry food and drank. This is the first report that mentions her showing teeth - the two morning reports today described barking and being guarded only. A new face appears to be the trigger, but that is an inference, not something the sitter states.",
+     "quote": "Ginger was very nervous and barking at me. She showed her teeth and it took a little while to settle down."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -4747,6 +4757,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Client message, Oct 3 7:32 PM",
+     "office": true,
+     "note": "Client says they are in their new house in West Virginia and will be there for good soon; no date given. The sitter wrote in the same thread that she will miss Miguel when he goes to live in West Virginia. Reads as the service winding down once Miguel moves, but neither message says when, so the office should confirm the end date rather than assume one.",
+     "quote": "We are doing great in our new house in WV!"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -5793,9 +5813,31 @@
    "url": "https://www.timetopet.com/dashboard/client/tf5d38zkOThk",
    "pets": [
     "Mr Crowley",
-    "Miss Ashley"
+    "Miss Ashley",
+    "Mr Crowley (Bubby)",
+    "Miss Ashley (Sweet Pea)"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts Company Notes update, Oct 3 7:20 PM",
+     "office": true,
+     "note": "Company Notes were rewritten twice within a minute at 7:20 PM and the second pass deleted the two lines that tell a sitter which cat behaves how - that Bubby is a climber and that Sweet Pea is the one more likely to hide. The general line saying both cats are shy and may hide in the office, behind the bookshelf or under the couch is still there. Worth restoring; this is the fourth Sharon Maresco retype since Sep 17 to drop a real instruction.",
+     "quote": "Bubby is a climber"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts Company Notes update, Oct 3 7:20 PM",
+     "office": true,
+     "note": "The first of the two 7:20 PM Company Notes passes removed the whole Entry Instructions section (the garage line and the front door lockbox line) - entry detail now sits only in the Address access field, which was edited at the same time. The same pass dropped the dry food brand, leaving only 'Extra dry food in kitchen pantry', removed 'Toys may be left out for cats', and removed the named favorite hiding spots (office behind the books, under the office couch). Codes themselves are deliberately not recorded here.",
+     "quote": "Toys may be left out for cats"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -7305,6 +7347,16 @@
      "office": false,
      "note": "Sitter noted Pickles made no sound while he was trapped, which is why searching the house on earlier visits did not turn him up.",
      "quote": "Aww, the poor boy! He wasn't meowing or anything"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 3",
+     "source": "Client message, Oct 3 7:42 PM",
+     "office": false,
+     "note": "Follow-up from the clients after Pickles was freed from the living room furnace vent: he could move about inside the vent but could not get out, and he is unhurt and back with their daughter. No vet visit mentioned. This closes out the run of no-sighting items.",
+     "quote": "He's totally fine now and snuggling with our daughter."
     }
    ],
    "dormant": false
