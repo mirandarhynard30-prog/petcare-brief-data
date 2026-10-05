@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T17:20:06-04:00",
+ "generated": "2026-10-05T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2103,6 +2103,26 @@
      "quote": "6:30 6:00 too early for insulin. I give him food first."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Client message 5:50pm",
+     "office": false,
+     "note": "For tonight's 6:30pm visit the client says she will put the food, and the insulin injection, in the laundry room at 6:15 and will be waiting at 6:30. She still does not name which cat or the dose.",
+     "quote": "I will put the food in laundry room at 6:15. Also the insulin injection. Waiting for you at 6:30."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Client message 5:51pm",
+     "office": false,
+     "note": "Escape risk at the door tonight: the client says she will hold onto him until the sitter is inside. She does not say which animal.",
+     "quote": "I will hold onto him till you get in door."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2126,6 +2146,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 5",
+     "source": "Client message 5:53pm",
+     "office": false,
+     "note": "Door plan for tonight: the client will leave the inside door slightly closed so he does not see the sitter until the storm door is opened. Arrival is at the back door.",
+     "quote": "I will let inside door slightly closed so he doesn't see you till you open storm door."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 14",
      "source": "Marcella Singer (client message, 6:01pm)",
      "office": false,
@@ -2141,6 +2171,16 @@
      "office": false,
      "note": "For tonight's visit only, Marcella says she will leave the front door open and the sitter should walk straight in rather than knock or wait. She is home during the visit.",
      "quote": "I will open front door. So come in."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Client message 6:00pm",
+     "office": false,
+     "note": "Client added that Sandy might be with him at the door. Ambiguous - Sandy is not one of the pets on file (Buttercup, Simba) and she does not say who 'him' is.",
+     "quote": "Sandy might be with him."
     },
     {
      "cat": "schedule",
@@ -7207,6 +7247,36 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Thomas Rakovec visit report 5:50pm",
+     "office": false,
+     "note": "At the 4:56pm visit both dogs ran from the sitter and would not eat until he took them upstairs and put the food on the bed. Sasha stayed wary about 20 minutes; he stopped chasing her, sat down and let her come to him, then she was fine and walked to the beach. One sitter, one visit - not yet a standing rule.",
+     "quote": "I just sat down and she came to me"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 5",
+     "source": "Client message 5:54pm",
+     "office": false,
+     "note": "Owner says Calvin takes his cue from Sasha, so if Sasha balks Calvin will too. She also said the dogs could afford to miss a meal.",
+     "quote": "Calvin’s problem is that he feeds off Sasha’s attitude!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Client message 5:54pm",
+     "office": true,
+     "note": "Client hopes the same sitter is back on Thursday now that Sasha has warmed up to him. A sitter-assignment preference, not a change to the visits.",
+     "quote": "Hopefully you will be back on Thursday and Sasha will be better."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Oct 2",
      "source": "Client message 12:48 PM",
@@ -7223,6 +7293,26 @@
      "office": true,
      "note": "Client says her Monday Oct 5 request went in without feeding instructions, and asks that feeding be as close to 5:00 PM as possible. Needs adding to that visit.",
      "quote": "Please feed them as close to 5:00 pm as you can."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 5",
+     "source": "Client message 6:00pm",
+     "office": false,
+     "note": "Owner describes Sasha as very smart and inclined to try to trick people.",
+     "quote": "Sasha is a very smart dog but she often uses her intelligence to try to trick us!"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 5",
+     "source": "Client message 6:10pm",
+     "office": false,
+     "note": "Owner says she has cameras around the house that she can check.",
+     "quote": "I have cameras around the house that I can check if I want to."
     }
    ],
    "dormant": false
@@ -7396,6 +7486,16 @@
      "office": true,
      "note": "Client wrote in at 4:52pm asking for confirmation that his visits are on the schedule. He does not say which dates he means, so the office needs to check his upcoming booking and reply. No response had been sent as of this sweep.",
      "quote": "hi, just wanted to make sure everything’s scheduled OK!"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Client message 5:50pm",
+     "office": false,
+     "note": "Client wrote at 5:50pm that there will be workers in the house doing electrical work. He does not say which days or hours, so a sitter may find contractors inside and doors open - watch the pets at the door.",
+     "quote": "there will be workers in the house doing electrical work fyi"
     }
    ],
    "dormant": false
