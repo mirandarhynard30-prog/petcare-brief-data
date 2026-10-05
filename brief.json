@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T08:20:05-04:00",
+ "generated": "2026-10-05T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1143,6 +1143,16 @@
      "office": false,
      "note": "Riggs must not be unclipped in the fenced area until it has been checked for animals, as the care note records he is reactive to wildlife.",
      "quote": "Please check for animals in the fenced in area before releasing him off the leash, he is triggered by other animals."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Barbara Turoczy (7:49 PM)",
+     "office": true,
+     "note": "Company Notes rewritten at 7:49 PM. The potty routine survives intact - leash Riggs inside, walk to the fenced area, check for small critters by the deck before unclipping, sticky gate latch. Still missing from the full new text are the two things deleted on Sep 26: the Behavior Notes warning that Riggs is reactive to wildlife (so the critter check now appears without its reason) and the instruction to close and lock both garage doors and replace the key. A week on, neither has come back.",
+     "quote": "Once inside the fenced area, CHECK FOR SMALL CRITTERS BY DECK, you may unclip the leash, afterwards"
     },
     {
      "cat": "home",
@@ -6362,6 +6372,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Nicole Zammit (8:45 PM)",
+     "office": true,
+     "note": "Company Notes retyped again at 8:45 PM and the full new text still carries no Backyard & Safety section - no rule that the mastiffs must never be left outside on their own and nothing about keeping the dogs off the fence line. Those lines were deleted on Sep 26 and are now absent from a third rewrite. The only outside rule left in writing is to bring Hamilton in if the mastiffs start playing. Office should decide whether the deleted safety text is being restored.",
+     "quote": "If the mastiffs begin playing outside, bring Hamilton inside, because they can play too rough."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 29",
      "source": "Time To Pet record update by Tiarra Roberts, 7:03am",
      "office": true,
@@ -6467,16 +6487,6 @@
      "office": false,
      "note": "Outside rules: if the mastiffs start playing, bring Hamilton inside because they play too rough for him. The mastiffs must not be outside unattended, and do not let them bark at the fence, which runs right along the sidewalk.",
      "quote": "The mastiffs shouldn't be outside unattended and don't let them bark at the fence as it goes right to the sidewalk."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Client private message, Sep 17 12:39pm",
-     "office": true,
-     "note": "Entry arrangements for next week's visits are still unsettled. The relative who will be at the house while she is away has not yet decided whether he will let the sitter in each day or whether sitters should enter on their own. The client says she will send a final plan on Sunday, so the sitter instructions for Mon-Wed cannot be finalised before then.",
-     "quote": "I'll send a final plan over Sunday of what he decides."
     }
    ],
    "dormant": false
