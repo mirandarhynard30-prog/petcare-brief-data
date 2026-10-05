@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T11:20:08-04:00",
+ "generated": "2026-10-05T12:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -439,6 +439,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 5",
+     "source": "Thomas Rakovec visit report 12:03pm",
+     "office": true,
+     "note": "Report covers Stella, Berry and Emma but has no section for Louie, so it does not say whether he went out. Noted only because refusals are logged Sep 17, 29, 30.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 2",
      "source": "Thomas Rakovec visit report 1:05 PM",
      "office": false,
@@ -464,16 +474,6 @@
      "source": "Thomas Rakovec visit report, Sep 30 late morning",
      "note": "Louie again did not want to go outside on the Sep 30 visit while the other dogs went out and came back in. At least the third such refusal logged this month. Emma's eye drops were given and Berry's diaper was put back on.",
      "quote": "arrived and let everyone out, Louie didn't feel like it today"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 30",
-     "source": "Client message, 1:06 PM",
-     "office": false,
-     "note": "Following the vet's advice to cut Louie's treats back, the client says she splits the tiny soft treats for him and he does fine that way. Give split tiny soft treats rather than whole ones. She adds that he drops treats he does not like out of his mouth.",
-     "quote": "I’ve been splitting the tiny soft ones for him and he does ok with that"
     }
    ],
    "dormant": false
@@ -1712,6 +1712,16 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Oct 5",
+     "source": "Kiara Streety visit report 11:31am",
+     "office": false,
+     "note": "Bismark walked to the corner today, went #1, then wanted home. One visit only; the standing no-walk note still holds.",
+     "quote": "he was ready to go back home after that"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Sep 25",
      "source": "Kiara Streety visit report",
      "office": false,
@@ -2083,6 +2093,16 @@
      "quote": "Would like to watch how you give the cat insulin."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Client msg 11:16am",
+     "office": false,
+     "note": "Insulin timing for today: 6:00 too early, 6:30 instead, food before insulin. She does not say which cat or any dose.",
+     "quote": "6:30 6:00 too early for insulin. I give him food first."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2091,6 +2111,16 @@
      "office": false,
      "note": "An earlier arrival than scheduled was offered for today's visit so the insulin could be watched, and the reply was agreement. Logged at 11:13am and 11:15am Eastern; no specific new time is given in the mail.",
      "quote": "That would be fine"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Client msg 11:16am",
+     "office": false,
+     "note": "For today's earlier visit she asks for the back door. Said once, about today only.",
+     "quote": "I think coming to back door will be best."
     },
     {
      "cat": "behavior",
