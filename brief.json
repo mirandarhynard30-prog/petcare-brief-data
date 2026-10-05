@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T15:20:05-04:00",
+ "generated": "2026-10-04T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2417,6 +2417,36 @@
      "quote": "I gently touched her until she started grumbling so I stopped"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Client message, 7:59 PM Eastern",
+     "office": true,
+     "note": "Derek wrote at 7:59 PM saying he will be home later tonight. No time given and nothing asked to be cancelled; office should check any visit scheduled after his return.",
+     "quote": "Thank you! I will be home later tonight."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Visit report, Renee Dougherty, 7:58 PM Eastern",
+     "office": false,
+     "note": "Renee Dougherty's report on the Oct 4 night visit: she brought treats, Ginger was calm on arrival, no barking, 'a lot calmer this time'. On Oct 3 Ginger barked at her and showed teeth.",
+     "quote": "When we arrived, Ginger was calm as I had treats with me"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 4",
+     "source": "Visit report, Noella Assi, 8:14 PM Eastern",
+     "office": false,
+     "note": "Noella Assi's separate report on the same Oct 4 night visit, Renee shadowing again. Renee ran the routine; couch petting was from Noella only. Garbage put out.",
+     "quote": "She was very good, she did not bark at Renee."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2475,26 +2505,6 @@
      "office": false,
      "note": "Derek wrote back that the short notice was no problem. He does not say what it refers to, but in context it reads as the 7:15 AM visit he cancelled at 6:25 AM this morning. No action requested of us.",
      "quote": "No problem, I know it was last minute."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Noella Assi visit report",
-     "office": false,
-     "note": "Sep 19 visit: sitter entered using the door keypad code held in Time To Pet, collected the mail on the way in and left it on the kitchen table. Ginger ate all her breakfast and her stool was firm.",
-     "quote": "I entered with a door key code"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Noella Assi visit report, Sep 19 evening visit",
-     "office": false,
-     "note": "Sep 19 evening visit (Noella Assi): outside time was spent in the fenced-in back yard rather than on a walk. Ginger went #1 on the first trip out, then #2 on a second trip after dinner; consistency logged firm and healthy. Mail was brought in and left with the earlier mail on the kitchen table.",
-     "quote": "There was plenty of time after her dinner so we went back outside for a bit, she went number two then"
     }
    ],
    "dormant": false
@@ -2618,14 +2628,14 @@
      "quote": "Ripley was a bit hesitant today while I was trying to get her leash on."
     },
     {
-     "cat": "behavior",
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts visit report",
+     "date": "Oct 4",
+     "source": "Client message, 7:22 PM Eastern",
      "office": false,
-     "note": "Ripley barked and refused the collar; each further attempt made her more skittish and she kept her distance, so Tiarra set the collar and leash down and let her out into the fenced back yard to go #1 twice. One visit only - not yet a standing rule.",
-     "quote": "Ripley did bark and refused the collar"
+     "note": "Matt says he replaced the battery on the garage keypad that the Oct 3 and Oct 4 reports called dead. He does not say he tested it.",
+     "quote": "I replaced the battery on the garage pad"
     }
    ],
    "dormant": false
