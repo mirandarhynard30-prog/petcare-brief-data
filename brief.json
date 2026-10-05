@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T16:20:06-04:00",
+ "generated": "2026-10-05T17:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7378,6 +7378,24 @@
      "office": false,
      "note": "Follow-up from the clients after Pickles was freed from the living room furnace vent: he could move about inside the vent but could not get out, and he is unhurt and back with their daughter. No vet visit mentioned. This closes out the run of no-sighting items.",
      "quote": "He's totally fine now and snuggling with our daughter."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Chuck Garrett",
+   "url": "https://www.timetopet.com/dashboard/client/tfazu31avjA8",
+   "pets": [],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Client message, Oct 5 4:52pm",
+     "office": true,
+     "note": "Client wrote in at 4:52pm asking for confirmation that his visits are on the schedule. He does not say which dates he means, so the office needs to check his upcoming booking and reply. No response had been sent as of this sweep.",
+     "quote": "hi, just wanted to make sure everything’s scheduled OK!"
     }
    ],
    "dormant": false
