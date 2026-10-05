@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T09:20:06-04:00",
+ "generated": "2026-10-05T11:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -491,6 +491,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 5",
+     "source": "Chelsea Tompkins visit report, Oct 5 morning walk",
+     "office": true,
+     "note": "Gordy's stool logged loose again on the Oct 5 morning walk - Chelsea Tompkins ticked the a-little-loose-but-not-concerning box. He went #2 three times on the walk and #1 a number of times. The brief already carries loose readings for Gordy on Sep 24, Sep 28, Sep 29 and Sep 30, so this is another one; the report itself says nothing about a vet.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 4",
      "source": "Renee Dougherty message to client, Oct 4 9:00am",
      "office": true,
@@ -596,16 +606,6 @@
      "office": false,
      "note": "Client's instruction after the missed dose: stop using pill pockets for Sampson. Her 9:43am message reads as quoted and she corrected it a minute later with a single word, 'Wouldn't', so the intent is that she would NOT try the pill pocket any more. Use the wet-food method instead.",
      "quote": "I think if I were you, I would try the pill pocket anymore."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Kathy Pastor visit report 10:23am",
-     "office": true,
-     "note": "SUPPLY: Kathy's full Sep 25 morning visit report says she went through about five pills getting one into Sampson and there are now no half pills left in the house. Whoever covers the next dose has nothing pre-split to work with. Needs an office call to the client today.",
-     "quote": "I tried so many pills that there are no more half pills left."
     }
    ],
    "dormant": false
@@ -973,6 +973,16 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Harvett Ellington visit report, Oct 5 around 10am",
+     "office": false,
+     "note": "Chloe's stool on the Oct 5 morning walk was ticked firm and healthy. She went both #1 and #2 on a long walk and the report records no wheezing or any other problem.",
+     "quote": "It was firm and healthy"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -1020,16 +1030,6 @@
      "source": "Elizabeth Sigler visit report, 2:47 PM",
      "office": false,
      "note": "On the Sep 30 afternoon visit the home-security field was logged as the client being home during the visit and asking that the door not be locked on the way out. Quote deliberately left empty - that field text is a canned dropdown option that other clients logged the same day, and the de-duplication key would silently drop one of them.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Kiara Streety 10:26am visit report Sep 29",
-     "office": false,
-     "note": "Chloe's stool loose again on the Sep 29 morning walk - Kiara Streety ticked a little loose but not concerning. That makes three loose or runny readings this month alongside the Sep 24 and Sep 26 entries already in the brief. Walk itself was normal, usual route, she went #1 and #2.",
      "quote": ""
     }
    ],
@@ -1860,6 +1860,16 @@
      "quote": "nova comes straight back when called, but astra will bolt"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Michelle Carrara visit report, Oct 5 10:05am walk",
+     "office": false,
+     "note": "On the Oct 5 walk Astra passed several other dogs and people with no reaction - the sitter says she was only curious and observed them. She marked a lot of spots, slowed down on the way back, and was not keen on being photographed. One walk only, so this is not a change to the standing escape-risk and startle handling the brief already carries.",
+     "quote": "she was just curious and observed them. No other reaction."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -1938,16 +1948,6 @@
      "office": false,
      "note": "Aug 26 profile rewrite adds a walking route rule: stay inside the Spyglass Hill development instead of 130th Street. Relevant given the Aug 19 report that Astra got out.",
      "quote": "Walk inside the Spyglass Hill housing development, much quieter streets than 130th Street"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 17",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "The client is home and hands the leash over at the front door, the doorbell does not work so knock, and only one dog is walked at a time.",
-     "quote": "Client will be home, leash hand off at the front door."
     }
    ],
    "dormant": false
@@ -2072,6 +2072,26 @@
     "Simba"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 5",
+     "source": "Robin Lewis / Marcella Singer text thread, Oct 5 morning",
+     "office": true,
+     "note": "One of the cats at this client is on INSULIN. This is the first mention of insulin anywhere in the notifications for Marcella Singer - no insulin instruction is carried in the brief and no pet is named in the message, so which cat (Buttercup or Simba), the dose and the timing are all unknown from the mail. The exchange is about watching the insulin being given before taking it on. AMBIGUITY: Time To Pet logs both messages as Robin Lewis messaging the client by Text Message only, but the wording reads as if the sitter is asking to come earlier to watch the owner do it; who said which line cannot be settled from the email. Office should confirm the insulin protocol in Time To Pet.",
+     "quote": "Would like to watch how you give the cat insulin."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Robin Lewis / Marcella Singer text thread, Oct 5 11:13-11:15am",
+     "office": false,
+     "note": "An earlier arrival than scheduled was offered for today's visit so the insulin could be watched, and the reply was agreement. Logged at 11:13am and 11:15am Eastern; no specific new time is given in the mail.",
+     "quote": "That would be fine"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
