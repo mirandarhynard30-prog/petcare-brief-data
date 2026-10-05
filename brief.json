@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T15:20:08-04:00",
+ "generated": "2026-10-05T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5281,6 +5281,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 5",
+     "source": "Brittany Lisbon private message to the office, Oct 5",
+     "office": false,
+     "note": "Miley's medication has changed. She is now on Felimazole 2.5 mg for her thyroid - one tiny pink pill in the morning and one in the evening. She is no longer taking the amlodipine blood pressure pill at all. The client updated Miley's Pet Care Note in Time To Pet the same afternoon to the same wording, so the note in the system is current.",
+     "quote": "She now takes Felimazole 2.5 mg twice a day."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -5309,6 +5319,16 @@
      "office": false,
      "note": "Miley gets blood pressure medication - one quarter pill each visit, in a pill pocket. Brittany pre-cuts the pills into quarters. Supplies, medication and the water jug are on the kitchen counter, along with a binder of instructions.",
      "quote": "Miley is usually sleeping on the bed, in the bedroom"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Brittany Lisbon private message to the office, Oct 5",
+     "office": true,
+     "note": "Client says she has requested evening times for her upcoming visit so the second Felimazole pill can be given at night. Office should confirm the evening visit times are on the schedule. She did not name the dates in the message.",
+     "quote": "I just requested the evening times for my upcoming visit."
     },
     {
      "cat": "health",
