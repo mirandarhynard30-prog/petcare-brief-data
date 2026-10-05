@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T12:20:07-04:00",
+ "generated": "2026-10-05T13:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -780,6 +780,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Lucy scooted several times right after going #2 on the walk; the same report rated her stool firm and healthy. First mention of scooting in the mail - watch whether it repeats.",
+     "quote": "After she did number two , she scooted a few times."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -888,16 +898,6 @@
      "office": false,
      "note": "Client wrote to Margaret at 11:54am Sep 28: a collar and a black leash are on the dining room table and those are the ones to use for Lucy. She suggests putting the collar on while Lucy is still in her pen, and says the sitter should have no trouble with her. The message reads as guidance for this visit; it does not say whether it applies to every visit.",
      "quote": "there is a collar and a black leash on the dining room table. That is what you can use for Lucy"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Visit report, Margaret Bill, Sep 28 12:18 PM",
-     "office": false,
-     "note": "Lucy scooted several times indoors before going out. On the walk she went #1 twice and no #2. One observation, not recorded as a pattern.",
-     "quote": "scooted several times while still in the house"
     }
    ],
    "dormant": false
