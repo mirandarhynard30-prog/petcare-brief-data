@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T20:20:05-04:00",
+ "generated": "2026-10-04T23:35:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4655,6 +4655,26 @@
      "quote": "Use cheese if needed to get them inside"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Bill Brock",
+     "office": true,
+     "note": "Company Notes rewritten at 4:14 PM and the water bowls changed. The note previously listed three bowls - kitchen, deck, and upstairs in the dog room. It now lists one in the kitchen and two upstairs in the dog room, so the deck bowl has dropped out. This reverses the Sep 27 change that had added the deck bowl.",
+     "quote": "1 water bowl in kitchen and 2 water bowls upstairs, in dog room"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Bill Brock",
+     "office": true,
+     "note": "The same rewrite deleted the two drying lines from Potty & Outdoor Instructions - that the dogs should be dried before coming inside, and that the towels are by the back door. The muddy-backyard warning stays but the note no longer says what to do about it.",
+     "quote": "Dry dogs before bringing inside"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -4743,26 +4763,6 @@
      "office": false,
      "note": "The backyard can be muddy - dry the dogs with the towels by the back door before bringing them in. Water bowls by the sliding glass door and outside on the deck, plus a bowl and fountain in the upstairs dog bedroom. Leashes hang by the garage door.",
      "quote": "kitchen sink faucet may not work"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 22",
-     "source": "Tiarra Roberts updated Company Notes for Bill Brock",
-     "office": false,
-     "note": "Pee pads are in the upstairs bedroom - replace any that are used or destroyed and put them in the outside trash can in the garage. Poop bags also go in the garage trash can. Trash day is Tuesday morning, cans out Monday night.",
-     "quote": "Trash day: Tuesday morning"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Tiarra Roberts post-visit report, Oct 1 5:41 PM",
-     "office": false,
-     "note": "Tiarra Roberts cleaned up a small indoor potty accident near the couch on the Oct 1 evening visit; before and after pictures are in the report. She wrote 'I believe', so which dog it was is not established.",
-     "quote": "I cleaned up a small potty accident near the couch, I believe."
     }
    ],
    "dormant": false
