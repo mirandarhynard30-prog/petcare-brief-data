@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T23:35:05-04:00",
+ "generated": "2026-10-05T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2212,16 +2212,6 @@
      "office": false,
      "note": "Murphy's stool on the Sep 14 10:30am walk was logged as a little loose but not concerning - first loose-stool note for Murphy. Energy was good for the whole walk and the sitter, who had not seen him for a while, thought he looked slimmer.",
      "quote": "He had good energy throughout the entire walk and looks slimmer to me"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Client message, Sep 13 12:08pm",
-     "office": true,
-     "note": "Charlene agreed to something the office proposed, but what she agreed to is not visible here - the outbound message is not in this mailbox and her reply arrived with no thread context. Someone in the office should check what was asked before treating this as settled.",
-     "quote": "That should be fine. Thank you!"
     }
    ],
    "dormant": false
@@ -3061,16 +3051,6 @@
      "source": "Kathy Pastor visit report",
      "office": false,
      "note": "Bella's stool was slightly loose on the Sep 19 morning walk; sitter did not flag it as concerning. Watch on the next visit.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Renee Dougherty visit report, Sep 13 9:18am",
-     "office": false,
-     "note": "Sep 13 morning walk: Bella went both #1 and #2 and the sitter logged the #2 consistency as a little loose but not concerning. Visit was done by Renee Dougherty shadowing Chelsea Tompkins. Very little else is on file for this client.",
      "quote": "It was a little loose but not concerning"
     }
    ],
@@ -4715,16 +4695,6 @@
      "quote": "Leashes are usually on the island in kitchen"
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Tiarra Roberts evening visit report, Sep 13",
-     "office": true,
-     "note": "Bill arrived home during the Sep 13 evening visit, while the sitter was heading upstairs with the boys at the end of the visit. The report does not say whether any further visits are still scheduled, so the office should confirm whether the remaining sit is still needed.",
-     "quote": "But Bill actually came home just as I was doing that."
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -5100,16 +5070,6 @@
      "quote": "Morning visits between 6am–10am"
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Tiarra Roberts visit report, Sep 13 morning",
-     "office": false,
-     "note": "The sitter states the Sep 13 morning visit is the last visit of this sit, and emptied the litter genie on that basis. Read as the sit ending today and the clients coming home; the client has not confirmed a return in writing, so treat the end date as the sitter's statement rather than a client confirmation.",
-     "quote": "I emptied the litter genie because this is our last visit"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -5158,16 +5118,6 @@
      "office": false,
      "note": "Auto dry feeder and water bowl are now listed in the bar room; they previously said dining room by kitchen. The same edit trimmed 'check and top off dry feeder each visit' to 'check dry feeder each visit' and dropped 'Refresh water each visit'.",
      "quote": "Auto dry feeder in bar room"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Tiarra Roberts visit report, Sep 13 morning",
-     "office": false,
-     "note": "The clock in the bathroom was showing the wrong time at the Sep 13 morning visit. The sitter reset it and thinks the battery may be going. Worth mentioning to the client; nothing for the sitter to do.",
-     "quote": "I was washing my hands in the bathroom sink and noticed the clock was displaying the wrong time."
     }
    ],
    "dormant": false
@@ -5349,36 +5299,6 @@
      "office": true,
      "note": "Sitter did not know how much wet food goes in the small bowl kept in the bedroom and improvised a small spoonful plus juice from the three cans. Miley's medicine was given and went easily. Portion needs writing into the Pet Care Note so the next sitter is not guessing.",
      "quote": "I wasn't sure how much wet cat food to give her in the little bowl"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Client message, Sep 13 8:40am",
-     "office": false,
-     "note": "Client and her husband are away in Red River Gorge, Kentucky. She says they have cellular service at the cabin but expects it to be patchy on the hiking trails, so replies may be delayed while they are gone. She gave no return date in the message.",
-     "quote": "We have cellular at the cabin but I assume the hiking trails will be spotty."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Kristin Ashick visit report, Sep 13 morning",
-     "office": false,
-     "note": "Miley's medication was given successfully at the Sep 13 morning visit and a Churu treat was left for her. Kristin Ashick was being trained by Tiarra Roberts on this visit. The report does not name the medication or the dose.",
-     "quote": "we were successful at giving miley her medicine. We left curro treat for her."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Kristin Ashick visit report, Sep 13 morning",
-     "office": false,
-     "note": "A potty accident was found and cleaned up at the Sep 13 morning visit. The report does not say which cat, what kind of accident, or where in the house, so it cannot be tied to any one animal.",
-     "quote": "I cleaned up a potty accident"
     },
     {
      "cat": "home",
@@ -5972,16 +5892,6 @@
     {
      "cat": "health",
      "sev": "high",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Chelsea Tompkins visit report, Sep 13 morning",
-     "office": true,
-     "note": "Chloe's medicine was given at the Sep 13 morning visit, prepared with a Churu treat and left with her upstairs behind the curtains; the report's medication question is marked Yes. The medicine is still never named in any report, and the Sep 12 evening visit recorded no medication at all, so the actual drug, dose and schedule remain unwritten. Office still needs to confirm with the client whether this is the Phos-bind and whether there is Phos-bind in the house.",
-     "quote": "I then got Chloe medicine ready with the churo. I took that upstairs. Gave it to Chloe she was hiding behind the curtains."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
      "type": "standing",
      "date": "Sep 11",
      "source": "Chelsea Tompkins visit report 9:43am Sep 11",
@@ -6008,26 +5918,6 @@
      "office": false,
      "note": "Chloe did not come to greet the sitter on the Sep 14 evening visit - she was found upstairs lying down behind the curtains. The same report answers 'Was the pets happy to see you?' with 'They were a little shy'.",
      "quote": "I found Chloe laying down behind the curtains."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Chelsea Tompkins evening visit report, Sep 13",
-     "office": false,
-     "note": "Bella vomited at the Sep 13 evening visit - the sitter found hard food thrown up on the floor and cleaned it up, then fed Bella more wet food. This is the first vomiting recorded for Bella in the brief. The report marks no accidents or destruction otherwise and says the girls were a little shy.",
-     "quote": "Bella had throw up some hard food on the floor that I cleaned up."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 13",
-     "source": "Chelsea Tompkins evening visit report, Sep 13",
-     "office": true,
-     "note": "The Sep 13 evening report covers wet food for Bella, topping off Chloe's dry food, water, litter box scooping and treat puzzles, but makes no mention of Chloe's medicine or Phos-bind. This is the second consecutive evening report with no medication entry. The report does not say whether an evening dose was due, so the office should confirm the actual drug, dose and schedule rather than assume it was skipped or not required.",
-     "quote": ""
     },
     {
      "cat": "home",
@@ -6125,6 +6015,16 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 3",
+     "source": "Tiarra Roberts updated contact information for Christine Jenison (8:25 PM)",
+     "office": false,
+     "note": "Christine Jenison's Current Pet Care Note was narrowed at 8:25 PM on Oct 3 and now reads, in capitals, FENCED BACKYARD VISITS ONLY. The previous value was 'Backyard visit ONLY'. That is the only change in the edit; it makes the fenced yard explicit and is the current wording of the standing rule for this client. Quote field left empty because the identical phrase on the same date belongs to another client's note and collides with the de-duplication key.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -6163,16 +6063,6 @@
      "office": false,
      "note": "Landscapers were working at the property during the midday visit. When one entered the backyard both dogs became very upset and anxious, so the sitter cut the yard time short, walked them around the backyard and finished the visit indoors. Neither dog went potty. Louise also took about ten minutes of intermittent barking to settle with this sitter before she wanted attention; Frank was calm throughout.",
      "quote": "they both got very upset and anxious a few minutes later when one of the landscapers entered the backyard"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Elizabeth Cuffari visit report, Sep 16 11:38am",
-     "office": false,
-     "note": "First logged instance of Weezy's left eye actually being bad: the sitter describes it as very red with a lot of dried discharge, and gave the eye drops under the existing standing instruction. Right eye not mentioned.",
-     "quote": "I also gave Weezy some eye drops in her left eye cause it did look very red"
     }
    ],
    "dormant": false
