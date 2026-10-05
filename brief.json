@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T13:20:06-04:00",
+ "generated": "2026-10-05T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6005,6 +6005,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Elizabeth Sigler visit report",
+     "office": true,
+     "note": "Frank was off on the midday visit: wandered the yard as if lost and did not respond when called, brought up a large amount of clear/light-yellow liquid on the patio, then had two runny stools the sitter described as partly black and tar-like. He drank an unusually high amount of water, felt feverish to the sitter, and growled softly when she gently wiped his rear, which she read as possible pain there. Black tarry stool with vomiting is a sign worth a same-day vet call - office should follow up with Christine.",
+     "quote": "parts of his stool appeared to be black and tar like"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -6075,6 +6085,16 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Christine Jenison message",
+     "office": false,
+     "note": "Christine replied that Frank seemed fine this morning and that the family got back last night after about two weeks away, so she wonders if the upset stomach is tied to that. She has not said anything about contacting a vet.",
+     "quote": "We returned last night after being away a couple of weeks"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -6103,26 +6123,6 @@
      "office": false,
      "note": "Sitter reported at 11:36am that the dog treats and the paper towels are getting low. The visit report's pet-supplies-low field was answered Yes.",
      "quote": "it seems the dog treats are getting low. As are the paper towels."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Client message 11:44am",
-     "office": false,
-     "note": "Client replied that the family is away and that the person staying at the house will get paper towels from the basement, and that more treats are in the upper cabinet on the right side of the stove. So someone may be in the house at a visit this week.",
-     "quote": "We are away so we will ask the person staying there to get paper towels from the basement."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Visit report from Elizabeth Sigler, Sep 23 11:20am",
-     "office": false,
-     "note": "Landscapers were working at the property during the midday visit. When one entered the backyard both dogs became very upset and anxious, so the sitter cut the yard time short, walked them around the backyard and finished the visit indoors. Neither dog went potty. Louise also took about ten minutes of intermittent barking to settle with this sitter before she wanted attention; Frank was calm throughout.",
-     "quote": "they both got very upset and anxious a few minutes later when one of the landscapers entered the backyard"
     }
    ],
    "dormant": false
@@ -7170,9 +7170,20 @@
    "name": "Mary Walters",
    "url": "https://www.timetopet.com/dashboard/client/stmumvaHUbQj",
    "pets": [
-    "Calvin"
+    "Calvin",
+    "Sasha"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 5",
+     "source": "Pet record update in Time To Pet",
+     "office": false,
+     "note": "Sasha's vet on file changed from West Park Animal Hospital to Avon Lake Animal Hospital; the address and phone number in Time To Pet were updated at the same time. Use the record in Time To Pet for the current contact details.",
+     "quote": "Updated to: AVON LAKE ANIMAL HOSPITAL"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
