@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T18:20:05-04:00",
+ "generated": "2026-10-05T19:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2153,6 +2153,16 @@
      "quote": "I will let inside door slightly closed so he doesn't see you till you open storm door."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Robin Lewis post-visit report, 7:02pm",
+     "office": false,
+     "note": "At the 6:30pm visit the client was home and showed Robin Lewis how she gives the cat the insulin shot, and Robin says she feels better having watched it. The report still does not name which cat gets insulin or any dose.",
+     "quote": "I feel better now that I’ve watched you give the cat the shot."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2183,24 +2193,14 @@
      "quote": "Sandy might be with him."
     },
     {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Marcella Singer (client message, 6:03pm)",
-     "office": true,
-     "note": "Marcella asked for an ETA for tonight's visit at 6:03pm. Robin Lewis replied at 6:03pm offering to come immediately, and Marcella answered \"Ok\" at 6:04pm, so this reads as settled - but no arrival time was ever put in writing.",
-     "quote": "Let me know ETA."
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
-     "date": "Sep 14",
-     "source": "Robin Lewis evening visit report",
+     "date": "Oct 5",
+     "source": "Robin Lewis post-visit report, 7:02pm",
      "office": false,
-     "note": "At the 6:35pm visit Buttercup was under the bed and Robin brushed him there rather than in the laundry room Marcella had offered to shut him in. The report records the pets as 'a little shy' and the client as home during the visit.",
-     "quote": "At least Buttercup let me brush him under the bed"
+     "note": "Post-visit report for the 6:30pm visit: the cats warmed up over the course of the visit rather than right away, no accidents or destruction in the home, no pet supplies low, and the client was home so the sitter did not secure the home.",
+     "quote": "They warmed up over the course of our visit"
     }
    ],
    "dormant": false
