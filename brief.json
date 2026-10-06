@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T10:20:06-04:00",
+ "generated": "2026-10-06T11:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3330,6 +3330,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 6",
+     "source": "Lynne Reno message, Oct 6 10:39am",
+     "office": true,
+     "note": "Lynne revised her 8:06am walk request. She now says that if nobody can come the family will be back by 7:30, and that 6:30 works if someone can come today. She asked for confirmation in capitals. It is not stated whether the 4:00 walk she asked for earlier still stands.",
+     "quote": "If no one can come we should be back by 7:30. 6:30 is fine if she can come today."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 4",
      "source": "Client message via Time To Pet, Oct 4 10:04am",
      "office": true,
@@ -3345,6 +3355,16 @@
      "office": true,
      "note": "Access rule rewritten this afternoon. Company Notes now say the client will be home and Holly is handed off on leash at the front door; the Access Instructions say the garage is to be used ONLY if the client is not home. The previous wording, which said she would notify us and sitters would enter through the front door, is gone. This does not answer Dan Dantimo's 1:03 PM question about whether to leave the door open when sitters leave, so that is still open. Entry code is in Time To Pet and is deliberately not repeated here.",
      "quote": "Client will be home; leash hand-off at front door"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Shannon Anderson message to Lynne Reno, Oct 6 10:40am",
+     "office": true,
+     "note": "A sitter replied one minute after Lynne's revised request, but the reply names no time, so which walk is being confirmed is not clear from the message.",
+     "quote": "No worries Lynne. I'll be there"
     },
     {
      "cat": "home",
@@ -3415,26 +3435,6 @@
      "office": true,
      "note": "Client replied at 3:33 PM to a private message from Miranda, accepting one of two options she was offered. The two options are not in this mailbox - the outgoing message is not here - so it is not known what she agreed to or which visit or date it concerns. Needs checking in Time To Pet before anything is scheduled on the strength of it.",
      "quote": "One or the other will work for me"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Dan Dantimo message to client, Oct 1 5:26 PM; client reply 5:55 PM",
-     "office": false,
-     "note": "Dan Dantimo told the client at 5:26 PM he will be there at six, and she replied 'Thanks' at 5:55 PM. This closes the loop on the two options she agreed to at 3:33 PM. The messages do not say which day the six o'clock visit is for.",
-     "quote": "Hi Lynne, I'll be there at six"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Dan Dantimo post-visit report",
-     "office": false,
-     "note": "Oct 1 evening visit ran and the client was home during it (report records 'Client was home during visit'). Holly got a second walk. Dan tells Lynne he will see her Saturday; the report gives no calendar date, so which Saturday is not established.",
-     "quote": "I will see you Saturday."
     }
    ],
    "dormant": false
