@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T00:06:03-04:00",
+ "generated": "2026-10-06T01:50:26-04:00",
  "date": "2026-10-06",
  "label": "Oct 6, 2026",
  "clients": [
@@ -214,18 +214,6 @@
    ]
   },
   {
-   "name": "Mary Gilmore",
-   "visits": [
-    {
-     "time": "12:30 PM",
-     "sort": "1230",
-     "staff": "Margaret Bill",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "Puck, Rusty"
-    }
-   ]
-  },
-  {
    "name": "Matt Konn",
    "visits": [
     {
@@ -305,5 +293,5 @@
    ]
   }
  ],
- "visitCount": 28
+ "visitCount": 27
 }
