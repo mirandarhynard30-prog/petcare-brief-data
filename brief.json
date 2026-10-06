@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T08:20:06-04:00",
+ "generated": "2026-10-06T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6106,6 +6106,16 @@
      "quote": "Oakley does NOT need to be on the lead unless you guys want."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message",
+     "office": false,
+     "note": "Asked by the sitter on Oct 6 whether Oakley still gets a midday feed, the client confirmed both dogs need feeding at the second visit of the day.",
+     "quote": "Yes bailey and Oakley will need fed at the second visit!"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -6184,16 +6194,6 @@
      "office": false,
      "note": "Client mentions a recent vet trip in passing. No reason, findings, medication or follow-up given, and the pet is not named - worth confirming before assuming it was routine.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Ashley Corall visit report",
-     "office": true,
-     "note": "Sep 15 midday visit: Oakley was reluctant to go to the bathroom on the lead, so Ashley Corall switched her to a regular leash and says she did much better. Ashley asks outright whether Oakley still uses the lead - nobody has answered her and no leash rule is written in Time To Pet. One sitter on one visit, so logged as an open question, not a standing rule.",
-     "quote": "I was wondering if Oakley still used the lead"
     }
    ],
    "dormant": false
@@ -7395,8 +7395,22 @@
   {
    "name": "Chuck Garrett",
    "url": "https://www.timetopet.com/dashboard/client/tfazu31avjA8",
-   "pets": [],
+   "pets": [
+    "Gracie",
+    "Rebel",
+    "Bob"
+   ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Thomas Rakovec visit report",
+     "office": true,
+     "note": "Oct 6 midday report: under the accidents/destruction question the sitter selected that a pet got sick and he cleaned it up, with before and after pictures. The report does NOT say which of the three dogs it was, and the written note does not mention it - office should find out which dog and whether it has happened again.",
+     "quote": "The pet got sick and I cleaned it up (before and after pictures included)"
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -7416,6 +7430,26 @@
      "office": false,
      "note": "Client wrote at 5:50pm that there will be workers in the house doing electrical work. He does not say which days or hours, so a sitter may find contractors inside and doors open - watch the pets at the door.",
      "quote": "there will be workers in the house doing electrical work fyi"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "Electrical work is underway at the house - the sitter names the electrician as Ramon. On the Oct 6 midday visit the dogs were already out in the backyard because of the work, and the sitter left no doors unlocked because the electricians were inside.",
+     "quote": "electricians were working in the house so no doors were unlocked"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "On the Oct 6 midday visit the client was home and asked that the door not be locked. Stated for that visit only; do not assume it holds on other days.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
