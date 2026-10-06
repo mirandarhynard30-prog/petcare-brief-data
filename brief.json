@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T13:20:06-04:00",
+ "generated": "2026-10-06T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2435,6 +2435,16 @@
      "office": false,
      "note": "A sitter confirmed she will watch for lawn-chemical warning signs; the client's original caution is not in this thread.",
      "quote": "I will be aware of the yard chemical signs."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Shannon Anderson visit report, 1:16pm",
+     "office": false,
+     "note": "Oliver wears a diaper indoors - the sitter took it off for his walk and put it back on once home. Seen on this one report, so not confirmed as a standing rule. Daffodil is crated, was let out for her walk and waited in her crate for her treats; she did not want to walk far.",
+     "quote": "Once home, I put his diaper back on"
     }
    ],
    "dormant": false
@@ -2646,6 +2656,16 @@
      "office": false,
      "note": "Matt left for the airport the morning of Sep 17 and sent Ripley's feeding instructions because he did not leave a note at the house. Dry food is in the pantry, bottom left, 2 scoops. Wet food is in the fridge on the middle shelf: Nutra Complete 2 scoops plus roughly a third of a bag of the Farmer's Dog labeled Ripley. Ripley only went #1 before he left. He asks that sitters text him with any questions and says he will have WiFi on the plane; his number is in Time To Pet.",
      "quote": "She will need fed at dinner tonite (2nd visit) and tomorrow morning as well."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Monica Hopewell visit report, 1:13pm",
+     "office": true,
+     "note": "Getting into the garage was still slow on the 12:40pm visit, after the client said he had replaced the dead garage keypad battery but never said he tested it. Ripley was barking inside throughout. Entry worth confirming before the next visit.",
+     "quote": "I took a minute getting into the garage and all I could hear was Ripley barking"
     },
     {
      "cat": "home",
