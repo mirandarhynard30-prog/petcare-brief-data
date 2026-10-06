@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T20:20:11-04:00",
+ "generated": "2026-10-05T21:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1245,6 +1245,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 5",
+     "source": "Tiarra Roberts, 8pm visit report",
+     "office": false,
+     "note": "Evening eyedrop routine confirmed again on the Oct 5 8pm visit: after the walk the sitter took the harness off in the laundry room, helped Mary Ann give Georgie his eyedrops, then gave ice cube treats. Mary Ann is home and does the drops herself with the sitter assisting.",
+     "quote": "I helped Mary Ann with Georgie's eyedrops and rewarded him with"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1353,16 +1363,6 @@
      "office": false,
      "note": "Two toads were sitting on the pavement immediately outside the gate at the start of the Sep 16 PM walk. The sitter steered Georgie away from them and says she stayed on high alert for the rest of the walk. This adds a location to the existing toad warning: the risk starts right at the gate, not further along the route.",
      "quote": "Right out of the gate, we encountered two toads. I encouraged Georgie to leave them."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Tiarra Roberts visit report, Sep 15 evening",
-     "office": false,
-     "note": "Sep 15 evening visit: the sitter again helped Mary Ann give Georgie his pill medicine and his eyedrops after the walk, so the medication routine is still running as of Sep 15. On the Sep 15 morning walk the sitter noted Mary Ann had already done the eyedrops herself earlier that day.",
-     "quote": "I helped Mary Ann give Georgie his medicine"
     }
    ],
    "dormant": false
@@ -7283,6 +7283,46 @@
      "office": true,
      "note": "Client hopes the same sitter is back on Thursday now that Sasha has warmed up to him. A sitter-assignment preference, not a change to the visits.",
      "quote": "Hopefully you will be back on Thursday and Sasha will be better."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Client message 1:19pm",
+     "office": false,
+     "note": "Contractors are in the house: the primary bathroom is being redone upstairs. The owner says the dogs are gated downstairs so they stay away from the workmen. She does not say which days or hours the workmen are there.",
+     "quote": "We are having our primary bath redone but that’s upstairs. They are gated downstairs so they don’t but the workmen."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Client message 1:19pm",
+     "office": true,
+     "note": "Owner set out supplies for this trip: leashes on the stair railing with the poop bags tied onto them, food in the microwave. She said she would go into Time To Pet and update the info herself - worth checking that it actually got entered.",
+     "quote": "the leashes will be on the stair railing. The poop bags will be tied onto leashes."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Client message 1:19pm",
+     "office": false,
+     "note": "Owner is travelling and wrote while about to fly. She expects to have wifi in the air and to be reachable by text. No return date given in the message.",
+     "quote": "I should have wifi on my flight so hopefully can receive texts."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 5",
+     "source": "Client message 8:35pm",
+     "office": true,
+     "note": "The cat Caesar died in April - sudden, fluid in the abdomen, not expected to survive surgery. The owner also refers to his mother as a former pet, so there may be no cat at this home any more, but she does not say that outright. The pet record appears to still show a cat; have the office confirm and update it.",
+     "quote": "Sadly Caesar passed away in April."
     },
     {
      "cat": "behavior",
