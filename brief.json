@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T21:20:07-04:00",
+ "generated": "2026-10-06T08:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1689,16 +1689,6 @@
      "quote": "I tried to pull him a few times he like nope"
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Drew Walker visit report, 12:27pm",
-     "office": false,
-     "note": "Bismark was at the top of the stairs and came down slowly; sitter described him as lazy again today and he would not walk even though it was cooler. Sat outside in the shade instead. No #2 on the visit. Sitter says 'again', so this is at least the second visit like it.",
-     "quote": "He was very slow coming down the stairs and was very lazy again today."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -2164,26 +2154,6 @@
     },
     {
      "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Marcella Singer (client message, 6:01pm)",
-     "office": false,
-     "note": "Marcella confirmed for tonight the laundry-room plan she only floated on Aug 30: she will feed the cats around 6:30 and try to have Buttercup shut in the laundry room ready for the sitter. She adds \"For groomimg.\" in a separate message, so the confinement appears to be for grooming, but she does not say so outright - worth confirming rather than assuming.",
-     "quote": "hopefully keep Buttercup in the laundry room for you"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Marcella Singer (client message, 6:04pm)",
-     "office": false,
-     "note": "For tonight's visit only, Marcella says she will leave the front door open and the sitter should walk straight in rather than knock or wait. She is home during the visit.",
-     "quote": "I will open front door. So come in."
-    },
-    {
-     "cat": "behavior",
      "sev": "low",
      "type": "recent",
      "date": "Oct 5",
@@ -2302,16 +2272,6 @@
      "office": false,
      "note": "Monica says her previous two walks with Murphy wore him out completely, and on Sep 25 she used the main loop Ashley showed her instead. He was in a sniffing mood and needed a lot of encouragement to keep moving. Went both #1 and #2, firm and healthy. Client was home and asked that the door not be locked. The sitter's own assessment of her earlier walks, not a client instruction.",
      "quote": "instead of going crazy and wearing him completely out"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Michelle Carrara visit report 11:04am Sep 14",
-     "office": false,
-     "note": "Murphy's stool on the Sep 14 10:30am walk was logged as a little loose but not concerning - first loose-stool note for Murphy. Energy was good for the whole walk and the sitter, who had not seen him for a while, thought he looked slimmer.",
-     "quote": "He had good energy throughout the entire walk and looks slimmer to me"
     }
    ],
    "dormant": false
@@ -2676,16 +2636,6 @@
      "office": false,
      "note": "Matt left for the airport the morning of Sep 17 and sent Ripley's feeding instructions because he did not leave a note at the house. Dry food is in the pantry, bottom left, 2 scoops. Wet food is in the fridge on the middle shelf: Nutra Complete 2 scoops plus roughly a third of a bag of the Farmer's Dog labeled Ripley. Ripley only went #1 before he left. He asks that sitters text him with any questions and says he will have WiFi on the plane; his number is in Time To Pet.",
      "quote": "She will need fed at dinner tonite (2nd visit) and tomorrow morning as well."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Client private message 12:17pm",
-     "office": true,
-     "note": "Private message to Miranda asking for a call. No subject given and no reply is visible in the mailbox as of Sep 15 morning. He is on today's schedule.",
-     "quote": "Miranda - do u have a few minutes to talk?"
     },
     {
      "cat": "home",
@@ -3360,6 +3310,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message via Time To Pet, Oct 6 8:06am",
+     "office": true,
+     "note": "Client wrote this morning that she will take the dog out at 1:00 and leave at 2:30, and asks whether someone can walk at 4 and 7. This goes beyond her Oct 4 request for a second walker around 4:00pm - the 7:00 walk is new. No reply to her appears in this mailbox and neither walk looks confirmed.",
+     "quote": "I will taker her out at 1:00 and leave at 2:30. Can someone walk her at 4 and 7?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 4",
      "source": "Client message via Time To Pet, Oct 4 10:04am",
      "office": true,
@@ -3465,16 +3425,6 @@
      "office": false,
      "note": "Oct 1 evening visit ran and the client was home during it (report records 'Client was home during visit'). Holly got a second walk. Dan tells Lynne he will see her Saturday; the report gives no calendar date, so which Saturday is not established.",
      "quote": "I will see you Saturday."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Client private message, 12:58 PM",
-     "office": true,
-     "note": "Client sent a private message at 12:58 PM asking whether she should have heard from a walker today. Sitter Julie Smith sent an ETA nine minutes later at 1:07 PM saying she was about 30 minutes out, so the visit does appear to be going ahead - but nobody has actually answered Lynne's question.",
-     "quote": "Haven’t heard from a walker today?"
     }
    ],
    "dormant": false
@@ -3565,16 +3515,6 @@
      "office": false,
      "note": "The outdoor leash rule changed this morning. Company Notes now say the unfenced backyard requires the green leash hanging on the back door; the previous wording allowed a leash or the long lead. Sitters should use the green leash rather than the long lead until told otherwise.",
      "quote": "Backyard is NOT fenced — must use green leash hanging on back door"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Client private message to Miranda, Sep 14 6:11am",
-     "office": true,
-     "note": "Client cancelled Wednesday's visit for Oakley. She wrote 'Wednesday' without a date; in context that is Wed Sep 16. Needs cancelling in Time To Pet and the sitter told.",
-     "quote": "Miranda, we won’t need anyone for Oakley on Wednesday! Thank you!"
     },
     {
      "cat": "behavior",
@@ -3755,16 +3695,6 @@
      "office": false,
      "note": "Ray was home again for the Sep 15 morning walk, had Archie ready and asked that the door not be locked. That is the fourth visit report logging the same thing (Aug 25, Aug 26, Sep 14, Sep 15), so treat it as the normal pattern at this house - but note it is still not written anywhere in Time To Pet. Archie went #1 and #2 and the stool was logged firm and healthy.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Thomas Rakovec visit report, Sep 14 morning walk",
-     "office": false,
-     "note": "Archie's Sep 14 morning walk: Ray was home, had Archie ready at the door and asked that the door not be locked on the way out. That is the third report recording the same thing (Aug 25, Aug 26, Sep 14), so it is looking like the normal arrangement rather than a one-off - but it has not been confirmed as a standing rule. Sitter did not go through the home because the client was there. Archie went #1 and #2 and the stool was logged firm and healthy.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -4246,36 +4176,6 @@
      "office": true,
      "note": "CONFLICT on the Sep 15 afternoon visit. The report's home-security field carries the canned answer \"Client was home during visit/ Client asked not to lock door\", but the client had written at 2:03pm that he and Praveena were away visiting her dad in Strongsville and that he believed the door was unlocked. The sitter's ETA for that visit was 2:05pm. Office should confirm whether the house was left unlocked with nobody home, and whether the form answer was simply mis-selected.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Harvett Ellington visit report, Sep 14 morning",
-     "office": false,
-     "note": "Sitter warns Whiskey is going for rocks. The wording is vague - it does not say whether he picks them up, chews them or swallows them - so treat it as a watch-him-outside warning, not a confirmed ingestion.",
-     "quote": "Be careful he is trying to have a penchant for rocks..."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Jade Popovitz visit report, Sep 14 2:59pm",
-     "office": true,
-     "note": "On the Sep 14 afternoon walk Whiskey stopped on the way back to rest in the grass and catch his breath. The sitter frames it lightly and the walk otherwise went well - they ran a bit and he went #1 - but this is a dog already in his seventh day of soft stool, so a breather mid-walk is worth flagging rather than filing as normal. Same report says he did well not eating anything, which is the other side of the Sep 14 rocks warning. No water or food given; the sitter notes the owner said she had it.",
-     "quote": "On the way back he decided to take a break in the grass and catch his breath."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Client message 8:24am Sep 14",
-     "office": true,
-     "note": "Client and his girlfriend were both home Sep 14 and say their work routines have changed recently, so they are reworking Whiskey's visit schedule. They asked that Sep 14 and Sep 15 stand as booked. No reply from the office is visible in the mailbox.",
-     "quote": "let’s stay the course for today / tomorrow for whiskey’s visits!"
     }
    ],
    "dormant": false
@@ -4308,7 +4208,7 @@
      "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Stephanie Sarrocco",
@@ -4601,26 +4501,6 @@
      "office": false,
      "note": "On Sep 15 the walk started and ended at the Orlando house, NOT at neighbour Greg's - Blackie was left inside the home and his leash put in the laundry room. That is different from Sep 9 and Sep 14, when he was collected from and returned to Greg's. The client was home and asked that the door not be locked. So the neighbour arrangement is not standing; check where Blackie will be before each visit.",
      "quote": "I left him inside and placed his leash in the laundry room"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Shannon Anderson visit report (shadowing Noella Assi), Sep 14 11:34am",
-     "office": false,
-     "note": "On the Sep 14 11am visit Blackie was not picked up from the client's own home - he was waiting at the neighbour's house, and the walk started and ended from there. The report does not say whether this is the usual arrangement or a one-off, so treat it as a single occurrence and ask before assuming it.",
-     "quote": "Blackie was waiting for us at the neighbor's house."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Noella Assi visit report, Sep 14 11:33am",
-     "office": true,
-     "note": "Greg was home during the Sep 14 11am visit, and the household had already walked Blackie about 10:30am, so the sitter's walk was a second outing and she did not go into the home. Worth confirming with the client whether visits are still wanted on days someone is home.",
-     "quote": "Greg mentioned that Blackie went number one and two before we got here."
     }
    ],
    "dormant": false
@@ -5422,16 +5302,6 @@
     },
     {
      "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Monica Hopewell visit report, 12:42pm",
-     "office": true,
-     "note": "Sitter did not know how much wet food goes in the small bowl kept in the bedroom and improvised a small spoonful plus juice from the three cans. Miley's medicine was given and went easily. Portion needs writing into the Pet Care Note so the next sitter is not guessing.",
-     "quote": "I wasn't sure how much wet cat food to give her in the little bowl"
-    },
-    {
-     "cat": "home",
      "sev": "low",
      "type": "recent",
      "date": "Sep 22",
@@ -6060,7 +5930,7 @@
      "quote": "The cleaners came today."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Christine Jenison",
@@ -6218,6 +6088,26 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Oct 6",
+     "source": "Client message via Time To Pet, Oct 6 8:12am",
+     "office": false,
+     "note": "Back door lock has been fixed. The laundry room door can be used as well. Poop bags are kept on top of the dryer.",
+     "quote": "The back door lock is fixed but can always use the laundry room door there are poop bags on top of the dryer if needed!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 6",
+     "source": "Client message via Time To Pet, Oct 6 8:12am",
+     "office": false,
+     "note": "Client says Oakley does not have to be on the lead in the yard, though sitters may use it if they prefer. She says she fixed the lead so it is no longer rusted, and that he cannot get out of the fence because it is netted at the high spots.",
+     "quote": "Oakley does NOT need to be on the lead unless you guys want."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Oct 2",
      "source": "Yasmeen Abrams visit report",
@@ -6304,26 +6194,6 @@
      "office": true,
      "note": "Sep 15 midday visit: Oakley was reluctant to go to the bathroom on the lead, so Ashley Corall switched her to a regular leash and says she did much better. Ashley asks outright whether Oakley still uses the lead - nobody has answered her and no leash rule is written in Time To Pet. One sitter on one visit, so logged as an open question, not a standing rule.",
      "quote": "I was wondering if Oakley still used the lead"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 15",
-     "source": "Client message",
-     "office": false,
-     "note": "Client answered the sitter's question about the lead: Oakley is normally let loose in the fenced yard and is no longer used to the lead. She says the lead may still be easier for sitters because Oakley's recall to come back inside is not good on cooler days, and that treats usually entice him in. Note the sitter refers to Oakley as she and the client as he - the pet's sex is unclear from the emails.",
-     "quote": "So we usually let Oakley off on his own so he isn’t much used to the lead anymore"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Sitter message",
-     "office": true,
-     "note": "Ashley Corall asked the client whether Oakley could wiggle under the fence. No answer from the client on that point yet. Ashley notes the dogs are never left unattended outside. Office should get a yes or no and get it written into Time To Pet.",
-     "quote": "Okay I just sure if Oakley could wiggle under the fence even though we are outside with them all the time"
     }
    ],
    "dormant": false
