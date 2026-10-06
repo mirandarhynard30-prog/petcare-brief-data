@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T19:20:08-04:00",
+ "generated": "2026-10-05T20:20:11-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4833,6 +4833,16 @@
      "office": false,
      "note": "The backyard can be muddy - dry the dogs with the towels by the back door before bringing them in. Water bowls by the sliding glass door and outside on the deck, plus a bowl and fountain in the upstairs dog bedroom. Leashes hang by the garage door.",
      "quote": "kitchen sink faucet may not work"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 5",
+     "source": "Monica Hopewell post-visit report, Oct 5 7:57pm",
+     "office": false,
+     "note": "Oct 5 evening visit: Monica Hopewell fed both dogs part way through the visit and refreshed their water, and the report records Storm and Timber each going #1 and #2 with consistency 'firm and healthy'. Wet and dry food both fed, no accidents, and the supplies question was answered No. This is the first report since the Oct 1 visit where the boys would not eat when first offered, and it does not repeat the slow-eating note. One visit only - not a change to any standing rule.",
+     "quote": "They both went one and two."
     }
    ],
    "dormant": false
