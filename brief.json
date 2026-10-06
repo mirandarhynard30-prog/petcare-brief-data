@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T09:20:05-04:00",
+ "generated": "2026-10-06T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2183,6 +2183,16 @@
     "Macy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Charlene Szunyog message, Oct 6 9:58am",
+     "office": true,
+     "note": "Client wrote at 9:58am asking when a sitter would be there for Murphy - she had not heard from anyone all morning. No reply anywhere in the mailbox. Office needs to give her an arrival time.",
+     "quote": "I haven’t heard from anyone this morning, so wanted to check to see when someone might be here for Murphy!"
+    },
     {
      "cat": "health",
      "sev": "medium",
