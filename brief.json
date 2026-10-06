@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T14:20:06-04:00",
+ "generated": "2026-10-06T15:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -491,6 +491,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message 2:05pm",
+     "office": true,
+     "note": "Three toileting incidents in one stretch on the afternoon of Oct 6, written by the client: Sampson went #2 in the litter box, then a small #2 on the carpet, then urinated on the carpet while she was still cleaning the second one up. Follows his Oct 4 accidents and vomiting. No vet contact for Sampson appears anywhere in the notification mail, and Renee Dougherty's Oct 4 question about whether his pill can be crushed is still unanswered by the client.",
+     "quote": "Sampson went #2 in the litter box again! I cleaned it up."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 5",
      "source": "Chelsea Tompkins visit report, Oct 5 morning walk",
      "office": true,
@@ -596,16 +606,6 @@
      "office": false,
      "note": "Resolution of the missed dose earlier today - Sampson DID get his pill on the Sep 25 morning visit. Kathy opened a new can of wet food, put the pill in it and set some churu next to it on a plate; she watched him eat it, and he stopped eating once he realised, so he had tasted it.",
      "quote": "put the pill in there put some churro next to it on a plate and he finally ate it!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 25",
-     "source": "Client message 9:43am Sep 25",
-     "office": false,
-     "note": "Client's instruction after the missed dose: stop using pill pockets for Sampson. Her 9:43am message reads as quoted and she corrected it a minute later with a single word, 'Wouldn't', so the intent is that she would NOT try the pill pocket any more. Use the wet-food method instead.",
-     "quote": "I think if I were you, I would try the pill pocket anymore."
     }
    ],
    "dormant": false
@@ -2196,6 +2196,16 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message 2:46pm",
+     "office": true,
+     "note": "Client reports Murphy got into an entire large pizza and gained 4 lbs. She does not say when the pizza happened or whether a vet was called, and she names no symptoms. Relevant to the standing weight-loss goal already on this account (Company Notes say weight loss, 20 pounds in the old General Information field). Worth confirming with her whether the 4 lbs is a weigh-in figure or an estimate.",
+     "quote": "He got into an entire large pizza and gained 4 lbs! He needs to work it off!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "standing",
      "date": "Sep 26",
      "source": "Time To Pet record edit by Tiarra Roberts",
@@ -2254,6 +2264,26 @@
      "quote": "Macy can be dog reactive (barking and pulling)"
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 6",
+     "source": "Client message 2:46pm",
+     "office": false,
+     "note": "Client endorses longer walks for Murphy, responding to Monica Hopewell taking him further than usual. Sits alongside the existing care-note instruction to keep him moving rather than stopping to sniff. Stated once, on Oct 6, so treat as her preference rather than a written note until it is entered in Time To Pet.",
+     "quote": "It’s good for him to go further!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message 2:46pm",
+     "office": false,
+     "note": "Closes out her 9:58am question about when a sitter would arrive for Murphy. The visit went ahead with Monica Hopewell and the client thanked her at 2:46pm, so no reply from the office is outstanding on that question any more.",
+     "quote": "See you next time!"
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -2272,16 +2302,6 @@
      "office": true,
      "note": "Charlene agreed at 10:20 AM to something the office proposed, but the outbound message is not in this mailbox so what she accepted is not visible here. Same gap as the Sep 13 agreement already on file.",
      "quote": "Works for me! Have a great weekend!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Monica Hopewell visit report, Sep 25 9:58am",
-     "office": false,
-     "note": "Monica says her previous two walks with Murphy wore him out completely, and on Sep 25 she used the main loop Ashley showed her instead. He was in a sniffing mood and needed a lot of encouragement to keep moving. Went both #1 and #2, firm and healthy. Client was home and asked that the door not be locked. The sitter's own assessment of her earlier walks, not a client instruction.",
-     "quote": "instead of going crazy and wearing him completely out"
     }
    ],
    "dormant": false
