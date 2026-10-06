@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T18:20:05-04:00",
+ "generated": "2026-10-06T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3447,6 +3447,26 @@
      "quote": "I will be back tomorrow at 1:45."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Shannon Anderson visit report, 6:52pm",
+     "office": true,
+     "note": "Tonight's evening visit was covered. Shannon Anderson texted at 5:39pm that she would arrive in about 25 minutes and filed a full report at 6:52pm: Holly walked the usual route and went #1, water bowl refreshed, no accidents, no supplies low. She entered and left through the garage, closed it behind her, locked the front door and left a light on. The report does not say which of the requested evening walk times this visit was, so the 6:30 / 7:00 question in the client's own messages is still not matched to a scheduled slot in writing.",
+     "quote": "I made sure the front door was locked before leaving through the garage."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 6",
+     "source": "Shannon Anderson visit report, 6:52pm",
+     "office": true,
+     "note": "There is a cat in the house that is not on the pet record. Tonight's sitter was greeted by a cat in the kitchen on arrival and stopped to give it head scratches; the Time To Pet pet list for this client shows only Holly. Nothing in the mail says whether the cat needs feeding, water, litter or medication, or whether it is simply present. Office should confirm and add it to the record so the next sitter is not surprised.",
+     "quote": "I was greeted by the kitty in the kitchen while Holly laid in the living room watching me"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3455,26 +3475,6 @@
      "office": false,
      "note": "Client is out at the funeral home this afternoon and asked that Holly simply be dropped off when the walk is done; she says the door is open. One-off for today only - this is not a standing access rule.",
      "quote": "I have to go to the funeral home so please just drop her off when you are done. Door open."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Dan Dantimo message to client, 1:03 PM Oct 3",
-     "office": true,
-     "note": "At 1:03 PM Dan Dantimo, on site with Tiarra, asked the client whether to leave the door open when they leave. No reply from the client is recorded. Her 12:31 PM message covered the drop-off but did not address leaving. Needs an answer.",
-     "quote": "I'm here with Tiarra, do you want me to leave the door open when we leave"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts updated contact information for Lynne  Reno (3:46 PM)",
-     "office": false,
-     "note": "Standing handling rule, now re-saved in capitals in the Current Pet Care Note (wording unchanged): Holly is hesitant with men and takes a while to warm up. Ignore her until she is comfortable with you. First time this has reached the brief.",
-     "quote": "HESITANT WITH MALES-WILL TAKE A LITTLE BIT TO WARM UP TO INITIALLY"
     }
    ],
    "dormant": false
