@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T01:50:26-04:00",
+ "generated": "2026-10-06T08:50:23-04:00",
  "date": "2026-10-06",
  "label": "Oct 6, 2026",
  "clients": [
@@ -179,13 +179,6 @@
    "name": "Lynne  Reno",
    "visits": [
     {
-     "time": "1:30 PM",
-     "sort": "1330",
-     "staff": "Shannon  Anderson",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "Holly"
-    },
-    {
      "time": "4:30 PM",
      "sort": "1630",
      "staff": "Julie Smith",
@@ -293,5 +286,5 @@
    ]
   }
  ],
- "visitCount": 27
+ "visitCount": 26
 }
