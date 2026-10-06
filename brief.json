@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T16:20:06-04:00",
+ "generated": "2026-10-06T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3430,6 +3430,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 6",
+     "source": "Julie Smith visit report 4:57 PM",
+     "office": false,
+     "note": "On arrival for the Oct 6 afternoon visit the front door was unlocked, so the sitter entered that way. She locked the front door on leaving and exited through the garage, closing it fully. One observation, not a standing rule.",
+     "quote": "I came through the front door because it was unlocked"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Julie Smith visit report 4:57 PM",
+     "office": true,
+     "note": "Closing out today: the 4:30 afternoon walk did happen - Julie Smith filed a full report at 4:57 PM, Holly walked, ate and had fresh water, no accidents, supplies fine. In the same message the sitter tells the client she will be back tomorrow at 1:45. That is the first time named for Oct 7 and it does not match the 1:00 the client asked about this morning, so the office should confirm which is right.",
+     "quote": "I will be back tomorrow at 1:45."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 3",
      "source": "Client message, 12:31 PM Oct 3",
      "office": false,
@@ -3455,26 +3475,6 @@
      "office": false,
      "note": "Standing handling rule, now re-saved in capitals in the Current Pet Care Note (wording unchanged): Holly is hesitant with men and takes a while to warm up. Ignore her until she is comfortable with you. First time this has reached the brief.",
      "quote": "HESITANT WITH MALES-WILL TAKE A LITTLE BIT TO WARM UP TO INITIALLY"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts updated contact information for Lynne  Reno (3:46 PM)",
-     "office": false,
-     "note": "There is a cat in the house. Take care going in and out so it does not get past you.",
-     "quote": "Client has a cat, be careful when entering/exiting"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 2",
-     "source": "Julie Smith visit report, 1:37 PM",
-     "office": false,
-     "note": "The client's husband has died. The sitter opened today's report with condolences and we are helping with Holly's walks. The client has been home during visits and asks that the door not be locked.",
-     "quote": "how so sorry I am for the loss of your husband"
     }
    ],
    "dormant": false
