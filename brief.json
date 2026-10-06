@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T12:20:06-04:00",
+ "generated": "2026-10-06T13:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5965,6 +5965,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Elizabeth Cuffari visit report, Oct 6 12:28pm",
+     "office": true,
+     "note": "Window installers were at the house and had left the back gate open when the sitter took the dogs out; she caught it immediately and no dog got out. Sitter asked that the office/client give sitters a heads-up when other workers are at the house, or tell workers not to open the gate because of the dogs.",
+     "quote": "thankfully I saw it right away, but they had left the gate open"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -6048,6 +6058,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 6",
+     "source": "Elizabeth Cuffari visit report, Oct 6 12:28pm",
+     "office": false,
+     "note": "On the Oct 6 midday visit Frank showed no issues: both dogs went #1, no #2 this visit, no accidents in the home. Sitter had read the previous day's report before the visit.",
+     "quote": "Frank seems great today, no issues."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 5",
      "source": "Christine Jenison message",
      "office": false,
@@ -6063,26 +6083,6 @@
      "office": false,
      "note": "Christine Jenison's Current Pet Care Note was narrowed at 8:25 PM on Oct 3 and now reads, in capitals, FENCED BACKYARD VISITS ONLY. The previous value was 'Backyard visit ONLY'. That is the only change in the edit; it makes the fenced yard explicit and is the current wording of the standing rule for this client. Quote field left empty because the identical phrase on the same date belongs to another client's note and collides with the de-duplication key.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Tiarra Roberts message 12:58 PM",
-     "office": true,
-     "note": "Sitter says that driving away she may have gone onto the grass beside the driveway, and that it could also have been the exterminator's vehicle. She saw it only in passing, so which vehicle it was is not established.",
-     "quote": "I may have went a little on the grass next to the driveway."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Elizabeth Sigler visit report 11:36am",
-     "office": false,
-     "note": "Sitter reported at 11:36am that the dog treats and the paper towels are getting low. The visit report's pet-supplies-low field was answered Yes.",
-     "quote": "it seems the dog treats are getting low. As are the paper towels."
     }
    ],
    "dormant": false
