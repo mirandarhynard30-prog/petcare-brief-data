@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T15:20:07-04:00",
+ "generated": "2026-10-06T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6105,24 +6105,24 @@
      "quote": "Frank seems great today, no issues."
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Christine Jenison message",
-     "office": false,
-     "note": "Christine replied that Frank seemed fine this morning and that the family got back last night after about two weeks away, so she wonders if the upset stomach is tied to that. She has not said anything about contacting a vet.",
-     "quote": "We returned last night after being away a couple of weeks"
-    },
-    {
-     "cat": "behavior",
+     "cat": "home",
      "sev": "medium",
      "type": "standing",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts updated contact information for Christine Jenison (8:25 PM)",
+     "date": "Oct 6",
+     "source": "Client message 3:25pm",
      "office": false,
-     "note": "Christine Jenison's Current Pet Care Note was narrowed at 8:25 PM on Oct 3 and now reads, in capitals, FENCED BACKYARD VISITS ONLY. The previous value was 'Backyard visit ONLY'. That is the only change in the edit; it makes the fenced yard explicit and is the current wording of the standing rule for this client. Quote field left empty because the identical phrase on the same date belongs to another client's note and collides with the de-duplication key.",
-     "quote": ""
+     "note": "Client answered the open back-gate question in her own words: she forgot the window installers were coming today, and gave the recurring outside crews so sitters can expect people on the property - lawn service usually Wednesdays though sporadic in the fall, cleaners every other Thursday. Gate must be checked before letting Louise and Frank out whenever a crew may be on site.",
+     "quote": "Our lawn guy typically comes on Wednesday but can be sporadic in the fall."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message 3:25pm",
+     "office": true,
+     "note": "Client floats dropping the visit on the cleaners' Thursday but does not know whether the cleaners come this week or next, and names no date to skip. Office needs to pin down which Thursday before anything is cancelled.",
+     "quote": "Our cleaning people come every other Thursday- I am not sure if they are this week or next."
     }
    ],
    "dormant": false
