@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T11:20:06-04:00",
+ "generated": "2026-10-06T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -439,6 +439,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 6",
+     "source": "Thomas Rakovec visit report 11:57am",
+     "office": false,
+     "note": "First report in a while that accounts for Louie: he went outside with the rest and logged a #1. No #2 recorded for him and the note says nothing about his leg or hip. Stella and Berry both firm and healthy, Emma had her eye drops, Berry in a new diaper.",
+     "quote": "Hey Liz, arrived at the house hot everyone out including Louie."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 5",
      "source": "Thomas Rakovec visit report 12:03pm",
      "office": true,
@@ -464,16 +474,6 @@
      "office": false,
      "note": "Emma gets eye drops at the visit - the Oct 1 report lists them in the narrative and answers 'Was medication administered?' Yes under Emma. This is the first time eye drops for Emma appear in the mail; whether they are a standing every-visit instruction or only for this period is not stated anywhere in the email.",
      "quote": "Emma's eye drops"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "office": false,
-     "source": "Thomas Rakovec visit report, Sep 30 late morning",
-     "note": "Louie again did not want to go outside on the Sep 30 visit while the other dogs went out and came back in. At least the third such refusal logged this month. Emma's eye drops were given and Berry's diaper was put back on.",
-     "quote": "arrived and let everyone out, Louie didn't feel like it today"
     }
    ],
    "dormant": false
@@ -3156,6 +3156,16 @@
      "quote": "I forgot Milo and Archer have dental visits this morning, so you guys won’t need to come out today!"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message 12:00pm",
+     "office": false,
+     "note": "Sitter found Archer shut in a bedroom and asked whether to put him back; client said yes, he is meant to be there, and also asked that Milo go back in his crate. Cleaners are in the house today, which is the reason given.",
+     "quote": "Also please put Milo back in the crate so he doesn’t bother the cleaners!"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3234,16 +3244,6 @@
      "office": false,
      "note": "Cleaners are in the house today. Archer is shut in the upstairs bedroom again - look for him there on arrival. The message does not say which bedroom; on Sep 16 it was the far right room upstairs.",
      "quote": "Archer is in the upstairs bedroom again"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Jade Popovitz visit report",
-     "office": false,
-     "note": "Jade Popovitz reported Milo reacted to two dogs across the street on the walk - she got him to fully sit and relax while the second dog passed, but he was riled up for the first. Archer walked fine, quick full loop. Milo went to his crate after the walk; Archer's final treats were given only after Milo was secured because Milo kept trying to steal them. One visit, not a standing rule.",
-     "quote": "He walked mostly well but he was tested 2 times with dogs that were across the street."
     }
    ],
    "dormant": false
@@ -3340,6 +3340,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message 11:34am",
+     "office": true,
+     "note": "Latest word on the afternoon walk time is a 11:34am text reading 4:30. It does not say which walk it sets - at 8:06am she asked for walks at 4 and 7, at 10:39am she asked for 6:30 and wrote PleSE CONFIRM, and no reply in this mailbox names a time back to her. Office still needs to tell her in writing which walks are happening and when.",
+     "quote": "4;30. I guess."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 4",
      "source": "Client message via Time To Pet, Oct 4 10:04am",
      "office": true,
@@ -3365,6 +3375,16 @@
      "office": true,
      "note": "A sitter replied one minute after Lynne's revised request, but the reply names no time, so which walk is being confirmed is not clear from the message.",
      "quote": "No worries Lynne. I'll be there"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message 11:32am",
+     "office": false,
+     "note": "For today's visit she is leaving the dog's food out on the kitchen counter and asks the sitter to simply put it down.",
+     "quote": "I’ll leave food in kitchen. Just put it down for her. Thanks."
     },
     {
      "cat": "home",
@@ -3415,26 +3435,6 @@
      "office": false,
      "note": "The client's husband has died. The sitter opened today's report with condolences and we are helping with Holly's walks. The client has been home during visits and asks that the door not be locked.",
      "quote": "how so sorry I am for the loss of your husband"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Julie Smith visit report, 1:37 PM",
-     "office": false,
-     "note": "A dog barked from a car driving by and Holly perked up with a hop in her step; the sitter read it as wanting to chase the car. Holly also pulled a bit toward the end of the walk.",
-     "quote": "I think she wanted to chase down the car."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Lynne Reno private message 3:33 PM",
-     "office": true,
-     "note": "Client replied at 3:33 PM to a private message from Miranda, accepting one of two options she was offered. The two options are not in this mailbox - the outgoing message is not here - so it is not known what she agreed to or which visit or date it concerns. Needs checking in Time To Pet before anything is scheduled on the strength of it.",
-     "quote": "One or the other will work for me"
     }
    ],
    "dormant": false
@@ -4866,6 +4866,16 @@
     "Lily"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message 11:36am",
+     "office": false,
+     "note": "Sitter reached the house and could not get in. Client opened the garage remotely, apologised and said she would tell her sister - so the house being locked up appears to come from someone else in the household, and access may not be reliable on future visits.",
+     "quote": "It’s unlocked. I just opened garage. I’m sorry. I’ll let my sister know."
+    },
     {
      "cat": "health",
      "sev": "medium",
@@ -6655,6 +6665,16 @@
    "url": "https://www.timetopet.com/dashboard/client/t7fnymq07A1G",
    "pets": [],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message 11:22am",
+     "office": true,
+     "note": "Client is asking whether the business can cover Friday evening or anytime Saturday or Sunday. She sent it twice within a minute, once as a private message. No answer appears in this mailbox - needs a reply from the office.",
+     "quote": "Can you do Friday evening or anytime Saturday or Sunday?"
+    },
     {
      "cat": "schedule",
      "sev": "medium",
