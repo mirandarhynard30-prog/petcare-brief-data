@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T17:20:05-04:00",
+ "generated": "2026-10-06T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6176,6 +6176,16 @@
      "quote": "Yes bailey and Oakley will need fed at the second visit!"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message 5:34pm",
+     "office": false,
+     "note": "For this evening's visit the client said Oakley can be left out of his crate when the sitter leaves, because she expected to be home shortly afterwards. This is for the Oct 6 evening visit only - it is not a standing change to crating.",
+     "quote": "You guys can probably just leave Oakley out of his crate when you leave cause I’ll be home probs shortly after you leave!"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -6244,16 +6254,6 @@
      "office": false,
      "note": "Client says the missing harness was left on the dryer after a vet trip. The message says only \"her\"; the harness the sitter could not find on the 12:08 visit was Bailey's. Walking on the collar was fine.",
      "quote": "I left it on the dryer after we took her to the vet."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client message (Lauren White)",
-     "office": false,
-     "note": "Client mentions a recent vet trip in passing. No reason, findings, medication or follow-up given, and the pet is not named - worth confirming before assuming it was routine.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -7123,6 +7123,16 @@
     "Doughty"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Client message 5:49pm",
+     "office": true,
+     "note": "Kim replied to a confirmation saying she will be present. The mail does not say which appointment or date was confirmed - most likely the meet-and-greet she accepted on Oct 4, but that is not stated, so the date still needs reading off Time To Pet.",
+     "quote": "Thank you for the confirmation. I will be here"
+    },
     {
      "cat": "schedule",
      "sev": "medium",
