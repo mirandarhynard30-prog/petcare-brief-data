@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T21:20:05-04:00",
+ "generated": "2026-10-07T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -79,16 +79,6 @@
      "office": false,
      "note": "Client re-edited Livvie's AM medication instructions three times between 5:10pm and 5:13pm. Current text: 1 and a 1/2 PrednisOLONE cut with the BLUE pill cutter in the cat drawer - this replaces the earlier 'purple pill cutter' wording from the 10:34am version. The Gabapentin line was also changed to 0.4 mls kept in the refrigerator next to the canned food. Use the latest profile text, not any printed copy.",
      "quote": "Use blue pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Client private message 5:09pm",
-     "office": true,
-     "note": "Client says the concern is Livvie's Gabapentin in particular, and asks that Tiarra shadow Noella on AM visits so the client can work with both of them. Livvie's meds are AM-only, so PM-only shadowing cannot teach them. Office to arrange the AM shadowing.",
-     "quote": "I think Noella may still be a little uncomfortable with Livvies AM meds"
     },
     {
      "cat": "health",
@@ -955,16 +945,6 @@
     {
      "cat": "health",
      "sev": "high",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Drew Walker visit report, Sep 15 1:56pm",
-     "office": true,
-     "note": "Sep 15 afternoon walk was cut short again because Chloe kept wheezing; the sitter ended it early as a precaution and sat with her back at the house. This is the fourth short or interrupted walk in five days (Sep 11 hacking and wheezing, two short walks Sep 14, now Sep 15) and the first time a sitter has stopped a walk for it. She went #1 a few times, no #2. Worth a call to the client.",
-     "quote": "On the walk she kept weezing so I ended it a bit early to stay on the cautious side"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
      "type": "standing",
      "date": "Aug 31",
      "source": "Client message from Melody Siska, Aug 31 5:00 pm",
@@ -1677,16 +1657,6 @@
      "office": false,
      "note": "Bismark would not come down from the top of the stairs until the sitter acted like he was leaving. On the walk he got just past the driveway, laid down and would not go further, so they went back inside because of bugs. No #2 on this visit.",
      "quote": "he laid down and refused to go any further"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Kiara Streety visit report, Sep 15 morning",
-     "office": true,
-     "note": "Sep 15 morning visit: Bismark came downstairs happily and was leashed, but once outside the gate he sat down and would not walk. The sitter tried to pull him along a few times, gave up, and they sat inside the gate instead; no walk took place. This is the second day running that a sitter has reported him slow or unwilling to move, after the Sep 14 report of him coming down the stairs very slowly. No cause is stated in either report - worth raising with the client rather than assuming.",
-     "quote": "I tried to pull him a few times he like nope"
     },
     {
      "cat": "behavior",
@@ -3617,16 +3587,6 @@
      "quote": "No worries at all, I got it all refilled!"
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Tiarra Roberts visit report and follow-up message, Sep 15 12:16pm and 1:18pm",
-     "office": true,
-     "note": "Both the paper towels and Oakley's poop bags ran out at the Sep 15 midday visit and the sitter could not find replacements for either. She said afterwards she did not know where either is kept. Needs the storage location written into the Pet Care Note, and someone to confirm whether the client is restocking.",
-     "quote": "The paper towels were out and I could not find any replacements."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -3865,16 +3825,6 @@
      "office": false,
      "note": "Guinness went a small amount of #2 on the Sep 16 evening walk and Dan again logged the consistency as a little loose but not concerning. Same reading as Sep 4, 11, 14 and 15 - a run of loose stool now spanning about two weeks.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Dan Dantimo evening visit report, Sep 15",
-     "office": false,
-     "note": "Sep 15 evening walk: Guinness went #1 and a small #2, and Dan again logged the consistency as a little loose but not concerning. That continues the same not-concerning loose reading logged on Sep 4, Sep 8, Sep 11 and Sep 14 - no sitter has yet flagged it as a change, but the run is now long enough that the office may want to mention it to the client.",
-     "quote": "He did go number one and a small number two on our walk."
     }
    ],
    "dormant": false
@@ -4206,26 +4156,6 @@
      "office": true,
      "note": "Follow-up to his 8:01am request. He confirms the standing ask: two visits a day, Monday through Sunday, at the normal times. The weekend is the softer part - he says he is in town and not working and can cover Saturday and Sunday himself if we cannot fit them, but would prefer we take them. No reply from the office is visible in the mailbox as of 9:10am Sep 17.",
      "quote": "Yes please, Monday to Sunday two visits at our normal times!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Client message, Sep 15 2:03pm",
-     "office": true,
-     "note": "Client wrote at 2:03pm that he and Praveena are away visiting her dad in Strongsville, so nobody is home for the rest of today's visits. He added an entry note that he qualified himself with 'I believe' - that detail is in Time To Pet and is deliberately not repeated here. Entry should be treated as unconfirmed and checked with the office before arrival.",
-     "quote": "Praveena and I are visiting her dad in Strongsville"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Drew Walker Sep 15 afternoon visit report vs client message 2:03pm",
-     "office": true,
-     "note": "CONFLICT on the Sep 15 afternoon visit. The report's home-security field carries the canned answer \"Client was home during visit/ Client asked not to lock door\", but the client had written at 2:03pm that he and Praveena were away visiting her dad in Strongsville and that he believed the door was unlocked. The sitter's ETA for that visit was 2:05pm. Office should confirm whether the house was left unlocked with nobody home, and whether the form answer was simply mis-selected.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -4541,16 +4471,6 @@
      "office": false,
      "note": "The Sep 17 report records the client at home and asks that the door not be locked. This comes from the report's canned home-security answer, so whether it is a standing instruction or applied only to this visit is not clear. Blackie was again collected at neighbour Greg's and Greg had to call him in from his nap.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 15",
-     "source": "Noella Assi visit report",
-     "office": false,
-     "note": "On Sep 15 the walk started and ended at the Orlando house, NOT at neighbour Greg's - Blackie was left inside the home and his leash put in the laundry room. That is different from Sep 9 and Sep 14, when he was collected from and returned to Greg's. The client was home and asked that the door not be locked. So the neighbour arrangement is not standing; check where Blackie will be before each visit.",
-     "quote": "I left him inside and placed his leash in the laundry room"
     }
    ],
    "dormant": false
@@ -6005,6 +5925,26 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Client message, Oct 7 7:45 AM",
+     "office": true,
+     "note": "Client answers the open Thursday question from Oct 6: the house cleaning team comes Thursday Oct 8 and then every other Thursday, and she asks that those Thursdays be marked as days not to come because the cleaners let the dogs out and give them attention. Which Thursdays after Oct 8 fall in the every-other pattern is not spelled out, so the office needs to set the recurrence in the scheduler.",
+     "quote": "Our house cleaning team comes tomorrow and then every other Thursday so you can mark those as days not to come"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Client message, Oct 7 7:45 AM",
+     "office": true,
+     "note": "In the same message the client says she is home on October 16 and does not need that day either. The Oct 16 visit needs cancelling in Time To Pet.",
+     "quote": "Also, I am home on October 16 so we won’t need that day either."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -6103,26 +6043,6 @@
      "office": false,
      "note": "On the Oct 6 midday visit Frank showed no issues: both dogs went #1, no #2 this visit, no accidents in the home. Sitter had read the previous day's report before the visit.",
      "quote": "Frank seems great today, no issues."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 6",
-     "source": "Client message 3:25pm",
-     "office": false,
-     "note": "Client answered the open back-gate question in her own words: she forgot the window installers were coming today, and gave the recurring outside crews so sitters can expect people on the property - lawn service usually Wednesdays though sporadic in the fall, cleaners every other Thursday. Gate must be checked before letting Louise and Frank out whenever a crew may be on site.",
-     "quote": "Our lawn guy typically comes on Wednesday but can be sporadic in the fall."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message 3:25pm",
-     "office": true,
-     "note": "Client floats dropping the visit on the cleaners' Thursday but does not know whether the cleaners come this week or next, and names no date to skip. Office needs to pin down which Thursday before anything is cancelled.",
-     "quote": "Our cleaning people come every other Thursday- I am not sure if they are this week or next."
     }
    ],
    "dormant": false
