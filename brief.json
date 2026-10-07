@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T17:35:10-04:00",
+ "generated": "2026-10-07T18:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3880,6 +3880,46 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 7",
+     "source": "Client message 5:53pm",
+     "office": true,
+     "note": "Roseann says she will be at the dentist next Wednesday afternoon - that is Oct 14 - and has set out how the sitter gets in and where the leash and treats will be. Those arrangements are in her Time To Pet message and are deliberately not written here. Julie says she is not sure whether she or Dan has next week, so the cover needs confirming.",
+     "quote": "I will be at the dentist next Wednesday afternoon"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Client message 5:53pm",
+     "office": false,
+     "note": "Muffy counter-surfs. Roseann says she jumps onto the countertop easily and regularly checks it and the rest of the house for anything edible left out, and adds that she herself does not always remember to put things away.",
+     "quote": "Muffy is an expert countertop surfer, easily jumping up onto it and regularly checks it and the entire house"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Client message 5:53pm",
+     "office": false,
+     "note": "Muffy's leash and treats are kept in the hall closet. Leftover treats are to go back in the closet after the visit.",
+     "quote": "Left over treats should be returned to the closet."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Julie Smith message 5:56pm",
+     "office": false,
+     "note": "After the Oct 7 visit Julie left the bag of treats on the counter instead of putting it back in the hall closet, and told Roseann she would put it in the closet with the leash next time. The next sitter should check whether the bag is still out.",
+     "quote": "Next time I’ll remember to out in the closet with the leash."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Dan Dantimo message, 2:07 PM",
      "office": true,
@@ -3940,31 +3980,11 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Sep 30",
-     "source": "Dan Dantimo visit report, 2:07 PM",
+     "date": "Oct 7",
+     "source": "Julie Smith visit report 5:03pm",
      "office": false,
-     "note": "Muffy went both #1 and #2 on the walk and the report's consistency field was answered with the a-little-loose-but-not-concerning option. First loose reading logged for this pet in the current record, so it is an isolated observation, not a pattern. Quote left empty on purpose - that canned phrase is identical to already-published Sep 30 health items for other clients and the de-duplication key would silently drop one of them.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Julie Smith visit report, Sep 16 evening walk",
-     "office": true,
-     "note": "Sitter reports Muffy pulls a lot on the current leash and suggests trying a harness. This is the sitter's suggestion only - no decision from the client is recorded, so the office would need to raise it with Roseann.",
-     "quote": "Muffy definitely does pull quite a bit on this leash. I’m wondering if maybe a harness would be better for her."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 3",
-     "source": "Client private message, Sep 3 7:59pm",
-     "office": false,
-     "note": "Client says Muffy pulls hard on lead for her - she hopes the heel work will let her walk Muffy without being dragged. Confirms from the owner's side that the leash pulling sitters have been working on is an ongoing trait, not a one-off. She also said Muffy loves her ball enough to fall asleep holding it.",
-     "quote": "it gives me hope she will let me walk her without wildly dragging me all over the grounds"
+     "note": "On the Oct 7 walk Muffy's first stool was solid and normal and the second was solid with a little mucus.",
+     "quote": "Her first number two was solid and normal, her second one was solid and just a little bit of mucus."
     }
    ],
    "dormant": false
