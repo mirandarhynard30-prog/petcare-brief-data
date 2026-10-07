@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T15:20:09-04:00",
+ "generated": "2026-10-07T16:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2598,6 +2598,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Tiarra Roberts visit report, Oct 7 2:46pm visit",
+     "office": true,
+     "note": "The sitter could not get Ripley's collar or leash on at all despite trying hard, so she used the fenced back yard instead of walking her. The walk only happened once Matt got home and leashed Ripley himselin Second report in four days of Ripley resisting the leash - the Oct 4 report also described it taking longer than normal. Office needs a handling plan from Matt rather than each sitter working it out alone.",
+     "quote": "After trying really hard to get her leashed up, we just went outside to the fenced in area."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -2668,54 +2678,44 @@
      "quote": "She will need fed at dinner tonite (2nd visit) and tomorrow morning as well."
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Monica Hopewell visit report, 1:13pm",
-     "office": true,
-     "note": "Getting into the garage was still slow on the 12:40pm visit, after the client said he had replaced the dead garage keypad battery but never said he tested it. Ripley was barking inside throughout. Entry worth confirming before the next visit.",
-     "quote": "I took a minute getting into the garage and all I could hear was Ripley barking"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Matt Konn private message, Oct 4 9:01am",
-     "office": false,
-     "note": "Matt answered the Oct 3 report about the main garage door keypad appearing dead - he says he will replace the batteries. He does not say when, so sitters should expect the main keypad may still not work and plan on the secondary garage until someone confirms it is back.",
-     "quote": "Ok - I’ll replace the batteries…TY!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Visit report, Kristin Ashick, Oct 4 9:18am",
-     "office": false,
-     "note": "The garage keypad battery is dead. Sitter got in by using the other garage instead.",
-     "quote": "the battery is dead. I used the other garage to enter."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 4",
-     "source": "Michelle Carrara visit report, Oct 4 afternoon",
+     "date": "Oct 7",
+     "source": "Matt Konn private message, Oct 7 3:46pm",
      "office": false,
-     "note": "Oct 4 afternoon walk: Ripley was hesitant about having her leash put on and it took longer than normal, though she was happy once outside. They did the usual route down the road but did not get as far as they normally do. Single-visit observation, not a standing rule.",
-     "quote": "Ripley was a bit hesitant today while I was trying to get her leash on."
+     "note": "Matt's own read on the same visit: Ripley is unsettled because the sitter is still a little apprehensive with her, and he says it is just a matter of time. He spells the sitter's name Tiara; the sitter on this house is Tiarra Roberts.",
+     "quote": "Ripley is running around bc Tiara is a lil apprehensive - which its just taking time"
     },
     {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 4",
-     "source": "Client message, 7:22 PM Eastern",
+     "date": "Oct 7",
+     "source": "Tiarra Roberts visit report, Oct 7 2:46pm visit",
      "office": false,
-     "note": "Matt says he replaced the battery on the garage keypad that the Oct 3 and Oct 4 reports called dead. He does not say he tested it.",
-     "quote": "I replaced the battery on the garage pad"
+     "note": "Two potty accidents found downstairs in the theater room on arrival. The sitter cleaned them up and attached before and after pictures. Check that room on arrival.",
+     "quote": "I found 2 potty accidents in the theater room."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Matt Konn private message, Oct 7 3:46pm",
+     "office": true,
+     "note": "Matt says he will try to be at the house himself for the next couple of weeks so the sitter becomes fully comfortable with Ripley. He names no dates and does not say whether any visits should change, so it is unclear whether this affects the schedule - needs confirming before anything is adjusted.",
+     "quote": "Im going to do my best to be here the next couple of weeks so Tiara is 100% comfortable"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Tiarra Roberts visit report, Oct 7 2:46pm visit",
+     "office": true,
+     "note": "The sitter says she had the office add 15 minutes to this visit so Ripley could get a full walk. Confirm the change is actually on the schedule and picked up on the invoice.",
+     "quote": "I had Miranda add 15 minutes to the visit, so Ripley could have a full walk."
     }
    ],
    "dormant": false
