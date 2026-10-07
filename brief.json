@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T09:20:07-04:00",
+ "generated": "2026-10-07T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5101,6 +5101,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Client message 9:23am",
+     "office": true,
+     "note": "Asks whether today's second walk can move from 7:30pm to 6:00pm - she says roughly 4-5 hours after Ashley's visit - and will be home before 8:00pm. She is fine keeping 7:30 if 6:00 does not work, but someone has to answer her today. The message arrived via text message.",
+     "quote": "Is there any chance you would be available at 6:00pm for the second walk?"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -5161,7 +5171,7 @@
      "quote": ""
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Jen Moyse",
@@ -7440,6 +7450,26 @@
      "office": false,
      "note": "Client wrote at 5:50pm that there will be workers in the house doing electrical work. He does not say which days or hours, so a sitter may find contractors inside and doors open - watch the pets at the door.",
      "quote": "there will be workers in the house doing electrical work fyi"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Thomas Rakovec visit report 9:15am",
+     "office": false,
+     "note": "Thomas arrived late to the 9:15am visit because a tree came down across Moore Rd. Anyone driving out there today should expect the route to be blocked or slow. He does not say whether the road was cleared.",
+     "quote": "got over a tad late a tree feel across moore Rd"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Thomas Rakovec visit report 9:15am",
+     "office": false,
+     "note": "Urine spots found in the basement again on the 9:15am visit; Thomas cleaned and sanitized them. All three dogs toileted outside as well, and Gracie's #2 was reported firm and healthy this visit.",
+     "quote": "The basement only had a few no.#1s and I cleaned it up and sanitized it."
     },
     {
      "cat": "home",
