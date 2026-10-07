@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T13:20:06-04:00",
+ "generated": "2026-10-07T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2771,6 +2771,16 @@
      "quote": "Automated litter box in living room near patio door (leave alone unless directed otherwise)"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Client message 1:16pm",
+     "office": false,
+     "note": "Owner says Xander gets grumpy when hungry and will nibble at toes and socks. Watch feet around him, especially before meals.",
+     "quote": "Xander gets hangry and nimbles toes and socks sometimes lol"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2869,16 +2879,6 @@
      "office": true,
      "note": "Brandy says the litter box was not operated correctly on our first visit and got messed up. Her box appears to need specific handling; the email does not say what kind or how it works. Office should get operating instructions written down before Monday.",
      "quote": "no one knew how to use mine the first time and it got messed up."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Brandy Harkless message, 6:49pm",
-     "office": true,
-     "note": "Brandy asks that on Sunday the litter drawer bag be pulled and replaced and one cup of litter added to the bowl. Follows her note that the box was mishandled on the first visit. Needs confirming and writing into her notes.",
-     "quote": "can she pull the bag and put a new one in on sunday please? and add a cup off litter to the bowl"
     }
    ],
    "dormant": false
@@ -3736,6 +3736,16 @@
     "Guinness"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Dan Dantimo 1:26pm report",
+     "office": false,
+     "note": "Guinness needed coaxing to start the walk, wanted to turn back toward the house twice, and refused to pass road crew machinery. Allow extra time and expect a short route.",
+     "quote": "He saw the guys working and didn't wanna go buy the big machine so we turned around"
+    },
     {
      "cat": "health",
      "sev": "medium",
@@ -5152,6 +5162,16 @@
      "quote": "Each dog gets 1/2 cup of kibble both AM and PM"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Ashley Corall 1:24pm",
+     "office": true,
+     "note": "Sitter asked the office/client whether Rosie normally makes a snorting noise when excited. No answer sent yet. Unclear from the message whether it was a one-off or something Ashley saw repeatedly.",
+     "quote": "does Rosie a little snorting thing when she gets excited?"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -5160,6 +5180,26 @@
      "office": false,
      "note": "Entry is through the attached garage at the Fox Villa apartments. The note asks the sitter to send an ETA in case Karen's friend is there resting.",
      "quote": "Send an ETA just in case Karen's friend is there resting."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Ashley Corall 1:51pm report",
+     "office": false,
+     "note": "Rosie expects her ball at the park; Ashley arrived without it. Seen once, not confirmed by the owner as a rule.",
+     "quote": "I forgot Rosie’s ball so she gave my first strike"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Ashley Corall 1:51pm report",
+     "office": false,
+     "note": "There is a second water bowl in the bedroom besides the main one. Noted by one sitter on one visit, not confirmed as standing.",
+     "quote": "when I was leaving I saw the water bowl in the bedroom so I refreshed that too"
     },
     {
      "cat": "home",
