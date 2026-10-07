@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T10:20:05-04:00",
+ "generated": "2026-10-07T11:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -480,6 +480,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Anna Marie LeMaster client message",
+     "office": false,
+     "note": "How to give Gordy his pill: client says he takes it better with a little soft food, and the lickable treat can be given separately later in the visit. Client's own instruction, no dose or medication named.",
+     "quote": "I think he really takes it better with just a little soft food."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Oct 6",
      "source": "Client message 2:05pm",
@@ -586,16 +596,6 @@
      "office": true,
      "note": "Sampson did not get his pill at the Sep 25 morning visit. Kathy gave the half pill in a pill pocket; he ate most of the pocket but left the part containing the pill, and refused a second half pocket. He was fed his canned and crunchy food and treats were changed out. The dose is missed for that visit.",
      "quote": "So sorry I couldn't get him to take his pill."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Kathy Pastor message 10:11am Sep 25",
-     "office": false,
-     "note": "Resolution of the missed dose earlier today - Sampson DID get his pill on the Sep 25 morning visit. Kathy opened a new can of wet food, put the pill in it and set some churu next to it on a plate; she watched him eat it, and he stopped eating once he realised, so he had tasted it.",
-     "quote": "put the pill in there put some churro next to it on a plate and he finally ate it!"
     }
    ],
    "dormant": false
@@ -770,6 +770,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Angela Jozsa client message",
+     "office": false,
+     "note": "Client warned that Chris is at the house today and expects him to be in the bedroom when the sitter arrives, so the sitter is not startled. Message addressed to Margaret.",
+     "quote": "Chris is at the house today but I believe he will be in the bedroom when you get there."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -878,16 +888,6 @@
      "office": false,
      "note": "Client confirms that getting Lucy's collar on and off is a known sensitivity with her - she was glad to hear the sitter had no trouble with it on Sep 29. Treat the collar as something to take time over on every visit. The client does not say what to do if Lucy resists.",
      "quote": "I am happy you are not having any trouble getting her collar on and off. That is a big thing with her."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Client message 11:54am Sep 28",
-     "office": false,
-     "note": "Client wrote to Margaret at 11:54am Sep 28: a collar and a black leash are on the dining room table and those are the ones to use for Lucy. She suggests putting the collar on while Lucy is still in her pen, and says the sitter should have no trouble with her. The message reads as guidance for this visit; it does not say whether it applies to every visit.",
-     "quote": "there is a collar and a black leash on the dining room table. That is what you can use for Lucy"
     }
    ],
    "dormant": false
@@ -1010,6 +1010,16 @@
      "source": "Elizabeth Sigler visit report, 2:47 PM",
      "office": false,
      "note": "On the Sep 30 afternoon visit the home-security field was logged as the client being home during the visit and asking that the door not be locked on the way out. Quote deliberately left empty - that field text is a canned dropdown option that other clients logged the same day, and the de-duplication key would silently drop one of them.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Drew Walker visit report",
+     "office": false,
+     "note": "Chloe's #2 on the Oct 7 mid-morning walk was recorded as a little loose, with the sitter noting it was not concerning. Single observation, no other symptoms reported.",
      "quote": ""
     }
    ],
