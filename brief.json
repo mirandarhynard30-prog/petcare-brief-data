@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T19:20:05-04:00",
+ "generated": "2026-10-06T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7520,6 +7520,16 @@
      "office": false,
      "note": "Electrical work is underway at the house - the sitter names the electrician as Ramon. On the Oct 6 midday visit the dogs were already out in the backyard because of the work, and the sitter left no doors unlocked because the electricians were inside.",
      "quote": "electricians were working in the house so no doors were unlocked"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Dan Dantimo evening visit report, 9:11pm",
+     "office": true,
+     "note": "On the Oct 6 evening visit Dan Dantimo found and cleaned up an accident from Gracie in the basement. The visit report's accidents question on the same report was nonetheless answered 'There were no accidents', so the narrative and the form disagree - office should confirm which is right before deciding whether this needs following up with Chuck.",
+     "quote": "clean up an accident from Gracie in the basement"
     },
     {
      "cat": "home",
