@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T16:20:07-04:00",
+ "generated": "2026-10-07T17:35:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -223,6 +223,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Mary Gilmore client message, Oct 7 5:07pm",
+     "office": false,
+     "note": "First access arrangement from Mary after days of silence. She will meet the sitter outside rather than leave a way in, and names Margaret. Her address and apartment are on her Time To Pet record and are not repeated here.",
+     "quote": "Brown building. I will meet you outside! See you soon Margaret!"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -331,16 +341,6 @@
      "office": true,
      "note": "Sitter Shannon Anderson told the client at 1:32pm that the house is packed up and the dogs will not be there from Thursday. This is the sitter stating the move date, not the client confirming it. Office needs to check which visits from Thursday Oct 1 onward still stand and close out the remaining schedule.",
      "quote": "Their stuff is all packed. Thursday they are no longer there."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Mary Gilmore private message, Sep 29 4:14 PM",
-     "office": true,
-     "note": "Client says she cancelled tomorrow's (Wed Sep 30) afternoon visit herself in Time To Pet. A portal Service Change Requested notice followed at 4:22 PM. Office should confirm the Sep 30 afternoon visit is off the schedule.",
-     "quote": "I just cancelled tomorrows afternoon visit."
     }
    ],
    "dormant": false
@@ -3867,6 +3867,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Julie Smith visit report, Oct 7 5:03pm",
+     "office": false,
+     "note": "Muffy barks hard at the window until she recognises the sitter, then settles. She pulls the whole walk and is hard to hold. She barked and pulled toward a dog that came out with its owner and could not be redirected while the sitter bagged waste.",
+     "quote": "but definitely still pulls a lot when walking."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -5138,7 +5148,8 @@
    "url": "https://www.timetopet.com/dashboard/client/tl036gWnuVaH",
    "pets": [
     "Paula Rose \"Rosie\"",
-    "Frankie Thomas \"Frankie\""
+    "Frankie Thomas \"Frankie\"",
+    "Rosie"
    ],
    "items": [
     {
@@ -5170,6 +5181,16 @@
      "office": true,
      "note": "Sitter asked the office/client whether Rosie normally makes a snorting noise when excited. No answer sent yet. Unclear from the message whether it was a one-off or something Ashley saw repeatedly.",
      "quote": "does Rosie a little snorting thing when she gets excited?"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Karen Mitterholzer client message, Oct 7 4:28pm",
+     "office": false,
+     "note": "Client answers the sitter's question: Rosie snorts when excited and it can sound like she is struggling to breathe, but Karen says her vet has checked and she is fine. Not an emergency.",
+     "quote": "Rosie gets excited and “snorts”."
     },
     {
      "cat": "home",
@@ -6147,6 +6168,16 @@
      "quote": "We put Oakley back inside his crate."
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:50pm",
+     "office": true,
+     "note": "Today's note rewrite dropped Oakley's crate-feeding rule. His bowls are still inside the crate, so this cuts against the client's Oct 5 request to leave him out. Office to settle one rule and restore it.",
+     "quote": "Close the crate while he eats and allow him to finish his meal before letting him out"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -6155,6 +6186,46 @@
      "office": true,
      "note": "Oakley's backyard tie-out would not unclip and looks rusted, so the sitter improvised her own lead to take him out and then struggled to get it off again. Needs replacing or confirming before the next visit.",
      "quote": "I couldn’t get the tie out to work or unclip so I made my own"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:50pm",
+     "office": true,
+     "note": "Same rewrite replaced exact leash and harness locations with one vague line. Lost: which closet Bailey's leash is in, where each harness hangs, and that her harness handle sits on her back.",
+     "quote": "Everything is hanging near food/water bowls"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:50pm",
+     "office": true,
+     "note": "Oakley's treat-portion limit was dropped too. New notes name no limit for him.",
+     "quote": "Oakley may have treats, but only small portions"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:50pm",
+     "office": true,
+     "note": "Pet Care Note cut to one line on Oakley's three meals. The rule to feed both dogs on an evening visit is gone, so an evening sitter would not know to feed Bailey.",
+     "quote": "Will feed both if doing an evening visit."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:50pm",
+     "office": false,
+     "note": "As the record now reads: Bailey in the blue harness, Oakley the green, both on one leash with two clips. Walks preferred. Watch Oakley outside, he eats mulch.",
+     "quote": "Clip them together onto the leash with two clips"
     },
     {
      "cat": "home",
@@ -6205,56 +6276,6 @@
      "office": false,
      "note": "No waste bags found in the house. Bailey's #2 was left by the neighbours' fence area and the client replied to leave it, she would pick it up. Sitters should bring their own bags until restocked.",
      "quote": "could not find bags anywhere I think u may be out and need more"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 2",
-     "source": "Client message",
-     "office": false,
-     "note": "Client wrote this unprompted at 6:05 PM, right after her message about leaving the waste bag: Oakley whines when he is excited and that is his normal behaviour, so a sitter who hears him whining should not read it as distress. No action asked for. Not previously in the brief.",
-     "quote": "Also Oakley is very whiny when excited so his normal behavior!!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Yasmeen Abrams message to client 3:53 PM",
-     "office": true,
-     "note": "Sitter Yasmeen Abrams asked the client at 3:53 PM whether the dogs need feeding at tomorrow evening's visit. No answer from the client had arrived by 4:13 PM. The feeding expectation for the Oct 2 evening visit is therefore still unsettled.",
-     "quote": "For tmr evening visit do pups need feed ?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Yasmeen Abrams / client reply",
-     "office": false,
-     "note": "Yasmeen Abrams asked the client at 3:53pm whether the dogs need feeding at the Oct 2 evening visit; client answered \"Yes please!\" at 4:25pm and Yasmeen confirmed \"Will do!\" at 4:28pm. So the dogs DO get fed at tomorrow evening's visit. The messages do not say what food, how much, or where it is kept - that has to come from the Pet Care Note.",
-     "quote": "Good afternoon ! For tmr evening visit do pups need feed ?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Sitter visit report, Sep 17 12:36pm",
-     "office": false,
-     "note": "Two loose-dog encounters on the Sep 17 midday walk. A dog across Reagan got so excited it knocked its owner to the ground, and on the way back the neighbour's dog was out and loose on the client's own street. Both dogs handled it well. One day's observation, not established as a pattern - worth watching on the way back to the house.",
-     "quote": "the neighbor's dog was out and loose so that was another eventful time"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Monica Hopewell visit report, Sep 16 12:08pm",
-     "office": false,
-     "note": "On the Sep 16 midday visit the sitter could not find Bailey's blue harness and walked her on the collar alone. She reports the walk went fine that way, but the harness location is worth confirming before the next visit.",
-     "quote": "I couldn't find Bailey's blue harness however but she did well with just the collar."
     }
    ],
    "dormant": false
@@ -7135,6 +7156,76 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
+     "office": true,
+     "note": "Rewrite dropped the warning that the front door does not latch and must be locked from inside. Three cats and a stated escape risk here. Restore it.",
+     "quote": "front door does not latch all the way so please lock front door when inside so it does not open on you"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
+     "office": false,
+     "note": "The Pet Care Note now holds only this warning.",
+     "quote": "BE CAREFUL WHEN ENTERING/EXITING HOUSE; ESCAPE RISK"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
+     "office": true,
+     "note": "Trash instruction lost its timing. New notes say only that trash day is Friday. Tomorrow is Thursday.",
+     "quote": "Trash can gets picked up on Friday morning, so put out trash can to curb on Thursday visit."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
+     "office": true,
+     "note": "Wet food now reads two ways: the old note had an automatic wet feeder with three sections at a third of a can each; the new has the sitter splitting one can between three dishes. Confirm which.",
+     "quote": "1 placed next to oven (NOT on MAT)"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
+     "office": true,
+     "note": "Litter boxes went from three (laundry room, upstairs bath, basement) to four (pantry, two downstairs, upstairs bath). Laundry-room box dropped, pantry box appeared. Confirm.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
+     "office": true,
+     "note": "Kopi's feeding times were dropped. New notes give her no times at all.",
+     "quote": "Kopi eats in the am and pm ( around 5am and 5pm)"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
+     "office": true,
+     "note": "Two extra emergency contacts, a godmother and a friend, were listed with numbers in the old note and are in neither new field. Numbers not copied here. Put them back.",
+     "quote": ""
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -7183,26 +7274,6 @@
      "office": true,
      "note": "Returning client needs cat care Oct 26-28 and wants a meet-and-greet before then. Also asks whether she should request the Oct 26-28 dates in Time To Pet now or wait until after the meeting. Follows her earlier Oct 1 message about restarting service; still unanswered.",
      "quote": "I will be needing someone October 26-28. So would like to meet before then."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Kim Knight private message 4:08 PM",
-     "office": true,
-     "note": "Kim has now given her availability for the meet-and-greet she asked for earlier today: Tuesday morning before 11, Wednesday afternoon, Friday afternoon, or most evenings. Her wording implies she is replying to a message from Miranda, but that outgoing message is not in this mailbox so what was offered is unknown. The Oct 26-28 cat care is still unbooked and she had asked whether to request the dates before or after the meeting.",
-     "quote": "I am free Tuesday morning before 11, AM Wednesday afternoon or Friday afternoon. If evening works I can do most evenings"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Tiarra Roberts message 2:28pm, after the client consultation",
-     "office": false,
-     "note": "Noted at today's consultation: bags for waste are kept under the kitchen sink.",
-     "quote": "Grocery bags under kitchen sink."
     }
    ],
    "dormant": false
