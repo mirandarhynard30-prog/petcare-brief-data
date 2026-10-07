@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T09:20:26-04:00",
+ "generated": "2026-10-07T10:35:08-04:00",
  "date": "2026-10-07",
  "label": "Oct 7, 2026",
  "clients": [
@@ -124,10 +124,17 @@
      "pets": "Paula Rose \"Rosie\", Frankie Thomas \"Frankie\""
     },
     {
-     "time": "7:30 PM",
-     "sort": "1930",
+     "time": "6:00 PM",
+     "sort": "1800",
      "staff": "Monica Hopewell",
-     "service": "Last Minute Visit- 30 minute",
+     "service": "Last Minute &Trainer 30 Minute",
+     "pets": "Paula Rose \"Rosie\", Frankie Thomas \"Frankie\""
+    },
+    {
+     "time": "6:00 PM",
+     "sort": "1800",
+     "staff": "Kristin Ashick",
+     "service": "Shadow Visit with Staff Member-30 minute",
      "pets": "Paula Rose \"Rosie\", Frankie Thomas \"Frankie\""
     }
    ]
@@ -350,5 +357,5 @@
    ]
   }
  ],
- "visitCount": 33
+ "visitCount": 34
 }
