@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T14:20:06-04:00",
+ "generated": "2026-10-07T15:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3407,6 +3407,16 @@
      "quote": "Please have the walker today put Holly’s food out."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Julie Smith visit report 2:18pm",
+     "office": true,
+     "note": "Waste bags by the front door have run out. Julie asked the client whether we should bring some on the next visit (tomorrow 1pm) and no answer has gone back yet.",
+     "quote": "There aren’t any more garbage bags near the front door."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3455,16 +3465,6 @@
      "office": true,
      "note": "Tonight's evening visit was covered. Shannon Anderson texted at 5:39pm that she would arrive in about 25 minutes and filed a full report at 6:52pm: Holly walked the usual route and went #1, water bowl refreshed, no accidents, no supplies low. She entered and left through the garage, closed it behind her, locked the front door and left a light on. The report does not say which of the requested evening walk times this visit was, so the 6:30 / 7:00 question in the client's own messages is still not matched to a scheduled slot in writing.",
      "quote": "I made sure the front door was locked before leaving through the garage."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 6",
-     "source": "Shannon Anderson visit report, 6:52pm",
-     "office": true,
-     "note": "There is a cat in the house that is not on the pet record. Tonight's sitter was greeted by a cat in the kitchen on arrival and stopped to give it head scratches; the Time To Pet pet list for this client shows only Holly. Nothing in the mail says whether the cat needs feeding, water, litter or medication, or whether it is simply present. Office should confirm and add it to the record so the next sitter is not surprised.",
-     "quote": "I was greeted by the kitty in the kitchen while Holly laid in the living room watching me"
     }
    ],
    "dormant": false
@@ -7193,6 +7193,16 @@
      "office": true,
      "note": "Kim has now given her availability for the meet-and-greet she asked for earlier today: Tuesday morning before 11, Wednesday afternoon, Friday afternoon, or most evenings. Her wording implies she is replying to a message from Miranda, but that outgoing message is not in this mailbox so what was offered is unknown. The Oct 26-28 cat care is still unbooked and she had asked whether to request the dates before or after the meeting.",
      "quote": "I am free Tuesday morning before 11, AM Wednesday afternoon or Friday afternoon. If evening works I can do most evenings"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 7",
+     "source": "Tiarra Roberts message 2:28pm, after the client consultation",
+     "office": false,
+     "note": "Noted at today's consultation: bags for waste are kept under the kitchen sink.",
+     "quote": "Grocery bags under kitchen sink."
     }
    ],
    "dormant": false
