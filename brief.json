@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T08:20:05-04:00",
+ "generated": "2026-10-07T09:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3377,6 +3377,16 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Client message 8:36 AM",
+     "office": false,
+     "note": "Client wrote at 8:36 AM asking that whoever walks today put Holly's food out. It is a request for today's visit only and does not say how much or where the food is.",
+     "quote": "Please have the walker today put Holly’s food out."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3435,16 +3445,6 @@
      "office": true,
      "note": "There is a cat in the house that is not on the pet record. Tonight's sitter was greeted by a cat in the kitchen on arrival and stopped to give it head scratches; the Time To Pet pet list for this client shows only Holly. Nothing in the mail says whether the cat needs feeding, water, litter or medication, or whether it is simply present. Office should confirm and add it to the record so the next sitter is not surprised.",
      "quote": "I was greeted by the kitty in the kitchen while Holly laid in the living room watching me"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Client message, 12:31 PM Oct 3",
-     "office": false,
-     "note": "Client is out at the funeral home this afternoon and asked that Holly simply be dropped off when the walk is done; she says the door is open. One-off for today only - this is not a standing access rule.",
-     "quote": "I have to go to the funeral home so please just drop her off when you are done. Door open."
     }
    ],
    "dormant": false
@@ -6654,6 +6654,16 @@
      "office": true,
      "note": "Gina says her mom is about to move: assessed and signing papers on Oct 1, moving soon after. In a follow-up reply to Miranda she named where (see Time To Pet). Message does not say what this means for pet care or future visits - office should confirm with Gina.",
      "quote": "She gets assessed and signs papers on 10/1. and will be moving soon after that."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Client message 9:11 AM",
+     "office": true,
+     "note": "Client replied at 9:11 AM with a one-line confirmation. The message names no date, time or service, so which visit she is agreeing to is not stated in the email and has to be checked in Time To Pet.",
+     "quote": "Perfect see you then"
     }
    ],
    "dormant": false
