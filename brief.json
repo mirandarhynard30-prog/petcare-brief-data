@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T11:20:07-04:00",
+ "generated": "2026-10-07T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4833,9 +4833,20 @@
    "name": "Alexandria Francis",
    "url": "https://www.timetopet.com/dashboard/client/tkuqmcNQIUVH",
    "pets": [
-    "Lily"
+    "Lily",
+    "Lilly"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Robin Lewis visit report 11:13am",
+     "office": false,
+     "note": "Robin Lewis found no drinking water in the refrigerator on the Oct 7 late-morning visit and used bottles found on the floor of the food pantry instead; she fed Lilly and refilled the bowl. Client was home during the visit. Unclear whether the pantry location is a temporary spot or where water is now kept - worth confirming before the next visit.",
+     "quote": "There was no water in the refrigerator, but I did find some on the floor in your food pantry."
+    },
     {
      "cat": "home",
      "sev": "medium",
@@ -6076,6 +6087,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 7",
+     "office": true,
+     "source": "Tiarra Roberts visit report 11:18am",
+     "note": "Tiarra Roberts, shadowing Monica Hopewell, reports Oakley was put back in his crate at the end of the Oct 7 morning visit. This runs against the client's Oct 5 request that Oakley be left out of his crate. Office should confirm the standing instruction with the client and make sure every sitter on this house has it.",
+     "quote": "We put Oakley back inside his crate."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -6184,16 +6205,6 @@
      "office": false,
      "note": "On the Sep 16 midday visit the sitter could not find Bailey's blue harness and walked her on the collar alone. She reports the walk went fine that way, but the harness location is worth confirming before the next visit.",
      "quote": "I couldn't find Bailey's blue harness however but she did well with just the collar."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client message (Lauren White)",
-     "office": false,
-     "note": "Client says the missing harness was left on the dryer after a vet trip. The message says only \"her\"; the harness the sitter could not find on the 12:08 visit was Bailey's. Walking on the collar was fine.",
-     "quote": "I left it on the dryer after we took her to the vet."
     }
    ],
    "dormant": false
