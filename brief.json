@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T11:20:07-04:00",
+ "generated": "2026-10-08T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -203,6 +203,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Margaret Bill updated contact information, 11:24am",
+     "office": false,
+     "note": "Company Notes now specify how Rusty's prong collar goes on: prongs on the inside, chain through the loop, bring the clip up and cinch it under the ears, not on the neck.",
+     "quote": "Prong collar prongs on inside chain through loop bring up clip and cinch under ears not neck"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -311,16 +321,6 @@
      "office": true,
      "note": "The 1:00 PM visit DID go ahead - Elizabeth Sigler filed a full visit report at 1:45 PM. This closes five runs of escalation: the client said on Sep 29 at 4:14 PM that she had cancelled today's afternoon visit and the portal Service Change notice was never processed, but the visit happened anyway. The unprocessed portal request still needs clearing so the record matches reality.",
      "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Shannon Anderson message to client, 1:32pm",
-     "office": true,
-     "note": "Sitter Shannon Anderson told the client at 1:32pm that the house is packed up and the dogs will not be there from Thursday. This is the sitter stating the move date, not the client confirming it. Office needs to check which visits from Thursday Oct 1 onward still stand and close out the remaining schedule.",
-     "quote": "Their stuff is all packed. Thursday they are no longer there."
     }
    ],
    "dormant": false
@@ -3159,6 +3159,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 8",
+     "source": "Jade Popovitz visit report, 12:09pm",
+     "office": false,
+     "note": "The sitter had to keep both dogs off the cat during the visit, and Milo tried to tackle Archer when they came back in from the walk. She put Milo back in his crate before leaving. Both walked well with little pulling.",
+     "quote": "I had to defend the cat from Milo and Archer."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 6",
      "source": "Client message 12:00pm",
      "office": false,
@@ -3234,16 +3244,6 @@
      "office": false,
      "note": "Cleaners are coming today, so Milo is at daycare and will not be home for today's visit. Same pattern as Sep 2, 10 and 16.",
      "quote": "Since the cleaners are coming today, Milo is at daycare"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Client message from Paulo Garcia, Sep 22 8:30am",
-     "office": false,
-     "note": "Cleaners are in the house today. Archer is shut in the upstairs bedroom again - look for him there on arrival. The message does not say which bedroom; on Sep 16 it was the far right room upstairs.",
-     "quote": "Archer is in the upstairs bedroom again"
     }
    ],
    "dormant": false
@@ -3367,6 +3367,16 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Client message, 12:08pm",
+     "office": false,
+     "note": "Lynne says she is home today, so the sitter should expect her there at the visit. No change to the visit requested.",
+     "quote": "I’m home today. See you later."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3425,16 +3435,6 @@
      "office": true,
      "note": "Closing out today: the 4:30 afternoon walk did happen - Julie Smith filed a full report at 4:57 PM, Holly walked, ate and had fresh water, no accidents, supplies fine. In the same message the sitter tells the client she will be back tomorrow at 1:45. That is the first time named for Oct 7 and it does not match the 1:00 the client asked about this morning, so the office should confirm which is right.",
      "quote": "I will be back tomorrow at 1:45."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Shannon Anderson visit report, 6:52pm",
-     "office": true,
-     "note": "Tonight's evening visit was covered. Shannon Anderson texted at 5:39pm that she would arrive in about 25 minutes and filed a full report at 6:52pm: Holly walked the usual route and went #1, water bowl refreshed, no accidents, no supplies low. She entered and left through the garage, closed it behind her, locked the front door and left a light on. The report does not say which of the requested evening walk times this visit was, so the 6:30 / 7:00 question in the client's own messages is still not matched to a scheduled slot in writing.",
-     "quote": "I made sure the front door was locked before leaving through the garage."
     }
    ],
    "dormant": false
@@ -6695,7 +6695,9 @@
   {
    "name": "Gina Sullivan",
    "url": "https://www.timetopet.com/dashboard/client/t7fnymq07A1G",
-   "pets": [],
+   "pets": [
+    "Sassie"
+   ],
    "items": [
     {
      "cat": "home",
@@ -6706,6 +6708,26 @@
      "office": true,
      "note": "Gina wrote that her mom is moving to Heritage Crossing in Akron, OH. No move date given and no pet named; the full street address is in her Time To Pet message. Office needs to confirm when the move happens and update the service address before the next visit, and tell the assigned sitter.",
      "quote": "Mom is moving to Heritage Crossing"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Client message, 11:23am",
+     "office": false,
+     "note": "Gina states the care she wants: walk/potty three times a day on the walking path, and medication if possible - she keeps it organised in a pill case and the dog takes it with cheese whiz. She does not say which medication or dose.",
+     "quote": "Medication if possible. I have it organized in pill case. She takes with cheese whiz."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Client message, 11:23am",
+     "office": true,
+     "note": "Gina asks whether the walkers would mind her mother walking along with them and Sassie now and then. Her mother uses a walker and is slow. Unanswered - this needs an office decision before a sitter is put on the spot.",
+     "quote": "I was wondering if the walkers would mind letting my mom walk with them and Sassie."
     },
     {
      "cat": "schedule",
@@ -6736,6 +6758,16 @@
      "office": true,
      "note": "Gina says her mom is about to move: assessed and signing papers on Oct 1, moving soon after. In a follow-up reply to Miranda she named where (see Time To Pet). Message does not say what this means for pet care or future visits - office should confirm with Gina.",
      "quote": "She gets assessed and signs papers on 10/1. and will be moving soon after that."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Client message, 12:07pm",
+     "office": true,
+     "note": "A follow-up reply asking for advance notice so she can line something else up. What she needs notice about is not stated anywhere in this mailbox, so the subject of this reply is unclear - read the thread in Time To Pet before answering.",
+     "quote": "Ok just let me know ahead of time so i can get something else lined up."
     },
     {
      "cat": "schedule",
@@ -7714,6 +7746,16 @@
      "quote": "While they did that I cleaned up the basement."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Client message, 11:49am",
+     "office": true,
+     "note": "Chuck replied thanking us for the flexibility after his 9:58am request to keep tonight's visit and move today's afternoon visit to first thing Friday Oct 9. That reads as the swap being agreed, but no confirmation from the office appears in this mailbox, so the scheduler still needs checking against it.",
+     "quote": "OK, great thank you guys for your flexibility!"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7762,16 +7804,6 @@
      "office": false,
      "note": "Gracie went #1 and #2 in the basement again at the evening visit and the sitter cleaned it up; her stool was recorded as slightly loose, which the sitter judged not concerning. Worth watching at the next visit - no vet contact mentioned.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "Electrical work is underway at the house - the sitter names the electrician as Ramon. On the Oct 6 midday visit the dogs were already out in the backyard because of the work, and the sitter left no doors unlocked because the electricians were inside.",
-     "quote": "electricians were working in the house so no doors were unlocked"
     }
    ],
    "dormant": false
