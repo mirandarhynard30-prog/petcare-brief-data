@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T00:05:07-04:00",
+ "generated": "2026-10-08T08:35:07-04:00",
  "date": "2026-10-08",
  "label": "Oct 8, 2026",
  "clients": [
@@ -205,8 +205,8 @@
    "name": "Paulo Garcia",
    "visits": [
     {
-     "time": "12:45 PM",
-     "sort": "1245",
+     "time": "11:25 PM",
+     "sort": "2325",
      "staff": "Jade Popovitz",
      "service": "Dog Visit-45 minute",
      "pets": "Archer, Milo"
@@ -231,19 +231,7 @@
      "pets": "Archie"
     }
    ]
-  },
-  {
-   "name": "Zachary Schulman",
-   "visits": [
-    {
-     "time": "11:30 AM",
-     "sort": "1130",
-     "staff": "Harvett Ellington",
-     "service": "Shadow Visit with Staff Member-60 minute",
-     "pets": "Walter"
-    }
-   ]
   }
  ],
- "visitCount": 23
+ "visitCount": 22
 }
