@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T13:20:08-04:00",
+ "generated": "2026-10-08T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2651,6 +2651,26 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts visit report, 1:41pm",
+     "office": false,
+     "note": "First clear progress on the collar. The collar DID go on at this visit, with Matt helping and with slight difficulty, and the sitter put the collar on by itself first and only then attached the leash. Treats were ready inside before the collar went on. Matt was home for the visit.",
+     "quote": "Matt helped me put the collar on, it was with slight difficulty, but easier than before"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts visit report, 1:41pm",
+     "office": false,
+     "note": "What worked on the walk, from one visit only: when a woman was walking towards them the sitter crossed the street and cued Ripley with 'oust', and Ripley did not bark. Ripley was also asked to sit for each passing car and given a treat afterwards. Ripley went #1 twice and water was refreshed on return.",
+     "quote": "I told Ripley 'oust', she did not bark, at all"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 7",
      "source": "Matt Konn private message, Oct 7 3:46pm",
      "office": false,
@@ -2666,26 +2686,6 @@
      "office": false,
      "note": "Two potty accidents found downstairs in the theater room on arrival. The sitter cleaned them up and attached before and after pictures. Check that room on arrival.",
      "quote": "I found 2 potty accidents in the theater room."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Matt Konn private message, Oct 7 3:46pm",
-     "office": true,
-     "note": "Matt says he will try to be at the house himself for the next couple of weeks so the sitter becomes fully comfortable with Ripley. He names no dates and does not say whether any visits should change, so it is unclear whether this affects the schedule - needs confirming before anything is adjusted.",
-     "quote": "Im going to do my best to be here the next couple of weeks so Tiara is 100% comfortable"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Tiarra Roberts visit report, Oct 7 2:46pm visit",
-     "office": true,
-     "note": "The sitter says she had the office add 15 minutes to this visit so Ripley could get a full walk. Confirm the change is actually on the schedule and picked up on the invoice.",
-     "quote": "I had Miranda add 15 minutes to the visit, so Ripley could have a full walk."
     }
    ],
    "dormant": false
@@ -3845,6 +3845,16 @@
      "office": true,
      "note": "Guinness' Sep 17 evening walk logged #2 as a little loose but not concerning. That continues the loose-stool run already recorded on Sep 4, 11, 14, 15 and 16, so this is the sixth logged instance and still has not been raised with Deb. The walk itself went well - good on leash, #1 and a small #2, chased off a bunny. Client was home and asked that the door not be locked.",
      "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Dan Dantimo visit report, 1:49pm",
+     "office": false,
+     "note": "Guinness's #2 was logged on the a-little-loose-but-not-concerning setting at the 1:49pm visit. First such reading for this client in the brief, so it is a watch rather than a concern. The same report notes yesterday's walk was short and today's was lengthened to make up for it.",
+     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -4454,6 +4464,16 @@
    "items": [
     {
      "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts access-instruction updates, 11:54am and 2:11pm",
+     "office": true,
+     "note": "Her Access Instructions have now been edited four times today, and the garage entry value currently stored is the SAME value as the front door lockbox - it was a different value this morning. Two sitters failed to get in by the intended route at the midday visit, so this needs verifying against the real garage keypad before the next visit. The codes themselves are deliberately not recorded here.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
      "date": "Oct 8",
@@ -4471,6 +4491,16 @@
      "office": false,
      "note": "Second access problem on the same afternoon visit, reported separately: the garage would not open, so they went in through the front door. She also notes the garbage bins are not empty.",
      "quote": "Garage was not opening so we went thru the front door."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts Company Notes update, 2:11pm",
+     "office": true,
+     "note": "The 2:11pm Company Notes rewrite DELETED the leash-type rule. The previous version carried a line under Leash & Supplies saying not to use a retractable leash if possible; the new version has no leash-type rule at all. Nothing in the email says the rule was dropped on purpose - the office should confirm whether it still applies and restore it if so.",
+     "quote": "Do NOT use retractable leash if possible"
     },
     {
      "cat": "home",
@@ -4501,6 +4531,16 @@
      "office": true,
      "note": "After the two access problems Fabiana wrote back with corrected garage entry details. The code itself is deliberately not recorded here - the office should put it into her Time To Pet access instructions so the next sitter is not locked out.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts Company Notes update, 2:11pm",
+     "office": true,
+     "note": "Two smaller changes in the same 2:11pm rewrite: the Water section lost its refill instruction and now only states there is one water bowl in the hallway off the dining room/kitchen, and the treats line was broadened from the table by the front door to the table by the front door or the pantry.",
+     "quote": "Refill as needed"
     }
    ],
    "dormant": false
