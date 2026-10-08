@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T11:05:07-04:00",
+ "generated": "2026-10-08T12:20:09-04:00",
  "date": "2026-10-08",
  "label": "Oct 8, 2026",
  "clients": [
@@ -186,8 +186,8 @@
    "name": "Paulo Garcia",
    "visits": [
     {
-     "time": "11:25 PM",
-     "sort": "2325",
+     "time": "11:25 AM",
+     "sort": "1125",
      "staff": "Jade Popovitz",
      "service": "Dog Visit-45 minute",
      "pets": "Archer, Milo"
