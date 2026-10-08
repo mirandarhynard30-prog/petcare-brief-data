@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T19:20:10-04:00",
+ "generated": "2026-10-07T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7507,6 +7507,16 @@
     "Polly"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Noella Assi visit report (shadowing Tiarra Roberts)",
+     "office": false,
+     "note": "Vomit found in the home at the Oct 7 evening visit and cleaned up; the report does not say which cat was sick, so watch both Pippa and Polly. Both ate most of a Delectable and no supplies were low.",
+     "quote": "While looking around I spotted a throw up, we cleaned it up and went upstairs to put the tv for them."
+    },
     {
      "cat": "home",
      "sev": "medium",
