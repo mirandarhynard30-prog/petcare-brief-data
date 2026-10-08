@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T09:20:06-04:00",
+ "generated": "2026-10-08T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3627,6 +3627,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts visit report, Oct 8 10:02am",
+     "office": false,
+     "note": "First visit for Tiarra, shadowing Julie Smith. Archie was hesitant about leaving the apartment and needed a moment before coming out, then warmed up over the visit and walked the usual route, going #1 and #2 (firm). Allow extra time at the door with a new sitter.",
+     "quote": "Archie was a little hesitant to leave the apartment, but he did come out."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts visit report, Oct 8 10:02am",
+     "office": true,
+     "note": "Poop bags are out - the sitter used the last bag on the leash this morning and flagged supplies as low. The next sitter needs to bring their own bags, and the office should sort out a restock with Ray.",
+     "quote": "We used the last poop bag on the leash."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3685,6 +3705,16 @@
      "office": false,
      "note": "Julie Smith's first visit with Archie. He was hesitant with her at the start and again when they got back, but warmed up over the walk and took two treats from her. She wrote that he started with a good hop in his step but slowed down toward the end of the walk. Client was home, so she did not go into the house. He went #1 several times and #2, firm and healthy.",
      "quote": "Archie was a little hesitant when we first got there, but he warmed up to me as we went along."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts visit report, Oct 8 10:02am",
+     "office": false,
+     "note": "Access is through the apartment building entrance by buzzing Ray's unit; he was home for this visit, so the sitter did not go in or check the home. The unit number is in Time To Pet, not here.",
+     "quote": ""
     },
     {
      "cat": "home",
@@ -7448,6 +7478,26 @@
      "quote": "She began eating as soon as I put the food down. Pippa was less interested."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts updated Company Notes, Oct 8 9:15am",
+     "office": false,
+     "note": "CORRECTION to the litter box locations: the second box is in the DOWNSTAIRS bedroom, not the upstairs bedroom as the notes previously said. Three boxes in total - sunroom by the kitchen, downstairs bedroom, and by the upstairs stairwell/TV.",
+     "quote": "3 litterboxes; sunroom (by kitchen), downstairs bedroom and by upstairs stairwell/TV"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts updated client-added General Information, Oct 8 9:16am",
+     "office": false,
+     "note": "CORRECTION to the AM treat placement: Pippa's pile of Temptation treats from the pantry goes on the DOWNSTAIRS bedroom dresser, not the upstairs one as the notes previously said.",
+     "quote": "Pile Temptation treats (pantry) on downstairs bedroom dresser for Pippa in AM visit."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7486,6 +7536,16 @@
      "office": false,
      "note": "Michelle Carrara replied that she is covering today's visits and will watch for the package, so the client's request has already been acknowledged in writing.",
      "quote": "Yes, I will be on the look out for the package."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts updated Important Notes, Oct 8 9:14am",
+     "office": false,
+     "note": "The lights rule now says explicitly that it is the EXTERIOR lights in the entry and garage: off on AM visits, on at PM visits.",
+     "quote": "AM: turn off lights in entry/garage exterior lights"
     }
    ],
    "dormant": false
@@ -7564,6 +7624,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Chuck Garrett message, Oct 8 9:58am",
+     "office": true,
+     "note": "Chuck says he is back early around 3pm today but leaving again. He asks to keep tonight's visit and move today's AFTERNOON visit to first thing tomorrow (Oct 9). Needs an answer from the office today - the afternoon visit is still on the schedule.",
+     "quote": "maybe switch today’s afternoon visit and make it first thing tomorrow would that work?"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -7592,6 +7662,26 @@
      "office": false,
      "note": "Client wrote at 5:50pm that there will be workers in the house doing electrical work. He does not say which days or hours, so a sitter may find contractors inside and doors open - watch the pets at the door.",
      "quote": "there will be workers in the house doing electrical work fyi"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Thomas Rakovec visit report, Oct 8 9:28am",
+     "office": true,
+     "note": "Rebel was straining hard and having difficulty passing a stool during the morning visit, per the sitter's narrative - though the same report's checkbox records Rebel's #2 as firm and healthy, so the two parts of the report disagree. The sitter also volunteered pumpkin as something he had been advised for his own dog; that is a sitter suggestion, not veterinary advice, and nothing should be added to Rebel's food without Chuck's and a vet's say-so.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Thomas Rakovec visit report, Oct 8 9:28am",
+     "office": false,
+     "note": "The basement was cleaned out this morning with bleach and dried, and fresh pee pads were put down there. This answers Chuck's Oct 7 question about checking and cleaning the basement. The sitter also wiped up water on the kitchen floor.",
+     "quote": "While they did that I cleaned up the basement."
     },
     {
      "cat": "home",
@@ -7652,26 +7742,6 @@
      "office": false,
      "note": "Electrical work is underway at the house - the sitter names the electrician as Ramon. On the Oct 6 midday visit the dogs were already out in the backyard because of the work, and the sitter left no doors unlocked because the electricians were inside.",
      "quote": "electricians were working in the house so no doors were unlocked"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Dan Dantimo evening visit report, 9:11pm",
-     "office": true,
-     "note": "On the Oct 6 evening visit Dan Dantimo found and cleaned up an accident from Gracie in the basement. The visit report's accidents question on the same report was nonetheless answered 'There were no accidents', so the narrative and the form disagree - office should confirm which is right before deciding whether this needs following up with Chuck.",
-     "quote": "clean up an accident from Gracie in the basement"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "On the Oct 6 midday visit the client was home and asked that the door not be locked. Stated for that visit only; do not assume it holds on other days.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
