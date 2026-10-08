@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T23:20:08-04:00",
+ "generated": "2026-10-08T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -174,16 +174,6 @@
     {
      "cat": "behavior",
      "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Nova hid in her room when Shannon brought Elizabeth Cuffari along to shadow, then settled after reassurance and did well with her. Harness was used to get Nova outside.",
-     "quote": "She actually ran to her room at first"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
      "type": "standing",
      "date": "Sep 16",
      "source": "Client message (Terri Orengo)",
@@ -200,16 +190,6 @@
      "office": false,
      "note": "Answering that report, Terri says Nova not going potty on a visit is not a concern - she is reliable about going when she needs to. Terri adds that Nova did both #1 and #2 before she left for work that morning.",
      "quote": "She’s pretty good about going potty if she has to, so if she didn’t, she should be ok."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client message (Terri Orengo)",
-     "office": false,
-     "note": "Client says it has been about two weeks since the last visit because she has been home, and was nervous about the first visit back. No request or action asked for.",
-     "quote": "it’s been a couple weeks bc I’ve been home"
     }
    ],
    "dormant": false
@@ -1343,26 +1323,6 @@
      "office": false,
      "note": "Company Notes rewritten Sep 17 by Tiarra Roberts. Arrival routine, unchanged from the previous version: enter through the garage, ring the white doorbell button to the left of the door into the house before entering, close the garage door before entering and keep it closed during the walk. Mary will most likely be home and uses a walker. At the end of the visit turn off the laundry room light and close the garage door keypad flap. No codes are recorded here - they stay in Time To Pet.",
      "quote": "Ring white doorbell button before entering (white button to left of door into house)"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Ashley Corall visit report, Sep 16 10:00am",
-     "office": false,
-     "note": "Sep 16 morning walk: the sitter used Georgie's cooling collar because of the humidity, and says he slowed down earlier than usual so she let him take his time. Relevant because his hot-weather protocol was deleted from the Current Pet Care Note on Sep 11 and is no longer written down anywhere the sitter can see it. Stool this visit was firm and healthy, #1 and #2 both done.",
-     "quote": "The humidity definitely called for the cooling collar today."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Tiarra Roberts visit report, Sep 16 8:40pm",
-     "office": false,
-     "note": "Two toads were sitting on the pavement immediately outside the gate at the start of the Sep 16 PM walk. The sitter steered Georgie away from them and says she stayed on high alert for the rest of the walk. This adds a location to the existing toad warning: the risk starts right at the gate, not further along the route.",
-     "quote": "Right out of the gate, we encountered two toads. I encouraged Georgie to leave them."
     }
    ],
    "dormant": false
@@ -1667,16 +1627,6 @@
      "office": false,
      "note": "Sep 22 visit (Alex Miller): Bismark greeted him at the stairs but lay down in the yard for about 5 minutes, then lay down again just outside the gate. He was shaking a bit, so Alex did not push the walk. No potty on this visit. The report's checkbox says the walk went as planned, which does not match the written text. Continues the pattern of refusing walks seen Sep 7-18.",
      "quote": "he was shaking a bit so I didn’t want to push him to hard to walk"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Drew Walker visit report",
-     "office": false,
-     "note": "Bismark would not come down from the top of the stairs until the sitter acted like he was leaving. On the walk he got just past the driveway, laid down and would not go further, so they went back inside because of bugs. No #2 on this visit.",
-     "quote": "he laid down and refused to go any further"
     },
     {
      "cat": "behavior",
@@ -3845,16 +3795,6 @@
      "office": true,
      "note": "Guinness' Sep 17 evening walk logged #2 as a little loose but not concerning. That continues the loose-stool run already recorded on Sep 4, 11, 14, 15 and 16, so this is the sixth logged instance and still has not been raised with Deb. The walk itself went well - good on leash, #1 and a small #2, chased off a bunny. Client was home and asked that the door not be locked.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Dan Dantimo visit report, Sep 16 evening walk",
-     "office": false,
-     "note": "Guinness went a small amount of #2 on the Sep 16 evening walk and Dan again logged the consistency as a little loose but not concerning. Same reading as Sep 4, 11, 14 and 15 - a run of loose stool now spanning about two weeks.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -3947,36 +3887,6 @@
      "quote": "she started pulling extremely hard, even though the dog already went inside"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Julie Smith visit report, Sep 16 evening walk",
-     "office": false,
-     "note": "Muffy was on guard and barking when the sitter first arrived. Getting low, petting her head and saying her name settled her. Client was home for this visit.",
-     "quote": "when I got low and started petting her head and saying her name, she did calm down"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Julie Smith visit report, Sep 16 evening walk",
-     "office": false,
-     "note": "Muffy tried several times to eat goose poop on the walk; the sitter pulled her away each time. Watch for it on grassy stretches.",
-     "quote": "She did have a few moments of trying to eat the goose poop, but I was able to get her away quickly."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client private message, 9:21pm",
-     "office": true,
-     "note": "Replying to a private message from the office, the client asks for guidance on harnesses for Muffy. She also says she and Muffy like sitter Julie and hopes Julie can do more of her walks. Both points are waiting on an office reply.",
-     "quote": "I would appreciate any guidance you can give me on harnesses."
-    },
-    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -4029,26 +3939,6 @@
     },
     {
      "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Kiara Streety visit report, Sep 16 11:46am",
-     "office": false,
-     "note": "Work on the far side of the parking lot left no parking at the Sep 16 visit and the sitter had to park well away from the building. Allow extra time on arrival until the work finishes.",
-     "quote": "There was no parking because the other side of the parking lot is getting worked on so I had to park far out!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Client private message via Time To Pet, Sep 16 1:12pm",
-     "office": false,
-     "note": "Client is answering the sitter report about the vacuum that no longer clicks together. She says she will be at the house tomorrow to look at it and will buy a replacement before the next visit if it cannot be fixed. Until then sitters should expect the vacuum to still be broken.",
-     "quote": "I will be over there tomorrow and will see what is wrong with the vacuum."
-    },
-    {
-     "cat": "home",
      "sev": "low",
      "type": "standing",
      "date": "Sep 17",
@@ -4056,16 +3946,6 @@
      "office": false,
      "note": "Marcia points out a broom and dust pan kept in the closet in the living area, available to sitters if needed.",
      "quote": "There is also a broom and dust pan in the closet in the living area if needed."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Kiara Streety visit report, Sep 16 11:46am",
-     "office": false,
-     "note": "The vacuum at this house no longer clicks back together and the sitter had to hold it with two hands to use it after changing the litter. First report of this.",
-     "quote": "had to use 2 hands for vaccum it will not click back into place anymore it keeps falling apart"
     },
     {
      "cat": "behavior",
@@ -5393,16 +5273,6 @@
      "quote": "Outdoor cat present and we will feed"
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 16",
-     "source": "Tiarra Roberts visit report, Sep 16 11:22am",
-     "office": false,
-     "note": "Vomit was found and cleaned up under the office chair on the Sep 16 morning visit. The report does not say which cat, so this cannot be tied to Miley. It is the second mess in four days at this house after the Sep 13 potty accident, which was also unattributed. Miley took her medication normally on this visit.",
-     "quote": "cleaned up a puke under office chain"
-    },
-    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -6449,7 +6319,7 @@
      "quote": "we would like to check your availability for around Thanksgiving this year"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Nicole Zammit",
@@ -7735,6 +7605,26 @@
     }
    ],
    "dormant": false
+  },
+  {
+   "name": "Zachary Schulman",
+   "url": "https://www.timetopet.com/dashboard/client/tfz5r8ZhxO81",
+   "pets": [
+    "Walter"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Aug 21",
+     "source": "Jade Popovitz visit report",
+     "office": false,
+     "note": "First walk with Walter (Kiara Streety walking, Jade Popovitz shadowing and writing the report): he met them at the door, walked well and did not pull, but mouthed sticks and dirt along the route. Single observation from one visit, not established as a pattern.",
+     "quote": "He kept picking up sticks and even a bit of dirt in his mouth."
+    }
+   ],
+   "dormant": true
   }
  ]
 }
