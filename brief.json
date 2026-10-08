@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T18:20:06-04:00",
+ "generated": "2026-10-08T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3377,6 +3377,16 @@
      "quote": "I’m home today. See you later."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Client private message to Miranda, Oct 8 6:22pm",
+     "office": true,
+     "note": "Lynne replied \"Yes fine with us\" to a private message Miranda had sent her. The email does not quote what Miranda proposed, so what she is agreeing to is not known from this notification - the office should check the Time To Pet conversation and confirm back to her. Earlier today she wrote that she was home.",
+     "quote": "Yes fine with us"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3425,16 +3435,6 @@
      "office": false,
      "note": "On arrival for the Oct 6 afternoon visit the front door was unlocked, so the sitter entered that way. She locked the front door on leaving and exited through the garage, closing it fully. One observation, not a standing rule.",
      "quote": "I came through the front door because it was unlocked"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Julie Smith visit report 4:57 PM",
-     "office": true,
-     "note": "Closing out today: the 4:30 afternoon walk did happen - Julie Smith filed a full report at 4:57 PM, Holly walked, ate and had fresh water, no accidents, supplies fine. In the same message the sitter tells the client she will be back tomorrow at 1:45. That is the first time named for Oct 7 and it does not match the 1:00 the client asked about this morning, so the office should confirm which is right.",
-     "quote": "I will be back tomorrow at 1:45."
     }
    ],
    "dormant": false
