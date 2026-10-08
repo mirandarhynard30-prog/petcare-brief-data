@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T09:50:09-04:00",
+ "generated": "2026-10-08T11:05:07-04:00",
  "date": "2026-10-08",
  "label": "Oct 8, 2026",
  "clients": [
@@ -22,13 +22,6 @@
      "time": "8:15 AM",
      "sort": "0815",
      "staff": "Thomas Rakovec",
-     "service": "Dog Visit-30 minute",
-     "pets": "Gracie, Rebel, Bob"
-    },
-    {
-     "time": "2:00 PM",
-     "sort": "1400",
-     "staff": "Dan Dantimo",
      "service": "Dog Visit-30 minute",
      "pets": "Gracie, Rebel, Bob"
     },
@@ -221,5 +214,5 @@
    ]
   }
  ],
- "visitCount": 21
+ "visitCount": 20
 }
