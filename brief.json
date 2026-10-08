@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T12:20:05-04:00",
+ "generated": "2026-10-08T13:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4456,6 +4456,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts visit report, 12:36pm",
+     "office": false,
+     "note": "Access trouble on the midday visit: the lockbox gave trouble, so the sitters came in through the front door. The key was put back in the lockbox at the end. Entry codes in the report were deliberately left out of this brief.",
+     "quote": "We had a little trouble with the lockbox. We entered through the front door."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Noella Assi visit report, 12:39pm",
+     "office": false,
+     "note": "Second access problem on the same afternoon visit, reported separately: the garage would not open, so they went in through the front door. She also notes the garbage bins are not empty.",
+     "quote": "Garage was not opening so we went thru the front door."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Sep 18",
      "source": "Sep 18 11am visit report, Noella Assi",
      "office": false,
@@ -4471,6 +4491,16 @@
      "office": false,
      "note": "The Sep 17 report records the client at home and asks that the door not be locked. This comes from the report's canned home-security answer, so whether it is a standing instruction or applied only to this visit is not clear. Blackie was again collected at neighbour Greg's and Greg had to call him in from his nap.",
      "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Client message, 12:41pm",
+     "office": true,
+     "note": "After the two access problems Fabiana wrote back with corrected garage entry details. The code itself is deliberately not recorded here - the office should put it into her Time To Pet access instructions so the next sitter is not locked out.",
+     "quote": ""
     }
    ],
    "dormant": false
