@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T16:20:06-04:00",
+ "generated": "2026-10-08T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5199,7 +5199,8 @@
    "pets": [
     "Paula Rose \"Rosie\"",
     "Frankie Thomas \"Frankie\"",
-    "Rosie"
+    "Rosie",
+    "Frankie"
    ],
    "items": [
     {
@@ -5251,6 +5252,16 @@
      "office": false,
      "note": "Entry is through the attached garage at the Fox Villa apartments. The note asks the sitter to send an ETA in case Karen's friend is there resting.",
      "quote": "Send an ETA just in case Karen's friend is there resting."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Visit report",
+     "office": false,
+     "note": "Monica Hopewell showed Tiarra Roberts the fenced back yard that can be used instead of a walk in bad weather, and the water dispenser. Water bowls were refreshed and both dogs went #1 on the 3:30pm walk.",
+     "quote": "Monica showed me the backyard fenced in area, for in case of bad weather."
     },
     {
      "cat": "behavior",
@@ -7838,6 +7849,26 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Client message",
+     "office": false,
+     "note": "Chuck asks sitters to stop putting pee pads down in the basement - hose the area down to the floor drain instead; he says the pads make more of a mess. Dan Dantimo acknowledged the same day that no pee pads will be put down in future.",
+     "quote": "you don’t really need to put the pee pads down in the basement. I would just hose the area down to the drain."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Client message",
+     "office": false,
+     "note": "Follow-up clarification from Chuck the same afternoon: pee pads are fine for an accident elsewhere in the house - the no-pads rule applies only to the basement, which gets hosed anyway.",
+     "quote": "if there’s an accident somewhere else in the house, the pads are fine, but the basement floor ends up being hosed anyways"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Oct 7",
      "source": "Thomas Rakovec visit report 9:15am",
@@ -7864,26 +7895,6 @@
      "office": false,
      "note": "Client asks the sitter to check the basement for urine and, if any is found, hose it down the drain. Asked once today in reply to the morning visit report; not yet confirmed as a standing instruction.",
      "quote": "Can you check the basement to make sure there’s no pee down there and if there is just hose it down the drain please?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Dan Dantimo evening visit report, 9:16pm",
-     "office": false,
-     "note": "Rebel would not come back in from the fenced yard at the evening visit - Bob and Gracie came in readily, Rebel needed to run off energy first and the sitter had to go back out for her more than once. Allow extra time at the end of a yard session.",
-     "quote": "Rebel had to do some running before she was ready to come back in"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Dan Dantimo evening visit report, 9:16pm",
-     "office": false,
-     "note": "Gracie went #1 and #2 in the basement again at the evening visit and the sitter cleaned it up; her stool was recorded as slightly loose, which the sitter judged not concerning. Worth watching at the next visit - no vet contact mentioned.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
