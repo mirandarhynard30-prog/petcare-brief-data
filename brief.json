@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T07:20:07-04:00",
+ "generated": "2026-10-08T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -336,6 +336,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Client message, Oct 8 7:29am",
+     "office": true,
+     "note": "Liz messaged at 7:29am to cancel the dogs' visit for today. A portal Service Change notice at 7:40am shows the cancellation covering today's Thu Oct 8 11:00-11:45 AM Dog Visit-45 minute for Stella, Berry and Emma; Louie is not named on that notice. Office needs to process the request and confirm back to her. This is the fourth same-day cancellation from her in this mailbox after Sep 18, Sep 24 and Sep 25.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -444,16 +454,6 @@
      "office": false,
      "note": "Emma had her eye drops at this visit and the report logs medication as administered for her.",
      "quote": "eye drops for Emma"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Sitter Thomas Rakovec, Oct 1 midday visit report",
-     "office": false,
-     "note": "Emma gets eye drops at the visit - the Oct 1 report lists them in the narrative and answers 'Was medication administered?' Yes under Emma. This is the first time eye drops for Emma appear in the mail; whether they are a standing every-visit instruction or only for this period is not stated anywhere in the email.",
-     "quote": "Emma's eye drops"
     }
    ],
    "dormant": false
@@ -7388,6 +7388,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Visit report, Michelle Carrara, Oct 8 8:11am",
+     "office": true,
+     "note": "At the Oct 8 morning visit the sitter saw Pippa biting the cord/plug of the living room lamp, once. She asked the client whether Pippa typically does this and has had no answer yet. It is an electrical cord, so a sitter should keep an eye on it; this is the first time it appears in this mailbox, so it is a single observation and not yet a standing rule.",
+     "quote": "I noticed that Pippa was biting the cord/plug for the lamp in the living room- does she typically do this? It was only once"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7396,6 +7406,26 @@
      "office": false,
      "note": "Client asks the sitter to bring in a large Chewy delivery expected today and leave it in the garage, back hallway or anywhere else inside. She says the box holds cat litter, delectables and wet food for the girls.",
      "quote": "I received notification that a large Chewy package is due to be delivered today. Would you mind bringing it in once it’s delivered?"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Visit report, Michelle Carrara, Oct 8 8:11am",
+     "office": false,
+     "note": "Both cats were waiting at the garage door when the sitter let herself in on Oct 8. She took care on entry so Pippa did not dart out into the garage, and Pippa did not. The published escape-risk note for this home names the front door; this is the first record in this mailbox of the same risk at the garage entry.",
+     "quote": "I was careful when I came in so Pippa didn’t dart into the garage."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Visit report, Michelle Carrara, Oct 8 8:11am",
+     "office": false,
+     "note": "At the Oct 8 morning visit Polly started on her wet food straight away and Pippa was less interested. Pippa also stayed shy and did not join the play session, watching from the sidelines. Plenty of dry food was down so none was topped off. Worth watching next to the Oct 7 evening vomit, which was never pinned to either cat.",
+     "quote": "She began eating as soon as I put the food down. Pippa was less interested."
     },
     {
      "cat": "health",
