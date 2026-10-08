@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T15:20:05-04:00",
+ "generated": "2026-10-08T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7628,6 +7628,16 @@
      "office": false,
      "note": "CORRECTION to the AM treat placement: Pippa's pile of Temptation treats from the pantry goes on the DOWNSTAIRS bedroom dresser, not the upstairs one as the notes previously said.",
      "quote": "Pile Temptation treats (pantry) on downstairs bedroom dresser for Pippa in AM visit."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Lauren & Brian Stuy message",
+     "office": false,
+     "note": "Lauren confirms Pippa does chew cords sometimes; she says telling her no stops her and thinks it is attention-seeking. Answers the sitter's cord-biting question - no other action requested.",
+     "quote": "Pippa does sometimes bite cords. She’s a bit mischievous. I tell her no and she stops."
     },
     {
      "cat": "health",
