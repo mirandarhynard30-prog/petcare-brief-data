@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T14:35:13-04:00",
+ "generated": "2026-10-08T15:51:27-04:00",
  "date": "2026-10-08",
  "label": "Oct 8, 2026",
  "clients": [
@@ -72,7 +72,14 @@
      "time": "3:30 PM",
      "sort": "1530",
      "staff": "Monica Hopewell",
-     "service": "Last Minute Visit- 45 minute",
+     "service": "Last Minute &Trainer-45 Minute",
+     "pets": "Paula Rose \"Rosie\", Frankie Thomas \"Frankie\""
+    },
+    {
+     "time": "3:30 PM",
+     "sort": "1530",
+     "staff": "Tiarra Roberts",
+     "service": "Shadow Visit with Staff Member-45 minute",
      "pets": "Paula Rose \"Rosie\", Frankie Thomas \"Frankie\""
     }
    ]
@@ -226,5 +233,5 @@
    ]
   }
  ],
- "visitCount": 21
+ "visitCount": 22
 }
