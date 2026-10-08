@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T17:20:05-04:00",
+ "generated": "2026-10-08T18:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7480,24 +7480,24 @@
      "quote": "Please feed them as close to 5:00 pm as you can."
     },
     {
-     "cat": "behavior",
+     "cat": "health",
      "sev": "low",
-     "type": "standing",
-     "date": "Oct 5",
-     "source": "Client message 6:00pm",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Visit report, Dan Dantimo, Oct 8 5:29pm",
      "office": false,
-     "note": "Owner describes Sasha as very smart and inclined to try to trick people.",
-     "quote": "Sasha is a very smart dog but she often uses her intelligence to try to trick us!"
+     "note": "Both Calvin and Sasha passed stool twice on the walk and the report records the consistency for each as \"a little loose but not concerning\". First such reading for either dog in this mailbox - worth a look at the next visit, not a vet matter on one reading.",
+     "quote": "both Calvin and Sasha went number one and two(they both went twice)"
     },
     {
-     "cat": "home",
+     "cat": "behavior",
      "sev": "low",
-     "type": "standing",
-     "date": "Oct 5",
-     "source": "Client message 6:10pm",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Visit report, Dan Dantimo, Oct 8 5:29pm",
      "office": false,
-     "note": "Owner says she has cameras around the house that she can check.",
-     "quote": "I have cameras around the house that I can check if I want to."
+     "note": "On arrival both dogs barked from upstairs and did not come down; Dan sat on the steps to greet them and both came down, the report noting little hesitation from Sasha. One sitter's experience on one visit, not a standing rule.",
+     "quote": "I sat on the steps to greet them and both came down with little hesitation from Sasha."
     }
    ],
    "dormant": false
@@ -7867,6 +7867,16 @@
      "quote": "if there’s an accident somewhere else in the house, the pads are fine, but the basement floor ends up being hosed anyways"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Client message, Oct 8 5:30pm",
+     "office": false,
+     "note": "Chuck was home this evening before leaving again and handled the dogs himself: fed at 4:30pm, last let out at 5:30pm. Relevant to tonight's nighttime visit.",
+     "quote": "I fed them at 4:30 and let them out for the last time at 5:30"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7885,16 +7895,6 @@
      "office": false,
      "note": "Urine spots found in the basement again on the 9:15am visit; Thomas cleaned and sanitized them. All three dogs toileted outside as well, and Gracie's #2 was reported firm and healthy this visit.",
      "quote": "The basement only had a few no.#1s and I cleaned it up and sanitized it."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Client message 12:42pm",
-     "office": false,
-     "note": "Client asks the sitter to check the basement for urine and, if any is found, hose it down the drain. Asked once today in reply to the morning visit report; not yet confirmed as a standing instruction.",
-     "quote": "Can you check the basement to make sure there’s no pee down there and if there is just hose it down the drain please?"
     }
    ],
    "dormant": false
@@ -7918,6 +7918,26 @@
     }
    ],
    "dormant": true
+  },
+  {
+   "name": "Joan (Lynn) Stemmer",
+   "url": "https://www.timetopet.com/dashboard/client/t7p1moEAG5bf",
+   "pets": [
+    "Boo"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Client private message to Miranda, Oct 8 6:00pm",
+     "office": true,
+     "note": "Returning client asking to re-engage service for Boo: Monday and Friday, 10:30am start, 20-minute walk, proposed start date 10/12/26, and she would add Wednesday in winter if it goes well. She wants to know if we are interested and what it costs, says email or phone is fine and that Boo is still healthy. Her callback number is in the Time To Pet message. No reply sent yet and the proposed start is this coming Monday.",
+     "quote": "I am looking for Monday and Friday starting at 10:30 for a 20 minute walk."
+    }
+   ],
+   "dormant": false
   }
  ]
 }
