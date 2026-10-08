@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T10:20:06-04:00",
+ "generated": "2026-10-08T11:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -346,6 +346,16 @@
      "quote": ""
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Liz Wainio client message, 11:10am",
+     "office": true,
+     "note": "Follow-up to her 7:29am cancellation: she confirms today's visit is cancelled in full. She is already off today's roster, so this is most likely already processed, but it is a second explicit cancellation and should be acknowledged to her.",
+     "quote": "Sorry, I just saw this. We will completely cancel our visit for today"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -444,16 +454,6 @@
      "office": true,
      "note": "Report covers Stella, Berry and Emma but has no section for Louie, so it does not say whether he went out. Noted only because refusals are logged Sep 17, 29, 30.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Thomas Rakovec visit report 1:05 PM",
-     "office": false,
-     "note": "Emma had her eye drops at this visit and the report logs medication as administered for her.",
-     "quote": "eye drops for Emma"
     }
    ],
    "dormant": false
@@ -1003,14 +1003,14 @@
      "quote": ""
     },
     {
-     "cat": "health",
+     "cat": "home",
      "sev": "low",
      "type": "recent",
-     "date": "Oct 7",
-     "source": "Drew Walker visit report",
+     "date": "Oct 8",
+     "source": "Drew Walker visit report, 10:38am",
      "office": false,
-     "note": "Chloe's #2 on the Oct 7 mid-morning walk was recorded as a little loose, with the sitter noting it was not concerning. Single observation, no other symptoms reported.",
-     "quote": ""
+     "note": "Melody was home for the 10:10am visit with cleaners in the house and asked the sitter not to lock the door on the way out. One-off instruction for this visit, not a standing rule.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -3990,6 +3990,16 @@
     {
      "cat": "home",
      "sev": "low",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Jade Popovitz visit report, 10:59am",
+     "office": false,
+     "note": "A guest was in the home at the 10:40am visit and told the sitter that Marcia and Freddy were asleep and that food and water had already been done. The sitter changed the litter quietly and did not verify food and water herself, so that is second-hand and not confirmed.",
+     "quote": "When I came in I was greeted by a guest who told me Marcia and Freddy were fast asleep together."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
      "type": "standing",
      "date": "Sep 17",
      "source": "Marcia Ontell private message, 1:58pm",
@@ -4726,6 +4736,26 @@
     "Miguel"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Kari Majewski client message, 10:20am",
+     "office": true,
+     "note": "Kari is taking Miguel with the family to West Virginia for the holiday weekend, so she cancelled his Oct 10 visit herself in the portal, and has submitted a separate request for a house visit on Oct 10 instead. Needs processing and a reply.",
+     "quote": "We decided to take Miguel with us to WV so I cancelled his visit for 10/10."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Kari Majewski client message, 10:20am",
+     "office": true,
+     "note": "Asks whether the sitter can feed their fish during the Oct 10 house visit and offers to pay extra. Unanswered - the office needs to confirm whether fish feeding is being added before the visit is staffed.",
+     "quote": "Would it be possible for your team member to feed our fish while there?"
+    },
     {
      "cat": "schedule",
      "sev": "medium",
