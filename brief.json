@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T22:20:07-04:00",
+ "generated": "2026-10-07T23:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6747,6 +6747,16 @@
    "url": "https://www.timetopet.com/dashboard/client/t7fnymq07A1G",
    "pets": [],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Client message 10:41pm Oct 7",
+     "office": true,
+     "note": "Gina wrote that her mom is moving to Heritage Crossing in Akron, OH. No move date given and no pet named; the full street address is in her Time To Pet message. Office needs to confirm when the move happens and update the service address before the next visit, and tell the assigned sitter.",
+     "quote": "Mom is moving to Heritage Crossing"
+    },
     {
      "cat": "schedule",
      "sev": "medium",
