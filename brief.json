@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T08:20:05-04:00",
+ "generated": "2026-10-08T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1323,6 +1323,26 @@
      "office": false,
      "note": "Company Notes rewritten Sep 17 by Tiarra Roberts. Arrival routine, unchanged from the previous version: enter through the garage, ring the white doorbell button to the left of the door into the house before entering, close the garage door before entering and keep it closed during the walk. Mary will most likely be home and uses a walker. At the end of the visit turn off the laundry room light and close the garage door keypad flap. No codes are recorded here - they stay in Time To Pet.",
      "quote": "Ring white doorbell button before entering (white button to left of door into house)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Michelle Carrara visit report, Oct 8 8:54am",
+     "office": false,
+     "note": "Georgie pulled on the way down the driveway at the Oct 8 morning walk. Michelle read it as excitement to get outside rather than a handling problem. First record of leash pulling for this dog in this mailbox - the deleted Walk Instructions section still has not been restored, so a sitter has nothing in writing about how he walks.",
+     "quote": "Georgie pulled as we walked down the driveway."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Michelle Carrara visit report, Oct 8 8:54am",
+     "office": false,
+     "note": "On the same Oct 8 morning walk Georgie met another dog and acknowledged it from a distance without reacting. One observation from one sitter, not a standing rule, but the first note in this mailbox on how he is around other dogs.",
+     "quote": "He just looks with curiosity but doesn’t react"
     }
    ],
    "dormant": false
