@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T21:20:05-04:00",
+ "generated": "2026-10-07T22:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -780,6 +780,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Angela Jozsa private message, 9:24pm",
+     "office": true,
+     "note": "Client cancels Thursday Oct 8 - says they will not need Margaret tomorrow - and asks instead for TWO visits on Friday Oct 9, suggesting roughly 10 or 11am and 2pm. Times are her suggestion, not confirmed. Needs an office reply and the Friday visits built.",
+     "quote": "We won’t need Margaret tomorrow but would she be able to come twice on Friday?"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -888,16 +898,6 @@
      "office": false,
      "note": "This answers the open crate-door question. The client wants Lucy put back in the pen at the end of the visit, for now - she is still worried about house-training accidents and chewing while Lucy is young. The client says she would eventually like to drop the habit but wants to go slowly, so treat it as the current rule until she says otherwise.",
      "quote": "Yes I am going to keep her going back in the pen for a while. Until I feel a little more comfortable."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Margaret Bill visit report, Sep 29 12:41pm",
-     "office": false,
-     "note": "Sep 29 midday walk: Lucy was lying in her bed on arrival, had to be encouraged to walk, and the sitter used the treat game to move her along. She took the treats on the walk but would not eat or drink when the sitter offered. She went #1, no #2, and the sitter wrote she did not seem to have much energy and hoped she was okay. See the client's own explanation for this, filed separately - do not read the two as one message.",
-     "quote": "I tried to get her to eat or drink but she wouldn't take either."
     }
    ],
    "dormant": false
@@ -7521,6 +7521,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "standing",
+     "date": "Oct 7",
+     "source": "Lauren Stuy client message, 9:15pm",
+     "office": false,
+     "note": "Standing supply note from the client: if the paper plates run out, the cats' own dishes are white saucers with fish bones / cat paws on them, stacked on the third shelf from the bottom in the pantry. These dishes are the ones used for wet food and delectables. Client confirmed paper plates were fine in the meantime.",
+     "quote": "the cat dishes are on the shelves in the pantry (third shelf from the bottom - there is a stack of them)"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 3",
      "source": "Tiarra Roberts updated contact information for Lauren & Brian Stuy (4:35 PM)",
      "office": true,
@@ -7662,6 +7672,26 @@
      "office": false,
      "note": "Client asks the sitter to check the basement for urine and, if any is found, hose it down the drain. Asked once today in reply to the morning visit report; not yet confirmed as a standing instruction.",
      "quote": "Can you check the basement to make sure there’s no pee down there and if there is just hose it down the drain please?"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Dan Dantimo evening visit report, 9:16pm",
+     "office": false,
+     "note": "Rebel would not come back in from the fenced yard at the evening visit - Bob and Gracie came in readily, Rebel needed to run off energy first and the sitter had to go back out for her more than once. Allow extra time at the end of a yard session.",
+     "quote": "Rebel had to do some running before she was ready to come back in"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 7",
+     "source": "Dan Dantimo evening visit report, 9:16pm",
+     "office": false,
+     "note": "Gracie went #1 and #2 in the basement again at the evening visit and the sitter cleaned it up; her stool was recorded as slightly loose, which the sitter judged not concerning. Worth watching at the next visit - no vet contact mentioned.",
+     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "home",
