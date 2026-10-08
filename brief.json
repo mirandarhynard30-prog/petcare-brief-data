@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T14:20:05-04:00",
+ "generated": "2026-10-08T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -943,6 +943,16 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Harvett Ellington visit report",
+     "office": false,
+     "note": "Chloe was asleep upstairs and the sitter carried her downstairs to go out. She then walked for quite a bit and stool was firm. Unclear from the report whether carrying was needed or just a courtesy for a sleeping dog - worth asking before treating it as a rule.",
+     "quote": "Chloe was upstairs sleeping. I carried her downstairs to go outside."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1001,16 +1011,6 @@
      "office": false,
      "note": "On the Sep 30 afternoon visit the home-security field was logged as the client being home during the visit and asking that the door not be locked on the way out. Quote deliberately left empty - that field text is a canned dropdown option that other clients logged the same day, and the de-duplication key would silently drop one of them.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Drew Walker visit report, 10:38am",
-     "office": false,
-     "note": "Melody was home for the 10:10am visit with cleaners in the house and asked the sitter not to lock the door on the way out. One-off instruction for this visit, not a standing rule.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
