@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T06:20:05-04:00",
+ "generated": "2026-10-08T07:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7388,6 +7388,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Client message 6:16 AM Oct 8",
+     "office": false,
+     "note": "Client asks the sitter to bring in a large Chewy delivery expected today and leave it in the garage, back hallway or anywhere else inside. She says the box holds cat litter, delectables and wet food for the girls.",
+     "quote": "I received notification that a large Chewy package is due to be delivered today. Would you mind bringing it in once it’s delivered?"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7416,6 +7426,16 @@
      "office": true,
      "note": "Access Instructions cut to the garage line alone at 4:35 PM. Two lines went: that the front door takes the same code, and that the code changes after each set of visits. There is now no written fallback if the garage will not open, and the notes themselves call the front door an escape risk. The Company Notes edit in the same batch was cosmetic. Codes stay in Time To Pet.",
      "quote": "Front door will have same code."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Michelle Carrara message 6:19 AM Oct 8",
+     "office": false,
+     "note": "Michelle Carrara replied that she is covering today's visits and will watch for the package, so the client's request has already been acknowledged in writing.",
+     "quote": "Yes, I will be on the look out for the package."
     }
    ],
    "dormant": false
