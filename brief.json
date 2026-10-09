@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T06:20:10-04:00",
+ "generated": "2026-10-09T07:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7833,21 +7833,22 @@
    "name": "Zachary Schulman",
    "url": "https://www.timetopet.com/dashboard/client/tfz5r8ZhxO81",
    "pets": [
-    "Walter"
+    "Walter",
+    "Walt"
    ],
    "items": [
     {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
-     "date": "Aug 21",
-     "source": "Jade Popovitz visit report",
+     "date": "Oct 9",
+     "source": "Zachary Schulman has sent you a new message, Oct 9 7:08am",
      "office": false,
-     "note": "First walk with Walter (Kiara Streety walking, Jade Popovitz shadowing and writing the report): he met them at the door, walked well and did not pull, but mouthed sticks and dirt along the route. Single observation from one visit, not established as a pattern.",
-     "quote": "He kept picking up sticks and even a bit of dirt in his mouth."
+     "note": "For today's visit the client asks the walker to FEED Walt. He is leaving Walt's lunch in a plastic bag on the kitchen counter, and asks the sitter to make sure Walt has enough water before leaving. This is a request for today only as written - nothing in the message makes it a standing rule.",
+     "quote": "I am leaving his lunch in a plastic bag on the kitchen counter to make it easy."
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Joan (Lynn) Stemmer",
