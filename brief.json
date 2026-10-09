@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T20:20:05-04:00",
+ "generated": "2026-10-08T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7592,6 +7592,16 @@
     },
     {
      "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Client message 8:15pm Oct 8",
+     "office": false,
+     "note": "ANSWER to the open pantry-door question: the client says the pantry door stays CLOSED, because the dry food sits on the floor and Polly would dive into it. The pantry has a glass door on purpose - the cats like to follow them in, and at their prior house the cats were frequently shut in the pantry unnoticed. So close it, but check the low shelves for a cat before you do.",
+     "quote": "so yes, door closed but keep an eye out for them. They love to dart and hunker on the low shelves."
+    },
+    {
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
      "date": "Oct 8",
@@ -7681,24 +7691,14 @@
      "quote": "Polly walked up to her and Peppa stopped eating."
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Noella Assi visit report (shadowing Tiarra Roberts)",
-     "office": false,
-     "note": "Vomit found in the home at the Oct 7 evening visit and cleaned up; the report does not say which cat was sick, so watch both Pippa and Polly. Both ate most of a Delectable and no supplies were low.",
-     "quote": "While looking around I spotted a throw up, we cleaned it up and went upstairs to put the tv for them."
-    },
-    {
-     "cat": "home",
+     "cat": "behavior",
      "sev": "medium",
      "type": "standing",
-     "date": "Oct 7",
-     "source": "Lauren Stuy client message, 9:15pm",
+     "date": "Oct 8",
+     "source": "Client message 8:13pm Oct 8",
      "office": false,
-     "note": "Standing supply note from the client: if the paper plates run out, the cats' own dishes are white saucers with fish bones / cat paws on them, stacked on the third shelf from the bottom in the pantry. These dishes are the ones used for wet food and delectables. Client confirmed paper plates were fine in the meantime.",
-     "quote": "the cat dishes are on the shelves in the pantry (third shelf from the bottom - there is a stack of them)"
+     "note": "The client confirms the feeding dynamic the sitters have been seeing is normal for these two: Polly is a food hog who crowds Pippa off her food, and Pippa gives way and leaves rather than standing her ground. This turns the Oct 8 evening observation into a standing rule - feed them apart, or carry Pippa's dish away from Polly, so Pippa actually eats.",
+     "quote": "Polly is a little bit of a bully/food hog, and Pippa chooses to run away whenever Polly gets too sassy/interested."
     }
    ],
    "dormant": false
