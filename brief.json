@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T14:20:06-04:00",
+ "generated": "2026-10-09T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -790,6 +790,16 @@
      "quote": "I have had her all checked out and everything so she doesn’t have worms or anything like that"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Margaret Bill visit report 2:42pm",
+     "office": false,
+     "note": "Second visit of the day, 2pm: Lucy had noticeably more energy than at the 11:39am visit, went #1 almost immediately, sniffed her way up the drive and took treats. No #2 was recorded at either Oct 9 visit and no scooting was mentioned this afternoon.",
+     "quote": "Lucy was definitely more energetic than she was this morning. She went number one almost immediately."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -868,16 +878,6 @@
      "office": false,
      "note": "Lucy went #1 only on the Oct 1 midday walk and had no bowel movement. She was lying in her bed in her pen on arrival and had to be encouraged to move. She ate treats and kibble and went back into the pen without difficulty. This continues the low-energy and no-#2 pattern already logged on Sep 28 and Sep 29.",
      "quote": "She did not do any number two today."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Margaret Bill visit report, 12:28 PM",
-     "office": false,
-     "note": "Lucy ate all the kibble she was given and her #2 was logged firm and healthy. That reverses the Sep 29 midday visit where she refused both food and water. She also seemed less tired than the day before.",
-     "quote": "She ate all the kibble that I gave her."
     }
    ],
    "dormant": false
