@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T07:20:05-04:00",
+ "generated": "2026-10-09T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1325,14 +1325,14 @@
      "quote": "Georgie pulled as we walked down the driveway."
     },
     {
-     "cat": "behavior",
-     "sev": "low",
+     "cat": "health",
+     "sev": "medium",
      "type": "recent",
      "date": "Oct 8",
-     "source": "Michelle Carrara visit report, Oct 8 8:54am",
+     "source": "Tiarra Roberts evening visit report, Oct 8 8:41pm",
      "office": false,
-     "note": "On the same Oct 8 morning walk Georgie met another dog and acknowledged it from a distance without reacting. One observation from one sitter, not a standing rule, but the first note in this mailbox on how he is around other dogs.",
-     "quote": "He just looks with curiosity but doesn’t react"
+     "note": "Georgie went #1 on the Oct 8 evening walk with Tiarra Roberts but had no bowel movement, and the sitter notes they stayed out the whole time. The visit report's accidents field says there were no accidents. No vet contact and no client comment on it in this mailbox.",
+     "quote": "We stayed out the entire time, but no #2."
     }
    ],
    "dormant": false
