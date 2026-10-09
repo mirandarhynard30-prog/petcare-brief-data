@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T09:20:05-04:00",
+ "generated": "2026-10-09T10:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -213,6 +213,26 @@
      "quote": "Prong collar prongs on inside chain through loop bring up clip and cinch under ears not neck"
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Margaret Bill midday report",
+     "office": false,
+     "note": "First thing any sitter has reported working for getting Rusty's collar on: Margaret Bill gave Rusty a bone while putting the collar on, then got treats and took Rusty out. She describes Rusty as surprisingly mellow. Rusty went #1 and #2 and the stool was firm. One visit only, so this is one sitter's result rather than an established rule.",
+     "quote": "I gave him a bone while I put his collar on"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 8",
+     "source": "Company Notes rewrite 11:37am",
+     "office": false,
+     "note": "The Oct 8 Company Notes rewrite adds walking and handling detail that was not there before: loud noises make Puck run for the building, Puck walks beside you, Rusty pulls like a puppy, the two may be taken out separately, and the dogs will be in the back left bedroom.",
+     "quote": "Trigger for Puck loud noises run for bldg."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -301,26 +321,6 @@
      "office": true,
      "note": "The visit location has changed and is no longer a house. Park in the parking lot; entry is through a front desk, there is no house alarm, and the client is NOT home during visits. The exact entry/key procedure is in the Time To Pet note and is deliberately not repeated here. Office: confirm the new address and visit location are correct in the system.",
      "quote": "Best place to park: Parking Lot"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 1",
-     "source": "Company Notes updated by Shannon Anderson, Oct 1 8:05 PM",
-     "office": true,
-     "note": "Service is continuing after the move, not ending: the client is now set up as Dog Midday (Weekly Walks/Drop Ins) with the visit type Dog Walk. This answers the open question running since Sep 25 about whether the move ends service. The Sep 30 portal cancellation still needs closing out separately.",
-     "quote": "Type of visit: Dog Walk"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Elizabeth Sigler visit report, 1:45 PM",
-     "office": true,
-     "note": "The 1:00 PM visit DID go ahead - Elizabeth Sigler filed a full visit report at 1:45 PM. This closes five runs of escalation: the client said on Sep 29 at 4:14 PM that she had cancelled today's afternoon visit and the portal Service Change notice was never processed, but the visit happened anyway. The unprocessed portal request still needs clearing so the record matches reality.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -335,6 +335,26 @@
     "Emma"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Client message 10:00am",
+     "office": true,
+     "note": "Liz wrote at 10:00am that she is home again today and offered two options for today's visit - Tommy walks Stella and Berry, or the appointment is cancelled. She calls it very late notice. No office answer appears in this mailbox, so the office has to pick one and confirm it back to her.",
+     "quote": "I am home again today. Since it is very late notice perhaps Tommy can take Stella and Berry for a walk"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Thomas Rakovec message 10:05am",
+     "office": false,
+     "note": "Sitter Thomas Rakovec replied five minutes later telling Liz to get better and that he will see the dogs Monday. Read with her 10:00am message this points to today's visit being dropped and the next one on Monday, but that is the sitter's wording, not an office confirmation, and nothing in this mailbox closes it out. His wording implies she is unwell; her own message does not say so.",
+     "quote": "It's ok ..you just get better see the guys Monday"
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -434,26 +454,6 @@
      "office": false,
      "note": "Louie has an ongoing hurt leg/hip that Thomas says still hurts him a lot. He handles it by giving Louie breaks and avoiding picking him up; when he has to lift him he goes very slowly. Thomas offered this as his own explanation for Louie's grumpiness after the client asked about it - it is his account, not a vet assessment.",
      "quote": "I try not to pick him up at all cause of it"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Thomas Rakovec visit report 11:57am",
-     "office": false,
-     "note": "First report in a while that accounts for Louie: he went outside with the rest and logged a #1. No #2 recorded for him and the note says nothing about his leg or hip. Stella and Berry both firm and healthy, Emma had her eye drops, Berry in a new diaper.",
-     "quote": "Hey Liz, arrived at the house hot everyone out including Louie."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Thomas Rakovec visit report 12:03pm",
-     "office": true,
-     "note": "Report covers Stella, Berry and Emma but has no section for Louie, so it does not say whether he went out. Noted only because refusals are logged Sep 17, 29, 30.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -467,6 +467,26 @@
     "Gordy (Gordon)"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Renee Dougherty morning report",
+     "office": true,
+     "note": "Renee Dougherty crushed Sampson's half pill into the Churu on the Oct 9 morning visit and he took it. This is the first method reported working in this mailbox since he spat the pill out of a Churu on Oct 3, and it is the same crushing that Renee asked the client about on Oct 4 and never got an answer to. One visit only - the client has still not confirmed in writing that crushing the pill is allowed.",
+     "quote": "I crushed up his half pill and put it in the churo and he took it."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Renee Dougherty morning report",
+     "office": false,
+     "note": "Same Oct 9 morning visit: the sitter cleaned up multiple vomit messes on the hardwood floor and one on the carpet. Sampson did pass a stool in the litter box, there was nothing on the carpet and no urine anywhere. Vomiting has now been reported on Oct 4 and Oct 9.",
+     "quote": "I cleaned up the multiple vomit messes on the hardwood floor and one on the carpet."
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -566,26 +586,6 @@
      "office": false,
      "note": "Sampson's medication DID go in on the Sep 26 morning visit. Chelsea gave it with a lickable, it took several tries, and she gave him the rest of the lickable afterwards to make sure it went down. Visit report logs medication administered = Yes.",
      "quote": "I gave Sampson his medicine this morning with a lickable. It took him a few tries to get it"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 25",
-     "source": "Client message from Anna Marie LeMaster, Sep 25 9:07am",
-     "office": false,
-     "note": "Client's own method for Sampson's pill: give it with his soft food, a little of the food under the pill and some on top, and keep adding soft food over a few tries until he takes it. She says a pill pocket only works if given a little at a time while watching him, because he is good at spitting the pill out. She stresses the dose must not be skipped.",
-     "quote": "He can't go without his pill!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Visit report from Kathy Pastor, Sep 25 8:54am",
-     "office": true,
-     "note": "Sampson did not get his pill at the Sep 25 morning visit. Kathy gave the half pill in a pill pocket; he ate most of the pocket but left the part containing the pill, and refused a second half pocket. He was fed his canned and crunchy food and treats were changed out. The dose is missed for that visit.",
-     "quote": "So sorry I couldn't get him to take his pill."
     }
    ],
    "dormant": false
@@ -7760,6 +7760,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 9",
+     "source": "Dan Dantimo morning report",
+     "office": false,
+     "note": "Oct 9 morning visit: all three dogs ate their food. Gracie and Bob each went #2 and the sitter logged the consistency as a little loose but not concerning; Rebel went #1 only. This follows the Oct 8 evening visit where none of the three passed a stool.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 8",
      "source": "Thomas Rakovec visit report, Oct 8 9:28am",
      "office": true,
@@ -7815,16 +7825,6 @@
      "office": false,
      "note": "Chuck was home this evening before leaving again and handled the dogs himself: fed at 4:30pm, last let out at 5:30pm. Relevant to tonight's nighttime visit.",
      "quote": "I fed them at 4:30 and let them out for the last time at 5:30"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Thomas Rakovec visit report, 9:30pm",
-     "office": false,
-     "note": "None of the three dogs passed a stool on the Oct 8 evening visit. All three went #1, were let out twice, and Thomas checked the back yard with a flashlight to be sure. Follows Rebel's morning straining the same day.",
-     "quote": "no no.#2 in back yard as I could tell I did look with a flashlight"
     }
    ],
    "dormant": false
