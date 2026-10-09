@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T19:20:05-04:00",
+ "generated": "2026-10-08T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7651,6 +7651,36 @@
      "quote": "Pippa does sometimes bite cords. She’s a bit mischievous. I tell her no and she stops."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts visit report",
+     "office": true,
+     "note": "OFFICE: open question from the Oct 8 evening visit. Tiarra closed the pantry door but says it was open at the first visit, and asks which is correct. Nobody has answered her in this mailbox. Worth getting the client's answer and writing it into the notes so sitters stop guessing.",
+     "quote": "does the pantry door stay open or closed? I closed it, but I know it was open at our first visit"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "Appetite follow-on: at the Oct 8 evening visit there was still wet food left in the bowls from the morning visit. The sitter cleaned the bowls and opened a fresh seafood Delectables box for variety. Polly ate eagerly; Pippa ate once a bowl was carried to her. Second day running that wet food has gone part-uneaten here, so worth a look at the next visit rather than any action now.",
+     "quote": "they did have some wet food left from the morning visit"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 8",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "One observation, not yet a rule: Pippa stopped eating as soon as Polly came over to her at the Oct 8 evening visit. The sitter carried a bowl of Delectables to Pippa and distracted Polly on the couch with pets, and Pippa then ate. Feeding them apart may be worth trying again. Note the report spells Pippa as 'Peppa'.",
+     "quote": "Polly walked up to her and Peppa stopped eating."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7669,36 +7699,6 @@
      "office": false,
      "note": "Standing supply note from the client: if the paper plates run out, the cats' own dishes are white saucers with fish bones / cat paws on them, stacked on the third shelf from the bottom in the pantry. These dishes are the ones used for wet food and delectables. Client confirmed paper plates were fine in the meantime.",
      "quote": "the cat dishes are on the shelves in the pantry (third shelf from the bottom - there is a stack of them)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts updated contact information for Lauren & Brian Stuy (4:35 PM)",
-     "office": true,
-     "note": "Access Instructions cut to the garage line alone at 4:35 PM. Two lines went: that the front door takes the same code, and that the code changes after each set of visits. There is now no written fallback if the garage will not open, and the notes themselves call the front door an escape risk. The Company Notes edit in the same batch was cosmetic. Codes stay in Time To Pet.",
-     "quote": "Front door will have same code."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Michelle Carrara message 6:19 AM Oct 8",
-     "office": false,
-     "note": "Michelle Carrara replied that she is covering today's visits and will watch for the package, so the client's request has already been acknowledged in writing.",
-     "quote": "Yes, I will be on the look out for the package."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts updated Important Notes, Oct 8 9:14am",
-     "office": false,
-     "note": "The lights rule now says explicitly that it is the EXTERIOR lights in the entry and garage: off on AM visits, on at PM visits.",
-     "quote": "AM: turn off lights in entry/garage exterior lights"
     }
    ],
    "dormant": false
