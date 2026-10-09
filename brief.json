@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T21:20:05-04:00",
+ "generated": "2026-10-08T22:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7790,6 +7790,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 8",
+     "source": "Thomas Rakovec message to client, 9:47pm",
+     "office": true,
+     "note": "Gracie struggled badly coming down the stairs on the Oct 8 evening visit - she stopped several times and Thomas had to physically help her or she would have fallen. He speculated arthritis; there is no diagnosis or vet contact anywhere in the mail, so this is one sitter observation, not a finding. Sitters should plan to assist her on stairs; the office should raise it with Chuck.",
+     "quote": "stopped several times and I actually had to help her or she would have fallen"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 6",
      "source": "Thomas Rakovec visit report",
      "office": true,
@@ -7877,24 +7887,14 @@
      "quote": "I fed them at 4:30 and let them out for the last time at 5:30"
     },
     {
-     "cat": "home",
+     "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 7",
-     "source": "Thomas Rakovec visit report 9:15am",
+     "date": "Oct 8",
+     "source": "Thomas Rakovec visit report, 9:30pm",
      "office": false,
-     "note": "Thomas arrived late to the 9:15am visit because a tree came down across Moore Rd. Anyone driving out there today should expect the route to be blocked or slow. He does not say whether the road was cleared.",
-     "quote": "got over a tad late a tree feel across moore Rd"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Thomas Rakovec visit report 9:15am",
-     "office": false,
-     "note": "Urine spots found in the basement again on the 9:15am visit; Thomas cleaned and sanitized them. All three dogs toileted outside as well, and Gracie's #2 was reported firm and healthy this visit.",
-     "quote": "The basement only had a few no.#1s and I cleaned it up and sanitized it."
+     "note": "None of the three dogs passed a stool on the Oct 8 evening visit. All three went #1, were let out twice, and Thomas checked the back yard with a flashlight to be sure. Follows Rebel's morning straining the same day.",
+     "quote": "no no.#2 in back yard as I could tell I did look with a flashlight"
     }
    ],
    "dormant": false
