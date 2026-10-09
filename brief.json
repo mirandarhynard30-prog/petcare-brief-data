@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T13:20:05-04:00",
+ "generated": "2026-10-09T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4646,6 +4646,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Client private message 1:18pm",
+     "office": false,
+     "note": "Bill says his car will be parked in the garage while he is away, so a car on the property does not mean anyone is home. Do not assume the client is there.",
+     "quote": "My car will be in the garage just fyi, obviously I won’t be there."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "standing",
      "date": "Oct 3",
      "source": "Tiarra Roberts updated contact information for Bill Brock",
@@ -4742,16 +4752,6 @@
      "office": false,
      "note": "The backyard can be muddy - dry the dogs with the towels by the back door before bringing them in. Water bowls by the sliding glass door and outside on the deck, plus a bowl and fountain in the upstairs dog bedroom. Leashes hang by the garage door.",
      "quote": "kitchen sink faucet may not work"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Monica Hopewell post-visit report, Oct 5 7:57pm",
-     "office": false,
-     "note": "Oct 5 evening visit: Monica Hopewell fed both dogs part way through the visit and refreshed their water, and the report records Storm and Timber each going #1 and #2 with consistency 'firm and healthy'. Wet and dry food both fed, no accidents, and the supplies question was answered No. This is the first report since the Oct 1 visit where the boys would not eat when first offered, and it does not repeat the slow-eating note. One visit only - not a change to any standing rule.",
-     "quote": "They both went one and two."
     }
    ],
    "dormant": false
@@ -6361,6 +6361,16 @@
      "quote": "There are treats in the fridge this week. They are the beef jerky that is in the Ziploc bag."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Elizabeth Cuffari visit report 1:34pm",
+     "office": false,
+     "note": "Flacko had a very loose, almost watery #2 on the Oct 9 afternoon walk; otherwise he seemed fine, drank a full bowl of water on return and walked a mile with no trouble. First loose-stool report on file for Flacko - watch the next visit.",
+     "quote": "and it was very loose, almost a watery consistency. But besides that, he seems totally fine."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -6439,16 +6449,6 @@
      "office": false,
      "note": "There were no treats in the fridge on the midday visit, so the sitter took an ice cream cup from the freezer instead and Flacko loved it. The client's reply at 2:15 PM thanked her, which settles the question carried for several runs about whether the freezer ice cream is an everyday treat or only a stand-in - it is acceptable. The fridge treats still need restocking.",
      "quote": "I looked in the fridge for some treats and didn't see any"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Elizabeth Sigler visit report 12:48pm",
-     "office": true,
-     "note": "Sitter could not find Flacko's treats at the Sep 29 visit and gave him none. The visit report's pet-supplies-low field was answered Yes. The brief's Sep 16 note says the client keeps a small bag of treats on the top shelf in the fridge, so either they have run out or the sitter did not know where to look. Office should confirm which before the next visit.",
-     "quote": "I didn't give Flacko any treats today because I couldn't find them."
     }
    ],
    "dormant": false
