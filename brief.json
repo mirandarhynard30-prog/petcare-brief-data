@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T12:20:19-04:00",
+ "generated": "2026-10-09T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -780,6 +780,16 @@
      "quote": "She also did a little scooting again today."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Client message 1:01pm",
+     "office": false,
+     "note": "Client's own answer to the three scooting reports (Oct 5, Oct 7, Oct 9): she says Lucy has been fully checked out and does not have worms, and that Lucy just gets an itchy bottom sometimes. She also attributes today's sluggishness to a bad night's sleep rather than illness.",
+     "quote": "I have had her all checked out and everything so she doesn’t have worms or anything like that"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -868,16 +878,6 @@
      "office": false,
      "note": "Lucy ate all the kibble she was given and her #2 was logged firm and healthy. That reverses the Sep 29 midday visit where she refused both food and water. She also seemed less tired than the day before.",
      "quote": "She ate all the kibble that I gave her."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Margaret Bill visit report, 12:28 PM",
-     "office": true,
-     "note": "Sitter found Lucy in her crate with the crate door standing open on arrival, and has asked the client to confirm how Lucy should be left. Until told otherwise she is putting Lucy back in the pen with the door CLOSED. The client has not answered, so two sitters could reasonably do opposite things.",
-     "quote": "Until you tell me differently, I will put her back in the pen with the door closed."
     }
    ],
    "dormant": false
@@ -2650,6 +2650,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 9",
+     "source": "Tiarra Roberts visit report 12:50pm",
+     "office": false,
+     "note": "Second visit in a row where Matt helped get Ripley's collar on and the leashed walk went ahead. What the sitter did this time: carried many treats, rewarded each sit, and asked Ripley to sit for every passing car with a treat afterwards. One visit's method, not yet a standing rule.",
+     "quote": "I had her sit with each passing car, with a treat afterwards."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 8",
      "source": "Tiarra Roberts visit report, 1:41pm",
      "office": false,
@@ -3749,6 +3759,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 9",
+     "source": "Dan Dantimo visit report 12:47pm",
+     "office": false,
+     "note": "Second report in three days of Guinness refusing to start the walk - he wanted to head home and needed coaxing before he settled and walked normally to the Commons and back via Pembrooke. The sitter calls it 'just Guinness being Guinness'. Allow extra time at the start of the walk.",
+     "quote": "I was surprised he was reluctant at first to walk but he did get over it quickly"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 7",
      "source": "Dan Dantimo 1:26pm report",
      "office": false,
@@ -3849,11 +3869,11 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Oct 8",
-     "source": "Dan Dantimo visit report, 1:49pm",
+     "date": "Oct 9",
+     "source": "Dan Dantimo visit report 12:47pm",
      "office": false,
-     "note": "Guinness's #2 was logged on the a-little-loose-but-not-concerning setting at the 1:49pm visit. First such reading for this client in the brief, so it is a watch rather than a concern. The same report notes yesterday's walk was short and today's was lengthened to make up for it.",
-     "quote": "It was a little loose but not concerning"
+     "note": "Guinness went both #1 and #2 and the report's consistency field was again answered on the a-little-loose-but-not-concerning setting. That is the ninth such reading for Guinness since Sep 18, against one firm reading on Oct 1. No other symptoms reported.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -6331,6 +6351,16 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Client message 12:58pm",
+     "office": false,
+     "note": "Treats for this week are beef jerky in a Ziploc bag in the fridge. Worth following exactly - sitters could not find Flacko's treats on Sep 29 and Sep 30. Client says 'this week', so treat it as time-limited rather than a standing rule.",
+     "quote": "There are treats in the fridge this week. They are the beef jerky that is in the Ziploc bag."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -6419,16 +6449,6 @@
      "office": true,
      "note": "Sitter could not find Flacko's treats at the Sep 29 visit and gave him none. The visit report's pet-supplies-low field was answered Yes. The brief's Sep 16 note says the client keeps a small bag of treats on the top shelf in the fridge, so either they have run out or the sitter did not know where to look. Office should confirm which before the next visit.",
      "quote": "I didn't give Flacko any treats today because I couldn't find them."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Client message, 2:47pm",
-     "office": false,
-     "note": "Answering the sitter's Sep 29 report that Flacko's treats could not be found: the client says he will get more treats made, and that there is dog ice cream in the freezer for Flacko. He does not say whether the dog ice cream may be given on a normal visit or only as a substitute when treats are out.",
-     "quote": "also dog ice cream in the freezer for him"
     }
    ],
    "dormant": false
@@ -7885,6 +7905,16 @@
      "office": false,
      "note": "For today's visit the client asks the walker to FEED Walt. He is leaving Walt's lunch in a plastic bag on the kitchen counter, and asks the sitter to make sure Walt has enough water before leaving. This is a request for today only as written - nothing in the message makes it a standing rule.",
      "quote": "I am leaving his lunch in a plastic bag on the kitchen counter to make it easy."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Harvett Ellington visit report 1:00pm",
+     "office": true,
+     "note": "AMBIGUOUS - needs confirming. Against this morning's request to feed Walt the lunch left in a plastic bag on the kitchen counter, the 1:00pm report answers the dry-food-fed field Yes but its written text does not mention the counter lunch at all. Cannot tell from the mail whether the client's actual request was followed. Visit otherwise normal: long walk, #1 and #2 firm and healthy, water refreshed, trash and mail brought in.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -7896,6 +7926,16 @@
     "Boo"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Client private message 12:48pm",
+     "office": true,
+     "note": "Client confirms the Monday and Friday pattern she asked for on Oct 8 and says she may want more in winter. She also says she looks forward to meeting new team members. Her proposed start is Monday Oct 12, so the office still owes her a yes or no and a price today.",
+     "quote": "Right now Mon and Friday work well. We will see what the winter brings."
+    },
     {
      "cat": "schedule",
      "sev": "high",
