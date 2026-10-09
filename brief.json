@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T10:35:06-04:00",
+ "generated": "2026-10-09T11:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1647,6 +1647,26 @@
      "office": false,
      "note": "Christina's suggested handling when Bismark will not walk: if the sitter is comfortable doing so, take him off the leash and walk toward the gate door to see whether he follows. She adds that otherwise he may just be lazy. This is the first time a technique has been offered rather than just a warning that he refuses.",
      "quote": "You can try taking him off the leash if you feel comfortable"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Kiara Streety visit report, Oct 9 10:32am",
+     "office": false,
+     "note": "Oct 9 midday visit (Kiara Streety): Bismark came down the steps wagging, leashed up and did go out for what she calls a mini walk. He went #1 several times, then they sat outside the gate in the sun watching squirrels before coming back in for treats and water. One visit, not a rule - but it is the second report in a week of him walking at least a short distance.",
+     "quote": "A mini walk is better than no walk at all!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Client message, Oct 9 10:34am",
+     "office": false,
+     "note": "The client replied to that report saying Bismark seems to do mini walks and pee only with this sitter. She is not asking for anything and sounds happy with it. Read alongside her standing note that he will not walk for any sitter - she now reads it as sitter-specific rather than absolute.",
+     "quote": "He seems to only do mini walks and wees with you!"
     },
     {
      "cat": "behavior",
@@ -3596,6 +3616,16 @@
     "Archie"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Thomas Rakovec visit report, Oct 9 10:37am",
+     "office": false,
+     "note": "Oct 9 morning walk (Thomas Rakovec): Archie went #1 but had no bowel movement - the report's consistency field reads No #2 today. Adds to the no-#2 walks already on file (Sep 1, Sep 30, Oct 2). Ray was home for this visit so the sitter did not go in. Supplies were marked not low on this report, which does not by itself settle the Oct 8 out-of-poop-bags flag.",
+     "quote": "No #2 today"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
