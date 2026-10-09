@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T16:20:05-04:00",
+ "generated": "2026-10-09T19:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -81,6 +81,16 @@
      "quote": "Use blue pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Kelly Huntington has sent you a new message. (6:26pm)",
+     "office": false,
+     "note": "Kelly closed her bedroom door for tonight's visit because the cats are still getting used to Tiarra; if they do OK the sitter may open it on the way out. Otherwise usual food, litter and cuddles. Kelly is at the theater during the visit and says reception there is bad, so she may not be able to reply.",
+     "quote": "I closed my bedroom door since they are still getting used to Tiarra."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -119,16 +129,6 @@
      "office": true,
      "note": "Sitter reports the dry kibble bag is running low at the Sep 22 evening visit; she topped the kibble up from what was left. The report's supplies-getting-low question is answered Yes. Office to let Kelly know or arrange more food.",
      "quote": "The kibble bag is low on food."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Noella Assi visit report, Sep 22 8:58pm",
-     "office": false,
-     "note": "Sep 22 evening visit: Livvie stayed under the bed the whole visit and only showed herself for a second while the litter was being cleaned. She still ate all her wet food, which was served to her under the bed. Caleb was not at the door either but came into the kitchen for dinner and ate all of his.",
-     "quote": "Livvie did not come out from under the bed."
     }
    ],
    "dormant": false
@@ -4804,6 +4804,16 @@
      "office": true,
      "note": "Kari is taking Miguel with the family to West Virginia for the holiday weekend, so she cancelled his Oct 10 visit herself in the portal, and has submitted a separate request for a house visit on Oct 10 instead. Needs processing and a reply.",
      "quote": "We decided to take Miguel with us to WV so I cancelled his visit for 10/10."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 9",
+     "source": "Kari Majewski has sent you a new message. (6:21pm)",
+     "office": false,
+     "note": "Standing change confirmed by Kari: the raccoons are no longer being fed. Birdseed goes on the deck instead - she notes they will be hungry.",
+     "quote": "No, we are no longer feeding the raccoons. Please just put birdseed on the deck."
     },
     {
      "cat": "home",
