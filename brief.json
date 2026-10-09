@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T11:20:07-04:00",
+ "generated": "2026-10-09T12:20:19-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -770,6 +770,16 @@
      "quote": "We won’t need Margaret tomorrow but would she be able to come twice on Friday?"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Margaret Bill 11:39am visit report",
+     "office": true,
+     "note": "THIRD scooting report in five days - Oct 5, Oct 7 and now Oct 9. Same Oct 9 morning visit: Lucy was groggy on arrival, water bowl was filled but she would not touch it, she turned around halfway up the ranch houses and lay straight back down on her bed, and she went #1 with no #2. She did eat some kibble and some treats. Sitter returns at 2pm the same day and wrote that she hopes Lucy has more energy later. Repeated scooting plus low energy plus no #2 is worth raising with the client - there is no vet contact or diagnosis anywhere in this mailbox.",
+     "quote": "She also did a little scooting again today."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -868,16 +878,6 @@
      "office": true,
      "note": "Sitter found Lucy in her crate with the crate door standing open on arrival, and has asked the client to confirm how Lucy should be left. Until told otherwise she is putting Lucy back in the pen with the door CLOSED. The client has not answered, so two sitters could reasonably do opposite things.",
      "quote": "Until you tell me differently, I will put her back in the pen with the door closed."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 30",
-     "source": "Client message 3:24 PM Sep 30, replying to Margaret Bill",
-     "office": false,
-     "note": "This answers the open crate-door question. The client wants Lucy put back in the pen at the end of the visit, for now - she is still worried about house-training accidents and chewing while Lucy is young. The client says she would eventually like to drop the habit but wants to go slowly, so treat it as the current rule until she says otherwise.",
-     "quote": "Yes I am going to keep her going back in the pen for a while. Until I feel a little more comfortable."
     }
    ],
    "dormant": false
@@ -1830,6 +1830,25 @@
      "quote": "nova comes straight back when called, but astra will bolt"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "On the Oct 9 late-morning walk Astra went #1 and #2, and the report's consistency field was answered 'It was a little loose but not concerning' - quote field left empty on purpose because the de-duplication key collides with another client's identical Oct 9 form phrase. First loose-stool reading for Astra in this mailbox. Nothing else off: she walked well, sniffed a lot, slowed her pace on the way back.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Tiarra Roberts visit report",
+     "office": true,
+     "note": "Sitter used the last poop bag on Astra's leash during the Oct 9 walk and answered Yes to pet supplies getting low. The leash bag holder needs refilling before the next visit. Same visit also notes the client was home during the visit and asked that the door not be locked."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1898,16 +1917,6 @@
      "office": false,
      "note": "Escape-risk handling reconfirmed Sep 17. Client will be home; two dogs walked one at a time toward the Spyglass Hill development. The Current Pet Care Note was cut back to the ETA line, so the hand-off rule now lives only in Company Notes.",
      "quote": "Leash hand-off in garage to prevent the other pup from running out of the house"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "Aug 26 profile rewrite adds a walking route rule: stay inside the Spyglass Hill development instead of 130th Street. Relevant given the Aug 19 report that Astra got out.",
-     "quote": "Walk inside the Spyglass Hill housing development, much quieter streets than 130th Street"
     }
    ],
    "dormant": false
@@ -3149,6 +3158,26 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 9",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Milo pulled on the Oct 9 late-morning walk and the sitter had to settle him with treats. She also re-routed Archer's walk the opposite way down the street because an elderly person was walking outside. Single visit, not a standing rule - but it is the first pulling report for Milo in this mailbox.",
+     "quote": "I leashed Milo up first we went on our walk he was pulling today had to calm him down with treats!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Kiara Streety visit report",
+     "office": true,
+     "note": "Both treat containers, including the cat's, are nearly empty as of the Oct 9 visit. Sitter answered Yes to pet supplies getting low. Needs restocking or a word to the client; the report gives no further detail on which treats.",
+     "quote": "Both treat containers (even kitties) is low/ just about empty!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 8",
      "source": "Jade Popovitz visit report, 12:09pm",
      "office": false,
@@ -3214,26 +3243,6 @@
      "office": false,
      "note": "Milo had an indoor accident on the carpet during the Sep 30 late-morning visit and Drew Walker cleaned it up. Reported in the same exchange in which the client said Milo may have been left out of his crate.",
      "quote": "Ah okay, he had an accident on the carpet I’m cleaning it up now"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "office": true,
-     "source": "Drew Walker visit report, Sep 30 late morning",
-     "note": "Drew found an accident on the rug between the dining and living room, bagged that rug and left it near the side door, and cleaned the hardwood. Small brown spots remain on the larger living-room rug that he could not clean out.",
-     "quote": "I put the rug in a trash bag and left it near the side door"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Client message from Paulo Garcia, Sep 22 8:30am",
-     "office": false,
-     "note": "Cleaners are coming today, so Milo is at daycare and will not be home for today's visit. Same pattern as Sep 2, 10 and 16.",
-     "quote": "Since the cleaners are coming today, Milo is at daycare"
     }
    ],
    "dormant": false
