@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T22:20:06-04:00",
+ "generated": "2026-10-09T06:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -921,16 +921,6 @@
      "office": true,
      "note": "Client cancelled this morning's visit at 8:58am today because Chloe has an appointment. She says she is happy to still pay for the visit and apologises for the short notice. Needs the visit cancelled in Time To Pet, the assigned sitter told directly, and a decision on the billing she offered.",
      "quote": "just remembered Chloe has a doctors appointment this morning so no need to come. happy to still pay for the visit."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Elizabeth Sigler visit report, Sep 17 11:04am",
-     "office": true,
-     "note": "Chloe's distress escalated at the Sep 17 mid-morning visit. She was at the top of the staircase barking and crying when the sitter walked in, and her voice was already hoarse. The sitter sat with her, gave gentle pets, carried her down, walked her briefly - she peed - and Chloe then rushed straight back to the same spot at the top of the steps and started again. The sitter sat with her for the rest of the visit and refreshed all three waters. Hoarseness on top of the Sep 15 barking/panting report is a new escalation; the office may want to raise it with Melody.",
-     "quote": "She was barking/crying and her voice sounded hoarse, as if she’d been at it long before I arrived."
     },
     {
      "cat": "health",
@@ -1890,16 +1880,6 @@
      "quote": "Leash hand-off in garage to prevent the other pup from running out of the house"
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Jessica Shouldis private message, 7:07pm",
-     "office": true,
-     "note": "Client asks the office to relay to tomorrow's Astra walker that they should park in the turn-around. Needs passing on to whoever is assigned tomorrow; the message names no other change.",
-     "quote": "can you relay a message to whoever is walking astra tomorrow that they need to park in the turn-around please?"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -2636,16 +2616,6 @@
      "office": true,
      "note": "Client says his daughters are at the house, so no feeding is needed for the rest of the weekend. Office needs to cancel or adjust the remaining weekend visits. He does not say whether the dog walks are also cancelled - only feeding is mentioned.",
      "quote": "My daughters are there - so no feeding needs to be done the rest of weekend - TY"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Matt Konn message, 6:52am",
-     "office": false,
-     "note": "Matt left for the airport the morning of Sep 17 and sent Ripley's feeding instructions because he did not leave a note at the house. Dry food is in the pantry, bottom left, 2 scoops. Wet food is in the fridge on the middle shelf: Nutra Complete 2 scoops plus roughly a third of a bag of the Farmer's Dog labeled Ripley. Ripley only went #1 before he left. He asks that sitters text him with any questions and says he will have WiFi on the plane; his number is in Time To Pet.",
-     "quote": "She will need fed at dinner tonite (2nd visit) and tomorrow morning as well."
     },
     {
      "cat": "behavior",
@@ -3838,16 +3808,6 @@
     },
     {
      "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Dan Dantimo visit report 7:54pm",
-     "office": true,
-     "note": "Guinness' Sep 17 evening walk logged #2 as a little loose but not concerning. That continues the loose-stool run already recorded on Sep 4, 11, 14, 15 and 16, so this is the sixth logged instance and still has not been raised with Deb. The walk itself went well - good on leash, #1 and a small #2, chased off a bunny. Client was home and asked that the door not be locked.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
      "sev": "low",
      "type": "recent",
      "date": "Oct 8",
@@ -3987,16 +3947,6 @@
     "Freddy"
    ],
    "items": [
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Marcia Ontell private message, 1:51pm",
-     "office": false,
-     "note": "Follow-up to the vacuum that would not click together. Marcia says it closes now, though it is stiff, and asks to be told if it keeps giving trouble. Reads as the Sep 16 problem resolved rather than replaced.",
-     "quote": "The vacuum closes. It is a little stiff. Let me know if it continues to be a problem."
-    },
     {
      "cat": "home",
      "sev": "low",
@@ -4146,16 +4096,6 @@
      "office": true,
      "note": "Client wrote at 1:34pm Sep 19 asking to PAUSE visits starting tomorrow (Sat Sep 20) because Praveena and his parents will both be in town. He sent a short 'Correct! Thank you!' at 3:35pm, which suggests somebody replied, but no office answer is visible in the mailbox and nothing confirms the pause was applied to the schedule. This sits against his Sep 17 standing ask for two visits a day, seven days a week.",
      "quote": "could we actually put a pause on visits starting tomorrow?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Client message 8:01am Sep 17",
-     "office": true,
-     "note": "Client asks for two visits at the same times for Whiskey this Saturday and Sunday, and from then on two visits every day of the week - he describes wanting us as the 9 AM / 2 PM backbone regardless of his shifts or whether Praveena is in town. He asks to be told if this is an option and whether we need anything from him. Unanswered as of this run; it is both a weekend add and an ongoing schedule change, so it needs an office decision.",
-     "quote": "could we plan to have two daily visits each day of the week for him please?"
     },
     {
      "cat": "schedule",
@@ -4511,16 +4451,6 @@
      "office": false,
      "note": "Sep 18 11am visit: Blackie was collected from inside the Orlando house, not from neighbour Greg's, although Greg was outside at the time. The report's security field records the client home and asking that the door not be locked. Where Blackie starts the walk continues to vary day to day.",
      "quote": "Greg was outside, I got Blackie out from inside."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 17",
-     "source": "Noella Assi visit report, Sep 17 11am",
-     "office": false,
-     "note": "The Sep 17 report records the client at home and asks that the door not be locked. This comes from the report's canned home-security answer, so whether it is a standing instruction or applied only to this visit is not clear. Blackie was again collected at neighbour Greg's and Greg had to call him in from his nap.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     },
     {
      "cat": "home",
