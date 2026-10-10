@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T21:20:05-04:00",
+ "generated": "2026-10-09T22:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4814,6 +4814,16 @@
      "office": false,
      "note": "Standing change confirmed by Kari: the raccoons are no longer being fed. Birdseed goes on the deck instead - she notes they will be hungry.",
      "quote": "No, we are no longer feeding the raccoons. Please just put birdseed on the deck."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 9",
+     "source": "Client message 9:44pm",
+     "office": false,
+     "note": "Answering the sitter's 9:15pm question about whether anything else was needed, Kari named the extras for the house visits: bring the garbage can down, and bring in mail and packages if there are any. She said nothing else is needed beyond the usual.",
+     "quote": "garbage can brought down, mail and pkgs brought in if there are any"
     },
     {
      "cat": "home",
