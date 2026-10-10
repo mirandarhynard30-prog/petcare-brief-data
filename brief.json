@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T09:20:07-04:00",
+ "generated": "2026-10-10T10:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2863,6 +2863,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Vicki Davey client message, Oct 10 9:33am",
+     "office": false,
+     "note": "Entry and occupancy note the client sent for today's visit only: Vicki will tell Trudy to leave the front door open, so the sitter should let themselves in. Trudy will be in the house - the client says she may be in the kitchen or upstairs in bed - so expect a person at home, possibly asleep. The client does not say what time the door will be unlocked.",
+     "quote": "I will let Trudy no the front door will be open let your self in"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2971,16 +2981,6 @@
      "office": true,
      "note": "Unanswered client question about the Sep 19 morning visit. The sitter sent her report at 12:11pm and then wrote a minute later that she had thought she had clocked out. Vicki asked at 1:27pm what time the sitter actually clocked out. Nothing in the mailbox answers her. Office needs to check the time record and reply.",
      "quote": "What time did she clock out at?"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Elizabeth Sigler visit report 5:48pm",
-     "office": false,
-     "note": "Supply low, reported on the Sep 19 evening visit: the dry food dispenser with the green lid is empty. The sitter fed the indoor cats (dry food untouched, left as it was), fed the outdoor cats on the porch, and Vicki showed her where the chicken is kept - two of the outdoor cats were given chicken. Vicki was home during the visit.",
-     "quote": "the dry food dispenser (with the green lid) is currently empty"
     }
    ],
    "dormant": false
