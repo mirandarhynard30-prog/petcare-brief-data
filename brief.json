@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T10:20:07-04:00",
+ "generated": "2026-10-10T11:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4672,7 +4672,8 @@
    "name": "Kari Majewski",
    "url": "https://www.timetopet.com/dashboard/client/syqnz6sYgbFq",
    "pets": [
-    "Miguel"
+    "Miguel",
+    "Mr. Midnight"
    ],
    "items": [
     {
@@ -4684,6 +4685,16 @@
      "office": true,
      "note": "Kari is taking Miguel with the family to West Virginia for the holiday weekend, so she cancelled his Oct 10 visit herself in the portal, and has submitted a separate request for a house visit on Oct 10 instead. Needs processing and a reply.",
      "quote": "We decided to take Miguel with us to WV so I cancelled his visit for 10/10."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Margaret Bill visit report, Oct 10 10:59am",
+     "office": false,
+     "note": "Answers the Oct 8 fish question in practice - Margaret fed the fish on the Oct 10 house visit. She also brought the mail in and left it on the table, brought the garbage can back up to where it goes, and put bird seed out on the rail. She noted she did not know the fish's name. The report contradicts itself: the narrative says she brought the mail in, but the structured 'did you bring any mail or packages in' answer is No, and 'did you refill the water bowl' is also No. Supplies reported not low.",
+     "quote": "Then I came in and fed the fish"
     },
     {
      "cat": "home",
@@ -4756,6 +4767,16 @@
      "quote": "We are no longer feeding the raccoons, just the birdseed for the birds."
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 10",
+     "source": "Kari Majewski client message, Oct 10 11:10am",
+     "office": false,
+     "note": "Client gives the fish's name for future reference - Mr. Midnight - and says he usually sleeps most of the day. She thanked Margaret for feeding him and for the video, and said Margaret actually got him out and swimming.",
+     "quote": "our fish’s name is Mr. Midnight"
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -4774,26 +4795,6 @@
      "office": false,
      "note": "Client has left a handwritten note for the sitter on the counter. Worth looking for on arrival: her message says 'The same rest of the routine is as follows' and then lists nothing, so the rest of the routine may only be on that counter note.",
      "quote": "I’ve left a note for you as well on the counter."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 5",
-     "source": "Margaret Bill visit report 1:37pm",
-     "office": false,
-     "note": "Entry is normally through the garage rather than the key. Sitter also opens windows during the visit for fresh air and closes them before leaving.",
-     "quote": "I didn't need the key because we always use the garage"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 5",
-     "source": "Margaret Bill visit report 1:37pm",
-     "office": false,
-     "note": "The visit includes more than the cat: there is a fish to feed (a pinch of both foods) and bird food to put out on the outside rails. No wildlife food was found on this visit.",
-     "quote": "I put the bird food on the rails outside."
     }
    ],
    "dormant": false
