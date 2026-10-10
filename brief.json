@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T08:20:05-04:00",
+ "generated": "2026-10-10T09:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -471,6 +471,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 10",
+     "source": "Kathy Pastor message to client, Oct 10 8:23am",
+     "office": true,
+     "note": "Kathy Pastor asked the client in writing at 8:23am whether ALL the named flavors are off limits, and whether to crush the pill into the Churu or use wet food on top and bottom. No written answer came back in Time To Pet - the client replied only with \"I left you a message, did you see it?\" at 8:52am, so her actual answer was given by phone/text and is not on the record. The crush-the-pill question has now been open in writing since Oct 4. Office should get the answer typed into the Pet Care Note.",
+     "quote": "So you’re saying don’t use any of those flavors?"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 9",
      "source": "Renee Dougherty morning report",
      "office": true,
@@ -566,16 +576,6 @@
      "office": true,
      "note": "Gordy's stool marked loose again on the Sep 29 10am walk - Kathy Pastor ticked the consistency box for a little loose but not concerning. The brief already carries a loose reading for Gordy on Sep 24, so this is at least the second in under a week. Otherwise he was frisky, eager to walk, went #1 and two #2s. No vet contact mentioned.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Chelsea Tompkins Sep 26 morning visit report; client reply same morning",
-     "office": true,
-     "note": "Sampson urinated outside the litter box on two consecutive days. Sep 26: went #2 in the box but #1 on the carpet; Chelsea stepped in it and cleaned it up. Client says he also peed on the wood floor for Wanda on Sep 25, and that he has used the pad for both before. This follows weeks of GI trouble for this cat. Nothing in the mail says a vet has been contacted - worth the office asking the client.",
-     "quote": "I don't know why he pees on the carpet when he has used the pad for pee and #2 before!"
     }
    ],
    "dormant": false
