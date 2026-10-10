@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T12:20:12-04:00",
+ "generated": "2026-10-10T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3965,6 +3965,16 @@
      "office": true,
      "note": "Client wrote at 12:51pm Sep 19 to say she has added visits herself for the rest of this month and next month. A service order request for Oct 6 - Oct 29 arrived four minutes later and is awaiting approval. Office needs to approve or decline it.",
      "quote": "My apologies, I just added the visits for the rest of this month and next months as well."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Margaret Bill visit report 12:52pm",
+     "office": false,
+     "note": "Handling detail from today's walk: the sitter put a harness on Aayla before going outside, so a harness rather than a collar appears to be what is used here. Usual route is a walk around the complex plus a few seconds in the complex dog park, then water and ear scratches back inside. Observed on one visit; not stated anywhere as a standing rule.",
+     "quote": "Then I put her harness on , and I took her outside"
     },
     {
      "cat": "schedule",
