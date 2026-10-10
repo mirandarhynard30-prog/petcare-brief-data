@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T22:20:07-04:00",
+ "generated": "2026-10-10T08:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -436,16 +436,6 @@
      "quote": "Good morning. I’m going to be home again today from work so I will submit a cancellation request for the pups."
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Client message 4:55am",
-     "office": true,
-     "note": "Liz is not going into work today and has submitted a cancellation request; the portal notice shows it covers today's Fri Sep 18 11:00-11:45am Dog Visit-45 minute. Office needs to approve or decline the request, and today's assigned sitter needs telling the visit is off. She expects the pups to see Tommy on Monday.",
-     "quote": "Good morning. I am not going into work today. I submitted a cancellation request."
-    },
-    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -467,6 +457,16 @@
     "Gordy (Gordon)"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 10",
+     "source": "Client message from Anna Marie LeMaster, Oct 10 7:59am, addressed to Kathy",
+     "office": false,
+     "note": "Do NOT feed Sampson the Whitefish Tuna canned food - the client says it does not agree with him. Relevant context: Sampson vomited Oct 4 and again Oct 9. Client did not say what to substitute beyond 'a cat can' from her supply.",
+     "quote": "don't give Sampson the Whitefish Tuna one. It doesn't seem to agree with him."
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -576,16 +576,6 @@
      "office": true,
      "note": "Sampson urinated outside the litter box on two consecutive days. Sep 26: went #2 in the box but #1 on the carpet; Chelsea stepped in it and cleaned it up. Client says he also peed on the wood floor for Wanda on Sep 25, and that he has used the pad for both before. This follows weeks of GI trouble for this cat. Nothing in the mail says a vet has been contacted - worth the office asking the client.",
      "quote": "I don't know why he pees on the carpet when he has used the pad for pee and #2 before!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Chelsea Tompkins Sep 26 morning visit report",
-     "office": false,
-     "note": "Sampson's medication DID go in on the Sep 26 morning visit. Chelsea gave it with a lickable, it took several tries, and she gave him the rest of the lickable afterwards to make sure it went down. Visit report logs medication administered = Yes.",
-     "quote": "I gave Sampson his medicine this morning with a lickable. It took him a few tries to get it"
     }
    ],
    "dormant": false
@@ -911,16 +901,6 @@
      "office": true,
      "note": "Melody messaged at 9:17am on Sep 25 to say Chloe does not need walking today because they are at home. No reply or portal cancellation notice had come through as of 10:15am, so today's walk still needs cancelling in the system.",
      "quote": "If it's not too late, Chloe doesn't need walking today. We are at home."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Client message, 8:58am",
-     "office": true,
-     "note": "Client cancelled this morning's visit at 8:58am today because Chloe has an appointment. She says she is happy to still pay for the visit and apologises for the short notice. Needs the visit cancelled in Time To Pet, the assigned sitter told directly, and a decision on the billing she offered.",
-     "quote": "just remembered Chloe has a doctors appointment this morning so no need to come. happy to still pay for the visit."
     },
     {
      "cat": "health",
@@ -1295,16 +1275,6 @@
      "quote": "Orange cooling collar in freezer, if temp is over 75 degrees, put on before walk- slip harness over cooling collar"
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Kristin Ashick visit report, Sep 18 evening walk",
-     "office": false,
-     "note": "Sep 18 evening walk with Kristin Ashick: Georgie went #1 and #2, and the report's consistency field was answered 'It was a little loose but not concerning'. He otherwise had good energy - the sitter describes a relaxed pace and a nice pep in his step, chilly weather. Sits alongside his ongoing allergy medicine and eyedrop routine. Watch the next stool.",
-     "quote": "Georgie went number one and number two. I disposed of that in the trash in your garage."
-    },
-    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -1519,26 +1489,6 @@
      "quote": "Leaving at 7 am. I will feed them"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Regina Mathews private message",
-     "office": true,
-     "note": "Asking whether we have availability tomorrow (Sat Sep 19) between noon and 1:00 for a drop in. Unanswered as of this run.",
-     "quote": "Do you have availability tomorrow between noon and 1:00 for a drop in?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Regina Mathews private message, 3:28pm",
-     "office": true,
-     "note": "Client submitted a request for 3 visits on Monday Sep 21 and asks that they be spaced out across the day. She is driving to Michigan for the day. The request still needs approval and scheduling.",
-     "quote": "I jist put in a request for 3 visits on Monday. Do your best to space them out."
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1697,26 +1647,6 @@
      "office": false,
      "note": "Client says it is always fine to skip staying out in the rain and bring Bismark in early.",
      "quote": "it’s always okay to not stay out in the rain and head in early."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Jade Popovitz visit report",
-     "office": false,
-     "note": "Jade Popovitz's first visit with Bismark. He watched her from the top of the stairs on arrival and waited until he had smelled her before he was willing to go outside. Worth knowing for any other sitter meeting him for the first time.",
-     "quote": "He was at the top of the stairs when we came in looking down trying to figure out who I was"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Jade Popovitz visit report",
-     "office": false,
-     "note": "Bismark is low-energy outdoors - he settled down in the fenced back yard and started dozing rather than moving around. Outside time was the fenced yard, not a walk, and he did not go #2 on this visit.",
-     "quote": "it seems outside is actually just another place for him to lay down"
     }
    ],
    "dormant": false
@@ -2185,16 +2115,6 @@
     {
      "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Sep 18 9am visit report, Monica Hopewell",
-     "office": false,
-     "note": "Sep 18 9am walk: the report's security field records the client home and asking that the door not be locked. The Sep 11 arrival procedure on file says nothing about the door, so this is one visit's instruction and not yet confirmed as a standing rule.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
      "type": "standing",
      "date": "Sep 11",
      "source": "Tiarra Roberts updated contact information for Charlene Szunyog",
@@ -2635,16 +2555,6 @@
      "note": "Pet Care Note replaced this morning. It previously held the feeding instructions and the condition that Ripley is fed only when Matt is out of town. It now reads only SEND ETA WHEN ON THE WAY, UNLESS HE'S OUT OF TOWN, and feeding moved into Company Notes where it reads Feed 2 times per day with no out-of-town condition. As written a sitter would feed every visit whether or not Matt is home. Office needs to say which is right.",
      "quote": "only feed if Matt is out of town",
      "source": "Tiarra Roberts, Pet Care Note edit"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Matt Konn private message, 3:58pm",
-     "office": true,
-     "note": "Client says his daughters are at the house, so no feeding is needed for the rest of the weekend. Office needs to cancel or adjust the remaining weekend visits. He does not say whether the dog walks are also cancelled - only feeding is mentioned.",
-     "quote": "My daughters are there - so no feeding needs to be done the rest of weekend - TY"
     },
     {
      "cat": "behavior",
@@ -3716,16 +3626,6 @@
      "quote": "There was a potty accident and the pet got sick, and I cleaned it up"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Visit report from Julie Smith",
-     "office": false,
-     "note": "Julie Smith's first visit with Archie. He was hesitant with her at the start and again when they got back, but warmed up over the walk and took two treats from her. She wrote that he started with a good hop in his step but slowed down toward the end of the walk. Client was home, so she did not go into the house. He went #1 several times and #2, firm and healthy.",
-     "quote": "Archie was a little hesitant when we first got there, but he warmed up to me as we went along."
-    },
-    {
      "cat": "home",
      "sev": "low",
      "type": "standing",
@@ -3854,16 +3754,6 @@
      "office": true,
      "note": "Deb's Sep 21 evening visit did not happen - sitter Dan held off due to heavy rain and Deb was out at a meeting. Deb says it is fine; office should confirm the visit is marked skipped and not charged.",
      "quote": "I was at my meeting but the weather was bad so no problem that Dan didn’t come!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Dan Dantimo evening visit report",
-     "office": true,
-     "note": "Guinness went #1 and #2 on the Friday evening walk; the sitter recorded the #2 as a little loose but not concerning. Deb was home during the visit.",
-     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "health",
@@ -4500,16 +4390,6 @@
      "office": true,
      "note": "The 2:11pm Company Notes rewrite DELETED the leash-type rule. The previous version carried a line under Leash & Supplies saying not to use a retractable leash if possible; the new version has no leash-type rule at all. Nothing in the email says the rule was dropped on purpose - the office should confirm whether it still applies and restore it if so.",
      "quote": "Do NOT use retractable leash if possible"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Sep 18 11am visit report, Noella Assi",
-     "office": false,
-     "note": "Sep 18 11am visit: Blackie was collected from inside the Orlando house, not from neighbour Greg's, although Greg was outside at the time. The report's security field records the client home and asking that the door not be locked. Where Blackie starts the walk continues to vary day to day.",
-     "quote": "Greg was outside, I got Blackie out from inside."
     },
     {
      "cat": "home",
@@ -6350,16 +6230,6 @@
     "Flacco"
    ],
    "items": [
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 18",
-     "source": "Sep 18 visit report, Elizabeth Cuffari",
-     "office": false,
-     "note": "On the Sep 18 afternoon walk at Lakewood Park Flacco barked and charged at a golden doodle. The sitter says everything was fine afterwards. This is the first recorded incident behind the standing not-dog-friendly rule already on file.",
-     "quote": "He did have a moment with a golden doodle, which I was surprised he started barking and charged towards it."
-    },
     {
      "cat": "behavior",
      "sev": "high",
