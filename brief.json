@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T11:20:08-04:00",
+ "generated": "2026-10-10T12:20:12-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7836,6 +7836,36 @@
      "office": true,
      "note": "Returning client asking to re-engage service for Boo: Monday and Friday, 10:30am start, 20-minute walk, proposed start date 10/12/26, and she would add Wednesday in winter if it goes well. She wants to know if we are interested and what it costs, says email or phone is fine and that Boo is still healthy. Her callback number is in the Time To Pet message. No reply sent yet and the proposed start is this coming Monday.",
      "quote": "I am looking for Monday and Friday starting at 10:30 for a 20 minute walk."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Denise Enriquez",
+   "url": "https://www.timetopet.com/dashboard/client/t2ldv2JA6jV9",
+   "pets": [
+    "Juniper"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Elizabeth Sigler visit report, 12:01pm",
+     "office": false,
+     "note": "First recorded note for this client. Juniper (cat) starts the visit hiding under the couch. What worked on today's first visit: Shannon fed a pouch of wet food, coaxed her out of her hiding spot, then gave treats; by the end of the visit Juniper was purring and rolling in Shannon's lap and let Elizabeth give pets and head scratches. She ate all but one treat and came back for the last one. Juniper remembered Shannon from last May. One visit only - the report does not state this as a standing routine.",
+     "quote": "Shannon started by feeding a pouch of wet food and then coaxing Juniper out from under the couch."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Elizabeth Sigler visit report, 12:01pm",
+     "office": false,
+     "note": "House setup as seen on today's first visit: there is a water fountain rather than a water bowl, plus a litter box. Litter box scooped and fountain checked; wet can food fed and a treat given; no accidents found; supplies not low.",
+     "quote": "we also scooped the litter box and checked on the water fountain"
     }
    ],
    "dormant": false
