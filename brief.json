@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T14:20:05-04:00",
+ "generated": "2026-10-10T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2793,6 +2793,16 @@
      "quote": "THEY ARE ALL VERY STRONG AND WILL PULL."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Tiarra Roberts visit report 2:28pm",
+     "office": false,
+     "note": "Three dogs walked together on one leash with three clips. Tiarra squeezed in at the door so none of the three slipped out, and kept a firm hold of the leash outside. Marlo and Sammy sniff, Frankie follows along. Recorded as a one-off observation from this visit, not a standing rule.",
+     "quote": "I slipped in making sure nobody got out"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2841,6 +2851,16 @@
      "office": false,
      "note": "They eat three times a day (am, midday, evening) in the utility room - portioned bags in the refrigerator or on the kitchen island, rice/chicken plus kibble in each bowl. Treats in the utility room cabinet. Water bowls in laundry room and kitchen.",
      "quote": "NO NEED TO PICK UP THE #2'S. WATCH OUT FOR DEER POOP IN BACK YARD FIELD."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Tiarra Roberts visit report 2:28pm",
+     "office": false,
+     "note": "Feeding on this visit: vacuum-sealed baggies from the kitchen island counter, dogs held in the utility room while bowls were made up, then each dog watched until it finished its own bowl because Frankie eats fastest. One sitter's method on one visit, not confirmed as the client's standing instruction.",
+     "quote": "Frankie eating the fastest. But I made sure each one finished thier individual bowl"
     },
     {
      "cat": "home",
