@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T16:20:05-04:00",
+ "generated": "2026-10-10T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2923,6 +2923,16 @@
      "quote": "please read the top of the cans cause some things have changed to help Trudy’s situation"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Harvett Ellington afternoon visit report, Oct 10 5:02pm",
+     "office": false,
+     "note": "The Oct 10 afternoon visit is done and entry was not a problem - the report records the home as 'Client was home during visit', so Trudy was there and the sitter did not need an entry instruction. No accidents, fresh food and water, trash out, mail brought in, all doors locked. The sitter told Trudy she would be back tomorrow (Sunday) afternoon, so an entry instruction is still needed for that visit.",
+     "quote": "I told Trudy I would see them all tomorrow afternoon."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2991,16 +3001,6 @@
      "office": false,
      "note": "Resolves this morning's entry problem. The client drove to the house and confirmed at about 9:23am that it was open; the sitter said she was walking up at about 9:18am. The emails still do not say why the sitter could not get in on her own.",
      "quote": "House is opened"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Client message, Sep 19 1:27pm",
-     "office": true,
-     "note": "Unanswered client question about the Sep 19 morning visit. The sitter sent her report at 12:11pm and then wrote a minute later that she had thought she had clocked out. Vicki asked at 1:27pm what time the sitter actually clocked out. Nothing in the mailbox answers her. Office needs to check the time record and reply.",
-     "quote": "What time did she clock out at?"
     }
    ],
    "dormant": false
@@ -4546,6 +4546,16 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Yasmeen Abrams afternoon visit report, Oct 10 3:11pm",
+     "office": true,
+     "note": "The Oct 10 afternoon report contradicts itself about where the dogs were let out, and one version contradicts the standing rule. The written narrative says both boys went number one and then sniffed around the FRONT yard; the structured outside-time field on the same report says 'We had a great time in the fenced in back yard!'. Company Notes say backyard only, no walks. It is not clear from the email which yard was actually used - the office should ask the sitter before assuming the standing rule was followed.",
+     "quote": "had sniffed around the front yard for a little bit"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "standing",
      "date": "Aug 22",
      "source": "Tiarra Roberts updated Company Notes for Bill Brock",
@@ -4652,16 +4662,6 @@
      "office": false,
      "note": "Feeding when Bill is out of town: morning around 7am, midday 1-6pm wet canned food from the fridge, half a can each (one can total); evening drop-in normally needs no feeding. Dry food is in the cabinet by the garage door with an open bag on the glass table in the upstairs dog room; keep the bowl in their bedroom topped off. Treats sit next to the dry food.",
      "quote": "1/2 can each, 1 can total"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 22",
-     "source": "Tiarra Roberts updated Company Notes for Bill Brock",
-     "office": false,
-     "note": "The backyard can be muddy - dry the dogs with the towels by the back door before bringing them in. Water bowls by the sliding glass door and outside on the deck, plus a bowl and fountain in the upstairs dog bedroom. Leashes hang by the garage door.",
-     "quote": "kitchen sink faucet may not work"
     }
    ],
    "dormant": false
