@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T19:20:07-04:00",
+ "generated": "2026-10-09T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1315,24 +1315,24 @@
      "quote": "Ring white doorbell button before entering (white button to left of door into house)"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Michelle Carrara visit report, Oct 8 8:54am",
-     "office": false,
-     "note": "Georgie pulled on the way down the driveway at the Oct 8 morning walk. Michelle read it as excitement to get outside rather than a handling problem. First record of leash pulling for this dog in this mailbox - the deleted Walk Instructions section still has not been restored, so a sitter has nothing in writing about how he walks.",
-     "quote": "Georgie pulled as we walked down the driveway."
-    },
-    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts evening visit report, Oct 8 8:41pm",
+     "date": "Oct 9",
+     "source": "Tiarra Roberts evening visit report, 8:40pm",
      "office": false,
-     "note": "Georgie went #1 on the Oct 8 evening walk with Tiarra Roberts but had no bowel movement, and the sitter notes they stayed out the whole time. The visit report's accidents field says there were no accidents. No vet contact and no client comment on it in this mailbox.",
-     "quote": "We stayed out the entire time, but no #2."
+     "note": "Georgie did have a bowel movement on the Oct 9 evening walk and the report's consistency field was answered 'It was firm and healthy'. This follows the Oct 8 evening walk where he went #1 only and had no bowel movement, so that concern looks resolved. He went #1 about three times early and twice more on the way back.",
+     "quote": "He finally went #2."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 9",
+     "source": "Tiarra Roberts evening visit report, 8:40pm",
+     "office": false,
+     "note": "Concrete walk route used on the Oct 9 evening walk to stay away from coyotes: out the door, cross the street, turn left. Useful because the Oct 3 Company Notes rewrite deleted the Walk Instructions section that held the preferred route. One sitter on one night, not stated anywhere as a standing rule. Georgie did not pull on the leash, and he looked up at a barking dog but carried on.",
+     "quote": "Georgie and I got going on the walk, crossing the street and turning left, to avoid coyotes."
     }
    ],
    "dormant": false
