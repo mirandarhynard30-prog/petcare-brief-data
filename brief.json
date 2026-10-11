@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T15:20:05-04:00",
+ "generated": "2026-10-11T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2877,6 +2877,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 11",
+     "source": "Kiara Streety visit report, Oct 11 10:51am",
+     "office": false,
+     "note": "Fullest account yet of what a visit here covers, from the Oct 11 10am visit - the brief has had no description of the house layout. The sitter fed in groups: indoor cats first (2 wet, 1 soup, dry refilled), then outside cats (2 dry, 2 wet), then the porch (2 wet, 2 dry). Litter was done in three places - porch, basement and upstairs - with water refreshed at each. This is one sitter's account of one visit, not a written rule, so treat it as a guide rather than instructions. She also brought in a package from the porch and replaced the bag in the kitchen trash can. The client was home during the visit.",
+     "quote": "Came in and did indoor cats first. 2 wet, 1 soup and refilled dry!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 10",
      "source": "Harvett Ellington afternoon visit report, Oct 10 5:02pm",
      "office": false,
@@ -2963,6 +2973,16 @@
     "Bella"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Chelsea Tompkins visit report, Oct 11 9:22am",
+     "office": true,
+     "note": "Bella's #2 on the Oct 11 morning visit was logged as diarrhea again - the report's consistency field reads very loose/diarrhea, with the sitter noting the dog seems fine otherwise. She went #1 a few times and #2 once. This is the THIRD logged diarrhea episode for Bella in the brief (Sep 20, Sep 27, Oct 11), so it is no longer a one-off; the office should raise it with the client. No vet contact, diet change or medication appears anywhere in this mailbox.",
+     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
     {
      "cat": "health",
      "sev": "high",
