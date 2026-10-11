@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T12:20:16-04:00",
+ "generated": "2026-10-11T13:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3237,6 +3237,16 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Shannon Anderson visit report, Oct 11 12:39pm",
+     "office": false,
+     "note": "Shannon pulled the front door closed on leaving but did not lock it. The report also records the client as home during the visit, so this may have been intentional - unclear from the report.",
+     "quote": "I did pull the front door closed, I did not lock it."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3295,16 +3305,6 @@
      "office": false,
      "note": "For today's visit she is leaving the dog's food out on the kitchen counter and asks the sitter to simply put it down.",
      "quote": "I’ll leave food in kitchen. Just put it down for her. Thanks."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Julie Smith visit report 4:57 PM",
-     "office": false,
-     "note": "On arrival for the Oct 6 afternoon visit the front door was unlocked, so the sitter entered that way. She locked the front door on leaving and exited through the garage, closing it fully. One observation, not a standing rule.",
-     "quote": "I came through the front door because it was unlocked"
     }
    ],
    "dormant": false
@@ -6584,12 +6584,42 @@
     {
      "cat": "home",
      "sev": "high",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Client message from Gina Sullivan, Oct 11 12:37pm",
+     "office": false,
+     "note": "Heritage Crossings closes its doors at 8pm, so the last visit of the day has to be by 7:30. Gina says sitters are to sign in and out at the front desk.",
+     "quote": "They want you to sign in and out at the front desk."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Private client message from Gina Sullivan, Oct 11 12:38pm",
+     "office": true,
+     "note": "Gina asked the office to send her the schedule as soon as possible so she can line up extra dog walkers for this week. Unanswered as of 1:12pm. Her wording is about lining up walkers on her side; it is not clear from the email alone what coverage she is expecting from us.",
+     "quote": "Please send me the schedule ASAP so I can line up extra dog walkers for this week."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
      "type": "recent",
      "date": "Oct 7",
      "source": "Client message 10:41pm Oct 7",
      "office": true,
      "note": "Gina wrote that her mom is moving to Heritage Crossing in Akron, OH. No move date given and no pet named; the full street address is in her Time To Pet message. Office needs to confirm when the move happens and update the service address before the next visit, and tell the assigned sitter.",
      "quote": "Mom is moving to Heritage Crossing"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Client message from Gina Sullivan, Oct 11 12:37pm",
+     "office": true,
+     "note": "Gina proposed visit times herself - roughly 9am for the first visit, then 2:30, with the last visit at 7:30 because of the 8pm door closing. Office needs to confirm and build the schedule; she has not been told these times are accepted.",
+     "quote": "So maybe 9 for 1st visit then 2:30."
     },
     {
      "cat": "health",
