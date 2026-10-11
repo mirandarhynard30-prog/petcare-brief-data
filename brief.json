@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T23:20:05-04:00",
+ "generated": "2026-10-11T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1479,16 +1479,6 @@
      "quote": "Please cancel the last appointment. I would appreciate communication when they are running late."
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Client private message, 1:26pm",
-     "office": true,
-     "note": "Private message from the client: she is leaving at 7 am and will feed the dogs herself. She does not say which day this applies to or which visit it affects. Her outstanding request is for 3 visits on Mon Sep 21 spaced across the day, and those are still unapproved, so the office needs to confirm with her before the schedule is set.",
-     "quote": "Leaving at 7 am. I will feed them"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1920,16 +1910,6 @@
      "office": false,
      "note": "Client adds a second approved treat source: a jar of treats on the kitchen island, alongside the white cabinet sitters normally use. Read it together with her standing food-aggression rule - Nova gets no treats or chews while both dogs are in the same room - so treats from the jar still need the dogs separated. The sitter on the evening visit did keep them separate for treats.",
      "quote": "there’s a jar of treats on the kitchen island if you want to give the pups some treats from that jar"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Dan Dantimo visit report, Sep 19 7:02pm",
-     "office": false,
-     "note": "Nova's #2 on the Sep 19 evening visit was logged in the report's consistency field as a little loose but not concerning. Penny went #1 only. This follows the Sep 6 loose-stool report for Nova; nothing on file says the client has been told.",
-     "quote": "not only were they playing with each other more penny went number one and Nova number two"
     },
     {
      "cat": "behavior",
@@ -2741,26 +2721,6 @@
      "quote": "I cycled the LitterRobot and put a fresh bag in the drawer."
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "Second vomit cleanup in two days - puke on the carpet this morning, a hairball at the Sep 18 evening visit. Which cat is not stated.",
-     "quote": "I cleaned up a little puke on the carpet"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Tiarra Roberts",
-     "office": true,
-     "note": "Sitter left the Litter-Robot drawer bag in place and asked the client whether to change it every visit. Unanswered, and it cuts against Brandy's Sep 17 instruction to pull and replace the bag Sunday.",
-     "quote": "But I did leave the bag, I don't want to be changing it too often"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2779,16 +2739,6 @@
      "office": false,
      "note": "Water changed in the same rewrite. The note previously said the water bowls were in the shower; it now says to refresh two red water bowls and does not say where they are. The hairball cleanup instruction (Dawn dish soap and hot water) was also deleted. The vacuum is still in the front entry closet for stray litter, and the basket in front of the bathroom sink still stays put or Jaxon slams the cabinets.",
      "quote": "Refresh 2 red water bowls"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Noella Assi visit report, Sep 19 6:31pm",
-     "office": true,
-     "note": "On the Sep 19 evening visit the sitter opened an exterior door for Xander, saying he likes talking to a bird on the porch roof. The report does not say whether he went outside, how long the door was open, or whether Brandy allows this. These are indoor cats as far as the notes go, so confirm with Brandy before it becomes routine.",
-     "quote": "I opened the door for Xander, he loves talking to the bird living on your to porch roof"
     }
    ],
    "dormant": false
@@ -2854,16 +2804,6 @@
      "quote": "All 3 dogs stay in the utility room. Make sure to replace the gate and keep door shut, leading to house."
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Yasmeen Abrams visit reports, Sep 19 midday and evening",
-     "office": false,
-     "note": "Frankie and Sammy each went #1 only at BOTH the Sep 19 midday and evening visits - no #2 at either. Marlo went #2 both times and the sitter logged it firm and healthy. Two visits in a row with nothing from two of the three dogs; worth watching on the next visit rather than treating as normal.",
-     "quote": "No #2 today"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2922,16 +2862,6 @@
      "office": true,
      "note": "Client wrote this morning questioning the visit time. The sitter (Harvett Ellington) had messaged at 6:39am that she would arrive between 8:50 and 8:55am; the client says the schedule she checked on Friday showed 10:00 today. Office should check what the Oct 4 schedule actually holds for her.",
      "quote": "When did your time change you were scheduled for 10:00 today when I checked the schedule on Friday"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Client message 9:07am",
-     "office": true,
-     "note": "Entry problem at this morning's visit - client wrote at 9:07am that she had just seen the message and was driving to the house to open it. The email does not say why entry failed or whether the sitter got in.",
-     "quote": "I just saw your email I’m on my way to the house to open it"
     },
     {
      "cat": "health",
@@ -3012,16 +2942,6 @@
      "office": true,
      "note": "The Sep 20 afternoon report gives two different accounts of the same visit: the written narrative names one entry route and the structured 'how was the home secured' answer names a different one. Deliberately not spelled out here - the report is in Time To Pet. The office should confirm with Vicki which entry and securing steps are correct so the note and the report agree. No supplies were reported low and all three water bowls were refreshed.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Vicki Davey has sent you a new message",
-     "office": false,
-     "note": "Resolves this morning's entry problem. The client drove to the house and confirmed at about 9:23am that it was open; the sitter said she was walking up at about 9:18am. The emails still do not say why the sitter could not get in on her own.",
-     "quote": "House is opened"
     }
    ],
    "dormant": false
@@ -3052,26 +2972,6 @@
      "office": true,
      "note": "Bella's stool has escalated to frank diarrhea on the Sep 20 morning visit - the sitter logged the consistency as very loose/diarrhea but said the dog seemed fine otherwise. This is the third loose-stool report in eight days (slightly loose Sep 13 and Sep 19, diarrhea Sep 20). Nothing in the mailbox shows Jennifer has been told. Office should contact her.",
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Kathy Pastor visit report",
-     "office": false,
-     "note": "On Sep 19 the client was home for the visit and asked that the door not be locked on the way out. One visit only - confirm before assuming it applies again.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Kathy Pastor visit report",
-     "office": false,
-     "note": "Bella's stool was slightly loose on the Sep 19 morning walk; sitter did not flag it as concerning. Watch on the next visit.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -3537,16 +3437,6 @@
      "quote": "Do NOT lock yourself out"
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Client message, Sep 19 6:14pm",
-     "office": false,
-     "note": "Client wrote at 6:14pm that she has refilled supplies, which reads as closing the Sep 15 shortage of paper towels and Oakley's poop bags. She does not say which supplies she refilled or where they are kept, so the storage location is still not written into the Pet Care Note.",
-     "quote": "No worries at all, I got it all refilled!"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -4008,16 +3898,6 @@
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Client message, Sep 19 12:51pm",
-     "office": true,
-     "note": "Client wrote at 12:51pm Sep 19 to say she has added visits herself for the rest of this month and next month. A service order request for Oct 6 - Oct 29 arrived four minutes later and is awaiting approval. Office needs to approve or decline it.",
-     "quote": "My apologies, I just added the visits for the rest of this month and next months as well."
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -4096,16 +3976,6 @@
      "source": "Client message, 2:13pm",
      "note": "Client wrote at 2:13pm during the same-day noon walk that Praveena has to get Whiskey to a sitter before her flight to New York, and asked that Whiskey be back by 2:50. He does not say how long Whiskey will be at the sitter or whether the standing twice-daily visits should pause, so the office needs to ask before the next scheduled visit.",
      "quote": "I know she has to also get Whiskey to the sitter before she leaves for her flight to New York"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Client message 1:34pm",
-     "office": true,
-     "note": "Client wrote at 1:34pm Sep 19 asking to PAUSE visits starting tomorrow (Sat Sep 20) because Praveena and his parents will both be in town. He sent a short 'Correct! Thank you!' at 3:35pm, which suggests somebody replied, but no office answer is visible in the mailbox and nothing confirms the pause was applied to the schedule. This sits against his Sep 17 standing ask for two visits a day, seven days a week.",
-     "quote": "could we actually put a pause on visits starting tomorrow?"
     },
     {
      "cat": "schedule",
@@ -4351,29 +4221,9 @@
      "office": false,
      "note": "Client warned she may be unreachable by cell on Sep 19 and named a local backup contact who lives under ten minutes away. Contact details are in Time To Pet, not repeated here.",
      "quote": "We may not have cell phone service"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 19",
-     "source": "Sitter/client message exchange",
-     "office": false,
-     "note": "Sitter Thomas Rakovec checked at 2:20pm whether the dogs get pumpkin or CBD; Krysten replied \"Correct!\" at 2:21pm. Confirmed: no pumpkin and no CBD. The email does not say what prompted the question.",
-     "quote": "No pumpkin or cbd"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 19",
-     "source": "Thomas Rakovec visit report, Sep 19 3:19pm",
-     "office": false,
-     "note": "Older uncollected waste is sitting in the back yard - the sitter and Roo nearly stepped in it on the Sep 19 visit. Thomas says he will scan the yard and pick up after letting the dogs back in from now on. Both dogs' stool on this visit was firm and healthy.",
-     "quote": "Roo and I almost stepped in some previous no.#2"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Christina Carlisle",
@@ -4595,6 +4445,16 @@
      "quote": "Use cheese if needed to get them inside"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Tiarra Roberts visit report, Oct 11 8:32am",
+     "office": false,
+     "note": "Oct 11 morning visit: Storm ate little of his share of the split can while Timber ate normally. The uneaten food was left upstairs with the dogs at the end of the visit. Bill is away on a trip. This is the third appetite note on this household since Sep 27 (Sep 27 Timber slow, Oct 1 both dogs reluctant) but each report names a different dog, so it is an observation to watch rather than an established pattern.",
+     "quote": "Timber had an appetite but Storm didnt really eat, too much."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -4683,16 +4543,6 @@
      "office": true,
      "note": "Second report of Timber eating slowly - he again took longer than usual and left a little food, which the sitter put upstairs with them when leaving. The first was Sep 18. His #2 this visit was firm and healthy and Storm ate normally. No vet contact or instruction recorded either time.",
      "quote": "Timber took a little longer to eat, today, again."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Time To Pet record edit by Tiarra Roberts",
-     "office": true,
-     "note": "Company Notes rewrite dropped the leash location and the line that messes in the dog room need not be cleaned up.",
-     "quote": "Leashes are usually on the island in kitchen"
     }
    ],
    "dormant": false
