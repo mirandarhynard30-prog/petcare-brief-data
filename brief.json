@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T16:20:05-04:00",
+ "generated": "2026-10-11T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -753,6 +753,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 11",
+     "source": "Angela Jozsa private message, 5:01pm",
+     "office": true,
+     "note": "Client cancels tomorrow's (Oct 12) walk - she is taking the day off work. Needs confirming and the visit pulling off the schedule. Message is signed 'Carol' though the account is Angela Jozsa; unclear which name is the person writing.",
+     "quote": "we will not need a walker for tomorrow. I am going to take the day off work."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 7",
      "source": "Angela Jozsa private message, 9:24pm",
      "office": true,
@@ -858,16 +868,6 @@
      "office": false,
      "note": "Lucy broke off the walk partway because of people at the neighbouring property, and only continued once they had gone. She was also in no hurry to leave the pen and had to be encouraged out. One observation, not recorded as a standing rule.",
      "quote": "she went three quarters away down to the garbage bin and then wanted to come back because there were people next door"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Sitter Margaret Bill, Oct 1 midday visit report",
-     "office": false,
-     "note": "Lucy went #1 only on the Oct 1 midday walk and had no bowel movement. She was lying in her bed in her pen on arrival and had to be encouraged to move. She ate treats and kibble and went back into the pen without difficulty. This continues the low-energy and no-#2 pattern already logged on Sep 28 and Sep 29.",
-     "quote": "She did not do any number two today."
     }
    ],
    "dormant": false
@@ -7869,6 +7869,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Pet Care Note written by Shannon Anderson, 4:26pm",
+     "office": false,
+     "note": "Ollie is an escape risk - keep all doors and gates closed.",
+     "quote": "ESCAPE RISK – keep doors/gates closed"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Pet Care Note written by Shannon Anderson, 4:26pm",
+     "office": false,
+     "note": "Not dog friendly - keep away from other dogs.",
+     "quote": "NOT dog friendly – avoid other dogs"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -7877,6 +7897,36 @@
      "office": false,
      "note": "New client, first visit done. Josh Stone's Oct 11 meet-and-greet report answers only one question - that he photographed where things are kept - and ten photos are attached to that report in Time To Pet. Until Ollie's care details are written into her Pet Care Note, that report is the only guide to the house; open it before the first solo visit.",
      "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Pet Care Note written by Shannon Anderson, 4:26pm",
+     "office": false,
+     "note": "Backyard only - walk on the property, not off it. Leash and harness are on the mantle. Still learning his name.",
+     "quote": "Visit: Backyard Only (walk on property)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Pet Care Note written by Shannon Anderson, 4:26pm",
+     "office": false,
+     "note": "Midday/afternoon feeding: small handful of dry Royal Canin Small Breed, food kept on the mantle.",
+     "quote": "Put a small handful of dry food in his bowl and put in his crate"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Company Notes written by Shannon Anderson, 4:26pm",
+     "office": false,
+     "note": "Park in the driveway. No house alarm; client not home during visits. Treats and cleaning supplies on the mantle, water bowl on the living room rug, toys on the corner chair. Mail from the end of the driveway goes on the mantle.",
+     "quote": "Mail: Mantle • Trash day: Friday"
     }
    ],
    "dormant": false
