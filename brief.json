@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T09:20:05-04:00",
+ "generated": "2026-10-11T10:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2942,6 +2942,16 @@
      "office": true,
      "note": "The Sep 20 afternoon report gives two different accounts of the same visit: the written narrative names one entry route and the structured 'how was the home secured' answer names a different one. Deliberately not spelled out here - the report is in Time To Pet. The office should confirm with Vicki which entry and securing steps are correct so the note and the report agree. No supplies were reported low and all three water bowls were refreshed.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Vicki Davey, client message",
+     "office": false,
+     "note": "For today's visit the client says she will let Trudy know the front door will be left open.",
+     "quote": "Gm I’ll let Trudy no front door will be open have a great day thanks!"
     }
    ],
    "dormant": false
@@ -6630,6 +6640,16 @@
      "office": true,
      "note": "Gina says her mom is about to move: assessed and signing papers on Oct 1, moving soon after. In a follow-up reply to Miranda she named where (see Time To Pet). Message does not say what this means for pet care or future visits - office should confirm with Gina.",
      "quote": "She gets assessed and signs papers on 10/1. and will be moving soon after that."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Margaret Bill message to client; client replied \"Sounds good\"",
+     "office": false,
+     "note": "Meet and greet today at 11am with Margaret Bill and Josh; client confirmed.",
+     "quote": "Josh and I will be meeting you for the meet and greet at 11am."
     },
     {
      "cat": "schedule",
