@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T17:20:05-04:00",
+ "generated": "2026-10-10T21:35:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -81,6 +81,16 @@
      "quote": "Use blue pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Client private message, 5:18pm",
+     "office": true,
+     "note": "AMBIGUOUS - open confirmation from the client. She says whatever was sent her looks good and that she will confirm as soon as she can, so a reply is still outstanding. The email does not say what she is approving, so the office has to match it against what was sent her on Oct 10.",
+     "quote": "Looks good to me. I will let you know asap."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -119,16 +129,6 @@
      "office": true,
      "note": "The Company Notes line naming where scooped litter goes was REMOVED in the same round of edits. Plastic bags in the hallway closet and scooper under the sink are still listed, but there is now no stated destination for the scooped waste. Restore it or tell sitters what replaced it.",
      "quote": "Bathroom trash can beside toilet used for scooped litter"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Noella Assi visit report, Sep 22 8:58pm",
-     "office": true,
-     "note": "Sitter reports the dry kibble bag is running low at the Sep 22 evening visit; she topped the kibble up from what was left. The report's supplies-getting-low question is answered Yes. Office to let Kelly know or arrange more food.",
-     "quote": "The kibble bag is low on food."
     }
    ],
    "dormant": false
@@ -480,6 +480,36 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Oct 10",
+     "source": "Client message, 7:59am",
+     "office": false,
+     "note": "The off-limits food list is longer than one flavour. As well as the Whitefish Tuna not agreeing with Sampson, the client says he will not eat the liver one or the giblet one, and she deliberately did not leave either out.",
+     "quote": "He also does not like the liver one and giblet one."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Kathy Pastor message, 8:54am",
+     "office": false,
+     "note": "First time the client's own pill method is reported working: Kathy Pastor gave Sampson his half pill with Mixed Grill wet food on top and bottom and he took it straight away. This is the alternative to crushing it into the Churu, which Renee Dougherty did on Oct 9. Two methods have now each worked once and nobody has said which to standardise on.",
+     "quote": "I just gave him his pill with mixed grill on top and bottom and he ate it!"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Kathy Pastor visit report, 9:30am",
+     "office": false,
+     "note": "Oct 10 morning visit: two #2 spots in the dining room, plus two #2 and some #1 in the litter box. The sitter also felt something damp by one of the pee pads in the dining room and cleaned it. No urine on the hard floors. He ate his full meal, took the pill, and was drinking water when she left.",
+     "quote": "There were two number two spots in the dining room"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Oct 9",
      "source": "Renee Dougherty morning report",
@@ -546,36 +576,6 @@
      "office": true,
      "note": "Sampson had two poop accidents on the carpet plus one in the litter box, and also threw up in the family room. No urine found anywhere. Sitter cleaned up all of it. Worth telling the client and watching at the next visit.",
      "quote": "He pooped twice on the carpet and once in the litter box."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Renee Dougherty visit report",
-     "office": true,
-     "note": "Sampson (the report calls him Sammy) spat out his medicine when it was given in a Churu. Renee then fed him his hard and soft food mixed with the 1/2 pill and he ate it. The report records medication as administered.",
-     "quote": "I gave him his medicine with a churo, but he kept spitting it out"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 30",
-     "office": true,
-     "source": "Margaret Bill visit report, Sep 30 morning walk",
-     "note": "Gordy's stool was logged loose again on the Sep 30 morning walk - the fourth loose reading in a week after Sep 24, Sep 28 and Sep 29. Still no vet contact visible in any message. He walked the usual route but slowed part way through.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Kathy Pastor 10:41am visit report Sep 29",
-     "office": true,
-     "note": "Gordy's stool marked loose again on the Sep 29 10am walk - Kathy Pastor ticked the consistency box for a little loose but not concerning. The brief already carries a loose reading for Gordy on Sep 24, so this is at least the second in under a week. Otherwise he was frisky, eager to walk, went #1 and two #2s. No vet contact mentioned.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -1095,6 +1095,16 @@
      "quote": "Please check for animals in the fenced in area before releasing him off the leash, he is triggered by other animals."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 10",
+     "source": "Tiarra Roberts contact-info update, 7:09pm",
+     "office": false,
+     "note": "Bin instruction shrank in the 7:09pm rewrite. Company Notes previously ended 'Take garbage out Wednesday evening and bring in Thursday, if they are out of town' - that line is deleted, and the newly filled Important Notes field carries only the bare day. Nothing now tells a sitter to put the bins out or bring them in.",
+     "quote": "Trash day: Wednesday"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -1168,21 +1178,11 @@
      "cat": "home",
      "sev": "low",
      "type": "standing",
-     "date": "Sep 17",
-     "source": "Tiarra Roberts updated contact information",
-     "office": true,
-     "note": "The same Sep 17 rewrite deleted the Lighting & Safety line from Company Notes, which told sitters the security lights come on automatically. Nothing replaced it.",
-     "quote": "Security lights will turn on automatically when needed."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:39pm",
+     "date": "Oct 10",
+     "source": "Tiarra Roberts contact-info update, 7:09pm",
      "office": false,
-     "note": "Poop bags go in the black trash can in front of the garage door. Bins out Wednesday evening, in Thursday, if the family is away.",
-     "quote": "Dispose of used poop bags in the black trash can in front of garage door."
+     "note": "Same rewrite moved the supply location out of Company Notes into Important Notes and dropped the detail that the treats are in a ziplok bag. Important Notes was empty before this edit, so the whole block there is new.",
+     "quote": "Leash, poop bags and treats will be in garage, by side door."
     }
    ],
    "dormant": false
@@ -1857,7 +1857,8 @@
    "pets": [
     "Nova",
     "Penny",
-    "Sprinkles"
+    "Sprinkles",
+    "PJ"
    ],
    "items": [
     {
@@ -1959,6 +1960,26 @@
      "office": false,
      "note": "Penny's harness is marked by body part - pink strap over the shoulders, grey under the belly. Harness and leash are by the front door; a reference photo is in Time To Pet.",
      "quote": "Harness is marked by body parts and pink strap goes over shoulders, gray goes under belly"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 10",
+     "source": "Client message, 7:40pm and 8:20pm",
+     "office": false,
+     "note": "Do not mistake the stuffed toys in the guinea pigs' cages for the animals - the client says they look like the piggies and have startled her more than once. She adds that the pig PJ sleeps on its back with its legs in the air, which looks alarming and is normal.",
+     "quote": "there are stuffies in the guinea pigs cages that look like them"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 10",
+     "source": "Client message, 7:42pm",
+     "office": false,
+     "note": "Back yard light is on a motion sensor and comes on by itself, so the yard will not be dark on an evening visit. No switch to find.",
+     "quote": "the light in the backyard is motion sensored and will turn on automatically"
     }
    ],
    "dormant": false
@@ -2650,6 +2671,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Client message, 5:22pm",
+     "office": true,
+     "note": "Late-notice booking the client flagged in her own words at 5:22pm, apologising for forgetting it earlier. A portal order request covering Oct 12-14 landed nine minutes later and needs approval. She wrote 'thank you!' six minutes later, so someone may already have answered - worth confirming the Mon-Wed visits are on the schedule.",
+     "quote": "i just sent a request for this monday-wednesday. i completely forgot to put it on earlier"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -2758,16 +2789,6 @@
      "office": true,
      "note": "On the Sep 19 evening visit the sitter opened an exterior door for Xander, saying he likes talking to a bird on the porch roof. The report does not say whether he went outside, how long the door was open, or whether Brandy allows this. These are indoor cats as far as the notes go, so confirm with Brandy before it becomes routine.",
      "quote": "I opened the door for Xander, he loves talking to the bird living on your to porch roof"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Client message 5:07pm",
-     "office": true,
-     "note": "Brandy says the litter box was not operated correctly on our first visit and got messed up. Her box appears to need specific handling; the email does not say what kind or how it works. Office should get operating instructions written down before Monday.",
-     "quote": "no one knew how to use mine the first time and it got messed up."
     }
    ],
    "dormant": false
@@ -3455,6 +3476,16 @@
     "Oakley"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 10",
+     "source": "Tiarra Roberts contact-info update, 7:04pm",
+     "office": false,
+     "note": "Important Notes extended at 7:04pm, now in capitals. It previously read only 'Remove shoes before entering'; the paw wash after the walk is now part of the same top-level instruction. The Sep 26 rewrite had cut the paw wash from the care note, leaving it only in the longer Company Notes - this puts it back where a sitter will see it.",
+     "quote": "REMOVE SHOES BEFORE ENTERING AND USE PAW WASH FOR OAKLEY, WHEN FINISHED WITH WALK."
+    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -4566,6 +4597,26 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Oct 10",
+     "source": "Tiarra Roberts contact-info update, 3:45-4:09pm",
+     "office": false,
+     "note": "Important Notes edited three times in half an hour. A trash day was added, the feeding lines tightened to name 'two white plates' at both the AM and the afternoon/evening feeding, and the headline rule now reads 'Backyard Only/No Walks required'. Bedtime visits unchanged - potty break and refreshing water.",
+     "quote": "Trash day: Tuesday"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 10",
+     "source": "Yasmeen Abrams bedtime visit report, 8:25pm",
+     "office": false,
+     "note": "#2 accident in the dogs' upstairs room at the Oct 10 bedtime visit; the sitter cleaned it and put a fresh puppy pad down. Outside time was short - cold and raining. Storm's #2 outdoors logged firm and healthy, Timber none. Cuts against the Sep 26 Company Notes rewrite, which dropped the line saying messes in the dog room need not be cleaned up.",
+     "quote": "They did have an accident in the room which was a number two which I had cleaned up"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Oct 9",
      "source": "Client private message 1:18pm",
@@ -4642,26 +4693,6 @@
      "office": false,
      "note": "Leash location changed in the Sep 11 Company Notes rewrite. The note previously said leashes hang by the garage door; it now says they are usually on the kitchen island. Check both if they are not where expected.",
      "quote": "Leashes are usually on the island in kitchen"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Company Notes, Sep 11",
-     "office": false,
-     "note": "The dogs may not want to come back inside from the backyard. Cheese from the fridge is the standing tool for getting them in - the notes describe them as very cheese motivated. A leash and a walk around the backyard is the other option.",
-     "quote": "Very cheese motivated - can give them cheese from the fridge"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 22",
-     "source": "Tiarra Roberts updated Company Notes for Bill Brock",
-     "office": false,
-     "note": "Feeding when Bill is out of town: morning around 7am, midday 1-6pm wet canned food from the fridge, half a can each (one can total); evening drop-in normally needs no feeding. Dry food is in the cabinet by the garage door with an open bag on the glass table in the upstairs dog room; keep the bowl in their bedroom topped off. Treats sit next to the dry food.",
-     "quote": "1/2 can each, 1 can total"
     }
    ],
    "dormant": false
