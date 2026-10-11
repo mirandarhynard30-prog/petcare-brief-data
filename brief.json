@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T14:20:05-04:00",
+ "generated": "2026-10-11T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7837,6 +7837,26 @@
      "office": false,
      "note": "House setup as seen on today's first visit: there is a water fountain rather than a water bowl, plus a litter box. Litter box scooped and fountain checked; wet can food fed and a treat given; no accidents found; supplies not low.",
      "quote": "we also scooped the litter box and checked on the water fountain"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Clara Florian",
+   "url": "https://www.timetopet.com/dashboard/client/tmlorlSV21Wz",
+   "pets": [
+    "Ollie (Oliver)"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Josh Stone visit report, Oct 11 2:46pm",
+     "office": false,
+     "note": "New client, first visit done. Josh Stone's Oct 11 meet-and-greet report answers only one question - that he photographed where things are kept - and ten photos are attached to that report in Time To Pet. Until Ollie's care details are written into her Pet Care Note, that report is the only guide to the house; open it before the first solo visit.",
+     "quote": ""
     }
    ],
    "dormant": false
