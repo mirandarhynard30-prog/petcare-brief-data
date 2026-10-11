@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T13:20:06-04:00",
+ "generated": "2026-10-11T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4465,6 +4465,16 @@
      "quote": "Timber had an appetite but Storm didnt really eat, too much."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Tiarra Roberts visit report, 1:56pm",
+     "office": true,
+     "note": "At the 1:56pm visit neither Storm nor Timber had much appetite at lunch; leftover food was taken upstairs with them. Both went #1, no #2 recorded on the report, no accidents. Bill is away and the sitter notes he is home soon.",
+     "quote": "We went back inside for lunch, they didn't have much appetite."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -4543,16 +4553,6 @@
      "office": false,
      "note": "Company Notes now list THREE water bowls to refresh - kitchen, deck, and upstairs in the dog room. The note previously listed only two (kitchen and upstairs), so the deck bowl is new and easy to miss.",
      "quote": "3 water bowls: in kitchen, on deck and upstairs, in dog room"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 27",
-     "source": "Tiarra Roberts visit report, Sep 27 4:36pm",
-     "office": true,
-     "note": "Second report of Timber eating slowly - he again took longer than usual and left a little food, which the sitter put upstairs with them when leaving. The first was Sep 18. His #2 this visit was firm and healthy and Storm ate normally. No vet contact or instruction recorded either time.",
-     "quote": "Timber took a little longer to eat, today, again."
     }
    ],
    "dormant": false
@@ -6682,6 +6682,16 @@
      "quote": "Josh and I will be meeting you for the meet and greet at 11am."
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Gina Sullivan client message, 2:11pm",
+     "office": false,
+     "note": "Gina reports she has got Sassie the harness Petcare Deluxe suggested, following today's meet and greet.",
+     "quote": "We got Sassie the harness you suggested."
+    },
+    {
      "cat": "schedule",
      "sev": "low",
      "type": "recent",
@@ -6690,16 +6700,6 @@
      "office": true,
      "note": "A follow-up reply asking for advance notice so she can line something else up. What she needs notice about is not stated anywhere in this mailbox, so the subject of this reply is unclear - read the thread in Time To Pet before answering.",
      "quote": "Ok just let me know ahead of time so i can get something else lined up."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Client message 9:11 AM",
-     "office": true,
-     "note": "Client replied at 9:11 AM with a one-line confirmation. The message names no date, time or service, so which visit she is agreeing to is not stated in the email and has to be checked in Time To Pet.",
-     "quote": "Perfect see you then"
     }
    ],
    "dormant": false
