@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T10:20:07-04:00",
+ "generated": "2026-10-11T12:20:16-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7778,6 +7778,16 @@
     "Juniper"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Elizabeth Sigler visit report, 11:59am",
+     "office": false,
+     "note": "Second visit for Juniper and she warmed up much faster than on Oct 10: out from under the couch almost at once, ate some of her wet food, accepted pets from both sitters and purred. She went back under the couch with a couple of minutes left; Elizabeth S wondered whether a noise from next door spooked her, which is her guess and not confirmed.",
+     "quote": "She was a lot quicker to come out from under the couch (almost immediately) and she even ate some of her wet food."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
