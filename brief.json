@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T09:20:14-04:00",
+ "generated": "2026-10-12T10:35:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -81,6 +81,26 @@
      "quote": "Use blue pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Visit report, Tiarra Roberts shadowing Shannon Anderson, Oct 12 8:47am",
+     "office": false,
+     "note": "Practical medication tip from the Oct 12 AM visit: Livvie took both her gabapentin liquid and her one-and-a-half pill without a fight because the second sitter held her while the first gave them. Worth repeating when two sitters are present.",
+     "quote": "Livvie took the medicine, easily, because Shannon held her."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Visit report, Tiarra Roberts, Oct 12 8:47am",
+     "office": true,
+     "note": "The same report records BOTH of Livvie's AM medications actually being given - gabapentin liquid and the one-and-a-half pill. That bears on the open office question from the Sep 22 and Sep 28 note rewrites, where gabapentin and then the appetite stimulant disappeared from the written notes and nobody confirmed whether they had been stopped. The report shows gabapentin is still in use; it says nothing about the appetite stimulant, so that question is still open.",
+     "quote": "We got Livvie's gabapentin liquid and her one pill and a half."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -109,26 +129,6 @@
      "office": true,
      "note": "Heads-up only: client may move the Nov 14 PM visit to Nov 9 AM if her Nov 14 plans cancel. She says she will send a change request once she knows; nothing to change yet.",
      "quote": "I may be changing 11/14 PM to 11/9 AM. My plans on 11/14 may be cancelling."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 28",
-     "source": "Tiarra Roberts updated contact information for Kelly Huntington (Pet Care Note), 10:32am",
-     "office": false,
-     "note": "Gabapentin dosing for Livvie was clarified in the same round of edits - the syringe is now to be filled to the red line. Prednisolone was also reworded to 1 1/2 tablet. AM only, Livvie only.",
-     "quote": "Gabapentin - 0.4ml in syringe, to red line (bottle is on top shelf in the fridge. Give a little shake)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 28",
-     "source": "Tiarra Roberts updated contact information for Kelly Huntington (Company Notes), 10:32am",
-     "office": true,
-     "note": "The Company Notes line naming where scooped litter goes was REMOVED in the same round of edits. Plastic bags in the hallway closet and scooper under the sink are still listed, but there is now no stated destination for the scooped waste. Restore it or tell sitters what replaced it.",
-     "quote": "Bathroom trash can beside toilet used for scooped litter"
     }
    ],
    "dormant": false
@@ -3486,6 +3486,26 @@
     "Archie"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 12",
+     "source": "Client message, Oct 12 9:21am",
+     "office": true,
+     "note": "Ray wrote in to ask that the office NOT take his current walker off Archie's walks - he says Archie and he are both comfortable with him and neither likes change. He names the walker as 'Tommy'; the sitter currently walking Archie in these reports is Thomas Rakovec, so that is almost certainly who he means, but the email does not spell the name out. Office should treat this as a staffing instruction and confirm back to him.",
+     "quote": "I would not like you to keep Tommy from walking Archie. Archie and I don’t like change."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Visit report, Thomas Rakovec, Oct 12 9:56am",
+     "office": false,
+     "note": "Archie went both #1 and #2 on the Oct 12 morning walk and the report's consistency field reads 'It was firm and healthy'. That is a normal bowel movement after the no-#2 walks logged on Sep 30, Oct 2 and Oct 9. Supplies were answered 'No' on the getting-low question this visit.",
+     "quote": "Archie went no.#1/2 like a good boy"
+    },
     {
      "cat": "health",
      "sev": "medium",
