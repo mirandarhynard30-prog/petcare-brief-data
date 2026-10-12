@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T12:20:14-04:00",
+ "generated": "2026-10-12T13:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2659,6 +2659,16 @@
      "office": false,
      "note": "Pet Care Note rewritten this morning. The litter rule is reversed: the whole drawer-and-bag changing procedure has been deleted and replaced with leave the robot alone. This answers the sitter question from earlier today about whether to change the Litter-Robot drawer bag every visit - the answer is now no unless told otherwise. White litter bags are in the clear tote next to the robot and black trash bags are under the kitchen sink; litter and wet food cans go in the trash compactor / garage bin near the main entrance.",
      "quote": "Automated litter box in living room near patio door (leave alone unless directed otherwise)"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Brandy Harkless client message 12:50pm",
+     "office": false,
+     "note": "Client asks tonight's sitter to open the living room curtains all the way for the cats; she says she forgot to do it. Tiarra Roberts replied that she will.",
+     "quote": "hi whoever comes tonight can you please open the living room curtains all the way for the cats? i completely forgot."
     },
     {
      "cat": "home",
