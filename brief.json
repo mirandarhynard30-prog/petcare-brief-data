@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T14:20:11-04:00",
+ "generated": "2026-10-12T16:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -923,6 +923,16 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Harvett Ellington report, Oct 12 afternoon",
+     "office": false,
+     "note": "Chloe's #2 was soft on the Oct 12 afternoon walk. The sitter wrote soft but not loose; the report's own consistency field says a little loose but not concerning - the two wordings disagree slightly. Longer walk than usual otherwise. Melody was home and asked that the door not be locked.",
+     "quote": "Went numbers one and two (soft, not loose)."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1295,6 +1305,16 @@
      "quote": "Ring white doorbell button before entering (white button to left of door into house)"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Client msg to Ashley, Oct 12 3:52pm",
+     "office": false,
+     "note": "Electrician at the house installing all new smoke alarms. She also says today is a holiday so there is no mail - skip the mail check for Oct 12.",
+     "quote": "I have an electrician here now, putting in all new smoke alarms."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1313,16 +1333,6 @@
      "office": false,
      "note": "Georgie did have a bowel movement on the Oct 9 evening walk and the report's consistency field was answered 'It was firm and healthy'. This follows the Oct 8 evening walk where he went #1 only and had no bowel movement, so that concern looks resolved. He went #1 about three times early and twice more on the way back.",
      "quote": "He finally went #2."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Tiarra Roberts evening visit report, 8:40pm",
-     "office": false,
-     "note": "Concrete walk route used on the Oct 9 evening walk to stay away from coyotes: out the door, cross the street, turn left. Useful because the Oct 3 Company Notes rewrite deleted the Walk Instructions section that held the preferred route. One sitter on one night, not stated anywhere as a standing rule. Georgie did not pull on the leash, and he looked up at a barking dog but carried on.",
-     "quote": "Georgie and I got going on the walk, crossing the street and turning left, to avoid coyotes."
     }
    ],
    "dormant": false
@@ -1983,6 +1993,26 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Client msg + sitter Robin Lewis, Oct 12 3:52-3:55pm",
+     "office": true,
+     "note": "Marcella cancelled tonight's visit - roofers are on the house, still working, back tomorrow. Robin offered 6:30 or earlier, then confirmed she will see her next week instead. Oct 13 is not addressed either way; office should confirm whether tomorrow is on.",
+     "quote": "No I cancelled"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Client msg, Oct 12 3:55pm",
+     "office": false,
+     "note": "Roofing work has blocked the driveway and left debris around the property. Marcella says she cannot get into her own driveway. Expect no driveway access while the roofers are there.",
+     "quote": "Can't get in my driveway."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -2021,6 +2051,16 @@
      "office": false,
      "note": "Escape risk at the door tonight: the client says she will hold onto him until the sitter is inside. She does not say which animal.",
      "quote": "I will hold onto him till you get in door."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Client msg, Oct 12 3:53pm",
+     "office": false,
+     "note": "Marcella says the cats have slept through the roofing noise so far.",
+     "quote": "Can't believe they have slept threw it."
     },
     {
      "cat": "schedule",
@@ -2071,16 +2111,6 @@
      "office": false,
      "note": "Client added that Sandy might be with him at the door. Ambiguous - Sandy is not one of the pets on file (Buttercup, Simba) and she does not say who 'him' is.",
      "quote": "Sandy might be with him."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Robin Lewis post-visit report, 7:02pm",
-     "office": false,
-     "note": "Post-visit report for the 6:30pm visit: the cats warmed up over the course of the visit rather than right away, no accidents or destruction in the home, no pet supplies low, and the client was home so the sitter did not secure the home.",
-     "quote": "They warmed up over the course of our visit"
     }
    ],
    "dormant": false
@@ -2556,6 +2586,16 @@
      "note": "Pet Care Note replaced this morning. It previously held the feeding instructions and the condition that Ripley is fed only when Matt is out of town. It now reads only SEND ETA WHEN ON THE WAY, UNLESS HE'S OUT OF TOWN, and feeding moved into Company Notes where it reads Feed 2 times per day with no out-of-town condition. As written a sitter would feed every visit whether or not Matt is home. Office needs to say which is right.",
      "quote": "only feed if Matt is out of town",
      "source": "Tiarra Roberts, Pet Care Note edit"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Kristin Ashick report, Oct 12 2:45pm",
+     "office": false,
+     "note": "Ripley had a slow start leaving the house; the sitter puts it down to having no tiny treats on her. Patience worked and Ripley went when ready. Kristin also says Ripley is not keen on leaving the property or going far when Matt is home. Both are this sitter's read, not an owner instruction.",
+     "quote": "I think she was mad I didn't have any tiny treats for her."
     },
     {
      "cat": "behavior",
@@ -3039,6 +3079,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 12",
+     "source": "Kiara Streety report, Oct 12 11:52am",
+     "office": false,
+     "note": "First report of the arrival routine here: Milo was in the crate and the sitter let him out while she sorted the leash, Archer met her at the door. Dogs walked one at a time, Milo first then Archer. Milo pulled a little, less than on Oct 9.",
+     "quote": "I let Milo out the crate to run around while I got the leash together!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 9",
      "source": "Kiara Streety visit report",
      "office": false,
@@ -3114,16 +3164,6 @@
      "office": true,
      "note": "Drew Walker asked whether Milo had been crated before the family left; the client answered that he should have been crated but a household member may have left him loose today. Office should confirm with the client whether Milo is crated as standing practice, because the sitter could not tell on arrival.",
      "quote": "He should’ve been put in this crate, but Brianna might’ve let him roam for today"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Drew Walker visit message to Paulo Garcia, Sep 30 10:59 AM",
-     "office": false,
-     "note": "Milo had an indoor accident on the carpet during the Sep 30 late-morning visit and Drew Walker cleaned it up. Reported in the same exchange in which the client said Milo may have been left out of his crate.",
-     "quote": "Ah okay, he had an accident on the carpet I’m cleaning it up now"
     }
    ],
    "dormant": false
@@ -6156,6 +6196,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 12",
+     "source": "Client msg, Oct 12 6:58am",
+     "office": false,
+     "note": "Treat supply update - more treats in the fridge, and they are beef sticks. Changes the Oct 9 note, which described them as beef jerky in a Ziploc bag.",
+     "quote": "There are more treats in the fridge for him. They are beef sticks."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Client msg, Oct 12 6:58am",
+     "office": false,
+     "note": "New owner request: on the way out, give Flacko his green and yellow treat ball, already filled. Said once, so not yet a standing rule.",
+     "quote": "would you be able to give him his green and yellow treat ball?"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 9",
      "source": "Client message 12:58pm",
      "office": false,
@@ -6241,26 +6301,6 @@
      "office": false,
      "note": "Explains a recurring oddity at this house: Flacko's treat ball rolls into the stereo and knocks the power button on, which leaves it blaring static. The client confirmed this is what happens and thanked the sitter for switching it off, so turning the stereo off when you find it on is correct.",
      "quote": "when he rolls his treat ball around it hits the power button on the stereo"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Shannon Anderson visit report, 1:44 PM",
-     "office": false,
-     "note": "There were no treats in the fridge on the midday visit, so the sitter took an ice cream cup from the freezer instead and Flacko loved it. The client's reply at 2:15 PM thanked her, which settles the question carried for several runs about whether the freezer ice cream is an everyday treat or only a stand-in - it is acceptable. The fridge treats still need restocking.",
-     "quote": "I looked in the fridge for some treats and didn't see any"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 12",
-     "source": "Brandon Keyes message 6:58am",
-     "office": false,
-     "note": "Client: extra treats for Flacko are in the fridge - beef sticks. Also asks the sitter to give him his green and yellow treat ball on the way out; it is already filled.",
-     "quote": "There are more treats in the fridge for him. They are beef sticks."
     }
    ],
    "dormant": false
@@ -6575,6 +6615,16 @@
      "cat": "home",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 12",
+     "source": "Margaret Bill report, Oct 12 2:14-2:17pm",
+     "office": true,
+     "note": "Front desk access problem: the sitter tried to register under Gina Sullivan, which is not the name the facility has - the resident is Joan. She could not check in and went up to Room 220, where Sassie was waiting. Sitters need the right registration name and room number before arriving; office to confirm which name the desk expects.",
+     "quote": "I thought it was Gina Sullivan, and it was Joan."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
      "date": "Oct 11",
      "source": "Client message from Gina Sullivan, Oct 11 12:37pm",
      "office": false,
@@ -6620,6 +6670,16 @@
      "office": true,
      "note": "Gina wrote that her mom is moving to Heritage Crossing in Akron, OH. No move date given and no pet named; the full street address is in her Time To Pet message. Office needs to confirm when the move happens and update the service address before the next visit, and tell the assigned sitter.",
      "quote": "Mom is moving to Heritage Crossing"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Margaret Bill report, Oct 12 2:14pm",
+     "office": false,
+     "note": "First walk report for Sassie, flagged elsewhere as an escape risk. She had her harness on but no leash when the sitter arrived. Sitter says the harness worked well and Sassie was eager to please. No trail at the complex - a sidewalk and a grassy area at the top of the hill.",
+     "quote": "The harness for sassie worked very, very well."
     },
     {
      "cat": "schedule",
@@ -6670,26 +6730,6 @@
      "office": false,
      "note": "Gina states the care she wants: walk/potty three times a day on the walking path, and medication if possible - she keeps it organised in a pill case and the dog takes it with cheese whiz. She does not say which medication or dose.",
      "quote": "Medication if possible. I have it organized in pill case. She takes with cheese whiz."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Client message, 11:23am",
-     "office": true,
-     "note": "Gina asks whether the walkers would mind her mother walking along with them and Sassie now and then. Her mother uses a walker and is slow. Unanswered - this needs an office decision before a sitter is put on the spot.",
-     "quote": "I was wondering if the walkers would mind letting my mom walk with them and Sassie."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message 11:22am",
-     "office": true,
-     "note": "Client is asking whether the business can cover Friday evening or anytime Saturday or Sunday. She sent it twice within a minute, once as a private message. No answer appears in this mailbox - needs a reply from the office.",
-     "quote": "Can you do Friday evening or anytime Saturday or Sunday?"
     }
    ],
    "dormant": false
@@ -7898,6 +7938,16 @@
      "office": false,
      "note": "Not dog friendly - keep away from other dogs.",
      "quote": "NOT dog friendly – avoid other dogs"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 12",
+     "source": "Pet detail update for Ollie, Oct 12 11:30am",
+     "office": false,
+     "note": "Vet details added for Ollie for the first time - these fields were previously blank. Cuyahoga Valley Vet Clinic, 3850 Brecksville Road, Richfield OH 44286, 330 659-0712.",
+     "quote": ""
     },
     {
      "cat": "home",
