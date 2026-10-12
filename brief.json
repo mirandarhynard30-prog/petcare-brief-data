@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T17:20:05-04:00",
+ "generated": "2026-10-11T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6622,6 +6622,26 @@
      "quote": "Please send me the schedule ASAP so I can line up extra dog walkers for this week."
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Margaret Bill updated contact information for Gina Sullivan",
+     "office": false,
+     "note": "Important Notes now flag Sassie as an ESCAPE RISK - doors and gates must stay closed. Triggers listed as squirrels, cats and unknown people.",
+     "quote": "Triggers: Squirrels, cats, unknown people"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Margaret Bill updated contact information for Gina Sullivan",
+     "office": false,
+     "note": "Medication now on record: Trazadone for anxiety, one pill AM and one pill PM, given in cheese whiz. Earlier Oct 8 note only said medication if possible from a pill case; this is the specific instruction.",
+     "quote": "1 pill AM/1pill PM in cheese whiz"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -6640,6 +6660,36 @@
      "office": true,
      "note": "Gina proposed visit times herself - roughly 9am for the first visit, then 2:30, with the last visit at 7:30 because of the 8pm door closing. Office needs to confirm and build the schedule; she has not been told these times are accepted.",
      "quote": "So maybe 9 for 1st visit then 2:30."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Margaret Bill updated contact information for Gina Sullivan",
+     "office": false,
+     "note": "Food is a prescription diet - Science Hill Urinary diet dry kibble, one cup, plus rotisserie chicken, probiotics, yogurt and green bell peppers. Feeding times midday/afternoon and bedtime, and only if the client cannot do it. Allergies: outdoor seasonal.",
+     "quote": "Only will feed if client cannot"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Margaret Bill updated contact information for Gina Sullivan",
+     "office": false,
+     "note": "Harness goes on front feet first through the two front leg holes, then bring the ring up around the tummy to the back and fasten. Leash and harness are in the closet to the left on entering, on the shelf. Dog friendly: yes. Knows sit, shake, leave it, come, down, but may not follow when excited.",
+     "quote": "Put front feet through two front leg holes and bring ring up around tummy to back and fasten."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Margaret Bill updated contact information for Gina Sullivan",
+     "office": false,
+     "note": "Company Notes now set out the visit pattern and access: dog visits 3x a day, client is home during visits, knock on the door and enter the home and leash the pet. Unit is on the second floor near the elevator. Park in any spot on the sides of the building. Dog waste stations are outside; Rock n Roxie spray is in the bottom cupboard under the kitchen sink.",
+     "quote": "Dog visits 3x a day"
     },
     {
      "cat": "health",
@@ -6670,56 +6720,6 @@
      "office": true,
      "note": "Client is asking whether the business can cover Friday evening or anytime Saturday or Sunday. She sent it twice within a minute, once as a private message. No answer appears in this mailbox - needs a reply from the office.",
      "quote": "Can you do Friday evening or anytime Saturday or Sunday?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Client message and private message, Oct 1 2:21pm and 2:22pm",
-     "office": true,
-     "note": "Gina asks to schedule a meet-and-greet before Oct 12, suggesting Oct 11 or an evening the week before. Sent twice, as a standard message and a private message, so she is waiting on a reply. She does not say what the visits after the 12th are for. This may follow her Sep 22 note that her mother signs papers Oct 1 and moves soon after, but the email does not say the two are connected.",
-     "quote": "Could we do a meet and greet before the 12th. Maybe the 11th or an evening the week before? Thanks"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Client messages from Gina Sullivan, Sep 22 9:02am and 9:13am",
-     "office": true,
-     "note": "Gina says her mom is about to move: assessed and signing papers on Oct 1, moving soon after. In a follow-up reply to Miranda she named where (see Time To Pet). Message does not say what this means for pet care or future visits - office should confirm with Gina.",
-     "quote": "She gets assessed and signs papers on 10/1. and will be moving soon after that."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Margaret Bill message to client; client replied \"Sounds good\"",
-     "office": false,
-     "note": "Meet and greet today at 11am with Margaret Bill and Josh; client confirmed.",
-     "quote": "Josh and I will be meeting you for the meet and greet at 11am."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 11",
-     "source": "Gina Sullivan client message, 2:11pm",
-     "office": false,
-     "note": "Gina reports she has got Sassie the harness Petcare Deluxe suggested, following today's meet and greet.",
-     "quote": "We got Sassie the harness you suggested."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Client message, 12:07pm",
-     "office": true,
-     "note": "A follow-up reply asking for advance notice so she can line something else up. What she needs notice about is not stated anywhere in this mailbox, so the subject of this reply is unclear - read the thread in Time To Pet before answering.",
-     "quote": "Ok just let me know ahead of time so i can get something else lined up."
     }
    ],
    "dormant": false
@@ -7847,6 +7847,26 @@
      "office": false,
      "note": "First recorded note for this client. Juniper (cat) starts the visit hiding under the couch. What worked on today's first visit: Shannon fed a pouch of wet food, coaxed her out of her hiding spot, then gave treats; by the end of the visit Juniper was purring and rolling in Shannon's lap and let Elizabeth give pets and head scratches. She ate all but one treat and came back for the last one. Juniper remembered Shannon from last May. One visit only - the report does not state this as a standing routine.",
      "quote": "Shannon started by feeding a pouch of wet food and then coaxing Juniper out from under the couch."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Denise Enriquez has sent you a new message (6:49pm)",
+     "office": true,
+     "note": "Denise explains she booked a shorter visit length this time because she was unsure Juniper would be social, and says Juniper is getting more comfortable. She does not ask for a change, but the office may want to offer a longer visit now.",
+     "quote": "We put a shorter time this time because I wasn’t sure if she’d be social"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Denise Enriquez has sent you a new message (6:49pm)",
+     "office": false,
+     "note": "Denise watches the property on a camera - she mentioned seeing a squirrel get into their pumpkin on it. She does not say which camera or whether it covers inside the home, so treat camera coverage as present but unconfirmed. She also asks that the Halloween decorations stay up.",
+     "quote": "I noticed on the camera a squirrel got into our pumpkin lol!"
     },
     {
      "cat": "home",
