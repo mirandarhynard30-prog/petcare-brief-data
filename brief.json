@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T10:35:07-04:00",
+ "generated": "2026-10-12T11:20:23-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4018,14 +4018,14 @@
    ],
    "items": [
     {
-     "cat": "home",
-     "sev": "medium",
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
-     "date": "Sep 14",
-     "source": "Margaret Bill visit report, Sep 14 11:14am",
+     "date": "Oct 12",
+     "source": "Visit report, Margaret Bill, Oct 12 11:11am",
      "office": false,
-     "note": "On the Sep 14 mid-morning walk the client was home and asked that the door not be locked on the way out. Logged once, so it reads as an instruction for that visit rather than a standing rule - confirm before treating it as standing. Murphy's walk was otherwise routine, stool firm and healthy.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
+     "note": "Julie told the sitter Murphy had a limp after the previous walk and asked for a shorter walk on Oct 12. Margaret walked one block instead of two, at a slower pace with more sniff stops. Murphy was eager to go and did not seem bothered by the foot; #2 was firm and healthy. Julie was home during the visit. The request was stated for Oct 12 only - whether shortened walks continue is not stated.",
+     "quote": "Julie said that Murphy had a limp after our last walk. She asked us to shorten his walk today."
     },
     {
      "cat": "home",
@@ -4038,7 +4038,7 @@
      "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Stephanie Sarrocco",
@@ -4384,57 +4384,17 @@
    ],
    "items": [
     {
-     "cat": "schedule",
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Sep 5",
-     "source": "Christi Russo message 5:59pm",
-     "office": true,
-     "note": "Christi confirms that from Oct 1 Jaxson is to be walked every day. Nothing in the message says which time slot or which sitter, so the recurring schedule still has to be set up in the system.",
-     "quote": "Starting October 1st, you'll be taking him out every day"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Christi Russo message 5:59pm",
-     "office": true,
-     "note": "Christi also says they are planning a meet and greet with a puppy. No date, no puppy name, no service booked - the office needs to come back to her to arrange it.",
-     "quote": "We are also planning to do a meet and greet with the puppy."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Thomas Rakovec visit report 5:38pm",
+     "date": "Oct 12",
+     "source": "Client message from Christi Russo, Oct 12 10:49am",
      "office": false,
-     "note": "Jaxson was given a pill with cheese at the evening feed and the report records medication as administered. The email does not name the drug, the dose, or which visits it belongs to - confirm the regimen before relying on this.",
-     "quote": "Fed Jaxson and gave him his pill with cheese"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Thomas Rakovec visit report, Sep 5 midday",
-     "office": false,
-     "note": "Jaxson was let out into the back but did not want to run around; walk kept to roughly seven minutes because of the weather. He went #1, no #2 at that visit, and drank well after coming in.",
-     "quote": "I took Jaxson for a 7 min walk at most and he went no.#1 but no No.#2 at this time."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 5",
-     "source": "Thomas Rakovec visit report 5:38pm",
-     "office": false,
-     "note": "On the evening visit Jaxson would not go out into the back yard, so the sitter took him on a 12 minute walk instead; he went #1 several times and #2, firm and healthy.",
-     "quote": "he wouldn't go back yard so we took a nice 12 min walk"
+     "note": "Doorbell transmitter died Oct 11, so the doorbell may not work. For the Oct 12 visit Christi opened the garage and asked the sitter to come to the man door. She had replied \"Ok sounds good\" to the sitter's ETA just before. Whether the doorbell is fixed on later visits is not stated.",
+     "quote": "Just come to the man door I opened the garage. For some reason our transmitter died on our doorbell yesterday"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Bill Brock",
@@ -7785,7 +7745,8 @@
    "name": "Joan (Lynn) Stemmer",
    "url": "https://www.timetopet.com/dashboard/client/t7p1moEAG5bf",
    "pets": [
-    "Boo"
+    "Boo",
+    "BooBoo"
    ],
    "items": [
     {
@@ -7807,6 +7768,16 @@
      "office": true,
      "note": "Returning client asking to re-engage service for Boo: Monday and Friday, 10:30am start, 20-minute walk, proposed start date 10/12/26, and she would add Wednesday in winter if it goes well. She wants to know if we are interested and what it costs, says email or phone is fine and that Boo is still healthy. Her callback number is in the Time To Pet message. No reply sent yet and the proposed start is this coming Monday.",
      "quote": "I am looking for Monday and Friday starting at 10:30 for a 20 minute walk."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Visit report, Dan Dantimo, Oct 12 11:11am",
+     "office": false,
+     "note": "BooBoo went #2 twice on the Oct 12 walk and the sitter marked the consistency as a little loose but not concerning. Single observation, no other symptoms reported. Walk was a half hour earlier than usual and otherwise normal; Lynn was home.",
+     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
