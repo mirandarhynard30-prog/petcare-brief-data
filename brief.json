@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T16:35:06-04:00",
+ "generated": "2026-10-12T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2013,6 +2013,16 @@
      "quote": "Can't get in my driveway."
     },
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Marcella Singer has sent you a new message.",
+     "office": true,
+     "note": "At 7:11pm Eastern Marcella sent two words only. In the run of messages about the roofers this reads as the crew having left for the night, which would mean the driveway may be passable again, but she names nobody, so it is not certain from the mail. She had already said they are back tomorrow, and the Oct 13 visit is still unconfirmed - office should get a plain yes or no on tomorrow now that she is answering again.",
+     "quote": "Just left."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -2063,6 +2073,16 @@
      "quote": "Can't believe they have slept threw it."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Marcella Singer has sent you a new message.",
+     "office": false,
+     "note": "Update at 6:26pm Eastern: the roofing crew was still on the property. This is hours later than the 3:54pm messages already in the brief, so the work ran into the evening.",
+     "quote": "They are still working."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2091,26 +2111,6 @@
      "office": false,
      "note": "Door plan for tonight: the client will leave the inside door slightly closed so he does not see the sitter until the storm door is opened. Arrival is at the back door.",
      "quote": "I will let inside door slightly closed so he doesn't see you till you open storm door."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Robin Lewis post-visit report, 7:02pm",
-     "office": false,
-     "note": "At the 6:30pm visit the client was home and showed Robin Lewis how she gives the cat the insulin shot, and Robin says she feels better having watched it. The report still does not name which cat gets insulin or any dose.",
-     "quote": "I feel better now that I’ve watched you give the cat the shot."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client message 6:00pm",
-     "office": false,
-     "note": "Client added that Sandy might be with him at the door. Ambiguous - Sandy is not one of the pets on file (Buttercup, Simba) and she does not say who 'him' is.",
-     "quote": "Sandy might be with him."
     }
    ],
    "dormant": false
