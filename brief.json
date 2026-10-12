@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T07:20:05-04:00",
+ "generated": "2026-10-12T09:20:14-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4468,6 +4468,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "standing",
+     "date": "Oct 11",
+     "source": "Bill Brock private message, Oct 11 10:07am",
+     "office": false,
+     "note": "Client answers the sitters' supply question: trash bags are kept in the cabinet above the trash can. This does NOT answer the separate Oct 10 request for a light bulb for the dogs' upstairs room - that one is still open.",
+     "quote": "The trash bags are in the cabinet above the trash can."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 10",
      "source": "Tiarra Roberts contact-info update, 3:45-4:09pm",
      "office": false,
@@ -4533,16 +4543,6 @@
      "office": false,
      "note": "On the Oct 1 evening visit both dogs did not want to eat when first offered and the uneaten food was left upstairs. The same report records wet and dry food as fed, so whether they ate later in the visit is unclear.",
      "quote": "The boys didn't seem to want to eat, yet."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 27",
-     "source": "Company Notes updated by Tiarra Roberts, Sep 27 4:57pm",
-     "office": false,
-     "note": "Company Notes now list THREE water bowls to refresh - kitchen, deck, and upstairs in the dog room. The note previously listed only two (kitchen and upstairs), so the deck bowl is new and easy to miss.",
-     "quote": "3 water bowls: in kitchen, on deck and upstairs, in dog room"
     }
    ],
    "dormant": false
@@ -7432,6 +7432,16 @@
      "quote": "so yes, door closed but keep an eye out for them. They love to dart and hunker on the low shelves."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Tiarra Roberts visit report, Oct 11 9:52am",
+     "office": false,
+     "note": "Oct 11 morning visit: Pippa could not be found at all when the sitter arrived, so her wet-food plate was held back; she appeared later in the visit and was then fed. Polly greeted the sitter at the door and was heard by her bell first. The sitter described Pippa as a little shy that morning and wondered if she was missing the owners. Second visit in a row where Pippa has been slow to come out - still an observation, not a rule. Nobody was at the door on arrival.",
+     "quote": "I did look for Pippa, to bring her a plate, but I could not find her."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7520,16 +7530,6 @@
      "office": false,
      "note": "One observation, not yet a rule: Pippa stopped eating as soon as Polly came over to her at the Oct 8 evening visit. The sitter carried a bowl of Delectables to Pippa and distracted Polly on the couch with pets, and Pippa then ate. Feeding them apart may be worth trying again. Note the report spells Pippa as 'Peppa'.",
      "quote": "Polly walked up to her and Peppa stopped eating."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 8",
-     "source": "Client message 8:13pm Oct 8",
-     "office": false,
-     "note": "The client confirms the feeding dynamic the sitters have been seeing is normal for these two: Polly is a food hog who crowds Pippa off her food, and Pippa gives way and leaves rather than standing her ground. This turns the Oct 8 evening observation into a standing rule - feed them apart, or carry Pippa's dish away from Polly, so Pippa actually eats.",
-     "quote": "Polly is a little bit of a bully/food hog, and Pippa chooses to run away whenever Polly gets too sassy/interested."
     }
    ],
    "dormant": false
