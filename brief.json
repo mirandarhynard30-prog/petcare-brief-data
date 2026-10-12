@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T23:20:05-04:00",
+ "generated": "2026-10-12T06:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1902,16 +1902,6 @@
      "quote": "NOVA GETS ONE CUP OF DRY FOOD AND PENNY GETS A 1/2 CUP. TOTES ARE MARKED FOR EACH DOG."
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 20",
-     "source": "Ashley Gullett, Thomas Rakovec and Dan Dantimo messages, Sep 20 afternoon",
-     "office": true,
-     "note": "The Sep 20 afternoon visit ran late. Ashley messaged at 4:25pm asking whether the visit was still happening and said it had been booked for Tommy at 3:30. The sitter wrote that he had read the time as 4/4:30. Dan Dantimo checked, and at 4:31pm Ashley confirmed on her cameras that the sitter was there. Resolved the same afternoon, but the office may want to look at how the time was mis-read.",
-     "quote": "It was supposed to be Tommy for 330"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -2468,16 +2458,6 @@
     },
     {
      "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 20",
-     "office": true,
-     "note": "Client wrote this morning to say they are returning home this afternoon. No time given and nothing asked to be cancelled, but a later visit today may no longer be wanted. Worth one check against the schedule.",
-     "quote": "Thank you so much for taking care of Ginger! We’ll be back this afternoon",
-     "source": "Client message 10:20 AM"
-    },
-    {
-     "cat": "schedule",
      "sev": "low",
      "type": "recent",
      "date": "Oct 3",
@@ -2681,6 +2661,36 @@
      "quote": "Automated litter box in living room near patio door (leave alone unless directed otherwise)"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Client message 11:39pm",
+     "office": false,
+     "note": "For this stay the owner has pre-portioned the wet food: one can of soft food per day is already laid out on the counter, so there is no need to pick cans from the supply.",
+     "quote": "the cans of soft food are laid out on the counter for each day."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Client message 11:39pm",
+     "office": false,
+     "note": "Owner says to plate all the cats' food up on the counter so the sitter is not hounded while serving, and warns Xander will jump up on the counter himself.",
+     "quote": "xander will get up on the counter i'm sure you know by now."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Client message 11:40pm",
+     "office": false,
+     "note": "New owner request for this stay: add fresh litter to the Litter-Robot every day, and pull/empty it on Wednesday morning. Owner did not say which Wednesday beyond the coming one.",
+     "quote": "adding fresh litter to it everyday and then pull it on wednesday morning please."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -2689,16 +2699,6 @@
      "office": false,
      "note": "Owner says Xander gets grumpy when hungry and will nibble at toes and socks. Watch feet around him, especially before meals.",
      "quote": "Xander gets hangry and nimbles toes and socks sometimes lol"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 20",
-     "source": "Sitter Tiarra Roberts, Sep 20 morning visit report",
-     "office": true,
-     "note": "Supplies running low, reported on the Sep 20 morning visit: only 3 blue fish-and-shrimp cans remain, and the sitter believes the Delectable treats are gone. She fed one fish-and-shrimp can and one salmon-and-shrimp can this morning. Dry food feeders were checked and were fine.",
-     "quote": "You only have 3 more fish and shrimp cans left. You have no more Delectable treats left"
     },
     {
      "cat": "behavior",
@@ -2723,16 +2723,6 @@
     {
      "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Sep 20",
-     "source": "Tiarra Roberts evening visit report, Sep 20 7:47pm",
-     "office": true,
-     "note": "On the Sep 20 evening visit the sitter cycled the Litter-Robot and put a fresh bag in the drawer. That cuts against the Sep 19 Pet Care Note rewrite, which deleted the drawer-and-bag procedure and told sitters to leave the robot alone. Sitters are still working to the old rule; the office needs to say which one stands.",
-     "quote": "I cycled the LitterRobot and put a fresh bag in the drawer."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
      "type": "standing",
      "date": "Sep 19",
      "source": "Tiarra Roberts updated contact information for Brandy Harkless",
@@ -2749,6 +2739,16 @@
      "office": false,
      "note": "Water changed in the same rewrite. The note previously said the water bowls were in the shower; it now says to refresh two red water bowls and does not say where they are. The hairball cleanup instruction (Dawn dish soap and hot water) was also deleted. The vacuum is still in the front entry closet for stray litter, and the basket in front of the bathroom sink still stays put or Jaxon slams the cabinets.",
      "quote": "Refresh 2 red water bowls"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Tiarra Roberts message 11:41pm",
+     "office": false,
+     "note": "Tiarra Roberts replied to the owner that she can handle the Litter-Robot herself as she is familiar with it, so that task is claimed rather than open.",
+     "quote": "I can do the Litter Robot, since I'm familiar with it"
     }
    ],
    "dormant": false
@@ -2935,36 +2935,6 @@
     },
     {
      "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 20",
-     "source": "Client message to sitter Jade, Sep 20 8:48am",
-     "office": false,
-     "note": "Entry note for the Sep 20 morning visit only: Vicki said she would have the side door open for the sitter and asked that it be pulled shut on the way out. This is a one-off arrangement for this visit, not a standing rule.",
-     "quote": "the side door will be opened just pull it shut when u leave"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 20",
-     "office": false,
-     "note": "Resolves the Sep 19 supply problem. The empty dry food container was refilled at this morning's visit - Jade Popovitz and Shannon Anderson found the reserve in the basement, refilled it and returned it to the cabinet. The backup dry food lives in the basement. Vicki was home.",
-     "quote": "The dry food container was empty and we found it in the basement and refilled the container.",
-     "source": "Jade Popovitz visit report"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 20",
-     "source": "Elizabeth Sigler visit report, Sep 20 4:36pm",
-     "office": true,
-     "note": "The Sep 20 afternoon report gives two different accounts of the same visit: the written narrative names one entry route and the structured 'how was the home secured' answer names a different one. Deliberately not spelled out here - the report is in Time To Pet. The office should confirm with Vicki which entry and securing steps are correct so the note and the report agree. No supplies were reported low and all three water bowls were refreshed.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
      "sev": "low",
      "type": "recent",
      "date": "Oct 11",
@@ -3001,16 +2971,6 @@
      "source": "Chelsea Tompkins visit report, Sep 27 9:06am",
      "office": true,
      "note": "Bella's #2 on the Sep 27 morning visit was logged as frank diarrhea - the report's consistency field reads very loose/diarrhea, with the sitter noting the pet seemed fine otherwise. Chelsea also wrote that Bella went #1 a few times and #2 twice. This is the second frank-diarrhea reading in eight days; the brief already carries the same finding for Sep 20. No vet contact and no client reply are recorded for either.",
-     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 20",
-     "source": "Chelsea Tompkins visit report, Sep 20 morning visit",
-     "office": true,
-     "note": "Bella's stool has escalated to frank diarrhea on the Sep 20 morning visit - the sitter logged the consistency as very loose/diarrhea but said the dog seemed fine otherwise. This is the third loose-stool report in eight days (slightly loose Sep 13 and Sep 19, diarrhea Sep 20). Nothing in the mailbox shows Jennifer has been told. Office should contact her.",
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
     }
    ],
@@ -6411,16 +6371,6 @@
      "office": false,
      "note": "Morning of Shannon Anderson's Mon Sep 21 visit: Nicole put a muzzle on Vito before she left, to be extra safe, noting no one is usually home when sitters have come in the past. She says the sitter may remove it once the dogs are settled or before leaving. Shannon replied she will take it off Vito as soon as they calm down.",
      "quote": "Out an abundance of caution, I put a muzzle on Vito before I left."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 20",
-     "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
-     "office": false,
-     "note": "Arrival plan for the Mon Sep 21 visit (Shannon's first visit in a while and first time meeting Vivian). Nicole's elderly father-in-law Ray will be home and moves slowly, so let yourself in through the side door by the grill; a chime rings when it opens. The dogs will be loose behind a baby gate at the steps. Treats are in the closet right inside - have the dogs sit and calm down before moving the gate. Let the dogs see you at that door first, not the deck door.",
-     "quote": "The dogs will be loose, but there will be a baby gate at the steps so you can say hi without them coming up to you right away."
     },
     {
      "cat": "behavior",
