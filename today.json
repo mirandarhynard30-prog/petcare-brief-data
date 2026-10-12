@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T00:05:06-04:00",
+ "generated": "2026-10-12T08:35:53-04:00",
  "date": "2026-10-12",
  "label": "Oct 12, 2026",
  "clients": [
@@ -137,14 +137,7 @@
      "time": "10:30 AM",
      "sort": "1030",
      "staff": "Dan Dantimo",
-     "service": "Trainer Visit-30minute",
-     "pets": "BooBoo"
-    },
-    {
-     "time": "10:30 AM",
-     "sort": "1030",
-     "staff": "Kathy Sullenberger",
-     "service": "Shadow Visit with Staff Member-30 minute",
+     "service": "Dog Visit-30 minute",
      "pets": "BooBoo"
     }
    ]
@@ -329,5 +322,5 @@
    ]
   }
  ],
- "visitCount": 30
+ "visitCount": 29
 }
