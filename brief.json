@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T20:20:05-04:00",
+ "generated": "2026-10-11T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1283,6 +1283,16 @@
      "office": false,
      "note": "Company Notes rewritten Sep 17 by Tiarra Roberts. Arrival routine, unchanged from the previous version: enter through the garage, ring the white doorbell button to the left of the door into the house before entering, close the garage door before entering and keep it closed during the walk. Mary will most likely be home and uses a walker. At the end of the visit turn off the laundry room light and close the garage door keypad flap. No codes are recorded here - they stay in Time To Pet.",
      "quote": "Ring white doorbell button before entering (white button to left of door into house)"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Tiarra Roberts visit report, Oct 11 8:22pm",
+     "office": false,
+     "note": "Oct 11 evening visit report records the sitter helping Mary Ann with BOTH Georgie's eyedrops and a second medication, and the form's medication-administered field is answered Yes. The brief has only ever carried the eyedrops. The report does not name the second medication, so what it is and whether it is a new addition is unconfirmed - check Time To Pet or ask Mary Ann before the next evening visit.",
+     "quote": "I helped Mary Ann with Georgie's eyedrops and a medication."
     },
     {
      "cat": "health",
