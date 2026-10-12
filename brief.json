@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T06:20:06-04:00",
+ "generated": "2026-10-12T07:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6251,6 +6251,16 @@
      "office": false,
      "note": "There were no treats in the fridge on the midday visit, so the sitter took an ice cream cup from the freezer instead and Flacko loved it. The client's reply at 2:15 PM thanked her, which settles the question carried for several runs about whether the freezer ice cream is an everyday treat or only a stand-in - it is acceptable. The fridge treats still need restocking.",
      "quote": "I looked in the fridge for some treats and didn't see any"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 12",
+     "source": "Brandon Keyes message 6:58am",
+     "office": false,
+     "note": "Client: extra treats for Flacko are in the fridge - beef sticks. Also asks the sitter to give him his green and yellow treat ball on the way out; it is already filled.",
+     "quote": "There are more treats in the fridge for him. They are beef sticks."
     }
    ],
    "dormant": false
