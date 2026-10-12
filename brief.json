@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T21:20:05-04:00",
+ "generated": "2026-10-11T22:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7957,6 +7957,67 @@
      "office": false,
      "note": "Park in the driveway. No house alarm; client not home during visits. Treats and cleaning supplies on the mantle, water bowl on the living room rug, toys on the corner chair. Mail from the end of the driveway goes on the mantle.",
      "quote": "Mail: Mantle • Trash day: Friday"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Jennifer Wagar",
+   "url": "https://www.timetopet.com/dashboard/client/tmnkjeQ2bKYK",
+   "pets": [
+    "Suka",
+    "Bruno"
+   ],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Client message",
+     "office": true,
+     "note": "Jennifer says she placed a service request for 11/18 by mistake, does not need that day, and does not know how to remove it. Needs the office to cancel the 11/18 request and reply to her. She placed a separate new service order request a few minutes later, which is a booking and not part of the brief.",
+     "quote": "I accidently put in a request for services on 11/18. I do not need that day and I don't know how to remove it."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Client updated pet details - Suka",
+     "office": false,
+     "note": "Suka is older, has arthritis in her back hips and can drag her foot at times. Owner's note says she gets gabapentin for the pain; the note does not say sitters administer it, so confirm with the office before assuming any dosing role.",
+     "quote": "Suka is an old girl and has some arthritis in her back hips and can drag her foot at times."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Client updated pet details - Suka",
+     "office": false,
+     "note": "Suka is typically easy going and easy to walk. She will pull toward other dogs on occasion but is easily redirected. She can get food aggressive with Bruno and will steal his toy if given the chance; owner has not seen her have a food issue with people. She likes pets to her neck, back and sides and will fetch a squeaky toy.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Client updated pet details - Bruno",
+     "office": false,
+     "note": "Bruno can bark a lot at first and is typically scared of new people, though he sometimes takes to someone right away. He hides if he thinks food is out because Suka takes his food, and he backs off his toys when she is around. On walks he barks at all vehicles bigger than an SUV and at bicycles, motorcycles, roller skaters and skateboards. He loves head and belly rubs.",
+     "quote": "Bruno can bark a lot at first and is typically scared of new people."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Client updated pet details - Suka and Bruno",
+     "office": false,
+     "note": "Vet on file for both Suka and Bruno is now Valley Animal Hospital, 1830 Merriman Rd, Akron, OH 44313, 330-836-1971.",
+     "quote": ""
     }
    ],
    "dormant": false
