@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T22:20:06-04:00",
+ "generated": "2026-10-11T23:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8008,6 +8008,16 @@
      "office": false,
      "note": "Bruno can bark a lot at first and is typically scared of new people, though he sometimes takes to someone right away. He hides if he thinks food is out because Suka takes his food, and he backs off his toys when she is around. On walks he barks at all vehicles bigger than an SUV and at bicycles, motorcycles, roller skaters and skateboards. He loves head and belly rubs.",
      "quote": "Bruno can bark a lot at first and is typically scared of new people."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 11",
+     "source": "Client message, Oct 11 10:20pm",
+     "office": true,
+     "note": "Second booking correction from Jennifer, sent after the 11/18 one. She says she entered two visits on November 29 when it should be one visit on November 29 and one on November 30. Office needs to move the duplicate visit to November 30. She also has a service order request covering Oct 22 - Nov 29 awaiting approval, so the fix likely belongs in that request.",
+     "quote": "Also, I put two visits in for November 29 and that’s supposed to be one for November 29 and one for November 30"
     },
     {
      "cat": "health",
