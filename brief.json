@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T16:20:06-04:00",
+ "generated": "2026-10-13T17:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3089,6 +3089,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 13",
+     "source": "Alex Miller visit report, 12:24pm",
+     "office": true,
+     "note": "BOTH dogs unwell on the midday walk. Milo had frank diarrhea and the sitter says he was behaving strangely like something was wrong or he did not feel well, though his energy was normal. The sitter stayed over time because of it. First report of either dog being off at this house.",
+     "quote": "Milo then went number two and it was extremely runny case of diarrhea."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 30",
      "source": "Client message, Paulo Garcia, Sep 30 10:57 AM",
      "office": false,
@@ -3114,6 +3124,16 @@
      "office": true,
      "note": "Same-day cancellation for TODAY Sep 29. Paulo wrote at 6:28am to say he forgot Milo and Archer have dental appointments this morning and no visit is needed today. Sent as a message, not a portal cancellation, so the visit is likely still on the schedule - office needs to pull it before a sitter drives out.",
      "quote": "I forgot Milo and Archer have dental visits this morning, so you guys won’t need to come out today!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Alex Miller visit report, 12:24pm",
+     "office": false,
+     "note": "Archer, same visit: went #2 twice on a longer-than-usual walk, both softer than usual and getting worse. The report form logged his consistency as a little loose but not concerning, which reads milder than the sitter's own description.",
+     "quote": "Both times his stool was softer than usual, with the second time being softer than the first."
     },
     {
      "cat": "behavior",
@@ -3184,26 +3204,6 @@
      "office": true,
      "note": "Sitter does not know whether Milo and Archer are still on medication and said so in her report rather than asking directly. Office needs to confirm the current medication status with the client and get it into the care notes.",
      "quote": "not sure if they are still on medicine or not!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Drew Walker visit report, Oct 1",
-     "office": false,
-     "note": "Drew Walker reported both dogs were tired and groggy on the Oct 1 midday visit; she shortened both walks and played with them inside instead. No cause given in the report.",
-     "quote": "Both pups seemed very tired and groggy today and slowed down a lot on the walks"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Client message, Paulo Garcia, Sep 30 10:59 AM",
-     "office": true,
-     "note": "Drew Walker asked whether Milo had been crated before the family left; the client answered that he should have been crated but a household member may have left him loose today. Office should confirm with the client whether Milo is crated as standing practice, because the sitter could not tell on arrival.",
-     "quote": "He should’ve been put in this crate, but Brianna might’ve let him roam for today"
     }
    ],
    "dormant": false
@@ -4562,6 +4562,26 @@
      "office": false,
      "note": "The sitter deliberately kept the midday walk short because the temperature was climbing, going down one street and turning back. Afterwards Jaxson had no interest in going out to the backyard and wanted indoor attention instead. Second sitter in as many days to flag the warmth on this client.",
      "quote": "I wanted to be careful too because the temperature was getting warm"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Client message, 5:09pm",
+     "office": false,
+     "note": "Client confirms Jaxson is heat sensitive and thanks the sitter for keeping the walk short in the heat. Backs up the sitter's own decision earlier the same day to cut the midday walk short. Treat shortening hot-weather walks here as expected, not a judgement call.",
+     "quote": "he's a big baby when it comes to the Heat"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Client message, 5:09pm",
+     "office": true,
+     "note": "OFFICE: client says a 1:00pm arrival is late for Jaxson and he had likely been holding it. Worth checking whether his recurring visit window should move earlier. She also writes see you tomorrow, so she expects a visit Oct 14.",
+     "quote": "it's a little late for him at 1:00 so he probably had to go potty"
     },
     {
      "cat": "home",
