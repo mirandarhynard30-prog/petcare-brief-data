@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T09:20:06-04:00",
+ "generated": "2026-10-13T10:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2508,6 +2508,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Client private message 9:31am",
+     "office": true,
+     "note": "Matt asks by private message at 9:31am for extra visits because he is heading out of town for 24 hours: Oct 16 afternoon and evening, Oct 17 morning, afternoon and evening. He asks directly whether the office can help. Still unanswered in this mailbox as of 10:15am.",
+     "quote": "I’ll need more visits on 10/16 & 10/17."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -2571,6 +2581,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 13",
+     "source": "Client private message 9:39am",
+     "office": false,
+     "note": "At 9:39am Matt says he left a remote and extra snacks at the house for sitter Tiarra Roberts (he spells it Tiara) to use with Ripley if she wants. He does not say what the remote operates, so that is unclear from the message. Ripley is the dog with the ongoing collar and leash difficulty.",
+     "quote": "I left Tiara the remote for Ripley…and some more yummy snacks for her to use for Ripley…if she wants"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 12",
      "source": "Kristin Ashick report, Oct 12 2:45pm",
      "office": false,
@@ -2606,26 +2626,6 @@
      "office": false,
      "note": "What worked on the walk, from one visit only: when a woman was walking towards them the sitter crossed the street and cued Ripley with 'oust', and Ripley did not bark. Ripley was also asked to sit for each passing car and given a treat afterwards. Ripley went #1 twice and water was refreshed on return.",
      "quote": "I told Ripley 'oust', she did not bark, at all"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Matt Konn private message, Oct 7 3:46pm",
-     "office": false,
-     "note": "Matt's own read on the same visit: Ripley is unsettled because the sitter is still a little apprehensive with her, and he says it is just a matter of time. He spells the sitter's name Tiara; the sitter on this house is Tiarra Roberts.",
-     "quote": "Ripley is running around bc Tiara is a lil apprehensive - which its just taking time"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Tiarra Roberts visit report, Oct 7 2:46pm visit",
-     "office": false,
-     "note": "Two potty accidents found downstairs in the theater room on arrival. The sitter cleaned them up and attached before and after pictures. Check that room on arrival.",
-     "quote": "I found 2 potty accidents in the theater room."
     }
    ],
    "dormant": false
@@ -3447,6 +3447,16 @@
      "quote": "Backyard is NOT fenced — must use leash or long lead (available)"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Important Notes edit by Tiarra Roberts 10:03am",
+     "office": false,
+     "note": "Important Notes gained a new opening clause at 10:03am: the mailbox is on the street. The rest of the note is unchanged (remove shoes before entering, paw wash for Oakley after the walk) and the whole note is now in capitals. The note does not say what the sitter is meant to do about the mailbox.",
+     "quote": "MAILBOX ON STREET, REMOVE SHOES BEFORE ENTERING AND USE PAW WASH FOR OAKLEY, WHEN FINISHED WITH WALK."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -3515,6 +3525,16 @@
      "office": false,
      "note": "Oakley may hide upstairs on arrival; if he does not come down to greet you, check the bedroom.",
      "quote": "Oakley might be hiding upstairs, if he does not come down for you please look in bedroom"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Company Notes edits by Tiarra Roberts 10:03-10:04am",
+     "office": false,
+     "note": "Company Notes were saved three times in under a minute. The only change is the removal of the 'Dog Overview: Oakley' header line and some blank lines; every care instruction is unchanged - orange leash and harness in the laundry room, unfenced backyard so the green leash on the back door must be used, paw wash and towel in the laundry room, bowls in the dining room, poop bags in the small bin in the garage.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -3629,22 +3649,22 @@
     {
      "cat": "home",
      "sev": "low",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Thomas Rakovec visit report 10:01am",
+     "office": false,
+     "note": "The Oct 13 morning report again logs Ray at home for the visit with the door left unlocked at his request. Same form answer as Sep 15 and Oct 8. Whether this is a standing arrangement or just what happens when he is home is still not stated anywhere.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
      "type": "standing",
      "date": "Oct 8",
      "source": "Tiarra Roberts visit report, Oct 8 10:02am",
      "office": false,
      "note": "Access is through the apartment building entrance by buzzing Ray's unit; he was home for this visit, so the sitter did not go in or check the home. The unit number is in Time To Pet, not here.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 15",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "Ray was home again for the Sep 15 morning walk, had Archie ready and asked that the door not be locked. That is the fourth visit report logging the same thing (Aug 25, Aug 26, Sep 14, Sep 15), so treat it as the normal pattern at this house - but note it is still not written anywhere in Time To Pet. Archie went #1 and #2 and the stool was logged firm and healthy.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -6771,6 +6791,16 @@
      "source": "Pet Care Note and Company Notes, edited by Tiarra Roberts Sep 22",
      "office": true,
      "note": "All care for the cat Sloan was removed from both notes in the Sep 22 edit. That includes litter, feeding, the wet treat pouch and the as-needed 1 mL liquid constipation medication. The line 'Cat present (no care needed)' was removed too. The email does not say whether Sloan still lives there or still needs care. Office to confirm.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Company Notes edit by Tiarra Roberts 10:06am",
+     "office": false,
+     "note": "Company Notes edited at 10:06am. The only change is the removal of the 'Dog Overview: Odie, Zeno, Griswold' header line. The care content is unchanged and still carries all three rules in full: Odie's muzzle comes off at the start and back on before leaving, Zeno is food aggressive so he gets his treat first shut in his crate, and Griswold must go out on leash in front or back yard.",
      "quote": ""
     }
    ],
