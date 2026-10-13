@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T12:35:12-04:00",
+ "generated": "2026-10-13T15:05:07-04:00",
  "date": "2026-10-13",
  "label": "Oct 13, 2026",
  "clients": [
@@ -150,6 +150,18 @@
    ]
   },
   {
+   "name": "Karen Mitterholzer",
+   "visits": [
+    {
+     "time": "5:00 PM",
+     "sort": "1700",
+     "staff": "Tiarra Roberts",
+     "service": "Last Minute Visit- 45 minute",
+     "pets": "Paula Rose \"Rosie\", Frankie Thomas \"Frankie\""
+    }
+   ]
+  },
+  {
    "name": "Kristin Brewer",
    "visits": [
     {
@@ -284,5 +296,5 @@
    ]
   }
  ],
- "visitCount": 25
+ "visitCount": 26
 }
