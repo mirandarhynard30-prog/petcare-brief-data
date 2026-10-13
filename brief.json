@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T14:35:06-04:00",
+ "generated": "2026-10-13T15:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -936,6 +936,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 13",
+     "source": "Jade Popovitz afternoon report, 2:05pm visit",
+     "office": false,
+     "note": "Chloe's soft-stool watch from Oct 12 looks closed. On this afternoon visit she went both #1 and #2 and the consistency field reads firm and healthy, the first firm reading since Oct 12. Quote left empty on purpose: the form wording is identical across clients and the relay de-duplication key would collide.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 12",
      "source": "Harvett Ellington report, Oct 12 afternoon",
      "office": false,
@@ -1001,16 +1011,6 @@
      "office": false,
      "note": "One of the cats is shut in an upstairs room and the door is meant to stay closed. On the Sep 30 afternoon visit the cat was meowing and pawing at the door; the sitter opened it a crack, the cat came out for pets, then wanted back in, and the sitter shut the door again because that is how the client had left it. Leave that door as you find it.",
      "quote": "Wanted to make a note of this just so you know that one of the cats is upstairs!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Elizabeth Sigler visit report, 2:47 PM",
-     "office": false,
-     "note": "On the Sep 30 afternoon visit the home-security field was logged as the client being home during the visit and asking that the door not be locked on the way out. Quote deliberately left empty - that field text is a canned dropdown option that other clients logged the same day, and the de-duplication key would silently drop one of them.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -1607,6 +1607,16 @@
      "office": false,
      "note": "Christina's suggested handling when Bismark will not walk: if the sitter is comfortable doing so, take him off the leash and walk toward the gate door to see whether he follows. She adds that otherwise he may just be lazy. This is the first time a technique has been offered rather than just a warning that he refuses.",
      "quote": "You can try taking him off the leash if you feel comfortable"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Elizabeth Sigler morning report",
+     "office": false,
+     "note": "Bismark walked to the end of the street and back but was tired on return. The sitter adds that she has a feeling he does better in this weather, which is ambiguous - it may mean the heat suits him or that cooler weather would. One visit only; fits the existing short-walk pattern rather than changing it.",
+     "quote": "seemed a little tired by the time we got back"
     },
     {
      "cat": "behavior",
@@ -6772,6 +6782,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Josh Stone walk report, 1:21pm",
+     "office": false,
+     "note": "First report naming equipment that works on Sassie, who is flagged an escape risk. Josh Stone used the no-pull leash and she allowed the harness on herself. One visit only, so not yet a standing rule, but it answers the Oct 12 report where she had a harness on and no leash.",
+     "quote": "Sassie was great on her walk! The no pull leash works nicely."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -6880,16 +6900,6 @@
      "office": false,
      "note": "Company Notes now set out the visit pattern and access: dog visits 3x a day, client is home during visits, knock on the door and enter the home and leash the pet. Unit is on the second floor near the elevator. Park in any spot on the sides of the building. Dog waste stations are outside; Rock n Roxie spray is in the bottom cupboard under the kitchen sink.",
      "quote": "Dog visits 3x a day"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 8",
-     "source": "Client message, 11:23am",
-     "office": false,
-     "note": "Gina states the care she wants: walk/potty three times a day on the walking path, and medication if possible - she keeps it organised in a pill case and the dog takes it with cheese whiz. She does not say which medication or dose.",
-     "quote": "Medication if possible. I have it organized in pill case. She takes with cheese whiz."
     }
    ],
    "dormant": false
