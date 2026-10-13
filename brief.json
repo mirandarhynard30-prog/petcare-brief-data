@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T10:20:07-04:00",
+ "generated": "2026-10-13T11:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -205,6 +205,16 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Client message 10:21am",
+     "office": false,
+     "note": "Mary is unsure she removed Rusty's diaper before crating her this morning. Rusty has been in doggy diapers since coming into heat Oct 3. Check the crate on arrival.",
+     "quote": "I am hoping i remembered to take rustys diaper off before i put her in the cage!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "standing",
      "date": "Oct 8",
      "source": "Margaret Bill updated contact information, 11:24am",
@@ -311,16 +321,6 @@
      "office": false,
      "note": "Company Notes written for this client for the first time (the email shows the previous value as blank). Both dogs are flagged an ESCAPE RISK, and dog-friendly is Yes. Treat every door and gate at the new location as a flight risk.",
      "quote": "Escape risk: Yes"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 1",
-     "source": "Company Notes updated by Shannon Anderson, Oct 1 8:05 PM",
-     "office": true,
-     "note": "The visit location has changed and is no longer a house. Park in the parking lot; entry is through a front desk, there is no house alarm, and the client is NOT home during visits. The exact entry/key procedure is in the Time To Pet note and is deliberately not repeated here. Office: confirm the new address and visit location are correct in the system.",
-     "quote": "Best place to park: Parking Lot"
     }
    ],
    "dormant": false
@@ -921,6 +921,16 @@
      "office": false,
      "note": "Ellie Mae has died. Melody told the office on the afternoon of Aug 31. Only Chloe remains on visits from now on. Do not ask after Ellie Mae or expect her at the house; earlier standing notes about minimising her walking no longer apply.",
      "quote": "our sweet ellie passed away today."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Visit report 10:49am",
+     "office": false,
+     "note": "Day after Chloe's Oct 12 soft stool. Sitter reports lots of energy and good drinking; the report ticks #1 only and records no #2, so there is still no normal stool reading since Oct 12.",
+     "quote": "She had lots of energy the whole time!"
     },
     {
      "cat": "health",
@@ -2104,6 +2114,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Note rewrite 10:56am",
+     "office": false,
+     "note": "Important Notes now carry the arrival procedure, the hurry-him-along rule and Macy's dog reactivity. The same save deleted the reason for the long walks, so Murphy's weight-loss goal is now recorded nowhere.",
+     "quote": "Goal: weight loss -> important to get a nice long walk"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2176,6 +2196,16 @@
     {
      "cat": "behavior",
      "sev": "low",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Visit report 10:36am",
+     "office": false,
+     "note": "Oct 13 morning walk: Murphy sniffed through the first quarter and ignored other dogs. The sitter let him investigate rather than hurrying him. #1 only, no #2.",
+     "quote": "He was in sniffing mode on the first quarter of the walk"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
      "type": "standing",
      "date": "Oct 6",
      "source": "Client message 2:46pm",
@@ -2202,16 +2232,6 @@
      "office": false,
      "note": "Kristin Ashick's GPS misrouted her on the way to the Oct 2 9:30 AM visit and she gave a new ETA of 10:55 AM. She does not say where it sent her or whether the address held in the system is wrong, so this is unconfirmed either way.",
      "quote": "My GPS took me some place very weird."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Client message, Oct 2 10:20 AM",
-     "office": true,
-     "note": "Charlene agreed at 10:20 AM to something the office proposed, but the outbound message is not in this mailbox so what she accepted is not visible here. Same gap as the Sep 13 agreement already on file.",
-     "quote": "Works for me! Have a great weekend!"
     }
    ],
    "dormant": false
@@ -2518,6 +2538,16 @@
      "quote": "I’ll need more visits on 10/16 & 10/17."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Client private message 11:01am",
+     "office": true,
+     "note": "Follow-up to his 9:31am request: one of the extra visits should be later evening, and Ripley will be alone overnight. Still unanswered.",
+     "quote": "Later evening ...yes...Ripley will be by herself overnite. TY"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -2616,16 +2646,6 @@
      "office": false,
      "note": "First clear progress on the collar. The collar DID go on at this visit, with Matt helping and with slight difficulty, and the sitter put the collar on by itself first and only then attached the leash. Treats were ready inside before the collar went on. Matt was home for the visit.",
      "quote": "Matt helped me put the collar on, it was with slight difficulty, but easier than before"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts visit report, 1:41pm",
-     "office": false,
-     "note": "What worked on the walk, from one visit only: when a woman was walking towards them the sitter crossed the street and cued Ripley with 'oust', and Ripley did not bark. Ripley was also asked to sit for each passing car and given a treat afterwards. Ripley went #1 twice and water was refreshed on return.",
-     "quote": "I told Ripley 'oust', she did not bark, at all"
     }
    ],
    "dormant": false
@@ -2689,6 +2709,16 @@
      "office": false,
      "note": "Pet Care Note rewritten this morning. The litter rule is reversed: the whole drawer-and-bag changing procedure has been deleted and replaced with leave the robot alone. This answers the sitter question from earlier today about whether to change the Litter-Robot drawer bag every visit - the answer is now no unless told otherwise. White litter bags are in the clear tote next to the robot and black trash bags are under the kitchen sink; litter and wet food cans go in the trash compactor / garage bin near the main entrance.",
      "quote": "Automated litter box in living room near patio door (leave alone unless directed otherwise)"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Note rewrite 10:43am",
+     "office": false,
+     "note": "New supply location added this morning: the canned food and its plates are next to the couch. The earlier save dropped the line saying black trash bags are under the kitchen sink.",
+     "quote": "AM/PM Feeding - canned food/plates located next to couch"
     },
     {
      "cat": "home",
@@ -2779,16 +2809,6 @@
      "office": false,
      "note": "Feeding changed in the same rewrite. The fish and shrimp blue can still goes on ONE plate, but the second can (any other flavor, NOT fish and shrimp) is no longer divided across three plates on black trays - it now goes near the dry food dispensers. Same routine AM and PM. Both automatic dry feeders in the living room still get topped off.",
      "quote": "Place near dry food dispensers"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 19",
-     "source": "Tiarra Roberts updated contact information for Brandy Harkless",
-     "office": false,
-     "note": "Water changed in the same rewrite. The note previously said the water bowls were in the shower; it now says to refresh two red water bowls and does not say where they are. The hairball cleanup instruction (Dawn dish soap and hot water) was also deleted. The vacuum is still in the front entry closet for stray litter, and the basket in front of the bathroom sink still stays put or Jaxon slams the cabinets.",
-     "quote": "Refresh 2 red water bowls"
     }
    ],
    "dormant": false
@@ -5208,6 +5228,16 @@
      "cat": "health",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 13",
+     "source": "Client private message 11:13am",
+     "office": false,
+     "note": "Client sets the scope of each visit this stay: morning is everything as normal, evening is Miley's second Felimazole dose only, nothing else added.",
+     "quote": "then only doing Miley's second dose of medicine in the evening"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
      "date": "Oct 5",
      "source": "Brittany Lisbon private message to the office, Oct 5",
      "office": false,
@@ -5243,6 +5273,16 @@
      "office": false,
      "note": "Miley gets blood pressure medication - one quarter pill each visit, in a pill pocket. Brittany pre-cuts the pills into quarters. Supplies, medication and the water jug are on the kitchen counter, along with a binder of instructions.",
      "quote": "Miley is usually sleeping on the bed, in the bedroom"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Note rewrite 10:54am",
+     "office": false,
+     "note": "Notes consolidated into Important Notes. Two details lost: where the outdoor cats' plastic house sits, and topping off the water fountain each visit using the gauge on the side.",
+     "quote": "The pet house is located at the back of house, next to back door."
     },
     {
      "cat": "schedule",
