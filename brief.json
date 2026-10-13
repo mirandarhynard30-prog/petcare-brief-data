@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T13:35:05-04:00",
+ "generated": "2026-10-13T14:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1095,6 +1095,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Tiarra Roberts note rewrite 10:14am",
+     "office": true,
+     "note": "10:14am reorganisation moved the potty routine into Important Notes. Leash-inside, the critter check by the deck and the sticky gate latch survived. The lockout warning was deleted outright and nothing now carries it - the key comes from outside, so a sitter who pulls a door shut is locked out with the dog.",
+     "quote": "Make sure to NOT lock yourself out, garage doors stay locked."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1203,16 +1213,6 @@
      "office": false,
      "note": "The gate to the fenced potty area sticks and the latch must be pushed all the way down.",
      "quote": "The gate latch tends to stick and may need to be lifted to latch and unlatch."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 10",
-     "source": "Tiarra Roberts contact-info update, 7:09pm",
-     "office": false,
-     "note": "Same rewrite moved the supply location out of Company Notes into Important Notes and dropped the detail that the treats are in a ziplok bag. Important Notes was empty before this edit, so the whole block there is new.",
-     "quote": "Leash, poop bags and treats will be in garage, by side door."
     }
    ],
    "dormant": false
@@ -2581,6 +2581,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 13",
+     "source": "Tiarra Roberts visit report 12:56pm",
+     "office": false,
+     "note": "First clearly repeatable method for getting Ripley's collar on, after visits where sitters could not manage it at all. Matt left the training remote and treats out; Ripley ran when the sitter came in, one click brought her over, collar then leash went on. Training collar removed at the end.",
+     "quote": "one click on the remote, got her to come to me"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 7",
      "source": "Tiarra Roberts visit report, Oct 7 2:46pm visit",
      "office": true,
@@ -2648,24 +2658,14 @@
      "quote": "I left Tiara the remote for Ripley…and some more yummy snacks for her to use for Ripley…if she wants"
     },
     {
-     "cat": "behavior",
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 12",
-     "source": "Kristin Ashick report, Oct 12 2:45pm",
-     "office": false,
-     "note": "Ripley had a slow start leaving the house; the sitter puts it down to having no tiny treats on her. Patience worked and Ripley went when ready. Kristin also says Ripley is not keen on leaving the property or going far when Matt is home. Both are this sitter's read, not an owner instruction.",
-     "quote": "I think she was mad I didn't have any tiny treats for her."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Tiarra Roberts visit report 12:50pm",
-     "office": false,
-     "note": "Second visit in a row where Matt helped get Ripley's collar on and the leashed walk went ahead. What the sitter did this time: carried many treats, rewarded each sit, and asked Ripley to sit for every passing car with a treat afterwards. One visit's method, not yet a standing rule.",
-     "quote": "I had her sit with each passing car, with a treat afterwards."
+     "date": "Oct 13",
+     "source": "Tiarra Roberts visit report 12:56pm",
+     "office": true,
+     "note": "A tree crew was working next to the driveway during the 12:56pm visit and the sitter flagged possible marks left on it. Ripley passed the crew twice without barking but was distracted.",
+     "quote": "The tree guys may have left marks on the driveway"
     }
    ],
    "dormant": false
@@ -4534,6 +4534,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Dan Dantimo visit report 12:45pm",
+     "office": true,
+     "note": "OFFICE: the sitter asks at the end of his report which harness and leash the client wants used. Unanswered as of this run, and nothing in her record specifies one.",
+     "quote": "Can you let us know what harness/leash you prefer us to use"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Dan Dantimo visit report 12:45pm",
+     "office": false,
+     "note": "The sitter deliberately kept the midday walk short because the temperature was climbing, going down one street and turning back. Afterwards Jaxson had no interest in going out to the backyard and wanted indoor attention instead. Second sitter in as many days to flag the warmth on this client.",
+     "quote": "I wanted to be careful too because the temperature was getting warm"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4542,6 +4562,16 @@
      "office": false,
      "note": "Doorbell transmitter died Oct 11, so the doorbell may not work. For the Oct 12 visit Christi opened the garage and asked the sitter to come to the man door. She had replied \"Ok sounds good\" to the sitter's ETA just before. Whether the doorbell is fixed on later visits is not stated.",
      "quote": "Just come to the man door I opened the garage. For some reason our transmitter died on our doorbell yesterday"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Dan Dantimo visit report 12:45pm",
+     "office": false,
+     "note": "Jaxson went both #1 and #2 on the midday walk. The sitter described the #2 as a little loose but not concerning, and reported no accidents in the house. Quote omitted deliberately: the verbatim form answer collides with another client's item under the relay de-duplication key.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -4554,6 +4584,16 @@
     "Timber"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Tiarra Roberts note rewrites 10:30-10:34am",
+     "office": true,
+     "note": "Five edits in four minutes. Feeding amount is now ambiguous: separate AM (1 can total) and Afternoon/Evening (1 can total) lines were replaced by one combined AM/PM line that reads as one can for the whole day. Also deleted: the feeding times (morning ~7am, midday 1-6pm, none needed at an evening drop-in), that the backyard can be muddy, and taking the cans out Monday night. Both dogs have had poor appetite repeatedly this month, so the per-feeding amount needs confirming.",
+     "quote": "AM/PM Feeding: 1 canned wet food total - split between 2 white plates"
+    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -4663,16 +4703,6 @@
      "office": true,
      "note": "The same rewrite deleted the two drying lines from Potty & Outdoor Instructions - that the dogs should be dried before coming inside, and that the towels are by the back door. The muddy-backyard warning stays but the note no longer says what to do about it.",
      "quote": "Dry dogs before bringing inside"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Tiarra Roberts post-visit report, Oct 1 5:41 PM",
-     "office": false,
-     "note": "On the Oct 1 evening visit both dogs did not want to eat when first offered and the uneaten food was left upstairs. The same report records wet and dry food as fed, so whether they ate later in the visit is unclear.",
-     "quote": "The boys didn't seem to want to eat, yet."
     }
    ],
    "dormant": false
@@ -5668,6 +5698,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Tiarra Roberts note rewrite 10:23am",
+     "office": true,
+     "note": "10:23am rewrite kept the rule that Lanie must be on a lunge line outside but deleted where that line is. Louie's invisible-fence collar and close-the-gate survived. Same edit dropped that both dogs can be apprehensive and bark on first meeting, parking in the driveway, mail onto the table, and the Sit/Shake/Down list.",
+     "quote": "Lanie has a long line attached near the back fence"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -5776,16 +5816,6 @@
      "office": true,
      "note": "Same rewrites dropped the cold-water warning. The kitchen sink's hot and cold symbols are backwards, so bowls could be filled from the wrong tap.",
      "quote": "MAKE SURE IT'S COLD WATER, the red/blue symbol is backwards on kitchen sink"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Client messages 10:16am and 10:30am, Sep 23",
-     "office": true,
-     "note": "Beth chased an earlier unanswered request at 10:16am ('Wondering if you saw my request?'), then at 10:30am, after being told someone was traveling, asked whether the company will come to the home and stay overnight if they go away for a week or so. Still an open office question - this is the second unanswered Beth Nickel enquiry in the brief after the Sep 19 vacation-policy question.",
-     "quote": "do you come to the Home, spend the night?"
     }
    ],
    "dormant": false
@@ -6059,6 +6089,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Elizabeth Cuffari visit report 12:03pm",
+     "office": true,
+     "note": "The 12:03pm midday report makes no mention of Louise's eye drops, the fourth report in a row not to. The drops are a standing instruction for when her eye is goopy, so the report does not show whether they were given, not needed, or missed.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Tiarra Roberts note rewrite 11:01am",
+     "office": true,
+     "note": "11:01am reorganisation carried Dog friendly: No and Escape risk: Yes into Important Notes intact, and the eye-drop line survived. Two weakenings: the lawn-crew line was shortened to checking the back yard gate, losing check it is CLOSED before the dogs go out; and fenced was dropped from the backyard-only line. She is flagged an escape risk.",
+     "quote": "please check back yard first that gate is closed before taking outside"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "standing",
@@ -6157,26 +6207,6 @@
      "office": true,
      "note": "Follow-up to the client's eye-drop message: Elizabeth Sigler replied at 12:34pm that she did NOT give Louise the eye drops at the Sep 29 visit (Louise was resting when she left) and that she is not on Frank and Louise's schedule again this week. She said she would tell the other sitters so whoever sees Louise next can do it. So the drops are still outstanding and whoever covers the next visit needs to know. Which cabinet, and whether sitters are to apply them at all, is still unconfirmed - see the open office item on that.",
      "quote": "I unfortunately don't see Frank and Louise on my schedule again this week."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Shannon Anderson contact-information update, Sep 11 6:38pm",
-     "office": false,
-     "note": "Company Notes were filled in for the first time for this new client (previously blank). The behavior section flags the dogs as NOT dog friendly and as an escape risk, so do not let them meet other dogs and be careful at doors and the gate.",
-     "quote": "Escape risk: Yes"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Elizabeth Cuffari visit report, Oct 6 12:28pm",
-     "office": false,
-     "note": "On the Oct 6 midday visit Frank showed no issues: both dogs went #1, no #2 this visit, no accidents in the home. Sitter had read the previous day's report before the visit.",
-     "quote": "Frank seems great today, no issues."
     }
    ],
    "dormant": false
