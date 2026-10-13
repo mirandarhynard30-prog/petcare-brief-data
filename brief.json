@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T23:20:05-04:00",
+ "generated": "2026-10-13T07:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1487,26 +1487,6 @@
      "office": true,
      "note": "Client is retrying the Michigan day trip on Monday Sep 28 - away 7am to about 5:30pm - and wants 3 visits spaced no more than 4 hours apart. She asks whether she should submit the request herself or the office will enter it. That question was unanswered in the mailbox at the time of this run.",
      "quote": "We will be gone from 7 am to approx 5:30 pm. I would like 3 visits no more than 4 hours apart."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Client message",
-     "office": true,
-     "note": "Regina wrote at 2:08pm that today's 1:30 visit had been pushed back and she was worried India had been left crated about 5 hours and might have peed in her cage. She followed up with a private message asking why the time was moved with no message. Needs an office reply today.",
-     "quote": "Why was our appointment time pushed back with no message?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Client private message",
-     "office": true,
-     "note": "Private message at 2:14pm: her Michigan appointment was canceled and she would be home in 25 minutes. She explicitly asks us to CANCEL THE LAST of today's three visits, and asks to be told when sitters are running late. She repeats that India may have peed in her crate because 1:30 (5 hours) was already pushing it and the visit was then delayed. The delayed visit did go ahead (Kristin Ashick). Office: confirm the last visit is cancelled and reply to her about the delay.",
-     "quote": "Please cancel the last appointment. I would appreciate communication when they are running late."
     },
     {
      "cat": "behavior",
@@ -3677,6 +3657,26 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Dan Dantimo visit report, Oct 12 midday",
+     "office": true,
+     "note": "The Oct 12 report's home-securing field records that the client was home during the visit AND asked the sitter not to lock the door. First time this instruction appears in the notification mail. Said once, on one visit, so it is not recorded as a standing rule - the office should confirm whether it applies generally or only when Deb is home.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 12",
+     "source": "Dan Dantimo visit report, Oct 12 midday",
+     "office": false,
+     "note": "Third report in six days of Guinness balking at the start of the walk (Oct 7, Oct 9, Oct 12). On Oct 12 he was leashed and ready but would not set off until he saw another dog the sitter calls his twin, greeted him and played a little; after that the walk ran normally to the Commons and round via Pembrooke. The sitter adds that Guinness walks and listens better in this harness - the report does not say which harness or when it changed.",
+     "quote": "Not only does he walk well with this harness but listens better as well."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3765,16 +3765,6 @@
      "office": false,
      "note": "Sep 22 evening walk: Guinness went #1 a couple of times and #2 near the clubhouse, and Dan again answered the report's consistency field 'It was a little loose but not concerning'. Continues the run of loose-stool answers logged on his evening walks since early September. Client was home for the visit.",
      "quote": "Guinness did go number two as we hung out by the clubhouse area for a little while."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Client message",
-     "office": true,
-     "note": "Deb's Sep 21 evening visit did not happen - sitter Dan held off due to heavy rain and Deb was out at a meeting. Deb says it is fine; office should confirm the visit is marked skipped and not charged.",
-     "quote": "I was at my meeting but the weather was bad so no problem that Dan didn’t come!"
     },
     {
      "cat": "health",
@@ -6415,16 +6405,6 @@
     {
      "cat": "behavior",
      "sev": "high",
-     "type": "recent",
-     "date": "Sep 21",
-     "source": "Client message",
-     "office": false,
-     "note": "Morning of Shannon Anderson's Mon Sep 21 visit: Nicole put a muzzle on Vito before she left, to be extra safe, noting no one is usually home when sitters have come in the past. She says the sitter may remove it once the dogs are settled or before leaving. Shannon replied she will take it off Vito as soon as they calm down.",
-     "quote": "Out an abundance of caution, I put a muzzle on Vito before I left."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
      "type": "standing",
      "date": "Sep 20",
      "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
@@ -6602,7 +6582,7 @@
      "quote": "Are you able to check on remi this week at 11 am and 3 pm wed thurs ?"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Gina Sullivan",
