@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T17:20:06-04:00",
+ "generated": "2026-10-13T18:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -640,6 +640,16 @@
      "quote": "I heard the garbage truck coming and immediately Rex’s ears went back and he started pulling towards home"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Client private message 5:35pm",
+     "office": true,
+     "note": "Client cancels this Friday's visit (Oct 16) - Terry's schedule changed again and he will be working from home. Office needs to action the cancellation. The message is signed Toni, not Terry.",
+     "quote": "Terrys schedule has changed again this week so he will be working from home Friday so we need to cancel Fridays visit"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -738,16 +748,6 @@
      "office": false,
      "note": "Waste bags have run out at this house. The client says she needs to order more and has been using grocery plastic bags in the meantime, so sitters should bring their own bags to this address until she restocks.",
      "quote": "I need to order more anyway. I’ve been using the grocery plastic bags."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Client message, 1:40 PM",
-     "office": true,
-     "note": "The client volunteers that they should be home all weekend. She does not say whether that changes any booked visits, so the office should check whether weekend walks are still wanted or should be adjusted.",
-     "quote": "Anyway we should be home all weekend."
     }
    ],
    "dormant": false
@@ -4957,6 +4957,16 @@
      "office": true,
      "note": "Access instructions added by Alexandria the same afternoon: entry is the front door, with a lockbox. The code arrived in the clear in the notification mail and is deliberately not repeated here - it stays in Time To Pet. Her record went from empty to complete today, so the Sep 5 gap on Lily is closed; office should check whether a meet and greet and a booking are still outstanding.",
      "quote": "Entry: Front door."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Client message 5:59pm",
+     "office": true,
+     "note": "Client approves something the office proposed involving sitter Robin. AMBIGUOUS - the proposal itself was not sent through email, so what she is agreeing to is not visible here. Office should confirm what was approved.",
+     "quote": "Hello. Yes, that’s fine if it works for Robin"
     },
     {
      "cat": "behavior",
