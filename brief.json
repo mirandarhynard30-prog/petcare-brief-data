@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T11:20:07-04:00",
+ "generated": "2026-10-13T12:35:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -10,6 +10,16 @@
     "Caleb"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Care note update",
+     "office": false,
+     "note": "AM only, Livvie: 1 1/2 Prednisolone tablet, check pill cutter tray for a saved half pill. Gabapentin 0.4ml to the red line, bottle top shelf of fridge, shake well.",
+     "quote": "AM: Livvie only - 1 1/2 Prednisolone tablet (check pill cutter tray for saved half pill)"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -84,6 +94,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 13",
+     "source": "Care note update",
+     "office": true,
+     "note": "Rewrite may have cut the AM feeding: now 1 tsp wet food each AM and PM, where old notes said about 1 tbsp each in AM plus half a scoop dry. Purple pill cutter reference also gone. Confirm with client.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 12",
      "source": "Visit report, Tiarra Roberts shadowing Shannon Anderson, Oct 12 8:47am",
      "office": false,
@@ -109,26 +129,6 @@
      "office": true,
      "note": "AMBIGUOUS - open confirmation from the client. She says whatever was sent her looks good and that she will confirm as soon as she can, so a reply is still outstanding. The email does not say what she is approving, so the office has to match it against what was sent her on Oct 10.",
      "quote": "Looks good to me. I will let you know asap."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Kelly Huntington has sent you a new message. (6:26pm)",
-     "office": false,
-     "note": "Kelly closed her bedroom door for tonight's visit because the cats are still getting used to Tiarra; if they do OK the sitter may open it on the way out. Otherwise usual food, litter and cuddles. Kelly is at the theater during the visit and says reception there is bad, so she may not be able to reply.",
-     "quote": "I closed my bedroom door since they are still getting used to Tiarra."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Client private message 12:33pm",
-     "office": true,
-     "note": "Heads-up only: client may move the Nov 14 PM visit to Nov 9 AM if her Nov 14 plans cancel. She says she will send a change request once she knows; nothing to change yet.",
-     "quote": "I may be changing 11/14 PM to 11/9 AM. My plans on 11/14 may be cancelling."
     }
    ],
    "dormant": false
@@ -1740,6 +1740,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Care note update",
+     "office": false,
+     "note": "Two dogs, walked one at a time, leash handed off in the garage so the other cannot run out. Astra: black harness, teal leash. Nova: pink and purple harness, rainbow leash. Dogs not allowed upstairs, gate in place.",
+     "quote": "2 dogs in home, walked only one at a time"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1847,16 +1857,6 @@
      "office": false,
      "note": "On the Sep 25 morning walk Astra turned back toward someone near the stop sign, wrapped her leash around the post and was badly startled. Single incident, not a standing rule, but worth knowing given the existing escape-risk note that Astra bolts if she gets loose. She went #1 only, no #2.",
      "quote": "her leash got wrapped around the stop sign and it spooked her so bad"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Tiarra Roberts updated contact information",
-     "office": false,
-     "note": "Escape-risk handling reconfirmed Sep 17. Client will be home; two dogs walked one at a time toward the Spyglass Hill development. The Current Pet Care Note was cut back to the ETA line, so the hand-off rule now lives only in Company Notes.",
-     "quote": "Leash hand-off in garage to prevent the other pup from running out of the house"
     }
    ],
    "dormant": false
@@ -3697,6 +3697,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Sitter report 12:12pm",
+     "office": false,
+     "note": "Guinness was happy to see Dan but did not want to walk. Stalled over something in the grass, then only did the short block via Pembrooke instead of the Commons and wanted to come home. Fine once moving. One instance, not a pattern.",
+     "quote": "he just didn't seem to be in the mood to walk"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Sitter report 12:12pm",
+     "office": false,
+     "note": "Went #1 and #2 on the walk; stool logged as slightly loose but not concerning. Same visit as his reluctance to walk.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3794,26 +3814,6 @@
      "source": "Dan Dantimo visit report 7:54pm",
      "office": true,
      "note": "Guinness went both #1 and #2 on the Sep 24 evening walk and Dan Dantimo again answered the report's consistency field with the canned option 'It was a little loose but not concerning'. The brief already carries that same answer for Sep 4, 11, 14, 15, 16, 17, 18, 22 and 23, so this is the tenth such reading this month. No other symptom reported - he was energetic, took treats and played afterwards, and Deb was home during the visit. Nobody has yet asked Deb whether a vet has seen him. Quote field deliberately left empty: the verbatim canned answer collides with Anna Marie LeMaster's Sep 24 item under the relay's de-duplication key.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Dan Dantimo visit report, Sep 22 evening walk",
-     "office": false,
-     "note": "Sep 22 evening walk: Guinness went #1 a couple of times and #2 near the clubhouse, and Dan again answered the report's consistency field 'It was a little loose but not concerning'. Continues the run of loose-stool answers logged on his evening walks since early September. Client was home for the visit.",
-     "quote": "Guinness did go number two as we hung out by the clubhouse area for a little while."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Dan Dantimo visit report 12:47pm",
-     "office": false,
-     "note": "Guinness went both #1 and #2 and the report's consistency field was again answered on the a-little-loose-but-not-concerning setting. That is the ninth such reading for Guinness since Sep 18, against one firm reading on Oct 1. No other symptoms reported.",
      "quote": ""
     }
    ],
@@ -5095,6 +5095,16 @@
      "quote": "Each dog gets 1/2 cup of kibble both AM and PM"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Care note update",
+     "office": false,
+     "note": "Half a cup of kibble per dog, AM and PM. If morning food is untouched, top with cheese or meat to entice rather than replacing it. Send an ETA in case Karen's friend is there resting.",
+     "quote": "Each dog gets 1/2 cup kibble in AM and PM"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -5182,16 +5192,6 @@
      "source": "Pet Care Note updated by Monica Hopewell",
      "office": true,
      "note": "Standing context restated in the updated note: Karen is a flight attendant so her schedule varies, and she has a primary dog sitter who cannot walk the pups. The note says there may be times the primary sitter is unavailable and Petcare Deluxe would need to cover full visits, so feeding instructions should be reviewed with staff.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 9",
-     "source": "Client profile update via Time To Pet",
-     "office": false,
-     "note": "Vet for both Rosie and Frankie is Westpark Veterinary, 4117 Rocky River Dr, Cleveland OH 44135, 216-252-4500. Entered by the client on Sep 9; no medical history has been recorded yet.",
      "quote": ""
     }
    ],
@@ -5349,6 +5349,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 13",
+     "source": "Care note update",
+     "office": false,
+     "note": "Invisible fence, collars on both dogs. Both stay in the dog room left of the front door and go back in at the end; crate Maui and set the bench in front of the doors. Backyard only, no walks.",
+     "quote": "Invisible fence, both dogs need collars on"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 26",
      "source": "Tiarra Roberts record edit 17:35 ET",
      "office": true,
@@ -5389,6 +5399,16 @@
      "cat": "home",
      "sev": "low",
      "type": "standing",
+     "date": "Oct 13",
+     "source": "Care note update",
+     "office": false,
+     "note": "Feed only when clients are traveling: left container Stormi 1 1/2 scoops, right Maui 1 scoop. Kitchen fish fed at PM visits only.",
+     "quote": "Fish (kitchen) need to be fed at only PM visits"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
      "date": "Sep 22",
      "source": "Tiarra Roberts updated contact information for Kayle Cruz (Sep 22)",
      "office": true,
@@ -5405,6 +5425,16 @@
     "Archie"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Care note update",
+     "office": false,
+     "note": "Archie stays in the play pen when unattended. Leash and bags by the back door in the kitchen, walk around the house for potty, used bags in the bucket on the back porch. No feeding required.",
+     "quote": "Stays in play pen when unattended"
+    },
     {
      "cat": "health",
      "sev": "medium",
@@ -6875,6 +6905,16 @@
      "office": true,
      "note": "Julia corrected the visit dates in reply to the office: not tomorrow. She says the visits should be Saturday evening and Sunday morning. The schedule needs checking against what she actually wants before anything is confirmed back to her.",
      "quote": "You mentioned tomorrow but the visits should be Saturday evening and Sunday morning."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Care note update",
+     "office": false,
+     "note": "Upstairs doors stay shut apart from bathroom and bedroom, and the kitchen kitty door stays blocked off. Shoes off before entering. Sebastian hides upstairs under the bed and has his own bowl there.",
+     "quote": "Upstairs doors should stay shut, besides bathroom and bedroom doors"
     },
     {
      "cat": "behavior",
