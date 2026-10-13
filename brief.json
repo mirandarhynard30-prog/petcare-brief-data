@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T19:20:05-04:00",
+ "generated": "2026-10-12T20:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2724,6 +2724,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 12",
+     "source": "Tiarra Roberts visit report, Oct 12 7:52pm",
+     "office": false,
+     "note": "CatTV could not be played on the Oct 12 evening visit - the sitter reports the TV said it was not connected to the internet. A sitter trying to put CatTV on will likely hit the same thing until the TV is back online.",
+     "quote": "I tried to do CatTV but it said the TV was not connected to the internet."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 11",
      "source": "Client message 11:39pm",
      "office": false,
@@ -2799,16 +2809,6 @@
      "office": false,
      "note": "Water changed in the same rewrite. The note previously said the water bowls were in the shower; it now says to refresh two red water bowls and does not say where they are. The hairball cleanup instruction (Dawn dish soap and hot water) was also deleted. The vacuum is still in the front entry closet for stray litter, and the basket in front of the bathroom sink still stays put or Jaxon slams the cabinets.",
      "quote": "Refresh 2 red water bowls"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Tiarra Roberts message 11:41pm",
-     "office": false,
-     "note": "Tiarra Roberts replied to the owner that she can handle the Litter-Robot herself as she is familiar with it, so that task is claimed rather than open.",
-     "quote": "I can do the Litter Robot, since I'm familiar with it"
     }
    ],
    "dormant": false
