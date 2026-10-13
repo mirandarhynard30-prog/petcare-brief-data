@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T09:05:21-04:00",
+ "generated": "2026-10-13T10:20:17-04:00",
  "date": "2026-10-13",
  "label": "Oct 13, 2026",
  "clients": [
@@ -177,10 +177,10 @@
    "name": "Lynne  Reno",
    "visits": [
     {
-     "time": "1:45 PM",
-     "sort": "1345",
-     "staff": "Julie Smith",
-     "service": "Dog Visit-30 minute",
+     "time": "2:00 PM",
+     "sort": "1400",
+     "staff": "Shannon  Anderson",
+     "service": "Reassigned Visit-30 minute",
      "pets": "Holly"
     }
    ]
