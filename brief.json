@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T15:20:06-04:00",
+ "generated": "2026-10-13T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -339,6 +339,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 13",
+     "source": "Thomas Rakovec visit report, Oct 13 11:48am",
+     "office": true,
+     "note": "FIRST report of Stella being off. The sitter says she is not acting like herself and had no #2 on the Oct 13 visit; the report's consistency field for Stella reads 'No #2 today' while Berry's was firm and healthy. The health watch at this house has been about Louie until now, so this is a different dog. Worth asking the client whether Stella has been off at home too.",
+     "quote": "Stellas just not acting her usual self ..hope she's ok no #2 today"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 12",
      "source": "Thomas Rakovec visit report, Oct 12 1:26pm",
      "office": true,
@@ -444,16 +454,6 @@
      "office": true,
      "note": "Liz messaged at 4:54am Sep 24 to say she is home from work again today and would be submitting a cancellation request for the dogs' visit. Office needs to process the cancellation request in Time To Pet and confirm with her. This is a second consecutive day of cancellation.",
      "quote": "Good morning. I’m going to be home again today from work so I will submit a cancellation request for the pups."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Thomas Rakovec, reply to client 1:19pm",
-     "office": false,
-     "note": "Louie has an ongoing hurt leg/hip that Thomas says still hurts him a lot. He handles it by giving Louie breaks and avoiding picking him up; when he has to lift him he goes very slowly. Thomas offered this as his own explanation for Louie's grumpiness after the client asked about it - it is his account, not a vet assessment.",
-     "quote": "I try not to pick him up at all cause of it"
     }
    ],
    "dormant": false
@@ -633,6 +633,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 13",
+     "source": "Ashley Corall visit report, Oct 13 12:26pm",
+     "office": false,
+     "note": "NEW TRIGGER reported on Rex, the dog who slipped his harness and ran loose on Sep 25. A garbage truck came up the street on the Oct 13 walk and Rex put his ears back and pulled hard for home. The sitter took both dogs to the side of the house and she and CJ distracted him until it passed. She says she had no idea he disliked the sound and will watch for garbage trucks from now on. One observation only, so not yet a standing rule, but it is a sound trigger that is not anywhere in his record.",
+     "quote": "I heard the garbage truck coming and immediately Rex’s ears went back and he started pulling towards home"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
      "date": "Sep 25",
      "source": "Ashley Corall visit report",
      "office": false,
@@ -668,6 +678,26 @@
      "office": true,
      "note": "Both Rex and CJ passed foil in their stool on the Sep 22 walk. The report does not say where the foil came from or how much.",
      "quote": "They both had some sort of foil in their number 2 today."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Ashley Corall visit report, Oct 13 12:26pm",
+     "office": false,
+     "note": "Warm day and both dogs seemed hot, so the walk was cut back to the cul de sac. Rex drank on returning but CJ refused water twice - the sitter tried again before leaving and still could not get him to drink. The report's water-bowl-refill field is answered No. Worth watching at the next visit in the heat.",
+     "quote": "both seemed hot so we headed back and Rex drank and CJ wouldn’t"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Ashley Corall visit report, Oct 13 12:26pm",
+     "office": true,
+     "note": "Treats are running low at this house - the sitter flagged supplies as low on the Oct 13 report. Separate from the waste-bag shortage reported Sep 30. She also notes she will be back tomorrow with Wendy joining her again.",
+     "quote": "I noticed their treats were a little low"
     },
     {
      "cat": "home",
@@ -718,36 +748,6 @@
      "office": true,
      "note": "The client volunteers that they should be home all weekend. She does not say whether that changes any booked visits, so the office should check whether weekend walks are still wanted or should be adjusted.",
      "quote": "Anyway we should be home all weekend."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Client message (signed Toni), Sep 28 12:17 PM",
-     "office": false,
-     "note": "Client adjusted Rex's harness and it is now a bit tighter; she asks the sitter to check the fit is OK before leaving.",
-     "quote": "I adjusted Rex’s harness it’s a bit tighter so just check to see if it’s ok before you leave"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Ashley Corall visit report, Sep 28 1:45 PM",
-     "office": false,
-     "note": "On the Sep 28 afternoon walk the sitter did not bungee CJ and Rex together. She clipped one end of the bungee to Rex's collar and the other end to his harness so the dogs stay side by side but can be separated if there is trouble on the street. One sitter, one visit - not a standing rule.",
-     "quote": "I also didn’t bungee them together and I took the bungee instead"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Ashley Corall visit report",
-     "office": true,
-     "note": "Sitter asks the office two things after the harness slip: whether Rex has a recall command the household uses, and suggests his harness may need tightening. Both unanswered as of this run.",
-     "quote": "I also checked the harness and nothing was broken so maybe it may need to be tightened a little bit it more."
     }
    ],
    "dormant": false
@@ -6383,6 +6383,26 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Elizabeth Cuffari visit report, Oct 13 1:14pm",
+     "office": false,
+     "note": "Flacko had two #2s on the Oct 13 midday walk, both still loose but improving - the sitter explicitly contrasts them with the watery stool of the last few visits, and the report's consistency field reads 'a little loose but not concerning'. Follows the Oct 9 almost-watery reading. He otherwise seemed well, walked a mile, ate treats and drank.",
+     "quote": "which were still sort of loose but not watery like the last few times"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Elizabeth Cuffari visit report, Oct 13 1:14pm",
+     "office": false,
+     "note": "Second reported reaction to a pizza delivery car, after the Oct 3 walk. Flacko barked at a Domino's delivery car on the Oct 13 walk. Consistent with the car-toppers trigger already on his behavior profile - two separate sightings now, by two different sitters.",
+     "quote": "We did encounter a Domino’s delivery car, and he had to let it know who was boss."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -6461,26 +6481,6 @@
      "office": true,
      "note": "The Company Notes rewrite dropped three lines that were there before: toy location (living room), cleaning supplies location (kitchen) and the allergies line (previously N/a). The treat line now reads Homemade treats instead of naming Dad. Parking, leash and poop bag location, water bowl and the whole behavior block are unchanged. Office should decide whether the dropped lines are meant to be gone.",
      "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Client private message, Oct 1 11:18 AM ET",
-     "office": true,
-     "note": "Client asks to move a visit time back to what he believes was the 1-3 PM block. He does not name the date, so the office has to match it against his open orders.",
-     "quote": "I believe it was the one to three p.m. block."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Client private message, Oct 1 11:19 AM ET",
-     "office": true,
-     "note": "Follow-up message one minute later asking that the same visit be changed to the 60 minute length.",
-     "quote": "Also, yes, could you make it the 60 minute visit?"
     }
    ],
    "dormant": false
