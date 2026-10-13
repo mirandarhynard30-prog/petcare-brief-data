@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T12:35:07-04:00",
+ "generated": "2026-10-13T13:35:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -213,6 +213,16 @@
      "quote": "I am hoping i remembered to take rustys diaper off before i put her in the cage!"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Shannon Anderson visit report, 11:27am",
+     "office": true,
+     "note": "STILL OPEN. The client asked at 10:21am whether Rusty's diaper came off before crating. Shannon's 11:27am report describes crating and uncrating both dogs in detail and never mentions a diaper, so nobody has confirmed it either way. Rusty has been in diapers since coming into heat Oct 3.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -311,16 +321,6 @@
      "office": true,
      "note": "Client has the lease on the new place and is hoping to get keys Monday or Tuesday; she asks for another meet and greet Wednesday or Thursday afternoon. Someone replied between 5:33 and 5:39 PM - her follow-up is \"Thanks! Ill keep you updated if things change\" - but no date is confirmed anywhere in this mailbox, and her other Oct 2 message says keys \"next week\" rather than Monday or Tuesday, so the key handover date is not settled. Re-sent: this item was handed off at 6:18 PM and is not in the 6:20 PM published brief.",
      "quote": "So maybe another meet and greet wednesday or thursday afternoon?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 1",
-     "source": "Company Notes updated by Shannon Anderson, Oct 1 8:05 PM",
-     "office": false,
-     "note": "Company Notes written for this client for the first time (the email shows the previous value as blank). Both dogs are flagged an ESCAPE RISK, and dog-friendly is Yes. Treat every door and gate at the new location as a flight risk.",
-     "quote": "Escape risk: Yes"
     }
    ],
    "dormant": false
@@ -2244,6 +2244,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Company Notes rewritten by Tiarra Roberts, 11:06am",
+     "office": true,
+     "note": "The 11:06am Company Notes rewrite DELETED Mac's whole Commands section - the cues Bed, Out (drop toy), Come and Ok (release to go outside). Nothing now tells a sitter what words he responds to.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Important Notes rewritten by Tiarra Roberts, 11:06am",
+     "office": false,
+     "note": "Important Notes were empty before this morning and now carry the visit: backyard only no walks, AM/PM 2 scoops dry food, treats and food on the coffee bar by the kitchen, water bowls in dining room and on the deck, and check the front white wooden blinds are open.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2548,6 +2568,16 @@
      "quote": "Later evening ...yes...Ripley will be by herself overnite. TY"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 13",
+     "source": "Matt Konn private message, 12:19pm",
+     "office": false,
+     "note": "RESOLVED from the client side. His 9:31am request for extra visits Oct 16 and 17, and the 11:01am note that Ripley would be alone overnight, are answered - at 12:19pm he says he will ask his brother to swing by. Office may still owe a visit confirmation.",
+     "quote": "This is great! TY!! I will ask my brother to swing by"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -2636,16 +2666,6 @@
      "office": false,
      "note": "Second visit in a row where Matt helped get Ripley's collar on and the leashed walk went ahead. What the sitter did this time: carried many treats, rewarded each sit, and asked Ripley to sit for every passing car with a treat afterwards. One visit's method, not yet a standing rule.",
      "quote": "I had her sit with each passing car, with a treat afterwards."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts visit report, 1:41pm",
-     "office": false,
-     "note": "First clear progress on the collar. The collar DID go on at this visit, with Matt helping and with slight difficulty, and the sitter put the collar on by itself first and only then attached the leash. Treats were ready inside before the collar went on. Matt was home for the visit.",
-     "quote": "Matt helped me put the collar on, it was with slight difficulty, but easier than before"
     }
    ],
    "dormant": false
@@ -2657,6 +2677,16 @@
     "Azuri"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Notes rewritten by Tiarra Roberts, 11:17am",
+     "office": false,
+     "note": "Notes reorganized, nothing lost. Company Notes are now one line: Azuri wears a red leash wrapped around her body. Poop bags in the flower pot on the front porch moved to Important Notes; parking on the street in the cul-de-sac moved to Access Instructions.",
+     "quote": "WEARS RED LEASH, WRAPPED AROUND BODY"
+    },
     {
      "cat": "home",
      "sev": "low",
@@ -4373,6 +4403,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Company Notes rewritten by Tiarra Roberts, 11:15am",
+     "office": true,
+     "note": "The 11:15am Company Notes rewrite deleted the Dog Overview and Walk Instructions. Three rules are gone from the record: Blackie is very food motivated and can be stubborn, he takes NO harness and the leash clips to his collar, and this is walks only with no backyard time.",
+     "quote": "No harness - attach leash to collar"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -4381,6 +4421,16 @@
      "office": true,
      "note": "Her Access Instructions have now been edited four times today, and the garage entry value currently stored is the SAME value as the front door lockbox - it was a different value this morning. Two sitters failed to get in by the intended route at the midday visit, so this needs verifying against the real garage keypad before the next visit. The codes themselves are deliberately not recorded here.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Company Notes rewritten by Tiarra Roberts, 11:15am",
+     "office": false,
+     "note": "The kitchen patio sliding door rule changed wording. It read: if closed, close it again before leaving if you opened it. It now reads: if closed, keep closed. The line saying the dog may play in the patio area was dropped.",
+     "quote": "If closed, keep closed"
     },
     {
      "cat": "home",
@@ -4411,6 +4461,16 @@
      "office": true,
      "note": "The 2:11pm Company Notes rewrite DELETED the leash-type rule. The previous version carried a line under Leash & Supplies saying not to use a retractable leash if possible; the new version has no leash-type rule at all. Nothing in the email says the rule was dropped on purpose - the office should confirm whether it still applies and restore it if so.",
      "quote": "Do NOT use retractable leash if possible"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 13",
+     "source": "Important Notes rewritten by Tiarra Roberts, 11:16am",
+     "office": false,
+     "note": "Second edit a minute later moved the leash location into Important Notes - laundry room by the garage or the table by the front door. Feeding unchanged: none at midday, feed at morning or evening (5-6pm).",
+     "quote": ""
     },
     {
      "cat": "home",
@@ -6266,6 +6326,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 13",
+     "source": "Important Notes rewritten by Tiarra Roberts, 10:39am",
+     "office": false,
+     "note": "Behavior profile moved from Company Notes into Important Notes, intact: not dog friendly, escape risk, triggers are German Shepherds or Shepherd-looking dogs and car toppers. Same rewrite keeps park behind house, leash and bags by back door, slide collar over head, water bowl in living room fireplace.",
+     "quote": "Triggers: German Shepherds or Shepherd looking dogs and car toppers"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 15",
      "source": "Company Notes written by Shannon Anderson, Sep 15 6:22pm",
      "office": false,
@@ -6371,16 +6441,6 @@
      "office": true,
      "note": "Follow-up message one minute later asking that the same visit be changed to the 60 minute length.",
      "quote": "Also, yes, could you make it the 60 minute visit?"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 30",
-     "source": "Client message, 2:15 PM",
-     "office": false,
-     "note": "Explains a recurring oddity at this house: Flacko's treat ball rolls into the stereo and knocks the power button on, which leaves it blaring static. The client confirmed this is what happens and thanked the sitter for switching it off, so turning the stereo off when you find it on is correct.",
-     "quote": "when he rolls his treat ball around it hits the power button on the stereo"
     }
    ],
    "dormant": false
