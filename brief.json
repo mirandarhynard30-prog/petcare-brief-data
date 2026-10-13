@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T20:20:06-04:00",
+ "generated": "2026-10-12T23:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1318,21 +1318,21 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 11",
-     "source": "Tiarra Roberts visit report, Oct 11 8:22pm",
-     "office": false,
-     "note": "Oct 11 evening visit report records the sitter helping Mary Ann with BOTH Georgie's eyedrops and a second medication, and the form's medication-administered field is answered Yes. The brief has only ever carried the eyedrops. The report does not name the second medication, so what it is and whether it is a new addition is unconfirmed - check Time To Pet or ask Mary Ann before the next evening visit.",
-     "quote": "I helped Mary Ann with Georgie's eyedrops and a medication."
+     "date": "Oct 12",
+     "source": "Tiarra Roberts post-visit report, Oct 12 8:22pm",
+     "office": true,
+     "note": "Second evening in a row that the sitter helped Mary Ann give Georgie his eyedrops AND a second medication, with the report's medication-administered field answered Yes. The Oct 11 report said the same thing. Neither report names the second medication, so what it is is still unconfirmed - two consecutive nights makes it look like a running addition rather than a one-off, and the office should pin it down in Time To Pet before the next evening visit. Stool on this visit was recorded firm and healthy.",
+     "quote": "I helped Mary Ann with his eyedrops and medicine"
     },
     {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 9",
-     "source": "Tiarra Roberts evening visit report, 8:40pm",
+     "date": "Oct 11",
+     "source": "Tiarra Roberts visit report, Oct 11 8:22pm",
      "office": false,
-     "note": "Georgie did have a bowel movement on the Oct 9 evening walk and the report's consistency field was answered 'It was firm and healthy'. This follows the Oct 8 evening walk where he went #1 only and had no bowel movement, so that concern looks resolved. He went #1 about three times early and twice more on the way back.",
-     "quote": "He finally went #2."
+     "note": "Oct 11 evening visit report records the sitter helping Mary Ann with BOTH Georgie's eyedrops and a second medication, and the form's medication-administered field is answered Yes. The brief has only ever carried the eyedrops. The report does not name the second medication, so what it is and whether it is a new addition is unconfirmed - check Time To Pet or ask Mary Ann before the next evening visit.",
+     "quote": "I helped Mary Ann with Georgie's eyedrops and a medication."
     }
    ],
    "dormant": false
