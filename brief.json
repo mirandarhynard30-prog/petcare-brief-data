@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T18:20:05-04:00",
+ "generated": "2026-10-14T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -200,6 +200,26 @@
      "office": false,
      "note": "Client treats Nova letting a new sitter pet her as a major milestone, so expect Nova to be slow to warm to unfamiliar people and to need a slow introduction.",
      "quote": "Noves letting you pet her already is HUGE!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Client message 6:38 PM",
+     "office": false,
+     "note": "Answering the midday report, Terri says she is not surprised Nova would not pee in the light rain and is not concerned by it. Identifies rain specifically as a reason Nova balks at going out and staying out, which fits her repeated outdoor reluctance. Expect it and do not treat a missed potty in wet weather as a problem.",
+     "quote": "I’m not surprised Nova didn’t want to pee in the rain- she’s such a princess."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Client message 6:38 PM",
+     "office": false,
+     "note": "Terri says she will leave Benji's treat bag out for the next visit, so look for it on arrival. This came after Shannon offered to bring lickable treats for Benji next week; no appetite or feeding problem is mentioned by either of them.",
+     "quote": "Benji would absolutely love some treats! I can leave the treat bag out for next time."
     },
     {
      "cat": "behavior",
