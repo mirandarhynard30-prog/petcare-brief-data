@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T10:35:06-04:00",
+ "generated": "2026-10-14T11:35:09-04:00",
  "date": "2026-10-14",
  "label": "Oct 14, 2026",
  "clients": [
@@ -67,8 +67,8 @@
    "name": "Christi Russo",
    "visits": [
     {
-     "time": "11:00 AM",
-     "sort": "1100",
+     "time": "11:15 AM",
+     "sort": "1115",
      "staff": "Thomas Rakovec",
      "service": "Dog Visit-30 minute",
      "pets": "Jaxson"
@@ -127,6 +127,18 @@
      "staff": "Noella Assi",
      "service": "Shadow Visit with Staff Member-30 minute",
      "pets": "Astra, Nova"
+    }
+   ]
+  },
+  {
+   "name": "Karen Mitterholzer",
+   "visits": [
+    {
+     "time": "2:00 PM",
+     "sort": "1400",
+     "staff": "Tiarra Roberts",
+     "service": "Last Minute Visit- 30 minute",
+     "pets": "Paula Rose \"Rosie\", Frankie Thomas \"Frankie\""
     }
    ]
   },
@@ -239,15 +251,15 @@
    "name": "Paulo Garcia",
    "visits": [
     {
-     "time": "10:45 AM",
-     "sort": "1045",
+     "time": "11:00 AM",
+     "sort": "1100",
      "staff": "Alex Miller",
      "service": "Trainer Visit-45 minute",
      "pets": "Archer, Milo"
     },
     {
-     "time": "10:45 AM",
-     "sort": "1045",
+     "time": "11:00 AM",
+     "sort": "1100",
      "staff": "Elizabeth Sigler",
      "service": "Shadow Visit with Staff Member-45 minute",
      "pets": "Archer, Milo"
@@ -317,5 +329,5 @@
    ]
   }
  ],
- "visitCount": 29
+ "visitCount": 30
 }
