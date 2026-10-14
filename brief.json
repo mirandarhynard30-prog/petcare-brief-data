@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T14:20:05-04:00",
+ "generated": "2026-10-14T15:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -203,6 +203,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Shannon Anderson message + record edit",
+     "office": true,
+     "note": "Shannon Anderson messaged the client before the Oct 14 visit to check the feeding amounts, saying the record showed Puck at 1 cup while she had 3/4 cup, then edited the Important Notes from 'Puck 1 cup Best Breed' to 'Puck 3/4 cup Best Breed' and messaged 'I fixed Puck's feeding amount'. No reply from the client appears in the notification mail, so who authorised the change and which amount is correct cannot be confirmed from the record. Same shape as the Lauren White / Oakley scoop-vs-cup conflict.",
+     "quote": "Ok. Just double checking since the notes say Puck gets 1cup"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Important Notes update",
+     "office": false,
+     "note": "Standing notes as of the Oct 14 update: both dogs are an escape risk, Puck's trigger is loud noises and she will run for the building, and the dogs are kept in the back left bedroom.",
+     "quote": "Puck trigger: loud noises, will run for building"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -301,26 +321,6 @@
      "office": true,
      "note": "At 1:22 PM the client set the meet and greet time at 5:30. The date is still not settled in the mail - she had said Oct 7 or Oct 8 should work but has not named one, and the Oct 7 midday visit is already cancelled until the meet and greet has happened. The office needs to pick the date, confirm 5:30 back to her and put it in Time To Pet. She also sent the street address of the new apartment in this message; it is in Time To Pet and is deliberately not repeated here.",
      "quote": "Lets do 5:30 to be safe!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Mary Gilmore message, Oct 3 8:03 AM",
-     "office": false,
-     "note": "Rusty came into heat overnight with a small amount of blood. The client went to Walmart last night for doggy diapers, found none, and says she will get some today. No vet contact mentioned and no instruction about walks.",
-     "quote": "Rusty started her heat cycle last night, just a little bit of blood."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Client private message, Oct 2 5:33 PM and 5:39 PM",
-     "office": true,
-     "note": "Client has the lease on the new place and is hoping to get keys Monday or Tuesday; she asks for another meet and greet Wednesday or Thursday afternoon. Someone replied between 5:33 and 5:39 PM - her follow-up is \"Thanks! Ill keep you updated if things change\" - but no date is confirmed anywhere in this mailbox, and her other Oct 2 message says keys \"next week\" rather than Monday or Tuesday, so the key handover date is not settled. Re-sent: this item was handed off at 6:18 PM and is not in the 6:20 PM published brief.",
-     "quote": "So maybe another meet and greet wednesday or thursday afternoon?"
     }
    ],
    "dormant": false
@@ -883,6 +883,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Jade Popovitz visit report",
+     "office": false,
+     "note": "On the Oct 14 walk Chloe repeatedly tried to go into the road. One sitter's single observation, so it is not recorded as a standing rule, but it is a road-safety matter for the next walk.",
+     "quote": "During the walk she did lots of sniffing and kept trying to go into the road"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -991,16 +1001,6 @@
      "office": false,
      "note": "Chloe's stool on the Sep 30 morning walk was ticked firm and healthy, the first normal reading after loose or runny on Sep 24, Sep 26 and Sep 29. She went both #1 and #2 and was cheerful throughout. The sitter notes they turned around at about the distance she used to manage, so the route is still shortened.",
      "quote": "On the walk, Chloe went number 1 and 2 and was cheerful and happy the whole time."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 30",
-     "source": "Elizabeth Sigler visit report, 2:47 PM",
-     "office": false,
-     "note": "One of the cats is shut in an upstairs room and the door is meant to stay closed. On the Sep 30 afternoon visit the cat was meowing and pawing at the door; the sitter opened it a crack, the cat came out for pets, then wanted back in, and the sitter shut the door again because that is how the client had left it. Leave that door as you find it.",
-     "quote": "Wanted to make a note of this just so you know that one of the cats is upstairs!"
     }
    ],
    "dormant": false
@@ -5326,6 +5326,16 @@
      "quote": "Each dog gets 1/2 cup of kibble both AM and PM"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "Tiarra Roberts found on the Oct 14 walk that Rosie and Frankie are interested in squirrels and kept a firm hold of both leashes. First time this is recorded, so treat it as an observation rather than a standing rule.",
+     "quote": "I learned they like squirrels, but I had a firm hold of the leashes"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -5368,6 +5378,16 @@
     {
      "cat": "home",
      "sev": "low",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "Packages arrived as Tiarra was leaving the Oct 14 visit and she left them inside the laundry room.",
+     "quote": "I placed them on the dryer, inside the laundry room"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
      "type": "standing",
      "date": "Oct 8",
      "source": "Visit report",
@@ -5403,26 +5423,6 @@
      "source": "Pet Care Note updated by Monica Hopewell",
      "office": false,
      "note": "Supply locations added: treats in the basket in the pantry, poop bags on the top shelf of the front closet with the leashes hanging on the wall in there, toys throughout the house. Friday is trash day; there is a trash can on the back patio for doggy bags and disposal cans around the neighborhood.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Pet Care Note updated by Monica Hopewell",
-     "office": false,
-     "note": "If taking the dogs to the community dog park, grab Rosie's ball from the garage first.",
-     "quote": "If taking to the dog park located in the community grab the ball from the garage for Rosie"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Pet Care Note updated by Monica Hopewell",
-     "office": true,
-     "note": "Standing context restated in the updated note: Karen is a flight attendant so her schedule varies, and she has a primary dog sitter who cannot walk the pups. The note says there may be times the primary sitter is unavailable and Petcare Deluxe would need to cover full visits, so feeding instructions should be reviewed with staff.",
      "quote": ""
     }
    ],
