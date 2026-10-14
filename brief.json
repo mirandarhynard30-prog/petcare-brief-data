@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T17:20:11-04:00",
+ "generated": "2026-10-14T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3537,6 +3537,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Client message 6:07pm",
+     "office": true,
+     "note": "Client says no sitter is needed for Oakley next week. She did not give the specific dates - office needs to confirm which visits that covers and cancel them in Time To Pet.",
+     "quote": "We won’t need anybody for Oakley next week :)"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -3645,16 +3655,6 @@
      "office": false,
      "note": "Take shoes off on entering. Paw care is the paw wash in the laundry room plus the towel on the back of the laundry room door; the line about extra towels by the back door was removed.",
      "quote": "Please take shoes off when entering house."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 9",
-     "source": "Client message",
-     "office": false,
-     "note": "Client says Oakley gets seasonal allergies at this time of year and that they are managing them well so far this season.",
-     "quote": "He does get allergies around this time"
     }
    ],
    "dormant": false
@@ -4620,7 +4620,8 @@
    "name": "Christi Russo",
    "url": "https://www.timetopet.com/dashboard/client/t0sv8x53ImZV",
    "pets": [
-    "Jaxson"
+    "Jaxson",
+    "Jackson"
    ],
    "items": [
     {
@@ -4632,6 +4633,16 @@
      "office": true,
      "note": "Alarm was about to go off when the sitter let himself in through the garage Oct 14; he disarmed it. Nothing in her record warns the alarm may be armed or says what to do. Confirm with the client and get the procedure written down.",
      "quote": "I entered through the garage but for some reason the alarm was about to go off"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Client message 6:02pm",
+     "office": false,
+     "note": "Client confirms the alarm may be armed on arrival and expects the sitter to disarm it on entry. The code is in Time To Pet and is deliberately not recorded here. Message was addressed to one sitter by name, so a sitter who has not been given the code needs to get it from the office before the visit.",
+     "quote": "Yes if the alarm is on just disarm it"
     },
     {
      "cat": "behavior",
