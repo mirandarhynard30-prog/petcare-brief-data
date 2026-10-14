@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T10:20:05-04:00",
+ "generated": "2026-10-14T11:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1215,6 +1215,36 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 11:08am",
+     "office": true,
+     "note": "The Wednesday and Thursday bin routine was deleted. The old Company Notes said to take the trash and recycling bins to the curb on Wednesday and bring them back up on Thursday, putting them near the stairs inside the garage. The new notes give a day and nothing else. Today is Wednesday and the client thanked the sitter for the bins at 10:26am, so the task is live and now unwritten.",
+     "quote": "Trash day: Thursday"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 11:08am",
+     "office": true,
+     "note": "Mail handling was dropped in the same rewrite. The instruction to check the mailbox and bring the mail in every day is gone, replaced by a location only. The Oct 13 evening report describes the sitter getting the mail and handing it to Mary Ann, so this is an active daily task that is no longer written down.",
+     "quote": "Mailbox on street"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 11:08am and 11:10am",
+     "office": true,
+     "note": "The instruction to close the garage door before entering the house, and again while out on the walk, was removed from Company Notes and then from the Access Instructions in a second edit two minutes later. Nothing in the record now tells a sitter to shut the garage door behind them, at a house where the notes already lost Georgie's escape warning back on Sep 20.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -1303,36 +1333,6 @@
      "office": false,
      "note": "Company Notes rewritten Sep 17 by Tiarra Roberts. Arrival routine, unchanged from the previous version: enter through the garage, ring the white doorbell button to the left of the door into the house before entering, close the garage door before entering and keep it closed during the walk. Mary will most likely be home and uses a walker. At the end of the visit turn off the laundry room light and close the garage door keypad flap. No codes are recorded here - they stay in Time To Pet.",
      "quote": "Ring white doorbell button before entering (white button to left of door into house)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Client msg to Ashley, Oct 12 3:52pm",
-     "office": false,
-     "note": "Electrician at the house installing all new smoke alarms. She also says today is a holiday so there is no mail - skip the mail check for Oct 12.",
-     "quote": "I have an electrician here now, putting in all new smoke alarms."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Tiarra Roberts post-visit report, Oct 12 8:22pm",
-     "office": true,
-     "note": "Second evening in a row that the sitter helped Mary Ann give Georgie his eyedrops AND a second medication, with the report's medication-administered field answered Yes. The Oct 11 report said the same thing. Neither report names the second medication, so what it is is still unconfirmed - two consecutive nights makes it look like a running addition rather than a one-off, and the office should pin it down in Time To Pet before the next evening visit. Stool on this visit was recorded firm and healthy.",
-     "quote": "I helped Mary Ann with his eyedrops and medicine"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Tiarra Roberts visit report, Oct 11 8:22pm",
-     "office": false,
-     "note": "Oct 11 evening visit report records the sitter helping Mary Ann with BOTH Georgie's eyedrops and a second medication, and the form's medication-administered field is answered Yes. The brief has only ever carried the eyedrops. The report does not name the second medication, so what it is and whether it is a new addition is unconfirmed - check Time To Pet or ask Mary Ann before the next evening visit.",
-     "quote": "I helped Mary Ann with Georgie's eyedrops and a medication."
     }
    ],
    "dormant": false
@@ -3257,6 +3257,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:50am",
+     "office": true,
+     "note": "The 10:50am rewrite overwrote Important Notes, and the only thing that field held was Holly's handling rule. The warning that she is hesitant with men and should be ignored until she settles is now nowhere in her record - Company Notes was emptied in the same edit. Re-add it.",
+     "quote": "Hesitant with males-will take a little bit to warm up to initially, please ignore her until she feels more comfortable"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -3307,6 +3317,16 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:50am",
+     "office": false,
+     "note": "Same edit emptied Company Notes and the Dog Overview line saying Holly prefers walks over the fenced backyard went with it. The logistics survived into Important Notes: client home, leash handed off at the front door, a cat to watch on entry and exit, purple slip lead and poop bags on the front-door coat rack, water bowl by the front door, used bags left by the front door.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3355,26 +3375,6 @@
      "office": true,
      "note": "Waste bags by the front door have run out. Julie asked the client whether we should bring some on the next visit (tomorrow 1pm) and no answer has gone back yet.",
      "quote": "There aren’t any more garbage bags near the front door."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Shannon Anderson message to Lynne Reno, Oct 6 10:40am",
-     "office": true,
-     "note": "A sitter replied one minute after Lynne's revised request, but the reply names no time, so which walk is being confirmed is not clear from the message.",
-     "quote": "No worries Lynne. I'll be there"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message 11:32am",
-     "office": false,
-     "note": "For today's visit she is leaving the dog's food out on the kitchen counter and asks the sitter to simply put it down.",
-     "quote": "I’ll leave food in kitchen. Just put it down for her. Thanks."
     }
    ],
    "dormant": false
@@ -3395,6 +3395,26 @@
      "office": false,
      "note": "Standing rule in the company notes, in capitals. Oliver hides under the couch or behind the bed.",
      "quote": "DO NOT PET Oliver"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:58am",
+     "office": false,
+     "note": "The whole cat overview moved out of Company Notes into Important Notes, which had held only two lines. Detail the brief was not carrying: park in the driveway and you can turn around behind the house; the dry food bowl is in the bedroom in front of the full-length mirror; scooped litter goes in the white lidded trash can beside the toilet, and plastic bags are under the kitchen sink or in the kitchen drawers.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:58am",
+     "office": true,
+     "note": "Mail handling was lost in the same rewrite. The old Company Notes said to check the mailbox and put the mail on the kitchen island. The new notes give only a location and say nothing about bringing the mail in or where to put it.",
+     "quote": "Mailbox at street"
     },
     {
      "cat": "home",
@@ -6243,6 +6263,36 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:44am",
+     "office": false,
+     "note": "The 10:44am rewrite puts back most of what the Oct 7 edit dropped, now in Important Notes: Oakley's bowls are inside his crate, Bailey gets 1 scoop twice daily from the clear bin under the kitchen coffee bar, Oakley 1 scoop three times daily from the clear bin on the fireplace, Bailey in the blue harness and Oakley the green clipped onto one leash, and watch Oakley outside so he does not eat mulch.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:44am",
+     "office": true,
+     "note": "Feeding times were lost in the same rewrite. Company Notes was cut to three lines and no longer gives Bailey's 4-5am and 4-5pm windows or Oakley's 5-7am, 11am-1pm and 4-6pm windows; the only timing left is that midday visits include feeding Oakley. Also gone: that Bailey sometimes eats little while the owners are away and may be offered more, and where her water bowl is.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:44am",
+     "office": true,
+     "note": "AMBIGUOUS portion for Oakley. The new Important Notes say one scoop per meal; the Company Notes deleted in the same edit said to use the black scoop in the tote and feed 1 cup per meal. Whether a scoop and a cup are the same measure is no longer stated anywhere. Needs confirming with the client rather than guessing.",
+     "quote": "Give 1 scoop of food"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 7",
      "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:50pm",
      "office": true,
@@ -6298,36 +6348,6 @@
      "office": false,
      "note": "Client says Oakley does not have to be on the lead in the yard, though sitters may use it if they prefer. She says she fixed the lead so it is no longer rusted, and that he cannot get out of the fence because it is netted at the high spots.",
      "quote": "Oakley does NOT need to be on the lead unless you guys want."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message",
-     "office": false,
-     "note": "Asked by the sitter on Oct 6 whether Oakley still gets a midday feed, the client confirmed both dogs need feeding at the second visit of the day.",
-     "quote": "Yes bailey and Oakley will need fed at the second visit!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message 5:34pm",
-     "office": false,
-     "note": "For this evening's visit the client said Oakley can be left out of his crate when the sitter leaves, because she expected to be home shortly afterwards. This is for the Oct 6 evening visit only - it is not a standing change to crating.",
-     "quote": "You guys can probably just leave Oakley out of his crate when you leave cause I’ll be home probs shortly after you leave!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Yasmeen Abrams visit report",
-     "office": false,
-     "note": "No waste bags found in the house. Bailey's #2 was left by the neighbours' fence area and the client replied to leave it, she would pick it up. Sitters should bring their own bags until restocked.",
-     "quote": "could not find bags anywhere I think u may be out and need more"
     }
    ],
    "dormant": false
@@ -7614,6 +7634,26 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, five edits 10:32-10:35am",
+     "office": true,
+     "note": "Five edits in four minutes progressively shortened the garage-entry rule. It began the morning as enter through the garage closing the garage door before opening the second door; it now reads only that you enter through the garage. For a cat the same notes call an escape risk, the sequencing is what made the rule work. Re-add it.",
+     "quote": "Enter through garage"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:32am",
+     "office": true,
+     "note": "The detailed garage procedure was deleted from Company Notes in the same rewrite and was not carried anywhere else: open the interior door very slowly, block the opening with your body so Pippa cannot slip past, keep the main garage door fully closed if she does get into the garage, and do not open it while she is loose. All that survives is a general caution about entering and exiting and the ten-minute wait.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "recent",
      "date": "Oct 8",
      "source": "Visit report, Michelle Carrara, Oct 8 8:11am",
@@ -7630,6 +7670,16 @@
      "office": false,
      "note": "ANSWER to the open pantry-door question: the client says the pantry door stays CLOSED, because the dry food sits on the floor and Polly would dive into it. The pantry has a glass door on purpose - the cats like to follow them in, and at their prior house the cats were frequently shut in the pantry unnoticed. So close it, but check the low shelves for a cat before you do.",
      "quote": "so yes, door closed but keep an eye out for them. They love to dart and hunker on the low shelves."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:35am",
+     "office": false,
+     "note": "The open pantry-door question now has a written answer. The last of the five edits added the rule to the Important Notes feeding line, so it is in the record rather than only in the brief.",
+     "quote": "CLOSE PANTRY DOOR"
     },
     {
      "cat": "behavior",
@@ -7700,36 +7750,6 @@
      "office": false,
      "note": "Lauren confirms Pippa does chew cords sometimes; she says telling her no stops her and thinks it is attention-seeking. Answers the sitter's cord-biting question - no other action requested.",
      "quote": "Pippa does sometimes bite cords. She’s a bit mischievous. I tell her no and she stops."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts visit report",
-     "office": true,
-     "note": "OFFICE: open question from the Oct 8 evening visit. Tiarra closed the pantry door but says it was open at the first visit, and asks which is correct. Nobody has answered her in this mailbox. Worth getting the client's answer and writing it into the notes so sitters stop guessing.",
-     "quote": "does the pantry door stay open or closed? I closed it, but I know it was open at our first visit"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts visit report",
-     "office": false,
-     "note": "Appetite follow-on: at the Oct 8 evening visit there was still wet food left in the bowls from the morning visit. The sitter cleaned the bowls and opened a fresh seafood Delectables box for variety. Polly ate eagerly; Pippa ate once a bowl was carried to her. Second day running that wet food has gone part-uneaten here, so worth a look at the next visit rather than any action now.",
-     "quote": "they did have some wet food left from the morning visit"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts visit report",
-     "office": false,
-     "note": "One observation, not yet a rule: Pippa stopped eating as soon as Polly came over to her at the Oct 8 evening visit. The sitter carried a bowl of Delectables to Pippa and distracted Polly on the couch with pets, and Pippa then ate. Feeding them apart may be worth trying again. Note the report spells Pippa as 'Peppa'.",
-     "quote": "Polly walked up to her and Peppa stopped eating."
     }
    ],
    "dormant": false
