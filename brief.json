@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T08:20:06-04:00",
+ "generated": "2026-10-14T09:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2356,6 +2356,16 @@
     "Daffodil"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Kristin Brewer client message, 8:27am",
+     "office": true,
+     "note": "Client wrote this morning that Paul will be at home today. She did not cancel or change the visit - office should confirm whether today's visit still stands and let the assigned sitter know someone may be in the house.",
+     "quote": "Morning! Just wanted you to know that Paul will be at home today."
+    },
     {
      "cat": "home",
      "sev": "medium",
