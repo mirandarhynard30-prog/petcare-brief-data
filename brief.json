@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T18:20:09-04:00",
+ "generated": "2026-10-14T08:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -336,6 +336,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Client message 7:17am ET",
+     "office": true,
+     "note": "Client messaged the office this morning on short notice to say she will be home today and will keep us posted. She named no visit time in the message - office should confirm which of today's visits is affected and tell the assigned sitter before they travel.",
+     "quote": "I apologize for the short notice. I will be home today"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -444,16 +454,6 @@
      "office": true,
      "note": "Liz messaged at 8:22am to say she is home from work again today and would submit a cancellation request. A separate portal Service Change notice at 8:32am shows a cancellation for Friday Sep 25 11:00-11:45am Dog Visit. Third such same-day cancellation this month; office needs to process it and confirm the visit is off.",
      "quote": "Good morning, sorry for the late notice. I will be home again today."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Client message, 4:54am Sep 24",
-     "office": true,
-     "note": "Liz messaged at 4:54am Sep 24 to say she is home from work again today and would be submitting a cancellation request for the dogs' visit. Office needs to process the cancellation request in Time To Pet and confirm with her. This is a second consecutive day of cancellation.",
-     "quote": "Good morning. I’m going to be home again today from work so I will submit a cancellation request for the pups."
     }
    ],
    "dormant": false
@@ -678,16 +678,6 @@
      "office": true,
      "note": "Client identified the source of the foil seen in both dogs' stool Sep 22 and Sep 23: Rex tore through a foil-lined blanket in his crate overnight, and the client believes CJ got into Rex's crate and swallowed some too. No vet contact mentioned by the client.",
      "quote": "Rex had torn through one of his blankets and it was foil lined."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Monica Hopewell visit report",
-     "office": true,
-     "note": "Both Rex and CJ passed foil in their stool on the Sep 22 walk. The report does not say where the foil came from or how much.",
-     "quote": "They both had some sort of foil in their number 2 today."
     },
     {
      "cat": "health",
@@ -1589,16 +1579,6 @@
      "quote": "I’m sorry he never walks for anyone anymore, idk what it is, other than he’s old and stubborn"
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Alex Miller visit report",
-     "office": false,
-     "note": "Sep 22 visit (Alex Miller): Bismark greeted him at the stairs but lay down in the yard for about 5 minutes, then lay down again just outside the gate. He was shaking a bit, so Alex did not push the walk. No potty on this visit. The report's checkbox says the walk went as planned, which does not match the written text. Continues the pattern of refusing walks seen Sep 7-18.",
-     "quote": "he was shaking a bit so I didn’t want to push him to hard to walk"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -2395,16 +2375,6 @@
      "office": false,
      "note": "The client says the Sep 29 indoor accident was out of character because Daffodil had already pooped when she took her out before work. No other symptom is mentioned. Logged so a second accident would be recognised as a pattern rather than a one-off.",
      "quote": "that’s really unexpected, especially since she pooped when I took her before work, too."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Shannon Anderson meet and greet report",
-     "office": false,
-     "note": "First meeting with Shannon and Kathy: Oliver was friendly right away, Daffodil was unsure of the new sitter. The two dogs were walked one at a time, with Daffodil left in her crate while Oliver was out.",
-     "quote": "Oliver took to me right away while Daff is unsure."
     },
     {
      "cat": "home",
@@ -5453,16 +5423,6 @@
      "office": true,
      "note": "Additional Cats section lost both that there is an outdoor cat we feed and that she is the kittens' mother. What is left says how to feed an outdoor cat without saying one is there.",
      "quote": "Outdoor cat present and we will feed"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Company Notes, edited by Tiarra Roberts Sep 22",
-     "office": false,
-     "note": "The second Sep 22 edit removed the 'standard litter box - Scoop' line, so only the automatic box (empty the drawer if needed) is listed. The note still says 2 litter boxes total in the office, so it is unclear if the standard box is gone. Check both.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -5604,16 +5564,6 @@
      "office": false,
      "note": "The same rewrite removed the lunge line from the Dog Overview. The email does not say whether it is gone from the house or only from the notes.",
      "quote": "Lunge line in backyard"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Company Notes rewrite by Tiarra Roberts, Sep 22",
-     "office": false,
-     "note": "The Sep 22 rewrite removed the 'No harness, use collar only' line for Archie. The email does not say whether the rule changed or was just trimmed. Archie still stays in his play pen when unattended.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -5938,16 +5888,6 @@
      "office": false,
      "note": "The notes say Blue's escape risk is not known at the new address, so treat him as an unknown at doors. He may also have urine accidents indoors; Equalizer cleaner is in the laundry room above the washer.",
      "quote": "Escape risk is unknown at the new location"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Company Notes rewrite by Tiarra Roberts, Sep 22",
-     "office": false,
-     "note": "The Sep 22 rewrite dropped the line saying Blue's escape risk is unknown at the new location. It also dropped the line allowing the backyard line for PM feeding visits. The email does not say whether either was resolved or just trimmed, so keep treating Blue as an unknown at doors. The harness is now described as on the bench with the leash.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -6982,16 +6922,6 @@
      "office": true,
      "note": "Pet Care Note cut back to the Odie muzzle line only; Zeno's treat-aggression rule and Griswold's leash-only rule deleted from it. Both survive in Company Notes, so nothing lost outright, but the field sitters read first no longer carries them.",
      "quote": "Griswold has to be leashed up, do not let him in the back yard without being leashed."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 22",
-     "source": "Pet Care Note and Company Notes, edited by Tiarra Roberts Sep 22",
-     "office": true,
-     "note": "All care for the cat Sloan was removed from both notes in the Sep 22 edit. That includes litter, feeding, the wet treat pouch and the as-needed 1 mL liquid constipation medication. The line 'Cat present (no care needed)' was removed too. The email does not say whether Sloan still lives there or still needs care. Office to confirm.",
-     "quote": ""
     },
     {
      "cat": "behavior",
