@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T11:35:06-04:00",
+ "generated": "2026-10-14T12:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1479,6 +1479,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts edit 11:56am",
+     "office": true,
+     "note": "11:56am rewrite emptied Company Notes and the gate check was not carried into Important Notes. Lost entirely, and three dogs are let loose in that yard. Re-add it.",
+     "quote": "Check side, back gate is CLOSED (left corner) before letting them out"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2538,6 +2548,26 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts edit 11:22am",
+     "office": true,
+     "note": "11:22am rewrite reduced the entry rule to 'Enter through garage' and deleted the instruction below. It is now nowhere in the record. Re-add it.",
+     "quote": "Enter through garage, closing it immediately upon entering"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts edit 11:22am",
+     "office": true,
+     "note": "Same rewrite deleted Ripley's multivitamin treats entirely. Old notes: Dog is Human, 2 in the morning and 2 at bedtime, left on the counter by the client, tossed like a treat. Nothing now mentions them, so they will stop being given.",
+     "quote": "2 in the morning and 2 at bedtime (if he has it for her on counter)"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2636,26 +2666,6 @@
      "note": "Pet Care Note replaced this morning. It previously held the feeding instructions and the condition that Ripley is fed only when Matt is out of town. It now reads only SEND ETA WHEN ON THE WAY, UNLESS HE'S OUT OF TOWN, and feeding moved into Company Notes where it reads Feed 2 times per day with no out-of-town condition. As written a sitter would feed every visit whether or not Matt is home. Office needs to say which is right.",
      "quote": "only feed if Matt is out of town",
      "source": "Tiarra Roberts, Pet Care Note edit"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Client private message 9:39am",
-     "office": false,
-     "note": "At 9:39am Matt says he left a remote and extra snacks at the house for sitter Tiarra Roberts (he spells it Tiara) to use with Ripley if she wants. He does not say what the remote operates, so that is unclear from the message. Ripley is the dog with the ongoing collar and leash difficulty.",
-     "quote": "I left Tiara the remote for Ripley…and some more yummy snacks for her to use for Ripley…if she wants"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Tiarra Roberts visit report 12:56pm",
-     "office": true,
-     "note": "A tree crew was working next to the driveway during the 12:56pm visit and the sitter flagged possible marks left on it. Ripley passed the crew twice without barking but was distracted.",
-     "quote": "The tree guys may have left marks on the driveway"
     }
    ],
    "dormant": false
@@ -3069,6 +3079,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 14",
+     "source": "Elizabeth Sigler report 11:55am",
+     "office": true,
+     "note": "Milo had diarrhea again on the Oct 14 midday walk, a second consecutive day, and the sitter thinks she saw a sliver of onion in it. She is new to these dogs and reports it as uncertain. Ask the client directly, with the open Oct 2 medication question. Archer was firm and healthy.",
+     "quote": "Milo did have diarrhea again today and I think I saw a sliver of onion in it"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 13",
      "source": "Alex Miller visit report, 12:24pm",
      "office": true,
@@ -3174,16 +3194,6 @@
      "office": false,
      "note": "Milo went #1 only on today's walk, no bowel movement; Archer went #1 and #2 and the stool was firm and healthy. Milo pulled not at all and both animals were calm.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Kiara Streety visit report 11:52 AM",
-     "office": true,
-     "note": "Sitter does not know whether Milo and Archer are still on medication and said so in her report rather than asking directly. Office needs to confirm the current medication status with the client and get it into the care notes.",
-     "quote": "not sure if they are still on medicine or not!"
     }
    ],
    "dormant": false
@@ -3265,6 +3275,16 @@
      "office": true,
      "note": "The 10:50am rewrite overwrote Important Notes, and the only thing that field held was Holly's handling rule. The warning that she is hesitant with men and should be ignored until she settles is now nowhere in her record - Company Notes was emptied in the same edit. Re-add it.",
      "quote": "Hesitant with males-will take a little bit to warm up to initially, please ignore her until she feels more comfortable"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Julie Smith message to client 11:37am",
+     "office": true,
+     "note": "Cover change told to the client at 11:37am: Shannon has the Oct 14 and Oct 15 visits because Julie has a sick dog at home; Julie expects to be back Friday Oct 16. Matters because this morning's rewrite deleted the warning that Holly is hesitant with men.",
+     "quote": "Shannon will be doing the visits today and tomorrow for me"
     },
     {
      "cat": "schedule",
@@ -3365,16 +3385,6 @@
      "office": false,
      "note": "Client wrote at 8:36 AM asking that whoever walks today put Holly's food out. It is a request for today's visit only and does not say how much or where the food is.",
      "quote": "Please have the walker today put Holly’s food out."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Julie Smith visit report 2:18pm",
-     "office": true,
-     "note": "Waste bags by the front door have run out. Julie asked the client whether we should bring some on the next visit (tomorrow 1pm) and no answer has gone back yet.",
-     "quote": "There aren’t any more garbage bags near the front door."
     }
    ],
    "dormant": false
@@ -3507,6 +3517,26 @@
      "quote": "Backyard is NOT fenced — must use leash or long lead (available)"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Monica Hopewell report 12:08pm",
+     "office": false,
+     "note": "Oct 14 walk: sitter says the first two stools were harder to pass and the third softer. The report's consistency field still says firm and healthy, so the two do not agree.",
+     "quote": "His first two number 2s seemed to be harder to pass than his third one"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Monica Hopewell report 12:08pm",
+     "office": true,
+     "note": "Waste bags nearly out after the Oct 14 walk; supplies flagged low on the report. She also brought in a package.",
+     "quote": "there is only one bag left in his pouch"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -3575,26 +3605,6 @@
      "office": false,
      "note": "Client says Oakley gets seasonal allergies at this time of year and that they are managing them well so far this season.",
      "quote": "He does get allergies around this time"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 22",
-     "source": "Pet care note updated by Tiarra Roberts",
-     "office": false,
-     "note": "Oakley may hide upstairs on arrival; if he does not come down to greet you, check the bedroom.",
-     "quote": "Oakley might be hiding upstairs, if he does not come down for you please look in bedroom"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Company Notes edits by Tiarra Roberts 10:03-10:04am",
-     "office": false,
-     "note": "Company Notes were saved three times in under a minute. The only change is the removal of the 'Dog Overview: Oakley' header line and some blank lines; every care instruction is unchanged - orange leash and harness in the laundry room, unfenced backyard so the green leash on the back door must be used, paw wash and towel in the laundry room, bowls in the dining room, poop bags in the small bin in the garage.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -3607,6 +3617,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts edit 11:47am",
+     "office": true,
+     "note": "11:47am rewrite cut Archie's temperament warning to four words, 'Leash hand-off at door'. Also lost: that Ray hooks him to the leash for us until he is used to us. A sitter reading the new notes has no idea why the hand-off exists.",
+     "quote": "Archie is a little stand offish and will take some time to warm up to us"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3615,6 +3635,16 @@
      "office": false,
      "note": "Oct 14 morning walk: Archie went #1 but had no bowel movement, and the consistency field reads No #2 today. The walk was cut short by heavy rain and the sitter says Archie will not go #2 in the rain. This is the fifth no-#2 walk on file (Sep 1, Sep 30, Oct 2, Oct 9, Oct 14); the rain is a plausible reason for this one but the office may want to keep counting.",
      "quote": "ARCHIE went no.#1 but hates to go no.#2 in the rain so he didn't"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts edit 11:47am",
+     "office": true,
+     "note": "Same edit rewrote Access Instructions as buzz 103 in the foyer and deleted the line below. Sitters are no longer told to expect Ray home.",
+     "quote": "Client will home during visit"
     },
     {
      "cat": "behavior",
@@ -3705,26 +3735,6 @@
      "office": false,
      "note": "On the Sep 30 morning walk Archie went #1 several times but had no bowel movement. Same pattern was logged on Sep 1; the Sep 11 walk was normal and firm. Worth watching whether the next walk produces a #2.",
      "quote": "We went on a great walk and he went no.#1 several times but no no.#2."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Thomas Rakovec visit report",
-     "office": true,
-     "note": "The Sep 30 visit report form answer says there was a potty accident and the pet got sick and was cleaned up, with before and after pictures. The sitter's written message does not mention any of this and says Ray was home during the visit. The two do not agree - office should ask Thomas what actually happened before this is treated as a sick-pet report.",
-     "quote": "There was a potty accident and the pet got sick, and I cleaned it up"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Thomas Rakovec visit report 10:01am",
-     "office": false,
-     "note": "The Oct 13 morning report again logs Ray at home for the visit with the door left unlocked at his request. Same form answer as Sep 15 and Oct 8. Whether this is a standing arrangement or just what happens when he is home is still not stated anywhere.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -4543,6 +4553,26 @@
     "Jaxson"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Thomas Rakovec report 11:49am",
+     "office": true,
+     "note": "Alarm was about to go off when the sitter let himself in through the garage Oct 14; he disarmed it. Nothing in her record warns the alarm may be armed or says what to do. Confirm with the client and get the procedure written down.",
+     "quote": "I entered through the garage but for some reason the alarm was about to go off"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Thomas Rakovec report 11:49am",
+     "office": false,
+     "note": "Partial answer to the open harness question: the sitter found and used a harness Oct 14 and says Jaxson was easy to walk. The record still does not say which one or where it is kept.",
+     "quote": "I got the harness on Jaxson and we went on a nice walk around the block"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -5933,6 +5963,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts edit 12:10pm",
+     "office": true,
+     "note": "12:10pm rewrite moved Company Notes into Important Notes and lost the whole mail block: mailbox #4 across the street, the key for it kept by the food area, mail on the kitchen table. Only trash day Monday survived. The feeding layout went too: Mr Crowley eats no dry food and eats on the left, Miss Ashley on the right.",
+     "quote": "Mailbox #4 across the street"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -6516,6 +6556,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts edit 11:39am",
+     "office": true,
+     "note": "Company Notes emptied. Vito's shyness survived as one line but the handling instruction did not. Also lost: Hamilton and Vivian are very attention-seeking and excited greeters, and the reason to bring Hamilton in if the mastiffs play, that they play too rough.",
+     "quote": "Allow him to sniff and approach you on his own"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Oct 3",
      "source": "Tiarra Roberts updated contact information for Nicole Zammit (8:45 PM)",
      "office": true,
@@ -6782,6 +6832,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Client private message 12:05pm",
+     "office": true,
+     "note": "Client chasing the office on weekend coverage. Second unanswered request in four days; her Oct 11 schedule request is also open. Needs a reply today.",
+     "quote": "Do you know about coverage for the weekend yet? Thanks"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -6890,16 +6950,6 @@
      "office": false,
      "note": "Harness goes on front feet first through the two front leg holes, then bring the ring up around the tummy to the back and fasten. Leash and harness are in the closet to the left on entering, on the shelf. Dog friendly: yes. Knows sit, shake, leave it, come, down, but may not follow when excited.",
      "quote": "Put front feet through two front leg holes and bring ring up around tummy to back and fasten."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 11",
-     "source": "Margaret Bill updated contact information for Gina Sullivan",
-     "office": false,
-     "note": "Company Notes now set out the visit pattern and access: dog visits 3x a day, client is home during visits, knock on the door and enter the home and leash the pet. Unit is on the second floor near the elevator. Park in any spot on the sides of the building. Dog waste stations are outside; Rock n Roxie spray is in the bottom cupboard under the kitchen sink.",
-     "quote": "Dog visits 3x a day"
     }
    ],
    "dormant": false
@@ -7762,7 +7812,8 @@
     "Peppa",
     "Beau-ba",
     "White Kitty Boy",
-    "Pickles"
+    "Pickles",
+    "Toby"
    ],
    "items": [
     {
@@ -7774,6 +7825,16 @@
      "office": false,
      "note": "RESOLVES THE RUN OF NO SIGHTINGS. Pickles was found inside the living room furnace vent after the clients searched 20 minutes on returning home. Floor vents are a hiding spot to check when he cannot be found.",
      "quote": "he was in the furnace vent in the living room"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts edit 11:30am",
+     "office": true,
+     "note": "Wet food portion changed in the same edit: old notes said split 1-2 containers between the three dishes, new notes say split 1 container. Unclear whether deliberate or lost in retyping. Confirm with the client.",
+     "quote": ""
     },
     {
      "cat": "schedule",
