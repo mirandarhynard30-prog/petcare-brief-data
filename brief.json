@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T13:35:08-04:00",
+ "generated": "2026-10-14T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3347,6 +3347,16 @@
      "quote": ""
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Shannon Anderson visit report, 1:35pm",
+     "office": true,
+     "note": "Shannon Anderson trimmed the fur around Holly's eyes during the 1:35pm visit, to tide her over until her grooming appointment. The email does not say who asked for this - office should confirm it was authorised and note that a grooming appointment is pending. Holly's stool was firm and healthy.",
+     "quote": "I helped trim the fur around her eyes to help until her grooming appointment"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3375,16 +3385,6 @@
      "office": true,
      "note": "Lynne replied \"Yes fine with us\" to a private message Miranda had sent her. The email does not quote what Miranda proposed, so what she is agreeing to is not known from this notification - the office should check the Time To Pet conversation and confirm back to her. Earlier today she wrote that she was home.",
      "quote": "Yes fine with us"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Client message 8:36 AM",
-     "office": false,
-     "note": "Client wrote at 8:36 AM asking that whoever walks today put Holly's food out. It is a request for today's visit only and does not say how much or where the food is.",
-     "quote": "Please have the walker today put Holly’s food out."
     }
    ],
    "dormant": false
@@ -3985,6 +3985,26 @@
      "office": false,
      "note": "At the end of the same Sep 23 walk Muffy saw another dog and pulled extremely hard, choking herself; Julie worked to redirect her using heel and reports it was not very successful. Single occurrence in this report, not stated as a standing pattern.",
      "quote": "she started pulling extremely hard, even though the dog already went inside"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Dan Dantimo visit report, 1:11pm",
+     "office": false,
+     "note": "Muffy went both #1 and #2 on the walk. Dan Dantimo noted the #2 was mucus-free; the visit-report consistency field says it was a little loose but not concerning.",
+     "quote": "She went number one and two and number two was mucus free."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Dan Dantimo visit report, 1:11pm",
+     "office": false,
+     "note": "Muffy pulls on leash. Dan Dantimo worked on heel with treat rewards and suggests trying the harness next time. This is the sitter's suggestion, not a client instruction - confirm with the client before switching.",
+     "quote": "Perhaps next time we can try the harness, it could help with the pulling"
     },
     {
      "cat": "health",
