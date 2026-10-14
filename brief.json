@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T09:20:09-04:00",
+ "generated": "2026-10-14T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3587,6 +3587,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Thomas Rakovec visit report, 10:08am",
+     "office": false,
+     "note": "Oct 14 morning walk: Archie went #1 but had no bowel movement, and the consistency field reads No #2 today. The walk was cut short by heavy rain and the sitter says Archie will not go #2 in the rain. This is the fifth no-#2 walk on file (Sep 1, Sep 30, Oct 2, Oct 9, Oct 14); the rain is a plausible reason for this one but the office may want to keep counting.",
+     "quote": "ARCHIE went no.#1 but hates to go no.#2 in the rain so he didn't"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -3695,16 +3705,6 @@
      "office": false,
      "note": "The Oct 13 morning report again logs Ray at home for the visit with the door left unlocked at his request. Same form answer as Sep 15 and Oct 8. Whether this is a standing arrangement or just what happens when he is home is still not stated anywhere.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts visit report, Oct 8 10:02am",
-     "office": false,
-     "note": "Access is through the apartment building entrance by buzzing Ray's unit; he was home for this visit, so the sitter did not go in or check the home. The unit number is in Time To Pet, not here.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -7283,6 +7283,16 @@
      "cat": "home",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:09am and 10:10am",
+     "office": true,
+     "note": "Two more edits to the notes this morning and the warning that the front door does not latch and must be locked from inside is still not there, and Kopi still has no feeding times. The escape-risk line is present. Office should re-add the door warning and Kopi's times.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
      "date": "Oct 7",
      "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
      "office": true,
@@ -7308,6 +7318,36 @@
      "office": true,
      "note": "Trash instruction lost its timing. New notes say only that trash day is Friday. Tomorrow is Thursday.",
      "quote": "Trash can gets picked up on Friday morning, so put out trash can to curb on Thursday visit."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:09am",
+     "office": false,
+     "note": "Important Notes rewritten again and now carry the full care detail in one place: dry food in the clear green-lid container near the glass door, topping off two automatic feeders as needed; one can of wet food in the AM split between three bowls or plates, one next to the oven and NOT on the mat, two in the basement stairwell; a water bowl may go in the basement stairwell too; four litter boxes (pantry off the kitchen, two downstairs, upstairs bathroom); grocery bags under the kitchen sink; extra litter on the shelf above the pantry box and in the upstairs bathroom sink cabinet; scooped litter and wet food cans into the large black trashcan inside the garage.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:09am",
+     "office": false,
+     "note": "Trash placement changed in the same edit. Trash day is still Friday but the bins now go near the street directly in front of the house; the Oct 7 version said the opposite side of the mailbox.",
+     "quote": "Trash day: Friday, place near street, directly in front of house"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information, 10:09am",
+     "office": false,
+     "note": "Company Notes now hold the treat and enrichment rules, moved out of the client-added General Information field, which was left empty: treats live on the kitchen island counter and must be kept inside an air-tight container, two Churu may be squeezed onto a plate per visit, and a little catnip from the living room can go on a small plate. Most doors stay open except one basement door and one upstairs door near the bathroom.",
+     "quote": "Most doors stay open, besides 1 basement door and 1 upstairs door (near bathroom)"
     },
     {
      "cat": "home",
@@ -7358,46 +7398,6 @@
      "office": true,
      "note": "Kim replied to a confirmation saying she will be present. The mail does not say which appointment or date was confirmed - most likely the meet-and-greet she accepted on Oct 4, but that is not stated, so the date still needs reading off Time To Pet.",
      "quote": "Thank you for the confirmation. I will be here"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Client private message, Oct 4 1:02 PM",
-     "office": true,
-     "note": "Kim has accepted a meet-and-greet time, following the slots she offered on Oct 1. Which slot was agreed is not visible in the mail, so the booked date and time still need confirming and putting on the schedule.",
-     "quote": "That would work for me. See you then"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "client private message",
-     "office": true,
-     "note": "Returning client after a long gap. Kim is asking how to restart service, whether a new contract is needed now that she has new pets and updated food routines, and whether to book a meet-and-greet. Unanswered as of this run.",
-     "quote": "how do you recommend going forward with restarting using the services? Do I need another contract since I have new pets/updated food routines?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 1",
-     "source": "client private message",
-     "office": false,
-     "note": "Two new 1-year-old rescue cats adopted, Drew (female) and Doughty (male), a bonded pair. Both are still very shy. Kopi is doing well and is described by the client as the boss of the house and the braver of the three.",
-     "quote": "Currently Kopi is more brave with the babies still being very shy"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Kim Knight private message",
-     "office": true,
-     "note": "Returning client needs cat care Oct 26-28 and wants a meet-and-greet before then. Also asks whether she should request the Oct 26-28 dates in Time To Pet now or wait until after the meeting. Follows her earlier Oct 1 message about restarting service; still unanswered.",
-     "quote": "I will be needing someone October 26-28. So would like to meet before then."
     }
    ],
    "dormant": false
