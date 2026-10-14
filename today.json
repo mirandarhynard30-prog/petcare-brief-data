@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T00:05:07-04:00",
+ "generated": "2026-10-14T09:20:14-04:00",
  "date": "2026-10-14",
  "label": "Oct 14, 2026",
  "clients": [
@@ -139,18 +139,6 @@
      "staff": "Kathy Sullenberger",
      "service": "Long Range Visit-30 Minute",
      "pets": "Oliver Chip, Daffodil"
-    }
-   ]
-  },
-  {
-   "name": "Liz Wainio",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Thomas Rakovec",
-     "service": "Dog Visit-45 minute",
-     "pets": "Stella, Berry, Emma, Louie"
     }
    ]
   },
@@ -329,5 +317,5 @@
    ]
   }
  ],
- "visitCount": 30
+ "visitCount": 29
 }
