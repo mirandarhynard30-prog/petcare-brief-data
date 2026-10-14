@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T15:20:06-04:00",
+ "generated": "2026-10-14T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -152,6 +152,26 @@
      "quote": "She started pain management for arthritis (another thing for her 😭) so that might be why."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Kathy Sullenberger visit report 12:37pm",
+     "office": false,
+     "note": "Nova did not urinate at the midday visit even though the sitter tried for a while. Outside time was in the fenced back yard. The report also ticks the pets as a little shy. A Sep 23 note from the client says a missed potty is not a concern for her, so this is logged rather than flagged.",
+     "quote": "She did not pee. We did try for awhile."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Shannon Anderson visit report 12:38pm",
+     "office": false,
+     "note": "Kathy Sullenberger is shadowing Shannon on Nova again and took the lead on this visit. When Nova saw only Kathy she started to hide in the bedroom. They got her outside but she would not stay out in the light rain. Shannon left the lamp next to Nova's couch on for the family coming home.",
+     "quote": "Nova only saw Kathy and started to go hide in the bedroom"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -221,6 +241,26 @@
      "office": false,
      "note": "Standing notes as of the Oct 14 update: both dogs are an escape risk, Puck's trigger is loud noises and she will run for the building, and the dogs are kept in the back left bedroom.",
      "quote": "Puck trigger: loud noises, will run for building"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Mary Gilmore client message 2:57pm",
+     "office": false,
+     "note": "Feeding amounts confirmed by the client. Shannon Anderson asked at 2:41pm whether Rusty gets 3 cups and Puck 3/4 cup; Mary answered at 2:57pm and added that Puck's food is on the left and Rusty's on the right. Her reply does not restate the numbers itself, so the container sides are certain and the amounts are confirmed only by her agreeing to the sitter's question.",
+     "quote": "Yup! Pucks food is on the left and rustys is on the right"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 14",
+     "source": "Shannon Anderson message 2:41pm + client reply 2:57pm",
+     "office": true,
+     "note": "CORRECTION to the earlier Oct 14 item that said no client reply existed. Mary Gilmore did reply, at 2:57pm, between Shannon's 2:41pm question and her 2:58pm 'the notes say Puck gets 1cup' message, in a separate client-message thread. The 2:59pm edit of the Important Notes from 'Puck 1 cup Best Breed' to 'Puck 3/4 cup Best Breed' therefore has client agreement behind it, not sitter authority alone. Nothing further is needed unless the office wants the amounts restated in the client's own numbers.",
+     "quote": "Rusty gets 3 3cups and Puck gets 3/4cup?"
     },
     {
      "cat": "behavior",
@@ -301,26 +341,6 @@
      "office": true,
      "note": "Move timeline and meet-and-greet dates updated: hotel Monday and probably Tuesday, hopefully in the new place Wednesday. She says Oct 7 or Oct 8 works for the meet and greet. The office still has to pick one of those two dates and confirm it back to her.",
      "quote": "Yes the 7th or 8th should work for meet and greet."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Client private message, Oct 4 12:48 PM",
-     "office": true,
-     "note": "Access to the new apartment is not direct: there is a main building door before her unit and she believes a key is needed for it. She is unsure herself, so building access is unresolved and needs settling before any visit there.",
-     "quote": "You have to go through a main door to get to my unit."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Client private message 1:22 PM",
-     "office": true,
-     "note": "At 1:22 PM the client set the meet and greet time at 5:30. The date is still not settled in the mail - she had said Oct 7 or Oct 8 should work but has not named one, and the Oct 7 midday visit is already cancelled until the meet and greet has happened. The office needs to pick the date, confirm 5:30 back to her and put it in Time To Pet. She also sent the street address of the new apartment in this message; it is in Time To Pet and is deliberately not repeated here.",
-     "quote": "Lets do 5:30 to be safe!"
     }
    ],
    "dormant": false
