@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T12:35:06-04:00",
+ "generated": "2026-10-14T13:35:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1347,6 +1347,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edit 12:41pm",
+     "office": true,
+     "note": "CONFLICT. Evee's Current Care Notes, emptied at 12:41pm, listed three feedings - 6-10am, 12-3pm, 5-7pm - while the Important Notes rewritten two minutes earlier say twice daily AM/PM. Two or three feedings is now unresolvable from the record; ask the client. The pumpkin prep detail (mix with a splash of water) also went.",
+     "quote": "Pure pumpkin 2 spoons per serving in fridge"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1455,16 +1465,6 @@
      "office": false,
      "note": "Evee's feeding windows were widened in her Pet Care Note: morning 6-10am, lunch 12-3pm, dinner 5-7pm (previously 6-9am, 11-1pm, 5/6pm). Pumpkin changed from 1/3 can to 2 spoons per serving, mixed with a splash of water. Treats stay above the fridge and must not be left out.",
      "quote": "Pure pumpkin 2 spoons per serving in fridge"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 24",
-     "source": "Pet Care Note update plus client message 7:21pm",
-     "office": true,
-     "note": "The dry-kibble block dropped out of Evee's rewritten Pet Care Note - the previous version carried '3x cup dry kibble a day (by food bowl)' and the new version has no kibble line at all. The owner restated it by message minutes later as 1 cup at each of three feedings, topped with 2 spoons of pumpkin and a sprinkle of water. Her message gives the morning window as 8-10am while the care note says 6-10am, so the two do not agree; the office should reconcile them and put the kibble amount back in the note.",
-     "quote": "Yes sorry forgot 3 cups feed a day"
     }
    ],
    "dormant": false
@@ -3400,6 +3400,26 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edit 12:49pm",
+     "office": true,
+     "note": "Oliver's whole Current Care Notes field emptied, and with it the only handling warning: stressed when owners are away, he will swat so do not try to pet him, may hide under the living room couch. A sitter new to this cat now has nothing.",
+     "quote": "He will swat, so I would avoid trying to pet him."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edit 12:49pm",
+     "office": true,
+     "note": "Same deletion took all his feeding detail: dry food (Tastefuls Sensitive Stomach) left out always in the main bedroom, bowl in front of the mirror, refilled as needed; wet food about half a can a few times a day, bowl in the kitchen on the left; he grazes rather than eats a meal.",
+     "quote": "He gets wet food (about half a can) a few times a day."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Aug 26",
      "source": "Tiarra Roberts profile update",
      "office": false,
@@ -3425,6 +3445,16 @@
      "office": true,
      "note": "Mail handling was lost in the same rewrite. The old Company Notes said to check the mailbox and put the mail on the kitchen island. The new notes give only a location and say nothing about bringing the mail in or where to put it.",
      "quote": "Mailbox at street"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edit 12:49pm",
+     "office": true,
+     "note": "Same deletion took the heating-pad setting and water routine: pad in the living room corner by the tv behind the chair, 95 degrees, set in 12-hour periods; two cups by the couch filled with ice and water, towel underneath swapped when sopping; litter into the lidded can by the toilet.",
+     "quote": "I usually leave this on at 95 degrees all the time."
     },
     {
      "cat": "home",
@@ -4220,6 +4250,26 @@
      "quote": "Allergies: Frank - Grain allergy"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts contact edit 12:17pm",
+     "office": true,
+     "note": "The rewrite left only \"Trash day: Wednesday\" - putting the bins out Tuesday night is gone, and today is Wednesday. Same edit lost where mail and packages go (mail on the dining room table, packages inside the front door).",
+     "quote": "Trash day: Take bins out Tuesday night. Wednesday is trash day."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts contact edit 12:17pm",
+     "office": true,
+     "note": "Same rewrite moved the TV task into Company Notes and softened it from every-visit to optional. Also lost the directions to the basement hallway (in the kitchen, next to the interior garage door), which is how a sitter finds Theo when he hides.",
+     "quote": "At each visit, turn on the TV"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -4288,26 +4338,6 @@
      "office": false,
      "note": "Client says Frank gets very lonely and asks that sitters give him attention during the visit; sitter reports scratches and brushing quiet him down.",
      "quote": "Frank can get very lonely so thank you for giving him that attention."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Stephanie Sarrocco message Sep 26",
-     "office": false,
-     "note": "Theo is content on his own but a churu treat is the reliable way to draw him out; client also asks sitters to tell him he is handsome if they see him.",
-     "quote": "The churu route was the way to go to get him out, the boy can’t resist them."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Noella Assi visit report Sep 26",
-     "office": false,
-     "note": "Water bowl was found empty at the Sep 26 afternoon visit; sitter refilled it and topped off kibble. Worth watching whether the bowl is big enough between visits.",
-     "quote": "I checked the food and water, the water was gone."
     }
    ],
    "dormant": false
@@ -5148,9 +5178,30 @@
    "pets": [
     "Perd (“P”)",
     "P",
-    "Perd (\"P\")"
+    "Perd (\"P\")",
+    "Perd, but we just call her \"P\""
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edit 12:42pm",
+     "office": true,
+     "note": "P's Current Care Notes emptied, losing the feeding rule that exists to stop her being sick: her auto feeder goes off at 7:15am and 3:15pm and wet food is given about 45 minutes either side. Also gone: wet-food windows 6:30-8am and 4-5pm, give only a little at each feeding, the feeder's battery backup, and cleaning the water bowl every other day. Important Notes says only to feed half a can.",
+     "quote": "we try to feed her about 45 minutes before or after that goes off, so she doesn't get sick"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts contact edit 12:24pm",
+     "office": true,
+     "note": "The 12:24pm Company Notes rewrite dropped where mail and newspaper go - Important Notes now says only to collect the newspaper. The line saying not to change the Litter Genie bag every day (the daughter does it Sunday) also went.",
+     "quote": "Place mail and newspaper on entryway table"
+    },
     {
      "cat": "health",
      "sev": "medium",
@@ -5638,6 +5689,16 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts contact edit 12:30pm",
+     "office": true,
+     "note": "Company Notes emptied. Most migrated into Important Notes, but the greeting guidance for a dog-reactive dog did not: Helios has a loud bark and should be met calmly and mostly ignored at first. Prong collar, side-door entry, wait-in-the-driveway and the crate routine all survive.",
+     "quote": "Has loud bark, stay calm and mostly ignore when first interacting"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "recent",
      "date": "Sep 30",
      "source": "Tiarra Roberts visit report, Sep 30 6:18 PM",
@@ -5791,6 +5852,36 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edit 1:00pm",
+     "office": true,
+     "note": "Louie's Current Care Notes emptied, losing that he is very attached to mom, barks when you approach, and otherwise listens well. A sitter met by a barking dog now has no note saying it is expected.",
+     "quote": "VERY ATTACHED TO MOM. LIKES TO BARK WHEN APPROACHING. HE LISTEN WELL."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edit 1:00pm",
+     "office": false,
+     "note": "A gain in the same edit: Louie's allergy field firmed up from uncertain to grass and chicken. Check before giving any treat.",
+     "quote": "GRASS, CHICKEN. HE’S AN ITCHY BOY"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edit 1:00pm",
+     "office": true,
+     "note": "Lanie's leash warning narrowed from easily distracted by all furry animals to only rabbits and squirrels. If the broader version was right this understates the walk risk.",
+     "quote": "EASILY DISTRACTED BY ALL FURRY ANIMALS. RABBITS, SQUIRRELS"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 3",
      "source": "Beth Nickel message",
      "office": false,
@@ -5836,36 +5927,6 @@
      "office": true,
      "note": "New sitter on this client was not sure she prepared the rehydrated food correctly and said so in her Oct 3 report. Office should confirm the feeding method with Beth and get it written clearly into the Pet Care Note.",
      "quote": "I hope I did it right!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 27",
-     "source": "Beth Nickel client message, Sep 27 1:18pm ET",
-     "office": true,
-     "note": "For Saturday Oct 3 the client will pre-portion the pets' food herself, so the sitter only has to put it out rather than prepare it. She says she will leave a note if anything changes. She also asks the office a billing question in the same message that is still unanswered. Access details in this message are deliberately not recorded here.",
-     "quote": "Saturday, the 3rd, I will have their food ready. Will just have to put out."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Time To Pet record edit by Tiarra Roberts",
-     "office": true,
-     "note": "Same rewrites removed the Dog Areas section - hallway gate stays up, Lanie may chew pillows or cushions - and dropped that Lanie is shy at first, Louie is more protective, and the dogs may use the back patio.",
-     "quote": "Lanie may chew pillows or cushions if given access to certain areas"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Time To Pet record edit by Tiarra Roberts",
-     "office": true,
-     "note": "Same rewrites dropped the cold-water warning. The kitchen sink's hot and cold symbols are backwards, so bowls could be filled from the wrong tap.",
-     "quote": "MAKE SURE IT'S COLD WATER, the red/blue symbol is backwards on kitchen sink"
     }
    ],
    "dormant": false
@@ -5959,9 +6020,21 @@
     "Mr Crowley",
     "Miss Ashley",
     "Mr Crowley (Bubby)",
-    "Miss Ashley (Sweet Pea)"
+    "Miss Ashley (Sweet Pea)",
+    "Mr Crowley; Bubby",
+    "Miss Ashley; Sweet Pea"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edits 12:03pm and 12:04pm",
+     "office": true,
+     "note": "Both cats' feeding amounts deleted outright, and the Company Notes rewritten the same hour do not replace them. Mr Crowley ate only canned food at 1 1/2 to 2 cans per meal; Miss Ashley had half a can plus a scoop of dry. Neither cat has a portion recorded anywhere now. Both also had no-known-allergies blanked, which reads as unknown rather than none.",
+     "quote": "EATS ONLY CAN FOOD. I FEED HIM 1 1/2 TO 2 CANS PER MEAL"
+    },
     {
      "cat": "home",
      "sev": "medium",
@@ -6270,6 +6343,36 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edit 12:51pm",
+     "office": true,
+     "note": "Oakley's Current Care Notes emptied. Lost: 3x a day, 1 cup per meal; 5-7am, 11-1pm, 4-6pm; food tote on fireplace with black scoop; fed in his crate with the crate closed; green harness by the tote; small treat portions. This was the only record of the 1-cup portion, so the open 1-scoop-vs-1-cup conflict can no longer be settled.",
+     "quote": "Oakley eats 3x a day (1 cup of food)."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edit 12:51pm",
+     "office": true,
+     "note": "Same deletion removed Oakley's only outdoor warning - he tries to eat mulch and needs watching when let out. Nowhere in his record now.",
+     "quote": "He always tries to eat mulch."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts pet edit 12:50pm",
+     "office": true,
+     "note": "Bailey's Current Care Notes emptied. Lost: twice a day, morning and late afternoon/evening, time varies; one blue scoop from the bin under the coffee bar; refresh water at feeding; may eat little when owners are away, or want more - some days 3-3.5 scoops. No portion or schedule for Bailey now recorded anywhere.",
+     "quote": "She gets one blue scoop of food from the food bin under the coffee bar in the kitchen."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -6358,36 +6461,6 @@
      "office": true,
      "note": "Pet Care Note cut to one line on Oakley's three meals. The rule to feed both dogs on an evening visit is gone, so an evening sitter would not know to feed Bailey.",
      "quote": "Will feed both if doing an evening visit."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:50pm",
-     "office": false,
-     "note": "As the record now reads: Bailey in the blue harness, Oakley the green, both on one leash with two clips. Walks preferred. Watch Oakley outside, he eats mulch.",
-     "quote": "Clip them together onto the leash with two clips"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 6",
-     "source": "Client message via Time To Pet, Oct 6 8:12am",
-     "office": false,
-     "note": "Back door lock has been fixed. The laundry room door can be used as well. Poop bags are kept on top of the dryer.",
-     "quote": "The back door lock is fixed but can always use the laundry room door there are poop bags on top of the dryer if needed!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 6",
-     "source": "Client message via Time To Pet, Oct 6 8:12am",
-     "office": false,
-     "note": "Client says Oakley does not have to be on the lead in the yard, though sitters may use it if they prefer. She says she fixed the lead so it is no longer rusted, and that he cannot get out of the fence because it is netted at the high spots.",
-     "quote": "Oakley does NOT need to be on the lead unless you guys want."
     }
    ],
    "dormant": false
