@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T12:20:05-04:00",
+ "generated": "2026-10-15T13:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -782,6 +782,26 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "standing",
+     "date": "Oct 15",
+     "source": "Client message from Angela Jozsa, Oct 15 12:38pm",
+     "office": false,
+     "note": "Client says Lucy will only eat the Ollie if it is hand fed to her. Told to the sitter in her own words after he reported Lucy refusing it. No amount or timing given beyond the client saying she gives it herself when she gets home.",
+     "quote": "I have to hand feed it to her and then she will eat it."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "Josh Stone visit report, Oct 15 12:24pm",
+     "office": false,
+     "note": "Lucy was offered the Ollie on the Oct 15 midday visit and did not eat it. The same report contradicts itself on her stool: the written note calls it very healthy while Lucy's consistency field reads a little loose but not concerning, so the reading is uncertain. Wet can food was marked as fed.",
+     "quote": "I offered her Ollie but she didn’t eat it."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "recent",
      "date": "Oct 9",
      "source": "Margaret Bill 11:39am visit report",
@@ -858,26 +878,6 @@
      "office": false,
      "note": "At today's visit Lucy was out of her pen with collar and leash already on under the client's supervision, and was expected to greet the sitter at the door. Client did not say whether this is how she will be left at future visits.",
      "quote": "Lucy is out of her pen but has collar and leash on since she’s been under my supervision."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Margaret Bill visit report 1:06 PM",
-     "office": false,
-     "note": "Lucy went #1 and #2 on the midday walk, #2 well formed and solid. Follows the earlier reports of no #2 and low energy.",
-     "quote": "Her number two was well formed and solid."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Sitter Margaret Bill, Oct 1 midday visit report",
-     "office": false,
-     "note": "Lucy broke off the walk partway because of people at the neighbouring property, and only continued once they had gone. She was also in no hurry to leave the pen and had to be encouraged out. One observation, not recorded as a standing rule.",
-     "quote": "she went three quarters away down to the garbage bin and then wanted to come back because there were people next door"
     }
    ],
    "dormant": false
@@ -3777,6 +3777,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "Dan Dantimo visit report, Oct 15 12:53pm",
+     "office": false,
+     "note": "Guinness went both #1 and #2 on the Oct 15 midday walk and Dan Dantimo again logged the consistency as a little loose but not concerning. Same reading as Oct 13 and Oct 2. The walk itself was a long one around the block and the sitter describes him as happy and energetic.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "Dan Dantimo visit report, Oct 15 12:53pm",
+     "office": false,
+     "note": "The Oct 15 report's home-securing field says the client was home during the visit and asked that the door not be locked. Recorded from one report only - whether this is a standing request or just for today is not stated.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3875,26 +3895,6 @@
      "office": false,
      "note": "Guinness went #2 on the midday walk and the sitter logged the consistency as loose. Walk itself was normal and energetic.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Dan Dantimo visit report, Sep 25 7:49pm",
-     "office": true,
-     "note": "On the Sep 25 evening walk Dan Dantimo answered Guinness' #2 consistency field with the a-little-loose-but-not-concerning option again. No other symptoms reported; Guinness walked the long way round the block, took treats and played normally. Dan signed off see you Monday, so nothing is logged between this visit and Monday.",
-     "quote": "He did go number one and two and behaved very well"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Dan Dantimo visit report 7:54pm",
-     "office": true,
-     "note": "Guinness went both #1 and #2 on the Sep 24 evening walk and Dan Dantimo again answered the report's consistency field with the canned option 'It was a little loose but not concerning'. The brief already carries that same answer for Sep 4, 11, 14, 15, 16, 17, 18, 22 and 23, so this is the tenth such reading this month. No other symptom reported - he was energetic, took treats and played afterwards, and Deb was home during the visit. Nobody has yet asked Deb whether a vet has seen him. Quote field deliberately left empty: the verbatim canned answer collides with Anna Marie LeMaster's Sep 24 item under the relay's de-duplication key.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -5347,6 +5347,16 @@
      "quote": "Each dog gets 1/2 cup of kibble both AM and PM"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "Kristin Ashick visit report, Oct 15 12:35pm",
+     "office": true,
+     "note": "New sitter Kristin Ashick tried the neighbour's garage first on the Oct 15 visit before finding the right home. She says the neighbour is the house to the right as you pull into the driveway and has a Ring camera, and asks the client to apologise for her. Worth telling anyone new to this stop which garage is which.",
+     "quote": "I tried to go into the wrong garage, so if your neighbor says anything, shes to the right when you're pulling into the driveway."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -5435,16 +5445,6 @@
      "office": false,
      "note": "There is a second water bowl in the bedroom besides the main one. Noted by one sitter on one visit, not confirmed as standing.",
      "quote": "when I was leaving I saw the water bowl in the bedroom so I refreshed that too"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Pet Care Note updated by Monica Hopewell",
-     "office": false,
-     "note": "Supply locations added: treats in the basket in the pantry, poop bags on the top shelf of the front closet with the leashes hanging on the wall in there, toys throughout the house. Friday is trash day; there is a trash can on the back patio for doggy bags and disposal cans around the neighborhood.",
-     "quote": ""
     }
    ],
    "dormant": false
