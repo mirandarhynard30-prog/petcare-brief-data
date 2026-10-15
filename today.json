@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T08:35:11-04:00",
+ "generated": "2026-10-15T11:05:08-04:00",
  "date": "2026-10-15",
  "label": "Oct 15, 2026",
  "clients": [
@@ -50,8 +50,8 @@
    "name": "Christi Russo",
    "visits": [
     {
-     "time": "11:00 AM",
-     "sort": "1100",
+     "time": "11:15 AM",
+     "sort": "1115",
      "staff": "Thomas Rakovec",
      "service": "Dog Visit-30 minute",
      "pets": "Jaxson"
