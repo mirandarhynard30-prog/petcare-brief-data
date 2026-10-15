@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T13:20:07-04:00",
+ "generated": "2026-10-15T15:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -956,6 +956,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 15",
+     "source": "Harvett Ellington visit report, Oct 15 2:59pm",
+     "office": false,
+     "note": "Oct 15 afternoon visit: Chloe went #1 and #2 and the sitter wrote that the #2 was a mix of hard and loose at the end. The report's own consistency field contradicts this and reads firm and healthy, so the written note is the more specific of the two. This follows the Oct 12 soft stool and the Oct 13 visit that looked to have closed that watch, so the watch should be treated as reopened rather than closed. Melody was home during this visit.",
+     "quote": "(a mix of hard and loose at the end)"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 13",
      "source": "Visit report 10:49am",
      "office": false,
@@ -1001,16 +1011,6 @@
      "office": false,
      "note": "Chloe's stool on the Oct 5 morning walk was ticked firm and healthy. She went both #1 and #2 on a long walk and the report records no wheezing or any other problem.",
      "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 2",
-     "source": "Elizabeth Sigler visit report, 2:08 PM",
-     "office": false,
-     "note": "Chloe is carried down the front steps at the start of the walk; the sitter describes this as her usual practice every visit.",
-     "quote": "I carried Chloe down the front steps like I always do"
     }
    ],
    "dormant": false
