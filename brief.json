@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T21:20:06-04:00",
+ "generated": "2026-10-15T06:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -180,16 +180,6 @@
      "office": false,
      "note": "On the 11:30 AM visit Nova again refused to go outside at first. Shannon slid the harness on without clipping it and Nova would not move until she heard the leash clip, then ran straight to the back door. Useful handling trick, but recorded as one observation rather than a standing rule. Nova did not potty; she did do a few seconds of zoomies in the fenced yard and took mini milk bones.",
      "quote": "She wouldn't go today until she heard the leash clip."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Nova did not want to go outside on the midday visit and resisted even having her harness put on. Shannon got her out with a few mini milk bones. Nova did not potty at all - she would act as if she was about to go and then come back looking for a treat. She settled in bed with Benji afterwards and water was changed out.",
-     "quote": "She was reluctant about going outside today, even trying to put her harness on, she didn’t want to go."
     },
     {
      "cat": "behavior",
@@ -698,26 +688,6 @@
      "office": false,
      "note": "Rex slipped out of his harness on the client's own street while he and CJ were wrestling, and ran loose to the front porch. He did not respond to being called. Sitter says he is unhurt, the street was quiet, and both dogs were crated and secure at the end of the visit. Harness was not broken.",
      "quote": "Rex completely slipped his harness and went running straight home to the front porch"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Ashley Corall visit report",
-     "office": true,
-     "note": "Second straight day of foil in the stool. Ashley Corall read yesterday's report and says she saw foil again today in both Rex's and CJ's #2. The checklist still records both stools as firm and healthy, and the report does not say where the foil is coming from or how much. No vet contact is recorded. Office should find the source with the client.",
-     "quote": "I noticed today as well it in both of the pups"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Terry M message to Ashley Corall, 1:14pm",
-     "office": true,
-     "note": "Client identified the source of the foil seen in both dogs' stool Sep 22 and Sep 23: Rex tore through a foil-lined blanket in his crate overnight, and the client believes CJ got into Rex's crate and swallowed some too. No vet contact mentioned by the client.",
-     "quote": "Rex had torn through one of his blankets and it was foil lined."
     },
     {
      "cat": "health",
@@ -3647,16 +3617,6 @@
      "quote": "Take shoes off, inside"
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Tiarra Roberts contact information update",
-     "office": true,
-     "note": "Company Notes were edited again today by Tiarra Roberts. The only change is under 'Be careful with back door': the line 'Do NOT lock yourself out' was replaced by 'Take shoes off, inside'. The deadbolt lock-out warning is now gone from Time To Pet, and the shoes-off rule was already recorded elsewhere. Only the office can put the warning back.",
-     "quote": "Do NOT lock yourself out"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -4007,26 +3967,6 @@
      "quote": "sorry that you were unaware of the time change"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Julie Smith visit report",
-     "office": false,
-     "note": "Julie Smith's Sep 23 evening walk report: Muffy pulled throughout the walk, but the current collar and leash cut down the self-choking compared with before. Julie linked the pulling to unspent energy. The report does not say what the previous setup was.",
-     "quote": "She definitely still was pulling, but she wasn’t choking herself as much with this collar and leash."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Julie Smith visit report",
-     "office": false,
-     "note": "At the end of the same Sep 23 walk Muffy saw another dog and pulled extremely hard, choking herself; Julie worked to redirect her using heel and reports it was not very successful. Single occurrence in this report, not stated as a standing pattern.",
-     "quote": "she started pulling extremely hard, even though the dog already went inside"
-    },
-    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -4166,16 +4106,6 @@
      "office": false,
      "note": "FYI for anyone scheduled Saturday Sep 26: the client says Aayla is going to the zoo tomorrow for their \"Bark after dark\" event. She does not say a time or ask for any visit change, so treat this as a heads-up only, not a cancellation.",
      "quote": "Miss Aayla bug gets to take a little trip to the zoo for their “Bark after dark” tomorrow."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Josh Stone visit report",
-     "office": false,
-     "note": "Handling heads-up from today's visit: Aayla greets at the door by jumping, reaching nearly the sitter's eye level. The sitter describes it as her usual greeting and the rest of the visit was normal - walk, both #1 and #2, stool firm.",
-     "quote": "Jumping for joy at almost my eye level"
     }
    ],
    "dormant": false
@@ -6755,16 +6685,6 @@
      "office": true,
      "note": "The same deleted section carried the rule never to leave the mastiffs outside on their own. Visits here are backyard potty breaks only, so this was the line governing the whole visit.",
      "quote": "Do not leave the mastiffs outside unattended."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 23",
-     "source": "Shannon Anderson visit report, 1:34pm",
-     "office": true,
-     "note": "During play in the fenced back yard Vito put his mouth on the sitter's arm. The sitter described it as light and as part of play, and reported no injury and an otherwise good visit.",
-     "quote": "Him and I actually tried to play, he lightly grabbed my arm."
     },
     {
      "cat": "behavior",
