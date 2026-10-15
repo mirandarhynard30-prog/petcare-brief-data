@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T11:20:06-04:00",
+ "generated": "2026-10-15T12:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -500,6 +500,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "Kathy Pastor message to client 11:33am",
+     "office": true,
+     "note": "Sitter Kathy Pastor wrote to the client about giving a pet a peaceful transition and wished her well for tomorrow, which points to a euthanasia appointment on Oct 16. The mail does not say which animal, and the client's own message that prompted it is not in this mailbox - confirm with the client before scheduling or sending anyone.",
+     "quote": "Now you are giving him a peaceful transition. Best wishes for tomorrow."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "standing",
      "date": "Oct 10",
      "source": "Client message from Anna Marie LeMaster, Oct 10 7:59am, addressed to Kathy",
@@ -606,16 +616,6 @@
      "office": true,
      "note": "On the Oct 4 morning visit Renee Dougherty asked the client whether Sampson's pill can be crushed. No answer from Anna Marie is visible in the notification mail as of 9:13am, so the question is still open. The brief already carries the client's own stated method (pill given in soft food, more food added over several tries); nothing in the mail says crushing is approved, so do not assume it is.",
      "quote": "Hi Anna Marie, I was wondering if Sampson‘s pill can be crushed?"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Visit report, Renee Dougherty, Oct 4 9:41am",
-     "office": true,
-     "note": "Sampson had two poop accidents on the carpet plus one in the litter box, and also threw up in the family room. No urine found anywhere. Sitter cleaned up all of it. Worth telling the client and watching at the next visit.",
-     "quote": "He pooped twice on the carpet and once in the litter box."
     }
    ],
    "dormant": false
@@ -3089,6 +3089,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 15",
+     "source": "Elizabeth Sigler visit report 11:55am",
+     "office": true,
+     "note": "Milo had diarrhea again on today's visit - third day in a row. The Milo consistency field reads that the pet does not seem well and that the sitter has reached out to management for guidance; no reply from the office appears in the mail. Archer's stool was firm and healthy on the same visit.",
+     "quote": "his poop was messy again (third day in a row) and it was diarrhea"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 14",
      "source": "Elizabeth Sigler report 11:55am",
      "office": true,
@@ -3194,16 +3204,6 @@
      "office": false,
      "note": "Sitter found Archer shut in a bedroom and asked whether to put him back; client said yes, he is meant to be there, and also asked that Milo go back in his crate. Cleaners are in the house today, which is the reason given.",
      "quote": "Also please put Milo back in the crate so he doesn’t bother the cleaners!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Kiara Streety visit report 11:52 AM",
-     "office": false,
-     "note": "Milo went #1 only on today's walk, no bowel movement; Archer went #1 and #2 and the stool was firm and healthy. Milo pulled not at all and both animals were calm.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -4628,6 +4628,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 15",
+     "source": "Thomas Rakovec visit report 11:53am",
+     "office": true,
+     "note": "Sitter Thomas Rakovec said he was not sure of the snack rule for Jaxson and gave him a couple of treats anyway. No treat rule for Jaxson appears anywhere in the mail - needs confirming with the client and putting in the pet's notes.",
+     "quote": "I'm not sure of the snack rule but he does such a great job walking"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 14",
      "source": "Thomas Rakovec report 11:49am",
      "office": false,
@@ -5515,6 +5525,26 @@
      "office": false,
      "note": "Miley gets blood pressure medication - one quarter pill each visit, in a pill pocket. Brittany pre-cuts the pills into quarters. Supplies, medication and the water jug are on the kitchen counter, along with a binder of instructions.",
      "quote": "Miley is usually sleeping on the bed, in the bedroom"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "client message 11:56am",
+     "office": true,
+     "note": "Client away camping at Burr Oak state park, back Sunday afternoon, and says she is unsure about cell service while away. Worth confirming a reachable backup contact for the weekend.",
+     "quote": "We will be back Sunday afternoon. I am unsure about cell service since we will be camping"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 15",
+     "source": "client message 11:56am",
+     "office": false,
+     "note": "Client has started using a pill wrap for Miley's medication and says it works the same as the pill pockets. She still has the pill pockets with Miley's other supplies, so either can be used.",
+     "quote": "I also started to use this pill wrap for Miley's medication. Works exactly the same as the pill pockets."
     },
     {
      "cat": "home",
