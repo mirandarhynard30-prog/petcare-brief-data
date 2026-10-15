@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T11:05:08-04:00",
+ "generated": "2026-10-15T12:05:15-04:00",
  "date": "2026-10-15",
  "label": "Oct 15, 2026",
  "clients": [
@@ -9,6 +9,13 @@
     {
      "time": "11:45 AM",
      "sort": "1145",
+     "staff": "Josh Stone",
+     "service": "Dog Visit-30 minute",
+     "pets": "Lucy"
+    },
+    {
+     "time": "3:45 PM",
+     "sort": "1545",
      "staff": "Josh Stone",
      "service": "Dog Visit-30 minute",
      "pets": "Lucy"
@@ -141,8 +148,8 @@
      "pets": "Georgie"
     },
     {
-     "time": "9:45 PM",
-     "sort": "2145",
+     "time": "8:50 PM",
+     "sort": "2050",
      "staff": "Kristin Ashick",
      "service": "Dog Visit-20 minute",
      "pets": "Georgie"
@@ -236,5 +243,5 @@
    ]
   }
  ],
- "visitCount": 21
+ "visitCount": 22
 }
