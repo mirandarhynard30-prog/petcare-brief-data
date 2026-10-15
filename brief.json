@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T10:20:06-04:00",
+ "generated": "2026-10-15T11:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -893,6 +893,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "Elizabeth Sigler post-visit report, 10:48am",
+     "office": true,
+     "note": "The front door stuck on the Oct 15 morning visit and the sitter and Chloe were shut out of the house; they got back in through the back door near the patio. Sitters should expect the front door may not open. Whether the door has been looked at is not stated.",
+     "quote": "Your front door was sticking and we were essentially locked out, so we snuck in the backdoor (near your patio)."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -931,6 +941,16 @@
      "office": false,
      "note": "Ellie Mae has died. Melody told the office on the afternoon of Aug 31. Only Chloe remains on visits from now on. Do not ask after Ellie Mae or expect her at the house; earlier standing notes about minimising her walking no longer apply.",
      "quote": "our sweet ellie passed away today."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "Elizabeth Sigler post-visit report, 10:48am",
+     "office": false,
+     "note": "Elizabeth Sigler cleaned up cat spitup near the front door before leaving, and the report's accidents field is ticked that the pet got sick and she cleaned it up with before and after pictures. The report does not say which animal was sick.",
+     "quote": "cleaned up a pile of cat spitup in front of the soft brown bench near your front door"
     },
     {
      "cat": "health",
@@ -991,26 +1011,6 @@
      "office": false,
      "note": "Chloe is carried down the front steps at the start of the walk; the sitter describes this as her usual practice every visit.",
      "quote": "I carried Chloe down the front steps like I always do"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Elizabeth Sigler visit report, 2:08 PM",
-     "office": false,
-     "note": "Chloe had lots of energy and the sitter says she seems more like herself again. The report names no condition, so what she is recovering from is not stated here.",
-     "quote": "It makes me so happy to see her feeling more like herself again!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Drew Walker visit report to Melody Siska, Sep 30 10:40 AM",
-     "office": false,
-     "note": "Chloe's stool on the Sep 30 morning walk was ticked firm and healthy, the first normal reading after loose or runny on Sep 24, Sep 26 and Sep 29. She went both #1 and #2 and was cheerful throughout. The sitter notes they turned around at about the distance she used to manage, so the route is still shortened.",
-     "quote": "On the walk, Chloe went number 1 and 2 and was cheerful and happy the whole time."
     }
    ],
    "dormant": false
@@ -4027,6 +4027,36 @@
     "Freddy"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "Kiara Streety post-visit report, 10:32am",
+     "office": false,
+     "note": "A caregiver was in the home at the Oct 15 10:05am visit, sitting with Marcia in the room where Freddy was lying. The caregiver spoke with the sitter and asked about the routine. Expect other people in the house.",
+     "quote": "I came in and a caregiver is here sitting with Marcia."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "Kiara Streety post-visit report, 10:32am",
+     "office": false,
+     "note": "Kiara Streety found far too much food in Freddy's bowl on the Oct 15 visit and said it looked as though it had been sitting. She took it out and fed a fresh half can. The report does not establish whether Freddy is being over-served or is not finishing his food.",
+     "quote": "I noticed he had way too much food in his bowl"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "Kiara Streety post-visit report, 10:32am",
+     "office": false,
+     "note": "The food taken out of Freddy's bowl was bagged and left in the fridge, so there is a half can in a baggy plus a bag of food there for his next feeding.",
+     "quote": "so he has a can in a baggy and whole bag of food as well in the fridge"
+    },
     {
      "cat": "home",
      "sev": "low",
