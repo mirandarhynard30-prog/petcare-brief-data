@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T06:20:07-04:00",
+ "generated": "2026-10-15T07:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -369,6 +369,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 15",
+     "source": "Client message via Time To Pet, 7:13 AM Oct 15",
+     "office": true,
+     "note": "Liz Wainio messaged at 7:13 AM today to cancel - she is home, so the dogs do not need their visit. Today's scheduled visit is 12:00 PM, Dog Visit-45 minute, Thomas Rakovec, for Stella, Berry, Emma and Louie. No confirming mail yet; the office must cancel it in Time To Pet and tell the sitter before noon.",
+     "quote": "Good morning. I’m still home. So the pups won’t need a visit. Sorry for the late notice"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 14",
      "source": "Client message 7:17am ET",
      "office": true,
@@ -474,16 +484,6 @@
      "office": true,
      "note": "Louie again did not want to go out back with the others. The same sitter reported the same thing on Sep 17. That is now twice in twelve days, on top of the Sep 10 note that he was growling at the other dogs and grumpier than usual when groomed. Recording the repeat only - no cause is stated anywhere in the mail. Worth the office checking with the client whether a vet has seen him.",
      "quote": "arrived at the house let everyone out back except Louie, he didn't feel like it today"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client message from Liz Wainio, Sep 25 8:22am",
-     "office": true,
-     "note": "Liz messaged at 8:22am to say she is home from work again today and would submit a cancellation request. A separate portal Service Change notice at 8:32am shows a cancellation for Friday Sep 25 11:00-11:45am Dog Visit. Third such same-day cancellation this month; office needs to process it and confirm the visit is off.",
-     "quote": "Good morning, sorry for the late notice. I will be home again today."
     }
    ],
    "dormant": false
