@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T17:20:05-04:00",
+ "generated": "2026-10-15T18:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5430,6 +5430,16 @@
      "cat": "home",
      "sev": "low",
      "type": "recent",
+     "date": "Oct 15",
+     "source": "Karen Mitterholzer message 5:29pm",
+     "office": true,
+     "note": "Karen has replied about this morning's wrong-garage mix-up and is not upset - she says her neighbour would not make a fuss. The office follow-up call can be a courtesy rather than damage control. She also thanked the team for covering last minute.",
+     "quote": "they would not make a fuss and would probably get a good laugh out of you trying to get inside!"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
      "date": "Oct 14",
      "source": "Tiarra Roberts visit report",
      "office": false,
@@ -5455,16 +5465,6 @@
      "office": false,
      "note": "Rosie expects her ball at the park; Ashley arrived without it. Seen once, not confirmed by the owner as a rule.",
      "quote": "I forgot Rosie’s ball so she gave my first strike"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Ashley Corall 1:51pm report",
-     "office": false,
-     "note": "There is a second water bowl in the bedroom besides the main one. Noted by one sitter on one visit, not confirmed as standing.",
-     "quote": "when I was leaving I saw the water bowl in the bedroom so I refreshed that too"
     }
    ],
    "dormant": false
@@ -5567,6 +5567,26 @@
      "quote": "I also started to use this pill wrap for Miley's medication. Works exactly the same as the pill pockets."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 15",
+     "source": "Yasmeen Abrams visit report",
+     "office": false,
+     "note": "Miley, the older cat, is on medication given at visits. Administered on the Oct 15 evening visit with no difficulty - she was easy to handle for it. The report's medication field for Miley is ticked Yes.",
+     "quote": "We then proceeded to give meds to the older kitty Miley, she was so gentle and nice and friendly"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 15",
+     "source": "Yasmeen Abrams visit report",
+     "office": false,
+     "note": "The cats are given spring water, not tap - the indoor cats' bowls were topped off with it and the sitter was told the outdoor cats get spring water as well.",
+     "quote": "I was told that the outdoor cats get spring water as well."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -5595,26 +5615,6 @@
      "office": true,
      "note": "The 4:21 PM rewrite retitled the section 'AM Feeding Instructions' and deleted the line giving the window, so the notes say morning without saying when. Miley's blood-pressure quarter-pill and the three-wet-cans-on-one-plate line are unchanged. Worth settling because the medication goes in a pill pocket with the food.",
      "quote": "Feed in morning (around 6-11am)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Time To Pet record edit by Tiarra Roberts",
-     "office": true,
-     "note": "Same run deleted the pointer to the client's instruction binder on the kitchen table, and the line that the kittens hide during visits.",
-     "quote": "There is a binder with instructions/kittie info on kitchen table"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Time To Pet record edit by Tiarra Roberts",
-     "office": true,
-     "note": "Additional Cats section lost both that there is an outdoor cat we feed and that she is the kittens' mother. What is left says how to feed an outdoor cat without saying one is there.",
-     "quote": "Outdoor cat present and we will feed"
     }
    ],
    "dormant": false
