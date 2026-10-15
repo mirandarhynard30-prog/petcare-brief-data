@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T15:20:06-04:00",
+ "generated": "2026-10-15T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4637,6 +4637,26 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Oct 15",
+     "source": "Christi Russo client message, 4:25pm",
+     "office": false,
+     "note": "Treats are approved. Client confirms the dog is allowed his snacks and they are kept above the coffee maker. Answers the open question about treats given on an earlier visit.",
+     "quote": "yes he's absolutely allowed to have his snacks they're above the coffee maker"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 15",
+     "source": "Christi Russo client message, 4:25pm",
+     "office": false,
+     "note": "Same message adds a wording that reads as a people-food restriction, but the text as sent is ambiguous - it says 'just know people food', which most likely means 'just no people food'. Treat as no people food until the office confirms; do not assume table scraps are allowed.",
+     "quote": "Yeah we always give him treats during the day just know people food."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Oct 14",
      "source": "Thomas Rakovec report 11:49am",
@@ -4695,14 +4715,14 @@
      "quote": "Just come to the man door I opened the garage. For some reason our transmitter died on our doorbell yesterday"
     },
     {
-     "cat": "health",
+     "cat": "schedule",
      "sev": "low",
      "type": "recent",
-     "date": "Oct 13",
-     "source": "Dan Dantimo visit report 12:45pm",
-     "office": false,
-     "note": "Jaxson went both #1 and #2 on the midday walk. The sitter described the #2 as a little loose but not concerning, and reported no accidents in the house. Quote omitted deliberately: the verbatim form answer collides with another client's item under the relay de-duplication key.",
-     "quote": ""
+     "date": "Oct 15",
+     "source": "Christi Russo client message, 4:25pm",
+     "office": true,
+     "note": "Client mentions she may be rained out of work tomorrow (Oct 16). Conditional, not a cancellation or a request - she asks for nothing. Office may want to confirm whether tomorrow's visit still stands.",
+     "quote": "Hopefully I don't get rained out of work tomorrow we'll see"
     }
    ],
    "dormant": false
