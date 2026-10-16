@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T14:05:06-04:00",
+ "generated": "2026-10-16T15:05:07-04:00",
  "date": "2026-10-16",
  "label": "Oct 16, 2026",
  "clients": [
@@ -12,6 +12,18 @@
      "staff": "Josh Stone",
      "service": "Dog Visit-30 minute",
      "pets": "Lucy"
+    }
+   ]
+  },
+  {
+   "name": "Bill Brock",
+   "visits": [
+    {
+     "time": "8:00 PM",
+     "sort": "2000",
+     "staff": "Tiarra Roberts",
+     "service": "Last Minute Visit- 45 minute",
+     "pets": "Storm, Timber"
     }
    ]
   },
@@ -155,8 +167,8 @@
      "pets": "chloe"
     },
     {
-     "time": "2:30 PM",
-     "sort": "1430",
+     "time": "3:30 PM",
+     "sort": "1530",
      "staff": "Harvett Ellington",
      "service": "Dog Visit-30 minute",
      "pets": "chloe"
@@ -186,26 +198,7 @@
      "pets": "Archie"
     }
    ]
-  },
-  {
-   "name": "Test Visit 2",
-   "visits": [
-    {
-     "time": "2:30 PM",
-     "sort": "1430",
-     "staff": "Miranda",
-     "service": "Shadow Visit with Staff Member-30 minute",
-     "pets": "Axel, Hazel, Sassie, Silas"
-    },
-    {
-     "time": "2:30 PM",
-     "sort": "1430",
-     "staff": "Chrissy George",
-     "service": "Dog Visit-30 minute",
-     "pets": "Axel, Hazel, Sassie, Silas"
-    }
-   ]
   }
  ],
- "visitCount": 19
+ "visitCount": 18
 }
