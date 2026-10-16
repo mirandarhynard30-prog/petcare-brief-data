@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T21:20:07-04:00",
+ "generated": "2026-10-16T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -369,6 +369,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 16",
+     "source": "Liz Wainio has sent you a new message.",
+     "office": true,
+     "note": "Client messaged at 9:51 AM today to say she meant to cancel today's visit and had forgotten to enter it. A portal Service Change notice at 10:01 AM covers the cancellation of today's 11:15 AM - 12:00 PM Dog Visit-45 min, so the request now appears to be in the system and needs processing before the 11:15 AM slot. This is her third same-day cancellation in three days (Oct 14, Oct 15, Oct 16).",
+     "quote": "Hi, so sorry. Yes. I forgot to put in the cancellation."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 15",
      "source": "Client message via Time To Pet, 7:13 AM Oct 15",
      "office": true,
@@ -474,16 +484,6 @@
      "office": true,
      "note": "Sitter Thomas Rakovec reports a joint loose enough that he dislikes picking the dog up. The message does not name the pet; the surrounding thread is about Louie, who the client said this morning is continuing Rimadyl and has gained weight. Needs confirming which pet this is and whether there is a standing lifting or handling instruction - this is one sitter's remark, not yet an established rule.",
      "quote": "That joint is so loose I hate picking him up"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Thomas Rakovec visit report 12:14pm",
-     "office": true,
-     "note": "Louie again did not want to go out back with the others. The same sitter reported the same thing on Sep 17. That is now twice in twelve days, on top of the Sep 10 note that he was growling at the other dogs and grumpier than usual when groomed. Recording the repeat only - no cause is stated anywhere in the mail. Worth the office checking with the client whether a vet has seen him.",
-     "quote": "arrived at the house let everyone out back except Louie, he didn't feel like it today"
     }
    ],
    "dormant": false
@@ -1455,16 +1455,6 @@
      "office": false,
      "note": "Evee's usual collar still not found, so Ashley Corall dropped off a spare collar and clipped it to Evee's leash; she tried it on and it fits without being tight. Use this one.",
      "quote": "I just dropped one off and attached it to her leash. I tried it on her and it fits not tight on her"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Client message 7:14pm",
-     "office": true,
-     "note": "Yasmeen will be away from Friday 5pm until roughly midnight Sunday. She sent a batch of care-note rewrites and photo/video references the same evening, so coverage and instructions for that window should be confirmed against the updated notes.",
-     "quote": "I will be gone and will not be returning home starting Friday 5 PM and will return promptly around midnight Sunday"
     },
     {
      "cat": "health",
@@ -3617,16 +3607,6 @@
      "quote": "Oakley might be hiding upstairs, look in bedroom closet on the main floor. The hardwood floors can scare him."
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Company Notes updated by Tiarra Roberts, 11:08am",
-     "office": true,
-     "note": "The whole 'Be careful with back door' block was deleted from Company Notes at 11:08am - both the deadbolt caution and the take-shoes-off-inside instruction went with it. This is the second time in two days that back-door text has been removed. Office should confirm whether the removal was intended and restore the shoes-off rule if not.",
-     "quote": "Take shoes off, inside"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -5199,36 +5179,6 @@
      "office": false,
      "note": "Per-visit house tasks in tonight's notes: empty the dehumidifier once a day - it is upstairs in the office, unplug it, pull the canister from the back and dump it in the bathroom sink. Turn the front door interior light on at the PM visit and off at the AM visit (second switch from the left by the front door), same for the exterior garage lights (switch on the right side in the garage). Check the thermostat left of the front door reads 67-70. Turn CatTV on the upstairs TV. Trash day is Friday, bins to the curb Thursday night.",
      "quote": "Empty dehumidifier, once daily, upstairs in office."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Client message",
-     "office": true,
-     "note": "Client writes that service is scheduled to start October 7 while she is out of town, and asks for sitter availability next week to hold a meet and greet with the cats. Needs an office reply; no meet and greet is on the books yet.",
-     "quote": "I’d like to get the meet and greet with the sitters scheduled. What is their availability next week to meet the cats?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Lauren Stuy private message, Sep 24 9:29am",
-     "office": true,
-     "note": "Lauren replied with meet-and-greet availability ahead of her Oct 7 service start: Thursday Oct 1 or Friday Oct 2, evenings after 5:30pm, and she is also flexible next weekend during the day. Office needs to confirm a sitter and a time.",
-     "quote": "Next week Thursday (10/1) or Friday (10/2) would work for us. Preferable times would be the evening after 5:30 pm."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Lauren Stuy private message, 4:01pm",
-     "office": true,
-     "note": "Meet-and-greet now confirmed for Friday Oct 2 at 5:30pm, ahead of service starting Oct 7. She and her husband expect to meet the sitters then - office still needs to assign and name who is attending.",
-     "quote": "Thanks, Miranda. Friday, 10/2, at 5:30 pm is great. My husband and I look forward to meeting with the sitters then."
     },
     {
      "cat": "behavior",
@@ -7191,16 +7141,6 @@
      "quote": "We just want to make sure they are topped off with a scoop of dry food every visit"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Client message, 2:32pm",
-     "office": true,
-     "note": "Julia corrected the visit dates in reply to the office: not tomorrow. She says the visits should be Saturday evening and Sunday morning. The schedule needs checking against what she actually wants before anything is confirmed back to her.",
-     "quote": "You mentioned tomorrow but the visits should be Saturday evening and Sunday morning."
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -7242,16 +7182,6 @@
     },
     {
      "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Client message, 2:44pm",
-     "office": true,
-     "note": "Julia asked the office to confirm the entry details held for her home, and typed an access code and a key location into the message. Deliberately not recorded here - verify what is stored in Time To Pet directly and reply to her there.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
      "sev": "low",
      "type": "standing",
      "date": "Sep 27",
@@ -7279,16 +7209,6 @@
      "office": false,
      "note": "Sitter reports Tino is the social one and met her at the garage door; Binx and Leo came close but dodged being petted; Sebastian stayed hidden under the bed, which the sitter describes as his usual. Sebastian is fed upstairs, two cats are fed in the laundry room.",
      "quote": "Sebastian said not today and hid under the bed per usual."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 24",
-     "source": "Client message, 2:44pm",
-     "office": false,
-     "note": "Julia apologised in advance that the garbage is full of her son's belongings while he stays with them until his apartment is ready. She says nothing else at the home has changed.",
-     "quote": "the garbage is full of my sons stuff as he’s staying with us until his apt is ready"
     }
    ],
    "dormant": false
