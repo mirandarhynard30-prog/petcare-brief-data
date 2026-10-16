@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T15:05:07-04:00",
+ "generated": "2026-10-16T16:05:32-04:00",
  "date": "2026-10-16",
  "label": "Oct 16, 2026",
  "clients": [
@@ -19,8 +19,8 @@
    "name": "Bill Brock",
    "visits": [
     {
-     "time": "8:00 PM",
-     "sort": "2000",
+     "time": "8:15 PM",
+     "sort": "2015",
      "staff": "Tiarra Roberts",
      "service": "Last Minute Visit- 45 minute",
      "pets": "Storm, Timber"
@@ -105,8 +105,8 @@
      "pets": "Georgie"
     },
     {
-     "time": "8:00 PM",
-     "sort": "2000",
+     "time": "7:30 PM",
+     "sort": "1930",
      "staff": "Tiarra Roberts",
      "service": "Dog Visit-20 minute",
      "pets": "Georgie"
@@ -136,8 +136,8 @@
      "pets": "Ripley"
     },
     {
-     "time": "9:00 PM",
-     "sort": "2100",
+     "time": "9:15 PM",
+     "sort": "2115",
      "staff": "Tiarra Roberts",
      "service": "Dog Visit-30 minute",
      "pets": "Ripley"
