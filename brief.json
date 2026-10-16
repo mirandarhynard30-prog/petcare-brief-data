@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T10:20:06-04:00",
+ "generated": "2026-10-16T11:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2114,6 +2114,26 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Client private message 10:33am",
+     "office": true,
+     "note": "Client asks to scrap today's walk because of several bands of rain over the next hour and a half, and asks whether Murphy can walk tomorrow (Sat Oct 17) late morning instead. Needs an office reply and a schedule change for both days.",
+     "quote": "If we scrap it for today, any chance he could walk tomorrow late morning?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Client private message 10:37am",
+     "office": true,
+     "note": "Second message four minutes later: she leaves the replacement time to the office, says they are open all day, and wants Murphy to get the exercise. So any time Saturday works - the office just has to pick one and tell her.",
+     "quote": "You tell me what works for the girls. We’re open all day."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -2212,26 +2232,6 @@
      "office": false,
      "note": "Client endorses longer walks for Murphy, responding to Monica Hopewell taking him further than usual. Sits alongside the existing care-note instruction to keep him moving rather than stopping to sniff. Stated once, on Oct 6, so treat as her preference rather than a written note until it is entered in Time To Pet.",
      "quote": "It’s good for him to go further!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message 2:46pm",
-     "office": false,
-     "note": "Closes out her 9:58am question about when a sitter would arrive for Murphy. The visit went ahead with Monica Hopewell and the client thanked her at 2:46pm, so no reply from the office is outstanding on that question any more.",
-     "quote": "See you next time!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Kristin Ashick message, Oct 2 10:52 AM",
-     "office": false,
-     "note": "Kristin Ashick's GPS misrouted her on the way to the Oct 2 9:30 AM visit and she gave a new ETA of 10:55 AM. She does not say where it sent her or whether the address held in the system is wrong, so this is unconfirmed either way.",
-     "quote": "My GPS took me some place very weird."
     }
    ],
    "dormant": false
@@ -3650,6 +3650,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 16",
+     "source": "Visit report 10:23am, Thomas Rakovec",
+     "office": false,
+     "note": "Oct 16 morning walk: Archie went both #1 and #2 and the report's consistency field reads firm and healthy. That breaks the no-#2 run and follows the normal Oct 12 report, with the Oct 14 walk the last one logged as no #2. Ray was home for the visit and asked that the door not be locked.",
+     "quote": "It was firm and healthy"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 14",
      "source": "Thomas Rakovec visit report, 10:08am",
      "office": false,
@@ -3745,16 +3755,6 @@
      "office": false,
      "note": "On the Oct 2 morning walk Archie went #1 several times but had no bowel movement. That is the third no-#2 walk on file (Sep 1, Sep 30, Oct 2). Ground was wet from the rain and he preferred the street to the grass.",
      "quote": "No number two today."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "On the Sep 30 morning walk Archie went #1 several times but had no bowel movement. Same pattern was logged on Sep 1; the Sep 11 walk was normal and firm. Worth watching whether the next walk produces a #2.",
-     "quote": "We went on a great walk and he went no.#1 several times but no no.#2."
     }
    ],
    "dormant": false
@@ -8128,6 +8128,36 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 16",
+     "source": "Client message 10:41am",
+     "office": true,
+     "note": "Today's Oct 16 walk was called off for rain by Dan Dantimo, who told the client roughly six minutes before the due time. The client says she has early plans Saturday, so she expects the next walk to be Monday. Office needs to settle what Saturday and Monday hold and reply to her.",
+     "quote": "Sorry we have early plans tomorrow. I guess it will be Monday."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Client message 10:49am",
+     "office": true,
+     "note": "Follow-up message: the client says it had not rained at her house for over an hour and that she had just seen two neighbours out walking their dogs, so in her view the walk could have been fitted in or the weather checked earlier. Dan Dantimo accepted this in reply at 10:52am.",
+     "quote": "So it could have been fit in or checked earlier."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Client message 11:12am",
+     "office": true,
+     "note": "Third message in the same thread: she walked Boo herself with no rain, says the weather at the sitter's house differs from hers and that phones can be set for different cities. Service only started 10/12, so this is dissatisfaction in the first week. Needs an office call or reply today.",
+     "quote": "One walk and already problems"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 9",
      "source": "Client private message 12:48pm",
      "office": true,
@@ -8143,6 +8173,16 @@
      "office": true,
      "note": "Returning client asking to re-engage service for Boo: Monday and Friday, 10:30am start, 20-minute walk, proposed start date 10/12/26, and she would add Wednesday in winter if it goes well. She wants to know if we are interested and what it costs, says email or phone is fine and that Boo is still healthy. Her callback number is in the Time To Pet message. No reply sent yet and the proposed start is this coming Monday.",
      "quote": "I am looking for Monday and Friday starting at 10:30 for a 20 minute walk."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Client message 10:41am",
+     "office": true,
+     "note": "In passing the client says she will walk Boo once her meds kick in. She does not name the medication, the dose or the timing, and nothing on file for this client mentions a medication - office should confirm whether Boo is on anything that affects walk timing.",
+     "quote": "Boo is looking out window but I will take her later as soon as meds kick in."
     },
     {
      "cat": "health",
