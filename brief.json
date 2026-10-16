@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T13:20:05-04:00",
+ "generated": "2026-10-16T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3358,6 +3358,16 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Julie Smith message to client, 1:16 PM",
+     "office": false,
+     "note": "Answer to the client's 1:08 PM question about whether she had a walker today: Julie Smith messaged her at 1:16 PM that she was on her way with an ETA of about 1:45, sent by text and email. Julie is the regular sitter, so this also indicates the Oct 14-15 cover by Shannon has ended as expected. Does not confirm the visit was completed, only that the sitter was en route.",
+     "quote": "Hi Lynne, I am heading to you now. I should be there right around 1:45."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -3386,16 +3396,6 @@
      "office": true,
      "note": "Shannon Anderson trimmed the fur around Holly's eyes during the 1:35pm visit, to tide her over until her grooming appointment. The email does not say who asked for this - office should confirm it was authorised and note that a grooming appointment is pending. Holly's stool was firm and healthy.",
      "quote": "I helped trim the fur around her eyes to help until her grooming appointment"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Shannon Anderson visit report, Oct 11 12:39pm",
-     "office": false,
-     "note": "Shannon pulled the front door closed on leaving but did not lock it. The report also records the client as home during the visit, so this may have been intentional - unclear from the report.",
-     "quote": "I did pull the front door closed, I did not lock it."
     }
    ],
    "dormant": false
