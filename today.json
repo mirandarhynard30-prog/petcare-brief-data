@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T11:35:47-04:00",
+ "generated": "2026-10-16T14:05:06-04:00",
  "date": "2026-10-16",
  "label": "Oct 16, 2026",
  "clients": [
@@ -155,8 +155,8 @@
      "pets": "chloe"
     },
     {
-     "time": "2:00 PM",
-     "sort": "1400",
+     "time": "2:30 PM",
+     "sort": "1430",
      "staff": "Harvett Ellington",
      "service": "Dog Visit-30 minute",
      "pets": "chloe"
@@ -186,7 +186,26 @@
      "pets": "Archie"
     }
    ]
+  },
+  {
+   "name": "Test Visit 2",
+   "visits": [
+    {
+     "time": "2:30 PM",
+     "sort": "1430",
+     "staff": "Miranda",
+     "service": "Shadow Visit with Staff Member-30 minute",
+     "pets": "Axel, Hazel, Sassie, Silas"
+    },
+    {
+     "time": "2:30 PM",
+     "sort": "1430",
+     "staff": "Chrissy George",
+     "service": "Dog Visit-30 minute",
+     "pets": "Axel, Hazel, Sassie, Silas"
+    }
+   ]
   }
  ],
- "visitCount": 17
+ "visitCount": 19
 }
