@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T12:20:07-04:00",
+ "generated": "2026-10-16T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3278,6 +3278,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Client private message 1:08 PM",
+     "office": true,
+     "note": "Client asks by private message at 1:08 PM whether she has a walker today. Unanswered as of this run. She is on today's schedule, so someone needs to confirm who is coming and when.",
+     "quote": "Do I have a walker today"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -3386,16 +3396,6 @@
      "office": false,
      "note": "Shannon pulled the front door closed on leaving but did not lock it. The report also records the client as home during the visit, so this may have been intentional - unclear from the report.",
      "quote": "I did pull the front door closed, I did not lock it."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Client message, 12:08pm",
-     "office": false,
-     "note": "Lynne says she is home today, so the sitter should expect her there at the visit. No change to the visit requested.",
-     "quote": "I’m home today. See you later."
     }
    ],
    "dormant": false
@@ -5328,6 +5328,26 @@
      "quote": "Each dog gets 1/2 cup of kibble both AM and PM"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Ashley Corall message to client 12:32 PM",
+     "office": true,
+     "note": "The sitter asked the client at 12:32 PM whether she should feed the dogs as well. The standing feeding rule already on file is half a cup of kibble per dog at both the AM and PM visit, so the sitter does not appear to have that instruction. No client answer to the question appears in the mail.",
+     "quote": "Would you like me to feed them as well?"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Ashley Corall visit report 12:46 PM",
+     "office": false,
+     "note": "Oct 16 midday visit: both dogs went #1, Rosie also went #2 and the sitter called it a little loose; the report's consistency field for Rosie reads 'It was a little loose but not concerning'. Frankie had no #2, logged as 'No #2 today'. First loose-stool reading for Rosie in the mail. The walk was cut short and kept close to home because of rain, so no trip to the lake.",
+     "quote": "only Rosie went #2 which seemed a little loose"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -5406,26 +5426,6 @@
      "office": false,
      "note": "Packages arrived as Tiarra was leaving the Oct 14 visit and she left them inside the laundry room.",
      "quote": "I placed them on the dryer, inside the laundry room"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 8",
-     "source": "Visit report",
-     "office": false,
-     "note": "Monica Hopewell showed Tiarra Roberts the fenced back yard that can be used instead of a walk in bad weather, and the water dispenser. Water bowls were refreshed and both dogs went #1 on the 3:30pm walk.",
-     "quote": "Monica showed me the backyard fenced in area, for in case of bad weather."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Ashley Corall 1:51pm report",
-     "office": false,
-     "note": "Rosie expects her ball at the park; Ashley arrived without it. Seen once, not confirmed by the owner as a rule.",
-     "quote": "I forgot Rosie’s ball so she gave my first strike"
     }
    ],
    "dormant": false
