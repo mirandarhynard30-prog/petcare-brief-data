@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T11:20:06-04:00",
+ "generated": "2026-10-16T12:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -943,6 +943,16 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Elizabeth Sigler messages, 10:16 AM and 10:49 AM",
+     "office": false,
+     "note": "Access problem at Chloe's morning visit: the front door was locked on arrival, so the sitter went to the side door and a workman in the basement let her in and pointed her upstairs. The report notes the client was home and asked that the door not be locked; the sitter removed the door lock and left it on the floor on the way out. One occurrence only - not established as a recurring access issue.",
+     "quote": "the front door was still locked."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1001,16 +1011,6 @@
      "office": false,
      "note": "Chloe was asleep upstairs and the sitter carried her downstairs to go out. She then walked for quite a bit and stool was firm. Unclear from the report whether carrying was needed or just a courtesy for a sleeping dog - worth asking before treating it as a rule.",
      "quote": "Chloe was upstairs sleeping. I carried her downstairs to go outside."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Harvett Ellington visit report, Oct 5 around 10am",
-     "office": false,
-     "note": "Chloe's stool on the Oct 5 morning walk was ticked firm and healthy. She went both #1 and #2 on a long walk and the report records no wheezing or any other problem.",
-     "quote": "It was firm and healthy"
     }
    ],
    "dormant": false
@@ -3082,7 +3082,8 @@
    "pets": [
     "Milo",
     "Archer",
-    "Carl"
+    "Carl",
+    "Archie"
    ],
    "items": [
     {
@@ -3149,6 +3150,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 16",
+     "source": "Elizabeth Sigler visit report, 12:02 PM",
+     "office": true,
+     "note": "Update on Milo's loose stool. At today's visit Milo was excited to see the sitter, walked most of the way down the street and crated willingly at the end. The report records Milo as going #1 only, so no stool consistency was logged for him today - today's visit neither confirms nor clears the diarrhea. Archie's stool was recorded as firm and healthy.",
+     "quote": "Archie, Milo, and the cat were excited to see me when I got there."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 13",
      "source": "Alex Miller visit report, 12:24pm",
      "office": false,
@@ -3194,16 +3205,6 @@
      "office": false,
      "note": "The sitter had to keep both dogs off the cat during the visit, and Milo tried to tackle Archer when they came back in from the walk. She put Milo back in his crate before leaving. Both walked well with little pulling.",
      "quote": "I had to defend the cat from Milo and Archer."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message 12:00pm",
-     "office": false,
-     "note": "Sitter found Archer shut in a bedroom and asked whether to put him back; client said yes, he is meant to be there, and also asked that Milo go back in his crate. Cleaners are in the house today, which is the reason given.",
-     "quote": "Also please put Milo back in the crate so he doesn’t bother the cleaners!"
     }
    ],
    "dormant": false
@@ -8158,6 +8159,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 16",
+     "source": "Client private message to Miranda, 11:15 AM",
+     "office": true,
+     "note": "Follow-up to the rain cancellation of Boo's walk. She asks for billing to be corrected and asks directly whether walkers do not walk in the rain - still unanswered. Repeats that there was no rain at her house and that neighbours were out walking their dogs, and calls the short notice unacceptable.",
+     "quote": "So do walkers not walk in the rain?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 9",
      "source": "Client private message 12:48pm",
      "office": true,
@@ -8183,6 +8194,16 @@
      "office": true,
      "note": "In passing the client says she will walk Boo once her meds kick in. She does not name the medication, the dose or the timing, and nothing on file for this client mentions a medication - office should confirm whether Boo is on anything that affects walk timing.",
      "quote": "Boo is looking out window but I will take her later as soon as meds kick in."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Dan Dantimo message to client, 11:16 AM",
+     "office": true,
+     "note": "Dan Dantimo has already promised her that next time weather threatens a walk he will message her through Time To Pet to check conditions at her address before calling it off. Office should know this commitment was made before calling her back.",
+     "quote": "the next time this situation occurs I will contact you via time to pet to see the weather in your area"
     },
     {
      "cat": "health",
