@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T10:20:09-04:00",
+ "generated": "2026-10-16T11:35:47-04:00",
  "date": "2026-10-16",
  "label": "Oct 16, 2026",
  "clients": [
@@ -35,30 +35,6 @@
    ]
   },
   {
-   "name": "Charlene Szunyog",
-   "visits": [
-    {
-     "time": "11:15 AM",
-     "sort": "1115",
-     "staff": "Kristin Ashick",
-     "service": "Dog Visit-30 minute",
-     "pets": "Murphy"
-    }
-   ]
-  },
-  {
-   "name": "Deb Ward",
-   "visits": [
-    {
-     "time": "11:15 AM",
-     "sort": "1115",
-     "staff": "Dan Dantimo",
-     "service": "Dog Visit-30 minute",
-     "pets": "Guinness"
-    }
-   ]
-  },
-  {
    "name": "Gina Sullivan",
    "visits": [
     {
@@ -79,18 +55,6 @@
      "staff": "Kristin Ashick",
      "service": "Dog Visit-30 minute",
      "pets": "Astra"
-    }
-   ]
-  },
-  {
-   "name": "Joan (Lynn) Stemmer",
-   "visits": [
-    {
-     "time": "10:30 AM",
-     "sort": "1030",
-     "staff": "Dan Dantimo",
-     "service": "Dog Visit-30 minute",
-     "pets": "BooBoo"
     }
    ]
   },
@@ -224,5 +188,5 @@
    ]
   }
  ],
- "visitCount": 20
+ "visitCount": 17
 }
