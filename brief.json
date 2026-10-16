@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T18:20:06-04:00",
+ "generated": "2026-10-15T21:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2376,6 +2376,16 @@
     "Daffodil"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 15",
+     "source": "Kristin Brewer private message, 8:14pm",
+     "office": true,
+     "note": "Replying to an office check-in, the client asked for one visit at her usual lunch time and named Kathy as her preference, saying they can make other arrangements if Kathy is not available. AMBIGUOUS - she wrote only \"Thursday\" with no date, and the message arrived Thursday evening, so it is unclear whether she means Oct 16 or Oct 22. Office needs to confirm the date and whether Kathy can take it.",
+     "quote": "I think just Thursday for now, typical lunch time - if that works."
+    },
     {
      "cat": "schedule",
      "sev": "medium",
