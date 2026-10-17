@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T13:20:05-04:00",
+ "generated": "2026-10-17T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7253,6 +7253,16 @@
      "quote": "so I put both there mask on and leash Zoey and we went outside"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Elizabeth Sigler visit report 1:51 PM",
+     "office": false,
+     "note": "Both dogs wore protective masks before outside time at the 1:00 PM visit; Zoey was also leashed and the outside time was in the fenced back yard. Reported once by a shadowing sitter, so whether masks are a standing rule for every visit is not confirmed here.",
+     "quote": "Both of them were so good about getting their protective masks put on!"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7313,6 +7323,26 @@
      "quote": "There is a switch for the light right by the door but it doesn’t light up very far"
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Elizabeth Sigler visit report 1:51 PM",
+     "office": false,
+     "note": "Both ate the wet food immediately but left most of the dry food at the 1:00 PM visit. Single observation.",
+     "quote": "Most of the dry food is left."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Drew Walker message 1:47 PM",
+     "office": true,
+     "note": "Two sitters show on the same 1:00 PM visit because Elizabeth Sigler was shadowing Drew Walker and wrote the report. Not a duplicate booking, but confirm it is billed as one visit.",
+     "quote": "Elizabeth is shadowing me today, she'll be writing the report."
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -7331,36 +7361,6 @@
      "office": true,
      "note": "The Oct 3 evening report says the dogs were leashed and a mask was put on before going outside. It is not clear from the email what this refers to - a muzzle, a head halter, or the sitter's own face mask - and no such instruction appears elsewhere. Worth confirming with the sitter before another sitter follows it.",
      "quote": "Gave them love, leashed up, mask on and went outside"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Visit report, Kiara Streety, Oct 3 evening",
-     "office": true,
-     "note": "The sitter closed her Oct 3 evening report by wishing the client a safe trip home, which reads as the client travelling back. Nothing was said by the client and no visit was cancelled; worth checking whether the remaining visits still stand.",
-     "quote": "Have a safe travel back home!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 2",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "Waste bags go in the trash can by the door, per the client's own instruction. Paws are wiped at the door before the dogs come back inside.",
-     "quote": "Put the poop bags in the trash by the door where you said it was"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 1",
-     "source": "Nicole Smith pet record update - Bear",
-     "office": false,
-     "note": "Vet of record added for Bear: Avon Animal Hospital, 37160 Detroit Rd, Avon, OH 44011, (440) 934-6516. Client entered this herself on Oct 1; it had been blank.",
-     "quote": ""
     }
    ],
    "dormant": false
