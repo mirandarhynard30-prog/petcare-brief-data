@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T15:20:05-04:00",
+ "generated": "2026-10-17T17:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3002,6 +3002,16 @@
      "office": false,
      "note": "Harvett Ellington messaged at 2:35 PM that she will arrive between 3:45 and 3:55 PM this afternoon. That is the planned return she flagged in her 11:28 AM report, when she took out most of the trash but left the one large bag she could not carry, so the large bag should be cleared at this visit. The message itself does not mention the bag again.",
      "quote": "Good afternoon, I will arrive between 345-355pm"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Harvett Ellington visit report, Oct 17 4:31 PM",
+     "office": true,
+     "note": "The planned afternoon return happened. Harvett's 4:31 PM report says she took out the trash under the sink and rinsed cans for recycling, and the trash/recycling question is marked Yes, but it does not say whether the large bag she left that morning actually went out. Unconfirmed either way - the office may want to check so the open large-bag task can be closed. Client (Trudy) was home during the visit and Harvett told her she would see her in the morning.",
+     "quote": "Took out the trash under the sink and rinsed out cans for recycling."
     },
     {
      "cat": "home",
