@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T11:20:05-04:00",
+ "generated": "2026-10-17T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2977,6 +2977,16 @@
      "cat": "home",
      "sev": "low",
      "type": "recent",
+     "date": "Oct 17",
+     "source": "Harvett Ellington visit report, 11:28 AM",
+     "office": false,
+     "note": "Harvett's 11:28 AM report says she took out most of the trash and left the large bag for a planned afternoon return, so that bag is still an open task. No mail was present, no accidents, and no supplies low. The client was home during the visit.",
+     "quote": "Took out most trash will return in the afternoon for the large bag."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
      "date": "Oct 11",
      "source": "Vicki Davey, client message",
      "office": false,
@@ -3228,6 +3238,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Lynne Reno private message, 11:34 AM",
+     "office": false,
+     "note": "Client wrote by private message at 11:34 AM that she is out running errands, has left the door open and Holly is ready to go. This is the opposite of her standing access rule, which says she will be home and hands Holly off at the door, so the sitter should not expect anyone to answer. The message does not say which of today's visits it covers, so it is unclear whether it applies to a visit happening at the time she wrote or to the 1:00 PM one.",
+     "quote": "I’m running errands. Door open and she is raring to go"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -3336,16 +3356,6 @@
      "office": false,
      "note": "Same edit emptied Company Notes and the Dog Overview line saying Holly prefers walks over the fenced backyard went with it. The logistics survived into Important Notes: client home, leash handed off at the front door, a cat to watch on entry and exit, purple slip lead and poop bags on the front-door coat rack, water bowl by the front door, used bags left by the front door.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Shannon Anderson visit report, 1:35pm",
-     "office": true,
-     "note": "Shannon Anderson trimmed the fur around Holly's eyes during the 1:35pm visit, to tide her over until her grooming appointment. The email does not say who asked for this - office should confirm it was authorised and note that a grooming appointment is pending. Holly's stool was firm and healthy.",
-     "quote": "I helped trim the fur around her eyes to help until her grooming appointment"
     }
    ],
    "dormant": false
