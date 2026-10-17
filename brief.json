@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T09:20:06-04:00",
+ "generated": "2026-10-17T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2057,11 +2057,31 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 17",
+     "source": "Charlene Szunyog has sent you a new message.",
+     "office": true,
+     "note": "Client missed today's 10:05 AM walk - she says she and Phil double-booked a grooming appointment against the walk she had scheduled. Sitter waited about 15 minutes and left without seeing Murphy. Needs a billing and reschedule decision from the office.",
+     "quote": "Phil and I had our schedules mixed up. He made a grooming appointment this morning at the same time as I scheduled the walk."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 16",
      "source": "Client private message 10:33am",
      "office": true,
      "note": "Client asks to scrap today's walk because of several bands of rain over the next hour and a half, and asks whether Murphy can walk tomorrow (Sat Oct 17) late morning instead. Needs an office reply and a schedule change for both days.",
      "quote": "If we scrap it for today, any chance he could walk tomorrow late morning?"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Tiarra Roberts left a message for Charlene Szunyog.",
+     "office": false,
+     "note": "Oct 17, 10:05 AM arrival: garage was closed on arrival. Sitter opened the garage, knocked on the garage door and the glass door, knocked at the front door and rang the Ring doorbell. No answer after about 15 minutes and Murphy could not be heard inside. The standing note expects the client to have Murphy ready, so an unanswered arrival means the visit cannot proceed.",
+     "quote": "I arrived and saw the garage was closed."
     },
     {
      "cat": "schedule",
@@ -2152,26 +2172,6 @@
      "office": false,
      "note": "The second dog in the home can react to other dogs by barking and pulling.",
      "quote": "Macy can be dog reactive (barking and pulling)"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Visit report 10:36am",
-     "office": false,
-     "note": "Oct 13 morning walk: Murphy sniffed through the first quarter and ignored other dogs. The sitter let him investigate rather than hurrying him. #1 only, no #2.",
-     "quote": "He was in sniffing mode on the first quarter of the walk"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 6",
-     "source": "Client message 2:46pm",
-     "office": false,
-     "note": "Client endorses longer walks for Murphy, responding to Monica Hopewell taking him further than usual. Sits alongside the existing care-note instruction to keep him moving rather than stopping to sniff. Stated once, on Oct 6, so treat as her preference rather than a written note until it is entered in Time To Pet.",
-     "quote": "It’s good for him to go further!"
     }
    ],
    "dormant": false
@@ -2511,6 +2511,16 @@
      "cat": "health",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 17",
+     "source": "Tiarra Roberts updated contact information for Matt Konn.",
+     "office": true,
+     "note": "Important Notes were re-saved Oct 17 at 10:54 AM and the multivitamin line still names no time of day, while the line above it says to feed 2 times per day. Read literally that is 2 vitamins at every feeding. Ambiguous as written - the office needs to say which visit the vitamins belong to.",
+     "quote": "Feed 2 Dog is Human multivitamin with food, if he has them on kitchen counter"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
      "date": "Oct 16",
      "source": "Tiarra Roberts updated contact information for Matt Konn, 4:35 PM",
      "office": true,
@@ -2606,16 +2616,6 @@
      "office": true,
      "note": "The sitter could not get Ripley's collar or leash on at all despite trying hard, so she used the fenced back yard instead of walking her. The walk only happened once Matt got home and leashed Ripley himselin Second report in four days of Ripley resisting the leash - the Oct 4 report also described it taking longer than normal. Office needs a handling plan from Matt rather than each sitter working it out alone.",
      "quote": "After trying really hard to get her leashed up, we just went outside to the fenced in area."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts visit report",
-     "office": true,
-     "note": "Main garage door keypad would not light up when the code was entered and may be dead; Tiarra got in through the secondary garage instead. Needs the office to confirm with Matt and arrange a fix.",
-     "quote": "I believe the main garage door keypad may be dead, it would not light up when putting the code in"
     }
    ],
    "dormant": false
@@ -3012,6 +3012,16 @@
      "office": true,
      "note": "Bella's #2 on the Sep 27 morning visit was logged as frank diarrhea - the report's consistency field reads very loose/diarrhea, with the sitter noting the pet seemed fine otherwise. Chelsea also wrote that Bella went #1 a few times and #2 twice. This is the second frank-diarrhea reading in eight days; the brief already carries the same finding for Sep 20. No vet contact and no client reply are recorded for either.",
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Chelsea Tompkins left a message for Jennifer Peganoff.",
+     "office": false,
+     "note": "Oct 17, 10:00 AM visit: Bella passed two stools and urinated several times. Sitter logged the consistency as a little loose but not concerning. Bella's Oct 11 stool was logged very loose, so soft stool has now been seen twice in a week - worth a consistency note at every visit.",
+     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
