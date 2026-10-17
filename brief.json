@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T17:20:07-04:00",
+ "generated": "2026-10-17T19:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -883,6 +883,26 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Client message 6:17 PM",
+     "office": true,
+     "note": "Client asked at 6:17 PM tonight for an extra visit between 8:00 and 8:30 PM - she will be out later than expected. A backyard let-out is enough; no walk required. Her 7:01 PM follow-up (“yay! thanks”) reads as though the office already agreed, but confirm it is on the schedule and assigned.",
+     "quote": "Is there anyway that someone may be able to come and walk Chloe or really just let her out in the backyard"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Client message 7:01 PM",
+     "office": false,
+     "note": "For tonight's visit the client says the back gate is open - stay with Chloe the whole time she is out back, do not leave her unattended in the yard. Client wrote this at 7:01 PM on Oct 17; it is not stated as a permanent condition, so treat it as current rather than standing.",
+     "quote": "please stay with her because the gate is open"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -921,6 +941,16 @@
      "office": false,
      "note": "Ellie Mae has died. Melody told the office on the afternoon of Aug 31. Only Chloe remains on visits from now on. Do not ask after Ellie Mae or expect her at the house; earlier standing notes about minimising her walking no longer apply.",
      "quote": "our sweet ellie passed away today."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Client message 7:01 PM",
+     "office": false,
+     "note": "Chloe had a bath and haircut Oct 17 and is not wearing her harness. Client says it is on the table in the little breakfast room off the kitchen if you want to walk her; otherwise out back and some attention for a few minutes is fine.",
+     "quote": "chloe got a bath and haircut today so she isn’t wearing her harness"
     },
     {
      "cat": "home",
@@ -971,26 +1001,6 @@
      "office": false,
      "note": "Chloe's soft-stool watch from Oct 12 looks closed. On this afternoon visit she went both #1 and #2 and the consistency field reads firm and healthy, the first firm reading since Oct 12. Quote left empty on purpose: the form wording is identical across clients and the relay de-duplication key would collide.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Harvett Ellington report, Oct 12 afternoon",
-     "office": false,
-     "note": "Chloe's #2 was soft on the Oct 12 afternoon walk. The sitter wrote soft but not loose; the report's own consistency field says a little loose but not concerning - the two wordings disagree slightly. Longer walk than usual otherwise. Melody was home and asked that the door not be locked.",
-     "quote": "Went numbers one and two (soft, not loose)."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Harvett Ellington visit report",
-     "office": false,
-     "note": "Chloe was asleep upstairs and the sitter carried her downstairs to go out. She then walked for quite a bit and stool was firm. Unclear from the report whether carrying was needed or just a courtesy for a sleeping dog - worth asking before treating it as a rule.",
-     "quote": "Chloe was upstairs sleeping. I carried her downstairs to go outside."
     }
    ],
    "dormant": false
