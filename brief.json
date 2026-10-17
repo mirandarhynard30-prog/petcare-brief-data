@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T14:20:06-04:00",
+ "generated": "2026-10-17T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2992,6 +2992,16 @@
      "office": false,
      "note": "Harvett's 11:28 AM report says she took out most of the trash and left the large bag for a planned afternoon return, so that bag is still an open task. No mail was present, no accidents, and no supplies low. The client was home during the visit.",
      "quote": "Took out most trash will return in the afternoon for the large bag."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Harvett Ellington message to client, Oct 17 2:35 PM",
+     "office": false,
+     "note": "Harvett Ellington messaged at 2:35 PM that she will arrive between 3:45 and 3:55 PM this afternoon. That is the planned return she flagged in her 11:28 AM report, when she took out most of the trash but left the one large bag she could not carry, so the large bag should be cleared at this visit. The message itself does not mention the bag again.",
+     "quote": "Good afternoon, I will arrive between 345-355pm"
     },
     {
      "cat": "home",
