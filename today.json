@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T09:35:06-04:00",
+ "generated": "2026-10-17T19:05:55-04:00",
  "date": "2026-10-17",
  "label": "Oct 17, 2026",
  "clients": [
@@ -152,6 +152,18 @@
    ]
   },
   {
+   "name": "Melody Siska",
+   "visits": [
+    {
+     "time": "8:00 PM",
+     "sort": "2000",
+     "staff": "Kiara Streety",
+     "service": "Last Minute Visit- 30 minute",
+     "pets": "chloe"
+    }
+   ]
+  },
+  {
    "name": "Nicole Smith",
    "visits": [
     {
@@ -197,5 +209,5 @@
    ]
   }
  ],
- "visitCount": 19
+ "visitCount": 20
 }
