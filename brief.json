@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T21:20:06-04:00",
+ "generated": "2026-10-16T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1225,6 +1225,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Tiarra Roberts evening visit report, 7:35 PM Oct 16",
+     "office": false,
+     "note": "Evening eyedrop and medication routine confirmed again on the Oct 16 7:14 PM visit. Mary Ann was home and the sitter assisted her rather than giving them alone, same as the Oct 1, Oct 5 and Sep 27 reports.",
+     "quote": "Then, helped Mary Ann administer eyedrops and medicine"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -1333,16 +1343,6 @@
      "office": false,
      "note": "Georgie's orange cooling collar is now stored in the FREEZER, not the fridge. Same rule otherwise - over 75 degrees, put it on before the walk and slip the harness over it. Sitters checking the fridge will not find it.",
      "quote": "Orange cooling collar in freezer, if temp is over 75 degrees, put on before walk- slip harness over cooling collar"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Tiarra Roberts updated contact information for Mary Ann Mckeever",
-     "office": false,
-     "note": "Company Notes rewritten Sep 17 by Tiarra Roberts. Arrival routine, unchanged from the previous version: enter through the garage, ring the white doorbell button to the left of the door into the house before entering, close the garage door before entering and keep it closed during the walk. Mary will most likely be home and uses a walker. At the end of the visit turn off the laundry room light and close the garage door keypad flap. No codes are recorded here - they stay in Time To Pet.",
-     "quote": "Ring white doorbell button before entering (white button to left of door into house)"
     }
    ],
    "dormant": false
@@ -2578,6 +2578,16 @@
      "quote": "Just showing her the remote caused her to come to me and sit."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Tiarra Roberts bedtime visit report, 9:24 PM Oct 16",
+     "office": true,
+     "note": "The double-dose risk did NOT materialise today. The 9:24 PM bedtime report logs no multivitamin and no food fed - only a walk, water refreshed, food bowl washed and a treat - so Ripley got 2 Dog is Human vitamins on Oct 16 in total, at the 4:33 PM visit. The Important Notes wording restored at 4:35 PM ('Feed 2 Dog is Human multivitamin with food') is still ambiguous for future days against the deleted Oct 14 wording of 2 in the morning and 2 at bedtime. Office should fix the wording before the next sitter works both visits.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -2666,16 +2676,6 @@
      "office": false,
      "note": "Oct 1 morning walk: Ripley reacted strongly on leash to a neighbouring dog the sitter calls Archie, just outside the garage. Sitter needed a firmer voice to settle her, rerouted to the shorter cul-de-sac, and Ripley stayed on high alert for the rest of the walk; they crossed paths again on the way back with no incident. Reported once so far, not yet confirmed as a standing rule.",
      "quote": "we had just passed under the garage door when Ripley went berserk. Archie her arch nemesis was passing by."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Client private message 9:02am Sep 29",
-     "office": true,
-     "note": "Matt sent a private message at 9:02am this morning asking for two visits a day on Thursday, Friday and Saturday - windows 7-9 AM and 1-3 PM - while he is out of town 10/1 to 10/4. He says his daughter will be at the house and apologises for the short notice. This is a request in a message, not a booking placed in the system, and no reply is visible yet.",
-     "quote": "Can I get 2 visits on Thurs/Fri/Sat? 7-9 am & 1-3 pm"
     }
    ],
    "dormant": false
@@ -5508,6 +5508,26 @@
      "quote": "Miley is usually sleeping on the bed, in the bedroom"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Tiarra Roberts evening visit report, 5:10 PM Oct 16",
+     "office": false,
+     "note": "Miley's evening medication was given first thing on the Oct 16 visit and she took it without difficulty - second easy dosing in two days.",
+     "quote": "It went calmly and easily."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 16",
+     "source": "Tiarra Roberts evening visit report, 5:10 PM Oct 16",
+     "office": true,
+     "note": "The Oct 16 evening visit went well past the scope the client set on Oct 13 (evening is Miley's second Felimazole dose only, nothing else added). The sitter also scooped the litterbox, checked the LitterRobot, topped the fountain with spring water, fed Churu, brought the mail in, added recyclables to the bin and emptied the kitchen trash. Unclear whether the client's Oct 13 limit still stands or has been superseded - office should confirm.",
+     "quote": "I scooped the litterbox and checked the LitterRobot."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -5556,26 +5576,6 @@
      "office": false,
      "note": "Notes consolidated into Important Notes. Two details lost: where the outdoor cats' plastic house sits, and topping off the water fountain each visit using the gauge on the side.",
      "quote": "The pet house is located at the back of house, next to back door."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Brittany Lisbon private message to the office, Oct 5",
-     "office": true,
-     "note": "Client says she has requested evening times for her upcoming visit so the second Felimazole pill can be given at night. Office should confirm the evening visit times are on the schedule. She did not name the dates in the message.",
-     "quote": "I just requested the evening times for my upcoming visit."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts updated contact information for Brittany Lisbon (4:21 PM)",
-     "office": true,
-     "note": "The 4:21 PM rewrite retitled the section 'AM Feeding Instructions' and deleted the line giving the window, so the notes say morning without saying when. Miley's blood-pressure quarter-pill and the three-wet-cans-on-one-plate line are unchanged. Worth settling because the medication goes in a pill pocket with the food.",
-     "quote": "Feed in morning (around 6-11am)"
     }
    ],
    "dormant": false
