@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T12:20:06-04:00",
+ "generated": "2026-10-17T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1528,6 +1528,16 @@
     "Bismark"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Elizabeth Sigler visit report",
+     "office": false,
+     "note": "Bismark got past the gate but laid down after a couple of steps and would not walk; sitter spent the rest of the visit with him in the fenced backyard instead.",
+     "quote": "I didn’t have much trouble getting him past the gate, but then he laid down pretty quickly."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -3731,6 +3741,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 17",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Guinness went #2 twice on the walk; sitter logged the consistency as a little loose but not concerning. Single observation, no other symptoms noted.",
+     "quote": "he went number one and two (twice)"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 15",
      "source": "Dan Dantimo visit report, Oct 15 12:53pm",
      "office": false,
@@ -3836,16 +3856,6 @@
      "office": true,
      "note": "Midday walk with Dan Dantimo: Guinness went both #1 and #2 on an extended walk down to Jaycox, and Dan answered the report's #2 consistency field with the a-little-loose-but-not-concerning option again. That is the eleventh loose reading logged since Sep 11 and no vet contact appears anywhere in the record. Quote deliberately left empty - the verbatim wording is identical to an already-published Sep 30 health item for another client and the current de-duplication key would silently drop one of them.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Visit report, Dan Dantimo, Sep 28 12:47 PM",
-     "office": false,
-     "note": "Guinness went #2 on the midday walk and the sitter logged the consistency as loose. Walk itself was normal and energetic.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
