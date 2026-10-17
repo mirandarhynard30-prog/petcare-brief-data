@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T08:20:10-04:00",
+ "generated": "2026-10-17T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5428,6 +5428,16 @@
      "quote": "Miley is usually sleeping on the bed, in the bedroom"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Tiarra Roberts visit report, Oct 17 8:21 AM",
+     "office": false,
+     "note": "The dry-food gravity feeder came apart on the Oct 17 morning visit when the sitter lifted it by the top half, spilling dry food across the floor and the green mat. She cleaned it up, washed and replaced the mat, and noted the feeder has to be lifted from the bottom. Treat as one sitter's experience, not yet a confirmed standing rule.",
+     "quote": "The gravity feeder top-half came off and dry food was everywhere."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -5486,16 +5496,6 @@
      "office": false,
      "note": "The cats are given spring water, not tap - the indoor cats' bowls were topped off with it and the sitter was told the outdoor cats get spring water as well.",
      "quote": "I was told that the outdoor cats get spring water as well."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 13",
-     "source": "Note rewrite 10:54am",
-     "office": false,
-     "note": "Notes consolidated into Important Notes. Two details lost: where the outdoor cats' plastic house sits, and topping off the water fountain each visit using the gauge on the side.",
-     "quote": "The pet house is located at the back of house, next to back door."
     }
    ],
    "dormant": false
