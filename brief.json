@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T22:20:05-04:00",
+ "generated": "2026-10-17T08:20:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -680,16 +680,6 @@
      "quote": "Terrys schedule has changed again this week so he will be working from home Friday so we need to cancel Fridays visit"
     },
     {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Ashley Corall visit report",
-     "office": false,
-     "note": "Rex slipped out of his harness on the client's own street while he and CJ were wrestling, and ran loose to the front porch. He did not respond to being called. Sitter says he is unhurt, the street was quiet, and both dogs were crated and secure at the end of the visit. Harness was not broken.",
-     "quote": "Rex completely slipped his harness and went running straight home to the front porch"
-    },
-    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -921,16 +911,6 @@
      "office": true,
      "note": "Client asked this evening for a same-day walk for Chloe tonight between 8:30 and 9:30pm; the office replied and she thanked us, so a sitter needs to be confirmed and scheduled for tonight.",
      "quote": "Hi any chance we could get someone here this evening to walk Chloe between 8:30-9:30 timeframe?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client message 9:17am Sep 25",
-     "office": true,
-     "note": "Melody messaged at 9:17am on Sep 25 to say Chloe does not need walking today because they are at home. No reply or portal cancellation notice had come through as of 10:15am, so today's walk still needs cancelling in the system.",
-     "quote": "If it's not too late, Chloe doesn't need walking today. We are at home."
     },
     {
      "cat": "health",
@@ -1489,16 +1469,6 @@
      "quote": "Check side, back gate is CLOSED (left corner) before letting them out"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client private message, 3:53pm",
-     "office": true,
-     "note": "Client is retrying the Michigan day trip on Monday Sep 28 - away 7am to about 5:30pm - and wants 3 visits spaced no more than 4 hours apart. She asks whether she should submit the request herself or the office will enter it. That question was unanswered in the mailbox at the time of this run.",
-     "quote": "We will be gone from 7 am to approx 5:30 pm. I would like 3 visits no more than 4 hours apart."
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1527,16 +1497,6 @@
      "office": false,
      "note": "Company Notes now name which side of the kennel each girl goes back into: India on the left, Lila on the right. That detail was not in the previous version, which only said to put them back in the side they were in originally. Treat location also clarified to on top of the kennel in the dog room.",
      "quote": "India; left and Lila; right"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client private message, 4:08pm",
-     "office": true,
-     "note": "Fifteen minutes after the trip request she wrote this, which suggests someone in the office answered her inside Time To Pet. No reply is visible in this mailbox, so whether the three Monday visits are actually on the schedule is unconfirmed.",
-     "quote": "Looks good. Thank you"
     },
     {
      "cat": "behavior",
@@ -1637,16 +1597,6 @@
      "office": false,
      "note": "Bismark walked to the corner today, went #1, then wanted home. One visit only; the standing no-walk note still holds.",
      "quote": "he was ready to go back home after that"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "Sitter reports Bismark resists going back indoors after outside time. Single observation from the Sep 25 visit, not previously recorded.",
-     "quote": "he definitely never wants to go back inside he fights lol"
     },
     {
      "cat": "behavior",
@@ -1847,16 +1797,6 @@
      "office": false,
      "note": "How to tell the two dogs apart, never carried in the brief before. Matters here because the brief already records that Nova comes back when called and Astra bolts, so a sitter needs to know which dog is on the leash.",
      "quote": "Astra wears black harness with teal leash. Nova wears pink and purple harness with rainbow leash."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Monica Hopewell visit report 10:44am",
-     "office": false,
-     "note": "On the Sep 25 morning walk Astra turned back toward someone near the stop sign, wrapped her leash around the post and was badly startled. Single incident, not a standing rule, but worth knowing given the existing escape-risk note that Astra bolts if she gets loose. She went #1 only, no #2.",
-     "quote": "her leash got wrapped around the stop sign and it spooked her so bad"
     }
    ],
    "dormant": false
@@ -2560,6 +2500,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Tiarra Roberts visit report, 7:34 AM",
+     "office": true,
+     "note": "Sitter gave Ripley 2 Dog is Human multivitamins at the morning visit and says she returns around 1pm, and she also covers the late evening visit today. The Important Notes line does not say which visit the 2 vitamins belong to, so the same dose could be repeated at every visit. Office should confirm the intended daily total and which visit it belongs to before the 1:00 PM visit.",
+     "quote": "I gave her 2 Dog is Human multivitamins, as well this morning."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "standing",
      "date": "Oct 16",
      "source": "Tiarra Roberts updated contact information for Matt Konn, 4:35 PM",
@@ -2666,16 +2616,6 @@
      "office": true,
      "note": "Main garage door keypad would not light up when the code was entered and may be dead; Tiarra got in through the secondary garage instead. Needs the office to confirm with Matt and arrange a fix.",
      "quote": "I believe the main garage door keypad may be dead, it would not light up when putting the code in"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Monica Hopewell visit report",
-     "office": false,
-     "note": "Oct 1 morning walk: Ripley reacted strongly on leash to a neighbouring dog the sitter calls Archie, just outside the garage. Sitter needed a firmer voice to settle her, rerouted to the shorter cul-de-sac, and Ripley stayed on high alert for the rest of the walk; they crossed paths again on the way back with no incident. Reported once so far, not yet confirmed as a standing rule.",
-     "quote": "we had just passed under the garage door when Ripley went berserk. Archie her arch nemesis was passing by."
     }
    ],
    "dormant": false
@@ -4089,16 +4029,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client private message, 4:53pm",
-     "office": true,
-     "note": "Client confirms in a private message that she is going on vacation and Aayla will be staying with her parents for the week. This is a reply to an office question that is not visible in this mailbox, so WHICH week she means is unconfirmed - it may or may not be the Oct 6 to Oct 29 service order request she placed Sep 19 that is still awaiting approval. If Aayla is at the grandparents' house those visits would not be at Megan's home. Office should confirm the dates before approving or declining that order.",
-     "quote": "Yes ma’am that is correct, I am going on vacation and she is staying with my parents for the week!"
-    },
-    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -4117,16 +4047,6 @@
      "office": false,
      "note": "Handling detail from today's walk: the sitter put a harness on Aayla before going outside, so a harness rather than a collar appears to be what is used here. Usual route is a walk around the complex plus a few seconds in the complex dog park, then water and ear scratches back inside. Observed on one visit; not stated anywhere as a standing rule.",
      "quote": "Then I put her harness on , and I took her outside"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 25",
-     "source": "Client message, 4:49pm",
-     "office": false,
-     "note": "FYI for anyone scheduled Saturday Sep 26: the client says Aayla is going to the zoo tomorrow for their \"Bark after dark\" event. She does not say a time or ask for any visit change, so treat this as a heads-up only, not a cancellation.",
-     "quote": "Miss Aayla bug gets to take a little trip to the zoo for their “Bark after dark” tomorrow."
     }
    ],
    "dormant": false
