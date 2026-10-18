@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T07:20:17-04:00",
+ "generated": "2026-10-18T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2924,6 +2924,26 @@
      "quote": "please read the top of the cans cause some things have changed to help Trudy’s situation"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Vicki Davey client message, 8:55 AM",
+     "office": true,
+     "note": "Client asked whether Trudy was downstairs at yesterday morning's visit. Harvett answered at 9:09 AM that Trudy came down near the end of today's visit. Client appears to be tracking whether Trudy is actually seen each visit - make sure Trudy is laid eyes on and that the report says so.",
+     "quote": "Was Trudy downstairs when you got there yesterday morning?"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Vicki Davey client message, 8:53 AM",
+     "office": true,
+     "note": "Client sent a bare challenge with no stated subject. It arrived four minutes after Harvett's 9:20-9:25 AM arrival-window message and 64 seconds before the separate Trudy question. What she is questioning cannot be determined from the notification - open the Time To Pet thread and answer her.",
+     "quote": "Are you sure ?"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2974,6 +2994,16 @@
      "quote": "I told her 10:00 if the doors not open let me no"
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Harvett Ellington visit report, 9:09 AM",
+     "office": false,
+     "note": "Trudy did not appear until Harvett was almost finished with the 9:20 AM visit. Allow her time to come out rather than leaving before she has been seen.",
+     "quote": "Trudy can down when I was almost finished..."
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -2982,36 +3012,6 @@
      "office": false,
      "note": "Harvett's 11:28 AM report says she took out most of the trash and left the large bag for a planned afternoon return, so that bag is still an open task. No mail was present, no accidents, and no supplies low. The client was home during the visit.",
      "quote": "Took out most trash will return in the afternoon for the large bag."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Harvett Ellington message to client, Oct 17 2:35 PM",
-     "office": false,
-     "note": "Harvett Ellington messaged at 2:35 PM that she will arrive between 3:45 and 3:55 PM this afternoon. That is the planned return she flagged in her 11:28 AM report, when she took out most of the trash but left the one large bag she could not carry, so the large bag should be cleared at this visit. The message itself does not mention the bag again.",
-     "quote": "Good afternoon, I will arrive between 345-355pm"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Harvett Ellington visit report, Oct 17 4:31 PM",
-     "office": true,
-     "note": "The planned afternoon return happened. Harvett's 4:31 PM report says she took out the trash under the sink and rinsed cans for recycling, and the trash/recycling question is marked Yes, but it does not say whether the large bag she left that morning actually went out. Unconfirmed either way - the office may want to check so the open large-bag task can be closed. Client (Trudy) was home during the visit and Harvett told her she would see her in the morning.",
-     "quote": "Took out the trash under the sink and rinsed out cans for recycling."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Vicki Davey, client message",
-     "office": false,
-     "note": "For today's visit the client says she will let Trudy know the front door will be left open.",
-     "quote": "Gm I’ll let Trudy no front door will be open have a great day thanks!"
     }
    ],
    "dormant": false
