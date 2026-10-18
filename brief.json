@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T11:20:08-04:00",
+ "generated": "2026-10-18T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3361,6 +3361,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 18",
+     "source": "Tiarra Roberts visit report, 1:22 PM",
+     "office": true,
+     "note": "Sitter told the client she believes she has Holly again next Sunday (Oct 25). Stated as a belief, not a confirmed booking, and said directly to the client - office should check the schedule and confirm or correct it before the client counts on it.",
+     "quote": "I believe I have Holly scheduled next Sunday, as well."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 16",
      "source": "Julie Smith message to client, 1:16 PM",
      "office": false,
@@ -3376,16 +3386,6 @@
      "office": false,
      "note": "Client instruction sent this morning to the sitter: the coffee maker must be filled with distilled water, not tap. She notes distilled water can be bought anywhere, but the message does not say whether she supplies it or the sitter is expected to bring it. Shannon Anderson acknowledged two minutes later and said she would see Lynne and Holly around 12:30 today and bring more boxes.",
      "quote": "Shannon you need to use distilled water with the coffee maker. Can be bought anywhere."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts updated contact information, 10:50am",
-     "office": false,
-     "note": "Same edit emptied Company Notes and the Dog Overview line saying Holly prefers walks over the fenced backyard went with it. The logistics survived into Important Notes: client home, leash handed off at the front door, a cat to watch on entry and exit, purple slip lead and poop bags on the front-door coat rack, water bowl by the front door, used bags left by the front door.",
-     "quote": ""
     }
    ],
    "dormant": false
