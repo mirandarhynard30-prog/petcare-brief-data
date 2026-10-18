@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T10:20:05-04:00",
+ "generated": "2026-10-18T11:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3042,6 +3042,16 @@
      "office": true,
      "note": "Bella's #2 on the Sep 27 morning visit was logged as frank diarrhea - the report's consistency field reads very loose/diarrhea, with the sitter noting the pet seemed fine otherwise. Chelsea also wrote that Bella went #1 a few times and #2 twice. This is the second frank-diarrhea reading in eight days; the brief already carries the same finding for Sep 20. No vet contact and no client reply are recorded for either.",
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Chelsea Tompkins post-visit report, Oct 18 10:21 AM",
+     "office": false,
+     "note": "Oct 18 morning visit: Bella urinated a few times and passed two stools. The sitter logged the consistency as a little loose but not concerning. That is softer than normal but far milder than the frank diarrhea logged Sep 27 and Oct 11, and it is one observation from one visit - watch the next report rather than treating it as a flare.",
+     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "health",
