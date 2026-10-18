@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T21:20:06-04:00",
+ "generated": "2026-10-17T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1599,6 +1599,26 @@
      "quote": "We’ll be home in 2 hours"
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Harvett Ellington visit report",
+     "office": false,
+     "note": "On the 9:26 PM visit Bismark walked only briefly then wanted to lie down on the side of the house. #1 only, no #2 recorded.",
+     "quote": "He walked for a little bit and then wanted to lay out on the side of the house.."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 17",
+     "source": "Christina Palmieri message",
+     "office": false,
+     "note": "Client confirms Bismark regularly stops and lingers at the side of the house on walks, so expect it rather than treating it as new.",
+     "quote": "He stops there for us often too, I’m like dude I’m not just standing here lol."
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -1637,16 +1657,6 @@
      "office": false,
      "note": "Bismark walked to the corner today, went #1, then wanted home. One visit only; the standing no-walk note still holds.",
      "quote": "he was ready to go back home after that"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 21",
-     "source": "Client message",
-     "office": false,
-     "note": "Client says it is always fine to skip staying out in the rain and bring Bismark in early.",
-     "quote": "it’s always okay to not stay out in the rain and head in early."
     }
    ],
    "dormant": false
@@ -7313,6 +7323,16 @@
      "quote": "Both of them were so good about getting their protective masks put on!"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Masks were put on both dogs before outside time on the 9:09 PM visit. Whether the masks are standard for every visit or a one-off is still not confirmed.",
+     "quote": "Mask on, leash up and off they went."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7396,21 +7416,11 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
-     "date": "Oct 3",
-     "source": "Kiara Streety visit report, 9:04 PM",
+     "date": "Oct 17",
+     "source": "Kiara Streety visit report",
      "office": false,
-     "note": "Night visit: a noise in the trees sent Zoey and Bear straight back indoors, so yard time was cut short - both went #1 only. One sitter's observation on one evening visit, not a standing rule. They also finished the food left on the plate from the earlier visit.",
-     "quote": "We heard something in them tress and both pups immediately came back inside"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Visit report, Kiara Streety, Oct 3 evening",
-     "office": true,
-     "note": "The Oct 3 evening report says the dogs were leashed and a mask was put on before going outside. It is not clear from the email what this refers to - a muzzle, a head halter, or the sitter's own face mask - and no such instruction appears elsewhere. Worth confirming with the sitter before another sitter follows it.",
-     "quote": "Gave them love, leashed up, mask on and went outside"
+     "note": "In the cold Bear came straight back inside once he was done; Zoey wanted to stay out and had to be collected. No #2 seen for either dog, sitter noted it was too dark to tell.",
+     "quote": "Zoey loves outside so she stayed out until I grabbed her to come back in!"
     }
    ],
    "dormant": false
