@@ -1,15 +1,15 @@
 {
- "generated": "2026-10-17T22:35:06-04:00",
- "date": "2026-10-17",
- "label": "Oct 17, 2026",
+ "generated": "2026-10-18T00:05:06-04:00",
+ "date": "2026-10-18",
+ "label": "Oct 18, 2026",
  "clients": [
   {
    "name": "Brandon Keyes",
    "visits": [
     {
-     "time": "11:30 AM",
-     "sort": "1130",
-     "staff": "Shannon  Anderson",
+     "time": "1:00 PM",
+     "sort": "1300",
+     "staff": "Elizabeth Sigler",
      "service": "Dog Visit-60 minute",
      "pets": "Flacko"
     }
@@ -19,73 +19,11 @@
    "name": "Brittany Lisbon",
    "visits": [
     {
-     "time": "8:00 AM",
-     "sort": "0800",
-     "staff": "Tiarra Roberts",
+     "time": "9:00 AM",
+     "sort": "0900",
+     "staff": "Kristin Ashick",
      "service": "Cat Visit-20 Minutes",
      "pets": "Miley, Linguine , Fettuccine , Ziti, Manicotti"
-    },
-    {
-     "time": "9:45 PM",
-     "sort": "2145",
-     "staff": "Tiarra Roberts",
-     "service": "Reassigned Visit-20 minute",
-     "pets": "Miley, Linguine , Fettuccine , Ziti, Manicotti"
-    }
-   ]
-  },
-  {
-   "name": "Charlene Szunyog",
-   "visits": [
-    {
-     "time": "10:15 AM",
-     "sort": "1015",
-     "staff": "Tiarra Roberts",
-     "service": "Dog Visit-30 minute",
-     "pets": "Murphy, Macy"
-    }
-   ]
-  },
-  {
-   "name": "Christina Palmieri",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Elizabeth Sigler",
-     "service": "Dog Visit-30 minute",
-     "pets": "Bismark"
-    },
-    {
-     "time": "9:30 PM",
-     "sort": "2130",
-     "staff": "Harvett Ellington",
-     "service": "Dog Visit-30 minute",
-     "pets": "Bismark"
-    }
-   ]
-  },
-  {
-   "name": "Deb Ward",
-   "visits": [
-    {
-     "time": "11:30 AM",
-     "sort": "1130",
-     "staff": "Dan Dantimo",
-     "service": "Dog Visit-30 minute",
-     "pets": "Guinness"
-    }
-   ]
-  },
-  {
-   "name": "Diane Hoard",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Kristin Ashick",
-     "service": "Dog Visit-45 minute",
-     "pets": "Mac"
     }
    ]
   },
@@ -97,7 +35,7 @@
      "sort": "1000",
      "staff": "Chelsea Tompkins",
      "service": "Dog Visit-20 minute",
-     "pets": "Bella"
+     "pets": "Bella, Bella, Bella"
     }
    ]
   },
@@ -107,7 +45,7 @@
     {
      "time": "1:00 PM",
      "sort": "1300",
-     "staff": "Dan Dantimo",
+     "staff": "Tiarra Roberts",
      "service": "Long Range Visit-30 Minute",
      "pets": "Holly"
     }
@@ -119,47 +57,9 @@
     {
      "time": "8:00 PM",
      "sort": "2000",
-     "staff": "Noella Assi",
-     "service": "Reassigned Visit-20 minute",
+     "staff": "Tiarra Roberts",
+     "service": "Dog Visit-20 minute",
      "pets": "Georgie"
-    }
-   ]
-  },
-  {
-   "name": "Matt Konn",
-   "visits": [
-    {
-     "time": "7:15 AM",
-     "sort": "0715",
-     "staff": "Tiarra Roberts",
-     "service": "Dog Visit-30 minute",
-     "pets": "Ripley"
-    },
-    {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Tiarra Roberts",
-     "service": "Dog Visit-30 minute",
-     "pets": "Ripley"
-    },
-    {
-     "time": "10:30 PM",
-     "sort": "2230",
-     "staff": "Tiarra Roberts",
-     "service": "Dog Visit-30 minute",
-     "pets": "Ripley"
-    }
-   ]
-  },
-  {
-   "name": "Melody Siska",
-   "visits": [
-    {
-     "time": "8:00 PM",
-     "sort": "2000",
-     "staff": "Kiara Streety",
-     "service": "Last Minute Visit- 30 minute",
-     "pets": "chloe"
     }
    ]
   },
@@ -167,16 +67,23 @@
    "name": "Nicole Smith",
    "visits": [
     {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Drew Walker",
+     "time": "6:00 AM",
+     "sort": "0600",
+     "staff": "Kiara Streety",
+     "service": "Dog Visit-30 minute",
+     "pets": "Bear, Zoey"
+    },
+    {
+     "time": "3:00 PM",
+     "sort": "1500",
+     "staff": "Jade Popovitz",
      "service": "Trainer Visit-30minute",
      "pets": "Bear, Zoey"
     },
     {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Elizabeth Sigler",
+     "time": "3:00 PM",
+     "sort": "1500",
+     "staff": "Harvett Ellington",
      "service": "Shadow Visit with Staff Member-30 minute",
      "pets": "Bear, Zoey"
     },
@@ -193,8 +100,8 @@
    "name": "Vicki Davey",
    "visits": [
     {
-     "time": "9:45 AM",
-     "sort": "0945",
+     "time": "9:30 AM",
+     "sort": "0930",
      "staff": "Harvett Ellington",
      "service": "Cat Visit-45 minute",
      "pets": "3 indoor cats, 6 outdoor cats"
@@ -202,12 +109,12 @@
     {
      "time": "4:00 PM",
      "sort": "1600",
-     "staff": "Harvett Ellington",
+     "staff": "Jade Popovitz",
      "service": "Cat Visit-30 Minutes",
      "pets": "3 indoor cats, 6 outdoor cats"
     }
    ]
   }
  ],
- "visitCount": 20
+ "visitCount": 11
 }
