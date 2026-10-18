@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T23:20:05-04:00",
+ "generated": "2026-10-18T06:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -923,16 +923,6 @@
      "quote": "During the walk she did lots of sniffing and kept trying to go into the road"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Client message 18:06 ET",
-     "office": true,
-     "note": "Client asked this evening for a same-day walk for Chloe tonight between 8:30 and 9:30pm; the office replied and she thanked us, so a sitter needs to be confirmed and scheduled for tonight.",
-     "quote": "Hi any chance we could get someone here this evening to walk Chloe between 8:30-9:30 timeframe?"
-    },
-    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -1387,26 +1377,6 @@
      "quote": "Evee was at the door while I fought with the lockbox of doom."
     },
     {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Monica Hopewell visit report",
-     "office": false,
-     "note": "Front door lock is fighting sitters. Monica struggled to get in Saturday morning; Tiarra reported difficulty Friday night too. Allow extra time at the door.",
-     "quote": "After fighting for my life with the lock I made it inside"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Ashley Corall visit report 2:56 PM",
-     "office": false,
-     "note": "ESCAPE RISK. Evee's usual collar could not be found, so the sitter used her regular collar tightened as far as it would go and Evee could still wiggle out of it. Sitter kept her on a short leash and cut the walk short rather than risk her slipping the collar.",
-     "quote": "she can still wiggle out so we kept a short leash"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1435,16 +1405,6 @@
      "office": false,
      "note": "Yasmeen says Evee's harness is by the door or in the blue bucket - the only current written answer to how Evee is secured, after the choke-chain line was deleted today.",
      "quote": "Her harness is by the door or in blue bucket"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Ashley Corall message to client",
-     "office": false,
-     "note": "Evee's usual collar still not found, so Ashley Corall dropped off a spare collar and clipped it to Evee's leash; she tried it on and it fits without being tight. Use this one.",
-     "quote": "I just dropped one off and attached it to her leash. I tried it on her and it fits not tight on her"
     },
     {
      "cat": "health",
@@ -2884,16 +2844,6 @@
      "quote": "No need to pick up #2, watch out for deer poop."
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Tiarra Roberts updated contact information for Lance Hoffman",
-     "office": true,
-     "note": "At 7:36pm the Pet Care Note was emptied and its contents retyped into Company Notes. Most of it survived, but the water bowl locations - laundry room and kitchen - were dropped entirely, and the utility-room rule lost its 'when unattended' qualifier, so the record now reads as if the dogs stay shut in the utility room for the whole visit. 'Watch out for deer poop' also lost 'in back yard field'. Office should put the water bowl line back and confirm whether the confinement is only when unattended.",
-     "quote": "There is a water bowl in the laundry room and in kitchen."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -3496,16 +3446,6 @@
      "office": true,
      "note": "Same deletion took the heating-pad setting and water routine: pad in the living room corner by the tv behind the chair, 95 degrees, set in 12-hour periods; two cups by the couch filled with ice and water, towel underneath swapped when sopping; litter into the lidded can by the toilet.",
      "quote": "I usually leave this on at 95 degrees all the time."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Tiarra Roberts Company Notes edit, Sep 26 5:42pm",
-     "office": true,
-     "note": "The Sep 26 5:42pm edit removed 'as needed' from the dry-food instruction, which now carries no frequency at all. The brief's Sep 17 item recorded the earlier loss of 'at every visit'; with 'as needed' now gone too, how often to fill Oliver's dry bowl is no longer written anywhere on the account. Office should decide and put it back. Everything else in that edit and the 5:43pm edit was punctuation only.",
-     "quote": "Fill dry food bowl (located in bedroom in front of full-length mirror)"
     },
     {
      "cat": "home",
@@ -6051,19 +5991,9 @@
      "office": false,
      "note": "Blue gets very worked up at the word walk, so do not use it unless you are actually about to take him out. There are no sidewalks right by the house - use the mowed grass paths out to the sidewalk.",
      "quote": "Do not say the word “walk” unless you are actually taking him for a walk, as he gets very excited"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Company Notes rewritten by Tiarra Roberts",
-     "office": false,
-     "note": "The notes say Blue's escape risk is not known at the new address, so treat him as an unknown at doors. He may also have urine accidents indoors; Equalizer cleaner is in the laundry room above the washer.",
-     "quote": "Escape risk is unknown at the new location"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Sharon Maresco",
@@ -7170,16 +7100,6 @@
      "office": false,
      "note": "All the cats get the same dry food now. Julia said so this morning, which retires the old note line that gave Leo his own special dry food and named a cat called Juniper who also had her own. Juniper is not one of the four cats on record, so that part was already unclear.",
      "quote": "No they all get the same food now. Sorry forgot to mention that."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 26",
-     "source": "Client message 17:32 ET",
-     "office": true,
-     "note": "Julia confirms the family left town a few hours before 17:32 today and that the cats had been fed. This is the first clear word on her departure after the Thursday-versus-Saturday mix-up; the rest of her dates should be checked against the schedule.",
-     "quote": "Thank you we left a few hours ago. They were happy to be fed."
     },
     {
      "cat": "behavior",
