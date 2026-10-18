@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T19:20:06-04:00",
+ "generated": "2026-10-17T21:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1577,6 +1577,26 @@
      "office": false,
      "note": "Christina's suggested handling when Bismark will not walk: if the sitter is comfortable doing so, take him off the leash and walk toward the gate door to see whether he follows. She adds that otherwise he may just be lazy. This is the first time a technique has been offered rather than just a warning that he refuses.",
      "quote": "You can try taking him off the leash if you feel comfortable"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 17",
+     "office": false,
+     "source": "Christina Palmieri client message, Oct 17 8:57 PM",
+     "note": "Client is relaxed about Bismark refusing activity - she says he does not mind and a low-activity visit is fine. Said about tonight's visit specifically, after he refused to walk earlier in the day.",
+     "quote": "if he doesn’t want to do much of anything, that is also totally fine!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 17",
+     "office": true,
+     "source": "Christina Palmieri client message, Oct 17 8:57 PM",
+     "note": "At 8:57 PM the client said they would be home in about two hours, so home roughly 11 PM Oct 17. She did not ask for any visit change.",
+     "quote": "We’ll be home in 2 hours"
     },
     {
      "cat": "health",
