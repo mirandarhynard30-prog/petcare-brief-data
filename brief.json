@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T22:20:05-04:00",
+ "generated": "2026-10-17T23:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2570,6 +2570,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Tiarra Roberts post-visit report, 10:45 PM visit",
+     "office": true,
+     "note": "The 10:45 PM bedtime report logs no multivitamin - only the walk, water refreshed and one treat. Tiarra gave 2 at the 7:34 AM visit, so only one dose was given on Oct 17 while the record still says feed 2 times per day with no time of day named.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "standing",
      "date": "Oct 16",
      "source": "Tiarra Roberts updated contact information for Matt Konn, 4:35 PM",
@@ -2656,16 +2666,6 @@
      "office": false,
      "note": "First clearly repeatable method for getting Ripley's collar on, after visits where sitters could not manage it at all. Matt left the training remote and treats out; Ripley ran when the sitter came in, one click brought her over, collar then leash went on. Training collar removed at the end.",
      "quote": "one click on the remote, got her to come to me"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Tiarra Roberts visit report, Oct 7 2:46pm visit",
-     "office": true,
-     "note": "The sitter could not get Ripley's collar or leash on at all despite trying hard, so she used the fenced back yard instead of walking her. The walk only happened once Matt got home and leashed Ripley himselin Second report in four days of Ripley resisting the leash - the Oct 4 report also described it taking longer than normal. Office needs a handling plan from Matt rather than each sitter working it out alone.",
-     "quote": "After trying really hard to get her leashed up, we just went outside to the fenced in area."
     }
    ],
    "dormant": false
@@ -5528,6 +5528,56 @@
      "quote": "The gravity feeder top-half came off and dry food was everywhere."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Tiarra Roberts post-visit report, 10:09 PM visit",
+     "office": true,
+     "note": "The 10:09 PM visit again went well past the scope the client set on Oct 13, that evening is Miley's second Felimazole dose only: litter scooped, LitterRobot bag changed, bowls washed, treats and 2 Churu given, trash taken out, packages brought in. Second night running. Confirm with the client whether the evening scope has in fact widened.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Tiarra Roberts post-visit report, 10:09 PM visit",
+     "office": false,
+     "note": "Miley's evening medication was given on the 10:09 PM visit and she took it without difficulty - third straightforward dosing in three days.",
+     "quote": "She took it with no problems."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Tiarra Roberts post-visit report, 10:09 PM visit",
+     "office": false,
+     "note": "Potty accident in the office on the 10:09 PM visit; the sitter cleaned it up and attached before and after pictures, and the report's accidents field is ticked to match.",
+     "quote": "I cleaned up a little accident in the office."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Tiarra Roberts post-visit report, 10:09 PM visit",
+     "office": false,
+     "note": "A kitten came out of hiding in the office while the sitter was sweeping. Kittens are in the house and can appear underfoot during cleaning; nothing in the record says where they are kept or whether any door needs watching.",
+     "quote": "As I was sweeping in the office, one of the kittens came out!!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 17",
+     "source": "Client message, 10:20 PM",
+     "office": false,
+     "note": "The grey outdoor cat sitters keep meeting is Graycie, mother of the cat the client calls noodle. The client says she comes every night for food and thanks sitters for feeding her; Tiarra left a few treats out for her. An outside cat house is also checked on visits.",
+     "quote": "That gray kitty was Graycie. Our noodle's momma. She visits us every night for some food."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -5536,56 +5586,6 @@
      "office": false,
      "note": "Miley's evening medication was given first thing on the Oct 16 visit and she took it without difficulty - second easy dosing in two days.",
      "quote": "It went calmly and easily."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Tiarra Roberts evening visit report, 5:10 PM Oct 16",
-     "office": true,
-     "note": "The Oct 16 evening visit went well past the scope the client set on Oct 13 (evening is Miley's second Felimazole dose only, nothing else added). The sitter also scooped the litterbox, checked the LitterRobot, topped the fountain with spring water, fed Churu, brought the mail in, added recyclables to the bin and emptied the kitchen trash. Unclear whether the client's Oct 13 limit still stands or has been superseded - office should confirm.",
-     "quote": "I scooped the litterbox and checked the LitterRobot."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "client message 11:56am",
-     "office": true,
-     "note": "Client away camping at Burr Oak state park, back Sunday afternoon, and says she is unsure about cell service while away. Worth confirming a reachable backup contact for the weekend.",
-     "quote": "We will be back Sunday afternoon. I am unsure about cell service since we will be camping"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 15",
-     "source": "client message 11:56am",
-     "office": false,
-     "note": "Client has started using a pill wrap for Miley's medication and says it works the same as the pill pockets. She still has the pill pockets with Miley's other supplies, so either can be used.",
-     "quote": "I also started to use this pill wrap for Miley's medication. Works exactly the same as the pill pockets."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 15",
-     "source": "Yasmeen Abrams visit report",
-     "office": false,
-     "note": "Miley, the older cat, is on medication given at visits. Administered on the Oct 15 evening visit with no difficulty - she was easy to handle for it. The report's medication field for Miley is ticked Yes.",
-     "quote": "We then proceeded to give meds to the older kitty Miley, she was so gentle and nice and friendly"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 15",
-     "source": "Yasmeen Abrams visit report",
-     "office": false,
-     "note": "The cats are given spring water, not tap - the indoor cats' bowls were topped off with it and the sitter was told the outdoor cats get spring water as well.",
-     "quote": "I was told that the outdoor cats get spring water as well."
     }
    ],
    "dormant": false
