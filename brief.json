@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T14:20:05-04:00",
+ "generated": "2026-10-18T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6488,6 +6488,16 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Elizabeth Sigler visit report",
+     "office": false,
+     "note": "At the end of today's walk Flacko would not go back past the gate into the living room. The sitter put his leash back on and walked him behind the gate to get him in. One sitter on one visit, so noted as a departure quirk rather than a standing rule.",
+     "quote": "he repeatedly refused to go back in the living room and there was nothing I could do to direct him past the gate"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -6576,16 +6586,6 @@
      "office": false,
      "note": "Pet Care Note rewritten this afternoon: do not lock the door handle on the way out, the keypad lock is what secures the door. Umbrella and blue velcro dog jacket for rain are by the back door on the shoe rack. The entry code itself is in Time To Pet and is deliberately not repeated here.",
      "quote": "Do NOT lock the door handle when leaving"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 2",
-     "source": "Tiarra Roberts, Company Notes update 3:35 PM",
-     "office": true,
-     "note": "The Company Notes rewrite dropped three lines that were there before: toy location (living room), cleaning supplies location (kitchen) and the allergies line (previously N/a). The treat line now reads Homemade treats instead of naming Dad. Parking, leash and poop bag location, water bowl and the whole behavior block are unchanged. Office should decide whether the dropped lines are meant to be gone.",
-     "quote": ""
     }
    ],
    "dormant": false
