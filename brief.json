@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:20:05-04:00",
+ "generated": "2026-10-18T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5478,6 +5478,16 @@
      "quote": "We had a harder time today but we did it!"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Client message, 4:05 PM",
+     "office": true,
+     "note": "Client is home as of about 4:05 PM Sun Oct 18 - the stay has ended. She thanked the team for giving Miley her medication and looking after the indoor/outdoor cats, so the Felimazole doses appear to have been covered through the stay. Office: this closes the open question of how the widened evening visits bill, and it has to be settled before tonight's 10 PM auto-charge.",
+     "quote": "We are home and the kitties were very happy to see us"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -5526,16 +5536,6 @@
      "office": false,
      "note": "A kitten came out of hiding in the office while the sitter was sweeping. Kittens are in the house and can appear underfoot during cleaning; nothing in the record says where they are kept or whether any door needs watching.",
      "quote": "As I was sweeping in the office, one of the kittens came out!!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 17",
-     "source": "Client message, 10:20 PM",
-     "office": false,
-     "note": "The grey outdoor cat sitters keep meeting is Graycie, mother of the cat the client calls noodle. The client says she comes every night for food and thanks sitters for feeding her; Tiarra left a few treats out for her. An outside cat house is also checked on visits.",
-     "quote": "That gray kitty was Graycie. Our noodle's momma. She visits us every night for some food."
     }
    ],
    "dormant": false
