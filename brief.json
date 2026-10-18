@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T09:20:06-04:00",
+ "generated": "2026-10-18T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2508,6 +2508,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Client private message, 9:39 AM",
+     "office": true,
+     "note": "Client asked by private message whether a same-day visit between 4 and 6 PM tonight could still be scheduled.",
+     "quote": "Miranda - is it too late to schedule a visit btwn 4-6 tonite?"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -2616,16 +2626,6 @@
      "office": false,
      "note": "RESOLVED from the client side. His 9:31am request for extra visits Oct 16 and 17, and the 11:01am note that Ripley would be alone overnight, are answered - at 12:19pm he says he will ask his brother to swing by. Office may still owe a visit confirmation.",
      "quote": "This is great! TY!! I will ask my brother to swing by"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Tiarra Roberts visit report 12:56pm",
-     "office": false,
-     "note": "First clearly repeatable method for getting Ripley's collar on, after visits where sitters could not manage it at all. Matt left the training remote and treats out; Ripley ran when the sitter came in, one click brought her over, collar then leash went on. Training collar removed at the end.",
-     "quote": "one click on the remote, got her to come to me"
     }
    ],
    "dormant": false
@@ -2894,6 +2894,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Client message, 9:31 AM",
+     "office": true,
+     "note": "Client complaint about sitter punctuality - she says arrivals do not happen when stated. This also explains her earlier unexplained 'Are you sure ?' message: it was about the arrival time, not the visit report. Needs an answer from the office.",
+     "quote": "The reason I sent that message is because you are r not there when u say you will be"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -2947,6 +2957,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 18",
+     "source": "Client message, 9:22 AM",
+     "office": false,
+     "note": "Client warned that Trudy was only just getting up and the sitter might have to wait at arrival. Same message says she sent a time-confirmation request at 8:53 that went unanswered.",
+     "quote": "She’s just getting up u may have to wait a min"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 11",
      "source": "Kiara Streety visit report, Oct 11 10:51am",
      "office": false,
@@ -2992,26 +3012,6 @@
      "source": "Client message, Oct 4 9:48am",
      "note": "Entry condition the client set for today's 10:00am visit: if the door is not open when the sitter arrives, she wants to be told. She says she arranged the 10:00 time with Trudy on Friday. This follows a run of entry problems at this house, so it is worth carrying into this afternoon's visit too.",
      "quote": "I told her 10:00 if the doors not open let me no"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Harvett Ellington visit report, 9:09 AM",
-     "office": false,
-     "note": "Trudy did not appear until Harvett was almost finished with the 9:20 AM visit. Allow her time to come out rather than leaving before she has been seen.",
-     "quote": "Trudy can down when I was almost finished..."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Harvett Ellington visit report, 11:28 AM",
-     "office": false,
-     "note": "Harvett's 11:28 AM report says she took out most of the trash and left the large bag for a planned afternoon return, so that bag is still an open task. No mail was present, no accidents, and no supplies low. The client was home during the visit.",
-     "quote": "Took out most trash will return in the afternoon for the large bag."
     }
    ],
    "dormant": false
@@ -5458,6 +5458,16 @@
      "quote": "Miley is usually sleeping on the bed, in the bedroom"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Visit report, Kristin Ashick, 9:37 AM",
+     "office": false,
+     "note": "Miley's medication was given but was harder to administer than usual on this visit. One observation by one sitter, not an established pattern. Report notes no supplies running low.",
+     "quote": "We had a harder time today but we did it!"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -5516,16 +5526,6 @@
      "office": false,
      "note": "The grey outdoor cat sitters keep meeting is Graycie, mother of the cat the client calls noodle. The client says she comes every night for food and thanks sitters for feeding her; Tiarra left a few treats out for her. An outside cat house is also checked on visits.",
      "quote": "That gray kitty was Graycie. Our noodle's momma. She visits us every night for some food."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Tiarra Roberts evening visit report, 5:10 PM Oct 16",
-     "office": false,
-     "note": "Miley's evening medication was given first thing on the Oct 16 visit and she took it without difficulty - second easy dosing in two days.",
-     "quote": "It went calmly and easily."
     }
    ],
    "dormant": false
@@ -7233,6 +7233,16 @@
      "quote": "gave Bear his probiotic there is only 2 left for him in the container. Is there anymore ?"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Client message, 10:01 AM",
+     "office": true,
+     "note": "Client answered the low-probiotic question: more probiotic is expected from Amazon today. Confirm it arrives and tell the sitter on the next visit; 2 doses were reported left this morning.",
+     "quote": "There should be more probiotic coming from Amazon today!"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -7331,16 +7341,6 @@
      "office": false,
      "note": "Back yard is very dark after sunset. Faith Collins asked on the Oct 1 evening visit whether there was a light out back; Nicole replied there is a switch by the back door but it does not reach far, and that a flashlight is on the shelves by the back door. Evening sitters should expect to need the flashlight.",
      "quote": "There is a switch for the light right by the door but it doesn’t light up very far"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Elizabeth Sigler visit report 1:51 PM",
-     "office": false,
-     "note": "Both ate the wet food immediately but left most of the dry food at the 1:00 PM visit. Single observation.",
-     "quote": "Most of the dry food is left."
     }
    ],
    "dormant": false
