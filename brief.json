@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T18:20:05-04:00",
+ "generated": "2026-10-18T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2528,6 +2528,26 @@
      "quote": "I was there this morning - ty"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Tiarra Roberts visit report 6:37 PM",
+     "office": true,
+     "note": "The same-day 4-6 PM visit Matt asked for WAS covered. Tiarra Roberts filed an evening visit report at 6:37 PM: she entered through the garage, walked Ripley, fed wet and dry food, refreshed water and secured the garage door. This closes the open question from earlier today about whether the evening visit happened. She also wrote 'I enjoyed caring for Ripley, this week', which reads as the end of the current run of visits - confirm against the schedule rather than assuming.",
+     "quote": "Good evening Matt, I arrived and entered through the garage."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Tiarra Roberts visit report 6:37 PM",
+     "office": true,
+     "note": "Tonight's report logs wet can food fed, dry food fed and a treat given, and makes no mention of the Dog is Human multivitamin. Whether the second daily dose was given is not recorded. This is the third evening report in a row (Oct 16, Oct 17, Oct 18) that records food but not the multivitamin, which matches the standing defect that the Important Notes line gives no time of day.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -2606,26 +2626,6 @@
      "office": true,
      "note": "Same rewrite deleted Ripley's multivitamin treats entirely. Old notes: Dog is Human, 2 in the morning and 2 at bedtime, left on the counter by the client, tossed like a treat. Nothing now mentions them, so they will stop being given.",
      "quote": "2 in the morning and 2 at bedtime (if he has it for her on counter)"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Client private message 9:31am",
-     "office": true,
-     "note": "Matt asks by private message at 9:31am for extra visits because he is heading out of town for 24 hours: Oct 16 afternoon and evening, Oct 17 morning, afternoon and evening. He asks directly whether the office can help. Still unanswered in this mailbox as of 10:15am.",
-     "quote": "I’ll need more visits on 10/16 & 10/17."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Client private message 11:01am",
-     "office": true,
-     "note": "Follow-up to his 9:31am request: one of the extra visits should be later evening, and Ripley will be alone overnight. Still unanswered.",
-     "quote": "Later evening ...yes...Ripley will be by herself overnite. TY"
     }
    ],
    "dormant": false
