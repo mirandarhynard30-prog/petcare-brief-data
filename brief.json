@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T14:20:06-04:00",
+ "generated": "2026-10-19T15:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -943,6 +943,16 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Elizabeth Sigler visit report, 3:03 PM",
+     "office": false,
+     "note": "Melody was home during the 3:03 PM visit and asked that the door not be locked, so the home-secured field records that instead of a lock-up. Sitters arriving later should not assume the house will be empty or locked.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1001,16 +1011,6 @@
      "office": false,
      "note": "Day after Chloe's Oct 12 soft stool. Sitter reports lots of energy and good drinking; the report ticks #1 only and records no #2, so there is still no normal stool reading since Oct 12.",
      "quote": "She had lots of energy the whole time!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Jade Popovitz afternoon report, 2:05pm visit",
-     "office": false,
-     "note": "Chloe's soft-stool watch from Oct 12 looks closed. On this afternoon visit she went both #1 and #2 and the consistency field reads firm and healthy, the first firm reading since Oct 12. Quote left empty on purpose: the form wording is identical across clients and the relay de-duplication key would collide.",
-     "quote": ""
     }
    ],
    "dormant": false
