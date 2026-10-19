@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T09:35:05-04:00",
+ "generated": "2026-10-19T10:35:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1710,6 +1710,16 @@
      "quote": "Is Wednesday alright? We have novas walk on the same day though. If not, Thursday is good."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Client private message, Oct 19 9:36 AM",
+     "office": true,
+     "note": "The reschedule is now settled - she accepted and then confirmed at 9:36 AM, so her two earlier unanswered reschedule messages this morning no longer need a reply. The notifications do not say which day was agreed or whether Nova's walk was moved, so check the schedule.",
+     "quote": "Awesome! See you then!"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1797,16 +1807,6 @@
      "office": true,
      "note": "The 4:28 PM rewrite deleted the whole Walk Instructions section, the only line saying where to walk and that one dog goes per visit. Garage leash hand-off, the two-dogs-one-at-a-time line and the harness colours survive. The brief still carries the Spyglass Hill route from Aug 26.",
      "quote": "Walk Astra or Nova each visit, towards the Spyglass Hill housing development"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Company Notes as of Tiarra Roberts edit, Sep 26 5:32pm",
-     "office": false,
-     "note": "Cat Care block that has been sitting in the Company Notes and the brief has never held: automatic dry food feeder upstairs, automatic litter box upstairs, one water fountain in the upstairs bathroom by the sink, and the dogs are not allowed upstairs - a gate is in place. Relevant to any sitter who goes upstairs with a dog on leash.",
-     "quote": "Dogs are not allowed upstairs (gate in place)"
     }
    ],
    "dormant": false
@@ -7213,6 +7213,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Jade Popovitz visit report, Oct 19 9:37 AM",
+     "office": true,
+     "note": "Zoey had diarrhea at the morning visit. She went #2 repeatedly outside and rubbed her behind on the ground, and showed no interest in her food although she was thirsty. The sitter says she seemed to relax in the second half of the outside time and found no accidents in the house. Bear was unaffected and ate normally.",
+     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -7241,6 +7251,16 @@
      "office": true,
      "note": "A second sitter now describes putting a mask on both dogs before taking them outside. No mask or muzzle appears anywhere else in Nicole's record. Office must confirm what this equipment is and get it written into Company Notes before more sitters guess.",
      "quote": "so I put both there mask on and leash Zoey and we went outside"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Jade Popovitz visit report, Oct 19 9:37 AM",
+     "office": true,
+     "note": "The morning report answers Yes to medication administered for Bear and No to any pet supplies getting low, but never names the probiotic. AMBIGUOUS - it suggests a dose was on hand this morning without confirming the replacement container from Amazon arrived.",
+     "quote": ""
     },
     {
      "cat": "home",
@@ -7311,26 +7331,6 @@
      "office": true,
      "note": "No mask is mentioned for either dog on the Oct 18 3:36 PM visit, although both dogs were masked before outside time on the Oct 17 1:00 PM, Oct 17 9:09 PM and Oct 18 9:09 PM visits. AMBIGUOUS - the report may simply not record it, and this sitter was new to the house. There is still nothing written down saying whether the masks are required.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Elizabeth Sigler visit report 1:51 PM",
-     "office": false,
-     "note": "Both dogs wore protective masks before outside time at the 1:00 PM visit; Zoey was also leashed and the outside time was in the fenced back yard. Reported once by a shadowing sitter, so whether masks are a standing rule for every visit is not confirmed here.",
-     "quote": "Both of them were so good about getting their protective masks put on!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "Masks were put on both dogs before outside time on the 9:09 PM visit. Whether the masks are standard for every visit or a one-off is still not confirmed.",
-     "quote": "Mask on, leash up and off they went."
     }
    ],
    "dormant": false
