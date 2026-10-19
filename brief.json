@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T23:20:05-04:00",
+ "generated": "2026-10-19T06:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -369,6 +369,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 19",
+     "source": "Client message 4:45 AM",
+     "office": true,
+     "note": "Liz messaged at 4:45 AM to cancel today's visit - still having health issues and says she will keep us posted. She is on today's roster, so the office needs to take Mon Oct 19 off the schedule. This is her sixth cancellation this month (Oct 8, 9, 14, 15, 16, 19) and she wrote \"cancel again today\", so expect more short-notice cancellations.",
+     "quote": "unfortunately I am still having health issues. I apologize to have to cancel again today. I will keep you posted too."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 16",
      "source": "Liz Wainio has sent you a new message.",
      "office": true,
@@ -474,16 +484,6 @@
      "source": "Client message, Sep 30 12:00 PM",
      "note": "Client update: Louie has been grumpy lately, she took him to the vet and he is continuing Rimadyl. He has gained weight and the vet recommended cutting back on his treats; if he keeps gaining she will have his thyroid checked. The treat restriction is a standing change and is not yet in his Pet Care Note.",
      "quote": "I took him to the vet and he is continuing Rimadyl."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Thomas Rakovec message, 12:17 PM",
-     "office": true,
-     "note": "Sitter Thomas Rakovec reports a joint loose enough that he dislikes picking the dog up. The message does not name the pet; the surrounding thread is about Louie, who the client said this morning is continuing Rimadyl and has gained weight. Needs confirming which pet this is and whether there is a standing lifting or handling instruction - this is one sitter's remark, not yet an established rule.",
-     "quote": "That joint is so loose I hate picking him up"
     }
    ],
    "dormant": false
@@ -659,6 +659,16 @@
     "CJ"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Private client message 12:02 AM, signed Toni",
+     "office": true,
+     "note": "Private message at 12:02 AM Mon Oct 19: client is home on sick PTO and does not need services \"tomorrow\". AMBIGUOUS - the message arrived just after midnight, so \"tomorrow\" could mean Mon Oct 19 (the day it landed) or Tue Oct 20. Terry M is on today's Oct 19 roster, and a portal Service Change notice followed at 12:13 AM. Office must confirm which day with the client before the visit window.",
+     "quote": "I’ll be home tomorrow on sick PTO. I caught a bug or food poisoning not sure which, however no need for services tomorrow."
+    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -1315,16 +1325,6 @@
      "quote": "We did see a toad, but we avoided it."
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 27",
-     "source": "Tiarra Roberts visit report, Sep 27 9:04pm",
-     "office": false,
-     "note": "On the Sep 27 evening visit the sitter again helped Mary Ann give Georgie his eyedrops, then gave him 3 ice cube treats. The eyedrop routine at evening visits is still running; the brief's most recent eyedrop entries were Sep 15 and Sep 18.",
-     "quote": "I helped Mary Ann with Georgie's eyedrops."
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1365,26 +1365,6 @@
      "office": false,
      "note": "Company Notes changed from Her harness, leash and extra poop bags are located by front door to the choke collar. This puts the choke collar back in writing after it was deleted from Evee's Pet Care Note on Sep 26, and it supersedes the harness as the written answer to how this escape-risk dog is secured. Rain jacket is still in the blue bucket. Cat gravity feeder named for the first time in the same edit.",
      "quote": "Her choke collar, leash and extra poop bags are located by front door."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 27",
-     "source": "Monica Hopewell visit report, Sep 27 8:30pm",
-     "office": true,
-     "note": "Something happened on the Sep 27 evening walk when Monica took Evee across the street. Monica calls it scary but sent the detail only as a private Connecteam message, so no description exists in Time To Pet. Office needs to retrieve it and decide whether the route or handling should change.",
-     "quote": "Right now that girl is my best friend because yeah that was a little bit scary."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 27",
-     "source": "Monica Hopewell visit report, Sep 27 8:30pm",
-     "office": true,
-     "note": "The entry hardware defeated a sitter again on the Sep 27 evening visit - Monica Hopewell reports fighting the lockbox while Evee waited at the door. With the Saturday morning and Friday night reports already in the brief this is the third struggle in three days, and Evee is an escape risk standing loose on the other side of it. Allow extra time and have the lockbox itself looked at.",
-     "quote": "Evee was at the door while I fought with the lockbox of doom."
     },
     {
      "cat": "behavior",
@@ -3041,16 +3021,6 @@
      "source": "Chelsea Tompkins visit report, Oct 11 9:22am",
      "office": true,
      "note": "Bella's #2 on the Oct 11 morning visit was logged as diarrhea again - the report's consistency field reads very loose/diarrhea, with the sitter noting the dog seems fine otherwise. She went #1 a few times and #2 once. This is the THIRD logged diarrhea episode for Bella in the brief (Sep 20, Sep 27, Oct 11), so it is no longer a one-off; the office should raise it with the client. No vet contact, diet change or medication appears anywhere in this mailbox.",
-     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 27",
-     "source": "Chelsea Tompkins visit report, Sep 27 9:06am",
-     "office": true,
-     "note": "Bella's #2 on the Sep 27 morning visit was logged as frank diarrhea - the report's consistency field reads very loose/diarrhea, with the sitter noting the pet seemed fine otherwise. Chelsea also wrote that Bella went #1 a few times and #2 twice. This is the second frank-diarrhea reading in eight days; the brief already carries the same finding for Sep 20. No vet contact and no client reply are recorded for either.",
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
     },
     {
@@ -7140,16 +7110,6 @@
      "office": false,
      "note": "The light above the kitchen sink is meant to stay on. That line was in the old Pet Care Note and did not carry over into the new Company Notes, so it is no longer written down anywhere on the account.",
      "quote": "The light above the sink should stay on"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 27",
-     "source": "Julia Rosenthal message, 9:44am",
-     "office": false,
-     "note": "Sitters pointed out some damage in the house on this morning's visit. Julia replied that it is old and pre-existing, so there is no need to report it again.",
-     "quote": "The damages are old but thanks for pointing them out."
     },
     {
      "cat": "behavior",
