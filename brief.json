@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T10:35:05-04:00",
+ "generated": "2026-10-19T11:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1492,6 +1492,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 19",
+     "source": "Jade Popovitz visit report, 11:02 AM",
+     "office": false,
+     "note": "Bismark did walk on the Oct 19 morning visit - to the end of the street, where he pulled the sitter to cross to the other side, then froze and stared at another dog before agreeing to turn back. Worth knowing against the standing note that he will not walk for any sitter any more, but this is one visit and does not change that rule. He finished the visit lying in the damp grass; #1 only, no #2.",
+     "quote": "He froze for awhile and stared before he decided it would be fine if we went back."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 17",
      "source": "Elizabeth Sigler visit report",
      "office": false,
@@ -1597,16 +1607,6 @@
      "office": false,
      "note": "The client replied to that report saying Bismark seems to do mini walks and pee only with this sitter. She is not asking for anything and sounds happy with it. Read alongside her standing note that he will not walk for any sitter - she now reads it as sitter-specific rather than absolute.",
      "quote": "He seems to only do mini walks and wees with you!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Kiara Streety visit report 11:31am",
-     "office": false,
-     "note": "Bismark walked to the corner today, went #1, then wanted home. One visit only; the standing no-walk note still holds.",
-     "quote": "he was ready to go back home after that"
     }
    ],
    "dormant": false
