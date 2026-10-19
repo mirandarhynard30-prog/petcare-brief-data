@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T11:20:08-04:00",
+ "generated": "2026-10-19T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8104,6 +8104,16 @@
      "office": true,
      "note": "Returning client asking to re-engage service for Boo: Monday and Friday, 10:30am start, 20-minute walk, proposed start date 10/12/26, and she would add Wednesday in winter if it goes well. She wants to know if we are interested and what it costs, says email or phone is fine and that Boo is still healthy. Her callback number is in the Time To Pet message. No reply sent yet and the proposed start is this coming Monday.",
      "quote": "I am looking for Monday and Friday starting at 10:30 for a 20 minute walk."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Dan Dantimo visit report, 11:21 AM",
+     "office": false,
+     "note": "Mid-morning walk: BooBoo went #1 and #2 and Dan Dantimo answered the report's consistency field 'It was a little loose but not concerning'. Second reading of that kind this month - the Oct 12 walk was logged the same way. Otherwise a normal visit: eager to go out, went #2 right away, usual route, took a treat, client was home.",
+     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "health",
