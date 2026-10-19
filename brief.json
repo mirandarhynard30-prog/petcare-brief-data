@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T08:20:07-04:00",
+ "generated": "2026-10-19T09:35:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -760,6 +760,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 19",
+     "source": "Important Notes updated by Margaret Bill 8:56 AM",
+     "office": false,
+     "note": "Leash routine changed. New rule: Lucy waits in the pen, and once she comes out of the gate you put her collar and leash on - the old rule was to attach the leash to her harness BEFORE letting her out. Keep the leash on afterwards to guide her back, tell her to go in her pen and give a treat, then take collar and leash OFF before she goes in the pen (previously the harness stayed on). Unchanged: if she will not walk, say \"let's go get it\" or \"Ok, lets run!\", and Dan may be home during visits.",
+     "quote": "Once she comes out of the gate, put her collar and leash on"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -868,16 +878,6 @@
      "office": false,
      "note": "Lucy scooted several times right after going #2 on the walk; the same report rated her stool firm and healthy. First mention of scooting in the mail - watch whether it repeats.",
      "quote": "After she did number two , she scooted a few times."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Client message 12:09 PM",
-     "office": false,
-     "note": "At today's visit Lucy was out of her pen with collar and leash already on under the client's supervision, and was expected to greet the sitter at the door. Client did not say whether this is how she will be left at future visits.",
-     "quote": "Lucy is out of her pen but has collar and leash on since she’s been under my supervision."
     }
    ],
    "dormant": false
@@ -1690,6 +1690,26 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Client private message 8:41 AM",
+     "office": true,
+     "note": "Asked to move this week's visit to another day - a shed is being built and the contractors need the entire driveway, so there is nowhere to park.",
+     "quote": "Could we reschedule for another day this week?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Client private message 9:15 AM",
+     "office": true,
+     "note": "Follow-up proposing Wednesday, flagging that Nova's walk falls on the same day, with Thursday as the alternative. Unanswered as of 9:20 AM.",
+     "quote": "Is Wednesday alright? We have novas walk on the same day though. If not, Thursday is good."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1787,16 +1807,6 @@
      "office": false,
      "note": "Cat Care block that has been sitting in the Company Notes and the brief has never held: automatic dry food feeder upstairs, automatic litter box upstairs, one water fountain in the upstairs bathroom by the sink, and the dogs are not allowed upstairs - a gate is in place. Relevant to any sitter who goes upstairs with a dog on leash.",
      "quote": "Dogs are not allowed upstairs (gate in place)"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Company Notes as of Tiarra Roberts edit, Sep 26 5:32pm",
-     "office": false,
-     "note": "How to tell the two dogs apart, never carried in the brief before. Matters here because the brief already records that Nova comes back when called and Astra bolts, so a sitter needs to know which dog is on the leash.",
-     "quote": "Astra wears black harness with teal leash. Nova wears pink and purple harness with rainbow leash."
     }
    ],
    "dormant": false
@@ -1923,6 +1933,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Client text message 8:33 AM",
+     "office": false,
+     "note": "Client confirms insulin is to be given at tonight's visit. She will feed him in the kitchen first so he does not suspect anything.",
+     "quote": "You can give insulin."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1993,6 +2013,26 @@
      "quote": "I will hold onto him till you get in door."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Client text message 8:33 AM",
+     "office": false,
+     "note": "Client says to use the back door for tonight's visit; sitter Robin Lewis confirmed at 8:50 AM she will come to the back door.",
+     "quote": "BACK door."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Client text message 8:33 AM",
+     "office": false,
+     "note": "Client confirmed 6:30 PM tonight for the visit.",
+     "quote": "6:30 tonight should be good."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2011,36 +2051,6 @@
      "office": false,
      "note": "Update at 6:26pm Eastern: the roofing crew was still on the property. This is hours later than the 3:54pm messages already in the brief, so the work ran into the evening.",
      "quote": "They are still working."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Robin Lewis / Marcella Singer text thread, Oct 5 11:13-11:15am",
-     "office": false,
-     "note": "An earlier arrival than scheduled was offered for today's visit so the insulin could be watched, and the reply was agreement. Logged at 11:13am and 11:15am Eastern; no specific new time is given in the mail.",
-     "quote": "That would be fine"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client msg 11:16am",
-     "office": false,
-     "note": "For today's earlier visit she asks for the back door. Said once, about today only.",
-     "quote": "I think coming to back door will be best."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client message 5:53pm",
-     "office": false,
-     "note": "Door plan for tonight: the client will leave the inside door slightly closed so he does not see the sitter until the storm door is opened. Arrival is at the back door.",
-     "quote": "I will let inside door slightly closed so he doesn't see you till you open storm door."
     }
    ],
    "dormant": false
@@ -6947,6 +6957,16 @@
      "quote": "Mom is moving to Heritage Crossing"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Client message 8:19 AM",
+     "office": true,
+     "note": "Client's own back-up walker picked Sassie up this morning by mistake; she says she will go over the schedule with him again. Office should confirm whether today's Petcare visit still stands and whether the visit was duplicated.",
+     "quote": "my back up walker got his wires crossed and picked up Sassie this morning"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -6975,16 +6995,6 @@
      "office": false,
      "note": "Food is a prescription diet - Science Hill Urinary diet dry kibble, one cup, plus rotisserie chicken, probiotics, yogurt and green bell peppers. Feeding times midday/afternoon and bedtime, and only if the client cannot do it. Allergies: outdoor seasonal.",
      "quote": "Only will feed if client cannot"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 11",
-     "source": "Margaret Bill updated contact information for Gina Sullivan",
-     "office": false,
-     "note": "Harness goes on front feet first through the two front leg holes, then bring the ring up around the tummy to the back and fasten. Leash and harness are in the closet to the left on entering, on the shelf. Dog friendly: yes. Knows sit, shake, leave it, come, down, but may not follow when excited.",
-     "quote": "Put front feet through two front leg holes and bring ring up around tummy to back and fasten."
     }
    ],
    "dormant": false
