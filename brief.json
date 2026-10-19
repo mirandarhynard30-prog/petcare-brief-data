@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T21:20:06-04:00",
+ "generated": "2026-10-18T22:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1207,6 +1207,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Oct 18",
+     "source": "Tiarra Roberts visit report, Oct 18 8:20 PM",
+     "office": false,
+     "note": "Evening medicine and eyedrops confirmed again on the Oct 18 evening visit (sitter ETA 7:59 PM, report filed 8:20 PM). Mary Ann was home and the sitter assisted her rather than giving them alone, then gave an ice cube treat. Harness went on in the laundry room. The report logs medication administered Yes and the stool firm and healthy. This is now the fifth evening visit on record with the same routine.",
+     "quote": "Once inside, I helped Mary Ann with Georgie's medicine"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Oct 16",
      "source": "Tiarra Roberts evening visit report, 7:35 PM Oct 16",
@@ -1313,16 +1323,6 @@
      "note": "Tiarra Roberts rewrote the Access Instructions this morning and the escape-artist warning for Georgie was dropped. Nothing in the note now tells a sitter the dog bolts. Same edit changed the closing instruction from the utility-room-to-hallway door to the laundry room door. Office to confirm the removal was intended.",
      "quote": "Georgie is an escape artist.",
      "source": "Tiarra Roberts, Access Instructions edit"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 20",
-     "source": "Tiarra Roberts updated contact information for Mary Ann Mckeever (Company Notes, 10:57 AM)",
-     "office": false,
-     "note": "Georgie's orange cooling collar is now stored in the FREEZER, not the fridge. Same rule otherwise - over 75 degrees, put it on before the walk and slip the harness over it. Sitters checking the fridge will not find it.",
-     "quote": "Orange cooling collar in freezer, if temp is over 75 degrees, put on before walk- slip harness over cooling collar"
     }
    ],
    "dormant": false
@@ -2094,6 +2094,16 @@
      "quote": "I arrived and saw the garage was closed."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 17",
+     "source": "Tiarra Roberts updated contact information, Oct 17 10:55 AM",
+     "office": false,
+     "note": "Important Notes were edited Oct 17 at 10:55 AM and one line was added - park in the driveway. Nothing was removed: send an ETA when on the way, the client will have Murphy ready, close the garage door and knock on the glass door, hurry Murphy along if he starts to sniff, and Macy can be dog reactive are all still there.",
+     "quote": "Park in driveway"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2172,16 +2182,6 @@
      "office": false,
      "note": "Murphy is walked for weight loss, so the care note asks sitters to keep him moving rather than stopping to sniff.",
      "quote": "Please hurry him along if he starts to stop and sniff."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 20",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "The second dog in the home can react to other dogs by barking and pulling.",
-     "quote": "Macy can be dog reactive (barking and pulling)"
     }
    ],
    "dormant": false
@@ -2967,6 +2967,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 17",
+     "source": "Client message, Oct 17 10:30 AM",
+     "office": false,
+     "note": "The client messaged at 10:30 AM Oct 17 that the front door was open for the sitter to let herself in. Second documented instance of this entry arrangement after Oct 10, both times sent per visit rather than written as a standing rule, so expect a message on the day rather than assuming it.",
+     "quote": "The front door is opened"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Harvett Ellington messages, Oct 17 5:24 AM and 9:47 AM",
+     "office": true,
+     "note": "Concrete delay behind the client's Oct 18 punctuality complaint, which still has no office reply. Harvett Ellington told Vicki at 5:24 AM she would arrive around 9:20-9:25 AM, messaged again at 9:47 AM apologising and moving it to 10:15-10:20 AM, then messaged walking up at 10:25 AM and in at 10:33 AM - about an hour past the first window.",
+     "quote": "My apologies for running late. I will arrive between 1015-1020am."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 11",
      "source": "Kiara Streety visit report, Oct 11 10:51am",
      "office": false,
@@ -2992,26 +3012,6 @@
      "office": true,
      "note": "The sitter offered to come at 10:00am instead and the client accepted, saying that is what she arranged with Trudy on Friday. Today's visit is settled at 10:00am between client and sitter, but the booked time in Time To Pet may still be wrong and the Friday arrangement with Trudy does not appear to have reached the schedule.",
      "quote": "Yes please thats what I told Trudy on Friday"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Harvett Ellington visit report, Oct 4 10:43am",
-     "office": false,
-     "note": "Loose stool found in the porch litter box on the Oct 4 morning visit. The report does not say which cat it came from. No accidents were found elsewhere in the home and the rest of the visit was normal - litter boxes and bowls cleaned, fresh water, wet and dry food fed, supplies not low.",
-     "quote": "On the porch, the litter box shows that one of the cats' stools is loose."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "office": false,
-     "source": "Client message, Oct 4 9:48am",
-     "note": "Entry condition the client set for today's 10:00am visit: if the door is not open when the sitter arrives, she wants to be told. She says she arranged the 10:00 time with Trudy on Friday. This follows a run of entry problems at this house, so it is worth carrying into this afternoon's visit too.",
-     "quote": "I told her 10:00 if the doors not open let me no"
     }
    ],
    "dormant": false
@@ -7303,6 +7303,36 @@
      "quote": "we leashed up, mask on and went outside"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Harvett Ellington visit report, Oct 18 3:36 PM",
+     "office": false,
+     "note": "Feeding at the Oct 18 3:36 PM visit was fresh food with a scoop of Ollie's green mix, plus fresh water. First mention of Ollie's green mix anywhere in this client's record, so it is not clear whether the scoop is a standing addition or something this sitter did once.",
+     "quote": "Gave fresh food with a scoop of Ollie's green mix along with fresh clean water"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Harvett Ellington visit report, Oct 18 3:36 PM",
+     "office": true,
+     "note": "A third Oct 18 report answers No to any pet supplies getting low and never mentions Bear's probiotic, so the afternoon visit does not confirm the new container arrived either. This report was written by Harvett Ellington, who was shadowing Jade Popovitz and meeting both dogs for the first time, so the silence may be inexperience rather than a check that was done.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Harvett Ellington visit report, Oct 18 3:36 PM",
+     "office": true,
+     "note": "No mask is mentioned for either dog on the Oct 18 3:36 PM visit, although both dogs were masked before outside time on the Oct 17 1:00 PM, Oct 17 9:09 PM and Oct 18 9:09 PM visits. AMBIGUOUS - the report may simply not record it, and this sitter was new to the house. There is still nothing written down saying whether the masks are required.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -7321,36 +7351,6 @@
      "office": false,
      "note": "Masks were put on both dogs before outside time on the 9:09 PM visit. Whether the masks are standard for every visit or a one-off is still not confirmed.",
      "quote": "Mask on, leash up and off they went."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Visit report, Reese Rath, Oct 4 9:47am",
-     "office": false,
-     "note": "On the Oct 4 morning visit both dogs went #1 and #2 outside. Bear had his probiotic chew. Feet wiped afterwards as the grass was damp.",
-     "quote": "they both went #1 and #2"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Nicole Smith message",
-     "office": true,
-     "note": "Client asked for something to be set to 68. The message carries no antecedent for \"it\" - most likely a thermostat, but that is not stated. Needs confirming with her.",
-     "quote": "Can you put it at 68 please? Thank you!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Visit report, Kiara Streety, Oct 3 evening",
-     "office": false,
-     "note": "Oct 3 evening visit: both Bear and Zoey went #1, and no #2 was recorded for either dog. Single visit observation, no other symptoms reported; they finished food left on the plate from the earlier visit and water was refreshed.",
-     "quote": ""
     }
    ],
    "dormant": false
