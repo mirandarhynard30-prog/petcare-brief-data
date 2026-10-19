@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T13:20:05-04:00",
+ "generated": "2026-10-19T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4566,6 +4566,26 @@
      "quote": "Yes if the alarm is on just disarm it"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Dan Dantimo visit report 1:10 PM",
+     "office": false,
+     "note": "Jaxson's #2 on the 1:10 PM walk was logged as a little loose but not concerning. No other sign of illness in the report and the sitter does not mention it in his narrative. Quote left out deliberately: the same stock phrase was logged for another client today and an identical quote would be de-duplicated away.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Dan Dantimo visit report 1:10 PM",
+     "office": false,
+     "note": "Jaxson was excitable on the 1:10 PM walk - the sitter describes him as anxious and hurrying to the next smell - and when two dogs came into view he turned the walk around rather than go round the block as intended. Jaxson tired a little heading home but greeted two passers-by without trouble.",
+     "quote": "I decided to turn around and still get a good walk in"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -4644,26 +4664,6 @@
      "office": true,
      "note": "OFFICE: client says a 1:00pm arrival is late for Jaxson and he had likely been holding it. Worth checking whether his recurring visit window should move earlier. She also writes see you tomorrow, so she expects a visit Oct 14.",
      "quote": "it's a little late for him at 1:00 so he probably had to go potty"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Client message from Christi Russo, Oct 12 10:49am",
-     "office": false,
-     "note": "Doorbell transmitter died Oct 11, so the doorbell may not work. For the Oct 12 visit Christi opened the garage and asked the sitter to come to the man door. She had replied \"Ok sounds good\" to the sitter's ETA just before. Whether the doorbell is fixed on later visits is not stated.",
-     "quote": "Just come to the man door I opened the garage. For some reason our transmitter died on our doorbell yesterday"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Christi Russo client message, 4:25pm",
-     "office": true,
-     "note": "Client mentions she may be rained out of work tomorrow (Oct 16). Conditional, not a cancellation or a request - she asks for nothing. Office may want to confirm whether tomorrow's visit still stands.",
-     "quote": "Hopefully I don't get rained out of work tomorrow we'll see"
     }
    ],
    "dormant": false
@@ -7223,6 +7223,16 @@
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Elizabeth Sigler visit report 2:08 PM",
+     "office": true,
+     "note": "The 2:08 PM visit is the follow-up to Zoey's morning diarrhea but gives no stool reading for her: she is logged #1 only, so no #2 and no consistency answer, and the narrative does not mention her rear end or her appetite. Bear went #1 and #2 with no consistency field answered. No accidents in the home. Nothing here settles whether Zoey's diarrhea has passed.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -7263,6 +7273,36 @@
      "quote": ""
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Elizabeth Sigler visit report 2:08 PM",
+     "office": false,
+     "note": "Feeding at the 2:08 PM visit: both dogs still had dry food left from earlier, the sitter added another scoop and put the Ollie wet food on top, then refreshed the water bowl. The leftover food is worth reading against the morning report, where Zoey showed no interest in food.",
+     "quote": "Both had some dry food left."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 19",
+     "source": "Elizabeth Sigler visit report 2:08 PM",
+     "office": false,
+     "note": "Another report describing a face covering before outside time. This sitter calls them mesh muzzles and says she put them on both dogs after greeting them, before going out into the fenced back yard. Earlier reports call the same thing a mask.",
+     "quote": "I put their mesh muzzles on"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Elizabeth Sigler visit report 2:08 PM",
+     "office": true,
+     "note": "The 2:08 PM report answers No to any pet supplies getting low and never mentions Bear's probiotic, so it does not confirm whether the Amazon delivery the client expected on Oct 18 arrived or whether Bear is still being dosed. The probiotic has now gone unmentioned in several consecutive reports.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7290,46 +7330,6 @@
      "source": "Kiara Streety visit report 9:09 PM",
      "office": true,
      "note": "The 9:09 PM visit report answers No to any pet supplies getting low and makes no mention of Bear's probiotic at all, so the report does not confirm whether the new probiotic supply arrived or whether a dose was given. Office should confirm the count in the container.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Kiara Streety visit report 9:09 PM",
-     "office": false,
-     "note": "On the 9:09 PM visit the sitter leashed both dogs and put a mask on before outside time, then used the fenced back yard. Both dogs went #1 only as far as she could see and came back in on their own.",
-     "quote": "we leashed up, mask on and went outside"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Harvett Ellington visit report, Oct 18 3:36 PM",
-     "office": false,
-     "note": "Feeding at the Oct 18 3:36 PM visit was fresh food with a scoop of Ollie's green mix, plus fresh water. First mention of Ollie's green mix anywhere in this client's record, so it is not clear whether the scoop is a standing addition or something this sitter did once.",
-     "quote": "Gave fresh food with a scoop of Ollie's green mix along with fresh clean water"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Harvett Ellington visit report, Oct 18 3:36 PM",
-     "office": true,
-     "note": "A third Oct 18 report answers No to any pet supplies getting low and never mentions Bear's probiotic, so the afternoon visit does not confirm the new container arrived either. This report was written by Harvett Ellington, who was shadowing Jade Popovitz and meeting both dogs for the first time, so the silence may be inexperience rather than a check that was done.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Harvett Ellington visit report, Oct 18 3:36 PM",
-     "office": true,
-     "note": "No mask is mentioned for either dog on the Oct 18 3:36 PM visit, although both dogs were masked before outside time on the Oct 17 1:00 PM, Oct 17 9:09 PM and Oct 18 9:09 PM visits. AMBIGUOUS - the report may simply not record it, and this sitter was new to the house. There is still nothing written down saying whether the masks are required.",
      "quote": ""
     }
    ],
