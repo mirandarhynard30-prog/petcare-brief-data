@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T19:20:05-04:00",
+ "generated": "2026-10-18T21:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7273,6 +7273,36 @@
      "quote": "it is dark out still so tryna to keep my eye on both couldn’t see if number 2 was done!"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Client message 7:53 PM",
+     "office": true,
+     "note": "Client sent a bare time window at 7:53 PM with no stated subject. The only earlier message in that thread is her own note that more probiotic was coming from Amazon, so this may be a delivery window or when she expects to be home - it is ambiguous and needs an office follow-up to confirm what it refers to.",
+     "quote": "About 7-8 pm"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Kiara Streety visit report 9:09 PM",
+     "office": true,
+     "note": "The 9:09 PM visit report answers No to any pet supplies getting low and makes no mention of Bear's probiotic at all, so the report does not confirm whether the new probiotic supply arrived or whether a dose was given. Office should confirm the count in the container.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 18",
+     "source": "Kiara Streety visit report 9:09 PM",
+     "office": false,
+     "note": "On the 9:09 PM visit the sitter leashed both dogs and put a mask on before outside time, then used the fenced back yard. Both dogs went #1 only as far as she could see and came back in on their own.",
+     "quote": "we leashed up, mask on and went outside"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -7321,36 +7351,6 @@
      "office": false,
      "note": "Oct 3 evening visit: both Bear and Zoey went #1, and no #2 was recorded for either dog. Single visit observation, no other symptoms reported; they finished food left on the plate from the earlier visit and water was refreshed.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 2",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "Bear is given probiotics at the morning visit, before food.",
-     "quote": "I gave bear his probiotics than fed them both"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Kiara Streety messages 12:26 and 12:28 PM",
-     "office": true,
-     "note": "Sitter could not find Bear for about five minutes and he would not come out, so she messaged the client mid-visit to ask where his hiding spots are. She found him two minutes later.",
-     "quote": "could you remind where Bear hiding spots are again"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 1",
-     "source": "Faith Collins visit report and client reply, Oct 1 8:19-8:35 PM",
-     "office": false,
-     "note": "Back yard is very dark after sunset. Faith Collins asked on the Oct 1 evening visit whether there was a light out back; Nicole replied there is a switch by the back door but it does not reach far, and that a flashlight is on the shelves by the back door. Evening sitters should expect to need the flashlight.",
-     "quote": "There is a switch for the light right by the door but it doesn’t light up very far"
     }
    ],
    "dormant": false
