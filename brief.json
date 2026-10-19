@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T15:20:08-04:00",
+ "generated": "2026-10-19T16:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6879,6 +6879,16 @@
     {
      "cat": "schedule",
      "sev": "high",
+     "type": "standing",
+     "date": "Oct 19",
+     "source": "Client message 3:10 PM",
+     "office": true,
+     "note": "Client asks that Sassie's visits move closer to 8am, 1pm and 7pm - the times her back-up walker uses. She says her mother expects Sassie out by 1 and does not recall the roughly 9 / 2:30 / 8 times originally given, and pushes back when reminded. Needs the office to confirm what is actually possible and update the schedule; the client sent a follow-up six minutes later saying she understood, so some reply was already made - confirm what was promised.",
+     "quote": "We have been having our back up walker do 8am 1pm, and 7pm. That seems to work good."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
      "type": "recent",
      "date": "Oct 14",
      "source": "Client private message 12:05pm",
@@ -6967,6 +6977,16 @@
      "quote": "my back up walker got his wires crossed and picked up Sassie this morning"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Margaret Bill visit report 3:13 PM",
+     "office": false,
+     "note": "Gina Sullivan's apartment: client was home during the afternoon visit and asked that the door not be left locked - the home-secured field reads \"Client was home during visit/ Client asked not to lock door\". A later sitter should not assume an empty, locked apartment.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -6975,26 +6995,6 @@
      "office": false,
      "note": "First walk report for Sassie, flagged elsewhere as an escape risk. She had her harness on but no leash when the sitter arrived. Sitter says the harness worked well and Sassie was eager to please. No trail at the complex - a sidewalk and a grassy area at the top of the hill.",
      "quote": "The harness for sassie worked very, very well."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Client message from Gina Sullivan, Oct 11 12:37pm",
-     "office": true,
-     "note": "Gina proposed visit times herself - roughly 9am for the first visit, then 2:30, with the last visit at 7:30 because of the 8pm door closing. Office needs to confirm and build the schedule; she has not been told these times are accepted.",
-     "quote": "So maybe 9 for 1st visit then 2:30."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 11",
-     "source": "Margaret Bill updated contact information for Gina Sullivan",
-     "office": false,
-     "note": "Food is a prescription diet - Science Hill Urinary diet dry kibble, one cup, plus rotisserie chicken, probiotics, yogurt and green bell peppers. Feeding times midday/afternoon and bedtime, and only if the client cannot do it. Allergies: outdoor seasonal.",
-     "quote": "Only will feed if client cannot"
     }
    ],
    "dormant": false
