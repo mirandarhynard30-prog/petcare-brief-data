@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T00:05:09-04:00",
+ "generated": "2026-10-19T09:50:26-04:00",
  "date": "2026-10-19",
  "label": "Oct 19, 2026",
  "clients": [
@@ -86,37 +86,11 @@
    "name": "Gina Sullivan",
    "visits": [
     {
-     "time": "9:30 AM",
-     "sort": "0930",
-     "staff": "Margaret Bill",
-     "service": "Trainer Visit-45 minute",
-     "pets": "Sassie"
-    },
-    {
-     "time": "9:30 AM",
-     "sort": "0930",
-     "staff": "Chrissy George",
-     "service": "Shadow Visit with Staff Member-45 minute",
-     "pets": "Sassie"
-    },
-    {
      "time": "2:00 PM",
      "sort": "1400",
      "staff": "Margaret Bill",
      "service": "Dog Visit-45 minute",
      "pets": "Sassie"
-    }
-   ]
-  },
-  {
-   "name": "Jessica Shouldis",
-   "visits": [
-    {
-     "time": "10:00 AM",
-     "sort": "1000",
-     "staff": "Monica Hopewell",
-     "service": "Dog Visit-30 minute",
-     "pets": "Astra, Astra"
     }
    ]
   },
@@ -148,18 +122,6 @@
      "staff": "Chrissy George",
      "service": "Shadow Visit with Staff Member-30 minute",
      "pets": "Murphy"
-    }
-   ]
-  },
-  {
-   "name": "Liz Wainio",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Thomas Rakovec",
-     "service": "Dog Visit-45 minute",
-     "pets": "Stella, Berry, Emma, Louie"
     }
    ]
   },
@@ -312,19 +274,7 @@
      "pets": "Archer, Milo, Archer"
     }
    ]
-  },
-  {
-   "name": "Terry M",
-   "visits": [
-    {
-     "time": "12:30 PM",
-     "sort": "1230",
-     "staff": "Ashley Corall",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "CJ, Rex"
-    }
-   ]
   }
  ],
- "visitCount": 31
+ "visitCount": 26
 }
