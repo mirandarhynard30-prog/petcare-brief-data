@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T16:20:06-04:00",
+ "generated": "2026-10-19T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1943,6 +1943,16 @@
      "quote": "You can give insulin."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Robin Lewis visit report 7:03 PM",
+     "office": true,
+     "note": "Buttercup's evening insulin was given and logged as administered, with the client home and watching. Robin Lewis asked the client to watch because she wants confirmation she is giving the injection correctly - she is not yet confident in the technique. Office should confirm she has been signed off before she covers this visit unsupervised.",
+     "quote": "Thank you for watching me do the shot. I just want to make sure i am doing it right."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2041,16 +2051,6 @@
      "office": false,
      "note": "Marcella says the cats have slept through the roofing noise so far.",
      "quote": "Can't believe they have slept threw it."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Marcella Singer has sent you a new message.",
-     "office": false,
-     "note": "Update at 6:26pm Eastern: the roofing crew was still on the property. This is hours later than the 3:54pm messages already in the brief, so the work ran into the evening.",
-     "quote": "They are still working."
     }
    ],
    "dormant": false
