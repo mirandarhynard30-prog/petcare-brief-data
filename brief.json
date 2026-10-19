@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T12:20:06-04:00",
+ "generated": "2026-10-19T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -770,6 +770,16 @@
      "quote": "Once she comes out of the gate, put her collar and leash on"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 19",
+     "source": "Client message from Angela Jozsa, Oct 19 12:12 PM",
+     "office": false,
+     "note": "The Ollie hand-feeding rule is cancelled. The client now says sitters do not need to try to give Lucy the Ollie at all - she has decided to give it herself at night so Lucy is hungry and eats it, and she credits that change for Lucy's healthier stool. This replaces the Oct 15 instruction to hand feed it.",
+     "quote": "you don’t have to worry about trying to give her Ollie anymore"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -788,6 +798,26 @@
      "office": true,
      "note": "Client cancels Thursday Oct 8 - says they will not need Margaret tomorrow - and asks instead for TWO visits on Friday Oct 9, suggesting roughly 10 or 11am and 2pm. Times are her suggestion, not confirmed. Needs an office reply and the Friday visits built.",
      "quote": "We won’t need Margaret tomorrow but would she be able to come twice on Friday?"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 19",
+     "source": "Client message from Angela Jozsa, Oct 19 12:12 PM",
+     "office": false,
+     "note": "Client says Lucy's collar and leash are left out on the table. Pairs with the Oct 19 leash routine change - collar and leash go on after she comes out of the gate.",
+     "quote": "Collar and leash are on table."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Chrissy George visit report for Angela Jozsa, Oct 19 12:59 PM",
+     "office": false,
+     "note": "Lucy went #1 and #2 on the midday walk and the consistency field was logged as a little loose but not concerning. That reading sits oddly against the client's message earlier the same day crediting the new night-time Ollie routine for much healthier stool, so the picture is mixed rather than settled. Same report: the water bowl was answered No - not refilled.",
+     "quote": ""
     },
     {
      "cat": "health",
@@ -848,36 +878,6 @@
      "office": false,
      "note": "Client warned that Chris is at the house today and expects him to be in the bedroom when the sitter arrives, so the sitter is not startled. Message addressed to Margaret.",
      "quote": "Chris is at the house today but I believe he will be in the bedroom when you get there."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Margaret Bill visit report 12:48pm",
-     "office": false,
-     "note": "Lucy was hesitant to go outside; the owner taught the sitter the cue \"Lucy heel\", which got her moving with only a very small leash yank. Useful handling cue for getting her out the door.",
-     "quote": "Chris taught me the command Lucy heel, and she came with a little yank, very small yank."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Margaret Bill visit report 12:48pm",
-     "office": false,
-     "note": "Lucy scooted a little after passing a firm, healthy stool on the walk. Same visit: fresh water given and food checked, but she was not interested in either. Sitter reports her energy and listening seem to have come back.",
-     "quote": "She did scoot a little after that."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "Lucy scooted several times right after going #2 on the walk; the same report rated her stool firm and healthy. First mention of scooting in the mail - watch whether it repeats.",
-     "quote": "After she did number two , she scooted a few times."
     }
    ],
    "dormant": false
@@ -3070,6 +3070,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 19",
+     "source": "Jade Popovitz visit report for Paulo Garcia, Oct 19 12:17 PM",
+     "office": true,
+     "note": "The report contradicts itself on whether a dog was sick. The accidents field reads that the pet got sick and was cleaned up with before and after pictures, while the sitter's own narrative describes only a spot on the couch that she assumes came from the cat. Which animal it was is unclear from the email. On the stool readings themselves: Milo was logged with no #2 at all today and Archer's was firm and healthy.",
+     "quote": "The pet got sick and I cleaned it up"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 15",
      "source": "Elizabeth Sigler visit report 11:55am",
      "office": true,
@@ -3127,6 +3137,16 @@
      "quote": "I forgot Milo and Archer have dental visits this morning, so you guys won’t need to come out today!"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Jade Popovitz visit report for Paulo Garcia, Oct 19 12:17 PM",
+     "office": false,
+     "note": "Milo was difficult on today's walk - a lot of barking and pulling. Second pulling report for him this month after Oct 9. Archer was walked first and was energetic; Milo was let out of his crate for his own walk afterwards and crated again at the end.",
+     "quote": "He had a hard time on the walk today with a lot of barking and pulling."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3165,26 +3185,6 @@
      "office": false,
      "note": "Milo pulled on the Oct 9 late-morning walk and the sitter had to settle him with treats. She also re-routed Archer's walk the opposite way down the street because an elderly person was walking outside. Single visit, not a standing rule - but it is the first pulling report for Milo in this mailbox.",
      "quote": "I leashed Milo up first we went on our walk he was pulling today had to calm him down with treats!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Kiara Streety visit report",
-     "office": true,
-     "note": "Both treat containers, including the cat's, are nearly empty as of the Oct 9 visit. Sitter answered Yes to pet supplies getting low. Needs restocking or a word to the client; the report gives no further detail on which treats.",
-     "quote": "Both treat containers (even kitties) is low/ just about empty!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Jade Popovitz visit report, 12:09pm",
-     "office": false,
-     "note": "The sitter had to keep both dogs off the cat during the visit, and Milo tried to tackle Archer when they came back in from the walk. She put Milo back in his crate before leaving. Both walked well with little pulling.",
-     "quote": "I had to defend the cat from Milo and Archer."
     }
    ],
    "dormant": false
@@ -6197,6 +6197,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 19",
+     "source": "Shannon Anderson visit report for Christine Jenison, Oct 19 12:27 PM",
+     "office": true,
+     "note": "Today's report again makes no mention of Weezie's eye drops - not in the narrative and not in the report form, which still carries no eye-drop field. The standing instruction is to give them if her eye is goopy and she lets you. This continues the run of reports that are silent on the drops, so there is no record either way of whether her eye was checked.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 13",
      "source": "Elizabeth Cuffari visit report 12:03pm",
      "office": true,
@@ -6302,16 +6312,6 @@
      "office": true,
      "note": "Client states Louise has a chronic eye issue and that her eye looks pretty dry at the moment, and points to eye drops in the upper cabinet on the RIGHT side of the stove. This conflicts with the brief's existing standing note, which puts the drops in the left cabinet above the stove and names the dog Weezy. The message does not actually instruct anyone to administer the drops. Office should confirm the cabinet, the dog's name and whether sitters are to apply them.",
      "quote": "There are also eye drops for Louise up there. It looks like her eye is pretty dry. She has a chronic issue."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Elizabeth Sigler message 12:34pm",
-     "office": true,
-     "note": "Follow-up to the client's eye-drop message: Elizabeth Sigler replied at 12:34pm that she did NOT give Louise the eye drops at the Sep 29 visit (Louise was resting when she left) and that she is not on Frank and Louise's schedule again this week. She said she would tell the other sitters so whoever sees Louise next can do it. So the drops are still outstanding and whoever covers the next visit needs to know. Which cabinet, and whether sitters are to apply them at all, is still unconfirmed - see the open office item on that.",
-     "quote": "I unfortunately don't see Frank and Louise on my schedule again this week."
     }
    ],
    "dormant": false
