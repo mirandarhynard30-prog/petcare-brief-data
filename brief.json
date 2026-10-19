@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T22:20:07-04:00",
+ "generated": "2026-10-18T23:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -941,6 +941,16 @@
      "office": false,
      "note": "Chloe had a bath and haircut Oct 17 and is not wearing her harness. Client says it is on the table in the little breakfast room off the kitchen if you want to walk her; otherwise out back and some attention for a few minutes is fine.",
      "quote": "chloe got a bath and haircut today so she isn’t wearing her harness"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Kiara Streety message, Oct 17 8:31 PM",
+     "office": false,
+     "note": "The extra 8:00-8:30 PM visit Melody asked for on Oct 17 did happen - Kiara Streety filed a visit message at 8:31 PM describing finding Chloe on her bed and taking her out. The request had been sitting in the brief with no recorded outcome.",
+     "quote": "I came in and saw Chloe laying down on her bed!"
     },
     {
      "cat": "home",
@@ -2967,6 +2977,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 18",
+     "source": "Jade Popovitz visit report, Oct 18 4:35 PM",
+     "office": false,
+     "note": "Oct 18 4:00 PM visit, Jade Popovitz: two packages brought in and handed to Trudy, all waters changed, fresh wet food inside and on the porch, dry topped off, spoiled food and empty bowls cleared outside, trash taken out. Client was home during the visit and no supplies were flagged low.",
+     "quote": "I gave new wet food inside and on the porch and topped off the dry food."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 17",
      "source": "Client message, Oct 17 10:30 AM",
      "office": false,
@@ -2984,6 +3004,16 @@
      "quote": "My apologies for running late. I will arrive between 1015-1020am."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Harvett Ellington messages, Oct 17 2:35 PM and 3:54 PM",
+     "office": false,
+     "note": "Counterpoint to the still-unanswered punctuality complaint: the Oct 17 afternoon visit ran on time. Harvett gave a 3:45-3:55 PM window at 2:35 PM, said she was walking up at 3:54 PM and filed the report at 4:31 PM. It was the Oct 17 morning visit, not the afternoon one, that slipped.",
+     "quote": "Good afternoon, I will arrive between 345-355pm..."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2992,26 +3022,6 @@
      "office": false,
      "note": "Fullest account yet of what a visit here covers, from the Oct 11 10am visit - the brief has had no description of the house layout. The sitter fed in groups: indoor cats first (2 wet, 1 soup, dry refilled), then outside cats (2 dry, 2 wet), then the porch (2 wet, 2 dry). Litter was done in three places - porch, basement and upstairs - with water refreshed at each. This is one sitter's account of one visit, not a written rule, so treat it as a guide rather than instructions. She also brought in a package from the porch and replaced the bag in the kitchen trash can. The client was home during the visit.",
      "quote": "Came in and did indoor cats first. 2 wet, 1 soup and refilled dry!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Harvett Ellington afternoon visit report, Oct 10 5:02pm",
-     "office": false,
-     "note": "The Oct 10 afternoon visit is done and entry was not a problem - the report records the home as 'Client was home during visit', so Trudy was there and the sitter did not need an entry instruction. No accidents, fresh food and water, trash out, mail brought in, all doors locked. The sitter told Trudy she would be back tomorrow (Sunday) afternoon, so an entry instruction is still needed for that visit.",
-     "quote": "I told Trudy I would see them all tomorrow afternoon."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Client message, Oct 4 8:06am",
-     "office": true,
-     "note": "The sitter offered to come at 10:00am instead and the client accepted, saying that is what she arranged with Trudy on Friday. Today's visit is settled at 10:00am between client and sitter, but the booked time in Time To Pet may still be wrong and the Friday arrangement with Trudy does not appear to have reached the schedule.",
-     "quote": "Yes please thats what I told Trudy on Friday"
     }
    ],
    "dormant": false
@@ -6501,6 +6511,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 17",
+     "source": "Shannon Anderson visit report, Oct 17 12:24 PM",
+     "office": false,
+     "note": "Oct 17 midday walk: Flacko went #1 several times and #2 twice, and the consistency field reads firm and healthy. That is the second firm report after the loose stools of Oct 9 and Oct 13.",
+     "quote": "It was firm and healthy"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 17",
+     "source": "Shannon Anderson visit report, Oct 17 12:24 PM",
+     "office": false,
+     "note": "Mail was brought in and left on the kitchen island, but a Rock Auto box under the mailbox was too heavy for the sitter to move and was left outside. No later report says it was brought in.",
+     "quote": "The box under the mailbox was a little heavy for me to try and move so I left it there."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 13",
      "source": "Elizabeth Cuffari visit report, Oct 13 1:14pm",
      "office": false,
@@ -6566,26 +6596,6 @@
      "office": false,
      "note": "On the afternoon walk Flacko barked at a passing pizza delivery car. That lines up with the car-toppers trigger already on his standing profile, so treat delivery vehicles as a real trigger and keep a short leash when one passes. No dogs were encountered and the walk was otherwise clean - he listened well, went #1 several times and #2 once, and was very thirsty on return so his water was refilled.",
      "quote": "We did encounter a pizza delivery delivery car going down the street and he let out a few barks"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts updated contact information for Brandon Keyes (3:53 PM)",
-     "office": false,
-     "note": "The Company Notes rewrite adds a leashing instruction that was not in the notes before: the collar slides over Flacko's head. Worth following exactly given he is on file as an escape risk. The behavior block itself is unchanged - not dog friendly, escape risk, triggers are German Shepherds or Shepherd-looking dogs and car toppers.",
-     "quote": "Leash/poop bags located by backdoor. Slide collar over head"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 2",
-     "source": "Tiarra Roberts, Current Pet Care Note update 3:33 PM",
-     "office": false,
-     "note": "Pet Care Note rewritten this afternoon: do not lock the door handle on the way out, the keypad lock is what secures the door. Umbrella and blue velcro dog jacket for rain are by the back door on the shoe rack. The entry code itself is in Time To Pet and is deliberately not repeated here.",
-     "quote": "Do NOT lock the door handle when leaving"
     }
    ],
    "dormant": false
