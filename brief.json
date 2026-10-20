@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T08:20:08-04:00",
+ "generated": "2026-10-20T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6940,6 +6940,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 20",
+     "source": "Margaret Bill message to client",
+     "office": true,
+     "note": "Sitter told the client today's visit would be at 9:30 am and that Chrissy would be shadowing her. The client's requested 8am / 1pm / 7pm windows are still not confirmed anywhere in email, so 9:30 am may not be what she is expecting.",
+     "quote": "This is Margaret and I am letting you know that Chrissy will be shadowing me today. We will be there at 9:30am."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 19",
      "source": "Client message 8:19 AM",
      "office": true,
@@ -6955,16 +6965,6 @@
      "office": false,
      "note": "Gina Sullivan's apartment: client was home during the afternoon visit and asked that the door not be left locked - the home-secured field reads \"Client was home during visit/ Client asked not to lock door\". A later sitter should not assume an empty, locked apartment.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Margaret Bill report, Oct 12 2:14pm",
-     "office": false,
-     "note": "First walk report for Sassie, flagged elsewhere as an escape risk. She had her harness on but no leash when the sitter arrived. Sitter says the harness worked well and Sassie was eager to please. No trail at the complex - a sidewalk and a grassy area at the top of the hill.",
-     "quote": "The harness for sassie worked very, very well."
     }
    ],
    "dormant": false
@@ -7233,6 +7233,26 @@
      "quote": "so I put both there mask on and leash Zoey and we went outside"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Jade Popovitz visit report",
+     "office": false,
+     "note": "Oct 20 morning visit: Bear's probiotic was given and logged, and his #2 was recorded as firm and healthy. This is the first report that shows the probiotic actually administered.",
+     "quote": "After we came inside I gave Bear his probiotic and refreshed their water."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Jade Popovitz visit report",
+     "office": true,
+     "note": "Zoey again logged with no #2 at the Oct 20 morning visit. Her earlier loose stool is still unresolved on paper and the client has not been told anything.",
+     "quote": "No #2 today"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7281,26 +7301,6 @@
      "office": true,
      "note": "Back yard too dark again at the morning visit - Kiara could not see whether either dog went #2, so the report logs #1 only for Bear and Zoey. Same lighting problem Faith Collins raised on Oct 1; it now also blocks stool observation while Bear is on a probiotic.",
      "quote": "it is dark out still so tryna to keep my eye on both couldn’t see if number 2 was done!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Client message 7:53 PM",
-     "office": true,
-     "note": "Client sent a bare time window at 7:53 PM with no stated subject. The only earlier message in that thread is her own note that more probiotic was coming from Amazon, so this may be a delivery window or when she expects to be home - it is ambiguous and needs an office follow-up to confirm what it refers to.",
-     "quote": "About 7-8 pm"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Kiara Streety visit report 9:09 PM",
-     "office": true,
-     "note": "The 9:09 PM visit report answers No to any pet supplies getting low and makes no mention of Bear's probiotic at all, so the report does not confirm whether the new probiotic supply arrived or whether a dose was given. Office should confirm the count in the container.",
-     "quote": ""
     }
    ],
    "dormant": false
