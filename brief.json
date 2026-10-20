@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T17:20:14-04:00",
+ "generated": "2026-10-20T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -511,6 +511,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 20",
+     "source": "Client message 3:28 PM",
+     "office": true,
+     "note": "Client reports TWO MORE soft movements today beyond the two in Kathy Pastor's afternoon walk report - one before the groomers and one when she picked Gordy up - so four soft to liquid movements in one day. She offers a diet explanation: he ate only his canned soft food and refused his hard food. She does not ask for anything and does not mention a vet.",
+     "quote": "He did go #2 before going into the groomers and he did #2 when I picked him up"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 15",
      "source": "Kathy Pastor message to client 11:33am",
      "office": true,
@@ -606,16 +616,6 @@
      "office": true,
      "note": "Three toileting incidents in one stretch on the afternoon of Oct 6, written by the client: Sampson went #2 in the litter box, then a small #2 on the carpet, then urinated on the carpet while she was still cleaning the second one up. Follows his Oct 4 accidents and vomiting. No vet contact for Sampson appears anywhere in the notification mail, and Renee Dougherty's Oct 4 question about whether his pill can be crushed is still unanswered by the client.",
      "quote": "Sampson went #2 in the litter box again! I cleaned it up."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Chelsea Tompkins visit report, Oct 5 morning walk",
-     "office": true,
-     "note": "Gordy's stool logged loose again on the Oct 5 morning walk - Chelsea Tompkins ticked the a-little-loose-but-not-concerning box. He went #2 three times on the walk and #1 a number of times. The brief already carries loose readings for Gordy on Sep 24, Sep 28, Sep 29 and Sep 30, so this is another one; the report itself says nothing about a vet.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -2538,6 +2538,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 20",
+     "source": "Important Notes updated by Tiarra Roberts 2:51 PM",
+     "office": false,
+     "note": "New standing rule added to Important Notes at 2:51 PM. Comparing the Updated to and Previously blocks, this one bullet is the only change - everything else is unchanged. Nothing in the email says why.",
+     "quote": "Do NOT allow Ripley to pee around flagpole in front yard"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2646,16 +2656,6 @@
      "office": true,
      "note": "11:22am rewrite reduced the entry rule to 'Enter through garage' and deleted the instruction below. It is now nowhere in the record. Re-add it.",
      "quote": "Enter through garage, closing it immediately upon entering"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts edit 11:22am",
-     "office": true,
-     "note": "Same rewrite deleted Ripley's multivitamin treats entirely. Old notes: Dog is Human, 2 in the morning and 2 at bedtime, left on the counter by the client, tossed like a treat. Nothing now mentions them, so they will stop being given.",
-     "quote": "2 in the morning and 2 at bedtime (if he has it for her on counter)"
     }
    ],
    "dormant": false
