@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T09:20:05-04:00",
+ "generated": "2026-10-20T11:35:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -953,6 +953,16 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Elizabeth Sigler visit message, Oct 20 10:46 AM",
+     "office": false,
+     "note": "Chloe was shivering in the cold on this morning's walk, so the sitter cut the walk short, brought her in and dried the tops of her paws with a small towel, then gave her a treat to settle her. Towel was left at the side of the bench. First cold-weather note on Chloe; watch whether it repeats as mornings get colder.",
+     "quote": "It was a little cold this morning and she was shivering, so we didn’t stay out for long."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -1011,16 +1021,6 @@
      "office": false,
      "note": "Oct 15 afternoon visit: Chloe went #1 and #2 and the sitter wrote that the #2 was a mix of hard and loose at the end. The report's own consistency field contradicts this and reads firm and healthy, so the written note is the more specific of the two. This follows the Oct 12 soft stool and the Oct 13 visit that looked to have closed that watch, so the watch should be treated as reopened rather than closed. Melody was home during this visit.",
      "quote": "(a mix of hard and loose at the end)"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Visit report 10:49am",
-     "office": false,
-     "note": "Day after Chloe's Oct 12 soft stool. Sitter reports lots of energy and good drinking; the report ticks #1 only and records no #2, so there is still no normal stool reading since Oct 12.",
-     "quote": "She had lots of energy the whole time!"
     }
    ],
    "dormant": false
@@ -1343,6 +1343,16 @@
      "note": "Tiarra Roberts rewrote the Access Instructions this morning and the escape-artist warning for Georgie was dropped. Nothing in the note now tells a sitter the dog bolts. Same edit changed the closing instruction from the utility-room-to-hallway door to the laundry room door. Office to confirm the removal was intended.",
      "quote": "Georgie is an escape artist.",
      "source": "Tiarra Roberts, Access Instructions edit"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Michelle Carrara message to client, Oct 20 10:10 AM",
+     "office": false,
+     "note": "Georgie has a vet appointment on Wednesday Oct 21 - mentioned by the sitter, not by the client, so the reason for the visit is not stated anywhere in the mail. Next Petcare visit is Thursday; ask Mary Ann on arrival whether anything changed.",
+     "quote": "Sending good wishes to Georgie tomorrow for his vet appointment."
     }
    ],
    "dormant": false
@@ -2084,6 +2094,16 @@
      "quote": "If we scrap it for today, any chance he could walk tomorrow late morning?"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Michelle Carrara visit report, Oct 20 10:40 AM",
+     "office": false,
+     "note": "Macy's stool on the Oct 20 walk was marked loose in the consistency field - the sitter judged it not concerning and the narrative says nothing about it. First loose-stool note on Macy; Murphy's was normal the same visit.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2172,16 +2192,6 @@
      "office": false,
      "note": "Arrival procedure as rewritten Sep 11: client is home, send an ETA on the way, park in the driveway behind the truck unless told to park in the street, then close the garage door and knock on the glass door inside the garage for the leash hand-off.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 20",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "Murphy is walked for weight loss, so the care note asks sitters to keep him moving rather than stopping to sniff.",
-     "quote": "Please hurry him along if he starts to stop and sniff."
     }
    ],
    "dormant": false
@@ -2193,6 +2203,16 @@
     "Mac"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Client private message, Oct 20 10:45 AM",
+     "office": true,
+     "note": "Client asks the office to correct the service type on a request she just placed: she picked Dog and Cat visit and wants Dog visit only. She calls it the November 15-19 request, but the order-request notice that arrived five minutes later reads Nov 16 - Dec 11, so confirm which booking she means before editing. Needs an office change in Time To Pet; unanswered as of this run.",
+     "quote": "I meant to select Dog visit only."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -6847,6 +6867,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Chrissy George visit message, Oct 20 10:20 AM",
+     "office": false,
+     "note": "Sassie lunged at a moving car on today's walk and barked at a dog she saw. The report's own walk field still says everything went as planned, so the lunge appears only in the narrative. Reinforces the existing escape-risk warning - keep her short on leash near the road. Single observation by one sitter, not a new standing rule.",
+     "quote": "she did go after a car as we were walking"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "standing",
@@ -6955,16 +6985,6 @@
      "office": true,
      "note": "Client's own back-up walker picked Sassie up this morning by mistake; she says she will go over the schedule with him again. Office should confirm whether today's Petcare visit still stands and whether the visit was duplicated.",
      "quote": "my back up walker got his wires crossed and picked up Sassie this morning"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Margaret Bill visit report 3:13 PM",
-     "office": false,
-     "note": "Gina Sullivan's apartment: client was home during the afternoon visit and asked that the door not be left locked - the home-secured field reads \"Client was home during visit/ Client asked not to lock door\". A later sitter should not assume an empty, locked apartment.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -8074,6 +8094,16 @@
      "office": true,
      "note": "Returning client asking to re-engage service for Boo: Monday and Friday, 10:30am start, 20-minute walk, proposed start date 10/12/26, and she would add Wednesday in winter if it goes well. She wants to know if we are interested and what it costs, says email or phone is fine and that Boo is still healthy. Her callback number is in the Time To Pet message. No reply sent yet and the proposed start is this coming Monday.",
      "quote": "I am looking for Monday and Friday starting at 10:30 for a 20 minute walk."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Client private message, Oct 20 10:35 AM",
+     "office": true,
+     "note": "Client asks what a Long Range Visit is - Friday's visit is booked under that service type while the rest of hers are Dog Visit. She has queried her billing twice already this month, so answer the service type and check Friday is booked correctly. Unanswered as of this run.",
+     "quote": "What is a long range visit?"
     },
     {
      "cat": "health",
