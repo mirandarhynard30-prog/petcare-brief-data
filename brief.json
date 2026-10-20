@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T11:35:05-04:00",
+ "generated": "2026-10-20T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -810,6 +810,16 @@
      "quote": "We won’t need Margaret tomorrow but would she be able to come twice on Friday?"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Chrissy George visit report",
+     "office": false,
+     "note": "Lucy's stool was runny on the Oct 20 mid-morning walk and she scooted her rear on the ground afterwards; the report's consistency field reads very loose/diarrhea, pet otherwise fine. The walk field still says everything went as planned. Second loose-stool report for Lucy this week.",
+     "quote": "it was runny, and after she went, she scooted her butt on the ground"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -878,16 +888,6 @@
      "office": false,
      "note": "Second visit of the day, 2pm: Lucy had noticeably more energy than at the 11:39am visit, went #1 almost immediately, sniffed her way up the drive and took treats. No #2 was recorded at either Oct 9 visit and no scooting was mentioned this afternoon.",
      "quote": "Lucy was definitely more energetic than she was this morning. She went number one almost immediately."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Angela Jozsa client message",
-     "office": false,
-     "note": "Client warned that Chris is at the house today and expects him to be in the bedroom when the sitter arrives, so the sitter is not startled. Message addressed to Margaret.",
-     "quote": "Chris is at the house today but I believe he will be in the bedroom when you get there."
     }
    ],
    "dormant": false
@@ -1547,6 +1547,16 @@
      "office": false,
      "note": "Christina's suggested handling when Bismark will not walk: if the sitter is comfortable doing so, take him off the leash and walk toward the gate door to see whether he follows. She adds that otherwise he may just be lazy. This is the first time a technique has been offered rather than just a warning that he refuses.",
      "quote": "You can try taking him off the leash if you feel comfortable"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Elizabeth Sigler visit report",
+     "office": false,
+     "note": "Bismark refused his walk on Oct 20 - would not go near the gate - so the sitter gave him fenced backyard time instead and he settled in his usual patch of grass. One occurrence, not a standing rule.",
+     "quote": "He really didn’t want to take a walk today, I couldn’t get him to go anywhere near the gate."
     },
     {
      "cat": "behavior",
