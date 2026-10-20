@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T08:20:28-04:00",
+ "generated": "2026-10-20T09:36:23-04:00",
  "date": "2026-10-20",
  "label": "Oct 20, 2026",
  "clients": [
@@ -117,18 +117,6 @@
      "staff": "Josh Stone",
      "service": "Dog Visit-45 minute",
      "pets": "Sassie"
-    }
-   ]
-  },
-  {
-   "name": "Liz Wainio",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Thomas Rakovec",
-     "service": "Dog Visit-45 minute",
-     "pets": "Stella, Berry, Emma, Louie"
     }
    ]
   },
@@ -271,5 +259,5 @@
    ]
   }
  ],
- "visitCount": 26
+ "visitCount": 25
 }
