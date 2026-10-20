@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T13:20:07-04:00",
+ "generated": "2026-10-20T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -501,6 +501,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 20",
+     "source": "Kathy Pastor visit report, Oct 20 1 PM",
+     "office": true,
+     "note": "Gordy went #2 twice on the afternoon walk - first small, dark and very loose, second smaller and just liquid. Sitter marked the form 'very loose/ diarrhea but pet seems fine otherwise'. Dark colour plus two liquid movements in one visit; office may want to raise it with the client.",
+     "quote": "First time it was small, dark, and very loose. The second time it was even smaller and just liquid."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 15",
      "source": "Kathy Pastor message to client 11:33am",
      "office": true,
@@ -606,16 +616,6 @@
      "office": true,
      "note": "Gordy's stool logged loose again on the Oct 5 morning walk - Chelsea Tompkins ticked the a-little-loose-but-not-concerning box. He went #2 three times on the walk and #1 a number of times. The brief already carries loose readings for Gordy on Sep 24, Sep 28, Sep 29 and Sep 30, so this is another one; the report itself says nothing about a vet.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Renee Dougherty message to client, Oct 4 9:00am",
-     "office": true,
-     "note": "On the Oct 4 morning visit Renee Dougherty asked the client whether Sampson's pill can be crushed. No answer from Anna Marie is visible in the notification mail as of 9:13am, so the question is still open. The brief already carries the client's own stated method (pill given in soft food, more food added over several tries); nothing in the mail says crushing is approved, so do not assume it is.",
-     "quote": "Hi Anna Marie, I was wondering if Sampson‘s pill can be crushed?"
     }
    ],
    "dormant": false
@@ -3167,6 +3167,16 @@
      "quote": "I forgot Milo and Archer have dental visits this morning, so you guys won’t need to come out today!"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Jade Popovitz visit report, Oct 20 1:41 PM",
+     "office": false,
+     "note": "Archer's water bowls were empty on arrival; sitter rinsed them out and gave fresh water. Worth checking water on arrival at this house.",
+     "quote": "Poor Archer had no water so I rinsed them out and gave fresh water"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3205,16 +3215,6 @@
      "office": false,
      "note": "First report of the arrival routine here: Milo was in the crate and the sitter let him out while she sorted the leash, Archer met her at the door. Dogs walked one at a time, Milo first then Archer. Milo pulled a little, less than on Oct 9.",
      "quote": "I let Milo out the crate to run around while I got the leash together!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "Milo pulled on the Oct 9 late-morning walk and the sitter had to settle him with treats. She also re-routed Archer's walk the opposite way down the street because an elderly person was walking outside. Single visit, not a standing rule - but it is the first pulling report for Milo in this mailbox.",
-     "quote": "I leashed Milo up first we went on our walk he was pulling today had to calm him down with treats!"
     }
    ],
    "dormant": false
