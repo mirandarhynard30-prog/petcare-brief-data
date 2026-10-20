@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T00:05:22-04:00",
+ "generated": "2026-10-20T08:20:28-04:00",
  "date": "2026-10-20",
  "label": "Oct 20, 2026",
  "clients": [
@@ -269,19 +269,7 @@
      "pets": "Archer, Milo"
     }
    ]
-  },
-  {
-   "name": "Terry M",
-   "visits": [
-    {
-     "time": "12:30 PM",
-     "sort": "1230",
-     "staff": "Ashley Corall",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "CJ, Rex"
-    }
-   ]
   }
  ],
- "visitCount": 27
+ "visitCount": 26
 }
