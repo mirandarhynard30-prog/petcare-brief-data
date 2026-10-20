@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T14:20:05-04:00",
+ "generated": "2026-10-20T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7283,6 +7283,16 @@
      "quote": "No #2 today"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Jade Popovitz afternoon visit report, 2:33 PM",
+     "office": false,
+     "note": "Zoey went #2 on the afternoon visit and the form records the consistency as firm and healthy - first normal stool logged for Zoey after the loose-stool reports earlier this week. Bear had no #2 this visit.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7321,16 +7331,6 @@
      "office": true,
      "note": "The 2:08 PM report answers No to any pet supplies getting low and never mentions Bear's probiotic, so it does not confirm whether the Amazon delivery the client expected on Oct 18 arrived or whether Bear is still being dosed. The probiotic has now gone unmentioned in several consecutive reports.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Kiara Streety visit report",
-     "office": true,
-     "note": "Back yard too dark again at the morning visit - Kiara could not see whether either dog went #2, so the report logs #1 only for Bear and Zoey. Same lighting problem Faith Collins raised on Oct 1; it now also blocks stool observation while Bear is on a probiotic.",
-     "quote": "it is dark out still so tryna to keep my eye on both couldn’t see if number 2 was done!"
     }
    ],
    "dormant": false
