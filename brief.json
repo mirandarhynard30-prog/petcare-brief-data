@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T21:20:05-04:00",
+ "generated": "2026-10-20T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -659,6 +659,16 @@
     "CJ"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Terry M private message, 5:51 AM",
+     "office": true,
+     "note": "Client says she will be home Tuesday Oct 20 as well, still unwell - a second consecutive day home on sick leave. A portal Service Change cancellation for Tue Oct 20 followed at 6:01 AM. Confirm the Tuesday visit is off the scheduler and acknowledge her.",
+     "quote": "I’m going be home Tuesday as well. Still not feeling well."
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -1507,16 +1517,6 @@
      "office": false,
      "note": "Bismark got past the gate but laid down after a couple of steps and would not walk; sitter spent the rest of the visit with him in the fenced backyard instead.",
      "quote": "I didn’t have much trouble getting him past the gate, but then he laid down pretty quickly."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Visit report, Drew Walker, Sep 28 12:59 PM",
-     "office": false,
-     "note": "Bismark got further than usual on this visit, out past the gate, then would not go on. Sitter sat outside with him before bringing him back in. No #2 on this visit.",
-     "quote": "We made it further than we normally do, we made it outside the gate"
     },
     {
      "cat": "behavior",
@@ -4263,16 +4263,6 @@
     {
      "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Tiarra Roberts left a message for Stephanie Sarrocco.",
-     "office": false,
-     "note": "Tiarra struggled with the front door lock on the Sep 28 morning visit before getting in. The Access Instructions were corrected one minute later, so this may have been the trigger; the email does not say whether the hardware itself is sticking. Allow extra time at the door.",
-     "quote": "I had just a little trouble with the front door lock, but I finally got it unlocked."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
      "type": "standing",
      "date": "Sep 27",
      "source": "Client message to Tiarra and Noella, Sep 27 12:02pm Eastern",
@@ -5707,26 +5697,6 @@
      "office": false,
      "note": "On the evening walk Helios growled at full-size Halloween decorations, and got wound up once mid-walk (back-leg kicking) before settling. Strong on the leash; carried his rib toy the whole walk.",
      "quote": "He growled at some full-size Halloween decor, I told him they were fake."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Client message 12:05pm Sep 28",
-     "office": false,
-     "note": "Client wrote at 12:05pm Sep 28 that his dog will NOT need to be fed and that he himself will be home, and that what he wants is for the dog to get some exercise. He expects the dog to be excited to see everyone. The message arrived alongside a request for dates Sep 29 to Oct 1, so it most likely applies to that window, but the message itself names no dates.",
-     "quote": "He will not need to be fed, I will be home"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 28",
-     "source": "Client message from Tom Noble",
-     "office": false,
-     "note": "Tom will be home recovering from surgery during this booking; the dog does not need to be fed and he mainly wants the dog exercised.",
-     "quote": "He will not need to be fed, I will be home I am recovering from surgery"
     },
     {
      "cat": "behavior",
