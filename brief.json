@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T19:20:05-04:00",
+ "generated": "2026-10-19T21:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1953,6 +1953,26 @@
      "quote": "Thank you for watching me do the shot. I just want to make sure i am doing it right."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 19",
+     "source": "Client message, 8:59 PM Oct 19",
+     "office": false,
+     "note": "Client reported the diabetic cat's blood glucose went up to over 300. She does not name which cat in the message - she refers to 'him', and the same evening mentions Simb, Sandy and Buttercup separately - so confirm which animal before relying on this.",
+     "quote": "His glucose went up to over 300."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 19",
+     "source": "Client message, 8:59 PM Oct 19",
+     "office": true,
+     "note": "Insulin dose change: client says the vet raised the morning dose by one unit, immediately after reporting glucose over 300. The message does not say the new total units, which animal, or whether a Petcare sitter gives the AM dose - office needs to confirm all three and update the care instructions. Do not act on this at a visit until the chart is updated.",
+     "quote": "Doc just raised it one unit in am"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2031,26 +2051,6 @@
      "office": false,
      "note": "Client says to use the back door for tonight's visit; sitter Robin Lewis confirmed at 8:50 AM she will come to the back door.",
      "quote": "BACK door."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Client text message 8:33 AM",
-     "office": false,
-     "note": "Client confirmed 6:30 PM tonight for the visit.",
-     "quote": "6:30 tonight should be good."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Client msg, Oct 12 3:53pm",
-     "office": false,
-     "note": "Marcella says the cats have slept through the roofing noise so far.",
-     "quote": "Can't believe they have slept threw it."
     }
    ],
    "dormant": false
