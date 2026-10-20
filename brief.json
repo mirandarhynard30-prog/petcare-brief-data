@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T06:20:05-04:00",
+ "generated": "2026-10-20T08:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -369,6 +369,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 20",
+     "source": "Client message via Time To Pet, 7:56 AM",
+     "office": true,
+     "note": "Liz messaged at 7:56 AM to say she is taking a leave of absence from her job and will be off for the rest of the week, and that she will submit the cancellation forms. A portal Service Change notice at 8:07 AM cancels today's 11:00 AM Dog Visit-45 minute. She did not list which other days she is cancelling, so the rest of the week still has to be confirmed and taken off the scheduler.",
+     "quote": "I am taking a leave of absence from my job. I will be off the rest of the week."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 19",
      "source": "Client message 4:45 AM",
      "office": true,
@@ -474,16 +484,6 @@
      "office": true,
      "note": "The report's accidents field was set to the pet got sick and was cleaned up, with before and after pictures. The written note names no animal and describes only used pee pads in the living room, so which animal was sick is not stated anywhere in the report.",
      "quote": "The pet got sick and I cleaned it up"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 30",
-     "office": true,
-     "source": "Client message, Sep 30 12:00 PM",
-     "note": "Client update: Louie has been grumpy lately, she took him to the vet and he is continuing Rimadyl. He has gained weight and the vet recommended cutting back on his treats; if he keeps gaining she will have his thyroid checked. The treat restriction is a standing change and is not yet in his Pet Care Note.",
-     "quote": "I took him to the vet and he is continuing Rimadyl."
     }
    ],
    "dormant": false
@@ -2043,14 +2043,14 @@
      "quote": "I will hold onto him till you get in door."
     },
     {
-     "cat": "home",
+     "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 19",
-     "source": "Client text message 8:33 AM",
-     "office": false,
-     "note": "Client says to use the back door for tonight's visit; sitter Robin Lewis confirmed at 8:50 AM she will come to the back door.",
-     "quote": "BACK door."
+     "date": "Oct 20",
+     "source": "Sitter Robin Lewis message to client, 7:57 AM",
+     "office": true,
+     "note": "The client asked at 7:56 AM whether the sitter feels better about giving the injection, and Robin Lewis replied at 7:57 AM that she does, after the client watched her give the Oct 19 evening shot. This is the sitter's own say-so by text only - there is still nothing in the chart recording training sign-off, and it does not address the vet's one-unit morning increase reported the night before.",
+     "quote": "Good morning yes i do feel better about giving the shot. Thank you for asking"
     }
    ],
    "dormant": false
