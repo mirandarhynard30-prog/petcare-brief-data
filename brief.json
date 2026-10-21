@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T15:20:06-04:00",
+ "generated": "2026-10-21T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6940,21 +6940,21 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 20",
-     "source": "Margaret Bill message to client",
+     "date": "Oct 21",
+     "source": "Josh Stone visit report 3:11 PM",
      "office": true,
-     "note": "Sitter told the client today's visit would be at 9:30 am and that Chrissy would be shadowing her. The client's requested 8am / 1pm / 7pm windows are still not confirmed anywhere in email, so 9:30 am may not be what she is expecting.",
-     "quote": "This is Margaret and I am letting you know that Chrissy will be shadowing me today. We will be there at 9:30am."
+     "note": "Joan asked the sitter during the visit for information on SCAT Metro transport services for a doctor's appointment that may clash with the visit schedule. The sitter attached a photo of the SCAT brochure to the report. The appointment date and time are not stated anywhere in the message, so the office needs to call and get them before any rescheduling can be worked out.",
+     "quote": "Joan asked me to get her info on scat metro services for her doctors appointment that might not match up with scheduling"
     },
     {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 19",
-     "source": "Client message 8:19 AM",
+     "date": "Oct 20",
+     "source": "Margaret Bill message to client",
      "office": true,
-     "note": "Client's own back-up walker picked Sassie up this morning by mistake; she says she will go over the schedule with him again. Office should confirm whether today's Petcare visit still stands and whether the visit was duplicated.",
-     "quote": "my back up walker got his wires crossed and picked up Sassie this morning"
+     "note": "Sitter told the client today's visit would be at 9:30 am and that Chrissy would be shadowing her. The client's requested 8am / 1pm / 7pm windows are still not confirmed anywhere in email, so 9:30 am may not be what she is expecting.",
+     "quote": "This is Margaret and I am letting you know that Chrissy will be shadowing me today. We will be there at 9:30am."
     }
    ],
    "dormant": false
@@ -8207,6 +8207,16 @@
      "quote": "NOT dog friendly – avoid other dogs"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 21",
+     "source": "Margaret Bill visit report 3:28 PM",
+     "office": true,
+     "note": "Ollie finished everything in his bowl at the afternoon visit and the sitter topped it up with a little more, then asked Clara to confirm whether that is wanted. No answer from Clara yet, so the standing portion size is unconfirmed - office should get a yes or no before the next feeding visit.",
+     "quote": "He ate all of the food in his bowl so I gave him a little more."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -8295,16 +8305,6 @@
      "office": false,
      "note": "Client says Ollie has some obedience. Her own word 'roughly' suggests the cues are not reliable, so do not count on them for control - he is also logged as an escape risk.",
      "quote": "He knows sit, down, and drop it roughly."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 11",
-     "source": "Company Notes written by Shannon Anderson, 4:26pm",
-     "office": false,
-     "note": "Park in the driveway. No house alarm; client not home during visits. Treats and cleaning supplies on the mantle, water bowl on the living room rug, toys on the corner chair. Mail from the end of the driveway goes on the mantle.",
-     "quote": "Mail: Mantle • Trash day: Friday"
     }
    ],
    "dormant": false
