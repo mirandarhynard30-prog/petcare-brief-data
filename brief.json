@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T16:20:05-04:00",
+ "generated": "2026-10-21T18:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -233,6 +233,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 21",
+     "source": "Margaret Bill visit report, 5:52 PM",
+     "office": true,
+     "note": "The afternoon feeding was done without the sitter knowing which food belongs to which dog - she guessed. Which container feeds Puck and which feeds Rusty needs to be written into the Pet Care Note so no sitter has to guess again.",
+     "quote": "it would be helpful if I knew which food went to which dog"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -341,16 +351,6 @@
      "office": true,
      "note": "Client cancelled the Oct 7 midday visit in her own words - she wants it skipped until the meet and greet has happened. Separate from the portal Service Change notice; the Oct 7 midday visit needs taking off the schedule.",
      "quote": "No, well just skip the visit on the midday visit on the 7th until the meet and greet"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Client private message, Oct 4 12:18 PM",
-     "office": true,
-     "note": "Move timeline and meet-and-greet dates updated: hotel Monday and probably Tuesday, hopefully in the new place Wednesday. She says Oct 7 or Oct 8 works for the meet and greet. The office still has to pick one of those two dates and confirm it back to her.",
-     "quote": "Yes the 7th or 8th should work for meet and greet."
     }
    ],
    "dormant": false
@@ -4566,6 +4566,16 @@
      "quote": "Yes if the alarm is on just disarm it"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 21",
+     "source": "Thomas Rakovec visit report, 5:09 PM",
+     "office": false,
+     "note": "Second visit of the day and Jaxson still had not had a bowel movement - urinated repeatedly, no #2. The earlier walk report the same day also recorded no #2. Worth watching at the next visit.",
+     "quote": "He went pee million times no no.#2"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -4654,16 +4664,6 @@
      "office": false,
      "note": "The sitter deliberately kept the midday walk short because the temperature was climbing, going down one street and turning back. Afterwards Jaxson had no interest in going out to the backyard and wanted indoor attention instead. Second sitter in as many days to flag the warmth on this client.",
      "quote": "I wanted to be careful too because the temperature was getting warm"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 13",
-     "source": "Client message, 5:09pm",
-     "office": false,
-     "note": "Client confirms Jaxson is heat sensitive and thanks the sitter for keeping the walk short in the heat. Backs up the sitter's own decision earlier the same day to cut the midday walk short. Treat shortening hot-weather walks here as expected, not a judgement call.",
-     "quote": "he's a big baby when it comes to the Heat"
     }
    ],
    "dormant": false
@@ -8385,6 +8385,26 @@
      "source": "Client updated pet details - Suka and Bruno",
      "office": false,
      "note": "Vet on file for both Suka and Bruno is now Valley Animal Hospital, 1830 Merriman Rd, Akron, OH 44313, 330-836-1971.",
+     "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Karen Grosser",
+   "url": "https://www.timetopet.com/dashboard/client/tn9zy9mw16VS",
+   "pets": [
+    "Chloe"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 21",
+     "source": "Client profile update, 5:41 PM",
+     "office": true,
+     "note": "New client filled in her own profile - address and two emergency contacts are now on file, but the Access Instructions field was left as a placeholder saying she is still working on it. No usable entry instructions exist yet, so this must be collected before any visit is assigned.",
      "quote": ""
     }
    ],
