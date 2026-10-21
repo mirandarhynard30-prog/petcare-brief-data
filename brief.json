@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T18:20:06-04:00",
+ "generated": "2026-10-21T19:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -245,6 +245,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Oct 21",
+     "source": "Client message 6:27 PM",
+     "office": false,
+     "note": "Client answered the open food-container question directly at 6:27 PM: Puck's food is the left-side container, Rusty's is the right side. She sent this after the 5:52 PM visit at which the sitter fed both dogs without knowing which container was which and guessed. Use it with the amounts already on file rather than guessing.",
+     "quote": "Thanks so much!! Pucks food is left side and rustys is right side"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Oct 14",
      "source": "Shannon Anderson message + record edit",
@@ -341,16 +351,6 @@
      "office": false,
      "note": "First access arrangement from Mary after days of silence. She will meet the sitter outside rather than leave a way in, and names Margaret. Her address and apartment are on her Time To Pet record and are not repeated here.",
      "quote": "Brown building. I will meet you outside! See you soon Margaret!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Client private message, Oct 4 12:57 PM",
-     "office": true,
-     "note": "Client cancelled the Oct 7 midday visit in her own words - she wants it skipped until the meet and greet has happened. Separate from the portal Service Change notice; the Oct 7 midday visit needs taking off the schedule.",
-     "quote": "No, well just skip the visit on the midday visit on the 7th until the meet and greet"
     }
    ],
    "dormant": false
