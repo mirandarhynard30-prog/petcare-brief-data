@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T23:20:07-04:00",
+ "generated": "2026-10-21T09:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -773,6 +773,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 21",
+     "source": "Angela Jozsa private message, Oct 21 9:05 AM ET",
+     "office": true,
+     "note": "Withdrew her reschedule request - today's Lucy walk stays at 12:15, no change needed. She had chased at 8:17 AM asking for whoever was coming to arrive around 1:00; this message supersedes that. Nothing in this mailbox shows the office replied to either message.",
+     "quote": "Ok we will just keep it at 12:15. Thank you for trying!!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 20",
      "source": "Client private message 9:35 PM",
      "office": true,
@@ -878,16 +888,6 @@
      "office": true,
      "note": "THIRD scooting report in five days - Oct 5, Oct 7 and now Oct 9. Same Oct 9 morning visit: Lucy was groggy on arrival, water bowl was filled but she would not touch it, she turned around halfway up the ranch houses and lay straight back down on her bed, and she went #1 with no #2. She did eat some kibble and some treats. Sitter returns at 2pm the same day and wrote that she hopes Lucy has more energy later. Repeated scooting plus low energy plus no #2 is worth raising with the client - there is no vet contact or diagnosis anywhere in this mailbox.",
      "quote": "She also did a little scooting again today."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Client message 1:01pm",
-     "office": false,
-     "note": "Client's own answer to the three scooting reports (Oct 5, Oct 7, Oct 9): she says Lucy has been fully checked out and does not have worms, and that Lucy just gets an itchy bottom sometimes. She also attributes today's sluggishness to a bad night's sleep rather than illness.",
-     "quote": "I have had her all checked out and everything so she doesn’t have worms or anything like that"
     }
    ],
    "dormant": false
@@ -1323,16 +1323,6 @@
      "office": false,
      "note": "Client's own Sep 30 evening message thanks Kristin for avoiding 'the toad and the reported coyotes' on the night walk. COYOTES have not appeared anywhere in the brief before. AMBIGUOUS: no email says who reported the coyotes, when, or where - Kristin's 8:32 PM walk report for the same visit mentions neither a toad nor a coyote, so the client is the only source and the detail may have been passed on in person. Toads at this address are already a known standing hazard (Sep 16, Sep 29). Treat as unconfirmed predator activity on the evening walk route until the office pins down the source.",
      "quote": "Glad you avoided the toad and the reported coyotes. Yikes!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Tiarra Roberts evening visit report, Sep 29",
-     "office": false,
-     "note": "Another toad on the Sep 29 evening walk. Tiarra saw it and steered Georgie clear, and Mary Ann wrote back to thank her for guiding him away from it. Tiarra replied that she is on high alert on the PM visits. This is the second documented toad encounter on this route after the two at the gate on Sep 16, so the hazard is current, not historical.",
-     "quote": "We did see a toad, but we avoided it."
     },
     {
      "cat": "behavior",
@@ -2369,26 +2359,6 @@
     {
      "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Client message 12:33pm",
-     "office": false,
-     "note": "Daffodil had an accident indoors at the 11:45am visit on Sep 29. Kathy Sullenberger and Shannon Anderson cleaned it with soap and water. The client asked for a description of where the spot is so she can treat it when she gets home, and says she will set out the cleaner in case it happens again. Shannon Anderson replied at 12:41pm pointing her to the second photo, so the location question looks answered - worth a glance to confirm she got what she needed.",
-     "quote": "I’ll make sure to set out the cleaner in case it happens again."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Client message 12:33pm",
-     "office": false,
-     "note": "The client says the Sep 29 indoor accident was out of character because Daffodil had already pooped when she took her out before work. No other symptom is mentioned. Logged so a second accident would be recognised as a pattern rather than a one-off.",
-     "quote": "that’s really unexpected, especially since she pooped when I took her before work, too."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
      "type": "standing",
      "date": "Aug 20",
      "source": "Kathy Sullenberger",
@@ -3155,16 +3125,6 @@
      "office": true,
      "note": "Milo's stool on the Sep 30 late-morning visit was logged as diarrhea. This is the first stool reading since the client said that morning that both dogs are on medication after a vet visit yesterday. Archer's was firm and healthy the same visit.",
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Client message in Time To Pet, 6:28am",
-     "office": true,
-     "note": "Same-day cancellation for TODAY Sep 29. Paulo wrote at 6:28am to say he forgot Milo and Archer have dental appointments this morning and no visit is needed today. Sent as a message, not a portal cancellation, so the visit is likely still on the schedule - office needs to pull it before a sitter drives out.",
-     "quote": "I forgot Milo and Archer have dental visits this morning, so you guys won’t need to come out today!"
     },
     {
      "cat": "home",
@@ -4131,36 +4091,6 @@
     {
      "cat": "schedule",
      "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Client message 9:52am Sep 29 + reply thread",
-     "office": true,
-     "note": "Same-day add: client asked at 9:52am whether anyone could take Whiskey out around noon today. Elizabeth Sigler messaged him at 10:09am saying she is excited to see Whiskey later, and the client replied 'That would be perfect, thank you!' at 10:08am. The emails do not show the visit being entered on the schedule - office should confirm it exists and is billed.",
-     "quote": "Sorry for the late request, would it be possible for anyone to take Whiskey out around noon?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Client message 12:03pm",
-     "office": true,
-     "note": "Client messaged at 12:03pm, on the day of the same-day noon walk, that Whiskey needs lunch and that the food is on the dining table. The same message also carried today's entry arrangement, which is not recorded here - see Time To Pet. The message landed after the noon window opened and no staff reply is visible in the mail, so the sitter may not have seen it.",
-     "quote": "Whiskey does need lunch and the food is on the dining table."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "office": true,
-     "source": "Client message, 2:13pm",
-     "note": "Client wrote at 2:13pm during the same-day noon walk that Praveena has to get Whiskey to a sitter before her flight to New York, and asked that Whiskey be back by 2:50. He does not say how long Whiskey will be at the sitter or whether the standing twice-daily visits should pause, so the office needs to ask before the next scheduled visit.",
-     "quote": "I know she has to also get Whiskey to the sitter before she leaves for her flight to New York"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
      "type": "standing",
      "date": "Sep 17",
      "source": "Client message, 8:37am",
@@ -5009,16 +4939,6 @@
      "office": false,
      "note": "Sitter reached the house and could not get in. Client opened the garage remotely, apologised and said she would tell her sister - so the house being locked up appears to come from someone else in the household, and access may not be reliable on future visits.",
      "quote": "It’s unlocked. I just opened garage. I’m sorry. I’ll let my sister know."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Client message 11:42am",
-     "office": false,
-     "note": "Client wrote at 11:42am that the lawn was aerated and treated this morning and asked that Lily's paws be wiped if she goes outside. She thinks it is dry but does not want to risk it. Applies to today's visits only unless she says otherwise.",
-     "quote": "the lawn was aerated and treated this morning. If possible, can you wipe Lily’s paws if she goes outside"
     },
     {
      "cat": "behavior",
@@ -6789,16 +6709,6 @@
     {
      "cat": "behavior",
      "sev": "high",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Tiarra Roberts visit report, Sep 29 evening",
-     "office": true,
-     "note": "Beau-ba could not be found at the Sep 29 evening visit and the sitter flagged being worried. Pepa greeted at the side garage door and Pickles was found in a bedroom closet, so Beau-ba is the only cat unaccounted for on that visit. Next sitter should confirm he is seen.",
-     "quote": "I looked for Beau-ba and could not find him, making me a bit worried."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
      "type": "standing",
      "date": "Sep 29",
      "source": "Michael Smith client message, 9:15pm",
@@ -7170,16 +7080,6 @@
      "office": false,
      "note": "House routine for this cat-only visit, as carried out on Sep 30: scoop both litter boxes and sweep around them, top off the water fountains, check the dry food level, bag the used litter into the garage trash can, put the trash and recycling bins out or bring them back up, and check for mail to bring in. Norah is very vocal and sociable and expects chat and a treat.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 29",
-     "source": "Margaret Bill message 12:08pm",
-     "office": false,
-     "note": "Margaret Bill told the client at 12:08pm that the garbage should be taken out Tuesday next time. Her wording is garbled, so which day staff have actually settled on is unconfirmed.",
-     "quote": "We should take it out in Tuesday then next time."
     },
     {
      "cat": "behavior",
