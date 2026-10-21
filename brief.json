@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T12:20:09-04:00",
+ "generated": "2026-10-21T13:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -698,6 +698,26 @@
      "office": true,
      "note": "Client cancels this Friday's visit (Oct 16) - Terry's schedule changed again and he will be working from home. Office needs to action the cancellation. The message is signed Toni, not Terry.",
      "quote": "Terrys schedule has changed again this week so he will be working from home Friday so we need to cancel Fridays visit"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 21",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "On the walk both dogs reacted loudly to two other dogs passing and were frustrated at not being allowed to greet them. One walk, one observation.",
+     "quote": "very very vocal about not getting to say hi"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 21",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Potty accident in the house found and cleaned up by the sitter; before and after photos are in the report.",
+     "quote": "There was a potty accident and I cleaned it up"
     },
     {
      "cat": "health",
@@ -3741,6 +3761,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 21",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Guinness went #2 twice on the walk; the second was diarrhea. Sitter reports he seemed fine otherwise. First report of this for Guinness.",
+     "quote": "the second time was diarrhea but he seemed just find"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 20",
      "source": "Dan Dantimo visit report, 12:50 PM",
      "office": false,
@@ -3846,16 +3876,6 @@
      "office": false,
      "note": "Guinness's #2 at the midday walk was again logged a little loose but not concerning. He walked, ate and played normally otherwise.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Sitter Elizabeth Cuffari, Oct 1 afternoon visit report",
-     "office": true,
-     "note": "First firm-and-healthy stool reading for Guinness after a long run of loose readings. Elizabeth Cuffari, shadowing Dan Dantimo on her first visit with Guinness, reports he went #2 twice on the walk and answered the report's consistency field 'It was firm and healthy'. Office should weigh this against the loose-stool follow-up that has been open since Sep 11 before closing or escalating it.",
-     "quote": "He went number one and number two twice."
     }
    ],
    "dormant": false
@@ -8215,6 +8235,16 @@
      "office": false,
      "note": "Midday/afternoon feeding: small handful of dry Royal Canin Small Breed, food kept on the mantle.",
      "quote": "Put a small handful of dry food in his bowl and put in his crate"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 21",
+     "source": "Client message from Clara Florian",
+     "office": false,
+     "note": "Owner says Ollie is growing more assertive and outgoing over time. Owner adds she is reachable by call, text or app message with any questions.",
+     "quote": "He is such an excited little guy. Getting bossier and more outgoing by the day lol"
     },
     {
      "cat": "home",
