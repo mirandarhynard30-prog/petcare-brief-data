@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T00:05:07-04:00",
+ "generated": "2026-10-21T13:05:19-04:00",
  "date": "2026-10-21",
  "label": "Oct 21, 2026",
  "clients": [
@@ -43,8 +43,8 @@
    "name": "Christine Jenison",
    "visits": [
     {
-     "time": "12:30 PM",
-     "sort": "1230",
+     "time": "12:45 PM",
+     "sort": "1245",
      "staff": "Shannon  Anderson",
      "service": "Dog Visit-30 minute",
      "pets": "Frank, Weezie or Louise"
@@ -114,8 +114,8 @@
      "pets": "Sassie"
     },
     {
-     "time": "2:15 PM",
-     "sort": "1415",
+     "time": "2:30 PM",
+     "sort": "1430",
      "staff": "Josh Stone",
      "service": "Dog Visit-45 minute",
      "pets": "Sassie"
@@ -125,13 +125,6 @@
   {
    "name": "Jennifer Wagar",
    "visits": [
-    {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Josh Stone",
-     "service": "Client Consultation with a Team Member",
-     "pets": "Bruno, Suka"
-    },
     {
      "time": "1:15 PM",
      "sort": "1315",
@@ -143,6 +136,13 @@
      "time": "1:15 PM",
      "sort": "1315",
      "staff": "Chrissy George",
+     "service": "Client Consultation with a Team Member",
+     "pets": "Bruno, Suka"
+    },
+    {
+     "time": "1:15 PM",
+     "sort": "1315",
+     "staff": "Josh Stone",
      "service": "Client Consultation with a Team Member",
      "pets": "Bruno, Suka"
     }
