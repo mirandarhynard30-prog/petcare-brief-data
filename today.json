@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T13:05:19-04:00",
+ "generated": "2026-10-21T15:20:10-04:00",
  "date": "2026-10-21",
  "label": "Oct 21, 2026",
  "clients": [
@@ -183,8 +183,8 @@
      "pets": "Georgie"
     },
     {
-     "time": "8:00 PM",
-     "sort": "2000",
+     "time": "8:30 PM",
+     "sort": "2030",
      "staff": "Noella Assi",
      "service": "Dog Visit-20 minute",
      "pets": "Georgie"
@@ -271,8 +271,8 @@
      "pets": "Bear, Zoey"
     },
     {
-     "time": "2:30 PM",
-     "sort": "1430",
+     "time": "3:00 PM",
+     "sort": "1500",
      "staff": "Jade Popovitz",
      "service": "Dog Visit-30 minute",
      "pets": "Bear, Zoey"
