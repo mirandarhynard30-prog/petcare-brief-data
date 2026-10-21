@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T21:20:05-04:00",
+ "generated": "2026-10-20T22:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -770,6 +770,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 20",
+     "source": "Client private message 9:35 PM",
+     "office": true,
+     "note": "Client (Carol) asks by private message at 9:35 PM to move Lucy's walk tomorrow, Wed Oct 21, from 12:00 to 1:00. She calls it late notice. Unanswered as of this run and it is for the next day - needs confirming to the client and moving on the scheduler before the noon slot. Separate from the Oct 11 and Oct 7 schedule changes already on file.",
+     "quote": "Miranda, I know this is late notice but I’m wondering if we could change time for Lucy’s walk tomorrow to 1:00 rather than 12:00."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -878,16 +888,6 @@
      "office": false,
      "note": "Client's own answer to the three scooting reports (Oct 5, Oct 7, Oct 9): she says Lucy has been fully checked out and does not have worms, and that Lucy just gets an itchy bottom sometimes. She also attributes today's sluggishness to a bad night's sleep rather than illness.",
      "quote": "I have had her all checked out and everything so she doesn’t have worms or anything like that"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Margaret Bill visit report 2:42pm",
-     "office": false,
-     "note": "Second visit of the day, 2pm: Lucy had noticeably more energy than at the 11:39am visit, went #1 almost immediately, sniffed her way up the drive and took treats. No #2 was recorded at either Oct 9 visit and no scooting was mentioned this afternoon.",
-     "quote": "Lucy was definitely more energetic than she was this morning. She went number one almost immediately."
     }
    ],
    "dormant": false
