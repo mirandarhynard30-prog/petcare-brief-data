@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T14:20:06-04:00",
+ "generated": "2026-10-21T15:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7243,6 +7243,26 @@
      "quote": "If it’s frozen could just leave it in the fridge overnight and do dry food only this afternoon and both again in the morning."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 21",
+     "office": true,
+     "source": "Jade Popovitz visit report 3:00 PM",
+     "note": "Afternoon visit: the sitter took the spare wet food out of the freezer and set it on the counter to thaw at the start of the visit. It was still solid by the end, so she fed dry food and fresh water only. Nicole's instruction this morning was dry food only this afternoon and to thaw in the fridge overnight - the dry-only part was followed, the counter thaw was not what she asked for. AMBIGUOUS whether the pack was left out or returned to the freezer; the report does not say. Office should confirm with Nicole and with the next sitter.",
+     "quote": "I placed the wet dog food from the freezer on the counter for it to thaw"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 21",
+     "office": false,
+     "source": "Jade Popovitz visit report 3:00 PM",
+     "note": "Oct 21 afternoon: both Bear and Zoey went #1 and #2 and both stools were logged firm and healthy. This is the first report since the Oct 19 diarrhea in which Zoey has a recorded normal #2 on the same day as Bear, and follows a normal reading on the Oct 20 afternoon visit.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7261,26 +7281,6 @@
      "office": true,
      "note": "Zoey again logged with no #2 at the Oct 20 morning visit. Her earlier loose stool is still unresolved on paper and the client has not been told anything.",
      "quote": "No #2 today"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Jade Popovitz afternoon visit report, 2:33 PM",
-     "office": false,
-     "note": "Zoey went #2 on the afternoon visit and the form records the consistency as firm and healthy - first normal stool logged for Zoey after the loose-stool reports earlier this week. Bear had no #2 this visit.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Jade Popovitz visit report, Oct 19 9:37 AM",
-     "office": true,
-     "note": "The morning report answers Yes to medication administered for Bear and No to any pet supplies getting low, but never names the probiotic. AMBIGUOUS - it suggests a dose was on hand this morning without confirming the replacement container from Amazon arrived.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -8366,6 +8366,16 @@
      "office": true,
      "note": "Second booking correction from Jennifer, sent after the 11/18 one. She says she entered two visits on November 29 when it should be one visit on November 29 and one on November 30. Office needs to move the duplicate visit to November 30. She also has a service order request covering Oct 22 - Nov 29 awaiting approval, so the fix likely belongs in that request.",
      "quote": "Also, I put two visits in for November 29 and that’s supposed to be one for November 29 and one for November 30"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 21",
+     "source": "Client message 3:08 PM",
+     "office": false,
+     "note": "After the Oct 21 meet-and-greet Jennifer wrote that both dogs took to the sitters who came. She repeats that Suka is friendly with most people while Bruno is normally wary, and says Bruno's fur did not even stand up for any of them. Reassurance about the sitters who met him on Oct 21 only - the standing rule that Bruno is scared of new people still applies to anyone new.",
+     "quote": "Suka likes a lot of people, but Bruno is usually leery."
     },
     {
      "cat": "health",
