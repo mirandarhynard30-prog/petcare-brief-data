@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T09:20:08-04:00",
+ "generated": "2026-10-21T10:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7163,6 +7163,16 @@
      "quote": "so I put both there mask on and leash Zoey and we went outside"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 21",
+     "source": "Alex Miller visit report, Oct 21 9:39 AM",
+     "office": true,
+     "note": "Wet food ran out at the Oct 21 morning visit. Alex Miller fed dry plus the last of the wet and asked the client where to get more before the afternoon visit; Kiara Streety sent a separate message saying the same. No answer from the client yet, so the afternoon sitter has no instruction.",
+     "quote": "Wet food is out today, would you be able to tell us where we can get more for their afternoon visit?"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7221,16 +7231,6 @@
      "office": false,
      "note": "Another report describing a face covering before outside time. This sitter calls them mesh muzzles and says she put them on both dogs after greeting them, before going out into the fenced back yard. Earlier reports call the same thing a mask.",
      "quote": "I put their mesh muzzles on"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Elizabeth Sigler visit report 2:08 PM",
-     "office": true,
-     "note": "The 2:08 PM report answers No to any pet supplies getting low and never mentions Bear's probiotic, so it does not confirm whether the Amazon delivery the client expected on Oct 18 arrived or whether Bear is still being dosed. The probiotic has now gone unmentioned in several consecutive reports.",
-     "quote": ""
     }
    ],
    "dormant": false
