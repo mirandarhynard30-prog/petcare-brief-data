@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T19:20:05-04:00",
+ "generated": "2026-10-20T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3771,6 +3771,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 20",
+     "source": "Dan Dantimo visit report, 12:50 PM",
+     "office": false,
+     "note": "Guinness went #2 TWICE near the end of the Oct 20 midday walk and the consistency field was again answered that it was a little loose but not concerning. Same reading on Oct 2, 13, 15, 17 and now Oct 20. Narrative otherwise normal - walked happily toward the Commons, then wanted to head home. NOTE: the form-answer quote was dropped because the de-duplication key collided with another client's identical stock phrase on the same day.",
+     "quote": "when we were almost done with our walk he went number two twice"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 17",
      "source": "Dan Dantimo visit report",
      "office": false,
@@ -3876,16 +3886,6 @@
      "office": true,
      "note": "First firm-and-healthy stool reading for Guinness after a long run of loose readings. Elizabeth Cuffari, shadowing Dan Dantimo on her first visit with Guinness, reports he went #2 twice on the walk and answered the report's consistency field 'It was firm and healthy'. Office should weigh this against the loose-stool follow-up that has been open since Sep 11 before closing or escalating it.",
      "quote": "He went number one and number two twice."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Dan Dantimo visit report, 12:56 PM",
-     "office": true,
-     "note": "Midday walk with Dan Dantimo: Guinness went both #1 and #2 on an extended walk down to Jaycox, and Dan answered the report's #2 consistency field with the a-little-loose-but-not-concerning option again. That is the eleventh loose reading logged since Sep 11 and no vet contact appears anywhere in the record. Quote deliberately left empty - the verbatim wording is identical to an already-published Sep 30 health item for another client and the current de-duplication key would silently drop one of them.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -6197,6 +6197,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 20",
+     "source": "Shannon Anderson visit report, 12:26 PM",
+     "office": true,
+     "note": "Oct 20 midday report makes no mention of Weezie/Louise's eye drops - not in the narrative and not in the report form, which still has no eye-drop field. Weezie is logged #1 only, with no #2 and no consistency; Frank is logged #1, #2 and firm and healthy. The run of reports with no eye-drop record now extends into Oct 20.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 19",
      "source": "Shannon Anderson visit report for Christine Jenison, Oct 19 12:27 PM",
      "office": true,
@@ -6302,16 +6312,6 @@
      "office": true,
      "note": "Shannon Anderson's midday report on Frank and Weezie/Louise makes no mention of eye drops anywhere - not in the narrative and not in the report form. Louise's drops were already missed at the Sep 29 visit, so this reads as a second consecutive miss. The report's silence is not proof either way, so it needs checking rather than assuming.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 29",
-     "source": "Client message 11:44am",
-     "office": true,
-     "note": "Client states Louise has a chronic eye issue and that her eye looks pretty dry at the moment, and points to eye drops in the upper cabinet on the RIGHT side of the stove. This conflicts with the brief's existing standing note, which puts the drops in the left cabinet above the stove and names the dog Weezy. The message does not actually instruct anyone to administer the drops. Office should confirm the cabinet, the dog's name and whether sitters are to apply them.",
-     "quote": "There are also eye drops for Louise up there. It looks like her eye is pretty dry. She has a chronic issue."
     }
    ],
    "dormant": false
