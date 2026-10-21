@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T13:20:08-04:00",
+ "generated": "2026-10-21T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3946,6 +3946,26 @@
      "office": true,
      "note": "A visit time change today reached the sitter but not the client - she did not know about it and they had to talk it through on the doorstep. The sitter apologised. Whatever changed the time was not communicated to this client, so the office should check how the change was made and whether other clients were affected the same way.",
      "quote": "sorry that you were unaware of the time change"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 21",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Muffy still pulls on leash; the harness makes a noticeable difference but pulling is an ongoing work-in-progress. She walked well on her heel around the pond.",
+     "quote": "I noticed the difference right away with the harness on but we're still working on her pulling"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 21",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Muffy's #2 is recorded two different ways in the same report: the free text says it was just fine, the report form field says a little loose but not concerning. Ambiguous - not clearly a problem.",
+     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "health",
