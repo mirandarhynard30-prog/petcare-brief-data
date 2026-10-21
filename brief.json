@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T22:20:07-04:00",
+ "generated": "2026-10-20T23:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8232,7 +8232,8 @@
    "name": "Clara Florian",
    "url": "https://www.timetopet.com/dashboard/client/tmlorlSV21Wz",
    "pets": [
-    "Ollie (Oliver)"
+    "Ollie (Oliver)",
+    "Ollie"
    ],
    "items": [
     {
@@ -8254,6 +8255,16 @@
      "office": false,
      "note": "Not dog friendly - keep away from other dogs.",
      "quote": "NOT dog friendly – avoid other dogs"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 20",
+     "source": "Clara Florian Important Notes, as shown in the Oct 20 update email",
+     "office": false,
+     "note": "Midday feeding ends with Ollie being crated. Standing text in the Pet Care Note, not a new change - it was simply never in the brief; the earlier feeding item covered the food but not the crate.",
+     "quote": "Midday: put a small handful of dry food in his bowl and put in his crate"
     },
     {
      "cat": "health",
@@ -8294,6 +8305,36 @@
      "office": false,
      "note": "Midday/afternoon feeding: small handful of dry Royal Canin Small Breed, food kept on the mantle.",
      "quote": "Put a small handful of dry food in his bowl and put in his crate"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 20",
+     "source": "Clara Florian Important Notes, as shown in the Oct 20 update email",
+     "office": false,
+     "note": "Mail goes on the mantle. Standing text in the Pet Care Note, not a new change.",
+     "quote": "Mail on mantle"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 20",
+     "source": "Clara Florian Important Notes, as shown in the Oct 20 update email",
+     "office": false,
+     "note": "Trash day at the property is Friday. Standing text in the Pet Care Note, not a new change.",
+     "quote": "Trash day: Friday"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 20",
+     "source": "Clara Florian client message, Oct 20 10:53 PM",
+     "office": false,
+     "note": "Client says Ollie has some obedience. Her own word 'roughly' suggests the cues are not reliable, so do not count on them for control - he is also logged as an escape risk.",
+     "quote": "He knows sit, down, and drop it roughly."
     },
     {
      "cat": "home",
