@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T10:20:07-04:00",
+ "generated": "2026-10-21T11:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7173,6 +7173,26 @@
      "quote": "Wet food is out today, would you be able to tell us where we can get more for their afternoon visit?"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 21",
+     "source": "Nicole Smith message",
+     "office": false,
+     "note": "Nicole answered this morning's out-of-wet-food question: a spare pack is in the freezer.",
+     "quote": "There should be another pack in the freezer!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 21",
+     "source": "Nicole Smith message",
+     "office": false,
+     "note": "Nicole's handling instruction for the frozen wet food, sent in a separate message: do not defrost; she usually leaves it on the counter 10-15 minutes then stores it in the fridge. For today specifically she asked for dry food only this afternoon and both foods again in the morning.",
+     "quote": "If it’s frozen could just leave it in the fridge overnight and do dry food only this afternoon and both again in the morning."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7211,26 +7231,6 @@
      "office": true,
      "note": "The morning report answers Yes to medication administered for Bear and No to any pet supplies getting low, but never names the probiotic. AMBIGUOUS - it suggests a dose was on hand this morning without confirming the replacement container from Amazon arrived.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Elizabeth Sigler visit report 2:08 PM",
-     "office": false,
-     "note": "Feeding at the 2:08 PM visit: both dogs still had dry food left from earlier, the sitter added another scoop and put the Ollie wet food on top, then refreshed the water bowl. The leftover food is worth reading against the morning report, where Zoey showed no interest in food.",
-     "quote": "Both had some dry food left."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 19",
-     "source": "Elizabeth Sigler visit report 2:08 PM",
-     "office": false,
-     "note": "Another report describing a face covering before outside time. This sitter calls them mesh muzzles and says she put them on both dogs after greeting them, before going out into the fenced back yard. Earlier reports call the same thing a mask.",
-     "quote": "I put their mesh muzzles on"
     }
    ],
    "dormant": false
