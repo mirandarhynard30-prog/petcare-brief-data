@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T09:35:07-04:00",
+ "generated": "2026-10-22T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3982,6 +3982,16 @@
      "cat": "home",
      "sev": "low",
      "type": "recent",
+     "date": "Oct 22",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Marcia was home during the morning visit and a caregiver was in the house as well; the sitter spoke with both. Expect people in the home on arrival. Freddy's leftover wet food is kept in the refrigerator to reuse.",
+     "quote": "I came in and spoke to the caregiver and Marcia they both were having conversations with each other!"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
      "date": "Oct 15",
      "source": "Kiara Streety post-visit report, 10:32am",
      "office": false,
@@ -7063,6 +7073,36 @@
      "quote": "so I put both there mask on and leash Zoey and we went outside"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Zoey worked her mask off in the fenced back yard during the morning visit and was carried back inside. Check that her mask is secure before letting her out and watch her while she is out.",
+     "quote": "she ended up getting her mask off I caught her lol so I went and grabbed her and brought her back inside!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Bear was given a probiotic at the morning visit. The report does not say the dose, the brand, or whether it is a daily item, so confirm with the office before giving another.",
+     "quote": "Gave Bear his probiotic for today"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Kiara Streety visit report",
+     "office": true,
+     "note": "Sitter says this afternoon's visit is the last one before Nicole is back, so visits appear to end with her return. The sitter wrote this, not the client, and no return date is given - confirm the end date with Nicole.",
+     "quote": "I will check the mail when I come back this afternoon on my last visit before you come back!"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7101,36 +7141,6 @@
      "source": "Jade Popovitz visit report 3:00 PM",
      "note": "Afternoon visit: the sitter took the spare wet food out of the freezer and set it on the counter to thaw at the start of the visit. It was still solid by the end, so she fed dry food and fresh water only. Nicole's instruction this morning was dry food only this afternoon and to thaw in the fridge overnight - the dry-only part was followed, the counter thaw was not what she asked for. AMBIGUOUS whether the pack was left out or returned to the freezer; the report does not say. Office should confirm with Nicole and with the next sitter.",
      "quote": "I placed the wet dog food from the freezer on the counter for it to thaw"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "office": false,
-     "source": "Jade Popovitz visit report 3:00 PM",
-     "note": "Oct 21 afternoon: both Bear and Zoey went #1 and #2 and both stools were logged firm and healthy. This is the first report since the Oct 19 diarrhea in which Zoey has a recorded normal #2 on the same day as Bear, and follows a normal reading on the Oct 20 afternoon visit.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Jade Popovitz visit report",
-     "office": false,
-     "note": "Oct 20 morning visit: Bear's probiotic was given and logged, and his #2 was recorded as firm and healthy. This is the first report that shows the probiotic actually administered.",
-     "quote": "After we came inside I gave Bear his probiotic and refreshed their water."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Jade Popovitz visit report",
-     "office": true,
-     "note": "Zoey again logged with no #2 at the Oct 20 morning visit. Her earlier loose stool is still unresolved on paper and the client has not been told anything.",
-     "quote": "No #2 today"
     }
    ],
    "dormant": false
@@ -8119,6 +8129,16 @@
     {
      "cat": "behavior",
      "sev": "low",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Ollie is crated between visits and goes in willingly for a few kibble. He cried briefly when the crate was locked and settled once the sitter left. He also chewed bark on the walk and tracked grass indoors.",
+     "quote": "When I locked the crate, he started a little crying, but once I left he stopped."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
      "type": "standing",
      "date": "Oct 21",
      "source": "Client message from Clara Florian",
@@ -8145,16 +8165,6 @@
      "office": false,
      "note": "Trash day at the property is Friday. Standing text in the Pet Care Note, not a new change.",
      "quote": "Trash day: Friday"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 20",
-     "source": "Clara Florian client message, Oct 20 10:53 PM",
-     "office": false,
-     "note": "Client says Ollie has some obedience. Her own word 'roughly' suggests the cues are not reliable, so do not count on them for control - he is also logged as an escape risk.",
-     "quote": "He knows sit, down, and drop it roughly."
     }
    ],
    "dormant": false
