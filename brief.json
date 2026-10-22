@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T20:20:05-04:00",
+ "generated": "2026-10-22T09:35:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -170,16 +170,6 @@
      "office": false,
      "note": "Kathy Sullenberger is shadowing Shannon on Nova again and took the lead on this visit. When Nova saw only Kathy she started to hide in the bedroom. They got her outside but she would not stay out in the light rain. Shannon left the lamp next to Nova's couch on for the family coming home.",
      "quote": "Nova only saw Kathy and started to go hide in the bedroom"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "On the 11:30 AM visit Nova again refused to go outside at first. Shannon slid the harness on without clipping it and Nova would not move until she heard the leash clip, then ran straight to the back door. Useful handling trick, but recorded as one observation rather than a standing rule. Nova did not potty; she did do a few seconds of zoomies in the fenced yard and took mini milk bones.",
-     "quote": "She wouldn't go today until she heard the leash clip."
     },
     {
      "cat": "behavior",
@@ -768,16 +758,6 @@
      "office": true,
      "note": "Sitter says she usually covers this house on Fridays but will be in Chicago next week, and that she has told the clients so. The report gives no date, so the office needs to confirm which Friday is affected and assign cover.",
      "quote": "I'll be in Chicago next week and I told them this"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Client message, 1:40 PM",
-     "office": false,
-     "note": "Waste bags have run out at this house. The client says she needs to order more and has been using grocery plastic bags in the meantime, so sitters should bring their own bags to this address until she restocks.",
-     "quote": "I need to order more anyway. I’ve been using the grocery plastic bags."
     }
    ],
    "dormant": false
@@ -1333,16 +1313,6 @@
      "office": false,
      "note": "Evening routine confirmed again: after the walk the sitter removes Georgie's harness, assists Mary Ann with his eyedrops, then gives him an ice cube treat. Mary Ann is home and the sitter assists rather than administering alone. Now logged on three separate evening visits (Sep 15, Sep 27, Oct 1), so treat it as the standing evening routine rather than a one-off. Harness goes on in the laundry room. Oct 1 stool was recorded firm and healthy.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Client message, Sep 30 9:36 PM",
-     "office": false,
-     "note": "Client's own Sep 30 evening message thanks Kristin for avoiding 'the toad and the reported coyotes' on the night walk. COYOTES have not appeared anywhere in the brief before. AMBIGUOUS: no email says who reported the coyotes, when, or where - Kristin's 8:32 PM walk report for the same visit mentions neither a toad nor a coyote, so the client is the only source and the detail may have been passed on in person. Toads at this address are already a known standing hazard (Sep 16, Sep 29). Treat as unconfirmed predator activity on the evening walk route until the office pins down the source.",
-     "quote": "Glad you avoided the toad and the reported coyotes. Yikes!"
     },
     {
      "cat": "behavior",
@@ -2254,16 +2224,6 @@
      "quote": ""
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Ashley Corall visit report, 12:34 PM",
-     "office": false,
-     "note": "On the midday visit the neighbour to the right told sitter Ashley Corall he had seen a younger man dressed all in black walking down the sidewalk with something covering his face, and said he would park his mother's car in Diane's driveway. So an unfamiliar car in the driveway today is expected, and a suspicious person was reported on the street.",
-     "quote": ""
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -3127,26 +3087,6 @@
      "quote": "Milo then went number two and it was extremely runny case of diarrhea."
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Client message, Paulo Garcia, Sep 30 10:57 AM",
-     "office": false,
-     "note": "Client warns both dogs may be groggy today from a vet visit yesterday and the medication they are now on. No medication name, dose or schedule is given, and the visit does not appear to involve giving any. Expect lower energy; do not push the walk.",
-     "quote": "FYI the dogs may be a bit groggy from yesterday and the meds the vet has them on"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Drew Walker visit report, Sep 30 late morning",
-     "office": true,
-     "note": "Milo's stool on the Sep 30 late-morning visit was logged as diarrhea. This is the first stool reading since the client said that morning that both dogs are on medication after a vet visit yesterday. Archer's was firm and healthy the same visit.",
-     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3938,16 +3878,6 @@
      "quote": "Next time I’ll remember to out in the closet with the leash."
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Dan Dantimo message, 2:07 PM",
-     "office": true,
-     "note": "A visit time change today reached the sitter but not the client - she did not know about it and they had to talk it through on the doorstep. The sitter apologised. Whatever changed the time was not communicated to this client, so the office should check how the change was made and whether other clients were affected the same way.",
-     "quote": "sorry that you were unaware of the time change"
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "standing",
@@ -4239,26 +4169,6 @@
      "office": true,
      "note": "Same rewrite moved the TV task into Company Notes and softened it from every-visit to optional. Also lost the directions to the basement hallway (in the kitchen, next to the interior garage door), which is how a sitter finds Theo when he hides.",
      "quote": "At each visit, turn on the TV"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Noella Assi visit report",
-     "office": false,
-     "note": "At the Sep 30 morning visit Frank stayed shut away in the room and only came out as the sitter was leaving; lasers and treats did not draw him out. Theo was out waiting and took two churus. The sitter's word 'again' suggests this is not the first time, but this is one report - the standing record has Theo as the hider and Frank as the one who greets at the door, so the two are now reversed.",
-     "quote": "Frank was in the room again and only came out when I was leaving."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Client message, 2:59 PM",
-     "office": true,
-     "note": "The client is away and says they only have internet in certain places, which is why she has not been replying. Expect slow or patchy answers from this client while she is travelling - do not read silence as a problem. She does not give a return date anywhere in the mail.",
-     "quote": "we only have Internet in certain places"
     },
     {
      "cat": "behavior",
@@ -4948,16 +4858,6 @@
      "office": true,
      "note": "Sitter asked the client which food Miguel prefers, chicken or seafood. Unanswered; client's Oct 3 order is also still awaiting approval.",
      "quote": "Any suggestions for Miguel's food would be appreciated. Does he like the chicken or the seafood?"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Kari Majewski private message, 11:03 PM",
-     "office": false,
-     "note": "Client has left a handwritten note for the sitter on the counter. Worth looking for on arrival: her message says 'The same rest of the routine is as follows' and then lists nothing, so the rest of the routine may only be on that counter note.",
-     "quote": "I’ve left a note for you as well on the counter."
     }
    ],
    "dormant": false
@@ -5680,26 +5580,6 @@
     },
     {
      "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Tiarra Roberts visit report, Sep 30 6:18 PM",
-     "office": false,
-     "note": "Helios bolted for the door as the leash went on and was held back by the leash. Have the leash clipped and a firm hold before the door opens.",
-     "quote": "he did try to fly out the door like Superman, but I had a firm hold of the leash"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Tiarra Roberts visit report, Sep 30 6:18 PM",
-     "office": false,
-     "note": "On the evening walk Helios growled at full-size Halloween decorations, and got wound up once mid-walk (back-leg kicking) before settling. Strong on the leash; carried his rib toy the whole walk.",
-     "quote": "He growled at some full-size Halloween decor, I told him they were fake."
-    },
-    {
-     "cat": "behavior",
      "sev": "medium",
      "type": "standing",
      "date": "Sep 11",
@@ -5717,16 +5597,6 @@
      "office": false,
      "note": "Crate routine changed on Sep 11. To get Helios back into his basement crate, throw a treat in and he will run in after it. The older instruction - say the word crate, then give him a treat once he is inside - was removed. He wears a prong collar and his leash hangs by the side door.",
      "quote": "When finished, throw treat into crate and he will run in"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Tiarra Roberts visit report, Sep 30 6:18 PM",
-     "office": false,
-     "note": "Client was home for the Sep 30 evening visit and asked that the door not be locked. One visit only - not confirmed as a standing instruction.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     },
     {
      "cat": "home",
@@ -6272,16 +6142,6 @@
      "office": true,
      "note": "Oct 1 midday report, written by Dan Dantimo while shadowing Elizabeth Cuffari, makes no mention of Louise's (Weezie's) eye drops, and the report form carries no medication question at all. Third report in a row with no record of the drops.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Shannon Anderson visit report, 12:42 PM",
-     "office": true,
-     "note": "Shannon Anderson's midday report on Frank and Weezie/Louise makes no mention of eye drops anywhere - not in the narrative and not in the report form. Louise's drops were already missed at the Sep 29 visit, so this reads as a second consecutive miss. The report's silence is not proof either way, so it needs checking rather than assuming.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -6747,16 +6607,6 @@
      "quote": "I then went to check on Pickles but did not see him."
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Sep 30",
-     "source": "Noella Assi visit report to Michael Smith, Sep 30 10:23 AM",
-     "office": true,
-     "note": "Beau-ba was not seen again on the Sep 30 morning visit. That is a third consecutive visit with no sighting. The client said on Sep 29 that a whole day out of sight is normal for this cat, but three in a row goes past what he described, so the office should check in with him rather than leave it to the sitter.",
-     "quote": "I did not see Beau-ba again this morning"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -7152,7 +7002,7 @@
      "quote": "She is very vocal and showed me to her food."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Nicole Smith",
@@ -8317,6 +8167,16 @@
     "Bruno"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Client message",
+     "office": false,
+     "note": "Jennifer messaged at 8:17 AM that her 11-year-old likely left the front door unlocked, so it would probably be unlocked on arrival for today's visit. Sitter Chrissy George replied at 8:21 AM that the team would lock it up when finished with the visit. No code or key detail given, and nothing indicates a standing access change.",
+     "quote": "I believe my 11 year-old forgot to lock the door so it will probably be unlocked when you get there."
+    },
     {
      "cat": "schedule",
      "sev": "medium",
