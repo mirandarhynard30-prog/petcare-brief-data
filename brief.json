@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T12:20:09-04:00",
+ "generated": "2026-10-22T13:20:12-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2488,6 +2488,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Client message, 12:40 PM",
+     "office": false,
+     "note": "Client reports the dog has needed to go out 3 times with loose bowel movements and thinks she ate a contractor's leftover sandwich thrown in the woods. He flags it as FYI only and asks nothing. He writes 'she' and does not name the dog, so which of Ripley or Luna is affected is not stated. Expect extra potty breaks and watch for worsening.",
+     "quote": "She has had to go out 3 times bc of loose bowel movements"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -2596,16 +2606,6 @@
      "office": true,
      "note": "The double-dose risk did NOT materialise today. The 9:24 PM bedtime report logs no multivitamin and no food fed - only a walk, water refreshed, food bowl washed and a treat - so Ripley got 2 Dog is Human vitamins on Oct 16 in total, at the 4:33 PM visit. The Important Notes wording restored at 4:35 PM ('Feed 2 Dog is Human multivitamin with food') is still ambiguous for future days against the deleted Oct 14 wording of 2 in the morning and 2 at bedtime. Office should fix the wording before the next sitter works both visits.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts edit 11:22am",
-     "office": true,
-     "note": "11:22am rewrite reduced the entry rule to 'Enter through garage' and deleted the instruction below. It is now nowhere in the record. Re-add it.",
-     "quote": "Enter through garage, closing it immediately upon entering"
     }
    ],
    "dormant": false
