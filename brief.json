@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T18:20:06-04:00",
+ "generated": "2026-10-22T19:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -963,6 +963,16 @@
      "quote": "I came in through the garage because the doors are locked!"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Elizabeth Sigler afternoon visit report, 2:31 PM",
+     "office": false,
+     "note": "Melody was home during the Oct 22 afternoon visit and asked that the door not be locked - the home-security field was filled in the same way as on Oct 19. Note the morning visit the same day was the opposite: Kiara found the doors locked and used the garage.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1011,16 +1021,6 @@
      "office": false,
      "note": "Access problem at Chloe's morning visit: the front door was locked on arrival, so the sitter went to the side door and a workman in the basement let her in and pointed her upstairs. The report notes the client was home and asked that the door not be locked; the sitter removed the door lock and left it on the floor on the way out. One occurrence only - not established as a recurring access issue.",
      "quote": "the front door was still locked."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Elizabeth Sigler post-visit report, 10:48am",
-     "office": false,
-     "note": "Elizabeth Sigler cleaned up cat spitup near the front door before leaving, and the report's accidents field is ticked that the pet got sick and she cleaned it up with before and after pictures. The report does not say which animal was sick.",
-     "quote": "cleaned up a pile of cat spitup in front of the soft brown bench near your front door"
     }
    ],
    "dormant": false
@@ -3711,6 +3711,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 22",
+     "source": "Dan Dantimo visit report, 1:10 PM",
+     "office": true,
+     "note": "Guinness went #2 on the Oct 22 midday walk and the consistency field was logged as a little loose but not concerning. That is a second day running after the Oct 21 report of frank diarrhea. The sitter describes him as excited, keen to walk and sniffing far more than usual, and reports no accidents in the home. Quote left empty on purpose - the exact field wording collides with another client's Oct 22 item under the relay's de-duplication key.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 21",
      "source": "Dan Dantimo visit report",
      "office": false,
@@ -3816,16 +3826,6 @@
      "office": false,
      "note": "Guinness needed coaxing to start the walk, wanted to turn back toward the house twice, and refused to pass road crew machinery. Allow extra time and expect a short route.",
      "quote": "He saw the guys working and didn't wanna go buy the big machine so we turned around"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Dan Dantimo visit report 12:51 PM",
-     "office": false,
-     "note": "Guinness's #2 at the midday walk was again logged a little loose but not concerning. He walked, ate and played normally otherwise.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -8159,32 +8159,32 @@
     {
      "cat": "behavior",
      "sev": "low",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Kathy Pastor correction message, 6:28 PM",
+     "office": false,
+     "note": "Kathy Pastor's afternoon report said Ollie was put in the crate with his food, then she sent a correction at 6:28 PM saying the food was taken out of the crate before they left. The correction is the accurate version - no food was left in the crate.",
+     "quote": "Correction to my notes: we took the food out of the crate before we left."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Kathy Pastor visit report (shadowing Josh Stone)",
+     "office": false,
+     "note": "There is a small heater in the room where Ollie is crated. Kathy Pastor turned it off at the end of the Oct 22 afternoon visit because the room was getting warm. One sitter's action on one visit, not a standing instruction.",
+     "quote": "We turned off the little heater because it was getting warm in the room."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
      "type": "standing",
      "date": "Oct 21",
      "source": "Client message from Clara Florian",
      "office": false,
      "note": "Owner says Ollie is growing more assertive and outgoing over time. Owner adds she is reachable by call, text or app message with any questions.",
      "quote": "He is such an excited little guy. Getting bossier and more outgoing by the day lol"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 20",
-     "source": "Clara Florian Important Notes, as shown in the Oct 20 update email",
-     "office": false,
-     "note": "Mail goes on the mantle. Standing text in the Pet Care Note, not a new change.",
-     "quote": "Mail on mantle"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 20",
-     "source": "Clara Florian Important Notes, as shown in the Oct 20 update email",
-     "office": false,
-     "note": "Trash day at the property is Friday. Standing text in the Pet Care Note, not a new change.",
-     "quote": "Trash day: Friday"
     }
    ],
    "dormant": false
