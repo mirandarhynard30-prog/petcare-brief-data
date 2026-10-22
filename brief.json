@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T14:20:06-04:00",
+ "generated": "2026-10-22T15:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7123,6 +7123,16 @@
      "quote": "I will check the mail when I come back this afternoon on my last visit before you come back!"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Kiara Streety left a message for Nicole Smith, 2:53 PM",
+     "office": false,
+     "note": "Zoey went #2 on the final afternoon visit and the consistency field reads firm and healthy. That is the first clean stool reading logged for her since the Oct 19 diarrhea, so the open question on Zoey's stool looks answered.",
+     "quote": "It was firm and healthy"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7151,16 +7161,6 @@
      "office": false,
      "note": "Nicole's handling instruction for the frozen wet food, sent in a separate message: do not defrost; she usually leaves it on the counter 10-15 minutes then stores it in the fridge. For today specifically she asked for dry food only this afternoon and both foods again in the morning.",
      "quote": "If it’s frozen could just leave it in the fridge overnight and do dry food only this afternoon and both again in the morning."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "office": true,
-     "source": "Jade Popovitz visit report 3:00 PM",
-     "note": "Afternoon visit: the sitter took the spare wet food out of the freezer and set it on the counter to thaw at the start of the visit. It was still solid by the end, so she fed dry food and fresh water only. Nicole's instruction this morning was dry food only this afternoon and to thaw in the fridge overnight - the dry-only part was followed, the counter thaw was not what she asked for. AMBIGUOUS whether the pack was left out or returned to the freezer; the report does not say. Office should confirm with Nicole and with the next sitter.",
-     "quote": "I placed the wet dog food from the freezer on the counter for it to thaw"
     }
    ],
    "dormant": false
@@ -8198,6 +8198,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 22",
+     "source": "Margaret Bill updated contact information for Jennifer Wagar, 3:01 PM",
+     "office": false,
+     "note": "Important Notes now add that Bruno wears an anti-bark collar. Company Notes describe it as a purple collar plus a transmitter. Leave it on - the note does not say it may be removed.",
+     "quote": "has a collar with a pitch to stop barking"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 22",
+     "source": "Margaret Bill updated contact information for Jennifer Wagar, 3:01 PM",
+     "office": false,
+     "note": "New escape-risk section in the Company Notes. Keep the screen door shut. Bruno chases delivery trucks and other dogs; Suka chases bicycles, motorcycles, cars and anything with wheels, plus squirrels. The record lists one further trigger for Suka in wording that should not be reproduced on a public page - read that line in Time To Pet.",
+     "quote": "Excape Risk Keep screen door shut. Bruno will chase fed ex trucks and other dogs"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -8206,6 +8226,36 @@
      "office": false,
      "note": "Jennifer messaged at 8:17 AM that her 11-year-old likely left the front door unlocked, so it would probably be unlocked on arrival for today's visit. Sitter Chrissy George replied at 8:21 AM that the team would lock it up when finished with the visit. No code or key detail given, and nothing indicates a standing access change.",
      "quote": "I believe my 11 year-old forgot to lock the door so it will probably be unlocked when you get there."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 22",
+     "source": "Margaret Bill updated contact information for Jennifer Wagar, 3:01 PM",
+     "office": false,
+     "note": "Gear instructions added. Bruno's pink harness goes side down with the leash through both rings; Suka's harness is the larger one with pink straps and a back loop. All leashes, collars and harnesses are by the door. Toys are in the basket or on the couch.",
+     "quote": "Pink harness side down and put leash through both rings. both leashes, collars and harnesses are by the door"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 22",
+     "source": "Margaret Bill updated contact information for Jennifer Wagar, 3:01 PM",
+     "office": false,
+     "note": "Suka is named in the Company Notes for the first time and is described as friendly, 58 lb, 13 years old, with hearing problems, and as a treat thief who will take Bruno's. Bruno is described as leery of people. Commands differ between the two dogs.",
+     "quote": "Commands: Suka knows stop. Bruno not always listening"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 22",
+     "source": "Margaret Bill updated contact information for Jennifer Wagar, 3:01 PM",
+     "office": false,
+     "note": "Parking instruction added for the first time: her assigned spot is marked D, or park on the street. Waste and supply detail also added - poop bags in a box by the door or at the stations around the complex, cleaning supplies and paper towels in the kitchen on a shelf, extra paper towels in the kitchen closet.",
+     "quote": "Parking in her spot marked D or on street"
     },
     {
      "cat": "schedule",
@@ -8258,23 +8308,13 @@
      "quote": "Also, I put two visits in for November 29 and that’s supposed to be one for November 29 and one for November 30"
     },
     {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Client message 3:08 PM",
-     "office": false,
-     "note": "After the Oct 21 meet-and-greet Jennifer wrote that both dogs took to the sitters who came. She repeats that Suka is friendly with most people while Bruno is normally wary, and says Bruno's fur did not even stand up for any of them. Reassurance about the sitters who met him on Oct 21 only - the standing rule that Bruno is scared of new people still applies to anyone new.",
-     "quote": "Suka likes a lot of people, but Bruno is usually leery."
-    },
-    {
-     "cat": "health",
+     "cat": "home",
      "sev": "low",
      "type": "standing",
-     "date": "Oct 11",
-     "source": "Client updated pet details - Suka and Bruno",
+     "date": "Oct 22",
+     "source": "Margaret Bill updated contact information for Jennifer Wagar, 3:01 PM",
      "office": false,
-     "note": "Vet on file for both Suka and Bruno is now Valley Animal Hospital, 1830 Merriman Rd, Akron, OH 44313, 330-836-1971.",
+     "note": "The lockbox line in the Important Notes was edited to add the code. The code is deliberately not reproduced here - take it from the client record in Time To Pet.",
      "quote": ""
     }
    ],
@@ -8295,6 +8335,16 @@
      "source": "Client profile update, 5:41 PM",
      "office": true,
      "note": "New client filled in her own profile - address and two emergency contacts are now on file, but the Access Instructions field was left as a placeholder saying she is still working on it. No usable entry instructions exist yet, so this must be collected before any visit is assigned.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 21",
+     "source": "Karen Grosser added pet Chloe, 5:54 PM",
+     "office": true,
+     "note": "Karen added a pet named Chloe to her account on the same evening she filled in her own profile. The notification carries nothing but the pet's name, so there is still no species, age or care detail on file to go with the placeholder access instructions. Onboarding is incomplete on both fronts.",
      "quote": ""
     }
    ],
