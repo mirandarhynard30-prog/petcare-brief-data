@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T16:20:09-04:00",
+ "generated": "2026-10-22T17:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4509,6 +4509,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 22",
+     "source": "Thomas Rakovec visit report, 1:06 PM",
+     "office": false,
+     "note": "Jaxson went both #1 and #2 on the Oct 22 walk and the consistency field was logged as firm and healthy. That answers the two Oct 21 reports where he produced no stool at all and the client said she did not know why.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 21",
      "source": "Thomas Rakovec visit report, 5:09 PM",
      "office": false,
@@ -4594,16 +4604,6 @@
      "office": false,
      "note": "Partial answer to the open harness question: the sitter found and used a harness Oct 14 and says Jaxson was easy to walk. The record still does not say which one or where it is kept.",
      "quote": "I got the harness on Jaxson and we went on a nice walk around the block"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Dan Dantimo visit report 12:45pm",
-     "office": true,
-     "note": "OFFICE: the sitter asks at the end of his report which harness and leash the client wants used. Unanswered as of this run, and nothing in her record specifies one.",
-     "quote": "Can you let us know what harness/leash you prefer us to use"
     }
    ],
    "dormant": false
