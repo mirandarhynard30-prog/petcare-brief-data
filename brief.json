@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T15:20:07-04:00",
+ "generated": "2026-10-22T16:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -488,6 +488,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 22",
+     "source": "Margaret Bill rewrote the Important Notes at 3:54 PM",
+     "office": false,
+     "note": "Two new standing warnings about Gordy were added to the Important Notes: he can be reactive with other dogs, and he pulls on leash and pulls to the right. Give other dogs a wide berth and expect to brace against the pull.",
+     "quote": "Gordy can be reactive with other dogs"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Margaret Bill rewrote the Important Notes and Company Notes at 3:54 PM",
+     "office": true,
+     "note": "The same rewrite removed Sampson the cat from the record entirely. His feeding schedule, his Methimazole thyroid dose, his litter box routine and the food restrictions are all gone, and the Company Notes pet list now reads Gordy only. The rewrite does not say why, so this is not stated outright, but it fits the Oct 15 note that pointed to a euthanasia appointment. Treat every earlier Sampson medication, feeding and litter item as no longer in force, and confirm with the office before acting on any of them. The morning kitchen-sink-light reminder was also dropped.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -586,26 +606,6 @@
      "office": false,
      "note": "Same Oct 9 morning visit: the sitter cleaned up multiple vomit messes on the hardwood floor and one on the carpet. Sampson did pass a stool in the litter box, there was nothing on the carpet and no urine anywhere. Vomiting has now been reported on Oct 4 and Oct 9.",
      "quote": "I cleaned up the multiple vomit messes on the hardwood floor and one on the carpet."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Anna Marie LeMaster client message",
-     "office": false,
-     "note": "How to give Gordy his pill: client says he takes it better with a little soft food, and the lickable treat can be given separately later in the visit. Client's own instruction, no dose or medication named.",
-     "quote": "I think he really takes it better with just a little soft food."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message 2:05pm",
-     "office": true,
-     "note": "Three toileting incidents in one stretch on the afternoon of Oct 6, written by the client: Sampson went #2 in the litter box, then a small #2 on the carpet, then urinated on the carpet while she was still cleaning the second one up. Follows his Oct 4 accidents and vomiting. No vet contact for Sampson appears anywhere in the notification mail, and Renee Dougherty's Oct 4 question about whether his pill can be crushed is still unanswered by the client.",
-     "quote": "Sampson went #2 in the litter box again! I cleaned it up."
     }
    ],
    "dormant": false
@@ -6449,14 +6449,14 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
-     "date": "Sep 16",
-     "source": "Client message via Time To Pet, Sep 16 9:22am",
+     "date": "Oct 22",
+     "source": "Client message, 3:17 PM",
      "office": true,
-     "note": "Returning client after a long gap, asking whether we can cover Thanksgiving. Tentative dates Wed Nov 25 through Sun Nov 29: Wednesday afternoon and evening, all day Thu/Fri/Sat, most of Sunday. She estimates two visits Wednesday and three visits each other day. Household is two dogs, two cats and a hamster - she notes they are down one hedgehog. Plans are not final; she is asking for an availability answer now and will confirm exact times later. Unanswered as of this run.",
-     "quote": "we would like to check your availability for around Thanksgiving this year"
+     "note": "Second ask for Thanksgiving cover and still nothing confirmed back to her. Ellen says she wrote several weeks ago and never got an answer, and has now sent the exact schedule she needs: Wed Nov 25 - 10am let out, 4pm feed and out, 9pm let out; Thu, Fri and Sat - 8am feed and out, 4pm feed and out, 9pm let out; Sun Nov 29 - 8am feed and out, 4pm feed and out. She notes they should be home before 9pm, and Sunday's list has no late visit. Two dogs, two cats and a hamster. Needs a yes or no from the office.",
+     "quote": "I never received a confirmation that you could do this."
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Nicole Zammit",
