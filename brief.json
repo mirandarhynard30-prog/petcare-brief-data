@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T19:20:06-04:00",
+ "generated": "2026-10-21T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4576,6 +4576,16 @@
      "quote": "He went pee million times no no.#2"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 21",
+     "source": "Client message 5:46 PM",
+     "office": false,
+     "note": "Client replied at 5:46 PM to the two no-stool reports today and says she does not know why it is happening - she treats it as unusual rather than normal for him. Worth noting against her own Oct 20 standing note that Jaxson will only poop in his own yard, which would explain it; she does not connect the two. She also identifies Jaxson as the poodle and asks for the same sitter tomorrow if possible. No instruction given, nothing for the sitter to change - log it and keep reporting.",
+     "quote": "that's really weird I wonder why Jackson's not going potty"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -4654,16 +4664,6 @@
      "office": true,
      "note": "OFFICE: the sitter asks at the end of his report which harness and leash the client wants used. Unanswered as of this run, and nothing in her record specifies one.",
      "quote": "Can you let us know what harness/leash you prefer us to use"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Dan Dantimo visit report 12:45pm",
-     "office": false,
-     "note": "The sitter deliberately kept the midday walk short because the temperature was climbing, going down one street and turning back. Afterwards Jaxson had no interest in going out to the backyard and wanted indoor attention instead. Second sitter in as many days to flag the warmth on this client.",
-     "quote": "I wanted to be careful too because the temperature was getting warm"
     }
    ],
    "dormant": false
