@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T17:20:06-04:00",
+ "generated": "2026-10-22T18:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -511,6 +511,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 22",
+     "source": "Margaret Bill visit report 11:02 AM",
+     "office": true,
+     "note": "Gordy went #2 twice on the Oct 22 morning walk and the consistency field was logged as loose again. This is the third loose-stool day inside the window after two reports on Oct 20, so the office should check in with Anna Marie rather than treat it as a one-off. The sitter judged it not concerning on the day.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 20",
      "source": "Kathy Pastor visit report, Oct 20 1 PM",
      "office": true,
@@ -596,16 +606,6 @@
      "office": true,
      "note": "Renee Dougherty crushed Sampson's half pill into the Churu on the Oct 9 morning visit and he took it. This is the first method reported working in this mailbox since he spat the pill out of a Churu on Oct 3, and it is the same crushing that Renee asked the client about on Oct 4 and never got an answer to. One visit only - the client has still not confirmed in writing that crushing the pill is allowed.",
      "quote": "I crushed up his half pill and put it in the churo and he took it."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Renee Dougherty morning report",
-     "office": false,
-     "note": "Same Oct 9 morning visit: the sitter cleaned up multiple vomit messes on the hardwood floor and one on the carpet. Sampson did pass a stool in the litter box, there was nothing on the carpet and no urine anywhere. Vomiting has now been reported on Oct 4 and Oct 9.",
-     "quote": "I cleaned up the multiple vomit messes on the hardwood floor and one on the carpet."
     }
    ],
    "dormant": false
@@ -2084,6 +2084,16 @@
      "quote": "If we scrap it for today, any chance he could walk tomorrow late morning?"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 22",
+     "source": "Important Notes edited by Tiarra Roberts, 2:35 PM",
+     "office": false,
+     "note": "Important Notes gained one new line on Oct 22 naming the husband at the home, so sitters know who they are greeting. The rest of the arrival procedure is unchanged: send an ETA on the way, park in the driveway, client has Murphy ready, close the garage and knock on the glass door, keep Murphy moving if he sniffs, Macy can be dog reactive. Third hand-off attempt for this line.",
+     "quote": "Phil is the name of Charlene's husband"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2172,16 +2182,6 @@
      "office": true,
      "note": "The Sep 11 note rewrite deleted the water section from the Company Notes and no water instruction now appears in either the Pet Care Note or the Company Notes. Previously it read that there is one bowl in the kitchen and to refill if needed. Office should decide whether to put it back.",
      "quote": "1 water bowl in kitchen"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Tiarra Roberts updated contact information for Charlene Szunyog",
-     "office": false,
-     "note": "Arrival procedure as rewritten Sep 11: client is home, send an ETA on the way, park in the driveway behind the truck unless told to park in the street, then close the garage door and knock on the glass door inside the garage for the leash hand-off.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -4516,6 +4516,26 @@
      "quote": ""
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 22",
+     "source": "Client message 5:41 PM",
+     "office": false,
+     "note": "Standing request from the client about Jaxson's toileting: after the walk is finished, give him a chance to relieve himself in their own front yard. She says he went daily, sometimes twice, for his previous walker and wants to be sure he is not holding it all day. Report back whether the front-yard attempt works.",
+     "quote": "Do you ever try to let him go when you're done walking him in our front yard?"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Dan Dantimo visit message 5:43 PM",
+     "office": false,
+     "note": "Sitter Dan Dantimo answered the no-stool worry the same evening: Jaxson did go #2 at the visits Dan covered, plus once in the back yard. The client replied three minutes later that it is not a big deal, so the question is closed on her side.",
+     "quote": "he went number two the times I was there and one time in the backyard"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -4584,26 +4604,6 @@
      "office": false,
      "note": "Treats are approved. Client confirms the dog is allowed his snacks and they are kept above the coffee maker. Answers the open question about treats given on an earlier visit.",
      "quote": "yes he's absolutely allowed to have his snacks they're above the coffee maker"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 15",
-     "source": "Christi Russo client message, 4:25pm",
-     "office": false,
-     "note": "Same message adds a wording that reads as a people-food restriction, but the text as sent is ambiguous - it says 'just know people food', which most likely means 'just no people food'. Treat as no people food until the office confirms; do not assume table scraps are allowed.",
-     "quote": "Yeah we always give him treats during the day just know people food."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Thomas Rakovec report 11:49am",
-     "office": false,
-     "note": "Partial answer to the open harness question: the sitter found and used a harness Oct 14 and says Jaxson was easy to walk. The record still does not say which one or where it is kept.",
-     "quote": "I got the harness on Jaxson and we went on a nice walk around the block"
     }
    ],
    "dormant": false
