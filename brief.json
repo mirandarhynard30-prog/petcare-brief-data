@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T10:20:06-04:00",
+ "generated": "2026-10-22T12:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -953,6 +953,16 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "On Oct 22 the house doors were locked, so Kiara entered and left through the garage, closing the garage and gate behind her. Cleaners were on site and she let them in the side door; the report does not say who approved that.",
+     "quote": "I came in through the garage because the doors are locked!"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1011,16 +1021,6 @@
      "office": false,
      "note": "Elizabeth Sigler cleaned up cat spitup near the front door before leaving, and the report's accidents field is ticked that the pet got sick and she cleaned it up with before and after pictures. The report does not say which animal was sick.",
      "quote": "cleaned up a pile of cat spitup in front of the soft brown bench near your front door"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Harvett Ellington visit report, Oct 15 2:59pm",
-     "office": false,
-     "note": "Oct 15 afternoon visit: Chloe went #1 and #2 and the sitter wrote that the #2 was a mix of hard and loose at the end. The report's own consistency field contradicts this and reads firm and healthy, so the written note is the more specific of the two. This follows the Oct 12 soft stool and the Oct 13 visit that looked to have closed that watch, so the watch should be treated as reopened rather than closed. Melody was home during this visit.",
-     "quote": "(a mix of hard and loose at the end)"
     }
    ],
    "dormant": false
@@ -3050,6 +3050,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 22",
+     "source": "Kiara Streety visit report",
+     "office": true,
+     "note": "Milo had diarrhea again on the Oct 22 visit - very loose, hard to pick up. Kiara writes she was told it has been going on for more than one day. Archer's stool was firm. Who told her, and how many days it has run, is not stated in the email.",
+     "quote": "Milo still has diarrhea and I have been told he has been having it"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 19",
      "source": "Jade Popovitz visit report for Paulo Garcia, Oct 19 12:17 PM",
      "office": true,
@@ -3308,6 +3318,16 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Client private message",
+     "office": true,
+     "note": "Lynne asks about a package from the team that never arrived and wants to know what to do. Unanswered as of this run - needs an office reply.",
+     "quote": "Was I supposed to look out for a package from the team. It never arrived."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3326,16 +3346,6 @@
      "office": false,
      "note": "Answer to the client's 1:08 PM question about whether she had a walker today: Julie Smith messaged her at 1:16 PM that she was on her way with an ETA of about 1:45, sent by text and email. Julie is the regular sitter, so this also indicates the Oct 14-15 cover by Shannon has ended as expected. Does not confirm the visit was completed, only that the sitter was en route.",
      "quote": "Hi Lynne, I am heading to you now. I should be there right around 1:45."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 15",
-     "source": "Client message 8:10 AM",
-     "office": false,
-     "note": "Client instruction sent this morning to the sitter: the coffee maker must be filled with distilled water, not tap. She notes distilled water can be bought anywhere, but the message does not say whether she supplies it or the sitter is expected to bring it. Shannon Anderson acknowledged two minutes later and said she would see Lynne and Holly around 12:30 today and bring more boxes.",
-     "quote": "Shannon you need to use distilled water with the coffee maker. Can be bought anywhere."
     }
    ],
    "dormant": false
@@ -3987,6 +3997,16 @@
      "office": false,
      "note": "Marcia was home during the morning visit and a caregiver was in the house as well; the sitter spoke with both. Expect people in the home on arrival. Freddy's leftover wet food is kept in the refrigerator to reuse.",
      "quote": "I came in and spoke to the caregiver and Marcia they both were having conversations with each other!"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Marcia and a caregiver were both home during the Oct 22 visit. Freddy's unused wet food was left in the refrigerator for the next visit.",
+     "quote": "The food left to reuse is in the refrigerator!"
     },
     {
      "cat": "home",
