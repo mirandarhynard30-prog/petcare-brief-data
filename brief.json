@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T11:20:05-04:00",
+ "generated": "2026-10-23T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3338,6 +3338,16 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Dan Dantimo left a message for Lynne Reno.",
+     "office": false,
+     "note": "On the Oct 23 late-morning walk Holly went #2 and the consistency field was logged as a little loose but not concerning. One visit only; the report flags no other concern. Lynne was home during the visit.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3356,16 +3366,6 @@
      "office": true,
      "note": "Sitter told the client she believes she has Holly again next Sunday (Oct 25). Stated as a belief, not a confirmed booking, and said directly to the client - office should check the schedule and confirm or correct it before the client counts on it.",
      "quote": "I believe I have Holly scheduled next Sunday, as well."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Julie Smith message to client, 1:16 PM",
-     "office": false,
-     "note": "Answer to the client's 1:08 PM question about whether she had a walker today: Julie Smith messaged her at 1:16 PM that she was on her way with an ETA of about 1:45, sent by text and email. Julie is the regular sitter, so this also indicates the Oct 14-15 cover by Shannon has ended as expected. Does not confirm the visit was completed, only that the sitter was en route.",
-     "quote": "Hi Lynne, I am heading to you now. I should be there right around 1:45."
     }
    ],
    "dormant": false
@@ -8318,14 +8318,14 @@
      "quote": "Also, I put two visits in for November 29 and that’s supposed to be one for November 29 and one for November 30"
     },
     {
-     "cat": "home",
+     "cat": "behavior",
      "sev": "low",
      "type": "standing",
-     "date": "Oct 22",
-     "source": "Margaret Bill updated contact information for Jennifer Wagar, 3:01 PM",
+     "date": "Oct 23",
+     "source": "Jennifer Wagar has sent you a new message.",
      "office": false,
-     "note": "The lockbox line in the Important Notes was edited to add the code. The code is deliberately not reproduced here - take it from the client record in Time To Pet.",
-     "quote": ""
+     "note": "Client says the dogs do not play much and prefer being petted; they only play when in the mood, and Bruno plays more than Suka. Useful so a sitter does not read low play interest as a problem.",
+     "quote": "They don’t play that much. They do like to be petted a lot."
     }
    ],
    "dormant": false
