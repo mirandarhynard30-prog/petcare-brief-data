@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T16:20:05-04:00",
+ "generated": "2026-10-23T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -783,6 +783,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 23",
+     "source": "Client private message, Oct 23 4:25 PM",
+     "office": true,
+     "note": "Client wrote at 4:25 PM to cancel service for next Monday (Oct 26). The message is signed Carol although the client of record is Angela Jozsa - ambiguous, not resolved here. No reply or schedule change is visible in this mailbox, so Monday's visit should be treated as still on the books until the office confirms the cancellation.",
+     "quote": "I am going to cancel service for next Monday! Thank you and have a good weekend!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 21",
      "source": "Angela Jozsa private message, Oct 21 9:05 AM ET",
      "office": true,
@@ -888,16 +898,6 @@
      "office": false,
      "note": "Client says Lucy will only eat the Ollie if it is hand fed to her. Told to the sitter in her own words after he reported Lucy refusing it. No amount or timing given beyond the client saying she gives it herself when she gets home.",
      "quote": "I have to hand feed it to her and then she will eat it."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Josh Stone visit report, Oct 15 12:24pm",
-     "office": false,
-     "note": "Lucy was offered the Ollie on the Oct 15 midday visit and did not eat it. The same report contradicts itself on her stool: the written note calls it very healthy while Lucy's consistency field reads a little loose but not concerning, so the reading is uncertain. Wet can food was marked as fed.",
-     "quote": "I offered her Ollie but she didn’t eat it."
     }
    ],
    "dormant": false
@@ -8023,6 +8023,16 @@
      "office": true,
      "note": "Dan Dantimo has already promised her that next time weather threatens a walk he will message her through Time To Pet to check conditions at her address before calling it off. Office should know this commitment was made before calling her back.",
      "quote": "the next time this situation occurs I will contact you via time to pet to see the weather in your area"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Dan Dantimo visit report, Oct 23 11:15 AM",
+     "office": false,
+     "note": "Oct 23 late-morning walk with Boo: the report's stool-consistency field was answered as a little loose but not concerning. Single observation and the sitter did not flag it as a problem - worth a look on the next visit rather than acting on now.",
+     "quote": ""
     },
     {
      "cat": "health",
