@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T09:20:07-04:00",
+ "generated": "2026-10-23T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -903,6 +903,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Harvett Ellington visit report",
+     "office": false,
+     "note": "Chloe was wheezing while coughing during the morning visit; sitter recorded a video and flagged it to Melody, who was home. Same sitter returns in the afternoon - watch her breathing. No vet contact mentioned in the report.",
+     "quote": "Took a video of Chloe wheezing while coughing."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -953,6 +963,16 @@
      "quote": "our sweet ellie passed away today."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Harvett Ellington visit report",
+     "office": false,
+     "note": "Chloe's stool was soft on the Oct 23 morning visit. Same visit as the coughing note above; unclear from the report whether the two are related.",
+     "quote": "Chloe went numbers one and two (soft)."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -1001,26 +1021,6 @@
      "office": false,
      "note": "Chloe had a bath and haircut Oct 17 and is not wearing her harness. Client says it is on the table in the little breakfast room off the kitchen if you want to walk her; otherwise out back and some attention for a few minutes is fine.",
      "quote": "chloe got a bath and haircut today so she isn’t wearing her harness"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Kiara Streety message, Oct 17 8:31 PM",
-     "office": false,
-     "note": "The extra 8:00-8:30 PM visit Melody asked for on Oct 17 did happen - Kiara Streety filed a visit message at 8:31 PM describing finding Chloe on her bed and taking her out. The request had been sitting in the brief with no recorded outcome.",
-     "quote": "I came in and saw Chloe laying down on her bed!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Elizabeth Sigler messages, 10:16 AM and 10:49 AM",
-     "office": false,
-     "note": "Access problem at Chloe's morning visit: the front door was locked on arrival, so the sitter went to the side door and a workman in the basement let her in and pointed her upstairs. The report notes the client was home and asked that the door not be locked; the sitter removed the door lock and left it on the floor on the way out. One occurrence only - not established as a recurring access issue.",
-     "quote": "the front door was still locked."
     }
    ],
    "dormant": false
