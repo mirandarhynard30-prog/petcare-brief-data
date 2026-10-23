@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T22:20:11-04:00",
+ "generated": "2026-10-22T23:20:16-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4772,6 +4772,16 @@
      "cat": "health",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 22",
+     "source": "Elizabeth Sigler visit report",
+     "office": false,
+     "note": "Lucy takes one of each pill in a spoonful of peanut butter and licks it up reliably - sitter says 'as always'. The email does not name the pills or the dose.",
+     "quote": "Then I gave Lucy one of each pill in a spoonful of peanut butter."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 5",
      "source": "Emily Tharp message 12:37pm",
      "office": true,
@@ -4779,17 +4789,17 @@
      "quote": "She now also takes 3 pills of fluoxetine at night with the apoquel!"
     },
     {
-     "cat": "behavior",
-     "sev": "low",
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
-     "date": "Sep 7",
-     "source": "Shannon Anderson visit report, Mon Sep 7 morning",
+     "date": "Oct 22",
+     "source": "Elizabeth Sigler visit report",
      "office": false,
-     "note": "At the Mon Sep 7 morning visit the same sitter reversed the evening setup - she turned Lucy's lamp off and left the country music station playing. Lucy was again upstairs on arrival and came down while breakfast was got ready; she ate, walked, went #1 and #2, and there were no accidents in the home.",
-     "quote": "I turned off Lucy's lamp but left the country music station playing for them."
+     "note": "Sitter is tracking the downstairs cat auto-feeder level visit to visit to confirm it is actually dispensing. No fault reported yet - next sitter should note the level too.",
+     "quote": "I took note of how much cat food is in the auto feeder so that I can compare next time I am over"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Kari Majewski",
