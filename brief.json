@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T14:20:07-04:00",
+ "generated": "2026-10-23T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3749,6 +3749,16 @@
    "items": [
     {
      "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Dan Dantimo visit report, Oct 23 2:12 PM",
+     "office": true,
+     "note": "Oct 23 midday walk: Guinness went #2 twice and the consistency field was answered a little loose but not concerning. Counting what is already on file for Oct 13, 15, 17, 20, 21 and 22, this is the seventh logged walk this month with loose or diarrhea stool. Nothing in the mailbox or the brief records a vet contact, diet change or any reply to the client about it. Office call on whether to raise it with Deb. Walk otherwise normal - new route past the clubhouse and two bridges, water refreshed, no accidents.",
+     "quote": "He did go number two twice and really did well on his walk today."
+    },
+    {
+     "cat": "health",
      "sev": "medium",
      "type": "recent",
      "date": "Oct 22",
@@ -3856,16 +3866,6 @@
      "office": false,
      "note": "Second report in three days of Guinness refusing to start the walk - he wanted to head home and needed coaxing before he settled and walked normally to the Commons and back via Pembrooke. The sitter calls it 'just Guinness being Guinness'. Allow extra time at the start of the walk.",
      "quote": "I was surprised he was reluctant at first to walk but he did get over it quickly"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Dan Dantimo 1:26pm report",
-     "office": false,
-     "note": "Guinness needed coaxing to start the walk, wanted to turn back toward the house twice, and refused to pass road crew machinery. Allow extra time and expect a short route.",
-     "quote": "He saw the guys working and didn't wanna go buy the big machine so we turned around"
     }
    ],
    "dormant": false
