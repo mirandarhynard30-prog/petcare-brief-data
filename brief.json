@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T13:20:05-04:00",
+ "generated": "2026-10-23T14:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6117,6 +6117,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 23",
+     "source": "Elizabeth Cuffari 12:31 PM visit report",
+     "office": true,
+     "note": "The Oct 23 midday report again makes no mention of Weezie/Louise's eye drops - not in the narrative and not anywhere in the report form, which for this client logs only whether each dog went #1. This continues the run of reports already on file for Oct 13, Oct 19 and Oct 20 with no eye-drop record. Office should confirm whether the drops are still a standing instruction and, if so, get them back onto the report.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 20",
      "source": "Shannon Anderson visit report, 12:26 PM",
      "office": true,
@@ -6212,6 +6222,16 @@
      "office": true,
      "note": "Eye-drop instruction rewritten: drops are in the LEFT cabinet above or next to the stove, give them if her eye is goopy and she lets you. The softener If not, no big deal was removed in that same edit. The conflict is unresolved: the client's own Sep 29 message put the drops in the upper cabinet on the RIGHT, and that line was deleted from the Pet Care Note today, so the two records no longer agree and nobody has confirmed which cabinet is correct.",
      "quote": "Use eye drops (left cabinet above stove/next to stove) if eye is goopy, if she lets you"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Elizabeth Cuffari 12:31 PM visit report",
+     "office": false,
+     "note": "Both dogs went #1 only on the Oct 23 midday visit; no #2 for either. Sitter reports they spent most of the time in the fenced back yard and flagged no concern.",
+     "quote": "They only went number one today."
     }
    ],
    "dormant": false
