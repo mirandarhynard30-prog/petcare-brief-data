@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T19:20:05-04:00",
+ "generated": "2026-10-22T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1323,6 +1323,26 @@
      "note": "Tiarra Roberts rewrote the Access Instructions this morning and the escape-artist warning for Georgie was dropped. Nothing in the note now tells a sitter the dog bolts. Same edit changed the closing instruction from the utility-room-to-hallway door to the laundry room door. Office to confirm the removal was intended.",
      "quote": "Georgie is an escape artist.",
      "source": "Tiarra Roberts, Access Instructions edit"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Michelle Carrara visit report, Oct 22 10:10 AM walk",
+     "office": false,
+     "note": "Georgie went #1 and #2 twice on the Oct 22 10:10 AM walk. The sitter described the second #2 as soft and lighter in colour and judged it not concerning; the consistency field was logged as a little loose. No other symptoms reported.",
+     "quote": "The second #2 was a bit soft and lighter in color."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Michelle Carrara visit report, Oct 22",
+     "office": true,
+     "note": "On the Oct 22 visit the sitter brought the recycling bin in and reported the garbage had not been picked up and no mail had arrived yet. The bin routine and the mail instruction were both deleted from the Company Notes on Oct 14, so what sitters are doing and what the record says no longer match. Someone in the office needs to decide which is correct.",
+     "quote": "I brought the recycling bin inside. The garbage had not been picked up."
     },
     {
      "cat": "health",
@@ -6817,6 +6837,16 @@
      "quote": "Mom is moving to Heritage Crossing"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 22",
+     "source": "Josh Stone visit report, Oct 22 2:15 PM",
+     "office": false,
+     "note": "On the Oct 22 2:15 PM visit the home-secured field reads that the client was home during the visit and asked the sitter not to lock the door on leaving. One visit only - not recorded anywhere as a standing instruction.",
+     "quote": ""
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -6825,16 +6855,6 @@
      "office": true,
      "note": "Joan asked the sitter during the visit for information on SCAT Metro transport services for a doctor's appointment that may clash with the visit schedule. The sitter attached a photo of the SCAT brochure to the report. The appointment date and time are not stated anywhere in the message, so the office needs to call and get them before any rescheduling can be worked out.",
      "quote": "Joan asked me to get her info on scat metro services for her doctors appointment that might not match up with scheduling"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Margaret Bill message to client",
-     "office": true,
-     "note": "Sitter told the client today's visit would be at 9:30 am and that Chrissy would be shadowing her. The client's requested 8am / 1pm / 7pm windows are still not confirmed anywhere in email, so 9:30 am may not be what she is expecting.",
-     "quote": "This is Margaret and I am letting you know that Chrissy will be shadowing me today. We will be there at 9:30am."
     }
    ],
    "dormant": false
