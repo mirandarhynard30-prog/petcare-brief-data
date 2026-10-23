@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T15:20:05-04:00",
+ "generated": "2026-10-23T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -983,6 +983,25 @@
      "quote": "Chloe went numbers one and two (soft)."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Harvett Ellington afternoon visit report, 3:25 PM",
+     "office": true,
+     "note": "The 3:25 PM afternoon report makes no mention of the wheezing and coughing flagged at this morning's visit, and no mention of the morning's soft stool. The form records Chloe went #1 and answers the consistency question No #2 today. Nothing in this mailbox shows the morning respiratory flag was answered or acted on.",
+     "quote": "It was a short but nice walk"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Harvett Ellington afternoon visit report, 3:25 PM",
+     "office": true,
+     "note": "The 3:25 PM report answers Yes to the question about pet supplies getting low, but the narrative names no supply and gives no detail, so the office cannot tell what needs restocking. Same report records the client home during the visit and asking that the door not be locked."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -1011,26 +1030,6 @@
      "office": false,
      "note": "Chloe was shivering in the cold on this morning's walk, so the sitter cut the walk short, brought her in and dried the tops of her paws with a small towel, then gave her a treat to settle her. Towel was left at the side of the bench. First cold-weather note on Chloe; watch whether it repeats as mornings get colder.",
      "quote": "It was a little cold this morning and she was shivering, so we didn’t stay out for long."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Elizabeth Sigler visit report, 3:03 PM",
-     "office": false,
-     "note": "Melody was home during the 3:03 PM visit and asked that the door not be locked, so the home-secured field records that instead of a lock-up. Sitters arriving later should not assume the house will be empty or locked.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Client message 7:01 PM",
-     "office": false,
-     "note": "Chloe had a bath and haircut Oct 17 and is not wearing her harness. Client says it is on the table in the little breakfast room off the kitchen if you want to walk her; otherwise out back and some attention for a few minutes is fine.",
-     "quote": "chloe got a bath and haircut today so she isn’t wearing her harness"
     }
    ],
    "dormant": false
