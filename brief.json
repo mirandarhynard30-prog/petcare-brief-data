@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T12:20:06-04:00",
+ "generated": "2026-10-23T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -693,6 +693,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 23",
+     "source": "Ashley Corall visit report",
+     "office": false,
+     "note": "One of CJ's toys had worn down small enough that the sitter was concerned about it being swallowed, so she removed it and left it on the counter. Future sitters should not hand it back without the client's say-so.",
+     "quote": "CJ had a toy that made a little nervous about how small it was getting so I placed it in the counter"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 21",
      "source": "Monica Hopewell visit report",
      "office": false,
@@ -833,6 +843,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 23",
+     "source": "Chrissy George visit report",
+     "office": false,
+     "note": "Lucy sat down repeatedly during the midday walk, seemed reluctant to keep going, and led the sitter back to the door early. She went #1 but not #2. One visit; the sitter did not flag it as a concern, so cause is unclear.",
+     "quote": "She kept sitting down multiple times during our walk like she didn't want to walk a lot today"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 20",
      "source": "Chrissy George visit report",
      "office": false,
@@ -878,16 +898,6 @@
      "office": false,
      "note": "Lucy was offered the Ollie on the Oct 15 midday visit and did not eat it. The same report contradicts itself on her stool: the written note calls it very healthy while Lucy's consistency field reads a little loose but not concerning, so the reading is uncertain. Wet can food was marked as fed.",
      "quote": "I offered her Ollie but she didn’t eat it."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Margaret Bill 11:39am visit report",
-     "office": true,
-     "note": "THIRD scooting report in five days - Oct 5, Oct 7 and now Oct 9. Same Oct 9 morning visit: Lucy was groggy on arrival, water bowl was filled but she would not touch it, she turned around halfway up the ranch houses and lay straight back down on her bed, and she went #1 with no #2. She did eat some kibble and some treats. Sitter returns at 2pm the same day and wrote that she hopes Lucy has more energy later. Repeated scooting plus low energy plus no #2 is worth raising with the client - there is no vet contact or diagnosis anywhere in this mailbox.",
-     "quote": "She also did a little scooting again today."
     }
    ],
    "dormant": false
@@ -3115,6 +3125,16 @@
      "office": true,
      "note": "BOTH dogs unwell on the midday walk. Milo had frank diarrhea and the sitter says he was behaving strangely like something was wrong or he did not feel well, though his energy was normal. The sitter stayed over time because of it. First report of either dog being off at this house.",
      "quote": "Milo then went number two and it was extremely runny case of diarrhea."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "One of the dogs' water bowls broke during the midday visit - Milo jumped up while the sitter was carrying it. Sitter picked up the pieces, bagged them and put them in the trash, and sent photos. The home is now one water bowl short.",
+     "quote": "Milo jumped up and the bowl fell right out my hand and broke"
     },
     {
      "cat": "home",
