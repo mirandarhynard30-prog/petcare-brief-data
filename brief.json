@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T20:20:05-04:00",
+ "generated": "2026-10-22T21:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1345,14 +1345,14 @@
      "quote": "I brought the recycling bin inside. The garbage had not been picked up."
     },
     {
-     "cat": "health",
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 20",
-     "source": "Michelle Carrara message to client, Oct 20 10:10 AM",
-     "office": false,
-     "note": "Georgie has a vet appointment on Wednesday Oct 21 - mentioned by the sitter, not by the client, so the reason for the visit is not stated anywhere in the mail. Next Petcare visit is Thursday; ask Mary Ann on arrival whether anything changed.",
-     "quote": "Sending good wishes to Georgie tomorrow for his vet appointment."
+     "date": "Oct 22",
+     "source": "Tiarra Roberts evening visit report, 8:19 PM",
+     "office": true,
+     "note": "Second same-day instance of the deleted bin and mail duties still being done. On the 7:57 PM visit the sitter brought the mail in and handed it to Mary Ann, rolled the empty trash bin into the garage and put recycling in the bin. This supersedes the morning report that said the garbage had not been picked up and no mail had arrived. Both duties were removed from Company Notes on Oct 14, so the record and the practice still disagree and the office needs to decide which is right.",
+     "quote": "I got the mail and rolled in the empty trash bin, placing it near the stairs inside the garage."
     }
    ],
    "dormant": false
