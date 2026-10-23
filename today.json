@@ -1,20 +1,8 @@
 {
- "generated": "2026-10-23T00:05:54-04:00",
+ "generated": "2026-10-23T10:05:11-04:00",
  "date": "2026-10-23",
  "label": "Oct 23, 2026",
  "clients": [
-  {
-   "name": "Alan & Bridgette Wiggers",
-   "visits": [
-    {
-     "time": "9:30 PM",
-     "sort": "2130",
-     "staff": "Chelsea Tompkins",
-     "service": "Cat Visit-20 Minutes",
-     "pets": "Chloe, Bella"
-    }
-   ]
-  },
   {
    "name": "Angela Jozsa",
    "visits": [
@@ -272,5 +260,5 @@
    ]
   }
  ],
- "visitCount": 24
+ "visitCount": 23
 }
