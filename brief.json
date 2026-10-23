@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T23:20:16-04:00",
+ "generated": "2026-10-23T09:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6192,16 +6192,6 @@
      "office": true,
      "note": "Eye-drop instruction rewritten: drops are in the LEFT cabinet above or next to the stove, give them if her eye is goopy and she lets you. The softener If not, no big deal was removed in that same edit. The conflict is unresolved: the client's own Sep 29 message put the drops in the upper cabinet on the RIGHT, and that line was deleted from the Pet Care Note today, so the two records no longer agree and nobody has confirmed which cabinet is correct.",
      "quote": "Use eye drops (left cabinet above stove/next to stove) if eye is goopy, if she lets you"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Dan Dantimo visit report, Oct 1 1:24 PM",
-     "office": true,
-     "note": "Oct 1 midday report, written by Dan Dantimo while shadowing Elizabeth Cuffari, makes no mention of Louise's (Weezie's) eye drops, and the report form carries no medication question at all. Third report in a row with no record of the drops.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -6479,6 +6469,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 23",
+     "source": "Ellen Krane client message",
+     "office": true,
+     "note": "Third contact on the still-unanswered Thanksgiving request. Client confirms the pet roster has changed: the hedgehog died a few months ago, so the visits would cover two dogs, two cats and a hamster. She does not name the pets. No office reply to her is visible in this mailbox.",
+     "quote": "we lost the hedgehog a few months ago, so there will just be two dogs, two cats and a hamster to visit!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 22",
      "source": "Client message, 3:17 PM",
      "office": true,
@@ -6645,26 +6645,6 @@
      "office": false,
      "note": "ANSWERS THE FOUR-VISIT RUN OF NO SIGHTINGS. Tiarra Roberts rewrote the client-facing General Information with Pickles' hiding spots: the closet of the girl's bedroom down the hallway, or the basement by the washer/dryer. It previously read only that he hides under the white dresser in the girl's bedroom. The basement washer/dryer spot was also removed from the Company Notes litter-box line in the same edit, so this General Information entry is now the only place it is recorded. Sitters who could not find him were looking under a dresser.",
      "quote": "PICKLES HIDES IN CLOSET OF GIRL'S BEDROOM (DOWN HALLWAY) OR IN BASEMENT BY WASHER/DRYER"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Noella Assi visit report",
-     "office": true,
-     "note": "Oct 1 morning visit: Pickles again not found in any usual hiding spot. This is a second consecutive visit with no sighting (also missed Sep 30 evening) while the family is away. Office should contact the client to confirm whether Pickles is accounted for.",
-     "quote": "I tried looking for pickles but I did not see him in any of his usual hiding spot."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 1",
-     "source": "Shannon Anderson post-visit report, Oct 1 7:19 PM",
-     "office": true,
-     "note": "Pickles not seen again on the Oct 1 evening visit. That is a THIRD consecutive visit with no sighting (Sep 30 evening, Oct 1 morning, Oct 1 evening). The sitter also noted the litter boxes looked as though they had not been used since earlier in the day. The family is away and has not been told. This needs a call to the client before the next visit.",
-     "quote": "I then went to check on Pickles but did not see him."
     },
     {
      "cat": "behavior",
