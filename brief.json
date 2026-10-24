@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T19:20:06-04:00",
+ "generated": "2026-10-23T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6397,6 +6397,16 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Brandon Keyes private message, Oct 23 7:54 PM",
+     "office": true,
+     "note": "Client wrote at 7:54 PM to clear up a booking mix-up - he thought he had scheduled for today but had not, and he is asking for one visit on each of the next two days. Read with the service order request he placed at 7:30 PM for Oct 24-25, which is still sitting unapproved. He apologises and is waiting on a confirmation back. The message does not give times for either visit.",
+     "quote": "I was unsure of the next two days but yes, just one visit for each day."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -6485,16 +6495,6 @@
      "office": false,
      "note": "Flacko had a very loose, almost watery #2 on the Oct 9 afternoon walk; otherwise he seemed fine, drank a full bowl of water on return and walked a mile with no trouble. First loose-stool report on file for Flacko - watch the next visit.",
      "quote": "and it was very loose, almost a watery consistency. But besides that, he seems totally fine."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Elizabeth Cuffari visit report, 2:40 PM",
-     "office": false,
-     "note": "On the afternoon walk Flacko barked at a passing pizza delivery car. That lines up with the car-toppers trigger already on his standing profile, so treat delivery vehicles as a real trigger and keep a short leash when one passes. No dogs were encountered and the walk was otherwise clean - he listened well, went #1 several times and #2 once, and was very thirsty on return so his water was refilled.",
-     "quote": "We did encounter a pizza delivery delivery car going down the street and he let out a few barks"
     }
    ],
    "dormant": false
