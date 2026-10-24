@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T20:20:05-04:00",
+ "generated": "2026-10-23T21:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -91,6 +91,16 @@
      "quote": "Use blue pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Kelly Huntington message, Oct 23 6:59 PM",
+     "office": false,
+     "note": "Client will not be home tonight or for tomorrow's visits. She is NOT cancelling - the visits stand, nobody home, so the sitter should not expect anyone there. Re-emitted: handed off at 19:12 and 20:13 and still absent from the published brief.",
+     "quote": "I wont be home tonight or tomorrows visits so I wont get to see you"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -119,16 +129,6 @@
      "office": true,
      "note": "The same report records BOTH of Livvie's AM medications actually being given - gabapentin liquid and the one-and-a-half pill. That bears on the open office question from the Sep 22 and Sep 28 note rewrites, where gabapentin and then the appetite stimulant disappeared from the written notes and nobody confirmed whether they had been stopped. The report shows gabapentin is still in use; it says nothing about the appetite stimulant, so that question is still open.",
      "quote": "We got Livvie's gabapentin liquid and her one pill and a half."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Client private message, 5:18pm",
-     "office": true,
-     "note": "AMBIGUOUS - open confirmation from the client. She says whatever was sent her looks good and that she will confirm as soon as she can, so a reply is still outstanding. The email does not say what she is approving, so the office has to match it against what was sent her on Oct 10.",
-     "quote": "Looks good to me. I will let you know asap."
     }
    ],
    "dormant": false
@@ -4816,6 +4816,16 @@
      "office": false,
      "note": "Sitter is tracking the downstairs cat auto-feeder level visit to visit to confirm it is actually dispensing. No fault reported yet - next sitter should note the level too.",
      "quote": "I took note of how much cat food is in the auto feeder so that I can compare next time I am over"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Shannon Anderson visit report for Emily Tharp, Oct 23 8:18 PM",
+     "office": false,
+     "note": "On the dark evening visit Lucy barked at the door until she recognised the sitter, then settled immediately. Worth expecting on after-dark arrivals; seen once so far, not yet a standing pattern.",
+     "quote": "She met me at the door barking since she didn't know who it was due to it being dark."
     }
    ],
    "dormant": false
