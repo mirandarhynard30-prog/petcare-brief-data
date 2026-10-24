@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T10:20:06-04:00",
+ "generated": "2026-10-24T11:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2447,6 +2447,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Matt Konn private message, Oct 24 10:29 AM",
+     "office": true,
+     "note": "Client messaged privately at 10:29 AM Oct 24 asking for two visits tomorrow, Sun Oct 25 - a 7-9 AM window and a 7-9 PM window, each walk plus feeding. Described as a spur-of-the-moment decision. No reply or scheduling visible in this mailbox as of 11:15 AM.",
+     "quote": "Can I get someone for 7- 9 am window: walk + feeding....as well as 7-9 pm window: walk + feeding?"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -2555,16 +2565,6 @@
      "office": true,
      "note": "Important Notes updated at 4:35 PM and the Dog is Human multivitamin line is back - it had been deleted in the Oct 14 rewrite. One bullet added, nothing else changed. The new wording says 2 with food and no longer says 2 in the morning and 2 at bedtime, so the per-day total is now ambiguous; office should confirm with Matt whether it is 2 per feeding (4/day) or 2 total.",
      "quote": "Feed 2 Dog is Human multivitamin with food, if he has them on kitchen counter"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Tiarra Roberts visit report for Matt Konn, 4:33 PM",
-     "office": false,
-     "note": "Second report of the training-collar remote working on Ripley, after the Oct 13 one-click method. This time Tiarra only showed her the remote and Ripley came and sat; she found the collar in the mudroom full-size cabinet, put Ripley's normal collar on, and carried the remote on the walk without using it.",
-     "quote": "Just showing her the remote caused her to come to me and sit."
     }
    ],
    "dormant": false
@@ -3011,6 +3011,26 @@
      "office": false,
      "note": "Oct 17, 10:00 AM visit: Bella passed two stools and urinated several times. Sitter logged the consistency as a little loose but not concerning. Bella's Oct 11 stool was logged very loose, so soft stool has now been seen twice in a week - worth a consistency note at every visit.",
      "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Kathy Pastor visit report, Oct 24 10:24 AM",
+     "office": false,
+     "note": "On the 10 AM walk Bella ate some grass and her single #2 was logged as slightly loose. The sitter recorded it as not concerning and reported Bella as chipper and brisk, so this is one observation rather than an established pattern.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Kathy Pastor visit report, Oct 24 10:24 AM",
+     "office": false,
+     "note": "Client was home for the Oct 24 10 AM visit and asked that the door not be locked on leaving. The sitter did not go in or check the home for that reason.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
