@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T13:20:06-04:00",
+ "generated": "2026-10-24T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2763,6 +2763,16 @@
      "quote": "THEY ARE ALL VERY STRONG AND WILL PULL."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Tiarra Roberts visit report, 1:45 PM",
+     "office": false,
+     "note": "Sitter found walking Frankie on a separate leash worked better than the usual setup. One sitter on one visit, not an established rule - worth trying and confirming before it becomes standing.",
+     "quote": "It was much better to put Frankie on his own leash."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2821,6 +2831,16 @@
      "office": false,
      "note": "They eat three times a day (am, midday, evening) in the utility room - portioned bags in the refrigerator or on the kitchen island, rice/chicken plus kibble in each bowl. Treats in the utility room cabinet. Water bowls in laundry room and kitchen.",
      "quote": "NO NEED TO PICK UP THE #2'S. WATCH OUT FOR DEER POOP IN BACK YARD FIELD."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Tiarra Roberts visit report, 1:45 PM",
+     "office": true,
+     "note": "Sitter flagged the kitchen scissors used to open the pre-packaged food as going dull and suggested replacing them. The report's pet-supplies-low field was answered No, so this did not register as a supply issue anywhere else.",
+     "quote": "The scissors are getting a bit dull, maybe time for new ones, possibly?"
     },
     {
      "cat": "behavior",
@@ -6367,6 +6387,16 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Client message, 1:50 PM",
+     "office": false,
+     "note": "Client replying about a supply a sitter had asked after - the request itself is not in this mailbox, so which supply is unclear. He points to a possible stock under the cabinet by the kitchen door and says he will have more for tomorrow. Sitter should check there first. Elizabeth Sigler acknowledged at 1:57 PM.",
+     "quote": "There might be some under the cabinet right by the kitchen door. If not, I’ll make sure I have some more for tomorrow."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -6455,16 +6485,6 @@
      "office": false,
      "note": "Treats for this week are beef jerky in a Ziploc bag in the fridge. Worth following exactly - sitters could not find Flacko's treats on Sep 29 and Sep 30. Client says 'this week', so treat it as time-limited rather than a standing rule.",
      "quote": "There are treats in the fridge this week. They are the beef jerky that is in the Ziploc bag."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Elizabeth Cuffari visit report 1:34pm",
-     "office": false,
-     "note": "Flacko had a very loose, almost watery #2 on the Oct 9 afternoon walk; otherwise he seemed fine, drank a full bowl of water on return and walked a mile with no trouble. First loose-stool report on file for Flacko - watch the next visit.",
-     "quote": "and it was very loose, almost a watery consistency. But besides that, he seems totally fine."
     }
    ],
    "dormant": false
