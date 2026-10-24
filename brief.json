@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T23:20:06-04:00",
+ "generated": "2026-10-24T06:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -464,16 +464,6 @@
      "office": true,
      "note": "Follow-up to her 7:29am cancellation: she confirms today's visit is cancelled in full. She is already off today's roster, so this is most likely already processed, but it is a second explicit cancellation and should be acknowledged to her.",
      "quote": "Sorry, I just saw this. We will completely cancel our visit for today"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Thomas Rakovec visit report 1:05 PM",
-     "office": true,
-     "note": "The report's accidents field was set to the pet got sick and was cleaned up, with before and after pictures. The written note names no animal and describes only used pee pads in the living room, so which animal was sick is not stated anywhere in the report.",
-     "quote": "The pet got sick and I cleaned it up"
     }
    ],
    "dormant": false
@@ -738,36 +728,6 @@
      "office": true,
      "note": "Treats are running low at this house - the sitter flagged supplies as low on the Oct 13 report. Separate from the waste-bag shortage reported Sep 30. She also notes she will be back tomorrow with Wendy joining her again.",
      "quote": "I noticed their treats were a little low"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Monica Hopewell visit report 12:47 PM",
-     "office": true,
-     "note": "The house alarm was already off when the sitter let herself in at midday. She set it on leaving. Nothing says whether the client meant it to be off.",
-     "quote": "When I came in the alarm was already off so I did make sure to set that when I left."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Monica Hopewell midday visit report, Oct 2 12:47 PM",
-     "office": false,
-     "note": "CJ's #2 on the Oct 2 midday walk was logged on the report form as a little loose but not concerning; Rex's was logged firm and healthy. Single reading, no other symptoms described. Worth a second look at this house given the Sep 22-23 foil-in-stool episode for both dogs.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Monica Hopewell midday visit report, Oct 2 12:47 PM",
-     "office": true,
-     "note": "Sitter says she usually covers this house on Fridays but will be in Chicago next week, and that she has told the clients so. The report gives no date, so the office needs to confirm which Friday is affected and assign cover.",
-     "quote": "I'll be in Chicago next week and I told them this"
     }
    ],
    "dormant": false
@@ -1648,16 +1608,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Elizabeth Cuffari visit report for Judy Steele, Oct 2 evening",
-     "office": true,
-     "note": "Service for Eddie is active and continuing, which bears on the Aug 26 item that read as his last afternoon visit. Elizabeth Cuffari filed an evening visit report on Oct 2 and told Judy she would be back the following day for his afternoon visit. The report records no accidents, firm and healthy stool, and no supplies low. The email does not say how long the current block of visits runs, so the end date is still unconfirmed.",
-     "quote": "I will be back tomorrow for his afternoon visit"
-    },
-    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -2285,26 +2235,6 @@
     {
      "cat": "home",
      "sev": "low",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Kristin Ashick visit report, 1:51 PM",
-     "office": false,
-     "note": "A package was sitting on the porch; the sitter brought it in and set it on the floor inside the door.",
-     "quote": "There was a package on the porch, I put that on the floor when you come in."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Kristin Ashick visit report, 1:51 PM",
-     "office": false,
-     "note": "Mac spotted a squirrel beyond the fence and stayed on guard a short while. Otherwise settled, cuddly and happy in the fenced back yard.",
-     "quote": "He saw a squirrel on the other side of the fence and was on gaurd for a little bit."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
      "type": "standing",
      "date": "Sep 30",
      "source": "Client message, 1:02 PM",
@@ -2520,6 +2450,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 23",
+     "source": "Tiarra Roberts visit report, Oct 23 1:55 PM",
+     "office": true,
+     "note": "Tiarra Roberts' Oct 23 afternoon report logs Ripley going #1 only - there is no #2 entry and no stool-consistency field at all - the day after Matt reported she had needed out three times with loose bowel movements. Nothing in this mailbox answers him about the stool.",
+     "quote": "She went #1."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 22",
      "source": "Client message, 12:40 PM",
      "office": false,
@@ -2625,16 +2565,6 @@
      "office": false,
      "note": "Second report of the training-collar remote working on Ripley, after the Oct 13 one-click method. This time Tiarra only showed her the remote and Ripley came and sat; she found the collar in the mudroom full-size cabinet, put Ripley's normal collar on, and carried the remote on the walk without using it.",
      "quote": "Just showing her the remote caused her to come to me and sit."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Tiarra Roberts bedtime visit report, 9:24 PM Oct 16",
-     "office": true,
-     "note": "The double-dose risk did NOT materialise today. The 9:24 PM bedtime report logs no multivitamin and no food fed - only a walk, water refreshed, food bowl washed and a treat - so Ripley got 2 Dog is Human vitamins on Oct 16 in total, at the 4:33 PM visit. The Important Notes wording restored at 4:35 PM ('Feed 2 Dog is Human multivitamin with food') is still ambiguous for future days against the deleted Oct 14 wording of 2 in the morning and 2 at bedtime. Office should fix the wording before the next sitter works both visits.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -3725,16 +3655,6 @@
      "office": true,
      "note": "Poop bags are out - the sitter used the last bag on the leash this morning and flagged supplies as low. The next sitter needs to bring their own bags, and the office should sort out a restock with Ray.",
      "quote": "We used the last poop bag on the leash."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Julie Smith message to client, Oct 2 8:02 AM",
-     "office": true,
-     "note": "Julie Smith asked Ray to move today's 9:30 AM walk to 10:00 AM to let the rain pass. No reply from Ray on the thread as of 8:13 AM - the visit time for today is unconfirmed.",
-     "quote": "Are you ok with me coming at 10 am instead of 9:30 so we can avoid the rain?"
     }
    ],
    "dormant": false
@@ -4148,7 +4068,7 @@
      "quote": "Yes please, Monday to Sunday two visits at our normal times!"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Julie Valerio",
@@ -4947,16 +4867,6 @@
      "office": false,
      "note": "Client gives the fish's name for future reference - Mr. Midnight - and says he usually sleeps most of the day. She thanked Margaret for feeding him and for the video, and said Margaret actually got him out and swimming.",
      "quote": "our fish’s name is Mr. Midnight"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Margaret Bill message to client",
-     "office": true,
-     "note": "Sitter asked the client which food Miguel prefers, chicken or seafood. Unanswered; client's Oct 3 order is also still awaiting approval.",
-     "quote": "Any suggestions for Miguel's food would be appreciated. Does he like the chicken or the seafood?"
     }
    ],
    "dormant": false
@@ -5061,16 +4971,6 @@
      "quote": "Pretty Litter: Red, Purple colors mean significant problems; contact management"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Tiarra Roberts updated contact information for Lauren Stuy (Current Pet Care Note, 7:50 PM)",
-     "office": true,
-     "note": "OFFICE: the Pet Care Note was overwritten tonight and the whole previous value was lost. The old text was the only written record in this mailbox of the Oct 7-11 visit pattern - leaving in the AM on Oct 7 so only one PM visit that day, two visits on the 8th, 9th and 10th, one morning visit Oct 11, returning that evening - plus 'wanting 2 visits a day', the Jan/Feb interest and the dehumidifier request. The new note is one line about shoes. This is from a note field, not a client message. Re-enter the visit pattern somewhere before Oct 7, and check it against the windows the client agreed tonight (mornings 6-9am, evenings 5-8pm).",
-     "quote": ""
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -5079,16 +4979,6 @@
      "office": false,
      "note": "Litterbox bagging plan: one box of small blue trash bags at the downstairs litterbox is enough, and the same bag is carried on to the 2nd and 3rd litterboxes. Bags, paper towels and cleaning supplies are in the utility room, now noted in the client profile.",
      "quote": "1 box of small blue trash bags on the downstairs litterbox should be good enough"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Tiarra Roberts and client messages, Oct 2 6:30-6:32 PM",
-     "office": true,
-     "note": "New client. After the Oct 2 consult Tiarra Roberts proposed next week's visit windows - mornings between 6am and 9am, evening visits between 5pm and 8pm - and the client confirmed they work. No service order for those visits is visible in this mailbox, so the office still needs to put the week on the schedule.",
-     "quote": "Those times work for us!"
     },
     {
      "cat": "behavior",
@@ -6314,16 +6204,6 @@
      "quote": "Close the crate while he eats and allow him to finish his meal before letting him out"
     },
     {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Yasmeen Abrams visit report",
-     "office": true,
-     "note": "Oakley's backyard tie-out would not unclip and looks rusted, so the sitter improvised her own lead to take him out and then struggled to get it off again. Needs replacing or confirming before the next visit.",
-     "quote": "I couldn’t get the tie out to work or unclip so I made my own"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -6686,16 +6566,6 @@
      "quote": "PICKLES HIDES IN CLOSET OF GIRL'S BEDROOM (DOWN HALLWAY), UNDER WHITE DRESSER OR IN BASEMENT, BY WASHER/DRYER"
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Noella Assi visit report",
-     "office": true,
-     "note": "Fourth consecutive visit with no sighting of Pickles. Noella searched the house after finishing chores and did not see him; Beau-Ba, White boy and Pepa were all accounted for. Family is away.",
-     "quote": "After I was done with all chores I looked for pickles. I still have not seen him"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -6886,6 +6756,16 @@
      "quote": "Mom is moving to Heritage Crossing"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Chrissy George visit report, Oct 23 morning",
+     "office": false,
+     "note": "Second report naming something that works for getting Sassie's harness on - Chrissy George used a small treat as a bribe on the Oct 23 morning walk, and says Sassie looked a little tired. Follows the Oct 13 no-pull-leash report. Two visits by two sitters, so still not a standing rule.",
+     "quote": "I had to bribe her to get her harness on with a little treat"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -6894,16 +6774,6 @@
      "office": false,
      "note": "On the Oct 22 2:15 PM visit the home-secured field reads that the client was home during the visit and asked the sitter not to lock the door on leaving. One visit only - not recorded anywhere as a standing instruction.",
      "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Josh Stone visit report 3:11 PM",
-     "office": true,
-     "note": "Joan asked the sitter during the visit for information on SCAT Metro transport services for a doctor's appointment that may clash with the visit schedule. The sitter attached a photo of the SCAT brochure to the report. The appointment date and time are not stated anywhere in the message, so the office needs to call and get them before any rescheduling can be worked out.",
-     "quote": "Joan asked me to get her info on scat metro services for her doctors appointment that might not match up with scheduling"
     }
    ],
    "dormant": false
@@ -7463,16 +7333,6 @@
      "office": false,
      "note": "Food bowls are kept inside the microwave because Calvin has learned to get up on the kitchen counters.",
      "quote": "Their bowls will be in the microwave because Calvin has learned how to get up on the counters."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 2",
-     "source": "Client message 12:48 PM",
-     "office": true,
-     "note": "Client says her Monday Oct 5 request went in without feeding instructions, and asks that feeding be as close to 5:00 PM as possible. Needs adding to that visit.",
-     "quote": "Please feed them as close to 5:00 pm as you can."
     },
     {
      "cat": "health",
