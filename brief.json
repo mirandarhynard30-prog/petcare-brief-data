@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T06:20:06-04:00",
+ "generated": "2026-10-24T07:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2063,6 +2063,26 @@
      "quote": "If we scrap it for today, any chance he could walk tomorrow late morning?"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Monica Hopewell visit report, Oct 23 11:45 AM",
+     "office": false,
+     "note": "Murphy picked up a skunk scent on the Oct 23 11:15 AM walk and towed the sitter along the trail at speed until the smell ran out. No skunk was actually found. First scent-tracking report for him in this mailbox - worth knowing he will pull hard and set the pace when he catches a scent. Stool on the same walk was firm and healthy.",
+     "quote": "He caught the scent of a skunk and made us follow that until the smell stopped"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "office": true,
+     "source": "Client private message, Oct 23 10:18 AM",
+     "note": "Third time on record this client has had to ask when her walker is coming, after Oct 6 and Oct 16. Monica Hopewell answered 41 minutes later with an 11:15 ETA. The Oct 22 Important Notes edit already carries a standing instruction to send an ETA when on the way, and the ask still happened - office should decide whether that rule is being followed here.",
+     "quote": "Good morning! What time should we expect our walker today?"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2141,26 +2161,6 @@
      "office": true,
      "note": "Client reports Murphy got into an entire large pizza and gained 4 lbs. She does not say when the pizza happened or whether a vet was called, and she names no symptoms. Relevant to the standing weight-loss goal already on this account (Company Notes say weight loss, 20 pounds in the old General Information field). Worth confirming with her whether the 4 lbs is a weigh-in figure or an estimate.",
      "quote": "He got into an entire large pizza and gained 4 lbs! He needs to work it off!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Time To Pet record edit by Tiarra Roberts",
-     "office": true,
-     "note": "Client-written General Information field emptied, losing Murphy's weight-loss target. Company Notes still say the goal is weight loss but not how much. Second client-written field wiped today.",
-     "quote": "Murphy needs to lose 20 pounds"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Tiarra Roberts updated contact information for Charlene Szunyog",
-     "office": true,
-     "note": "The Sep 11 note rewrite deleted the water section from the Company Notes and no water instruction now appears in either the Pet Care Note or the Company Notes. Previously it read that there is one bowl in the kitchen and to refill if needed. Office should decide whether to put it back.",
-     "quote": "1 water bowl in kitchen"
     }
    ],
    "dormant": false
@@ -3565,6 +3565,16 @@
      "office": true,
      "note": "11:47am rewrite cut Archie's temperament warning to four words, 'Leash hand-off at door'. Also lost: that Ray hooks him to the leash for us until he is used to us. A sitter reading the new notes has no idea why the hand-off exists.",
      "quote": "Archie is a little stand offish and will take some time to warm up to us"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Thomas Rakovec visit report, Oct 23 10:09 AM",
+     "office": false,
+     "note": "Oct 23 morning walk: Archie went both #1 and #2 and the report's consistency field reads firm and healthy. That is the second firm reading this month after Oct 16, against no-bowel-movement walks on Oct 9 and Oct 14. Client was home during the visit, so the sitter did not go in or check the house.",
+     "quote": "Archie went to the bathroom and took a #1 and #2 and fed a few snacks"
     },
     {
      "cat": "schedule",
