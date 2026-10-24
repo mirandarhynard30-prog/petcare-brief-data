@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T09:05:22-04:00",
+ "generated": "2026-10-24T10:20:09-04:00",
  "date": "2026-10-24",
  "label": "Oct 24, 2026",
  "clients": [
@@ -19,8 +19,8 @@
    "name": "Christina Palmieri",
    "visits": [
     {
-     "time": "10:30 AM",
-     "sort": "1030",
+     "time": "11:00 AM",
+     "sort": "1100",
      "staff": "Kiara Streety",
      "service": "Dog Visit-30 minute",
      "pets": "Bismark"
@@ -100,8 +100,8 @@
    "name": "Kari Majewski",
    "visits": [
     {
-     "time": "10:15 AM",
-     "sort": "1015",
+     "time": "10:30 AM",
+     "sort": "1030",
      "staff": "Margaret Bill",
      "service": "Cat Visit-60 Minute",
      "pets": "Miguel"
@@ -160,8 +160,8 @@
    "name": "Vicki Davey",
    "visits": [
     {
-     "time": "9:30 AM",
-     "sort": "0930",
+     "time": "10:00 AM",
+     "sort": "1000",
      "staff": "Kiara Streety",
      "service": "Cat Visit-45 minute",
      "pets": "3 indoor cats, 6 outdoor cats"
