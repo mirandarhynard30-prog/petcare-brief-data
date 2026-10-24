@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T22:20:06-04:00",
+ "generated": "2026-10-23T23:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1334,6 +1334,16 @@
      "source": "Tiarra Roberts, Access Instructions edit"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Tiarra Roberts evening visit report, 8:16 PM",
+     "office": true,
+     "note": "Third documented day of the deleted mail and recycling duties still being performed. Tiarra collected the mail on arrival and threw recycling into the bin through the garage, the same tasks the Oct 14 Company Notes rewrite removed. Oct 22 already had two instances. Office should decide whether the Oct 14 deletion was a mistake and restore the instructions, or tell sitters to stop.",
+     "quote": "I arrived and got the mail. I headed in through the garage."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1352,16 +1362,6 @@
      "office": true,
      "note": "On the Oct 22 visit the sitter brought the recycling bin in and reported the garbage had not been picked up and no mail had arrived yet. The bin routine and the mail instruction were both deleted from the Company Notes on Oct 14, so what sitters are doing and what the record says no longer match. Someone in the office needs to decide which is correct.",
      "quote": "I brought the recycling bin inside. The garbage had not been picked up."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Tiarra Roberts evening visit report, 8:19 PM",
-     "office": true,
-     "note": "Second same-day instance of the deleted bin and mail duties still being done. On the 7:57 PM visit the sitter brought the mail in and handed it to Mary Ann, rolled the empty trash bin into the garage and put recycling in the bin. This supersedes the morning report that said the garbage had not been picked up and no mail had arrived. Both duties were removed from Company Notes on Oct 14, so the record and the practice still disagree and the office needs to decide which is right.",
-     "quote": "I got the mail and rolled in the empty trash bin, placing it near the stairs inside the garage."
     }
    ],
    "dormant": false
@@ -4826,6 +4826,16 @@
      "office": false,
      "note": "On the dark evening visit Lucy barked at the door until she recognised the sitter, then settled immediately. Worth expecting on after-dark arrivals; seen once so far, not yet a standing pattern.",
      "quote": "She met me at the door barking since she didn't know who it was due to it being dark."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 23",
+     "source": "Shannon Anderson evening visit report, 8:18 PM",
+     "office": false,
+     "note": "Leaving routine the sitter performed on the Oct 23 evening visit: TV left on a music station so the house is not silent, Lucy's lamp on, the outside light by the door left on, and the blinds on the back door closed. Mail brought in and set on the counter, trash cans brought in. One report only, so not a confirmed standing rule.",
+     "quote": "I turned the TV on to a music station so it wasn't so quiet in the house."
     }
    ],
    "dormant": false
