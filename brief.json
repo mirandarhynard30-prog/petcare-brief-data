@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T12:20:06-04:00",
+ "generated": "2026-10-24T13:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2893,6 +2893,26 @@
      "quote": "please read the top of the cans cause some things have changed to help Trudy’s situation"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Client message, 9:49 AM Oct 24",
+     "office": false,
+     "note": "Entry note the client sent for today's visit only, right after Kiara Streety's ETA message: the front door is open, and if Trudy is not downstairs the sitter should let her know she is there. Third documented instance this month of the front door being left open for the sitter (Oct 10, Oct 17, Oct 24) - the pattern is standing even though each message covers one visit.",
+     "quote": "Ok thanks Kiara front door is open if Trudy isn’t down stairs just let her no ure there thanks have a great day!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 24",
+     "source": "Kiara Streety visit report, 10:49 AM Oct 24",
+     "office": true,
+     "note": "Record conflict the office needs to settle: this visit report has the sitter speaking to Trudy and Trudy answering, which reads as a person in the home rather than a pet, but Trudy is the only name on the client's pet list and the Sep 12 feeding change was described as being for \"Trudy's situation\". Reports also describe cats being fed inside, outside and on the porch, so the pet list looks incomplete either way. Not resolved here - the client record needs checking.",
+     "quote": "I told Trudy I was leaving she said thank you!"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2951,26 +2971,6 @@
      "office": true,
      "note": "Concrete delay behind the client's Oct 18 punctuality complaint, which still has no office reply. Harvett Ellington told Vicki at 5:24 AM she would arrive around 9:20-9:25 AM, messaged again at 9:47 AM apologising and moving it to 10:15-10:20 AM, then messaged walking up at 10:25 AM and in at 10:33 AM - about an hour past the first window.",
      "quote": "My apologies for running late. I will arrive between 1015-1020am."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Harvett Ellington messages, Oct 17 2:35 PM and 3:54 PM",
-     "office": false,
-     "note": "Counterpoint to the still-unanswered punctuality complaint: the Oct 17 afternoon visit ran on time. Harvett gave a 3:45-3:55 PM window at 2:35 PM, said she was walking up at 3:54 PM and filed the report at 4:31 PM. It was the Oct 17 morning visit, not the afternoon one, that slipped.",
-     "quote": "Good afternoon, I will arrive between 345-355pm..."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Kiara Streety visit report, Oct 11 10:51am",
-     "office": false,
-     "note": "Fullest account yet of what a visit here covers, from the Oct 11 10am visit - the brief has had no description of the house layout. The sitter fed in groups: indoor cats first (2 wet, 1 soup, dry refilled), then outside cats (2 dry, 2 wet), then the porch (2 wet, 2 dry). Litter was done in three places - porch, basement and upstairs - with water refreshed at each. This is one sitter's account of one visit, not a written rule, so treat it as a guide rather than instructions. She also brought in a package from the porch and replaced the bag in the kitchen trash can. The client was home during the visit.",
-     "quote": "Came in and did indoor cats first. 2 wet, 1 soup and refilled dry!"
     }
    ],
    "dormant": false
