@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T00:05:37-04:00",
+ "generated": "2026-10-24T09:05:22-04:00",
  "date": "2026-10-24",
  "label": "Oct 24, 2026",
  "clients": [
@@ -157,18 +157,6 @@
    ]
   },
   {
-   "name": "Mary Gilmore",
-   "visits": [
-    {
-     "time": "11:45 AM",
-     "sort": "1145",
-     "staff": "Margaret Bill",
-     "service": "Dog Visit-30 minute",
-     "pets": "Puck, Rusty"
-    }
-   ]
-  },
-  {
    "name": "Vicki Davey",
    "visits": [
     {
@@ -188,5 +176,5 @@
    ]
   }
  ],
- "visitCount": 17
+ "visitCount": 16
 }
