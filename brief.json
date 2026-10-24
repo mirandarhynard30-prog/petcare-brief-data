@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T07:20:05-04:00",
+ "generated": "2026-10-24T08:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2761,6 +2761,26 @@
      "office": false,
      "note": "Dogs stay in the utility room when unattended - gate up and door shut. Walk the property only, not the neighborhood. All of them are strong pullers.",
      "quote": "THEY ARE ALL VERY STRONG AND WILL PULL."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated contact information for Lance Hoffman, Oct 14",
+     "office": false,
+     "note": "Tiarra Roberts rewrote the Important Notes into bullets on Oct 14 in three successive edits. Two tasks in the final version are not yet in the brief: the three food bowls in the utility room are to be washed after use, and the single water bowl there is to be refreshed. Kibble and chicken/rice go into those three bowls. The rest of the final text repeats the already-recorded rules - strong pullers, walk the property only, all three dogs in the utility room with the gate replaced and the door blocking entry to the house, fed three times daily from portioned bags in the fridge or on the kitchen island.",
+     "quote": "Refresh 1 water bowl in utility room"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 14",
+     "source": "Tiarra Roberts updated details for pet Marlo (Client:Lance Hoffman), Oct 14",
+     "office": false,
+     "note": "Marlo's vet of record is Hinkley Animal Hospital, Dr. Oscar Skavdahl. It was first entered in the Allergies field and then moved to Veterinary Information twenty-one seconds later, which left the Allergies field blank. The blank Allergies field therefore means nothing has been recorded there, not that allergies were checked and ruled out. Sammy and Frankie had only their Pet Type set to dog in the same batch of edits.",
+     "quote": "Basic Details - Veterinary Information (Name) Updated to: HINKLEY ANIMAL HOSPITAL-DR. OSCAR SKAVDAHL"
     },
     {
      "cat": "behavior",
