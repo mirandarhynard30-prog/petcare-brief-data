@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T14:20:05-04:00",
+ "generated": "2026-10-24T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6397,6 +6397,16 @@
      "quote": "There might be some under the cabinet right by the kitchen door. If not, I’ll make sure I have some more for tomorrow."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Elizabeth Sigler visit report, Oct 24 2:25 PM",
+     "office": false,
+     "note": "Poop bags are out. Elizabeth Sigler checked the cabinet by the kitchen door that Brandon had pointed to and found none, and used a bag from her own car. Brandon said earlier the same day he would have more by tomorrow, so bring your own bags until that is confirmed. Report's pet-supplies-low field answered Yes.",
+     "quote": "I looked all over for poop bags or other plastic bags- including the cabinet you mentioned. Seems like you’re out!"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -6475,16 +6485,6 @@
      "office": false,
      "note": "New owner request: on the way out, give Flacko his green and yellow treat ball, already filled. Said once, so not yet a standing rule.",
      "quote": "would you be able to give him his green and yellow treat ball?"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Client message 12:58pm",
-     "office": false,
-     "note": "Treats for this week are beef jerky in a Ziploc bag in the fridge. Worth following exactly - sitters could not find Flacko's treats on Sep 29 and Sep 30. Client says 'this week', so treat it as time-limited rather than a standing rule.",
-     "quote": "There are treats in the fridge this week. They are the beef jerky that is in the Ziploc bag."
     }
    ],
    "dormant": false
