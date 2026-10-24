@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T08:20:06-04:00",
+ "generated": "2026-10-24T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4756,6 +4756,16 @@
      "office": true,
      "note": "Client sent a medication update for Lucy: she now also takes 3 pills of fluoxetine at night in addition to the apoquel, and it can be given in peanut butter. Not yet reflected in her Pet Care Note - office should add it before the next dosing sitter arrives. The email does not state the apoquel dose or timing.",
      "quote": "She now also takes 3 pills of fluoxetine at night with the apoquel!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Shannon Anderson visit report, Oct 24 morning",
+     "office": false,
+     "note": "On the Oct 24 morning visit the kitty area was fine except for litter scattered in front of the litter boxes. Shannon Anderson could not clean it up because the house vacuum was dead, so the litter was left in place. The report does not say whether the vacuum is broken or just uncharged.",
+     "quote": "I was going to vacuum it up but the vacuum was dead"
     },
     {
      "cat": "home",
