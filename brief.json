@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T16:20:06-04:00",
+ "generated": "2026-10-24T17:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -138,9 +138,20 @@
    "url": "https://www.timetopet.com/dashboard/client/tg7x5zgQWtst",
    "pets": [
     "Nova",
-    "Benji"
+    "Benji",
+    "Scarlett"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 24",
+     "source": "Client message from Terri Orengo, Oct 24 4:29 PM",
+     "office": false,
+     "note": "There is a third animal in the home from this week: Scarlett, a cat Terri gives as 2-3 years old. She was an outdoor cat and is now indoor only, and Terri says she is drawn to the door when Nova is let out. Treat her as an escape risk at the door the way Benji already is. Terri says Scarlett needs nothing from the sitter during visits.",
+     "quote": "Like Benji, please make sure she doesn’t get out."
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -150,6 +161,36 @@
      "office": false,
      "note": "Client says Nova has started pain management for arthritis. Volunteered in reply to the sitter remarking she was surprised Nova had a few seconds of zoomies in the yard that day, so Terri is offering it as the likely explanation. Neither the drug nor the dosing schedule is named, and nothing is asked of the sitter. Arthritis is new information in the brief and may also explain Nova's repeated reluctance to go outside.",
      "quote": "She started pain management for arthritis (another thing for her 😭) so that might be why."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 24",
+     "source": "Client message from Terri Orengo, Oct 24 4:29 PM",
+     "office": false,
+     "note": "Scarlett keeps to Nova's room and the basement, and Terri states upstairs is off limits for all three animals - the first time that whole-house rule appears in a message here.",
+     "quote": "She prefers Nova’s room and the basement- no upstairs allowed (for any of them)."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 24",
+     "source": "Client message from Terri Orengo, Oct 24 4:29 PM",
+     "office": false,
+     "note": "Scarlett is fine with people and tolerates Nova, but she and Benji are not settled yet - Terri says Benji is too curious and gets in her space. All three can now be out at the same time, so expect them loose together rather than separated.",
+     "quote": "She loves humans, tolerates Nova, and she and Benji are working on it."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Client message from Terri Orengo, Oct 24 4:29 PM",
+     "office": true,
+     "note": "Scarlett was announced in an ordinary client message, not through a contact-information update, so whether she has been added to Terri's pet record in Time To Pet is unknown from this mailbox - worth checking so sitters see her on the visit screen. Shannon Anderson replied \"She is cute!!!\" at 4:30 PM, which shows a sitter read the message but not that the record was updated.",
+     "quote": ""
     },
     {
      "cat": "health",
