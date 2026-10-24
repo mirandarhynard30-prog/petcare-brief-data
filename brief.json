@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T09:20:05-04:00",
+ "generated": "2026-10-24T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6796,6 +6796,16 @@
      "quote": "Mom is moving to Heritage Crossing"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Margaret Bill visit report",
+     "office": true,
+     "note": "Possible duplicate coverage: Margaret Bill arrived at the facility this morning and was told someone else (\"the young gentleman\") had already walked Sassie. She only said hello to Sassie and left. Office should confirm who was assigned and whether the visit is billable.",
+     "quote": "I was told that the young gentleman had already been here to walk Sassie."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -6804,16 +6814,6 @@
      "office": false,
      "note": "Second report naming something that works for getting Sassie's harness on - Chrissy George used a small treat as a bribe on the Oct 23 morning walk, and says Sassie looked a little tired. Follows the Oct 13 no-pull-leash report. Two visits by two sitters, so still not a standing rule.",
      "quote": "I had to bribe her to get her harness on with a little treat"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Josh Stone visit report, Oct 22 2:15 PM",
-     "office": false,
-     "note": "On the Oct 22 2:15 PM visit the home-secured field reads that the client was home during the visit and asked the sitter not to lock the door on leaving. One visit only - not recorded anywhere as a standing instruction.",
-     "quote": ""
     }
    ],
    "dormant": false
