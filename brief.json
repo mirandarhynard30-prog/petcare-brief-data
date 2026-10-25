@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T06:20:06-04:00",
+ "generated": "2026-10-25T09:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -91,6 +91,16 @@
      "quote": "Use blue pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 25",
+     "source": "Client message",
+     "office": false,
+     "note": "Client says Caleb hides under the table and hisses when there have been visitors, and describes it as his usual reaction - finding him under the table instead of on the couch is normal.",
+     "quote": "My friend was over before we left and Caleb was doing his hiding under the table hissing thing"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -119,16 +129,6 @@
      "office": true,
      "note": "Rewrite may have cut the AM feeding: now 1 tsp wet food each AM and PM, where old notes said about 1 tbsp each in AM plus half a scoop dry. Purple pill cutter reference also gone. Confirm with client.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Visit report, Tiarra Roberts shadowing Shannon Anderson, Oct 12 8:47am",
-     "office": false,
-     "note": "Practical medication tip from the Oct 12 AM visit: Livvie took both her gabapentin liquid and her one-and-a-half pill without a fight because the second sitter held her while the first gave them. Worth repeating when two sitters are present.",
-     "quote": "Livvie took the medicine, easily, because Shannon held her."
     }
    ],
    "dormant": false
@@ -400,6 +400,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 25",
+     "source": "Client message",
+     "office": true,
+     "note": "Client asks to cancel all currently scheduled visits for now, and would like weekly visits with Tommy to resume once her work schedule is settled. Needs an office reply.",
+     "quote": "I imagine we should cancel all of our scheduled visits for now."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 24",
      "source": "Client message 10:29 PM",
      "office": true,
@@ -505,16 +515,6 @@
      "office": true,
      "note": "Liz messaged at 7:29am to cancel the dogs' visit for today. A portal Service Change notice at 7:40am shows the cancellation covering today's Thu Oct 8 11:00-11:45 AM Dog Visit-45 minute for Stella, Berry and Emma; Louie is not named on that notice. Office needs to process the request and confirm back to her. This is the fourth same-day cancellation from her in this mailbox after Sep 18, Sep 24 and Sep 25.",
      "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Liz Wainio client message, 11:10am",
-     "office": true,
-     "note": "Follow-up to her 7:29am cancellation: she confirms today's visit is cancelled in full. She is already off today's roster, so this is most likely already processed, but it is a second explicit cancellation and should be acknowledged to her.",
-     "quote": "Sorry, I just saw this. We will completely cancel our visit for today"
     }
    ],
    "dormant": false
@@ -804,6 +804,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 23",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client (signs as Carol) is cancelling service for Monday Oct 26. Needs to be taken off the schedule.",
+     "quote": "I am going to cancel service for next Monday!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 21",
      "source": "Angela Jozsa private message, Oct 21 9:05 AM ET",
      "office": true,
@@ -899,16 +909,6 @@
      "office": false,
      "note": "Lucy went #1 and #2 on the midday walk and the consistency field was logged as a little loose but not concerning. That reading sits oddly against the client's message earlier the same day crediting the new night-time Ollie routine for much healthier stool, so the picture is mixed rather than settled. Same report: the water bowl was answered No - not refilled.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 15",
-     "source": "Client message from Angela Jozsa, Oct 15 12:38pm",
-     "office": false,
-     "note": "Client says Lucy will only eat the Ollie if it is hand fed to her. Told to the sitter in her own words after he reported Lucy refusing it. No amount or timing given beyond the client saying she gives it herself when she gets home.",
-     "quote": "I have to hand feed it to her and then she will eat it."
     }
    ],
    "dormant": false
@@ -2448,6 +2448,16 @@
      "quote": "TY!!! She will need fed both times!! I really appreciate it!"
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Client private message",
+     "office": false,
+     "note": "Ripley needs to be fed at both the morning and the evening visit on Oct 25.",
+     "quote": "She will need fed both times!!"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -2536,16 +2546,6 @@
      "office": true,
      "note": "Important Notes were re-saved Oct 17 at 10:54 AM and the multivitamin line still names no time of day, while the line above it says to feed 2 times per day. Read literally that is 2 vitamins at every feeding. Ambiguous as written - the office needs to say which visit the vitamins belong to.",
      "quote": "Feed 2 Dog is Human multivitamin with food, if he has them on kitchen counter"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Tiarra Roberts post-visit report, 10:45 PM visit",
-     "office": true,
-     "note": "The 10:45 PM bedtime report logs no multivitamin - only the walk, water refreshed and one treat. Tiarra gave 2 at the 7:34 AM visit, so only one dose was given on Oct 17 while the record still says feed 2 times per day with no time of day named.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -2914,6 +2914,16 @@
      "quote": "I told Trudy I was leaving she said thank you!"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Client message",
+     "office": false,
+     "note": "Client left the front door open for the sitter and asked that if Trudy is not downstairs, the sitter call out so she knows someone is there.",
+     "quote": "front door is open if Trudy isn’t down stairs just let her no ure there"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2962,16 +2972,6 @@
      "office": false,
      "note": "The client messaged at 10:30 AM Oct 17 that the front door was open for the sitter to let herself in. Second documented instance of this entry arrangement after Oct 10, both times sent per visit rather than written as a standing rule, so expect a message on the day rather than assuming it.",
      "quote": "The front door is opened"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Harvett Ellington messages, Oct 17 5:24 AM and 9:47 AM",
-     "office": true,
-     "note": "Concrete delay behind the client's Oct 18 punctuality complaint, which still has no office reply. Harvett Ellington told Vicki at 5:24 AM she would arrive around 9:20-9:25 AM, messaged again at 9:47 AM apologising and moving it to 10:15-10:20 AM, then messaged walking up at 10:25 AM and in at 10:33 AM - about an hour past the first window.",
-     "quote": "My apologies for running late. I will arrive between 1015-1020am."
     }
    ],
    "dormant": false
@@ -4782,6 +4782,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 25",
+     "source": "Client message",
+     "office": false,
+     "note": "Client's friends Chloe and Hector may be at the house using the backyard - do not be surprised to find people there. Full visit routine stays the same.",
+     "quote": "Yes please still do everything like food medicine water walk. Our friends are just there using the backyard"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 24",
      "source": "Shannon Anderson visit report, Oct 24 morning",
      "office": false,
@@ -6378,6 +6388,16 @@
      "quote": "I looked all over for poop bags or other plastic bags- including the cabinet you mentioned. Seems like you’re out!"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Client message",
+     "office": false,
+     "note": "Replying to a sitter asking about a supply, the client said there may be some under the cabinet by the kitchen door and that he would get more if not. The email does not say which supply was being asked about.",
+     "quote": "There might be some under the cabinet right by the kitchen door."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -6446,16 +6466,6 @@
      "office": false,
      "note": "Treat supply update - more treats in the fridge, and they are beef sticks. Changes the Oct 9 note, which described them as beef jerky in a Ziploc bag.",
      "quote": "There are more treats in the fridge for him. They are beef sticks."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Client msg, Oct 12 6:58am",
-     "office": false,
-     "note": "New owner request: on the way out, give Flacko his green and yellow treat ball, already filled. Said once, so not yet a standing rule.",
-     "quote": "would you be able to give him his green and yellow treat ball?"
     }
    ],
    "dormant": false
@@ -7225,6 +7235,16 @@
      "quote": "Wet food dispenser is good until Wednesday. It will need to be filled then"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 25",
+     "source": "Client message",
+     "office": false,
+     "note": "Client asks sitters to enter through the garage for this stay - she says Kopi came downstairs faster when friends came in that way.",
+     "quote": "If you could enter through the garage that would be great."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -7273,16 +7293,6 @@
      "office": true,
      "note": "Litter boxes went from three (laundry room, upstairs bath, basement) to four (pantry, two downstairs, upstairs bath). Laundry-room box dropped, pantry box appeared. Confirm.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
-     "office": true,
-     "note": "Kopi's feeding times were dropped. New notes give her no times at all.",
-     "quote": "Kopi eats in the am and pm ( around 5am and 5pm)"
     }
    ],
    "dormant": false
