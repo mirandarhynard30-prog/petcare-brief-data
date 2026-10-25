@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T00:05:22-04:00",
+ "generated": "2026-10-25T12:20:17-04:00",
  "date": "2026-10-25",
  "label": "Oct 25, 2026",
  "clients": [
@@ -145,18 +145,6 @@
    ]
   },
   {
-   "name": "Megan Nickoli",
-   "visits": [
-    {
-     "time": "11:15 AM",
-     "sort": "1115",
-     "staff": "Josh Stone",
-     "service": "Dog Visit-30 minute",
-     "pets": "Aayla"
-    }
-   ]
-  },
-  {
    "name": "Vicki Davey",
    "visits": [
     {
@@ -176,5 +164,5 @@
    ]
   }
  ],
- "visitCount": 16
+ "visitCount": 15
 }
