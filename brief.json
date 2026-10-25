@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T21:20:06-04:00",
+ "generated": "2026-10-24T22:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4859,6 +4859,16 @@
      "quote": "our friends Chloe and Hector may be at our house tonight using our backyard"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Elizabeth Sigler visit report, Oct 24 10:03 PM",
+     "office": false,
+     "note": "At the Oct 24 evening visit Lucy did not finish the peanut butter her pills are hidden in - she left some on the spoon. Elizabeth Sigler checked the leftover for pill fragments before wiping the spoon off, and reported none, so the dose was taken. Worth a look at the spoon on any visit where she leaves some, since a missed pill would not be obvious otherwise.",
+     "quote": "She left a little on the spoon, so I checked to make sure the leftover peanut butter didn’t contain any pill fragments"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4877,6 +4887,16 @@
      "office": false,
      "note": "Follow-up message confirming the visit still goes ahead in full even with her friends at the house - all normal tasks as usual.",
      "quote": "Yes please still do everything like food medicine water walk"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Elizabeth Sigler visit report, Oct 24 10:03 PM; client message Oct 24 8:51 PM",
+     "office": true,
+     "note": "Name check for this record: the Oct 24 evening report names the dog Lucy and gives greenies to Silas and Penny, so those three are the animals. Chloe and Hector, from the client's own 8:51 PM message, are human friends visiting the house, not pets. Worth confirming the Time To Pet pet list matches, because Chloe is also a cat at one client and a dog at another.",
+     "quote": "Silas and Penny also got a greenie or two"
     },
     {
      "cat": "behavior",
