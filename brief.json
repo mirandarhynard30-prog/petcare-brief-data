@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T17:20:09-04:00",
+ "generated": "2026-10-24T20:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -91,6 +91,16 @@
      "quote": "Use blue pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Noella Assi evening visit report, Oct 24 7:56 PM",
+     "office": true,
+     "note": "Wet food is out. Noella Assi fed the last of the wet food at the Oct 24 evening visit and discarded the empty can. The next visit has no wet food on hand, and Kelly's notes call for wet food at both AM and PM. Ambiguity worth flagging: the same report answered the pet-supplies-getting-low field No, so the shortage is only in the narrative and may not have reached the office.",
+     "quote": "it was the last bit of wet food so I threw out the can with the litter waste"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -119,16 +129,6 @@
      "office": false,
      "note": "Practical medication tip from the Oct 12 AM visit: Livvie took both her gabapentin liquid and her one-and-a-half pill without a fight because the second sitter held her while the first gave them. Worth repeating when two sitters are present.",
      "quote": "Livvie took the medicine, easily, because Shannon held her."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Visit report, Tiarra Roberts, Oct 12 8:47am",
-     "office": true,
-     "note": "The same report records BOTH of Livvie's AM medications actually being given - gabapentin liquid and the one-and-a-half pill. That bears on the open office question from the Sep 22 and Sep 28 note rewrites, where gabapentin and then the appetite stimulant disappeared from the written notes and nobody confirmed whether they had been stopped. The report shows gabapentin is still in use; it says nothing about the appetite stimulant, so that question is still open.",
-     "quote": "We got Livvie's gabapentin liquid and her one pill and a half."
     }
    ],
    "dormant": false
