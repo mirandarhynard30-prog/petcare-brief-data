@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T15:20:05-04:00",
+ "generated": "2026-10-25T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6554,6 +6554,16 @@
      "office": true,
      "note": "Second ask for Thanksgiving cover and still nothing confirmed back to her. Ellen says she wrote several weeks ago and never got an answer, and has now sent the exact schedule she needs: Wed Nov 25 - 10am let out, 4pm feed and out, 9pm let out; Thu, Fri and Sat - 8am feed and out, 4pm feed and out, 9pm let out; Sun Nov 29 - 8am feed and out, 4pm feed and out. She notes they should be home before 9pm, and Sunday's list has no late visit. Two dogs, two cats and a hamster. Needs a yes or no from the office.",
      "quote": "I never received a confirmation that you could do this."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Ellen Krane message 3:49 PM",
+     "office": true,
+     "note": "Client asking to book a meet-and-greet after 4:30 pm on Tuesday or Thursday; her daughter wants to attend and is not home until 4:30-4:45. Needs an office reply with a time.",
+     "quote": "would a meet-and-greet after 4:30 pm work for you on Tuesday or Thursday?"
     }
    ],
    "dormant": false
