@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T22:20:06-04:00",
+ "generated": "2026-10-24T23:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -396,6 +396,16 @@
     "Emma"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Client message 10:29 PM",
+     "office": true,
+     "note": "Liz messaged at 10:29 PM to say she has quit her job and asks that all of her scheduled visits be cancelled for now. She has prospects but does not expect to start work for a while. This is an open-ended cancellation of everything on her books, not a single visit - the office has to confirm it and clear her future schedule, and nothing in this mailbox shows a reply yet.",
+     "quote": "I imagine we should cancel all of our scheduled visits for now."
+    },
     {
      "cat": "schedule",
      "sev": "high",
