@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T13:20:07-04:00",
+ "generated": "2026-10-25T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1572,6 +1572,16 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Oct 25",
+     "source": "Harvett Ellington message to client, 1:30 PM",
+     "office": false,
+     "note": "Another walk refusal on the Oct 25 midday visit - the sitter writes that Bismark was not having it and did not want to go. The notification truncates the rest of the message, so what the sitter did instead is not recorded here. Consistent with the Oct 17, Oct 19 and Oct 20 reports.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Oct 20",
      "source": "Elizabeth Sigler visit report",
      "office": false,
@@ -1637,16 +1647,6 @@
      "office": false,
      "note": "Oct 9 midday visit (Kiara Streety): Bismark came down the steps wagging, leashed up and did go out for what she calls a mini walk. He went #1 several times, then they sat outside the gate in the sun watching squirrels before coming back in for treats and water. One visit, not a rule - but it is the second report in a week of him walking at least a short distance.",
      "quote": "A mini walk is better than no walk at all!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Client message, Oct 9 10:34am",
-     "office": false,
-     "note": "The client replied to that report saying Bismark seems to do mini walks and pee only with this sitter. She is not asking for anything and sounds happy with it. Read alongside her standing note that he will not walk for any sitter - she now reads it as sitter-specific rather than absolute.",
-     "quote": "He seems to only do mini walks and wees with you!"
     }
    ],
    "dormant": false
@@ -3340,6 +3340,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Oct 25",
+     "source": "Tiarra Roberts post-visit report, 1:24 PM",
+     "office": false,
+     "note": "Waste disposal rule the sitter found in the client details and followed: the #2 bag is left at the front door rather than carried away or binned elsewhere.",
+     "quote": "I put the #2 bag at the front door, as directed by reading the client details."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Oct 24",
      "source": "Client message 11:25 AM Oct 24",
@@ -3356,16 +3366,6 @@
      "office": false,
      "note": "On the Oct 23 late-morning walk Holly went #2 and the consistency field was logged as a little loose but not concerning. One visit only; the report flags no other concern. Lynne was home during the visit.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Client private message",
-     "office": true,
-     "note": "Lynne asks about a package from the team that never arrived and wants to know what to do. Unanswered as of this run - needs an office reply.",
-     "quote": "Was I supposed to look out for a package from the team. It never arrived."
     }
    ],
    "dormant": false
@@ -6408,6 +6408,16 @@
      "quote": "Escape risk: Yes"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Shannon Anderson post-visit report, 1:58 PM",
+     "office": false,
+     "note": "Flacko was waiting at the gate when the sitter arrived and pushed in while she was moving it, and at the end of the visit he tried to follow her out. He is a documented escape risk, so treat the gate and the door as the pinch points on arrival and departure.",
+     "quote": "He even tried to leave with me today."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -6496,16 +6506,6 @@
      "office": false,
      "note": "Second reported reaction to a pizza delivery car, after the Oct 3 walk. Flacko barked at a Domino's delivery car on the Oct 13 walk. Consistent with the car-toppers trigger already on his behavior profile - two separate sightings now, by two different sitters.",
      "quote": "We did encounter a Domino’s delivery car, and he had to let it know who was boss."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Client msg, Oct 12 6:58am",
-     "office": false,
-     "note": "Treat supply update - more treats in the fridge, and they are beef sticks. Changes the Oct 9 note, which described them as beef jerky in a Ziploc bag.",
-     "quote": "There are more treats in the fridge for him. They are beef sticks."
     }
    ],
    "dormant": false
@@ -7218,6 +7218,16 @@
      "cat": "home",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 25",
+     "source": "Tiarra Roberts updated contact information for Kim Knight, 1:45 PM",
+     "office": true,
+     "note": "This rewrite still does not carry the warning that the front door does not latch and must be locked from inside. That warning has now been missing from Important Notes through the Oct 7, Oct 14 and Oct 25 edits, with three cats and a stated escape risk here. The office needs to put it back into the record.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
      "date": "Oct 14",
      "source": "Tiarra Roberts updated contact information, 10:09am and 10:10am",
      "office": true,
@@ -7288,6 +7298,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "standing",
+     "date": "Oct 25",
+     "source": "Tiarra Roberts updated contact information for Kim Knight, 1:45 PM",
+     "office": false,
+     "note": "Garage entry is now a written standing rule, not just a client message - Tiarra Roberts added it as the first line of Important Notes this afternoon. Everything else in the field is unchanged from the previous version.",
+     "quote": "Enter through garage"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 14",
      "source": "Tiarra Roberts updated contact information, 10:09am",
      "office": false,
@@ -7313,26 +7333,6 @@
      "office": false,
      "note": "Company Notes now hold the treat and enrichment rules, moved out of the client-added General Information field, which was left empty: treats live on the kitchen island counter and must be kept inside an air-tight container, two Churu may be squeezed onto a plate per visit, and a little catnip from the living room can go on a small plate. Most doors stay open except one basement door and one upstairs door near the bathroom.",
      "quote": "Most doors stay open, besides 1 basement door and 1 upstairs door (near bathroom)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
-     "office": true,
-     "note": "Wet food now reads two ways: the old note had an automatic wet feeder with three sections at a third of a can each; the new has the sitter splitting one can between three dishes. Confirm which.",
-     "quote": "1 placed next to oven (NOT on MAT)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
-     "office": true,
-     "note": "Litter boxes went from three (laundry room, upstairs bath, basement) to four (pantry, two downstairs, upstairs bath). Laundry-room box dropped, pantry box appeared. Confirm.",
-     "quote": ""
     }
    ],
    "dormant": false
