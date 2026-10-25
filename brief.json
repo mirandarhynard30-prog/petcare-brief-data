@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T20:20:05-04:00",
+ "generated": "2026-10-24T21:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4852,11 +4852,31 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 24",
+     "source": "Client message, Oct 24 8:51 PM",
+     "office": false,
+     "note": "Heads-up that people may be at the house: the client's friends (named in her message as Chloe and Hector - these are people, not pets) may be at the house tonight using the backyard. Sitter may run into them. Client gave no end date, so this reads as tonight only.",
+     "quote": "our friends Chloe and Hector may be at our house tonight using our backyard"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 22",
      "source": "Elizabeth Sigler visit report",
      "office": false,
      "note": "Sitter is tracking the downstairs cat auto-feeder level visit to visit to confirm it is actually dispensing. No fault reported yet - next sitter should note the level too.",
      "quote": "I took note of how much cat food is in the auto feeder so that I can compare next time I am over"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 24",
+     "source": "Client message, Oct 24 8:58 PM",
+     "office": false,
+     "note": "Follow-up message confirming the visit still goes ahead in full even with her friends at the house - all normal tasks as usual.",
+     "quote": "Yes please still do everything like food medicine water walk"
     },
     {
      "cat": "behavior",
