@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T16:20:05-04:00",
+ "generated": "2026-10-25T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2937,6 +2937,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 25",
+     "source": "Harvett Ellington visit report, Oct 25 4:28 PM",
+     "office": true,
+     "note": "The 4:28 PM afternoon report finally names the low supply the morning report flagged without detail: gloves. The sitter also put the recycled-can bag out. Office should restock gloves for this home. Same report notes the client was home during the visit and all indoor and outdoor cats were fed and watered.",
+     "quote": "Also, gloves are getting low, and the recycled ♻️ cans bag went out also."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 24",
      "source": "Client message, 9:49 AM Oct 24",
      "office": false,
@@ -2982,16 +2992,6 @@
      "office": true,
      "note": "Client sent a bare challenge with no stated subject. It arrived four minutes after Harvett's 9:20-9:25 AM arrival-window message and 64 seconds before the separate Trudy question. What she is questioning cannot be determined from the notification - open the Time To Pet thread and answer her.",
      "quote": "Are you sure ?"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Client message, 9:22 AM",
-     "office": false,
-     "note": "Client warned that Trudy was only just getting up and the sitter might have to wait at arrival. Same message says she sent a time-confirmation request at 8:53 that went unanswered.",
-     "quote": "She’s just getting up u may have to wait a min"
     }
    ],
    "dormant": false
