@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T10:20:05-04:00",
+ "generated": "2026-10-25T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2897,6 +2897,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 25",
+     "source": "Harvett Ellington visit report, Oct 25 morning visit",
+     "office": false,
+     "note": "Potty accident found and cleaned up on the Oct 25 morning visit (sitter arrived 9:20-9:25 AM). Before and after photos were attached to the report. The report also records the client as home during the visit.",
+     "quote": "There was a potty accident and I cleaned it up (before and after pictures included)"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Harvett Ellington visit report, Oct 25 morning visit",
+     "office": true,
+     "note": "The Oct 25 morning report answers Yes to pet supplies getting low but gives no detail anywhere in the report, so it is not clear which supply is running out. Office needs to ask the sitter which item it is.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 24",
      "source": "Client message, 9:49 AM Oct 24",
      "office": false,
@@ -2952,26 +2972,6 @@
      "office": false,
      "note": "Client warned that Trudy was only just getting up and the sitter might have to wait at arrival. Same message says she sent a time-confirmation request at 8:53 that went unanswered.",
      "quote": "She’s just getting up u may have to wait a min"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Jade Popovitz visit report, Oct 18 4:35 PM",
-     "office": false,
-     "note": "Oct 18 4:00 PM visit, Jade Popovitz: two packages brought in and handed to Trudy, all waters changed, fresh wet food inside and on the porch, dry topped off, spoiled food and empty bowls cleared outside, trash taken out. Client was home during the visit and no supplies were flagged low.",
-     "quote": "I gave new wet food inside and on the porch and topped off the dry food."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Client message, Oct 17 10:30 AM",
-     "office": false,
-     "note": "The client messaged at 10:30 AM Oct 17 that the front door was open for the sitter to let herself in. Second documented instance of this entry arrangement after Oct 10, both times sent per visit rather than written as a standing rule, so expect a message on the day rather than assuming it.",
-     "quote": "The front door is opened"
     }
    ],
    "dormant": false
