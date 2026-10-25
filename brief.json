@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T23:20:08-04:00",
+ "generated": "2026-10-25T06:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1697,16 +1697,6 @@
      "office": true,
      "note": "Judy wrote to thank the team and said she hopes to see them next month. The sitter's own Oct 4 report also speaks of the weekend as finished. No dates are given anywhere in the mail, so whether anything is on the books after today is not settled here - office to check the schedule.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Elizabeth Sigler visit report for Judy Steele, Oct 3 evening",
-     "office": false,
-     "note": "Eddie's stool was a little loose on the Oct 3 evening walk and the sitter marked it as not concerning. The Oct 2 evening report recorded firm, healthy stool, so this is the first loose stool on record rather than a pattern. Same report: no accidents in the home, water bowls refilled, no supplies low, two taco treats given. Worth a look on the next visit in case it repeats.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -2377,16 +2367,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Shannon Anderson visit report, 7:47 AM",
-     "office": true,
-     "note": "Two sitters filed reports on a morning visit to Ginger today, Shannon Anderson at 7:47 AM and Noella Assi at 7:50 AM. A portal cancellation notice for the Oct 3 7:15-7:45 AM visit came in at 6:25 AM the same morning. Neither report states a visit time, so the mail does not prove the visit that went ahead was the cancelled one. Office should check whether the cancellation was processed and whether the visit is billable.",
-     "quote": ""
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2435,56 +2415,6 @@
      "office": false,
      "note": "Noella Assi's separate report on the same Oct 4 night visit, Renee shadowing again. Renee ran the routine; couch petting was from Noella only. Garbage put out.",
      "quote": "She was very good, she did not bark at Renee."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Shannon Anderson visit report, 7:47 AM",
-     "office": false,
-     "note": "Shannon Anderson was shadowing Noella Assi on this visit. Ginger barked loudly when the two sitters came in, then warmed up over the course of the visit and took treats from Shannon's hand without trouble.",
-     "quote": "Upon entering, Ginger let out several loud barks."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Noella Assi visit report, 7:50 AM",
-     "office": false,
-     "note": "Noella Assi's own report on the same morning visit: Ginger was guarded when the sitters walked in, stopped, and was much better by the end of the visit after a lot of treats.",
-     "quote": "Ginger was on guard when we walked in."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Renee Dougherty visit report, Oct 3 evening",
-     "office": false,
-     "note": "Oct 3 evening visit by Renee Dougherty, who was shadowing. Ginger was nervous, barked at her and showed her teeth before settling; treats brought her round and she lay down calmly by the end of the visit. She went #1 and #2 (firm, healthy), ate her dry food and drank. This is the first report that mentions her showing teeth - the two morning reports today described barking and being guarded only. A new face appears to be the trigger, but that is an inference, not something the sitter states.",
-     "quote": "Ginger was very nervous and barking at me. She showed her teeth and it took a little while to settle down."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Shannon Anderson visit report, 7:47 AM",
-     "office": false,
-     "note": "Sitter states in her report that she will be back with Noella Assi tomorrow morning.",
-     "quote": "I will see her again tomorrow morning with Noella."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Client private message 9:09 AM",
-     "office": false,
-     "note": "Derek wrote back that the short notice was no problem. He does not say what it refers to, but in context it reads as the 7:15 AM visit he cancelled at 6:25 AM this morning. No action requested of us.",
-     "quote": "No problem, I know it was last minute."
     }
    ],
    "dormant": false
@@ -4990,16 +4920,6 @@
      "quote": "Would it be possible for your team member to feed our fish while there?"
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Client message, Oct 3 7:32 PM",
-     "office": true,
-     "note": "Client says they are in their new house in West Virginia and will be there for good soon; no date given. The sitter wrote in the same thread that she will miss Miguel when he goes to live in West Virginia. Reads as the service winding down once Miguel moves, but neither message says when, so the office should confirm the end date rather than assume one.",
-     "quote": "We are doing great in our new house in WV!"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -5190,19 +5110,9 @@
      "office": false,
      "note": "Per-visit house tasks in tonight's notes: empty the dehumidifier once a day - it is upstairs in the office, unplug it, pull the canister from the back and dump it in the bathroom sink. Turn the front door interior light on at the PM visit and off at the AM visit (second switch from the left by the front door), same for the exterior garage lights (switch on the right side in the garage). Check the thermostat left of the front door reads 67-70. Turn CatTV on the upstairs TV. Trash day is Friday, bins to the curb Thursday night.",
      "quote": "Empty dehumidifier, once daily, upstairs in office."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts, contact information update 10:40 AM",
-     "office": false,
-     "note": "Evening wet food is now specified by product in the Company Notes: 2 Delectables BISQUE packets, where the note previously read only 'Delectables packets'. Still 2 packets on two plates in the evening, and 1 Temptation wet food split between two plates in the morning. Worth matching the right product in the pantry rather than any Delectables variety.",
-     "quote": "2 Delectables Bisque packets in EVENING on two plates"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Suzanne Slimak",
@@ -5899,36 +5809,6 @@
      "office": false,
      "note": "Louie wears an orange invisible-fence collar. Lainey's lead is in front of the fence door and is already attached out in the yard. A couple of sticks and a ball are on the patio.",
      "quote": "We use invisible fence collar for Lou. (Orange collar)."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Kristin Ashick visit report",
-     "office": false,
-     "note": "Oct 3 report: Louie went out wearing his electric fence collar and the sitter took it off at the end of the visit; Lanie went out on a lunge line on the other side of the fence and tried to eat things outside, so she was watched. Sitter also checked the gates were up before leaving.",
-     "quote": "We headed outside after I found louie's electric fence collar."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Kristin Ashick visit report",
-     "office": false,
-     "note": "Lanie ate only a small amount of her rehydrated food on the Oct 3 visit; Louie ate everything. The sitter tried to get her to eat more, then left Lanie's food down. Worth watching whether her appetite picks up at the next visit.",
-     "quote": "Lanie only ate a little bit."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Kristin Ashick visit report",
-     "office": true,
-     "note": "New sitter on this client was not sure she prepared the rehydrated food correctly and said so in her Oct 3 report. Office should confirm the feeding method with Beth and get it written clearly into the Pet Care Note.",
-     "quote": "I hope I did it right!"
     }
    ],
    "dormant": false
@@ -6795,19 +6675,9 @@
      "office": false,
      "note": "Peppa (calico) and Beau-ba (white/grey tabby) are indoor-outdoor cats. White Kitty Boy is outside only.",
      "quote": "White Kitty Boy, outside ONLY."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 18",
-     "source": "Tiarra Roberts meet-and-greet report",
-     "office": true,
-     "note": "Garage rule for Toby, recorded verbatim because the wording is ambiguous - it reads either as Toby being unable to get out of the garage when the main door is open, or as an instruction not to let him out then. Needs confirming with Michael.",
-     "quote": "Toby is unable to leave the garage, if the actual garage door is open."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Ed Buehrle",
@@ -7338,6 +7208,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "standing",
+     "date": "Oct 25",
+     "source": "Kim Knight client message, 5:11 AM",
+     "office": false,
+     "note": "Kim asks that sitters enter through the garage from now on rather than the front door - she says Kopi comes downstairs faster when people come in that way. Access details stay in Time To Pet.",
+     "quote": "If you could enter through the garage that would be great."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Kim Knight client message, 5:11 AM",
+     "office": false,
+     "note": "Wet food dispenser is full enough through Wednesday and needs refilling on Wednesday. Whoever has the Wednesday visit has to do it; the email does not say where the refill supply is kept.",
+     "quote": "Wet food dispenser is good until Wednesday. It will need to be filled then"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 14",
      "source": "Tiarra Roberts updated contact information, 10:09am",
      "office": false,
@@ -7393,26 +7283,6 @@
      "office": true,
      "note": "Kopi's feeding times were dropped. New notes give her no times at all.",
      "quote": "Kopi eats in the am and pm ( around 5am and 5pm)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:29pm",
-     "office": true,
-     "note": "Two extra emergency contacts, a godmother and a friend, were listed with numbers in the old note and are in neither new field. Numbers not copied here. Put them back.",
-     "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message 5:49pm",
-     "office": true,
-     "note": "Kim replied to a confirmation saying she will be present. The mail does not say which appointment or date was confirmed - most likely the meet-and-greet she accepted on Oct 4, but that is not stated, so the date still needs reading off Time To Pet.",
-     "quote": "Thank you for the confirmation. I will be here"
     }
    ],
    "dormant": false
@@ -7606,7 +7476,7 @@
      "quote": "Poop bags go in grey trashcan on back patio"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Lauren & Brian Stuy",
@@ -7770,46 +7640,6 @@
      "office": true,
      "note": "Wet food portion changed in the same edit: old notes said split 1-2 containers between the three dishes, new notes say split 1 container. Unclear whether deliberate or lost in retyping. Confirm with the client.",
      "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Michael & Kelly Smith client message, Oct 3 5:24 PM",
-     "office": true,
-     "note": "Clients are back home as of the Oct 3 late afternoon. Check whether any remaining scheduled visits should be cancelled.",
-     "quote": "Thank you everyone for caring for our pets! Its so nice to be home."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Michael & Kelly Smith client message, Oct 3 5:24 PM",
-     "office": true,
-     "note": "A living room floor board was cut out to free Pickles, so there is an open floor board in the living room. The client says the vent cover was off and should have been on; the email does not say whether either has been repaired or covered since.",
-     "quote": "We had to cut out a floor board to get his fat butt out."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts message to Michael & Kelly Smith, Oct 3 5:40 PM",
-     "office": false,
-     "note": "Sitter noted Pickles made no sound while he was trapped, which is why searching the house on earlier visits did not turn him up.",
-     "quote": "Aww, the poor boy! He wasn't meowing or anything"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 3",
-     "source": "Client message, Oct 3 7:42 PM",
-     "office": false,
-     "note": "Follow-up from the clients after Pickles was freed from the living room furnace vent: he could move about inside the vent but could not get out, and he is unhurt and back with their daughter. No vet visit mentioned. This closes out the run of no-sighting items.",
-     "quote": "He's totally fine now and snuggling with our daughter."
     }
    ],
    "dormant": false
