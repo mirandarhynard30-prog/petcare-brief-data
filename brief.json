@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T11:20:05-04:00",
+ "generated": "2026-10-25T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4078,6 +4078,26 @@
     "Aayla"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Josh Stone visit report 11:24 AM",
+     "office": true,
+     "note": "Josh Stone arrived for today's visit and Aayla was not there - her leash was gone too. He checked the apartment, locked up and ended the visit. The cancellation the client says she requested did not reach the sitter, so the visit was made for nothing.",
+     "quote": "I stoped by for the visit and, no aayla lol."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Megan Nickoli client message 11:27 AM",
+     "office": true,
+     "note": "Client says she had requested today's visit be cancelled because work sent her home, and the family then left to visit relatives and walk trails. She is not asking for anything and is apologetic, but the cancellation never reached the schedule - the office needs to confirm whether the request was ever logged and whether the visit is billed.",
+     "quote": "I had requested to cancel because work was overstaffed and they sent me home this morning."
+    },
     {
      "cat": "home",
      "sev": "high",
@@ -8326,6 +8346,24 @@
      "office": true,
      "note": "Karen added a pet named Chloe to her account on the same evening she filled in her own profile. The notification carries nothing but the pet's name, so there is still no species, age or care detail on file to go with the placeholder access instructions. Onboarding is incomplete on both fronts.",
      "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Heather & Jason Stary",
+   "url": "https://www.timetopet.com/dashboard/client/sqaptfz0UbIv",
+   "pets": [],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Heather & Jason Stary client message 11:21 AM",
+     "office": true,
+     "note": "Unanswered client message asking to speak with someone about the service on their previous visits. She does not say what the concern is, so it is not clear whether it is a complaint, a billing question or a care change - this is not a schedule change, it is filed here only to keep it in the office queue and off the sitter page. Needs a call back.",
+     "quote": "I have a question about the service from our previous visits. Is there a way I can speak with you about it?"
     }
    ],
    "dormant": false
