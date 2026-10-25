@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T09:20:06-04:00",
+ "generated": "2026-10-25T10:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2428,6 +2428,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Monica Hopewell visit report, Oct 25 morning visit",
+     "office": false,
+     "note": "Monica Hopewell's Oct 25 morning report says Ripley went both #1 and #2, but her stool seemed harder than usual and she had a harder time passing it. The stool-consistency field on the same report was answered 'It was firm and healthy', so the narrative and the checklist do not agree. Matt reported loose bowel movements on Oct 22, so a swing the other way is worth watching at the evening visit.",
+     "quote": "her stool seemed to be harder and she was having a harder time passing it today"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2536,16 +2546,6 @@
      "office": true,
      "note": "Sitter gave Ripley 2 Dog is Human multivitamins at the morning visit and says she returns around 1pm, and she also covers the late evening visit today. The Important Notes line does not say which visit the 2 vitamins belong to, so the same dose could be repeated at every visit. Office should confirm the intended daily total and which visit it belongs to before the 1:00 PM visit.",
      "quote": "I gave her 2 Dog is Human multivitamins, as well this morning."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 17",
-     "source": "Tiarra Roberts updated contact information for Matt Konn.",
-     "office": true,
-     "note": "Important Notes were re-saved Oct 17 at 10:54 AM and the multivitamin line still names no time of day, while the line above it says to feed 2 times per day. Read literally that is 2 vitamins at every feeding. Ambiguous as written - the office needs to say which visit the vitamins belong to.",
-     "quote": "Feed 2 Dog is Human multivitamin with food, if he has them on kitchen counter"
     }
    ],
    "dormant": false
@@ -2992,6 +2992,16 @@
      "office": true,
      "note": "Bella's #2 on the Oct 11 morning visit was logged as diarrhea again - the report's consistency field reads very loose/diarrhea, with the sitter noting the dog seems fine otherwise. She went #1 a few times and #2 once. This is the THIRD logged diarrhea episode for Bella in the brief (Sep 20, Sep 27, Oct 11), so it is no longer a one-off; the office should raise it with the client. No vet contact, diet change or medication appears anywhere in this mailbox.",
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Chelsea Tompkins visit report, Oct 25 9 AM visit",
+     "office": false,
+     "note": "Second consecutive day of loose stool for Bella. On the Oct 25 9 AM visit she went #1 a few times and #2 once, and the consistency field was answered a little loose but not concerning. The Oct 24 10 AM report logged her single #2 as slightly loose after she ate grass. Two days running, both logged as not concerning by the sitters.",
+     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "health",
@@ -4832,6 +4842,26 @@
      "cat": "home",
      "sev": "low",
      "type": "recent",
+     "date": "Oct 25",
+     "source": "Shannon Anderson visit report, Oct 25 morning visit",
+     "office": false,
+     "note": "Follow-up to the Oct 24 litter scatter: Shannon Anderson checked the kitty area on the Oct 25 morning visit and reports everything there looked good, so the litter scattered in front of the boxes on Oct 24 appears to have been dealt with.",
+     "quote": "I also had time to check the kitty area while Lucy finished eating, everything there looked good"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Shannon Anderson visit report, Oct 25 morning visit",
+     "office": false,
+     "note": "Lucy was reluctant to go #2 on the Oct 25 morning walk - they did the usual route and even walked past the house before she went. She did go both #1 and #2 and the consistency was logged firm and healthy.",
+     "quote": "She was very determined to skip going #2 but she finally did"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
      "date": "Oct 24",
      "source": "Client message, Oct 24 8:58 PM",
      "office": false,
@@ -4857,16 +4887,6 @@
      "office": false,
      "note": "On the dark evening visit Lucy barked at the door until she recognised the sitter, then settled immediately. Worth expecting on after-dark arrivals; seen once so far, not yet a standing pattern.",
      "quote": "She met me at the door barking since she didn't know who it was due to it being dark."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Shannon Anderson evening visit report, 8:18 PM",
-     "office": false,
-     "note": "Leaving routine the sitter performed on the Oct 23 evening visit: TV left on a music station so the house is not silent, Lucy's lamp on, the outside light by the door left on, and the blinds on the back door closed. Mail brought in and set on the counter, trash cans brought in. One report only, so not a confirmed standing rule.",
-     "quote": "I turned the TV on to a music station so it wasn't so quiet in the house."
     }
    ],
    "dormant": false
@@ -6717,6 +6737,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Margaret Bill message and visit report to Gina Sullivan, Oct 25 9:17 AM",
+     "office": true,
+     "note": "Second day in a row of possible duplicate coverage at the apartment. Margaret Bill arrived for the Oct 25 morning visit and Joan told her another dog walker, described as a girl, had already come, so Margaret's services were not needed. On Oct 24 the same thing happened with someone Margaret called 'the young gentleman'. A visit report was still filed today. Two consecutive days means this needs settling with the client rather than being noted again.",
+     "quote": "Joan reported that a girl dog walker had come again today and my services were not needed."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -6825,16 +6855,6 @@
      "office": true,
      "note": "Possible duplicate coverage: Margaret Bill arrived at the facility this morning and was told someone else (\"the young gentleman\") had already walked Sassie. She only said hello to Sassie and left. Office should confirm who was assigned and whether the visit is billable.",
      "quote": "I was told that the young gentleman had already been here to walk Sassie."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Chrissy George visit report, Oct 23 morning",
-     "office": false,
-     "note": "Second report naming something that works for getting Sassie's harness on - Chrissy George used a small treat as a bribe on the Oct 23 morning walk, and says Sassie looked a little tired. Follows the Oct 13 no-pull-leash report. Two visits by two sitters, so still not a standing rule.",
-     "quote": "I had to bribe her to get her harness on with a little treat"
     }
    ],
    "dormant": false
