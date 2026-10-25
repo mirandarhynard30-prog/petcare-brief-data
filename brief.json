@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T14:20:06-04:00",
+ "generated": "2026-10-25T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2415,6 +2415,16 @@
      "office": false,
      "note": "Noella Assi's separate report on the same Oct 4 night visit, Renee shadowing again. Renee ran the routine; couch petting was from Noella only. Garbage put out.",
      "quote": "She was very good, she did not bark at Renee."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Noella Assi visit report, 2:54 PM",
+     "office": false,
+     "note": "Sitter reports this Sunday afternoon visit was the last one before the family gets home later today.",
+     "quote": "I came by for the last visit before you guys get in."
     }
    ],
    "dormant": false
@@ -2742,6 +2752,16 @@
      "office": false,
      "note": "Dogs stay in the utility room when unattended - gate up and door shut. Walk the property only, not the neighborhood. All of them are strong pullers.",
      "quote": "THEY ARE ALL VERY STRONG AND WILL PULL."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Tiarra Roberts visit report, 2:38 PM",
+     "office": false,
+     "note": "All three dogs walked together; the sitter put Frankie on his own leash rather than sharing one and says that works much better. At feeding, Frankie waited until the others had finished and then cleaned up the remaining bowls.",
+     "quote": "Putting Frankie on his own leash, again. That works out so much better."
     },
     {
      "cat": "behavior",
