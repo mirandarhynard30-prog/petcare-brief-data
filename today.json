@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T00:05:06-04:00",
+ "generated": "2026-10-26T09:35:09-04:00",
  "date": "2026-10-26",
  "label": "Oct 26, 2026",
  "clients": [
@@ -79,18 +79,6 @@
      "staff": "Josh Stone",
      "service": "Dog Visit-45 minute",
      "pets": "Sassie"
-    }
-   ]
-  },
-  {
-   "name": "Jessica Shouldis",
-   "visits": [
-    {
-     "time": "10:45 AM",
-     "sort": "1045",
-     "staff": "Monica Hopewell",
-     "service": "Dog Visit-30 minute",
-     "pets": "Astra, Astra"
     }
    ]
   },
@@ -182,18 +170,6 @@
      "staff": "Tiarra Roberts",
      "service": "Dog Visit-20 minute",
      "pets": "Georgie"
-    }
-   ]
-  },
-  {
-   "name": "Mary Gilmore",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Margaret Bill",
-     "service": "Dog Visit-30 minute",
-     "pets": "Puck, Rusty"
     }
    ]
   },
@@ -291,5 +267,5 @@
    ]
   }
  ],
- "visitCount": 26
+ "visitCount": 24
 }
