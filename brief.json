@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T16:20:05-04:00",
+ "generated": "2026-10-26T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1985,6 +1985,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Oct 26",
+     "source": "Client message 5:07 PM",
+     "office": false,
+     "note": "Client turned down an earlier arrival for the evening visit because an earlier time is too early for the feeding and the injection. Same objection she made Oct 5 about 6:00, so 6:30 looks like the earliest workable time for the evening feed-then-insulin visit. She names no dose and no exact window.",
+     "quote": "It would be too early for feeding & injection."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Oct 19",
      "source": "Client text message 8:33 AM",
@@ -2091,16 +2101,6 @@
      "office": false,
      "note": "Escape risk at the door tonight: the client says she will hold onto him until the sitter is inside. She does not say which animal.",
      "quote": "I will hold onto him till you get in door."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Sitter Robin Lewis message to client, 7:57 AM",
-     "office": true,
-     "note": "The client asked at 7:56 AM whether the sitter feels better about giving the injection, and Robin Lewis replied at 7:57 AM that she does, after the client watched her give the Oct 19 evening shot. This is the sitter's own say-so by text only - there is still nothing in the chart recording training sign-off, and it does not address the vet's one-unit morning increase reported the night before.",
-     "quote": "Good morning yes i do feel better about giving the shot. Thank you for asking"
     }
    ],
    "dormant": false
