@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T12:35:07-04:00",
+ "generated": "2026-10-26T13:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4137,6 +4137,26 @@
      "office": false,
      "note": "Julie is normally home for the walk and asks that the door not be locked. Recorded the same way on both the Aug 17 and Aug 24 visit reports, so sitters have not needed to enter or secure the house.",
      "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Josh Stone visit report 12:44 PM",
+     "office": false,
+     "note": "Murphy went #1 but not #2 on the midday walk. Nothing else flagged - he walked happily and the sitter logged no other concerns. One missed #2, not a run of them.",
+     "quote": "He went #1 but no 2 today."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Josh Stone visit report 12:44 PM",
+     "office": false,
+     "note": "On this visit the client was home and asked that the door not be locked on the way out. Stated for this visit only, not given as a standing instruction.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -5014,6 +5034,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 26",
+     "source": "Robin Lewis message 12:15 PM",
+     "office": false,
+     "note": "Sitter unplugged the broken automatic waterer as a precaution after replugging it did not make it run. Anyone arriving should expect the unit to be off and unplugged.",
+     "quote": "To be on the safe side i did unplug it."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Robin Lewis visit report 12:46 PM",
+     "office": true,
+     "note": "The report implies Lily has pills that are given when she is not walking well. On this visit the sitter judged her walking fine and gave none. The report does not say what the pills are, who authorises them or at what point they should be given - that is ambiguous and worth confirming before another sitter has to decide.",
+     "quote": "She seemed to be walking fine so i did not give her any pills"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 7",
      "source": "Robin Lewis visit report 11:13am",
      "office": false,
@@ -5049,6 +5089,16 @@
      "office": true,
      "note": "Access instructions added by Alexandria the same afternoon: entry is the front door, with a lockbox. The code arrived in the clear in the notification mail and is deliberately not repeated here - it stays in Time To Pet. Her record went from empty to complete today, so the Sep 5 gap on Lily is closed; office should check whether a meet and greet and a booking are still outstanding.",
      "quote": "Entry: Front door."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Robin Lewis visit report 12:46 PM",
+     "office": false,
+     "note": "Lily barked steadily until the walk actually started, then walked happily. Same sitter notes she is a howler. One visit's observation, not an established pattern.",
+     "quote": "She loves to howl."
     },
     {
      "cat": "schedule",
@@ -7265,6 +7315,26 @@
      "quote": "Trash can gets picked up on Friday morning, so put out trash can to curb on Thursday visit."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Monica Hopewell visit report 10:29 AM and client reply 10:31 AM",
+     "office": false,
+     "note": "Kopi met the sitter at the garage door and accepted a few pets. The client wrote back that she is pleased he is trusting this sitter and coming downstairs, so this is progress against his usual hiding.",
+     "quote": "Happy kopi is trusting you and coming downstairs"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Monica Hopewell visit report 10:29 AM",
+     "office": false,
+     "note": "The two other cats, referred to as the twins, stayed hidden. The sitter saw one and not the other, chose not to search for them so as not to disturb them, and left treats both upstairs and downstairs. Reported as fine, not a concern.",
+     "quote": "I did see one of the twins but not the other"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -7313,26 +7383,6 @@
      "office": false,
      "note": "Important Notes rewritten again and now carry the full care detail in one place: dry food in the clear green-lid container near the glass door, topping off two automatic feeders as needed; one can of wet food in the AM split between three bowls or plates, one next to the oven and NOT on the mat, two in the basement stairwell; a water bowl may go in the basement stairwell too; four litter boxes (pantry off the kitchen, two downstairs, upstairs bathroom); grocery bags under the kitchen sink; extra litter on the shelf above the pantry box and in the upstairs bathroom sink cabinet; scooped litter and wet food cans into the large black trashcan inside the garage.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts updated contact information, 10:09am",
-     "office": false,
-     "note": "Trash placement changed in the same edit. Trash day is still Friday but the bins now go near the street directly in front of the house; the Oct 7 version said the opposite side of the mailbox.",
-     "quote": "Trash day: Friday, place near street, directly in front of house"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts updated contact information, 10:09am",
-     "office": false,
-     "note": "Company Notes now hold the treat and enrichment rules, moved out of the client-added General Information field, which was left empty: treats live on the kitchen island counter and must be kept inside an air-tight container, two Churu may be squeezed onto a plate per visit, and a little catnip from the living room can go on a small plate. Most doors stay open except one basement door and one upstairs door near the bathroom.",
-     "quote": "Most doors stay open, besides 1 basement door and 1 upstairs door (near bathroom)"
     }
    ],
    "dormant": false
