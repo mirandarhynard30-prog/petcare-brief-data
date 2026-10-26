@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T20:20:06-04:00",
+ "generated": "2026-10-25T21:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1267,6 +1267,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Noella Assi visit report 8:39 PM",
+     "office": false,
+     "note": "Georgie hurt his front leg on tonight's 8 PM walk. Noella took him out on his usual route, he went #1 and #2, then hurt the front leg. She looked it over back at the house, said everything looked ok and that he may have pulled a muscle, gave him ice treats, and asked the family to report on the leg in the morning. Client was home. No vet contact mentioned.",
+     "quote": "He went number one and two, and then he hurt his front leg."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "standing",
      "date": "Oct 18",
      "source": "Tiarra Roberts visit report, Oct 18 8:20 PM",
@@ -1355,24 +1365,14 @@
      "source": "Tiarra Roberts, Access Instructions edit"
     },
     {
-     "cat": "schedule",
+     "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 24",
-     "source": "Tiarra Roberts message to client, 3:18 PM Oct 24",
-     "office": false,
-     "note": "Tonight's visit was moved to 8 PM. Tiarra Roberts told Mary Ann at 3:18 PM that the visit had been changed to 8pm and that she would send an ETA when on the way; Mary Ann replied at 4:00 PM \"Hi Tiarra See you at 8! Mary ann\", so both sides have agreed. Worth noting because Georgie's evening eyedrop and medication routine runs at the evening visit, which on recent days has been between 7 and 8 PM. Who changed it and why is not stated in this mailbox.",
-     "quote": "Hey Mary Ann, we have changed your visit to 8pm."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Tiarra Roberts evening visit report, 8:16 PM",
+     "date": "Oct 25",
+     "source": "Mary Ann Mckeever client message 8:51 PM",
      "office": true,
-     "note": "Third documented day of the deleted mail and recycling duties still being performed. Tiarra collected the mail on arrival and threw recycling into the bin through the garage, the same tasks the Oct 14 Company Notes rewrite removed. Oct 22 already had two instances. Office should decide whether the Oct 14 deletion was a mistake and restore the instructions, or tell sitters to stop.",
-     "quote": "I arrived and got the mail. I headed in through the garage."
+     "note": "Mary Ann replied to the leg report the same evening. Her own read is a sprain or arthritis - she gives no vet plan and does not ask for anything. Noella asked for a morning update, so someone should check how the leg is before the next walk.",
+     "quote": "I think he sprained it a bit or has arthritis."
     }
    ],
    "dormant": false
