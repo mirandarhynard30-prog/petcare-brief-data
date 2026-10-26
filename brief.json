@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T22:20:05-04:00",
+ "generated": "2026-10-26T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -166,6 +166,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Oct 26",
+     "source": "Shannon Anderson updated contact information for Terri Orengo (Oct 26, 4:21 and 4:23 AM)",
+     "office": false,
+     "note": "The General Information field in Time To Pet was rewritten twice early Oct 26 so that the escape warning now covers BOTH indoor cats - it previously named only the orange one - and the no-upstairs rule is now in the client record rather than only in a client message. Final text also keeps the existing 'make potty' prompt for Nova.",
+     "quote": "We do have two indoor cats, they will try to run outside- please make sure they stays inside."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 24",
      "source": "Client message from Terri Orengo, Oct 24 4:29 PM",
      "office": false,
@@ -225,6 +235,16 @@
     {
      "cat": "behavior",
      "sev": "low",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Shannon Anderson added Scarlett and Benji as pets, and set Scarlett's private note (Oct 26, 4:19-4:24 AM)",
+     "office": false,
+     "note": "Scarlett and Benji now exist as pet records in Time To Pet, which settles the open question from Oct 24 about whether Scarlett had been added to the account. Scarlett's private note was set to read that she likes to hide in Nova's room or the basement. Benji's update was a profile picture only.",
+     "quote": "Likes to hide in Nova's room or basement"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
      "type": "standing",
      "date": "Oct 14",
      "source": "Client message 6:38 PM",
@@ -241,16 +261,6 @@
      "office": false,
      "note": "Terri says she will leave Benji's treat bag out for the next visit, so look for it on arrival. This came after Shannon offered to bring lickable treats for Benji next week; no appetite or feeding problem is mentioned by either of them.",
      "quote": "Benji would absolutely love some treats! I can leave the treat bag out for next time."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 23",
-     "source": "Client message to the office",
-     "office": false,
-     "note": "Answering that report, Terri says Nova not going potty on a visit is not a concern - she is reliable about going when she needs to. Terri adds that Nova did both #1 and #2 before she left for work that morning.",
-     "quote": "She’s pretty good about going potty if she has to, so if she didn’t, she should be ok."
     }
    ],
    "dormant": false
@@ -1699,7 +1709,7 @@
      "quote": ""
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Jessica Shouldis",
@@ -1750,16 +1760,6 @@
      "quote": "2 dogs in home, walked only one at a time"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Client private message, Oct 4 12:00pm",
-     "office": true,
-     "note": "Client is out of town Oct 7 and Oct 9 and cannot do the leash hand-off herself. Someone else will be at the house and can hand off, but he will not receive the sitter's arrival updates, so she is asking for a guaranteed fixed hand-off time, offering to move the appointment time, or alternatively to skip next week and resume the week after. She sent a short 'Absolutely, thank you!' eleven minutes later, so the office appears to have replied in Time To Pet, but nothing in the mail says which option was agreed or what time was set - still needs confirming.",
-     "quote": "I'll be out of town on the 7th and 9th and wont be available for hand off."
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1807,16 +1807,6 @@
      "office": false,
      "note": "On the Oct 5 walk Astra passed several other dogs and people with no reaction - the sitter says she was only curious and observed them. She marked a lot of spots, slowed down on the way back, and was not keen on being photographed. One walk only, so this is not a change to the standing escape-risk and startle handling the brief already carries.",
      "quote": "she was just curious and observed them. No other reaction."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Client private message, Oct 4 12:32 PM",
-     "office": true,
-     "note": "Follow-up to this morning's Oct 7 / Oct 9 hand-off question: the client says it is settled and she will put it on the schedule for the person doing the hand-off for her. The agreed hand-off time itself does not appear anywhere in the mail, so the exact time still needs confirming to whoever is assigned.",
-     "quote": "That's great! Ill stick it on the schedule for him. Thank you!"
     },
     {
      "cat": "behavior",
@@ -2367,56 +2357,6 @@
    ],
    "items": [
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Visit report, Shannon Anderson (with Noella Assi), Oct 4 morning",
-     "office": false,
-     "note": "Oct 4 morning visit: Ginger met the sitters with protective barking and was still barking as her breakfast was being put down, so for safety they crated her until the bowl was on the floor, then opened the crate and she ate. One visit, not a standing instruction.",
-     "quote": "She was barking as I put her food down so for safety, we put her in her crate"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Visit report, Shannon Anderson, Oct 4 morning",
-     "office": false,
-     "note": "Same visit: after eating and treats Ginger moved closer on the couch and rolled onto her side, but began grumbling when the sitter gently touched her, and the sitter stopped. She accepted proximity and treats; petting was not welcome.",
-     "quote": "I gently touched her until she started grumbling so I stopped"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Client message, 7:59 PM Eastern",
-     "office": true,
-     "note": "Derek wrote at 7:59 PM saying he will be home later tonight. No time given and nothing asked to be cancelled; office should check any visit scheduled after his return.",
-     "quote": "Thank you! I will be home later tonight."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Visit report, Renee Dougherty, 7:58 PM Eastern",
-     "office": false,
-     "note": "Renee Dougherty's report on the Oct 4 night visit: she brought treats, Ginger was calm on arrival, no barking, 'a lot calmer this time'. On Oct 3 Ginger barked at her and showed teeth.",
-     "quote": "When we arrived, Ginger was calm as I had treats with me"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Visit report, Noella Assi, 8:14 PM Eastern",
-     "office": false,
-     "note": "Noella Assi's separate report on the same Oct 4 night visit, Renee shadowing again. Renee ran the routine; couch petting was from Noella only. Garbage put out.",
-     "quote": "She was very good, she did not bark at Renee."
-    },
-    {
      "cat": "schedule",
      "sev": "low",
      "type": "recent",
@@ -2894,16 +2834,6 @@
      "quote": "I will let Trudy no the front door will be open let your self in"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Client message, Oct 4 8:04am",
-     "office": true,
-     "note": "Client wrote this morning questioning the visit time. The sitter (Harvett Ellington) had messaged at 6:39am that she would arrive between 8:50 and 8:55am; the client says the schedule she checked on Friday showed 10:00 today. Office should check what the Oct 4 schedule actually holds for her.",
-     "quote": "When did your time change you were scheduled for 10:00 today when I checked the schedule on Friday"
-    },
-    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -3336,16 +3266,6 @@
      "office": true,
      "note": "Latest word on the afternoon walk time is a 11:34am text reading 4:30. It does not say which walk it sets - at 8:06am she asked for walks at 4 and 7, at 10:39am she asked for 6:30 and wrote PleSE CONFIRM, and no reply in this mailbox names a time back to her. Office still needs to tell her in writing which walks are happening and when.",
      "quote": "4;30. I guess."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 4",
-     "source": "Client message via Time To Pet, Oct 4 10:04am",
-     "office": true,
-     "note": "Client asks for two walkers on Tuesday Oct 6, the second one around 4:00 pm while the family attends calling hours. Needs an office reply and a schedule change; no response to her seen in this mailbox.",
-     "quote": "I will need two walkers on Tuesday. Oct. 6."
     },
     {
      "cat": "home",
@@ -8414,6 +8334,28 @@
      "office": true,
      "note": "Follow-up to her earlier unanswered request to speak with someone. She says she did not realise her first message went into a group chat, works from home and can take a call almost any time except during meetings, but needs a specific agreed day and time because she does not answer unknown numbers. The office has to propose a slot - she will not pick up a cold call. What she wants to discuss is still not stated in this mailbox.",
      "quote": "I work from home and can speak most any time barring meetings. I'd just need an agreed upon day/time"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Megan O'Dell",
+   "url": "https://www.timetopet.com/dashboard/client/tn63qlLqf1VL",
+   "pets": [
+    "Merlin",
+    "Suzaiko",
+    "Ruri"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Megan O'Dell profile and pet records created Oct 25; 400-day search of this mailbox",
+     "office": true,
+     "note": "Brand-new client, on today's schedule, and nothing about these animals has ever come through this mailbox. She set up her own profile Oct 25 and added three pets - Merlin, Suzaiko and Ruri - but no Pet Care Note, Company Note, client message or visit report exists for her, so a sitter arriving today has no handling, feeding or access information for any of the three. Species are not stated anywhere in the email record. The office should confirm the care notes are filled in before the first visit.",
+     "quote": ""
     }
    ],
    "dormant": false
