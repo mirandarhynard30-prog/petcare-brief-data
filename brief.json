@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T21:20:06-04:00",
+ "generated": "2026-10-25T22:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1275,6 +1275,26 @@
      "quote": "He went number one and two, and then he hurt his front leg."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Client message to Monica Hopewell, 9:18 PM",
+     "office": true,
+     "note": "Mary Ann cancelled the Monday Oct 26 morning walk. She wrote to Monica at 9:18 PM that Georgie twisted his leg on tonight's walk and is limping a bit, so the am walk is off. This supersedes her 7:16 PM note about Tillie being loose in the kitchen for that same morning visit. No acknowledgement from the office or from Monica is visible in this mailbox, so the visit may still be on the board.",
+     "quote": "I need to cancel the morning walk tomorrow because Georgie twisted his leg tonight on his walk."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Client message to Monica Hopewell, 9:18 PM",
+     "office": false,
+     "note": "Owner-confirmed limping after the 8 PM walk on which Noella Assi reported Georgie hurting his front leg. Mary Ann says he twisted the leg and is limping a bit, and she is resting him Monday morning rather than walking him. She said earlier in the evening that she thinks it is a sprain or arthritis. No vet visit and no medication change is mentioned anywhere in this mailbox.",
+     "quote": "He is limping a bit."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -1353,26 +1373,6 @@
      "office": false,
      "note": "Evening routine confirmed again: after the walk the sitter removes Georgie's harness, assists Mary Ann with his eyedrops, then gives him an ice cube treat. Mary Ann is home and the sitter assists rather than administering alone. Now logged on three separate evening visits (Sep 15, Sep 27, Oct 1), so treat it as the standing evening routine rather than a one-off. Harness goes on in the laundry room. Oct 1 stool was recorded firm and healthy.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 20",
-     "office": true,
-     "note": "Tiarra Roberts rewrote the Access Instructions this morning and the escape-artist warning for Georgie was dropped. Nothing in the note now tells a sitter the dog bolts. Same edit changed the closing instruction from the utility-room-to-hallway door to the laundry room door. Office to confirm the removal was intended.",
-     "quote": "Georgie is an escape artist.",
-     "source": "Tiarra Roberts, Access Instructions edit"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Mary Ann Mckeever client message 8:51 PM",
-     "office": true,
-     "note": "Mary Ann replied to the leg report the same evening. Her own read is a sprain or arthritis - she gives no vet plan and does not ask for anything. Noella asked for a morning update, so someone should check how the leg is before the next walk.",
-     "quote": "I think he sprained it a bit or has arthritis."
     }
    ],
    "dormant": false
@@ -8404,6 +8404,16 @@
      "office": true,
      "note": "Unanswered client message asking to speak with someone about the service on their previous visits. She does not say what the concern is, so it is not clear whether it is a complaint, a billing question or a care change - this is not a schedule change, it is filed here only to keep it in the office queue and off the sitter page. Needs a call back.",
      "quote": "I have a question about the service from our previous visits. Is there a way I can speak with you about it?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Client private message to the office, 9:49 PM",
+     "office": true,
+     "note": "Follow-up to her earlier unanswered request to speak with someone. She says she did not realise her first message went into a group chat, works from home and can take a call almost any time except during meetings, but needs a specific agreed day and time because she does not answer unknown numbers. The office has to propose a slot - she will not pick up a cold call. What she wants to discuss is still not stated in this mailbox.",
+     "quote": "I work from home and can speak most any time barring meetings. I'd just need an agreed upon day/time"
     }
    ],
    "dormant": false
