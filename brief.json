@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T10:20:06-04:00",
+ "generated": "2026-10-26T11:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1542,6 +1542,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 26",
+     "source": "Drew Walker visit report, 11:06 AM",
+     "office": false,
+     "note": "First walk progress in a while - Bismark actually walked down the road for a bit on the Oct 26 visit, not far but he went somewhere, which the sitter reads as a good sign. Follows a run of refusals Oct 17 through Oct 25. He went #1 only, no #2.",
+     "quote": "We made some progress today as Bismark actually walked down the road for a bit."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 19",
      "source": "Jade Popovitz visit report, 11:02 AM",
      "office": false,
@@ -1647,16 +1657,6 @@
      "office": false,
      "note": "Bismark walked to the end of the street and back but was tired on return. The sitter adds that she has a feeling he does better in this weather, which is ambiguous - it may mean the heat suits him or that cooler weather would. One visit only; fits the existing short-walk pattern rather than changing it.",
      "quote": "seemed a little tired by the time we got back"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Kiara Streety visit report, Oct 9 10:32am",
-     "office": false,
-     "note": "Oct 9 midday visit (Kiara Streety): Bismark came down the steps wagging, leashed up and did go out for what she calls a mini walk. He went #1 several times, then they sat outside the gate in the sun watching squirrels before coming back in for treats and water. One visit, not a rule - but it is the second report in a week of him walking at least a short distance.",
-     "quote": "A mini walk is better than no walk at all!"
     }
    ],
    "dormant": false
@@ -6847,14 +6847,14 @@
      "quote": "Mom is moving to Heritage Crossing"
     },
     {
-     "cat": "schedule",
+     "cat": "behavior",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 24",
-     "source": "Margaret Bill visit report",
-     "office": true,
-     "note": "Possible duplicate coverage: Margaret Bill arrived at the facility this morning and was told someone else (\"the young gentleman\") had already walked Sassie. She only said hello to Sassie and left. Office should confirm who was assigned and whether the visit is billable.",
-     "quote": "I was told that the young gentleman had already been here to walk Sassie."
+     "date": "Oct 26",
+     "source": "Margaret Bill visit report, 10:24 AM",
+     "office": false,
+     "note": "Harness handling that worked this morning: Sassie evaded the harness and made the sitter chase her, then let it on easily once a treat was offered. One visit only, so treat it as a technique that worked rather than a standing rule. Matters because Sassie is flagged an escape risk.",
+     "quote": "She played her game with the harness, letting me chase her to get it on her."
     }
    ],
    "dormant": false
