@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T11:20:05-04:00",
+ "generated": "2026-10-26T12:35:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1265,6 +1265,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Client private message 12:09 PM",
+     "office": true,
+     "note": "Client says Georgie is fine today and the evening walk is back on, after she cancelled the Monday morning walk late Sunday night for a twisted leg. Office needs to confirm the evening visit is still on the schedule with a sitter assigned.",
+     "quote": "Georgie seems fine today, so we can plan on his evening walk."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -1373,16 +1383,6 @@
      "office": true,
      "note": "The 4:41 PM Company Notes rewrite deleted the whole Walk Instructions section - that walks are preferred over the backyard, and that the best walking area is across the street on the sidewalks. Nothing replaced it, so the notes no longer say where or whether to walk Georgie. Mary Ann is on today's schedule and the brief still carries the walk routine, so the sitter page is ahead of Time To Pet. Garage entry, white doorbell, pen, harness, plaid leash and cooling collar are unchanged.",
      "quote": "Walks preferred over backyard"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 1",
-     "source": "Tiarra Roberts post-visit report, Oct 1 8:11 PM",
-     "office": false,
-     "note": "Evening routine confirmed again: after the walk the sitter removes Georgie's harness, assists Mary Ann with his eyedrops, then gives him an ice cube treat. Mary Ann is home and the sitter assists rather than administering alone. Now logged on three separate evening visits (Sep 15, Sep 27, Oct 1), so treat it as the standing evening routine rather than a one-off. Harness goes on in the laundry room. Oct 1 stool was recorded firm and healthy.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -3080,6 +3080,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 26",
+     "source": "Kiara Streety visit report 11:46 AM",
+     "office": false,
+     "note": "Treat containers are down to crumbs. Sitter flagged it to the client directly in the report.",
+     "quote": "The treats containers are low nothing but crumbs in it just so you are aware!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 23",
      "source": "Kiara Streety visit report",
      "office": false,
@@ -3135,16 +3145,6 @@
      "office": false,
      "note": "Archer, same visit: went #2 twice on a longer-than-usual walk, both softer than usual and getting worse. The report form logged his consistency as a little loose but not concerning, which reads milder than the sitter's own description.",
      "quote": "Both times his stool was softer than usual, with the second time being softer than the first."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Kiara Streety report, Oct 12 11:52am",
-     "office": false,
-     "note": "First report of the arrival routine here: Milo was in the crate and the sitter let him out while she sorted the leash, Archer met her at the door. Dogs walked one at a time, Milo first then Archer. Milo pulled a little, less than on Oct 9.",
-     "quote": "I let Milo out the crate to run around while I got the leash together!"
     }
    ],
    "dormant": false
@@ -4990,6 +4990,26 @@
     "Lilly"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Robin Lewis visit report 12:00 PM",
+     "office": false,
+     "note": "The dog's automatic water bowl is not working and was empty on arrival. Sitter added water by hand and it still did not run; one red light and two white lights after unplugging and replugging.",
+     "quote": "I noticed the dogs water bowl was not working and had no water at all in it."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Client message 12:01 PM",
+     "office": false,
+     "note": "Client's workaround until the waterer is fixed: use the spare bowl next to the food. She is having Lisa look at the unit tonight.",
+     "quote": "She’s able to use the extra bowl by her food."
+    },
     {
      "cat": "home",
      "sev": "medium",
@@ -7906,6 +7926,16 @@
      "quote": "I am looking for Monday and Friday starting at 10:30 for a 20 minute walk."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Julie Smith visit report 11:23 AM",
+     "office": false,
+     "note": "Boo appeared to strain going #2 and the stool was a little loose, logged as not concerning. First visit, so no baseline for her yet.",
+     "quote": "She seemed to struggle a bit to go #2."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -7946,24 +7976,14 @@
      "quote": "the next time this situation occurs I will contact you via time to pet to see the weather in your area"
     },
     {
-     "cat": "health",
+     "cat": "behavior",
      "sev": "low",
      "type": "recent",
-     "date": "Oct 23",
-     "source": "Dan Dantimo visit report, Oct 23 11:15 AM",
+     "date": "Oct 26",
+     "source": "Julie Smith visit report 11:23 AM",
      "office": false,
-     "note": "Oct 23 late-morning walk with Boo: the report's stool-consistency field was answered as a little loose but not concerning. Single observation and the sitter did not flag it as a problem - worth a look on the next visit rather than acting on now.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Visit report, Dan Dantimo, Oct 12 11:11am",
-     "office": false,
-     "note": "BooBoo went #2 twice on the Oct 12 walk and the sitter marked the consistency as a little loose but not concerning. Single observation, no other symptoms reported. Walk was a half hour earlier than usual and otherwise normal; Lynn was home.",
-     "quote": "It was a little loose but not concerning"
+     "note": "First walk with this client. Boo barked at another dog on the walk but redirected easily. Client was home during the visit.",
+     "quote": "We saw another dog and she barked at them but was easily redirected."
     }
    ],
    "dormant": false
