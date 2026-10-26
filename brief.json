@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T17:20:05-04:00",
+ "generated": "2026-10-25T20:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1255,6 +1255,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Client message 7:16 PM",
+     "office": false,
+     "note": "A visiting dog will be loose in the house for the morning visit. Mary Ann wrote at 7:16 PM that her cousin's dog Tillie will be in the kitchen, that Tillie is a runner, and not to let her out. Mary Ann will be out at an appointment when the sitter arrives, so nobody will be home to help. Georgie already carries an escape-artist warning, so there are now two escape risks in the same house for that visit. The message is addressed to Monica, but the morning assignment is not confirmed in this mailbox.",
+     "quote": "My cousin’s dog, Tillie, will be in the kitchen. She’s a runner, so don’t let her out."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -1363,16 +1373,6 @@
      "office": true,
      "note": "Third documented day of the deleted mail and recycling duties still being performed. Tiarra collected the mail on arrival and threw recycling into the bin through the garage, the same tasks the Oct 14 Company Notes rewrite removed. Oct 22 already had two instances. Office should decide whether the Oct 14 deletion was a mistake and restore the instructions, or tell sitters to stop.",
      "quote": "I arrived and got the mail. I headed in through the garage."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Michelle Carrara visit report, Oct 22 10:10 AM walk",
-     "office": false,
-     "note": "Georgie went #1 and #2 twice on the Oct 22 10:10 AM walk. The sitter described the second #2 as soft and lighter in colour and judged it not concerning; the consistency field was logged as a little loose. No other symptoms reported.",
-     "quote": "The second #2 was a bit soft and lighter in color."
     }
    ],
    "dormant": false
@@ -6564,6 +6564,16 @@
      "office": true,
      "note": "Client asking to book a meet-and-greet after 4:30 pm on Tuesday or Thursday; her daughter wants to attend and is not home until 4:30-4:45. Needs an office reply with a time.",
      "quote": "would a meet-and-greet after 4:30 pm work for you on Tuesday or Thursday?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 25",
+     "source": "Client message 7:36 PM",
+     "office": true,
+     "note": "Meet-and-greet now appears settled for Thursday at 5. At 3:49 PM Ellen asked for after 4:30 pm Tuesday or Thursday so her daughter could attend; at 7:36 PM she replied confirming Thursday at 5. Thursday is Oct 29. The reply she is thanking is not visible in this mailbox, so confirm the appointment is actually on the calendar and that someone is assigned. Her separate Thanksgiving coverage request is a different thread and is not addressed by this message.",
+     "quote": "Thank you! See you Thursday at 5!"
     }
    ],
    "dormant": false
