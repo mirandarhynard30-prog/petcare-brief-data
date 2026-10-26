@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T06:20:05-04:00",
+ "generated": "2026-10-26T09:35:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -91,6 +91,16 @@
      "quote": "Use blue pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Visit report, Tiarra Roberts",
+     "office": false,
+     "note": "Livvie is on medication: tablets plus a syringe of liquid gabapentin. On the Oct 26 morning visit the tablets took several tries; the liquid went down easily. Dose and schedule are not stated in the email.",
+     "quote": "I got Livvie's medicine 💊 and syringe of liquid gabapentin ready for her."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -119,16 +129,6 @@
      "office": false,
      "note": "Client will not be home tonight or for tomorrow's visits. She is NOT cancelling - the visits stand, nobody home, so the sitter should not expect anyone there. Re-emitted: handed off at 19:12 and 20:13 and still absent from the published brief.",
      "quote": "I wont be home tonight or tomorrows visits so I wont get to see you"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Care note update",
-     "office": true,
-     "note": "Rewrite may have cut the AM feeding: now 1 tsp wet food each AM and PM, where old notes said about 1 tbsp each in AM plus half a scoop dry. Purple pill cutter reference also gone. Confirm with client.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -1723,6 +1723,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 26",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client wrote at 9:08 AM Eastern asking to reschedule because construction has taken over the driveway again. Needs an office reply; she did not name which visits or propose new dates.",
+     "quote": "We have more construction going on at the house and they're taking up the driveway again. Can we reschedule?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 19",
      "source": "Client private message 8:41 AM",
      "office": true,
@@ -1778,6 +1788,16 @@
      "office": false,
      "note": "Client spells out the difference between the two dogs if one gets loose: Nova comes back when called, Astra bolts. She says the dogs have halo collars for this but they were on charge the last time Astra got out. She agrees to a garage hand-off going forward, so sitters should take and return the dogs through the garage rather than the front door.",
      "quote": "nova comes straight back when called, but astra will bolt"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 26",
+     "source": "Client private message",
+     "office": false,
+     "note": "Construction crew is occupying the driveway again as of Oct 26, so driveway parking is unavailable. Duration not stated.",
+     "quote": ""
     },
     {
      "cat": "health",
