@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T09:35:05-04:00",
+ "generated": "2026-10-26T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -937,6 +937,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 26",
+     "source": "Jade Popovitz visit report, 9:43 AM Oct 26",
+     "office": true,
+     "note": "Jade Popovitz's Oct 26 morning report opens by saying Chloe is not feeling well. Chloe went out to the fenced back yard, went #1 and then went right back to the door; the sitter describes the morning as wet and cold and does not blame her for cutting it short. No #2 at this visit. Chloe lay back down next to the client, who was home throughout. The report does not say what is wrong, does not record any symptom, and does not say whether Melody raised anything, so the office cannot tell from this alone whether it is the same problem as the coughing and wheezing flagged on Oct 23. Third report in seven days noting Chloe off form.",
+     "quote": "It was great to see Chloe today although she's not feeling well."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 23",
      "source": "Harvett Ellington visit report",
      "office": false,
@@ -1041,16 +1051,6 @@
      "office": false,
      "note": "Melody was home during the Oct 22 afternoon visit and asked that the door not be locked - the home-security field was filled in the same way as on Oct 19. Note the morning visit the same day was the opposite: Kiara found the doors locked and used the garage.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Elizabeth Sigler visit message, Oct 20 10:46 AM",
-     "office": false,
-     "note": "Chloe was shivering in the cold on this morning's walk, so the sitter cut the walk short, brought her in and dried the tops of her paws with a small towel, then gave her a treat to settle her. Towel was left at the side of the bench. First cold-weather note on Chloe; watch whether it repeats as mornings get colder.",
-     "quote": "It was a little cold this morning and she was shivering, so we didn’t stay out for long."
     }
    ],
    "dormant": false
