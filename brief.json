@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T06:20:05-04:00",
+ "generated": "2026-10-27T07:35:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8376,6 +8376,27 @@
      "office": false,
      "note": "New pet named Fitz added to this account early on Oct 27. The notification carries the name only - no species, age, handling or care detail - so confirm Fitz's care notes in Time To Pet before the visit.",
      "quote": "has added a pet with name Fitz to their account."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Marie Newlove",
+   "url": "https://www.timetopet.com/dashboard/client/tm6topvI8Ml0",
+   "pets": [
+    "Phil",
+    "Abbey"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 6",
+     "source": "Time To Pet account notifications",
+     "office": true,
+     "note": "On today's schedule with pets Phil and Abbey added to the account Oct 6, 2026, but no handling, access, health or care detail has ever arrived in a message or visit report - the record needs filling in before a sitter is sent.",
+     "quote": ""
     }
    ],
    "dormant": false
