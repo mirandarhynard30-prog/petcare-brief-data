@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T14:20:15-04:00",
+ "generated": "2026-10-27T15:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2214,6 +2214,16 @@
     "Mac"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Diane Hoard private message, Oct 27 2:19 PM",
+     "office": true,
+     "note": "Client wrote asking about visit requests: a new one placed for Mac on Nov 3, and earlier requests for Nov 16-19 and Dec 10-11 that she says are still pending. She sent a thank-you at 2:42 PM, so the office did reply, but that reply referenced a dog/cat species correction rather than the dates, so whether the three pending requests have actually been approved is unclear.",
+     "quote": "I just realized the November 16-19 and December 10-11 are still pending. Just checking on them."
+    },
     {
      "cat": "schedule",
      "sev": "medium",
@@ -8517,6 +8527,16 @@
      "source": "Tracy Martin profile update",
      "office": true,
      "note": "First information this client has ever supplied. Worth confirming the pet care note is completed - species, age, feeding and handling for Brutus are still blank.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Robin Lewis meet-and-greet report, Oct 27 2:24 PM",
+     "office": false,
+     "note": "Meet-and-greet with Brutus completed Oct 27. The sitter confirmed she attached photos showing where things are located to that visit report, so a sitter arriving for the first time can find supplies by opening the Oct 27 report in Time To Pet. No feeding, handling or health detail was given in the report.",
      "quote": ""
     }
    ],
