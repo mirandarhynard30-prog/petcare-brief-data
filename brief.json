@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T07:35:05-04:00",
+ "generated": "2026-10-27T08:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3007,6 +3007,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Client message",
+     "office": false,
+     "note": "Client message this morning: cleaners are at the house today, so Milo is out at daycare and Archer is shut in the upstairs guest bedroom. Expect only Archer on site and expect him behind that door; cleaners may also be present.",
+     "quote": "Since the cleaners are coming today, Milo is at daycare and Archer is in the guest bedroom upstairs"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -3115,16 +3125,6 @@
      "office": true,
      "note": "Update on Milo's loose stool. At today's visit Milo was excited to see the sitter, walked most of the way down the street and crated willingly at the end. The report records Milo as going #1 only, so no stool consistency was logged for him today - today's visit neither confirms nor clears the diarrhea. Archie's stool was recorded as firm and healthy.",
      "quote": "Archie, Milo, and the cat were excited to see me when I got there."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Alex Miller visit report, 12:24pm",
-     "office": false,
-     "note": "Archer, same visit: went #2 twice on a longer-than-usual walk, both softer than usual and getting worse. The report form logged his consistency as a little loose but not concerning, which reads milder than the sitter's own description.",
-     "quote": "Both times his stool was softer than usual, with the second time being softer than the first."
     }
    ],
    "dormant": false
