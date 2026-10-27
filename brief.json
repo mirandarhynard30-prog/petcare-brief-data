@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T21:20:07-04:00",
+ "generated": "2026-10-27T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1841,16 +1841,6 @@
     {
      "cat": "behavior",
      "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Michelle Carrara visit report, Oct 5 10:05am walk",
-     "office": false,
-     "note": "On the Oct 5 walk Astra passed several other dogs and people with no reaction - the sitter says she was only curious and observed them. She marked a lot of spots, slowed down on the way back, and was not keen on being photographed. One walk only, so this is not a change to the standing escape-risk and startle handling the brief already carries.",
-     "quote": "she was just curious and observed them. No other reaction."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
      "type": "standing",
      "date": "Oct 3",
      "source": "Tiarra Roberts updated contact information for Jessica Shouldis (4:28 PM)",
@@ -2071,36 +2061,6 @@
      "office": true,
      "note": "One of the cats at this client is on INSULIN. This is the first mention of insulin anywhere in the notifications for Marcella Singer - no insulin instruction is carried in the brief and no pet is named in the message, so which cat (Buttercup or Simba), the dose and the timing are all unknown from the mail. The exchange is about watching the insulin being given before taking it on. AMBIGUITY: Time To Pet logs both messages as Robin Lewis messaging the client by Text Message only, but the wording reads as if the sitter is asking to come earlier to watch the owner do it; who said which line cannot be settled from the email. Office should confirm the insulin protocol in Time To Pet.",
      "quote": "Would like to watch how you give the cat insulin."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client msg 11:16am",
-     "office": false,
-     "note": "Insulin timing for today: 6:00 too early, 6:30 instead, food before insulin. She does not say which cat or any dose.",
-     "quote": "6:30 6:00 too early for insulin. I give him food first."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client message 5:50pm",
-     "office": false,
-     "note": "For tonight's 6:30pm visit the client says she will put the food, and the insulin injection, in the laundry room at 6:15 and will be waiting at 6:30. She still does not name which cat or the dose.",
-     "quote": "I will put the food in laundry room at 6:15. Also the insulin injection. Waiting for you at 6:30."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client message 5:51pm",
-     "office": false,
-     "note": "Escape risk at the door tonight: the client says she will hold onto him until the sitter is inside. She does not say which animal.",
-     "quote": "I will hold onto him till you get in door."
     }
    ],
    "dormant": false
@@ -6274,16 +6234,6 @@
      "quote": "thankfully I saw it right away, but they had left the gate open"
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Elizabeth Sigler visit report",
-     "office": true,
-     "note": "Frank was off on the midday visit: wandered the yard as if lost and did not respond when called, brought up a large amount of clear/light-yellow liquid on the patio, then had two runny stools the sitter described as partly black and tar-like. He drank an unusually high amount of water, felt feverish to the sitter, and growled softly when she gently wiped his rear, which she read as possible pain there. Black tarry stool with vomiting is a sign worth a same-day vet call - office should follow up with Christine.",
-     "quote": "parts of his stool appeared to be black and tar like"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -7438,62 +7388,12 @@
     {
      "cat": "behavior",
      "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Thomas Rakovec visit report 5:50pm",
-     "office": false,
-     "note": "At the 4:56pm visit both dogs ran from the sitter and would not eat until he took them upstairs and put the food on the bed. Sasha stayed wary about 20 minutes; he stopped chasing her, sat down and let her come to him, then she was fine and walked to the beach. One sitter, one visit - not yet a standing rule.",
-     "quote": "I just sat down and she came to me"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
      "type": "standing",
      "date": "Oct 5",
      "source": "Client message 5:54pm",
      "office": false,
      "note": "Owner says Calvin takes his cue from Sasha, so if Sasha balks Calvin will too. She also said the dogs could afford to miss a meal.",
      "quote": "Calvin’s problem is that he feeds off Sasha’s attitude!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client message 5:54pm",
-     "office": true,
-     "note": "Client hopes the same sitter is back on Thursday now that Sasha has warmed up to him. A sitter-assignment preference, not a change to the visits.",
-     "quote": "Hopefully you will be back on Thursday and Sasha will be better."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client message 1:19pm",
-     "office": false,
-     "note": "Contractors are in the house: the primary bathroom is being redone upstairs. The owner says the dogs are gated downstairs so they stay away from the workmen. She does not say which days or hours the workmen are there.",
-     "quote": "We are having our primary bath redone but that’s upstairs. They are gated downstairs so they don’t but the workmen."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client message 1:19pm",
-     "office": true,
-     "note": "Owner set out supplies for this trip: leashes on the stair railing with the poop bags tied onto them, food in the microwave. She said she would go into Time To Pet and update the info herself - worth checking that it actually got entered.",
-     "quote": "the leashes will be on the stair railing. The poop bags will be tied onto leashes."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client message 1:19pm",
-     "office": false,
-     "note": "Owner is travelling and wrote while about to fly. She expects to have wifi in the air and to be reachable by text. No return date given in the message.",
-     "quote": "I should have wifi on my flight so hopefully can receive texts."
     },
     {
      "cat": "behavior",
@@ -7812,26 +7712,6 @@
      "office": true,
      "note": "Oct 6 midday report: under the accidents/destruction question the sitter selected that a pet got sick and he cleaned it up, with before and after pictures. The report does NOT say which of the three dogs it was, and the written note does not mention it - office should find out which dog and whether it has happened again.",
      "quote": "The pet got sick and I cleaned it up (before and after pictures included)"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client message, Oct 5 4:52pm",
-     "office": true,
-     "note": "Client wrote in at 4:52pm asking for confirmation that his visits are on the schedule. He does not say which dates he means, so the office needs to check his upcoming booking and reply. No response had been sent as of this sweep.",
-     "quote": "hi, just wanted to make sure everything’s scheduled OK!"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 5",
-     "source": "Client message 5:50pm",
-     "office": false,
-     "note": "Client wrote at 5:50pm that there will be workers in the house doing electrical work. He does not say which days or hours, so a sitter may find contractors inside and doors open - watch the pets at the door.",
-     "quote": "there will be workers in the house doing electrical work fyi"
     },
     {
      "cat": "health",
@@ -8476,6 +8356,26 @@
      "office": true,
      "note": "Brand-new client, on today's schedule, and nothing about these animals has ever come through this mailbox. She set up her own profile Oct 25 and added three pets - Merlin, Suzaiko and Ruri - but no Pet Care Note, Company Note, client message or visit report exists for her, so a sitter arriving today has no handling, feeding or access information for any of the three. Species are not stated anywhere in the email record. The office should confirm the care notes are filled in before the first visit.",
      "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Sean and Kat Berkowitz",
+   "url": "https://www.timetopet.com/dashboard/client/tnha1fARotsH",
+   "pets": [
+    "Fitz"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Time To Pet account notification",
+     "office": false,
+     "note": "New pet named Fitz added to this account early on Oct 27. The notification carries the name only - no species, age, handling or care detail - so confirm Fitz's care notes in Time To Pet before the visit.",
+     "quote": "has added a pet with name Fitz to their account."
     }
    ],
    "dormant": false
