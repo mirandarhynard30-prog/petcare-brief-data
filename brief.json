@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T12:35:07-04:00",
+ "generated": "2026-10-27T13:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8467,6 +8467,46 @@
      "source": "Time To Pet account notifications",
      "office": true,
      "note": "On today's schedule with pets Phil and Abbey added to the account Oct 6, 2026, but no handling, access, health or care detail has ever arrived in a message or visit report - the record needs filling in before a sitter is sent.",
+     "quote": ""
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Client message 12:54 PM",
+     "office": true,
+     "note": "Client messaged only \"We're ready.\" with no further context. Meaning is ambiguous - it may mean ready for a visit, a start date or a meet-and-greet. Nothing in this mailbox answers it. Needs an office reply to find out what she is ready for.",
+     "quote": "We’re ready."
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Tracy Martin",
+   "url": "https://www.timetopet.com/dashboard/client/tndwr23wJ2T7",
+   "pets": [
+    "Brutus"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Tracy Martin profile update",
+     "office": false,
+     "note": "Client filled in her own profile for the first time on Oct 27 and added a pet named Brutus. Access instructions and two emergency contacts are now on file in Time To Pet; details are deliberately not repeated here. Check the client record in Time To Pet before the visit. No pet care note, species, age or handling detail has been written yet.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Tracy Martin profile update",
+     "office": true,
+     "note": "First information this client has ever supplied. Worth confirming the pet care note is completed - species, age, feeding and handling for Brutus are still blank.",
      "quote": ""
     }
    ],
