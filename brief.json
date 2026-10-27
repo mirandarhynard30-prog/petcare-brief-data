@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T15:20:05-04:00",
+ "generated": "2026-10-27T16:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -911,6 +911,16 @@
      "quote": "She'll does keep scooting her butt on the ground."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Angela Jozsa private message, 2:37 PM",
+     "office": true,
+     "note": "Client (signs as Carol) asks by private message at 2:37 PM to ADD a 4:00 PM walk for Lucy tomorrow, Wednesday Oct 28. She sent \"Thanks Miranda!!\" at 3:59 PM, so the office appears to have replied, but nothing in the mailbox confirms the extra 4 PM visit was actually put on Wednesday's schedule - verify it exists before closing this out.",
+     "quote": "I am wondering if there’s anyway that we can add a 4 o’clock walk in for tomorrow."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -929,16 +939,6 @@
      "office": false,
      "note": "Lucy's stool was runny on the Oct 20 mid-morning walk and she scooted her rear on the ground afterwards; the report's consistency field reads very loose/diarrhea, pet otherwise fine. The walk field still says everything went as planned. Second loose-stool report for Lucy this week.",
      "quote": "it was runny, and after she went, she scooted her butt on the ground"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 19",
-     "source": "Client message from Angela Jozsa, Oct 19 12:12 PM",
-     "office": false,
-     "note": "Client says Lucy's collar and leash are left out on the table. Pairs with the Oct 19 leash routine change - collar and leash go on after she comes out of the gate.",
-     "quote": "Collar and leash are on table."
     }
    ],
    "dormant": false
