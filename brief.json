@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T13:20:06-04:00",
+ "generated": "2026-10-27T14:20:15-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -967,6 +967,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 27",
+     "source": "Harvett Ellington visit report 2:13 PM",
+     "office": true,
+     "note": "Chloe was found asleep upstairs and the sitter carried her downstairs; she then began to wheeze and the sitter attached a video. Afternoon visit, Oct 27. No vet contact or medication mentioned in the report.",
+     "quote": "I carried her gently downstairs"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 26",
      "source": "Jade Popovitz visit report, 9:43 AM Oct 26",
      "office": true,
@@ -1062,16 +1072,6 @@
      "office": false,
      "note": "Chloe's stool was soft on the Oct 23 morning visit. Same visit as the coughing note above; unclear from the report whether the two are related.",
      "quote": "Chloe went numbers one and two (soft)."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Harvett Ellington afternoon visit report, 3:25 PM",
-     "office": true,
-     "note": "The 3:25 PM afternoon report makes no mention of the wheezing and coughing flagged at this morning's visit, and no mention of the morning's soft stool. The form records Chloe went #1 and answers the consistency question No #2 today. Nothing in this mailbox shows the morning respiratory flag was answered or acted on.",
-     "quote": "It was a short but nice walk"
     }
    ],
    "dormant": false
@@ -8330,6 +8330,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 27",
+     "source": "Client private message 1:46 PM",
+     "office": true,
+     "note": "Client proposed 3pm as a time that works, after sending a separate message at 1:20 PM chasing an unanswered reply. The purpose of the 3pm slot is not stated in this message. Still unanswered.",
+     "quote": "3pm would work"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 25",
      "source": "Heather & Jason Stary client message 11:21 AM",
      "office": true,
@@ -8507,6 +8517,26 @@
      "source": "Tracy Martin profile update",
      "office": true,
      "note": "First information this client has ever supplied. Worth confirming the pet care note is completed - species, age, feeding and handling for Brutus are still blank.",
+     "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Derek and Shannon Larsen",
+   "url": "https://www.timetopet.com/dashboard/client/tn61twSA9dmC",
+   "pets": [
+    "Penney Rueo"
+   ],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Time To Pet pet added 1:24 PM",
+     "office": true,
+     "note": "Client added a pet named Penney Rueo at 1:24 PM. No species, age, feeding or handling detail supplied yet - pet care note needs completing before any visit.",
      "quote": ""
     }
    ],
