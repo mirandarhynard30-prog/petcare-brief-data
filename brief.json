@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T09:50:06-04:00",
+ "generated": "2026-10-27T10:35:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -957,6 +957,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 27",
+     "source": "Alex Miller visit report, 9:54 AM",
+     "office": false,
+     "note": "Oct 27 morning visit was cut short because Chloe is unwell. Alex Miller found her in the office with Melody, carried her outside, sat with her and coaxed her back out a second time; she would not go potty on either attempt and went straight back upstairs to Melody. Water bowls refilled, client home, door left unlocked at her request. The report's walk checkbox still reads that the usual route went as planned, which contradicts the narrative.",
+     "quote": "The visit was shorter today because poor Chloe isn’t feeling well"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 26",
      "source": "Jade Popovitz visit report, 9:43 AM Oct 26",
      "office": true,
@@ -1062,15 +1072,6 @@
      "office": true,
      "note": "The 3:25 PM afternoon report makes no mention of the wheezing and coughing flagged at this morning's visit, and no mention of the morning's soft stool. The form records Chloe went #1 and answers the consistency question No #2 today. Nothing in this mailbox shows the morning respiratory flag was answered or acted on.",
      "quote": "It was a short but nice walk"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Harvett Ellington afternoon visit report, 3:25 PM",
-     "office": true,
-     "note": "The 3:25 PM report answers Yes to the question about pet supplies getting low, but the narrative names no supply and gives no detail, so the office cannot tell what needs restocking. Same report records the client home during the visit and asking that the door not be locked."
     }
    ],
    "dormant": false
@@ -1285,6 +1286,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Monica Hopewell visit report, 10:18 AM",
+     "office": false,
+     "note": "Oct 27 morning walk was deliberately slower and shorter to protect Georgie's leg. The sitter says the leg was hurt 'yesterday'; the only injury recorded in this mailbox is the Oct 25 8 PM walk, so this may be loose dating rather than a second injury. He went both #1 and #2 and the consistency field reads firm and healthy.",
+     "quote": "I just wanted to be careful with Georgie today since his leg was hurt yesterday so we did take a slower walk"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1393,16 +1404,6 @@
      "office": false,
      "note": "Evening eyedrop routine confirmed again on the Oct 5 8pm visit: after the walk the sitter took the harness off in the laundry room, helped Mary Ann give Georgie his eyedrops, then gave ice cube treats. Mary Ann is home and does the drops herself with the sitter assisting.",
      "quote": "I helped Mary Ann with Georgie's eyedrops and rewarded him with"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts updated contact information for Mary Ann Mckeever (4:41 PM)",
-     "office": true,
-     "note": "The 4:41 PM Company Notes rewrite deleted the whole Walk Instructions section - that walks are preferred over the backyard, and that the best walking area is across the street on the sidewalks. Nothing replaced it, so the notes no longer say where or whether to walk Georgie. Mary Ann is on today's schedule and the brief still carries the walk routine, so the sitter page is ahead of Time To Pet. Garage entry, white doorbell, pen, harness, plaid leash and cooling collar are unchanged.",
-     "quote": "Walks preferred over backyard"
     }
    ],
    "dormant": false
@@ -1808,6 +1809,16 @@
      "office": false,
      "note": "Client spells out the difference between the two dogs if one gets loose: Nova comes back when called, Astra bolts. She says the dogs have halo collars for this but they were on charge the last time Astra got out. She agrees to a garage hand-off going forward, so sitters should take and return the dogs through the garage rather than the front door.",
      "quote": "nova comes straight back when called, but astra will bolt"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Client message, 10:20 AM",
+     "office": true,
+     "note": "Today's visit is going ahead: Monica Hopewell sent a 10:30 AM arrival time and Jessica acknowledged it. This does not say whether her Oct 26 request to reschedule around the blocked driveway was ever answered, or where the sitter is to park while the construction crew has the driveway.",
+     "quote": "Awesome, we'll see you then"
     },
     {
      "cat": "home",
