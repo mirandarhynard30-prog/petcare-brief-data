@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T11:50:06-04:00",
+ "generated": "2026-10-27T12:35:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -904,6 +904,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 27",
+     "source": "Chrissy George visit report, 12:17 PM",
+     "office": true,
+     "note": "On today's midday walk Chrissy George reported Lucy repeatedly scooting her rear on the ground, and that Lucy sat down as soon as she got outside and took a minute to start walking. Lucy went #1 but not #2. No vet, medication or client reply is mentioned anywhere in this mailbox. Worth the office raising with the client.",
+     "quote": "She'll does keep scooting her butt on the ground."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 23",
      "source": "Chrissy George visit report",
      "office": false,
@@ -929,16 +939,6 @@
      "office": false,
      "note": "Client says Lucy's collar and leash are left out on the table. Pairs with the Oct 19 leash routine change - collar and leash go on after she comes out of the gate.",
      "quote": "Collar and leash are on table."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Chrissy George visit report for Angela Jozsa, Oct 19 12:59 PM",
-     "office": false,
-     "note": "Lucy went #1 and #2 on the midday walk and the consistency field was logged as a little loose but not concerning. That reading sits oddly against the client's message earlier the same day crediting the new night-time Ollie routine for much healthier stool, so the picture is mixed rather than settled. Same report: the water bowl was answered No - not refilled.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -8389,6 +8389,16 @@
      "quote": "The front desk should be able to let you up to the 12 floor."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Harvett Ellington meet-and-greet report, 12:21 PM",
+     "office": true,
+     "note": "At today's meet and greet the client asked for morning and afternoon visits at 10:00 AM and 2:30 PM. Nothing in this mailbox shows those visits on the schedule yet, so the office needs to set them up or confirm. The report signs off 'until tomorrow', which suggests visits are expected to start Wed Oct 28, but that is not stated outright.",
+     "quote": "She requests afternoon and mornings at 1000am and 230pm."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -8407,6 +8417,36 @@
      "office": true,
      "note": "At the 11:30 meet and greet Shannon Anderson and Harvette were held in the lobby and had to ask the client in writing whether the lobby could be messaged to let them up. The client answered, but the building-access step does not appear to be anywhere the sitters could see it beforehand - worth writing into this client's record before the next visit.",
      "quote": "Is it possible to message the lobby for permission to let us up"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Harvett Ellington meet-and-greet report, 12:21 PM",
+     "office": false,
+     "note": "Photos showing where the leash and treats are kept are attached to Harvett Ellington's Oct 27 visit report in Time To Pet. Sitters should open that report before the first visit - the locations are only in the pictures, not written out anywhere.",
+     "quote": "There are pictures of where the leash and treats are located."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Harvett Ellington meet-and-greet report, 12:21 PM",
+     "office": false,
+     "note": "At the meet and greet the sitters told the client that taking the trash out and refreshing the water bowl with fresh water are part of each visit. Treat that as the expectation the client was given.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Harvett Ellington meet-and-greet report, 12:21 PM",
+     "office": false,
+     "note": "There is an infant in the home - the sitters met the client and her baby at the Oct 27 meet and greet. Expect someone to be home and keep arrivals quiet.",
+     "quote": ""
     }
    ],
    "dormant": false
