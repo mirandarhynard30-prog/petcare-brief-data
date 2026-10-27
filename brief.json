@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T10:35:05-04:00",
+ "generated": "2026-10-27T11:50:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8379,6 +8379,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Client message 11:03 AM Oct 27",
+     "office": false,
+     "note": "Apartment building with a staffed lobby. The client says the front desk can let a sitter up to the 12th floor, so plan on checking in at the front desk rather than going straight up. No door, lockbox or alarm detail is recorded here.",
+     "quote": "The front desk should be able to let you up to the 12 floor."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -8387,6 +8397,16 @@
      "office": false,
      "note": "New pet named Fitz added to this account early on Oct 27. The notification carries the name only - no species, age, handling or care detail - so confirm Fitz's care notes in Time To Pet before the visit.",
      "quote": "has added a pet with name Fitz to their account."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Shannon Anderson messages 11:17 and 11:19 AM Oct 27",
+     "office": true,
+     "note": "At the 11:30 meet and greet Shannon Anderson and Harvette were held in the lobby and had to ask the client in writing whether the lobby could be messaged to let them up. The client answered, but the building-access step does not appear to be anywhere the sitters could see it beforehand - worth writing into this client's record before the next visit.",
+     "quote": "Is it possible to message the lobby for permission to let us up"
     }
    ],
    "dormant": false
