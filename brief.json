@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T08:50:05-04:00",
+ "generated": "2026-10-28T09:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -834,6 +834,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 28",
+     "source": "Client private message",
+     "office": true,
+     "note": "Oct 28, 8:58am ET private message. Earlier the same morning (4:45am) she asked to push today's visit later, closer to 12:30; she has now settled on a different plan and wants a walker at the regular time plus a second walk at 3:30 today. Needs the schedule confirmed and a second visit added.",
+     "quote": "I will need a Walker at the regular time and then one at 3:30. That would work."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 23",
      "source": "Client private message, Oct 23 4:25 PM",
      "office": true,
@@ -929,16 +939,6 @@
      "office": true,
      "note": "Client (signs as Carol) asks by private message at 2:37 PM to ADD a 4:00 PM walk for Lucy tomorrow, Wednesday Oct 28. She sent \"Thanks Miranda!!\" at 3:59 PM, so the office appears to have replied, but nothing in the mailbox confirms the extra 4 PM visit was actually put on Wednesday's schedule - verify it exists before closing this out.",
      "quote": "I am wondering if there’s anyway that we can add a 4 o’clock walk in for tomorrow."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Chrissy George visit report",
-     "office": false,
-     "note": "Lucy sat down repeatedly during the midday walk, seemed reluctant to keep going, and led the sitter back to the door early. She went #1 but not #2. One visit; the sitter did not flag it as a concern, so cause is unclear.",
-     "quote": "She kept sitting down multiple times during our walk like she didn't want to walk a lot today"
     }
    ],
    "dormant": false
@@ -982,6 +982,16 @@
      "office": true,
      "note": "At the afternoon visit the same day, Chloe was found asleep upstairs and began wheezing after being carried down; sitter attached a video. She did go #1 and #2 in the yard. Separate visit from the morning report.",
      "quote": "She began to wheez"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Visit report - Harvett Ellington",
+     "office": true,
+     "note": "Oct 27 report: Chloe was asleep upstairs and began wheezing while the sitter carried her gently downstairs; sitter attached a video. The rest of the visit was normal - went #1 and #2, enjoyed the fenced back yard, bowls cleaned and fresh water. Single observation, no vet contact or follow-up mentioned in the email.",
+     "quote": "while I carried her gently downstairs. She began to wheez"
     },
     {
      "cat": "health",
@@ -1062,16 +1072,6 @@
      "office": false,
      "note": "Ellie Mae has died. Melody told the office on the afternoon of Aug 31. Only Chloe remains on visits from now on. Do not ask after Ellie Mae or expect her at the house; earlier standing notes about minimising her walking no longer apply.",
      "quote": "our sweet ellie passed away today."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Elizabeth Sigler afternoon visit report, Oct 26 1:51 PM",
-     "office": false,
-     "note": "Oct 26 afternoon: Chloe went out to the fenced back yard for about ten minutes, wandered a little and did not want to stay out. She went back inside quickly. Report records no #1 or #2 fields for this visit.",
-     "quote": "She wandered around a little bit but didn’t want to stay out there for long."
     }
    ],
    "dormant": false
@@ -3068,6 +3068,16 @@
      "quote": "Milo then went number two and it was extremely runny case of diarrhea."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Client message",
+     "office": false,
+     "note": "Oct 27 client message: with cleaners in the house that day, Milo was at daycare and Archer was shut in the upstairs guest bedroom. Stated for Oct 27 only - the email does not say this is a standing arrangement for cleaning days.",
+     "quote": "Since the cleaners are coming today, Milo is at daycare and Archer is in the guest bedroom upstairs"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3116,16 +3126,6 @@
      "office": false,
      "note": "Milo was difficult on today's walk - a lot of barking and pulling. Second pulling report for him this month after Oct 9. Archer was walked first and was energetic; Milo was let out of his crate for his own walk afterwards and crated again at the end.",
      "quote": "He had a hard time on the walk today with a lot of barking and pulling."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Elizabeth Sigler visit report, 12:02 PM",
-     "office": true,
-     "note": "Update on Milo's loose stool. At today's visit Milo was excited to see the sitter, walked most of the way down the street and crated willingly at the end. The report records Milo as going #1 only, so no stool consistency was logged for him today - today's visit neither confirms nor clears the diarrhea. Archie's stool was recorded as firm and healthy.",
-     "quote": "Archie, Milo, and the cat were excited to see me when I got there."
     }
    ],
    "dormant": false
