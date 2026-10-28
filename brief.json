@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T10:35:10-04:00",
+ "generated": "2026-10-28T11:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7249,6 +7249,26 @@
      "cat": "home",
      "sev": "high",
      "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts updated contact information for Kim Knight, 10:49am ET",
+     "office": true,
+     "note": "Fourth rewrite of the Important Notes in three weeks (Oct 7, Oct 14, Oct 25 and now Oct 28) and the warning that the front door does not latch and must be locked from inside is still not in the record. Three cats and a stated escape risk here. Office needs to put it back.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts updated contact information for Kim Knight, 10:49am ET",
+     "office": true,
+     "note": "Today's Company Notes rewrite DELETED the line about which interior doors stay open. Nothing now tells a sitter that most doors stay open apart from one basement door and one upstairs door near the bathroom. The quote is the text that was removed, not current instruction. Worth restoring given the escape risk.",
+     "quote": "Most doors stay open, besides 1 basement door and 1 upstairs door (near bathroom)"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
      "date": "Oct 25",
      "source": "Tiarra Roberts updated contact information for Kim Knight, 1:45 PM",
      "office": true,
@@ -7306,6 +7326,16 @@
      "quote": "We did not spot Drew or Kopi during the visit although we checked upstairs, on the main level and basement."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts updated contact information for Kim Knight, 10:49am ET",
+     "office": false,
+     "note": "Water instruction CHANGED in today's rewrite. The previous line, that a water bowl can be placed in the basement stairwell, is gone. Sitters are now told to top up the fountain and refresh the gravity water container. Feeding instructions were not changed.",
+     "quote": "Add water to fountain and refresh the gravity water container, as needed"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -7334,36 +7364,6 @@
      "office": false,
      "note": "The two other cats, referred to as the twins, stayed hidden. The sitter saw one and not the other, chose not to search for them so as not to disturb them, and left treats both upstairs and downstairs. Reported as fine, not a concern.",
      "quote": "I did see one of the twins but not the other"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 25",
-     "source": "Kim Knight client message, 5:11 AM",
-     "office": false,
-     "note": "Kim asks that sitters enter through the garage from now on rather than the front door - she says Kopi comes downstairs faster when people come in that way. Access details stay in Time To Pet.",
-     "quote": "If you could enter through the garage that would be great."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Kim Knight client message, 5:11 AM",
-     "office": false,
-     "note": "Wet food dispenser is full enough through Wednesday and needs refilling on Wednesday. Whoever has the Wednesday visit has to do it; the email does not say where the refill supply is kept.",
-     "quote": "Wet food dispenser is good until Wednesday. It will need to be filled then"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 25",
-     "source": "Client message",
-     "office": false,
-     "note": "Client asks sitters to enter through the garage for this stay - she says Kopi came downstairs faster when friends came in that way.",
-     "quote": "If you could enter through the garage that would be great."
     }
    ],
    "dormant": false
