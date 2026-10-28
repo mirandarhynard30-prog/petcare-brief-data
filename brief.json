@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T13:20:06-04:00",
+ "generated": "2026-10-28T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5015,6 +5015,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 28",
+     "source": "Alexandria Francis (client message, 1:15 PM ET)",
+     "office": true,
+     "note": "After today's walk report Alexandria asked whether there was a food jar in the fridge for Lily. Her wording implies she expects one to be there; the email trail does not confirm the question was clearly answered, and Robin Lewis's reply a minute later says only that she gave fresh food and water. Office should confirm whether a fridge food jar is part of Lily's feeding and get it into her notes.",
+     "quote": "Was there no food jar in the fridge for her?"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 26",
      "source": "Robin Lewis visit report 12:00 PM",
      "office": false,
@@ -5085,6 +5095,16 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Oct 28",
+     "source": "Robin Lewis visit report (11:50 AM ET)",
+     "office": false,
+     "note": "On today's visit Lily went and stood by the refrigerator as if expecting food. Sitter noted nothing was in there for her. One visit, one sitter - not a standing rule.",
+     "quote": "She’s going by the refrigerator. Think there’s something in there for her, but there’s not."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Oct 27",
      "source": "Robin Lewis midday visit report",
      "office": false,
@@ -5110,26 +5130,6 @@
      "office": false,
      "note": "Lily barked steadily until the walk actually started, then walked happily. Same sitter notes she is a howler. One visit's observation, not an established pattern.",
      "quote": "She loves to howl."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Client message 5:59pm",
-     "office": true,
-     "note": "Client approves something the office proposed involving sitter Robin. AMBIGUOUS - the proposal itself was not sent through email, so what she is agreeing to is not visible here. Office should confirm what was approved.",
-     "quote": "Hello. Yes, that’s fine if it works for Robin"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 28",
-     "source": "Time To Pet record update notification",
-     "office": false,
-     "note": "Lily's leash and harness hang by the garage door.",
-     "quote": "Leash and harness: hanging by garage door"
     }
    ],
    "dormant": false
