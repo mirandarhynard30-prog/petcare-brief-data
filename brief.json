@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T07:35:07-04:00",
+ "generated": "2026-10-28T08:50:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3469,6 +3469,16 @@
      "quote": "Backyard is NOT fenced — must use leash or long lead (available)"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Ashley Corall midday visit report",
+     "office": true,
+     "note": "The Oct 27 report answers Yes to setting the house alarm before leaving. That is the first indication in recent mail that this home has an alarm at all - no alarm instruction is recorded for this client. Entry was through the garage. Office should get the alarm step written into the notes if it applies every visit.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -5060,6 +5070,26 @@
      "office": true,
      "note": "Access instructions added by Alexandria the same afternoon: entry is the front door, with a lockbox. The code arrived in the clear in the notification mail and is deliberately not repeated here - it stays in Time To Pet. Her record went from empty to complete today, so the Sep 5 gap on Lily is closed; office should check whether a meet and greet and a booking are still outstanding.",
      "quote": "Entry: Front door."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Robin Lewis midday visit report",
+     "office": false,
+     "note": "Oct 27 midday visit: Lily was unusually vocal and asked to go back out about 15 minutes after the first walk, so the sitter took her out a second time. Both walks were short. She went #1 and #2 outside, consistency logged firm and healthy.",
+     "quote": "She was very vocal today we took our walk came back in and 15 minutes later she wanted to go back out"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Robin Lewis midday visit report",
+     "office": true,
+     "note": "The same report contradicts itself on water: the water-bowl field answers No to refilling while the narrative says the sitter topped the water off. Worth checking rather than assuming, because this client's automatic waterer was found broken on Oct 26 and the stated workaround is the spare bowl next to the food.",
+     "quote": ""
     },
     {
      "cat": "behavior",
@@ -8008,6 +8038,16 @@
      "quote": "NOT dog friendly – avoid other dogs"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Client message 8:24 AM Oct 28",
+     "office": false,
+     "note": "Client message this morning about the midday feed: Ollie may not finish all of his lunch, and if he does not it is fine to take the food out of his crate before he goes back in for the afternoon. This adds to the existing midday feed-then-crate routine rather than replacing it.",
+     "quote": "He may not finish all of his lunch but if he does not it is okay to take it out of his crate"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -8096,16 +8136,6 @@
      "office": false,
      "note": "There is a small heater in the room where Ollie is crated. Kathy Pastor turned it off at the end of the Oct 22 afternoon visit because the room was getting warm. One sitter's action on one visit, not a standing instruction.",
      "quote": "We turned off the little heater because it was getting warm in the room."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 21",
-     "source": "Client message from Clara Florian",
-     "office": false,
-     "note": "Owner says Ollie is growing more assertive and outgoing over time. Owner adds she is reachable by call, text or app message with any questions.",
-     "quote": "He is such an excited little guy. Getting bossier and more outgoing by the day lol"
     }
    ],
    "dormant": false
@@ -8536,7 +8566,8 @@
    "name": "Derek and Shannon Larsen",
    "url": "https://www.timetopet.com/dashboard/client/tn61twSA9dmC",
    "pets": [
-    "Penney Rueo"
+    "Penney Rueo",
+    "Penney Rue"
    ],
    "items": [
     {
@@ -8547,6 +8578,16 @@
      "source": "Time To Pet pet added 1:24 PM",
      "office": true,
      "note": "Client added a pet named Penney Rueo at 1:24 PM. No species, age, feeding or handling detail supplied yet - pet care note needs completing before any visit.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Pet record update 1:24 PM Oct 27",
+     "office": true,
+     "note": "The new pet's name was corrected from Penney Rueo to Penney Rue - the name was the only field changed. Species, age, feeding and handling detail are still blank on that record, so there is still nothing for a sitter to work from.",
      "quote": ""
     }
    ],
