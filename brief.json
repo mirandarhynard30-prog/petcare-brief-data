@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T09:20:05-04:00",
+ "generated": "2026-10-28T10:35:10-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7298,6 +7298,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Oct 28",
+     "source": "Visit report - Michelle Carrara shadowing Tiarra Roberts",
+     "office": false,
+     "note": "Oct 28 report: Doughty was seen in the upstairs bedroom window and again hiding under the bed upstairs, but Drew and Kopi could not be found even after checking upstairs, the main level and the basement. All four litter boxes had been used in three of the four, so the unseen cats are eating and using the boxes.",
+     "quote": "We did not spot Drew or Kopi during the visit although we checked upstairs, on the main level and basement."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Oct 27",
      "source": "client message",
@@ -7354,16 +7364,6 @@
      "office": false,
      "note": "Client asks sitters to enter through the garage for this stay - she says Kopi came downstairs faster when friends came in that way.",
      "quote": "If you could enter through the garage that would be great."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 25",
-     "source": "Tiarra Roberts updated contact information for Kim Knight, 1:45 PM",
-     "office": false,
-     "note": "Garage entry is now a written standing rule, not just a client message - Tiarra Roberts added it as the first line of Important Notes this afternoon. Everything else in the field is unchanged from the previous version.",
-     "quote": "Enter through garage"
     }
    ],
    "dormant": false
@@ -8509,6 +8509,36 @@
     "Abbey"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Pet Care Note updated by Margaret Bill",
+     "office": false,
+     "note": "Oct 28 note update adds the feeding routine: morning visit, fill the bowl with dry food plus half a can of Fancy Feast per cat, fed on the kitchen floor, and water. Standing instruction. Two cats - the boy is social, the girl is shy. One visit a day, preferred arrival 9am-1pm.",
+     "quote": "fill the bowl with dry food and a half can of Fancy Feast for each cat"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Pet Care Note updated by Margaret Bill",
+     "office": false,
+     "note": "Same Oct 28 note update says where the shy cat hides: check the corner underneath the parents' bed.",
+     "quote": "Cat hides: check in corner underneath parents' bed"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 28",
+     "source": "Pet Care Note updated by Margaret Bill",
+     "office": true,
+     "note": "Office to tidy the record: the Important Notes field was edited three times between 9:28 and 9:36am ET and the 9:34am edit garbled the text - a new feeding and cat-hiding sentence was spliced into the middle of the access sentence mid-word, leaving fragments. The access details themselves are intact in the Access Instructions field. Content not reproduced here because that field holds entry codes.",
+     "quote": ""
+    },
     {
      "cat": "schedule",
      "sev": "low",
