@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T12:20:07-04:00",
+ "generated": "2026-10-28T13:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -236,6 +236,16 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Oct 28",
+     "source": "Visit report from Kathy Sullenberger",
+     "office": false,
+     "note": "Nova would not come outside on her own - the sitter put her harness on to coax her out, after which she went #1 and #2 in the fenced back yard. One sitter on one visit, not an established rule.",
+     "quote": "I had to put the harness on her to intice her out."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Oct 26",
      "source": "Shannon Anderson added Scarlett and Benji as pets, and set Scarlett's private note (Oct 26, 4:19-4:24 AM)",
      "office": false,
@@ -251,16 +261,6 @@
      "office": false,
      "note": "Answering the midday report, Terri says she is not surprised Nova would not pee in the light rain and is not concerned by it. Identifies rain specifically as a reason Nova balks at going out and staying out, which fits her repeated outdoor reluctance. Expect it and do not treat a missed potty in wet weather as a problem.",
      "quote": "I’m not surprised Nova didn’t want to pee in the rain- she’s such a princess."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Client message 6:38 PM",
-     "office": false,
-     "note": "Terri says she will leave Benji's treat bag out for the next visit, so look for it on arrival. This came after Shannon offered to bring lickable treats for Benji next week; no appetite or feeding problem is mentioned by either of them.",
-     "quote": "Benji would absolutely love some treats! I can leave the treat bag out for next time."
     }
    ],
    "dormant": false
@@ -3537,6 +3537,16 @@
      "office": false,
      "note": "Take shoes off on entering. Paw care is the paw wash in the laundry room plus the towel on the back of the laundry room door; the line about extra towels by the back door was removed.",
      "quote": "Please take shoes off when entering house."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 28",
+     "source": "Visit report from Ashley Corall",
+     "office": false,
+     "note": "Oakley's treat supply is running low. The sitter told Anna directly in the visit report.",
+     "quote": "I did notice that his treats were running a little low and wanted to give you a heads up."
     }
    ],
    "dormant": false
@@ -3692,6 +3702,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 28",
+     "source": "Visit report from Dan Dantimo",
+     "office": false,
+     "note": "Guinness went #2 early in the walk and the sitter logged the consistency as slightly loose but not concerning. One visit only - watch whether it repeats.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 27",
      "source": "Visit report from Dan Dantimo, Oct 27",
      "office": false,
@@ -3787,16 +3807,6 @@
      "office": false,
      "note": "Guinness was happy to see Dan but did not want to walk. Stalled over something in the grass, then only did the short block via Pembrooke instead of the Commons and wanted to come home. Fine once moving. One instance, not a pattern.",
      "quote": "he just didn't seem to be in the mood to walk"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Sitter report 12:12pm",
-     "office": false,
-     "note": "Went #1 and #2 on the walk; stool logged as slightly loose but not concerning. Same visit as his reluctance to walk.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
