@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T11:20:07-04:00",
+ "generated": "2026-10-28T12:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3068,6 +3068,16 @@
      "quote": "Milo then went number two and it was extremely runny case of diarrhea."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 28",
+     "source": "Harvett Ellington visit report",
+     "office": true,
+     "note": "Sitter noticed a bump on Archer's back, middle section, on the Oct 28 late-morning visit. Nothing in the mail says the owner has been told or that this has been seen before, so the office should confirm.",
+     "quote": "Archer has a bump on the top of his back and is located in the middle section."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3116,16 +3126,6 @@
      "office": false,
      "note": "Archer's water bowls were empty on arrival; sitter rinsed them out and gave fresh water. Worth checking water on arrival at this house.",
      "quote": "Poor Archer had no water so I rinsed them out and gave fresh water"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Jade Popovitz visit report for Paulo Garcia, Oct 19 12:17 PM",
-     "office": false,
-     "note": "Milo was difficult on today's walk - a lot of barking and pulling. Second pulling report for him this month after Oct 9. Archer was walked first and was energetic; Milo was let out of his crate for his own walk afterwards and crated again at the end.",
-     "quote": "He had a hard time on the walk today with a lot of barking and pulling."
     }
    ],
    "dormant": false
@@ -4517,6 +4517,16 @@
      "quote": "Yes if the alarm is on just disarm it"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 28",
+     "source": "Thomas Rakovec message",
+     "office": true,
+     "note": "Sitter messaged after his Oct 28 visit that he had thought today was Thursday and will be back tomorrow. His own visit report earlier the same day said he would see Jaxson next week, so the two messages disagree and the office should check which day he is actually on the schedule.",
+     "quote": "I'll be there tomorrow thought today was Thursday duh"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -4605,16 +4615,6 @@
      "office": true,
      "note": "Sitter Thomas Rakovec said he was not sure of the snack rule for Jaxson and gave him a couple of treats anyway. No treat rule for Jaxson appears anywhere in the mail - needs confirming with the client and putting in the pet's notes.",
      "quote": "I'm not sure of the snack rule but he does such a great job walking"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 15",
-     "source": "Christi Russo client message, 4:25pm",
-     "office": false,
-     "note": "Treats are approved. Client confirms the dog is allowed his snacks and they are kept above the coffee maker. Answers the open question about treats given on an earlier visit.",
-     "quote": "yes he's absolutely allowed to have his snacks they're above the coffee maker"
     }
    ],
    "dormant": false
