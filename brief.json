@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T16:20:06-04:00",
+ "generated": "2026-10-28T19:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -274,6 +274,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 28",
+     "source": "Shannon Anderson visit report, 6:44 PM ET",
+     "office": false,
+     "note": "Rusty's collar was tightening on its own around her neck during the evening visit. Sitter removed it for safety and left it on the counter, then walked Rusty on her other collar and leash. Next sitter should use the other collar, not the one on the counter, until it is replaced or checked.",
+     "quote": "I noticed her collar was closing itself around her neck"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -382,16 +392,6 @@
      "office": false,
      "note": "The Oct 8 Company Notes rewrite adds walking and handling detail that was not there before: loud noises make Puck run for the building, Puck walks beside you, Rusty pulls like a puppy, the two may be taken out separately, and the dogs will be in the back left bedroom.",
      "quote": "Trigger for Puck loud noises run for bldg."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Mary Gilmore client message, Oct 7 5:07pm",
-     "office": false,
-     "note": "First access arrangement from Mary after days of silence. She will meet the sitter outside rather than leave a way in, and names Margaret. Her address and apartment are on her Time To Pet record and are not repeated here.",
-     "quote": "Brown building. I will meet you outside! See you soon Margaret!"
     }
    ],
    "dormant": false
@@ -2072,6 +2072,16 @@
      "office": true,
      "note": "One of the cats at this client is on INSULIN. This is the first mention of insulin anywhere in the notifications for Marcella Singer - no insulin instruction is carried in the brief and no pet is named in the message, so which cat (Buttercup or Simba), the dose and the timing are all unknown from the mail. The exchange is about watching the insulin being given before taking it on. AMBIGUITY: Time To Pet logs both messages as Robin Lewis messaging the client by Text Message only, but the wording reads as if the sitter is asking to come earlier to watch the owner do it; who said which line cannot be settled from the email. Office should confirm the insulin protocol in Time To Pet.",
      "quote": "Would like to watch how you give the cat insulin."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 28",
+     "source": "Marcella Singer message (text), 7:08 PM ET",
+     "office": true,
+     "note": "Client asked, via text message into Time To Pet, for quotes on an exterior house painter. Office request, unrelated to pet care; no answer visible in the mail yet.",
+     "quote": "Did I tell you I needed quotes on exterior house painter???"
     }
    ],
    "dormant": false
