@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T16:20:05-04:00",
+ "generated": "2026-10-28T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -977,6 +977,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 27",
+     "source": "Harvett Ellington visit report",
+     "office": true,
+     "note": "At the afternoon visit the same day, Chloe was found asleep upstairs and began wheezing after being carried down; sitter attached a video. She did go #1 and #2 in the yard. Separate visit from the morning report.",
+     "quote": "She began to wheez"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 26",
      "source": "Jade Popovitz visit report, 9:43 AM Oct 26",
      "office": true,
@@ -1062,16 +1072,6 @@
      "office": false,
      "note": "Oct 26 afternoon: Chloe went out to the fenced back yard for about ten minutes, wandered a little and did not want to stay out. She went back inside quickly. Report records no #1 or #2 fields for this visit.",
      "quote": "She wandered around a little bit but didn’t want to stay out there for long."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Harvett Ellington visit report",
-     "office": false,
-     "note": "Chloe's stool was soft on the Oct 23 morning visit. Same visit as the coughing note above; unclear from the report whether the two are related.",
-     "quote": "Chloe went numbers one and two (soft)."
     }
    ],
    "dormant": false
@@ -2183,26 +2183,6 @@
      "office": false,
      "note": "Important Notes now carry the arrival procedure, the hurry-him-along rule and Macy's dog reactivity. The same save deleted the reason for the long walks, so Murphy's weight-loss goal is now recorded nowhere.",
      "quote": "Goal: weight loss -> important to get a nice long walk"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Charlene Szunyog message, Oct 6 9:58am",
-     "office": true,
-     "note": "Client wrote at 9:58am asking when a sitter would be there for Murphy - she had not heard from anyone all morning. No reply anywhere in the mailbox. Office needs to give her an arrival time.",
-     "quote": "I haven’t heard from anyone this morning, so wanted to check to see when someone might be here for Murphy!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message 2:46pm",
-     "office": true,
-     "note": "Client reports Murphy got into an entire large pizza and gained 4 lbs. She does not say when the pizza happened or whether a vet was called, and she names no symptoms. Relevant to the standing weight-loss goal already on this account (Company Notes say weight loss, 20 pounds in the old General Information field). Worth confirming with her whether the 4 lbs is a weigh-in figure or an estimate.",
-     "quote": "He got into an entire large pizza and gained 4 lbs! He needs to work it off!"
     }
    ],
    "dormant": false
@@ -2223,6 +2203,16 @@
      "office": true,
      "note": "Client wrote asking about visit requests: a new one placed for Mac on Nov 3, and earlier requests for Nov 16-19 and Dec 10-11 that she says are still pending. She sent a thank-you at 2:42 PM, so the office did reply, but that reply referenced a dog/cat species correction rather than the dates, so whether the three pending requests have actually been approved is unclear.",
      "quote": "I just realized the November 16-19 and December 10-11 are still pending. Just checking on them."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "client private message",
+     "office": true,
+     "note": "Client submitted a request for Mac on Nov 3 and is chasing earlier requests for Nov 16-19 and Dec 10-11 that still show as pending. She sent a thank-you later the same evening; whether all three were approved is not confirmed.",
+     "quote": "I just realized the November 16-19 and December 10-11 are still pending."
     },
     {
      "cat": "schedule",
@@ -2356,16 +2346,6 @@
      "office": false,
      "note": "A sitter confirmed she will watch for lawn-chemical warning signs; the client's original caution is not in this thread.",
      "quote": "I will be aware of the yard chemical signs."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Shannon Anderson visit report, 1:16pm",
-     "office": false,
-     "note": "Oliver wears a diaper indoors - the sitter took it off for his walk and put it back on once home. Seen on this one report, so not confirmed as a standing rule. Daffodil is crated, was let out for her walk and waited in her crate for her treats; she did not want to walk far.",
-     "quote": "Once home, I put his diaper back on"
     }
    ],
    "dormant": false
@@ -3259,36 +3239,6 @@
      "quote": "Shannon will be doing the visits today and tomorrow for me"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message via Time To Pet, Oct 6 8:06am",
-     "office": true,
-     "note": "Client wrote this morning that she will take the dog out at 1:00 and leave at 2:30, and asks whether someone can walk at 4 and 7. This goes beyond her Oct 4 request for a second walker around 4:00pm - the 7:00 walk is new. No reply to her appears in this mailbox and neither walk looks confirmed.",
-     "quote": "I will taker her out at 1:00 and leave at 2:30. Can someone walk her at 4 and 7?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Lynne Reno message, Oct 6 10:39am",
-     "office": true,
-     "note": "Lynne revised her 8:06am walk request. She now says that if nobody can come the family will be back by 7:30, and that 6:30 works if someone can come today. She asked for confirmation in capitals. It is not stated whether the 4:00 walk she asked for earlier still stands.",
-     "quote": "If no one can come we should be back by 7:30. 6:30 is fine if she can come today."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message 11:34am",
-     "office": true,
-     "note": "Latest word on the afternoon walk time is a 11:34am text reading 4:30. It does not say which walk it sets - at 8:06am she asked for walks at 4 and 7, at 10:39am she asked for 6:30 and wrote PleSE CONFIRM, and no reply in this mailbox names a time back to her. Office still needs to tell her in writing which walks are happening and when.",
-     "quote": "4;30. I guess."
-    },
-    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -3297,6 +3247,16 @@
      "office": true,
      "note": "Access rule rewritten this afternoon. Company Notes now say the client will be home and Holly is handed off on leash at the front door; the Access Instructions say the garage is to be used ONLY if the client is not home. The previous wording, which said she would notify us and sitters would enter through the front door, is gone. This does not answer Dan Dantimo's 1:03 PM question about whether to leave the door open when sitters leave, so that is still open. Entry code is in Time To Pet and is deliberately not repeated here.",
      "quote": "Client will be home; leash hand-off at front door"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "Shannon Anderson visit report",
+     "office": true,
+     "note": "Holly's grooming was not completed - the sitter wrote that Tracy did not get far with it and hoped they could work out how to help her. No reason given, so the office may need to arrange a different approach.",
+     "quote": "I'm sorry Tracy didn't get far on Holly's grooming."
     },
     {
      "cat": "schedule",
@@ -5072,16 +5032,6 @@
      "quote": "There was no water in the refrigerator, but I did find some on the floor in your food pantry."
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Client message 11:36am",
-     "office": false,
-     "note": "Sitter reached the house and could not get in. Client opened the garage remotely, apologised and said she would tell her sister - so the house being locked up appears to come from someone else in the household, and access may not be reliable on future visits.",
-     "quote": "It’s unlocked. I just opened garage. I’m sorry. I’ll let my sister know."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -6245,16 +6195,6 @@
      "quote": "Also, I am home on October 16 so we won’t need that day either."
     },
     {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Elizabeth Cuffari visit report, Oct 6 12:28pm",
-     "office": true,
-     "note": "Window installers were at the house and had left the back gate open when the sitter took the dogs out; she caught it immediately and no dog got out. Sitter asked that the office/client give sitters a heads-up when other workers are at the house, or tell workers not to open the gate because of the dogs.",
-     "quote": "thankfully I saw it right away, but they had left the gate open"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -7318,6 +7258,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "client message",
+     "office": false,
+     "note": "Client identifies her twin cats for sitters: Drew is the one with the full white face; Doughty has a little black eye. Both are often found hiding under the bed.",
+     "quote": "The one under the bed is doughty lol. He has the a little black eye."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Oct 26",
      "source": "Monica Hopewell visit report 10:29 AM and client reply 10:31 AM",
@@ -7374,16 +7324,6 @@
      "office": false,
      "note": "Garage entry is now a written standing rule, not just a client message - Tiarra Roberts added it as the first line of Important Notes this afternoon. Everything else in the field is unchanged from the previous version.",
      "quote": "Enter through garage"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts updated contact information, 10:09am",
-     "office": false,
-     "note": "Important Notes rewritten again and now carry the full care detail in one place: dry food in the clear green-lid container near the glass door, topping off two automatic feeders as needed; one can of wet food in the AM split between three bowls or plates, one next to the oven and NOT on the mat, two in the basement stairwell; a water bowl may go in the basement stairwell too; four litter boxes (pantry off the kitchen, two downstairs, upstairs bathroom); grocery bags under the kitchen sink; extra litter on the shelf above the pantry box and in the upstairs bathroom sink cabinet; scooped litter and wet food cans into the large black trashcan inside the garage.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -7723,16 +7663,6 @@
      "office": true,
      "note": "Gracie struggled badly coming down the stairs on the Oct 8 evening visit - she stopped several times and Thomas had to physically help her or she would have fallen. He speculated arthritis; there is no diagnosis or vet contact anywhere in the mail, so this is one sitter observation, not a finding. Sitters should plan to assist her on stairs; the office should raise it with Chuck.",
      "quote": "stopped several times and I actually had to help her or she would have fallen"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Thomas Rakovec visit report",
-     "office": true,
-     "note": "Oct 6 midday report: under the accidents/destruction question the sitter selected that a pet got sick and he cleaned it up, with before and after pictures. The report does NOT say which of the three dogs it was, and the written note does not mention it - office should find out which dog and whether it has happened again.",
-     "quote": "The pet got sick and I cleaned it up (before and after pictures included)"
     },
     {
      "cat": "health",
@@ -8350,6 +8280,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 27",
+     "source": "client private message",
+     "office": true,
+     "note": "Client chased an unanswered message at 1:20pm ET, then wrote '3pm would work' and later 'Sounds good'. What the 3pm refers to is not stated in the notifications, so the office should confirm what was actually agreed.",
+     "quote": "just following up on the previous message since I haven't seen a reply yet"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 25",
      "source": "Heather & Jason Stary client message 11:21 AM",
      "office": true,
@@ -8419,6 +8359,16 @@
      "quote": "She requests afternoon and mornings at 1000am and 230pm."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 27",
+     "source": "client message",
+     "office": true,
+     "note": "Client wrote at 7:26pm ET that their schedule changed and they no longer need takeouts for Oct 28; they expect to need walks on a case-by-case basis going forward and will reach out.",
+     "quote": "our schedule has changed and we will no longer need takeouts tomorrow"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -8479,16 +8429,6 @@
     "Abbey"
    ],
    "items": [
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 6",
-     "source": "Time To Pet account notifications",
-     "office": true,
-     "note": "On today's schedule with pets Phil and Abbey added to the account Oct 6, 2026, but no handling, access, health or care detail has ever arrived in a message or visit report - the record needs filling in before a sitter is sent.",
-     "quote": ""
-    },
     {
      "cat": "schedule",
      "sev": "low",
