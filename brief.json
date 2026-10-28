@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T06:20:05-04:00",
+ "generated": "2026-10-28T07:35:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -824,6 +824,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 28",
+     "source": "Client private message, Oct 28",
+     "office": true,
+     "note": "Client asked for today's visit to be pushed later, closer to 12:30, because she is working later than usual and will be home until about 10:30. Signed Carol. Needs confirming with the client and passing to the sitter.",
+     "quote": "Is it possible for them to get here on the later side, like closer to 12:30 today?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 23",
      "source": "Client private message, Oct 23 4:25 PM",
      "office": true,
@@ -929,16 +939,6 @@
      "office": false,
      "note": "Lucy sat down repeatedly during the midday walk, seemed reluctant to keep going, and led the sitter back to the door early. She went #1 but not #2. One visit; the sitter did not flag it as a concern, so cause is unclear.",
      "quote": "She kept sitting down multiple times during our walk like she didn't want to walk a lot today"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Chrissy George visit report",
-     "office": false,
-     "note": "Lucy's stool was runny on the Oct 20 mid-morning walk and she scooted her rear on the ground afterwards; the report's consistency field reads very loose/diarrhea, pet otherwise fine. The walk field still says everything went as planned. Second loose-stool report for Lucy this week.",
-     "quote": "it was runny, and after she went, she scooted her butt on the ground"
     }
    ],
    "dormant": false
@@ -3297,6 +3297,16 @@
      "office": false,
      "note": "On the Oct 23 late-morning walk Holly went #2 and the consistency field was logged as a little loose but not concerning. One visit only; the report flags no other concern. Lynne was home during the visit.",
      "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Visit report from Shannon Anderson, Oct 27",
+     "office": false,
+     "note": "Holly picks her own usual neighborhood loop and leads the walk. On Oct 27 she went both #1 and #2 and the stool was firm.",
+     "quote": "She chose her normal route from home"
     }
    ],
    "dormant": false
@@ -3672,6 +3682,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 27",
+     "source": "Visit report from Dan Dantimo, Oct 27",
+     "office": false,
+     "note": "Guinness's stool was slightly loose on the Oct 27 midday walk. The sitter did not consider it concerning, but worth watching on the next visit.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Visit report from Dan Dantimo, Oct 27",
+     "office": false,
+     "note": "Client is home during visits and has asked that the door not be locked when the sitter leaves.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 26",
      "source": "Dan Dantimo midday walk report, Oct 26 1:25 PM",
      "office": false,
@@ -3757,26 +3787,6 @@
      "office": false,
      "note": "Went #1 and #2 on the walk; stool logged as slightly loose but not concerning. Same visit as his reluctance to walk.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Dan Dantimo visit report, Oct 12 midday",
-     "office": true,
-     "note": "The Oct 12 report's home-securing field records that the client was home during the visit AND asked the sitter not to lock the door. First time this instruction appears in the notification mail. Said once, on one visit, so it is not recorded as a standing rule - the office should confirm whether it applies generally or only when Deb is home.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Dan Dantimo visit report, Oct 12 midday",
-     "office": false,
-     "note": "Third report in six days of Guinness balking at the start of the walk (Oct 7, Oct 9, Oct 12). On Oct 12 he was leashed and ready but would not set off until he saw another dog the sitter calls his twin, greeted him and played a little; after that the walk ran normally to the Commons and round via Pembrooke. The sitter adds that Guinness walks and listens better in this harness - the report does not say which harness or when it changed.",
-     "quote": "Not only does he walk well with this harness but listens better as well."
     }
    ],
    "dormant": false
@@ -6858,14 +6868,14 @@
      "quote": "Mom is moving to Heritage Crossing"
     },
     {
-     "cat": "behavior",
+     "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Margaret Bill visit report, 10:24 AM",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Visit report from Josh Stone, Oct 27",
      "office": false,
-     "note": "Harness handling that worked this morning: Sassie evaded the harness and made the sitter chase her, then let it on easily once a treat was offered. One visit only, so treat it as a technique that worked rather than a standing rule. Matters because Sassie is flagged an escape risk.",
-     "quote": "She played her game with the harness, letting me chase her to get it on her."
+     "note": "Client is home during visits and has asked that the door not be locked when the sitter leaves. Sassie walks the building grounds and the front desk staff sometimes give her treats.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -8370,6 +8380,26 @@
     },
     {
      "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Pet Care Note updated by Shannon Anderson, Oct 27",
+     "office": false,
+     "note": "Pet Care Note rewritten. Fitz's triggers are anything with wheels and squirrels. Company Notes also say he will bark at larger dogs.",
+     "quote": "Triggers: anything with wheels and squirrels"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Pet Care Note updated by Shannon Anderson, Oct 27",
+     "office": false,
+     "note": "Fitz is allergic to chicken. Newly added to the Pet Care Note on Oct 27.",
+     "quote": "Allergies: chicken"
+    },
+    {
+     "cat": "behavior",
      "sev": "medium",
      "type": "recent",
      "date": "Oct 27",
@@ -8397,6 +8427,26 @@
      "office": false,
      "note": "Photos showing where the leash and treats are kept are attached to Harvett Ellington's Oct 27 visit report in Time To Pet. Sitters should open that report before the first visit - the locations are only in the pictures, not written out anywhere.",
      "quote": "There are pictures of where the leash and treats are located."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Pet Care Note updated by Shannon Anderson, Oct 27",
+     "office": false,
+     "note": "Kat is a new mom and is home during visits, but still wants the sitter to come inside and leash Fitz. Send her an ETA before heading over.",
+     "quote": "Please send an eta when headed her way."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 27",
+     "source": "Company Notes updated by Shannon Anderson, Oct 27",
+     "office": false,
+     "note": "Park in the visitors lot on the side of the building. No house alarm. Leash is on the counter or by the shoes, harness will already be on him, poop bags are on his leash, and waste goes in the disposal cans in the designated pet spots. Water bowl in the kitchen, treats on the counter or next to the fridge, cleaning supplies under the kitchen sink.",
+     "quote": "Park in visitors lot on side of building"
     },
     {
      "cat": "home",
