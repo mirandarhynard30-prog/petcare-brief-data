@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T14:20:05-04:00",
+ "generated": "2026-10-28T15:20:08-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8607,9 +8607,114 @@
    "url": "https://www.timetopet.com/dashboard/client/tn61twSA9dmC",
    "pets": [
     "Penney Rueo",
-    "Penney Rue"
+    "Penney Rue",
+    "Stash",
+    "Bean",
+    "Valentine",
+    "Penny",
+    "chickens"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "office": false,
+     "note": "No tug of war with Penny. Stated twice in the same meet-and-greet note.",
+     "quote": "Penny- no tug of war!"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "office": false,
+     "note": "Bedtime supplements: Valentine gets half a cosequin and half a flora; Penny gets a full cosequin and a full flora.",
+     "quote": "Valentine- 1/2 cosequin, 1/2 flora"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts message, Oct 28",
+     "office": false,
+     "note": "Garage doors must be closed firmly on the way out. Sent as a separate follow-up message right after the meet-and-greet notes.",
+     "quote": "Firmly close garage doors!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "office": false,
+     "note": "Joint-health tablet is split between the two dogs as written below.",
+     "quote": "Joint health: valentine has only nub and Penny has rest of tablet x2"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "office": false,
+     "note": "Dinner: half teaspoon for Penny, quarter teaspoon for Valentine, with anal gland powder kept on the kitchen island counter. The note does not say what the teaspoon measure is of - it sits next to the anal gland powder line, so check with the office before assuming.",
+     "quote": "Dinner time - penny half teaspoon"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "office": false,
+     "note": "Penny gets half of a medicine kept on the kitchen island counter; the note says it is already broken in the bottle. The medicine is not named in the note.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "office": false,
+     "note": "Fresh turkey food is in the fridge and is portioned by weight on the scale in the drawer of the kitchen island counter.",
+     "quote": "Vital - turkey in fridge"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "office": false,
+     "note": "Both cats hide - Stash is the black one, Bean the calico; they go behind the couch and under the bed.",
+     "quote": "Cats- Stash (black)/Bean (calico) hide behind couch"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "office": false,
+     "note": "Feeding stations are spread out: Bean's bowl on the kitchen table, Stash's on the living room coffee table, and three water fountains - front room, game room and dining room - filled from the fridge water.",
+     "quote": "Bean's bowl on kitchen table"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "office": false,
+     "note": "The mini door to the upstairs litterbox stays propped open. Extra litter is in the laundry room.",
+     "quote": "Keep litterbox black door open mini door, upstairs"
+    },
     {
      "cat": "home",
      "sev": "medium",
@@ -8621,14 +8726,14 @@
      "quote": ""
     },
     {
-     "cat": "behavior",
+     "cat": "health",
      "sev": "low",
      "type": "standing",
-     "date": "Oct 27",
-     "source": "Pet record update 1:24 PM Oct 27",
-     "office": true,
-     "note": "The new pet's name was corrected from Penney Rueo to Penney Rue - the name was the only field changed. Species, age, feeding and handling detail are still blank on that record, so there is still nothing for a sitter to work from.",
-     "quote": ""
+     "date": "Oct 28",
+     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "office": false,
+     "note": "One cat treat tube only, served on the cat plate on the kitchen table. The note does not make clear whether Purrly is a pet name or the treat brand.",
+     "quote": "Feed Purrly cat treat tube on cat plate on kitchen table, 1 tube only"
     }
    ],
    "dormant": false
