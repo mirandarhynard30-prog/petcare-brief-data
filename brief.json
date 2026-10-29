@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T11:35:06-04:00",
+ "generated": "2026-10-29T12:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -909,6 +909,16 @@
      "office": true,
      "note": "Client cancels tomorrow's (Oct 12) walk - she is taking the day off work. Needs confirming and the visit pulling off the schedule. Message is signed 'Carol' though the account is Angela Jozsa; unclear which name is the person writing.",
      "quote": "we will not need a walker for tomorrow. I am going to take the day off work."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 29",
+     "source": "Client private message 11:49 AM",
+     "office": true,
+     "note": "Standing change from next week: her work hours are changing and she wants Lucy's walk moved to 11 AM. Signed Carol, as her messages usually are, though the client of record is Angela Jozsa. Applies to the recurring schedule, not just today.",
+     "quote": "it would be to Lucy‘s benefit if we could start having the Dog Walker come now at 11 AM"
     },
     {
      "cat": "health",
@@ -4507,6 +4517,16 @@
      "quote": "Yes if the alarm is on just disarm it"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Thomas Rakovec visit report 11:41 AM",
+     "office": false,
+     "note": "Jaxson went #1 several times on the Oct 29 walk but not #2, including a deliberate second try in the back yard. Fence closed, yard dry, water refreshed. Relevant because the record already carries a no-stool concern.",
+     "quote": "he went to the bathroom #1 ( several times) but didn't go #2"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -4595,16 +4615,6 @@
      "office": false,
      "note": "Jaxson was excitable on the 1:10 PM walk - the sitter describes him as anxious and hurrying to the next smell - and when two dogs came into view he turned the walk around rather than go round the block as intended. Jaxson tired a little heading home but greeted two passers-by without trouble.",
      "quote": "I decided to turn around and still get a good walk in"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Thomas Rakovec visit report 11:53am",
-     "office": true,
-     "note": "Sitter Thomas Rakovec said he was not sure of the snack rule for Jaxson and gave him a couple of treats anyway. No treat rule for Jaxson appears anywhere in the mail - needs confirming with the client and putting in the pet's notes.",
-     "quote": "I'm not sure of the snack rule but he does such a great job walking"
     }
    ],
    "dormant": false
@@ -7306,6 +7316,26 @@
     "Sasha"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Client message 9:23 AM",
+     "office": true,
+     "note": "Last-minute same-day walk request: client is unwell, husband busy all day, dogs need a walk today. She thanked the office at 9:28 AM but the mail does not show what was arranged.",
+     "quote": "Sorry for the last minute request. I have some kind of bug and my husband is busy all day."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Client message 11:55 AM and 11:58 AM",
+     "office": true,
+     "note": "Client then asked to move today's visit from the early slot to the late afternoon slot; husband is home but leaves around 2 and returns at 7. She named Dan, said she can feed them herself, and offered to pay extra. Thanked the office at 12:06 PM; the schedule change itself is not visible in the mail.",
+     "quote": "Just any time during the late afternoon slot. He’s leaving around 2 and won’t be home until 7."
+    },
     {
      "cat": "health",
      "sev": "medium",
