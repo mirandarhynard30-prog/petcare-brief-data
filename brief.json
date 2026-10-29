@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T15:20:14-04:00",
+ "generated": "2026-10-29T16:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3259,6 +3259,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Julie Smith visit report 1:26 PM",
+     "office": true,
+     "note": "Sitter Julie Smith told the client in her Oct 29 visit report that she will not be at the Friday Oct 30 visit because she is having to put her dog down, and expects to be back next week. Nothing in the mail shows cover for Oct 30 has been arranged. Julie was also marked late to acknowledge her schedule today.",
+     "quote": "I won’t be here tomorrow because I am having to say goodbye to my dog."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -3312,6 +3322,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 29",
+     "source": "Julie Smith visit report 1:26 PM",
+     "office": false,
+     "note": "Holly destroyed stuffed animals before the Oct 29 midday visit - stuffing and the remains of a Minnie Mouse toy, plus brown paper. The sitter cleaned it up, binned it and sent before and after photos; the report's destruction field confirms it. Holly was otherwise bright, walked her usual loop and went #1 and #2, stool firm.",
+     "quote": "I did find a nice little mess that she left."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 27",
      "source": "Shannon Anderson visit report",
      "office": true,
@@ -3357,16 +3377,6 @@
      "office": false,
      "note": "On the Oct 23 late-morning walk Holly went #2 and the consistency field was logged as a little loose but not concerning. One visit only; the report flags no other concern. Lynne was home during the visit.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 27",
-     "source": "Visit report from Shannon Anderson, Oct 27",
-     "office": false,
-     "note": "Holly picks her own usual neighborhood loop and leads the walk. On Oct 27 she went both #1 and #2 and the stool was firm.",
-     "quote": "She chose her normal route from home"
     }
    ],
    "dormant": false
@@ -6788,6 +6798,16 @@
      "quote": "She suddenly lurched and got away from me."
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Client private message 3:24 PM",
+     "office": true,
+     "note": "Client replied to Margaret Bill's Oct 29 report of Sassie pulling free of the leash. She apologised to Margaret, agreed Sassie can be a lot, said her mother tells her she can walk Sassie herself, and asked the office to let her know ASAP. The office has to decide how Sassie is walked before the next visit; note that the client's mother at the home may offer to take the leash, on a dog already flagged an escape risk.",
+     "quote": "I am sorry that happened to Margaret. Yes she can be a lot. Mom tells me she can walk her."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -6886,16 +6906,6 @@
      "office": false,
      "note": "Medication now on record: Trazadone for anxiety, one pill AM and one pill PM, given in cheese whiz. Earlier Oct 8 note only said medication if possible from a pill case; this is the specific instruction.",
      "quote": "1 pill AM/1pill PM in cheese whiz"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 27",
-     "source": "Visit report from Josh Stone, Oct 27",
-     "office": false,
-     "note": "Client is home during visits and has asked that the door not be locked when the sitter leaves. Sassie walks the building grounds and the front desk staff sometimes give her treats.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
