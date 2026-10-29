@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T00:05:07-04:00",
+ "generated": "2026-10-29T09:51:02-04:00",
  "date": "2026-10-29",
  "label": "Oct 29, 2026",
  "clients": [
@@ -164,6 +164,18 @@
    ]
   },
   {
+   "name": "Mary Walters",
+   "visits": [
+    {
+     "time": "1:00 PM",
+     "sort": "1300",
+     "staff": "Dan Dantimo",
+     "service": "Last Minute Visit- 20 minute",
+     "pets": "Sasha, Calvin"
+    }
+   ]
+  },
+  {
    "name": "Matt Konn",
    "visits": [
     {
@@ -231,5 +243,5 @@
    ]
   }
  ],
- "visitCount": 21
+ "visitCount": 22
 }
