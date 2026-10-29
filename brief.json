@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T19:20:06-04:00",
+ "generated": "2026-10-28T20:20:12-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8380,6 +8380,36 @@
    "items": [
     {
      "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts updated contact information for Megan O'Dell, Oct 28 7:39pm ET",
+     "office": false,
+     "note": "Ruri has a dedicated 'DO NOT PET' leash - use that leash for Ruri and expect her not to be approached or petted by passers-by. The Pet Care Note that was empty when this client was set up has now been filled in, so the three dogs finally have handling instructions on file.",
+     "quote": "'DO NOT PET' leash for Ruri"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts updated contact information for Megan O'Dell, Oct 28 7:39pm ET",
+     "office": false,
+     "note": "Feeding routine as newly written: crate the dogs to feed them, half a cup of Fresh Pet from the fridge twice daily plus two scoops of dry food from the container in the dining room corner. Water is two bowls, one on either side of the dining room table. The note does not say whether the half cup and two scoops are per dog or shared, so check with the office if it matters.",
+     "quote": "Put dogs in crates for feeding. 1/2 cup Fresh Pet (fridge) twice daily and 2 scoops dry food"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts updated contact information for Megan O'Dell, Oct 28 7:39pm ET",
+     "office": false,
+     "note": "Apartment complex. Park in the apartment parking lot. Leashes hang next to the front door. Take the dogs out for the walk through the sliding glass door, and put waste in the dumpster that is visible from that sliding glass door.",
+     "quote": "Park in apartment parking lot"
+    },
+    {
+     "cat": "behavior",
      "sev": "medium",
      "type": "recent",
      "date": "Oct 26",
@@ -8387,6 +8417,16 @@
      "office": true,
      "note": "Brand-new client, on today's schedule, and nothing about these animals has ever come through this mailbox. She set up her own profile Oct 25 and added three pets - Merlin, Suzaiko and Ruri - but no Pet Care Note, Company Note, client message or visit report exists for her, so a sitter arriving today has no handling, feeding or access information for any of the three. Species are not stated anywhere in the email record. The office should confirm the care notes are filled in before the first visit.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 28",
+     "source": "Tiarra Roberts updated contact information for Megan O'Dell, Oct 28 7:39pm ET",
+     "office": false,
+     "note": "Company Notes now list where the cleaning kit lives: cleaning supplies under the kitchen sink, vacuum and Swiffer in the front closet.",
+     "quote": "Cleaning supplies: under kitchen sink"
     }
    ],
    "dormant": false
