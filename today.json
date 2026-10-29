@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T12:20:19-04:00",
+ "generated": "2026-10-29T14:35:51-04:00",
  "date": "2026-10-29",
  "label": "Oct 29, 2026",
  "clients": [
@@ -71,13 +71,6 @@
      "sort": "1700",
      "staff": "Tiarra Roberts",
      "service": "New Client Consultation",
-     "pets": "Baxter (dog), Rosie (dog), Roxie (cat), Buttons (cat), Nugget (hamster)"
-    },
-    {
-     "time": "5:00 PM",
-     "sort": "1700",
-     "staff": "Yasmeen Abrams",
-     "service": "Client Consultation with a Team Member",
      "pets": "Baxter (dog), Rosie (dog), Roxie (cat), Buttons (cat), Nugget (hamster)"
     },
     {
@@ -243,5 +236,5 @@
    ]
   }
  ],
- "visitCount": 22
+ "visitCount": 21
 }
