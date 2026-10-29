@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T18:20:05-04:00",
+ "generated": "2026-10-29T19:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -957,6 +957,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 29",
+     "source": "Elizabeth Sigler visit report, Oct 29 2:50 PM",
+     "office": false,
+     "note": "Chloe had a wheezing and coughing fit during the Oct 29 early-afternoon visit. The sitter found her asleep upstairs in the office, carried her down, and the fit started while the sitter was putting shoes on in the breezeway. The sitter sat with her a minute until she settled, then harnessed her and took her out. This is the same carry-then-wheeze sequence reported on Oct 27. On the walk Chloe peed quickly and wanted to go straight back in, but then did well in the backyard with harness and leash on.",
+     "quote": "I noticed that Chloe was having a wheezing and coughing fit."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 27",
      "source": "Alex Miller visit report, 9:54 AM",
      "office": false,
@@ -1062,16 +1072,6 @@
      "office": false,
      "note": "On the Oct 14 walk Chloe repeatedly tried to go into the road. One sitter's single observation, so it is not recorded as a standing rule, but it is a road-safety matter for the next walk.",
      "quote": "During the walk she did lots of sniffing and kept trying to go into the road"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Aug 31",
-     "source": "Client message from Melody Siska, Aug 31 5:00 pm",
-     "office": false,
-     "note": "Ellie Mae has died. Melody told the office on the afternoon of Aug 31. Only Chloe remains on visits from now on. Do not ask after Ellie Mae or expect her at the house; earlier standing notes about minimising her walking no longer apply.",
-     "quote": "our sweet ellie passed away today."
     }
    ],
    "dormant": false
@@ -6265,6 +6265,16 @@
      "quote": "Use eye drops (left cabinet above stove/next to stove) if eye is goopy, if she lets you"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Client message, Oct 29 4:45 PM",
+     "office": true,
+     "note": "OFFICE DECISION NEEDED. Client asks whether the sitters can stop sending her the routine visit updates and only message when something is wrong. She frames it as saving the sitters time and says she does appreciate them. This is a request, NOT an agreed rule - nothing in the mail shows an answer, so sitters should keep reporting as normal until the office replies. Note the standing concern on this account is the opposite: reports here have repeatedly failed to mention Louise/Weezie's eye drops, so cutting reports down would remove the only record that the drops were given.",
+     "quote": "Would you guys be OK if I said you do not have to give them to us anymore unless something wrong?"
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -7421,6 +7431,16 @@
      "office": true,
      "note": "Client then asked to move today's visit from the early slot to the late afternoon slot; husband is home but leaves around 2 and returns at 7. She named Dan, said she can feed them herself, and offered to pay extra. Thanked the office at 12:06 PM; the schedule change itself is not visible in the mail.",
      "quote": "Just any time during the late afternoon slot. He’s leaving around 2 and won’t be home until 7."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Dan Dantimo messages, Oct 29 4:46 PM and 5:28 PM",
+     "office": false,
+     "note": "RESOLVED - the Oct 29 slot swap happened. Dan Dantimo messaged at 4:46 PM that he was on his way and would arrive by 5:00, and filed the visit report at 5:28 PM. He saw Mary at the house and reports both Sasha and Calvin walked fine. That closes the two open Oct 29 schedule questions: the same-day walk was covered and it ran in the late-afternoon slot the client asked for, not the early one.",
+     "quote": "Hi Mary, great to see you and I hope you feel better."
     },
     {
      "cat": "health",
