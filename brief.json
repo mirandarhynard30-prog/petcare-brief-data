@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T23:20:05-04:00",
+ "generated": "2026-10-29T11:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -909,16 +909,6 @@
      "office": true,
      "note": "Client cancels tomorrow's (Oct 12) walk - she is taking the day off work. Needs confirming and the visit pulling off the schedule. Message is signed 'Carol' though the account is Angela Jozsa; unclear which name is the person writing.",
      "quote": "we will not need a walker for tomorrow. I am going to take the day off work."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Angela Jozsa private message, 9:24pm",
-     "office": true,
-     "note": "Client cancels Thursday Oct 8 - says they will not need Margaret tomorrow - and asks instead for TWO visits on Friday Oct 9, suggesting roughly 10 or 11am and 2pm. Times are her suggestion, not confirmed. Needs an office reply and the Friday visits built.",
-     "quote": "We won’t need Margaret tomorrow but would she be able to come twice on Friday?"
     },
     {
      "cat": "health",
@@ -2327,6 +2317,16 @@
     "Daffodil"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Kristin Brewer client message, 9:54 AM",
+     "office": false,
+     "note": "Oliver was seen by the vet the morning of Oct 29 and is on a bland diet for the next couple of days. No treats at all when the pups are taken out. Client asks to be told if he has trouble going to the bathroom or if there is blood in his stool. Sitter Shannon Anderson acknowledged at 9:56 AM and agreed to report anything.",
+     "quote": "put on a bland diet for the next couple of days. Please don’t give him any treats"
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -3839,16 +3839,6 @@
      "quote": "but definitely still pulls a lot when walking."
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Client message 5:53pm",
-     "office": true,
-     "note": "Roseann says she will be at the dentist next Wednesday afternoon - that is Oct 14 - and has set out how the sitter gets in and where the leash and treats will be. Those arrangements are in her Time To Pet message and are deliberately not written here. Julie says she is not sure whether she or Dan has next week, so the cover needs confirming.",
-     "quote": "I will be at the dentist next Wednesday afternoon"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -3867,16 +3857,6 @@
      "office": false,
      "note": "Muffy's leash and treats are kept in the hall closet. Leftover treats are to go back in the closet after the visit.",
      "quote": "Left over treats should be returned to the closet."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Julie Smith message 5:56pm",
-     "office": false,
-     "note": "After the Oct 7 visit Julie left the bag of treats on the counter instead of putting it back in the hall closet, and told Roseann she would put it in the closet with the leash next time. The next sitter should check whether the bag is still out.",
-     "quote": "Next time I’ll remember to out in the closet with the leash."
     },
     {
      "cat": "behavior",
@@ -3917,16 +3897,6 @@
      "office": false,
      "note": "Muffy pulls on leash. Dan Dantimo worked on heel with treat rewards and suggests trying the harness next time. This is the sitter's suggestion, not a client instruction - confirm with the client before switching.",
      "quote": "Perhaps next time we can try the harness, it could help with the pulling"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Julie Smith visit report 5:03pm",
-     "office": false,
-     "note": "On the Oct 7 walk Muffy's first stool was solid and normal and the second was solid with a little mucus.",
-     "quote": "Her first number two was solid and normal, her second one was solid and just a little bit of mucus."
     }
    ],
    "dormant": false
@@ -5072,16 +5042,6 @@
      "quote": "She seemed to be walking fine so i did not give her any pills"
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Robin Lewis visit report 11:13am",
-     "office": false,
-     "note": "Robin Lewis found no drinking water in the refrigerator on the Oct 7 late-morning visit and used bottles found on the floor of the food pantry instead; she fed Lilly and refilled the bowl. Client was home during the visit. Unclear whether the pantry location is a temporary spot or where water is now kept - worth confirming before the next visit.",
-     "quote": "There was no water in the refrigerator, but I did find some on the floor in your food pantry."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -5329,16 +5289,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Client message 9:23am",
-     "office": true,
-     "note": "Asks whether today's second walk can move from 7:30pm to 6:00pm - she says roughly 4-5 hours after Ashley's visit - and will be home before 8:00pm. She is fine keeping 7:30 if 6:00 does not work, but someone has to answer her today. The message arrived via text message.",
-     "quote": "Is there any chance you would be available at 6:00pm for the second walk?"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -5397,16 +5347,6 @@
      "office": false,
      "note": "Half a cup of kibble per dog, AM and PM. If morning food is untouched, top with cheese or meat to entice rather than replacing it. Send an ETA in case Karen's friend is there resting.",
      "quote": "Each dog gets 1/2 cup kibble in AM and PM"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Ashley Corall 1:24pm",
-     "office": true,
-     "note": "Sitter asked the office/client whether Rosie normally makes a snorting noise when excited. No answer sent yet. Unclear from the message whether it was a one-off or something Ashley saw repeatedly.",
-     "quote": "does Rosie a little snorting thing when she gets excited?"
     },
     {
      "cat": "health",
@@ -6245,16 +6185,6 @@
      "quote": "Our house cleaning team comes tomorrow and then every other Thursday so you can mark those as days not to come"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Client message, Oct 7 7:45 AM",
-     "office": true,
-     "note": "In the same message the client says she is home on October 16 and does not need that day either. The Oct 16 visit needs cancelling in Time To Pet.",
-     "quote": "Also, I am home on October 16 so we won’t need that day either."
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -6324,16 +6254,6 @@
      "office": true,
      "note": "Bailey's Current Care Notes emptied. Lost: twice a day, morning and late afternoon/evening, time varies; one blue scoop from the bin under the coffee bar; refresh water at feeding; may eat little when owners are away, or want more - some days 3-3.5 scoops. No portion or schedule for Bailey now recorded anywhere.",
      "quote": "She gets one blue scoop of food from the food bin under the coffee bar in the kitchen."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 7",
-     "office": true,
-     "source": "Tiarra Roberts visit report 11:18am",
-     "note": "Tiarra Roberts, shadowing Monica Hopewell, reports Oakley was put back in his crate at the end of the Oct 7 morning visit. This runs against the client's Oct 5 request that Oakley be left out of his crate. Office should confirm the standing instruction with the client and make sure every sitter on this house has it.",
-     "quote": "We put Oakley back inside his crate."
     },
     {
      "cat": "behavior",
@@ -6906,16 +6826,6 @@
      "office": false,
      "note": "Medication now on record: Trazadone for anxiety, one pill AM and one pill PM, given in cheese whiz. Earlier Oct 8 note only said medication if possible from a pill case; this is the specific instruction.",
      "quote": "1 pill AM/1pill PM in cheese whiz"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 7",
-     "source": "Client message 10:41pm Oct 7",
-     "office": true,
-     "note": "Gina wrote that her mom is moving to Heritage Crossing in Akron, OH. No move date given and no pet named; the full street address is in her Time To Pet message. Office needs to confirm when the move happens and update the service address before the next visit, and tell the assigned sitter.",
-     "quote": "Mom is moving to Heritage Crossing"
     },
     {
      "cat": "home",
