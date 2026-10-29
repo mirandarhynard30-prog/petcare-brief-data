@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T13:20:07-04:00",
+ "generated": "2026-10-29T14:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -924,21 +924,21 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 27",
-     "source": "Chrissy George visit report, 12:17 PM",
-     "office": true,
-     "note": "On today's midday walk Chrissy George reported Lucy repeatedly scooting her rear on the ground, and that Lucy sat down as soon as she got outside and took a minute to start walking. Lucy went #1 but not #2. No vet, medication or client reply is mentioned anywhere in this mailbox. Worth the office raising with the client.",
-     "quote": "She'll does keep scooting her butt on the ground."
+     "date": "Oct 29",
+     "source": "Margaret Bill visit report, Oct 29 12:37 PM",
+     "office": false,
+     "note": "On the midday walk Lucy did go #2, but Margaret describes it as only a little bit and fairly loose, and the visit report's consistency field records diarrhea with the pet otherwise seeming fine. Lucy was bright, ate all her treats and was happy to see Margaret. Separate from the Oct 27 scooting report, which is still unanswered in this mailbox.",
+     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
     },
     {
-     "cat": "schedule",
+     "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 27",
-     "source": "Angela Jozsa private message, 2:37 PM",
-     "office": true,
-     "note": "Client (signs as Carol) asks by private message at 2:37 PM to ADD a 4:00 PM walk for Lucy tomorrow, Wednesday Oct 28. She sent \"Thanks Miranda!!\" at 3:59 PM, so the office appears to have replied, but nothing in the mailbox confirms the extra 4 PM visit was actually put on Wednesday's schedule - verify it exists before closing this out.",
-     "quote": "I am wondering if there’s anyway that we can add a 4 o’clock walk in for tomorrow."
+     "date": "Oct 29",
+     "source": "Client message (signed Carol), Oct 29 1:02 PM",
+     "office": false,
+     "note": "Client replied to Margaret's report. She was surprised by the loose stool, says Lucy ate very well yesterday, and offers a possible cause - she shared some hamburger with her. She does not ask for anything or mention a vet.",
+     "quote": "I am surprised she had a loose stool. She ate very well yesterday, but I did share some hamburger with her"
     }
    ],
    "dormant": false
