@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T12:35:06-04:00",
+ "generated": "2026-10-29T13:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2348,6 +2348,36 @@
      "quote": "I think just Thursday for now, typical lunch time - if that works."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Shannon Anderson visit report 12:30 PM",
+     "office": false,
+     "note": "Oliver walked his usual route and went #1 only, no #2 on this visit; lots of marking and sniffing. Damp belly band swapped for a fresh one, left on the laundry room floor. Daffodil also went #1 only.",
+     "quote": "He only went #1. He did do a lot of marking and sniffing."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Shannon Anderson visit report 12:30 PM",
+     "office": false,
+     "note": "Daffodil would not let Shannon put her harness on, so Shannon clipped the leash to her collar instead and walked her that way. Shannon is still new to her.",
+     "quote": "She's still not used to me, so she wouldn't let me put her harness on"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Shannon Anderson follow-up message 12:56 PM",
+     "office": false,
+     "note": "Shannon's handling note for Daffodil after that walk: move slowly and talk her through what you are doing. One sitter's observation from a single visit, not yet a confirmed standing rule.",
+     "quote": "I noticed she really doesn't like quick or sudden movements so I talked her through what I was doing and moved slowly."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2366,6 +2396,16 @@
      "office": false,
      "note": "A sitter confirmed she will watch for lawn-chemical warning signs; the client's original caution is not in this thread.",
      "quote": "I will be aware of the yard chemical signs."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Shannon Anderson visit report 12:30 PM",
+     "office": true,
+     "note": "Recycling had been collected, so Shannon brought the can up to the garage but did not know where it belongs and left it in front of the garage door. She also asked Kristin whether to use the sink or the fridge dispenser to refill the water pitcher. Both questions are unanswered in the mail.",
+     "quote": "I wasn't exactly sure where it went so I left it in front of the garage door."
     }
    ],
    "dormant": false
