@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T16:20:07-04:00",
+ "generated": "2026-10-29T18:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6524,7 +6524,13 @@
   {
    "name": "Ellen Krane",
    "url": "https://www.timetopet.com/dashboard/client/sr0flyHHcY5f",
-   "pets": [],
+   "pets": [
+    "Baxter",
+    "Rosie",
+    "Buttons",
+    "Nugget",
+    "Roxie"
+   ],
    "items": [
     {
      "cat": "schedule",
@@ -6545,6 +6551,26 @@
      "office": true,
      "note": "Second ask for Thanksgiving cover and still nothing confirmed back to her. Ellen says she wrote several weeks ago and never got an answer, and has now sent the exact schedule she needs: Wed Nov 25 - 10am let out, 4pm feed and out, 9pm let out; Thu, Fri and Sat - 8am feed and out, 4pm feed and out, 9pm let out; Sun Nov 29 - 8am feed and out, 4pm feed and out. She notes they should be home before 9pm, and Sunday's list has no late visit. Two dogs, two cats and a hamster. Needs a yes or no from the office.",
      "quote": "I never received a confirmation that you could do this."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 29",
+     "source": "Michelle Carrara visit report",
+     "office": false,
+     "note": "Michelle Carrara photographed where things are located at the house and attached the photos to her Oct 29 post-visit report, then sent a second message adding a few more pictures for reference. A sitter arriving here for the first time should open that Oct 29 report for the location photos rather than hunting.",
+     "quote": "just adding a couple of extra pictures for our reference"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Michelle Carrara visit report",
+     "office": true,
+     "note": "The meet-and-greet happened on Thursday Oct 29 - Michelle Carrara met Ellen and confirmed the pet roster as Baxter, Rosie, Buttons, Nugget and Roxie, five pets. She signed off telling Ellen to enjoy her trip, so travel looks imminent, but the email gives no dates. The three unanswered Thanksgiving cover requests from Oct 22, 23 and 25 are still the open office item and nothing in this report answers them.",
+     "quote": "We are looking forward to taking care of Baxter, Rosie, Buttons, Nugget and Roxie"
     },
     {
      "cat": "schedule",
