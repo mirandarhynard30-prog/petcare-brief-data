@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T11:05:14-04:00",
+ "generated": "2026-10-30T12:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -532,6 +532,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 30",
+     "source": "Margaret Bill visit report, Oct 30 11:14 AM",
+     "office": false,
+     "note": "Margaret Bill's Oct 30 late-morning walk: Gordy went #1 many times and #2 once, and the consistency field was answered a little loose but not concerning. That is another loose-stool reading after Oct 20, Oct 22 and Oct 26 - four separate days inside the window now. Margaret adds he was a lot calmer than yesterday and that they did the usual route plus South Oakmont.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 26",
      "source": "Margaret Bill morning walk report, Oct 26 11:50 AM",
      "office": false,
@@ -637,16 +647,6 @@
      "office": false,
      "note": "First time the client's own pill method is reported working: Kathy Pastor gave Sampson his half pill with Mixed Grill wet food on top and bottom and he took it straight away. This is the alternative to crushing it into the Churu, which Renee Dougherty did on Oct 9. Two methods have now each worked once and nobody has said which to standardise on.",
      "quote": "I just gave him his pill with mixed grill on top and bottom and he ate it!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Kathy Pastor visit report, 9:30am",
-     "office": false,
-     "note": "Oct 10 morning visit: two #2 spots in the dining room, plus two #2 and some #1 in the litter box. The sitter also felt something damp by one of the pee pads in the dining room and cleaned it. No urine on the hard floors. He ate his full meal, took the pill, and was drinking water when she left.",
-     "quote": "There were two number two spots in the dining room"
     }
    ],
    "dormant": false
