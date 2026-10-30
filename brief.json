@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T12:20:06-04:00",
+ "generated": "2026-10-30T12:35:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -384,14 +384,14 @@
      "quote": "Trigger for Puck loud noises run for bldg."
     },
     {
-     "cat": "behavior",
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 29",
+     "date": "Oct 30",
      "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "Workaround now in use for the collar that was tightening on its own: on the Oct 29 late-morning visit Margaret Bill walked Rusty on his other collar instead, saying it sounded like the first one was getting tight. Both dogs went out, Rusty's #2 was very firm, both got water and a treat. Nothing in this report says the tightening collar has been checked or replaced, so the other collar remains the one to use.",
-     "quote": "I took Rusty out using his collar since it sounded like the other collar was getting tight."
+     "office": true,
+     "note": "Oct 30 late-morning visit: Margaret reports Rusty's collar again took a while to get on. Sitter-side difficulty with the collar, not a stated injury; the collar replacement is still an open office item.",
+     "quote": "It took me a little while to get Rusty's collar on."
     }
    ],
    "dormant": false
@@ -4500,6 +4500,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 30",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Jaxson went #2 in the backyard on the Oct 30 visit, after none was logged on Oct 29; Dan answered the consistency question \"It was a little loose but not concerning\".",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 30",
+     "source": "Dan Dantimo visit report",
+     "office": true,
+     "note": "Oct 30 visit: alarm was armed on arrival and Dan disarmed it without trouble, but he deliberately left it unset on departure, securing the house instead. Unclear whether that is the standing instruction for this home - worth confirming with Christi.",
+     "quote": "I did not set it when I left, just made sure the house was secure"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 29",
      "source": "Thomas Rakovec visit report 11:41 AM",
      "office": false,
@@ -4575,26 +4595,6 @@
      "office": false,
      "note": "Standing toileting detail from the client: Jaxson will not poop anywhere except his own yard or backyard, and she says Angelo does not usually get him to poop in the morning, so she assumes he really needs to go by the time the sitter arrives. Angelo is not one of the pets on record, so it reads as someone in the household rather than another animal - unconfirmed either way. Backs up her Oct 13 point that a 1:00pm arrival is late for him.",
      "quote": "he's such a funny pooper he doesn't like to poop anywhere but his yard or his backyard"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Dan Dantimo visit report 1:10 PM",
-     "office": false,
-     "note": "Jaxson's #2 on the 1:10 PM walk was logged as a little loose but not concerning. No other sign of illness in the report and the sitter does not mention it in his narrative. Quote left out deliberately: the same stock phrase was logged for another client today and an identical quote would be de-duplicated away.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Dan Dantimo visit report 1:10 PM",
-     "office": false,
-     "note": "Jaxson was excitable on the 1:10 PM walk - the sitter describes him as anxious and hurrying to the next smell - and when two dogs came into view he turned the walk around rather than go round the block as intended. Jaxson tired a little heading home but greeted two passers-by without trouble.",
-     "quote": "I decided to turn around and still get a good walk in"
     }
    ],
    "dormant": false
