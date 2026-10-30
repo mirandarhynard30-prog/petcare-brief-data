@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T13:20:07-04:00",
+ "generated": "2026-10-30T14:20:09-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3752,6 +3752,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 30",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Guinness (Deb Ward): Oct 30 midday walk - stool logged again with the form option \"It was a little loose but not concerning\". Otherwise a normal visit: excited on arrival, went #2 right away and #1 on the walk, walked well, took treats.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 28",
      "source": "Visit report from Dan Dantimo",
      "office": false,
@@ -3847,16 +3857,6 @@
      "office": false,
      "note": "The Oct 15 report's home-securing field says the client was home during the visit and asked that the door not be locked. Recorded from one report only - whether this is a standing request or just for today is not stated.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Sitter report 12:12pm",
-     "office": false,
-     "note": "Guinness was happy to see Dan but did not want to walk. Stalled over something in the grass, then only did the short block via Pembrooke instead of the Commons and wanted to come home. Fine once moving. One instance, not a pattern.",
-     "quote": "he just didn't seem to be in the mood to walk"
     }
    ],
    "dormant": false
@@ -6319,6 +6319,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 30",
+     "source": "Elizabeth Sigler visit report",
+     "office": true,
+     "note": "Flacko (Brandon Keyes): on the Oct 30 park walk he dripped light brown liquid diarrhea every time he squatted, looked to be straining hard, and did a lot of poop scooting in the grass; the sitter suggested possible constipation. She answered the stool-consistency question with the option that says the pet does not seem well and she has reached out to management for guidance, so the office owes her a reply.",
+     "quote": "Every time he squatted down to poop, he’d just drip light brown liquid diarrhea."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -6337,6 +6347,16 @@
      "office": false,
      "note": "First behavior profile for this brand new client, written into Company Notes on Sep 15. The dog is NOT dog friendly and IS an escape risk. Listed triggers are German Shepherds or Shepherd-looking dogs, and car toppers. Allergies recorded as N/a. Treat as a solo walk and keep well clear of other dogs.",
      "quote": "Escape risk: Yes"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 30",
+     "source": "client message to office",
+     "office": false,
+     "note": "Flacko (Brandon Keyes): about two minutes after the visit report the client replied that Flacko had also been unwell earlier the same morning and that he would keep an eye on him, so the walk was not the first episode of the day.",
+     "quote": "He wasn’t feeling too well this morning either"
     },
     {
      "cat": "behavior",
@@ -6417,26 +6437,6 @@
      "office": false,
      "note": "Mail was brought in and left on the kitchen island, but a Rock Auto box under the mailbox was too heavy for the sitter to move and was left outside. No later report says it was brought in.",
      "quote": "The box under the mailbox was a little heavy for me to try and move so I left it there."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Elizabeth Cuffari visit report, Oct 13 1:14pm",
-     "office": false,
-     "note": "Flacko had two #2s on the Oct 13 midday walk, both still loose but improving - the sitter explicitly contrasts them with the watery stool of the last few visits, and the report's consistency field reads 'a little loose but not concerning'. Follows the Oct 9 almost-watery reading. He otherwise seemed well, walked a mile, ate treats and drank.",
-     "quote": "which were still sort of loose but not watery like the last few times"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Elizabeth Cuffari visit report, Oct 13 1:14pm",
-     "office": false,
-     "note": "Second reported reaction to a pizza delivery car, after the Oct 3 walk. Flacko barked at a Domino's delivery car on the Oct 13 walk. Consistent with the car-toppers trigger already on his behavior profile - two separate sightings now, by two different sitters.",
-     "quote": "We did encounter a Domino’s delivery car, and he had to let it know who was boss."
     }
    ],
    "dormant": false
