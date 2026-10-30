@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T20:20:06-04:00",
+ "generated": "2026-10-30T06:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -376,22 +376,22 @@
     {
      "cat": "behavior",
      "sev": "high",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Margaret Bill midday report",
-     "office": false,
-     "note": "First thing any sitter has reported working for getting Rusty's collar on: Margaret Bill gave Rusty a bone while putting the collar on, then got treats and took Rusty out. She describes Rusty as surprisingly mellow. Rusty went #1 and #2 and the stool was firm. One visit only, so this is one sitter's result rather than an established rule.",
-     "quote": "I gave him a bone while I put his collar on"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
      "type": "standing",
      "date": "Oct 8",
      "source": "Company Notes rewrite 11:37am",
      "office": false,
      "note": "The Oct 8 Company Notes rewrite adds walking and handling detail that was not there before: loud noises make Puck run for the building, Puck walks beside you, Rusty pulls like a puppy, the two may be taken out separately, and the dogs will be in the back left bedroom.",
      "quote": "Trigger for Puck loud noises run for bldg."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 29",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Workaround now in use for the collar that was tightening on its own: on the Oct 29 late-morning visit Margaret Bill walked Rusty on his other collar instead, saying it sounded like the first one was getting tight. Both dogs went out, Rusty's #2 was very firm, both got water and a treat. Nothing in this report says the tightening collar has been checked or replaced, so the other collar remains the one to use.",
+     "quote": "I took Rusty out using his collar since it sounded like the other collar was getting tight."
     }
    ],
    "dormant": false
@@ -515,16 +515,6 @@
      "office": false,
      "note": "Sitter Thomas Rakovec replied five minutes later telling Liz to get better and that he will see the dogs Monday. Read with her 10:00am message this points to today's visit being dropped and the next one on Monday, but that is the sitter's wording, not an office confirmation, and nothing in this mailbox closes it out. His wording implies she is unwell; her own message does not say so.",
      "quote": "It's ok ..you just get better see the guys Monday"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Client message, Oct 8 7:29am",
-     "office": true,
-     "note": "Liz messaged at 7:29am to cancel the dogs' visit for today. A portal Service Change notice at 7:40am shows the cancellation covering today's Thu Oct 8 11:00-11:45 AM Dog Visit-45 minute for Stella, Berry and Emma; Louie is not named on that notice. Office needs to process the request and confirm back to her. This is the fourth same-day cancellation from her in this mailbox after Sep 18, Sep 24 and Sep 25.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -3727,26 +3717,6 @@
      "office": false,
      "note": "Oct 9 morning walk (Thomas Rakovec): Archie went #1 but had no bowel movement - the report's consistency field reads No #2 today. Adds to the no-#2 walks already on file (Sep 1, Sep 30, Oct 2). Ray was home for this visit so the sitter did not go in. Supplies were marked not low on this report, which does not by itself settle the Oct 8 out-of-poop-bags flag.",
      "quote": "No #2 today"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts visit report, Oct 8 10:02am",
-     "office": false,
-     "note": "First visit for Tiarra, shadowing Julie Smith. Archie was hesitant about leaving the apartment and needed a moment before coming out, then warmed up over the visit and walked the usual route, going #1 and #2 (firm). Allow extra time at the door with a new sitter.",
-     "quote": "Archie was a little hesitant to leave the apartment, but he did come out."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts visit report, Oct 8 10:02am",
-     "office": true,
-     "note": "Poop bags are out - the sitter used the last bag on the leash this morning and flagged supplies as low. The next sitter needs to bring their own bags, and the office should sort out a restock with Ray.",
-     "quote": "We used the last poop bag on the leash."
     }
    ],
    "dormant": false
@@ -4038,16 +4008,6 @@
      "office": false,
      "note": "The food taken out of Freddy's bowl was bagged and left in the fridge, so there is a half can in a baggy plus a bag of food there for his next feeding.",
      "quote": "so he has a can in a baggy and whole bag of food as well in the fridge"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Jade Popovitz visit report, 10:59am",
-     "office": false,
-     "note": "A guest was in the home at the 10:40am visit and told the sitter that Marcia and Freddy were asleep and that food and water had already been done. The sitter changed the litter quietly and did not verify food and water herself, so that is second-hand and not confirmed.",
-     "quote": "When I came in I was greeted by a guest who told me Marcia and Freddy were fast asleep together."
     },
     {
      "cat": "home",
@@ -4426,16 +4386,6 @@
     },
     {
      "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts access-instruction updates, 11:54am and 2:11pm",
-     "office": true,
-     "note": "Her Access Instructions have now been edited four times today, and the garage entry value currently stored is the SAME value as the front door lockbox - it was a different value this morning. Two sitters failed to get in by the intended route at the midday visit, so this needs verifying against the real garage keypad before the next visit. The codes themselves are deliberately not recorded here.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
      "sev": "medium",
      "type": "standing",
      "date": "Oct 13",
@@ -4443,26 +4393,6 @@
      "office": false,
      "note": "The kitchen patio sliding door rule changed wording. It read: if closed, close it again before leaving if you opened it. It now reads: if closed, keep closed. The line saying the dog may play in the patio area was dropped.",
      "quote": "If closed, keep closed"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts visit report, 12:36pm",
-     "office": false,
-     "note": "Access trouble on the midday visit: the lockbox gave trouble, so the sitters came in through the front door. The key was put back in the lockbox at the end. Entry codes in the report were deliberately left out of this brief.",
-     "quote": "We had a little trouble with the lockbox. We entered through the front door."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Noella Assi visit report, 12:39pm",
-     "office": false,
-     "note": "Second access problem on the same afternoon visit, reported separately: the garage would not open, so they went in through the front door. She also notes the garbage bins are not empty.",
-     "quote": "Garage was not opening so we went thru the front door."
     },
     {
      "cat": "behavior",
@@ -4482,16 +4412,6 @@
      "source": "Important Notes rewritten by Tiarra Roberts, 11:16am",
      "office": false,
      "note": "Second edit a minute later moved the leash location into Important Notes - laundry room by the garage or the table by the front door. Feeding unchanged: none at midday, feed at morning or evening (5-6pm).",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Client message, 12:41pm",
-     "office": true,
-     "note": "After the two access problems Fabiana wrote back with corrected garage entry details. The code itself is deliberately not recorded here - the office should put it into her Time To Pet access instructions so the next sitter is not locked out.",
      "quote": ""
     },
     {
@@ -4941,16 +4861,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Kari Majewski client message, 10:20am",
-     "office": true,
-     "note": "Kari is taking Miguel with the family to West Virginia for the holiday weekend, so she cancelled his Oct 10 visit herself in the portal, and has submitted a separate request for a house visit on Oct 10 instead. Needs processing and a reply.",
-     "quote": "We decided to take Miguel with us to WV so I cancelled his visit for 10/10."
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4979,16 +4889,6 @@
      "office": false,
      "note": "Answering the sitter's 9:15pm question about whether anything else was needed, Kari named the extras for the house visits: bring the garbage can down, and bring in mail and packages if there are any. She said nothing else is needed beyond the usual.",
      "quote": "garbage can brought down, mail and pkgs brought in if there are any"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Kari Majewski client message, 10:20am",
-     "office": true,
-     "note": "Asks whether the sitter can feed their fish during the Oct 10 house visit and offers to pay extra. Unanswered - the office needs to confirm whether fish feeding is being added before the visit is staffed.",
-     "quote": "Would it be possible for your team member to feed our fish while there?"
     },
     {
      "cat": "behavior",
@@ -7481,26 +7381,6 @@
      "office": false,
      "note": "Food bowls are kept inside the microwave because Calvin has learned to get up on the kitchen counters.",
      "quote": "Their bowls will be in the microwave because Calvin has learned how to get up on the counters."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Visit report, Dan Dantimo, Oct 8 5:29pm",
-     "office": false,
-     "note": "Both Calvin and Sasha passed stool twice on the walk and the report records the consistency for each as \"a little loose but not concerning\". First such reading for either dog in this mailbox - worth a look at the next visit, not a vet matter on one reading.",
-     "quote": "both Calvin and Sasha went number one and two(they both went twice)"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Visit report, Dan Dantimo, Oct 8 5:29pm",
-     "office": false,
-     "note": "On arrival both dogs barked from upstairs and did not come down; Dan sat on the steps to greet them and both came down, the report noting little hesitation from Sasha. One sitter's experience on one visit, not a standing rule.",
-     "quote": "I sat on the steps to greet them and both came down with little hesitation from Sasha."
     }
    ],
    "dormant": false
@@ -7604,16 +7484,6 @@
      "quote": ""
     },
     {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Visit report, Michelle Carrara, Oct 8 8:11am",
-     "office": true,
-     "note": "At the Oct 8 morning visit the sitter saw Pippa biting the cord/plug of the living room lamp, once. She asked the client whether Pippa typically does this and has had no answer yet. It is an electrical cord, so a sitter should keep an eye on it; this is the first time it appears in this mailbox, so it is a single observation and not yet a standing rule.",
-     "quote": "I noticed that Pippa was biting the cord/plug for the lamp in the living room- does she typically do this? It was only once"
-    },
-    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -7642,36 +7512,6 @@
      "office": false,
      "note": "Oct 11 morning visit: Pippa could not be found at all when the sitter arrived, so her wet-food plate was held back; she appeared later in the visit and was then fed. Polly greeted the sitter at the door and was heard by her bell first. The sitter described Pippa as a little shy that morning and wondered if she was missing the owners. Second visit in a row where Pippa has been slow to come out - still an observation, not a rule. Nobody was at the door on arrival.",
      "quote": "I did look for Pippa, to bring her a plate, but I could not find her."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Client message 6:16 AM Oct 8",
-     "office": false,
-     "note": "Client asks the sitter to bring in a large Chewy delivery expected today and leave it in the garage, back hallway or anywhere else inside. She says the box holds cat litter, delectables and wet food for the girls.",
-     "quote": "I received notification that a large Chewy package is due to be delivered today. Would you mind bringing it in once it’s delivered?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Visit report, Michelle Carrara, Oct 8 8:11am",
-     "office": false,
-     "note": "Both cats were waiting at the garage door when the sitter let herself in on Oct 8. She took care on entry so Pippa did not dart out into the garage, and Pippa did not. The published escape-risk note for this home names the front door; this is the first record in this mailbox of the same risk at the garage entry.",
-     "quote": "I was careful when I came in so Pippa didn’t dart into the garage."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Visit report, Michelle Carrara, Oct 8 8:11am",
-     "office": false,
-     "note": "At the Oct 8 morning visit Polly started on her wet food straight away and Pippa was less interested. Pippa also stayed shy and did not join the play session, watching from the sidelines. Plenty of dry food was down so none was topped off. Worth watching next to the Oct 7 evening vomit, which was never pinned to either cat.",
-     "quote": "She began eating as soon as I put the food down. Pippa was less interested."
     },
     {
      "cat": "home",
@@ -7751,26 +7591,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Chuck Garrett message, Oct 8 9:58am",
-     "office": true,
-     "note": "Chuck says he is back early around 3pm today but leaving again. He asks to keep tonight's visit and move today's AFTERNOON visit to first thing tomorrow (Oct 9). Needs an answer from the office today - the afternoon visit is still on the schedule.",
-     "quote": "maybe switch today’s afternoon visit and make it first thing tomorrow would that work?"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Thomas Rakovec message to client, 9:47pm",
-     "office": true,
-     "note": "Gracie struggled badly coming down the stairs on the Oct 8 evening visit - she stopped several times and Thomas had to physically help her or she would have fallen. He speculated arthritis; there is no diagnosis or vet contact anywhere in the mail, so this is one sitter observation, not a finding. Sitters should plan to assist her on stairs; the office should raise it with Chuck.",
-     "quote": "stopped several times and I actually had to help her or she would have fallen"
-    },
-    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7779,36 +7599,6 @@
      "office": false,
      "note": "Oct 9 morning visit: all three dogs ate their food. Gracie and Bob each went #2 and the sitter logged the consistency as a little loose but not concerning; Rebel went #1 only. This follows the Oct 8 evening visit where none of the three passed a stool.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Thomas Rakovec visit report, Oct 8 9:28am",
-     "office": true,
-     "note": "Rebel was straining hard and having difficulty passing a stool during the morning visit, per the sitter's narrative - though the same report's checkbox records Rebel's #2 as firm and healthy, so the two parts of the report disagree. The sitter also volunteered pumpkin as something he had been advised for his own dog; that is a sitter suggestion, not veterinary advice, and nothing should be added to Rebel's food without Chuck's and a vet's say-so.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Thomas Rakovec visit report, Oct 8 9:28am",
-     "office": false,
-     "note": "The basement was cleaned out this morning with bleach and dried, and fresh pee pads were put down there. This answers Chuck's Oct 7 question about checking and cleaning the basement. The sitter also wiped up water on the kitchen floor.",
-     "quote": "While they did that I cleaned up the basement."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Client message, 11:49am",
-     "office": true,
-     "note": "Chuck replied thanking us for the flexibility after his 9:58am request to keep tonight's visit and move today's afternoon visit to first thing Friday Oct 9. That reads as the swap being agreed, but no confirmation from the office appears in this mailbox, so the scheduler still needs checking against it.",
-     "quote": "OK, great thank you guys for your flexibility!"
     },
     {
      "cat": "home",
@@ -7829,16 +7619,6 @@
      "office": false,
      "note": "Follow-up clarification from Chuck the same afternoon: pee pads are fine for an accident elsewhere in the house - the no-pads rule applies only to the basement, which gets hosed anyway.",
      "quote": "if there’s an accident somewhere else in the house, the pads are fine, but the basement floor ends up being hosed anyways"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Client message, Oct 8 5:30pm",
-     "office": false,
-     "note": "Chuck was home this evening before leaving again and handled the dogs himself: fed at 4:30pm, last let out at 5:30pm. Relevant to tonight's nighttime visit.",
-     "quote": "I fed them at 4:30 and let them out for the last time at 5:30"
     }
    ],
    "dormant": false
@@ -7931,16 +7711,6 @@
      "office": true,
      "note": "Client confirms the Monday and Friday pattern she asked for on Oct 8 and says she may want more in winter. She also says she looks forward to meeting new team members. Her proposed start is Monday Oct 12, so the office still owes her a yes or no and a price today.",
      "quote": "Right now Mon and Friday work well. We will see what the winter brings."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 8",
-     "source": "Client private message to Miranda, Oct 8 6:00pm",
-     "office": true,
-     "note": "Returning client asking to re-engage service for Boo: Monday and Friday, 10:30am start, 20-minute walk, proposed start date 10/12/26, and she would add Wednesday in winter if it goes well. She wants to know if we are interested and what it costs, says email or phone is fine and that Boo is still healthy. Her callback number is in the Time To Pet message. No reply sent yet and the proposed start is this coming Monday.",
-     "quote": "I am looking for Monday and Friday starting at 10:30 for a 20 minute walk."
     },
     {
      "cat": "health",
