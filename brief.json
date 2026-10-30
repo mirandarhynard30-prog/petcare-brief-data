@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T17:20:05-04:00",
+ "generated": "2026-10-30T18:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8192,7 +8192,8 @@
    "url": "https://www.timetopet.com/dashboard/client/tn9zy9mw16VS",
    "pets": [
     "Chloe",
-    "Garret"
+    "Garret",
+    "Garrett"
    ],
    "items": [
     {
@@ -8207,6 +8208,16 @@
     },
     {
      "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Chloe pet record, Current Care Notes (text the client had written, replaced Oct 30 5:00 PM)",
+     "office": false,
+     "note": "Chloe handling, as the client wrote it: a Mini Doodle, 2 turning 3 in December, high energy. Crate trained and she will be in the crate when you arrive. She gets excited at the door on the way out; the client takes the stairs going out and the elevator coming back, sitters may use either. On lead she pulls - stop and turn around every time; if she spots a squirrel, hold on. Poop bags hang on the lead. She will usually pee but may not poop. At the door the client removes the lead, puts the key in - sometimes the key has to stay in to open the door - and says Ready, Set ... Go.",
+     "quote": "On lead she may pull, I stop and turn around every time she pulls."
+    },
+    {
+     "cat": "behavior",
      "sev": "medium",
      "type": "standing",
      "date": "Oct 30",
@@ -8214,6 +8225,26 @@
      "office": false,
      "note": "Important Notes fully rewritten Oct 30 (the old note was the short intake text). Chloe is crated: after the walk put her back in the crate by snapping fingers. Purple leash hangs next to the front door; extra poop bags on top of the fridge.",
      "quote": "Chloe will be in crate, put her back inside, after walk, by snapping fingers"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated details for pet Chloe (Client: Karen Grosser), 5:00 PM",
+     "office": true,
+     "note": "At 5:00 PM Chloe's Current Care Notes field was overwritten with the single line Gets excited about kids, deleting the client's full handling paragraph that is preserved in the item above. Allergies went from NONE YET to NONE and the microchip field was cleared in the same edit. This is the fourth note rewrite this week that replaced a whole field rather than editing it. If the trim was not intended, the crate, leash and door routine need restoring in Time To Pet.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts added Garrett as pet for Karen Grosser, 4:41 PM",
+     "office": true,
+     "note": "A second pet, Garrett, was added to Karen Grosser's account at 4:41 PM by Tiarra Roberts. The notification carries only the name - no species, age, feeding or handling detail is on file, so a sitter walking in has an unidentified second animal in the home. Needs filling in before the next visit.",
+     "quote": "has a new pet named Garrett"
     },
     {
      "cat": "home",
