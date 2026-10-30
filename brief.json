@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T10:05:09-04:00",
+ "generated": "2026-10-30T11:05:14-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3637,6 +3637,16 @@
      "office": true,
      "note": "11:47am rewrite cut Archie's temperament warning to four words, 'Leash hand-off at door'. Also lost: that Ray hooks him to the leash for us until he is used to us. A sitter reading the new notes has no idea why the hand-off exists.",
      "quote": "Archie is a little stand offish and will take some time to warm up to us"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 30",
+     "source": "Thomas Rakovec visit report, Oct 30 10:08 AM",
+     "office": false,
+     "note": "Oct 30 morning walk: Archie went #1 several times but had no bowel movement, and the consistency field reads No #2 today. First no-#2 walk logged since Oct 14, after firm readings on Oct 16 and Oct 23. The sitter gives no reason this time - no rain or cut-short walk is mentioned, the walk is described as a fantastic jaunt around the complex - so the office may want to keep counting. Ray had Archie ready at the door and was home during the visit, so the sitter did not go in or check the house.",
+     "quote": "Archie went #1 several times but DID'NT have a #2 we headed back and fed a few snacks"
     },
     {
      "cat": "health",
