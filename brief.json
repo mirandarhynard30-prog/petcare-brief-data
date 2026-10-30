@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T18:20:06-04:00",
+ "generated": "2026-10-30T19:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8245,6 +8245,16 @@
      "office": true,
      "note": "A second pet, Garrett, was added to Karen Grosser's account at 4:41 PM by Tiarra Roberts. The notification carries only the name - no species, age, feeding or handling detail is on file, so a sitter walking in has an unidentified second animal in the home. Needs filling in before the next visit.",
      "quote": "has a new pet named Garrett"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Karen Grosser (4:59 PM)",
+     "office": false,
+     "note": "Access Instructions are now filled in - the Oct 21 placeholder reading \"Working on this\" has been replaced. Route on arrival: enter at the green/white sign for EDUCATOR SENIOR APARTMENTS / PARMA HEIGHTS SENIOR CENTER, turn right through the glass entry doors to the elevators, then immediately left to the apartment door. Entry hardware is held on site; details stay in Time To Pet and are not repeated here. This supersedes the earlier brief item saying no usable entry instructions existed.",
+     "quote": "Turn right through glass entry doors, to elevators"
     },
     {
      "cat": "home",
