@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T19:20:09-04:00",
+ "generated": "2026-10-29T20:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6847,6 +6847,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 29",
+     "source": "Client private message 7:22 PM",
+     "office": true,
+     "note": "UNANSWERED AS OF 8 PM. Client asks by private message at 7:22 PM whether both of Friday Oct 30's visits are covered and what the weekend coverage looks like. She has asked about weekend coverage before (Oct 11 and Oct 14) and says she lines up back-up walkers herself when she does not hear back, so an answer tonight prevents duplicate coverage at the apartment.",
+     "quote": ""
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 25",
      "source": "Margaret Bill message and visit report to Gina Sullivan, Oct 25 9:17 AM",
      "office": true,
@@ -6932,16 +6942,6 @@
      "office": false,
      "note": "Important Notes now flag Sassie as an ESCAPE RISK - doors and gates must stay closed. Triggers listed as squirrels, cats and unknown people.",
      "quote": "Triggers: Squirrels, cats, unknown people"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 11",
-     "source": "Margaret Bill updated contact information for Gina Sullivan",
-     "office": false,
-     "note": "Medication now on record: Trazadone for anxiety, one pill AM and one pill PM, given in cheese whiz. Earlier Oct 8 note only said medication if possible from a pill case; this is the specific instruction.",
-     "quote": "1 pill AM/1pill PM in cheese whiz"
     }
    ],
    "dormant": false
