@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T15:20:06-04:00",
+ "generated": "2026-10-30T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3993,6 +3993,16 @@
      "cat": "home",
      "sev": "low",
      "type": "recent",
+     "date": "Oct 30",
+     "source": "Jade Popovitz left a message for Marcia Ontell",
+     "office": false,
+     "note": "On the Oct 30 evening visit Jade Popovitz found fresh wet food left sitting in the open can and moved it into the bowl so Freddy would not cut himself on the tin. Full litter change-out done the same visit.",
+     "quote": "It looks like he just got fresh food but it was still in the can"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
      "date": "Oct 22",
      "source": "Kiara Streety visit report",
      "office": false,
@@ -6453,6 +6463,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Ellen Krane",
+     "office": false,
+     "note": "Containment is the first line of the rewritten note: the hamster enclosure doors and the bedroom door both stay closed because the cats try to get in, and the lift gate keeps the dogs out of the cat area.",
+     "quote": "Keep hamster enclosure doors CLOSED and bedroom door CLOSED (cats will try to get in)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Ellen Krane",
+     "office": true,
+     "note": "The Oct 30 rewrite replaced the old feeding schedule and dropped the evening dog feeding. The old note fed the dogs twice daily, morning and evening; the new note gives each pup one scoop of dry food in the AM only and feeds the cats AM only. Ambiguous whether the PM dog feeding was meant to go - office should confirm before the weekend.",
+     "quote": "1 scoop, dry food for each pup in AM"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -6471,6 +6501,36 @@
      "office": true,
      "note": "Second ask for Thanksgiving cover and still nothing confirmed back to her. Ellen says she wrote several weeks ago and never got an answer, and has now sent the exact schedule she needs: Wed Nov 25 - 10am let out, 4pm feed and out, 9pm let out; Thu, Fri and Sat - 8am feed and out, 4pm feed and out, 9pm let out; Sun Nov 29 - 8am feed and out, 4pm feed and out. She notes they should be home before 9pm, and Sunday's list has no late visit. Two dogs, two cats and a hamster. Needs a yes or no from the office.",
      "quote": "I never received a confirmation that you could do this."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Ellen Krane",
+     "office": false,
+     "note": "Cats are fed AM only, one can of wet food split between two plates in the dining room, wet food possibly in the pantry. Two water bowls and two wet food plates sit in the dining room. Cats hide under beds and behind the recliner chairs.",
+     "quote": "AM ONLY; CATS: 1 can wet food split between 2 plates, in dining room"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Ellen Krane",
+     "office": false,
+     "note": "Dogs go out one at a time on the extend leash kept next to the glass door. Baxter's food is under the blue dish, Rosie's in the tall clear container.",
+     "quote": "Let each pup out with the extend leash(next to glass door), one at a time"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Ellen Krane",
+     "office": false,
+     "note": "Hamster is behind the first door on the left off the hallway: top up the water bottle and add a pinch of food from the white container to the donut bowl. Cheerios or yogurt drops are the treats. Close the enclosure doors afterwards.",
+     "quote": "add water to water bottle and a pinch of food (white container) to donut bowl"
     },
     {
      "cat": "home",
@@ -6511,6 +6571,16 @@
      "office": true,
      "note": "Meet-and-greet now appears settled for Thursday at 5. At 3:49 PM Ellen asked for after 4:30 pm Tuesday or Thursday so her daughter could attend; at 7:36 PM she replied confirming Thursday at 5. Thursday is Oct 29. The reply she is thanking is not visible in this mailbox, so confirm the appointment is actually on the calendar and that someone is assigned. Her separate Thanksgiving coverage request is a different thread and is not addressed by this message.",
      "quote": "Thank you! See you Thursday at 5!"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Ellen Krane",
+     "office": false,
+     "note": "Two litterboxes in the office alcove off the living room; cleaning supplies on the desk, vacuum on the wall. Poop bags and wet food cans go in the outside bin in front of the garage, dog treats on the black cabinet in the living room.",
+     "quote": "Sliding glass door: click button to unlock, press down to lock"
     }
    ],
    "dormant": false
@@ -8121,9 +8191,30 @@
    "name": "Karen Grosser",
    "url": "https://www.timetopet.com/dashboard/client/tn9zy9mw16VS",
    "pets": [
-    "Chloe"
+    "Chloe",
+    "Garret"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Karen Grosser",
+     "office": false,
+     "note": "New Company Notes carry a conditional feeding routine for Chloe: only when directed, one full Ollie wet food package from the fridge mixed well with the red spatula, plus one can of Fancy Feast. A second edit three minutes later corrected the supplement wording from Vitamin E to Vitamin E oil and from Ollie tablet to Ollie probiotic - use the later version.",
+     "quote": "ONLY IF DIRECTED: Feed 1 full Ollie package wet food, from fridge, 1/2 dropper Vitamin E oil, Pawfy, Ollie probiotic"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Karen Grosser",
+     "office": false,
+     "note": "Important Notes fully rewritten Oct 30 (the old note was the short intake text). Chloe is crated: after the walk put her back in the crate by snapping fingers. Purple leash hangs next to the front door; extra poop bags on top of the fridge.",
+     "quote": "Chloe will be in crate, put her back inside, after walk, by snapping fingers"
+    },
     {
      "cat": "home",
      "sev": "medium",
@@ -8143,6 +8234,36 @@
      "office": true,
      "note": "Karen added a pet named Chloe to her account on the same evening she filled in her own profile. The notification carries nothing but the pet's name, so there is still no species, age or care detail on file to go with the placeholder access instructions. Onboarding is incomplete on both fronts.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Karen Grosser",
+     "office": false,
+     "note": "Three water bowls - a fountain on the kitchen bar counter and one in the crate. Water comes from the fridge filter and the fridge door has to be shut hard.",
+     "quote": "use filtered water from inside fridge. Close fridge door FIRMLY"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Karen Grosser",
+     "office": false,
+     "note": "Cat care at this stop: do not touch the litterbox, and fill the cat dry food bowl on the kitchen bar counter from the grey air-tight container next to the portable dishwasher.",
+     "quote": "Leave litterbox alone"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts updated contact information for Karen Grosser",
+     "office": false,
+     "note": "Supplies per the new Company Notes: treats on the microwave in a clear air-tight container, cleaning supplies under the kitchen sink, and only the Hoover stick vacuum is to be used.",
+     "quote": "Use Hoover stick vacuum, only"
     }
    ],
    "dormant": false
