@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T00:06:17-04:00",
+ "generated": "2026-10-30T12:05:22-04:00",
  "date": "2026-10-30",
  "label": "Oct 30, 2026",
  "clients": [
@@ -88,25 +88,6 @@
    ]
   },
   {
-   "name": "Gina Sullivan",
-   "visits": [
-    {
-     "time": "9:00 AM",
-     "sort": "0900",
-     "staff": "Miranda",
-     "service": "Dog Visit-45 minute",
-     "pets": "Sassie"
-    },
-    {
-     "time": "2:00 PM",
-     "sort": "1400",
-     "staff": "Josh Stone",
-     "service": "Dog Visit-45 minute",
-     "pets": "Sassie"
-    }
-   ]
-  },
-  {
    "name": "Jessica Shouldis",
    "visits": [
     {
@@ -127,6 +108,25 @@
      "staff": "Dan Dantimo",
      "service": "Dog Visit-30 minute",
      "pets": "BooBoo"
+    }
+   ]
+  },
+  {
+   "name": "Joan- Gina Sullivan (Manages Account)",
+   "visits": [
+    {
+     "time": "9:00 AM",
+     "sort": "0900",
+     "staff": "Miranda",
+     "service": "Dog Visit-45 minute",
+     "pets": "Sassie"
+    },
+    {
+     "time": "2:00 PM",
+     "sort": "1400",
+     "staff": "Josh Stone",
+     "service": "Dog Visit-45 minute",
+     "pets": "Sassie"
     }
    ]
   },
