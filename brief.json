@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T10:20:06-04:00",
+ "generated": "2026-10-31T12:20:07-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2390,6 +2390,26 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 31",
+     "source": "Matt Konn private message, Sat 11:19 AM",
+     "office": true,
+     "note": "Client asks by private message for two visits, 10-12 and again 5-7, with dinner fed at the night visit, because he was invited to the Browns game. Nothing booked in Time To Pet and no reply sent as of 12:10 PM Saturday.",
+     "quote": "Can I get someone to stop by 10-12 & again 5-7? Dinner at the nite visit."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 31",
+     "source": "Matt Konn private message, Sat 11:20 AM",
+     "office": true,
+     "note": "Follow-up private message one minute after the visit request, specifying the request is for the following day - Sunday Nov 1.",
+     "quote": "For Tomorrow …Ha"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -2488,26 +2508,6 @@
      "office": true,
      "note": "The same-day 4-6 PM visit Matt asked for WAS covered. Tiarra Roberts filed an evening visit report at 6:37 PM: she entered through the garage, walked Ripley, fed wet and dry food, refreshed water and secured the garage door. This closes the open question from earlier today about whether the evening visit happened. She also wrote 'I enjoyed caring for Ripley, this week', which reads as the end of the current run of visits - confirm against the schedule rather than assuming.",
      "quote": "Good evening Matt, I arrived and entered through the garage."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Tiarra Roberts visit report 6:37 PM",
-     "office": true,
-     "note": "Tonight's report logs wet can food fed, dry food fed and a treat given, and makes no mention of the Dog is Human multivitamin. Whether the second daily dose was given is not recorded. This is the third evening report in a row (Oct 16, Oct 17, Oct 18) that records food but not the multivitamin, which matches the standing defect that the Important Notes line gives no time of day.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Tiarra Roberts visit report, 7:34 AM",
-     "office": true,
-     "note": "Sitter gave Ripley 2 Dog is Human multivitamins at the morning visit and says she returns around 1pm, and she also covers the late evening visit today. The Important Notes line does not say which visit the 2 vitamins belong to, so the same dose could be repeated at every visit. Office should confirm the intended daily total and which visit it belongs to before the 1:00 PM visit.",
-     "quote": "I gave her 2 Dog is Human multivitamins, as well this morning."
     }
    ],
    "dormant": false
