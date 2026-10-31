@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T13:20:05-04:00",
+ "generated": "2026-10-31T14:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3300,6 +3300,16 @@
      "quote": "Hi Lynne, on my way , should be by 100"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 31",
+     "source": "Dan Dantimo visit report, 1:49 PM",
+     "office": false,
+     "note": "Holly's #2 on today's walk was logged as slightly loose, with the sitter judging it not a concern. Worth watching on the next visit; nothing else in the report flagged, no accidents and no supplies low.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3328,16 +3338,6 @@
      "office": true,
      "note": "Holly has a grooming appointment with Tracy on the morning of Tue Oct 27. This comes from the sitter's report, not from the client, and the email does not say the time or whether Holly will be out of the house when the Tuesday visit is due. Worth confirming before the morning visit.",
      "quote": "I can't wait to see how happy she will be after her grooming appointment with Tracy tomorrow morning."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 25",
-     "source": "Tiarra Roberts post-visit report, 1:24 PM",
-     "office": false,
-     "note": "Waste disposal rule the sitter found in the client details and followed: the #2 bag is left at the front door rather than carried away or binned elsewhere.",
-     "quote": "I put the #2 bag at the front door, as directed by reading the client details."
     }
    ],
    "dormant": false
@@ -6283,6 +6283,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Oct 31",
+     "source": "Shannon Anderson visit report, 1:55 PM",
+     "office": false,
+     "note": "First normal stool recorded for Flacko since Thursday. On today's walk report the #2 consistency answer reads firm and healthy. Walk was the usual Lake Ave / Summit / Clifton route, he went #1 several times and #2, no accidents in the home and no supplies low. This is the sitter's observation only; no reply has gone out to Elizabeth Sigler's Thursday request for guidance on the earlier liquid diarrhea.",
+     "quote": "It was firm and healthy"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 30",
      "source": "Elizabeth Sigler visit report",
      "office": true,
@@ -6308,6 +6318,16 @@
      "office": false,
      "note": "First behavior profile for this brand new client, written into Company Notes on Sep 15. The dog is NOT dog friendly and IS an escape risk. Listed triggers are German Shepherds or Shepherd-looking dogs, and car toppers. Allergies recorded as N/a. Treat as a solo walk and keep well clear of other dogs.",
      "quote": "Escape risk: Yes"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 31",
+     "source": "Shannon Anderson message to client, 2:05 PM",
+     "office": false,
+     "note": "Sitter's answer to the client's question about Flacko's condition: she reported him as his normal self, enjoying the walk and prancing while crossing the street.",
+     "quote": "He seemed like his normal self that I usually get."
     },
     {
      "cat": "health",
@@ -6378,26 +6398,6 @@
      "office": false,
      "note": "At the end of today's walk Flacko would not go back past the gate into the living room. The sitter put his leash back on and walked him behind the gate to get him in. One sitter on one visit, so noted as a departure quirk rather than a standing rule.",
      "quote": "he repeatedly refused to go back in the living room and there was nothing I could do to direct him past the gate"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Shannon Anderson visit report, Oct 17 12:24 PM",
-     "office": false,
-     "note": "Oct 17 midday walk: Flacko went #1 several times and #2 twice, and the consistency field reads firm and healthy. That is the second firm report after the loose stools of Oct 9 and Oct 13.",
-     "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Shannon Anderson visit report, Oct 17 12:24 PM",
-     "office": false,
-     "note": "Mail was brought in and left on the kitchen island, but a Rock Auto box under the mailbox was too heavy for the sitter to move and was left outside. No later report says it was brought in.",
-     "quote": "The box under the mailbox was a little heavy for me to try and move so I left it there."
     }
    ],
    "dormant": false
