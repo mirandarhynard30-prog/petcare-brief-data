@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T21:20:05-04:00",
+ "generated": "2026-10-31T06:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -495,26 +495,6 @@
      "office": true,
      "note": "Louie again would not go outside on the Oct 12 visit while Stella, Berry and Emma all went out. This is the same refusal reported on Sep 29 and sits alongside his ongoing hurt leg/hip, so it is now a repeating pattern rather than a one-off. Nobody has asked Liz about it.",
      "quote": "I got everyone out except Louie, he didn't feel like it"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Client message 10:00am",
-     "office": true,
-     "note": "Liz wrote at 10:00am that she is home again today and offered two options for today's visit - Tommy walks Stella and Berry, or the appointment is cancelled. She calls it very late notice. No office answer appears in this mailbox, so the office has to pick one and confirm it back to her.",
-     "quote": "I am home again today. Since it is very late notice perhaps Tommy can take Stella and Berry for a walk"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Thomas Rakovec message 10:05am",
-     "office": false,
-     "note": "Sitter Thomas Rakovec replied five minutes later telling Liz to get better and that he will see the dogs Monday. Read with her 10:00am message this points to today's visit being dropped and the next one on Monday, but that is the sitter's wording, not an office confirmation, and nothing in this mailbox closes it out. His wording implies she is unwell; her own message does not say so.",
-     "quote": "It's ok ..you just get better see the guys Monday"
     }
    ],
    "dormant": false
@@ -901,6 +881,16 @@
      "quote": "we will not need a walker for tomorrow. I am going to take the day off work."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 30",
+     "source": "Margaret Bill midday walk report, Oct 30 1:06 PM",
+     "office": false,
+     "note": "Third datapoint on Lucy's bowels after the Oct 29 loose-stool reports. On the Oct 30 midday walk she had more energy than the day before, went #1 once and #2 twice, and ate kibble and treats. The report's consistency field was NOT answered this time, so there is no record of whether the stool was still loose - that gap is worth closing with Margaret rather than assuming it resolved.",
+     "quote": "On the way back, Lucy went number two twice."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "standing",
@@ -919,16 +909,6 @@
      "office": false,
      "note": "On the midday walk Lucy did go #2, but Margaret describes it as only a little bit and fairly loose, and the visit report's consistency field records diarrhea with the pet otherwise seeming fine. Lucy was bright, ate all her treats and was happy to see Margaret. Separate from the Oct 27 scooting report, which is still unanswered in this mailbox.",
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Client message (signed Carol), Oct 29 1:02 PM",
-     "office": false,
-     "note": "Client replied to Margaret's report. She was surprised by the loose stool, says Lucy ate very well yesterday, and offers a possible cause - she shared some hamburger with her. She does not ask for anything or mention a vet.",
-     "quote": "I am surprised she had a loose stool. She ate very well yesterday, but I did share some hamburger with her"
     }
    ],
    "dormant": false
@@ -1819,25 +1799,6 @@
      "office": false,
      "note": "Construction crew is occupying the driveway again as of Oct 26, so driveway parking is unavailable. Duration not stated.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Tiarra Roberts visit report",
-     "office": false,
-     "note": "On the Oct 9 late-morning walk Astra went #1 and #2, and the report's consistency field was answered 'It was a little loose but not concerning' - quote field left empty on purpose because the de-duplication key collides with another client's identical Oct 9 form phrase. First loose-stool reading for Astra in this mailbox. Nothing else off: she walked well, sniffed a lot, slowed her pace on the way back.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Tiarra Roberts visit report",
-     "office": true,
-     "note": "Sitter used the last poop bag on Astra's leash during the Oct 9 walk and answered Yes to pet supplies getting low. The leash bag holder needs refilling before the next visit. Same visit also notes the client was home during the visit and asked that the door not be locked."
     },
     {
      "cat": "behavior",
@@ -3717,16 +3678,6 @@
      "office": false,
      "note": "Archie went both #1 and #2 on the Oct 12 morning walk and the report's consistency field reads 'It was firm and healthy'. That is a normal bowel movement after the no-#2 walks logged on Sep 30, Oct 2 and Oct 9. Supplies were answered 'No' on the getting-low question this visit.",
      "quote": "Archie went no.#1/2 like a good boy"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Thomas Rakovec visit report, Oct 9 10:37am",
-     "office": false,
-     "note": "Oct 9 morning walk (Thomas Rakovec): Archie went #1 but had no bowel movement - the report's consistency field reads No #2 today. Adds to the no-#2 walks already on file (Sep 1, Sep 30, Oct 2). Ray was home for this visit so the sitter did not go in. Supplies were marked not low on this report, which does not by itself settle the Oct 8 out-of-poop-bags flag.",
-     "quote": "No #2 today"
     }
    ],
    "dormant": false
@@ -4706,16 +4657,6 @@
      "office": true,
      "note": "OFFICE: the sitter asks for a new light bulb for the dogs' upstairs room, added as a PS at the end of the Oct 10 bedtime report. The report's own 'any pet supplies getting low' question was answered No, so this request will not surface anywhere else. Same visit had a #2 accident in that room, so the room is being used in the dark.",
      "quote": "Might need a new bulb for the boys room."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Client private message 1:18pm",
-     "office": false,
-     "note": "Bill says his car will be parked in the garage while he is away, so a car on the property does not mean anyone is home. Do not assume the client is there.",
-     "quote": "My car will be in the garage just fyi, obviously I won’t be there."
     },
     {
      "cat": "home",
@@ -7701,7 +7642,7 @@
      "quote": "if there’s an accident somewhere else in the house, the pads are fine, but the basement floor ends up being hosed anyways"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Zachary Schulman",
@@ -7732,7 +7673,7 @@
      "quote": ""
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Joan (Lynn) Stemmer",
@@ -7781,16 +7722,6 @@
      "office": true,
      "note": "Follow-up to the rain cancellation of Boo's walk. She asks for billing to be corrected and asks directly whether walkers do not walk in the rain - still unanswered. Repeats that there was no rain at her house and that neighbours were out walking their dogs, and calls the short notice unacceptable.",
      "quote": "So do walkers not walk in the rain?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Client private message 12:48pm",
-     "office": true,
-     "note": "Client confirms the Monday and Friday pattern she asked for on Oct 8 and says she may want more in winter. She also says she looks forward to meeting new team members. Her proposed start is Monday Oct 12, so the office still owes her a yes or no and a price today.",
-     "quote": "Right now Mon and Friday work well. We will see what the winter brings."
     },
     {
      "cat": "health",
