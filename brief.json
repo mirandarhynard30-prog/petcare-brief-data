@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T14:20:06-04:00",
+ "generated": "2026-10-31T17:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2869,6 +2869,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Oct 31",
+     "source": "Client message 9:25 AM",
+     "office": false,
+     "note": "Entry note the client sent for the Oct 31 morning visit only: the front door would be left open, so the sitter was to let themselves in. Applies to that visit, not as a standing rule.",
+     "quote": "Gm front door will be open thanks!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 31",
+     "source": "Client message 5:04 PM",
+     "office": false,
+     "note": "Entry note the client sent for the Oct 31 evening visit only, three minutes after Elizabeth Sigler gave a 5:25 ETA: the front door will be open, so the sitter should let themselves in. Applies to that visit only.",
+     "quote": "The front door will be open thanks Vicki"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 25",
      "source": "Harvett Ellington visit report, Oct 25 morning visit",
      "office": false,
@@ -2924,26 +2944,6 @@
      "office": false,
      "note": "Client left the front door open for the sitter and asked that if Trudy is not downstairs, the sitter call out so she knows someone is there.",
      "quote": "front door is open if Trudy isn’t down stairs just let her no ure there"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Vicki Davey client message, 8:55 AM",
-     "office": true,
-     "note": "Client asked whether Trudy was downstairs at yesterday morning's visit. Harvett answered at 9:09 AM that Trudy came down near the end of today's visit. Client appears to be tracking whether Trudy is actually seen each visit - make sure Trudy is laid eyes on and that the report says so.",
-     "quote": "Was Trudy downstairs when you got there yesterday morning?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Vicki Davey client message, 8:53 AM",
-     "office": true,
-     "note": "Client sent a bare challenge with no stated subject. It arrived four minutes after Harvett's 9:20-9:25 AM arrival-window message and 64 seconds before the separate Trudy question. What she is questioning cannot be determined from the notification - open the Time To Pet thread and answer her.",
-     "quote": "Are you sure ?"
     }
    ],
    "dormant": false
