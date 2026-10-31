@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T12:20:07-04:00",
+ "generated": "2026-10-31T13:20:05-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -233,6 +233,16 @@
      "quote": "Noves letting you pet her already is HUGE!"
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "standing",
+     "date": "Oct 31",
+     "office": false,
+     "source": "Terri Orengo pet detail updates for Benji (10:42 AM) and Scarlett (11:04 AM)",
+     "note": "The client filled in the previously blank records for both cats this morning. Both are tabbies - Benji orange, born May 1 2020; Scarlett brown and black, born Oct 1 2024 - and both now list Rocky River Animal Hospital, 2573 Wooster Rd, 440-331-7711 as the vet. This closes the record gap left when Scarlett was announced by message on Oct 24.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -251,16 +261,6 @@
      "office": false,
      "note": "Scarlett and Benji now exist as pet records in Time To Pet, which settles the open question from Oct 24 about whether Scarlett had been added to the account. Scarlett's private note was set to read that she likes to hide in Nova's room or the basement. Benji's update was a profile picture only.",
      "quote": "Likes to hide in Nova's room or basement"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Client message 6:38 PM",
-     "office": false,
-     "note": "Answering the midday report, Terri says she is not surprised Nova would not pee in the light rain and is not concerned by it. Identifies rain specifically as a reason Nova balks at going out and staying out, which fits her repeated outdoor reluctance. Expect it and do not treat a missed potty in wet weather as a problem.",
-     "quote": "I’m not surprised Nova didn’t want to pee in the rain- she’s such a princess."
     }
    ],
    "dormant": false
@@ -2856,6 +2856,16 @@
      "quote": "please read the top of the cans cause some things have changed to help Trudy’s situation"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 31",
+     "office": true,
+     "source": "Kiara Streety visit report, Oct 31 10:21 AM",
+     "note": "This morning's report says Trudy was asleep and the sitter decided not to speak to her so as not to wake her. The home-secured field on the same report answers 'Client was home during visit'. Whether a sitter spoke to Trudy has been the subject of repeated client challenges this month, and the client's Oct 24 ask was that the sitter call out to her, so expect a question on this one.",
+     "quote": "Trudy was sleep I was going to speak and say goodbye but I didn’t want to wake her!"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2934,16 +2944,6 @@
      "office": true,
      "note": "Client sent a bare challenge with no stated subject. It arrived four minutes after Harvett's 9:20-9:25 AM arrival-window message and 64 seconds before the separate Trudy question. What she is questioning cannot be determined from the notification - open the Time To Pet thread and answer her.",
      "quote": "Are you sure ?"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Client message, Oct 31 9:25 AM",
-     "office": false,
-     "note": "Client messaged the morning of the visit to say the front door would be open; she handles entry by same-morning message rather than a standing arrangement. Applies to the Oct 31 visit only.",
-     "quote": "Gm front door will be open thanks!"
     }
    ],
    "dormant": false
@@ -3280,6 +3280,26 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 31",
+     "source": "Lynne Reno client message, Sat 12:54 PM",
+     "office": false,
+     "note": "Client messaged at 12:54 PM, replying to the sitter's ETA, that she is out running errands. On Oct 17 and Oct 24 the same message came with the front door left open; this one says nothing about the door or about Holly, so entry for today's visit is unstated.",
+     "quote": "I'm running errands"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 31",
+     "source": "Dan Dantimo message to client, Sat 12:37 PM",
+     "office": true,
+     "note": "Dan Dantimo told the client at 12:37 PM he was on his way for a roughly 1:00 PM arrival, which is the first sign in this mailbox of who is covering Lynne's visits after Julie Smith said on Oct 29 she would be out. Taken from his ETA message, not from an assignment notice, so confirm the rest of the weekend is staffed.",
+     "quote": "Hi Lynne, on my way , should be by 100"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3318,26 +3338,6 @@
      "office": false,
      "note": "Waste disposal rule the sitter found in the client details and followed: the #2 bag is left at the front door rather than carried away or binned elsewhere.",
      "quote": "I put the #2 bag at the front door, as directed by reading the client details."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Client message 11:25 AM Oct 24",
-     "office": false,
-     "note": "Client messaged at 11:25 AM that she is out running errands and left the door open for today's visit. Sitter Dan Dantimo acknowledged at 11:33 AM saying he would be there by 1:00 PM. No code of any kind involved.",
-     "quote": "Door open"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Dan Dantimo left a message for Lynne Reno.",
-     "office": false,
-     "note": "On the Oct 23 late-morning walk Holly went #2 and the consistency field was logged as a little loose but not concerning. One visit only; the report flags no other concern. Lynne was home during the visit.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
