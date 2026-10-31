@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T06:20:06-04:00",
+ "generated": "2026-10-31T10:20:06-04:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2934,6 +2934,16 @@
      "office": true,
      "note": "Client sent a bare challenge with no stated subject. It arrived four minutes after Harvett's 9:20-9:25 AM arrival-window message and 64 seconds before the separate Trudy question. What she is questioning cannot be determined from the notification - open the Time To Pet thread and answer her.",
      "quote": "Are you sure ?"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Oct 31",
+     "source": "Client message, Oct 31 9:25 AM",
+     "office": false,
+     "note": "Client messaged the morning of the visit to say the front door would be open; she handles entry by same-morning message rather than a standing arrangement. Applies to the Oct 31 visit only.",
+     "quote": "Gm front door will be open thanks!"
     }
    ],
    "dormant": false
