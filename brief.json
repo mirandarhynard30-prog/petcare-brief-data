@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T12:20:06-05:00",
+ "generated": "2026-11-01T13:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7899,6 +7899,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 1",
+     "source": "Client message 12:36 PM",
+     "office": false,
+     "note": "Client messaged at 12:36 PM that her 11-year-old daughter reported one of the dogs peed in the living room before she was picked up. The client's own guess is that the daughter only put paper towels over it rather than cleaning it properly, and she tells the sitter to watch their step. She does not say which dog or exactly when.",
+     "quote": "she said one of the dogs peed in the living room"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 22",
      "source": "Client message",
      "office": false,
@@ -7964,16 +7974,6 @@
      "office": false,
      "note": "Suka is typically easy going and easy to walk. She will pull toward other dogs on occasion but is easily redirected. She can get food aggressive with Bruno and will steal his toy if given the chance; owner has not seen her have a food issue with people. She likes pets to her neck, back and sides and will fetch a squeaky toy.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 11",
-     "source": "Client updated pet details - Bruno",
-     "office": false,
-     "note": "Bruno can bark a lot at first and is typically scared of new people, though he sometimes takes to someone right away. He hides if he thinks food is out because Suka takes his food, and he backs off his toys when she is around. On walks he barks at all vehicles bigger than an SUV and at bicycles, motorcycles, roller skaters and skateboards. He loves head and belly rubs.",
-     "quote": "Bruno can bark a lot at first and is typically scared of new people."
     }
    ],
    "dormant": false
