@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T23:20:06-04:00",
+ "generated": "2026-11-01T05:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -601,32 +601,12 @@
     {
      "cat": "health",
      "sev": "high",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Kathy Pastor message to client, Oct 10 8:23am",
-     "office": true,
-     "note": "Kathy Pastor asked the client in writing at 8:23am whether ALL the named flavors are off limits, and whether to crush the pill into the Churu or use wet food on top and bottom. No written answer came back in Time To Pet - the client replied only with \"I left you a message, did you see it?\" at 8:52am, so her actual answer was given by phone/text and is not on the record. The crush-the-pill question has now been open in writing since Oct 4. Office should get the answer typed into the Pet Care Note.",
-     "quote": "So you’re saying don’t use any of those flavors?"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
      "type": "standing",
      "date": "Oct 10",
      "source": "Client message, 7:59am",
      "office": false,
      "note": "The off-limits food list is longer than one flavour. As well as the Whitefish Tuna not agreeing with Sampson, the client says he will not eat the liver one or the giblet one, and she deliberately did not leave either out.",
      "quote": "He also does not like the liver one and giblet one."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Kathy Pastor message, 8:54am",
-     "office": false,
-     "note": "First time the client's own pill method is reported working: Kathy Pastor gave Sampson his half pill with Mixed Grill wet food on top and bottom and he took it straight away. This is the alternative to crushing it into the Churu, which Renee Dougherty did on Oct 9. Two methods have now each worked once and nobody has said which to standardise on.",
-     "quote": "I just gave him his pill with mixed grill on top and bottom and he ate it!"
     }
    ],
    "dormant": false
@@ -1256,6 +1236,46 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 31",
+     "source": "Tiarra Roberts visit report, 8:17 PM",
+     "office": true,
+     "note": "Halloween evening visit performed the mail and garage steps again. The sitter retrieved the mail on arrival and brought it in, entered through the garage, gave the mail to Mary Ann, took back some to recycle, and threw trash into the bin. The security field again reads that she entered through the garage door and closed it fully before leaving. These are the same steps the Oct 14 note rewrite removed from Company Notes and Access Instructions, so sitters are still doing them from habit rather than from the written notes.",
+     "quote": "I entered through the garage door, garage door is fully closed before leaving"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 31",
+     "source": "Tiarra Roberts visit report, 8:17 PM",
+     "office": false,
+     "note": "Georgie's evening medicine and eyedrops were given again on the Oct 31 visit, with the sitter assisting Mary Ann rather than giving them alone - the same pattern as the Oct 5, Oct 16 and Oct 18 reports. The report records no problem. In this mailbox the routine appears only in sitter reports, never in a Pet Care Note.",
+     "quote": "I helped Mary Ann with Georgie's medicine 💊 and eyedrops."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts visit report, 8:25 PM",
+     "office": true,
+     "note": "Same mail and garage routine on the Oct 30 evening visit: the sitter collected the mail, entered through the garage and handed the mail to Mary Ann, and the security field again reads that the garage door was fully closed before leaving. Two consecutive nights of unwritten standing steps.",
+     "quote": "I got the mail and headed inside, through the garage."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Oct 30",
+     "source": "Tiarra Roberts visit report, 8:25 PM",
+     "office": false,
+     "note": "Evening medicine and eyedrops again on Oct 30, with the sitter holding Georgie while Mary Ann administered them, then ice cubes as a treat. The report records #2 as firm and healthy and medication administered. No sign of the leg trouble reported Oct 25 to Oct 27.",
+     "quote": "I held Georgie while Mary Ann gave him his medicine and eyedrops."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -1334,46 +1354,6 @@
      "office": false,
      "note": "Evening eyedrop and medication routine confirmed again on the Oct 16 7:14 PM visit. Mary Ann was home and the sitter assisted her rather than giving them alone, same as the Oct 1, Oct 5 and Sep 27 reports.",
      "quote": "Then, helped Mary Ann administer eyedrops and medicine"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts updated contact information, 11:08am",
-     "office": true,
-     "note": "The Wednesday and Thursday bin routine was deleted. The old Company Notes said to take the trash and recycling bins to the curb on Wednesday and bring them back up on Thursday, putting them near the stairs inside the garage. The new notes give a day and nothing else. Today is Wednesday and the client thanked the sitter for the bins at 10:26am, so the task is live and now unwritten.",
-     "quote": "Trash day: Thursday"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts updated contact information, 11:08am",
-     "office": true,
-     "note": "Mail handling was dropped in the same rewrite. The instruction to check the mailbox and bring the mail in every day is gone, replaced by a location only. The Oct 13 evening report describes the sitter getting the mail and handing it to Mary Ann, so this is an active daily task that is no longer written down.",
-     "quote": "Mailbox on street"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts updated contact information, 11:08am and 11:10am",
-     "office": true,
-     "note": "The instruction to close the garage door before entering the house, and again while out on the walk, was removed from Company Notes and then from the Access Instructions in a second edit two minutes later. Nothing in the record now tells a sitter to shut the garage door behind them, at a house where the notes already lost Georgie's escape warning back on Sep 20.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 5",
-     "source": "Tiarra Roberts, 8pm visit report",
-     "office": false,
-     "note": "Evening eyedrop routine confirmed again on the Oct 5 8pm visit: after the walk the sitter took the harness off in the laundry room, helped Mary Ann give Georgie his eyedrops, then gave ice cube treats. Mary Ann is home and does the drops herself with the sitter assisting.",
-     "quote": "I helped Mary Ann with Georgie's eyedrops and rewarded him with"
     }
    ],
    "dormant": false
@@ -1882,49 +1862,9 @@
      "office": false,
      "note": "Penny is a new puppy joining the household. She mouths and chews anything she can reach - Ashley asks sitters to watch her outside for this.",
      "quote": "Penny will also want to chew on anything she can put her teeth on"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 29",
-     "source": "Current Pet Care Note updated by Dan Dantimo, Aug 29",
-     "office": false,
-     "note": "The dry food has moved. It is now in the dining room by the white cabinet; the previous note said living room by the water bowl. Treats are also in the white cabinet in the dining room.",
-     "quote": "DRY FOOD IS IN THE DINING ROOM BY WHITE CABINET."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 29",
-     "source": "Company Notes updated by Dan Dantimo, Aug 29",
-     "office": false,
-     "note": "Penny's harness is marked by body part - pink strap over the shoulders, grey under the belly. Harness and leash are by the front door; a reference photo is in Time To Pet.",
-     "quote": "Harness is marked by body parts and pink strap goes over shoulders, gray goes under belly"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 10",
-     "source": "Client message, 7:40pm and 8:20pm",
-     "office": false,
-     "note": "Do not mistake the stuffed toys in the guinea pigs' cages for the animals - the client says they look like the piggies and have startled her more than once. She adds that the pig PJ sleeps on its back with its legs in the air, which looks alarming and is normal.",
-     "quote": "there are stuffies in the guinea pigs cages that look like them"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 10",
-     "source": "Client message, 7:42pm",
-     "office": false,
-     "note": "Back yard light is on a motion sensor and comes on by itself, so the yard will not be dark on an evening visit. No switch to find.",
-     "quote": "the light in the backyard is motion sensored and will turn on automatically"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Marcella Singer",
@@ -2563,16 +2503,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Client message, 5:22pm",
-     "office": true,
-     "note": "Late-notice booking the client flagged in her own words at 5:22pm, apologising for forgetting it earlier. A portal order request covering Oct 12-14 landed nine minutes later and needs approval. She wrote 'thank you!' six minutes later, so someone may already have answered - worth confirming the Mon-Wed visits are on the schedule.",
-     "quote": "i just sent a request for this monday-wednesday. i completely forgot to put it on earlier"
-    },
-    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -2746,16 +2676,6 @@
      "quote": "Basic Details - Veterinary Information (Name) Updated to: HINKLEY ANIMAL HOSPITAL-DR. OSCAR SKAVDAHL"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Tiarra Roberts visit report 2:28pm",
-     "office": false,
-     "note": "Three dogs walked together on one leash with three clips. Tiarra squeezed in at the door so none of the three slipped out, and kept a firm hold of the leash outside. Marlo and Sammy sniff, Frankie follows along. Recorded as a one-off observation from this visit, not a standing rule.",
-     "quote": "I slipped in making sure nobody got out"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2796,16 +2716,6 @@
      "quote": "The scissors are getting a bit dull, maybe time for new ones, possibly?"
     },
     {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Tiarra Roberts visit report 2:28pm",
-     "office": false,
-     "note": "Feeding on this visit: vacuum-sealed baggies from the kitchen island counter, dogs held in the utility room while bowls were made up, then each dog watched until it finished its own bowl because Frankie eats fastest. One sitter's method on one visit, not confirmed as the client's standing instruction.",
-     "quote": "Frankie eating the fastest. But I made sure each one finished thier individual bowl"
-    },
-    {
      "cat": "home",
      "sev": "low",
      "type": "standing",
@@ -2834,16 +2744,6 @@
      "office": true,
      "note": "Client complaint about sitter punctuality - she says arrivals do not happen when stated. This also explains her earlier unexplained 'Are you sure ?' message: it was about the arrival time, not the visit report. Needs an answer from the office.",
      "quote": "The reason I sent that message is because you are r not there when u say you will be"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Vicki Davey client message, Oct 10 9:33am",
-     "office": false,
-     "note": "Entry and occupancy note the client sent for today's visit only: Vicki will tell Trudy to leave the front door open, so the sitter should let themselves in. Trudy will be in the house - the client says she may be in the kitchen or upstairs in bed - so expect a person at home, possibly asleep. The client does not say what time the door will be unlocked.",
-     "quote": "I will let Trudy no the front door will be open let your self in"
     },
     {
      "cat": "health",
@@ -4049,16 +3949,6 @@
      "office": false,
      "note": "Client asks every sitter to double-check the door is locked before leaving after Aayla's walk. She found it left unlocked on Aug 27. She raised it warmly and followed up saying she appreciates the team, so this is a standing check, not a complaint to resolve.",
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Margaret Bill visit report 12:52pm",
-     "office": false,
-     "note": "Handling detail from today's walk: the sitter put a harness on Aayla before going outside, so a harness rather than a collar appears to be what is used here. Usual route is a walk around the complex plus a few seconds in the complex dog park, then water and ear scratches back inside. Observed on one visit; not stated anywhere as a standing rule.",
-     "quote": "Then I put her harness on , and I took her outside"
     }
    ],
    "dormant": false
@@ -4591,16 +4481,6 @@
     {
      "cat": "behavior",
      "sev": "high",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Yasmeen Abrams afternoon visit report, Oct 10 3:11pm",
-     "office": true,
-     "note": "The Oct 10 afternoon report contradicts itself about where the dogs were let out, and one version contradicts the standing rule. The written narrative says both boys went number one and then sniffed around the FRONT yard; the structured outside-time field on the same report says 'We had a great time in the fenced in back yard!'. Company Notes say backyard only, no walks. It is not clear from the email which yard was actually used - the office should ask the sitter before assuming the standing rule was followed.",
-     "quote": "had sniffed around the front yard for a little bit"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
      "type": "standing",
      "date": "Aug 22",
      "source": "Tiarra Roberts updated Company Notes for Bill Brock",
@@ -4647,26 +4527,6 @@
      "office": false,
      "note": "Important Notes edited three times in half an hour. A trash day was added, the feeding lines tightened to name 'two white plates' at both the AM and the afternoon/evening feeding, and the headline rule now reads 'Backyard Only/No Walks required'. Bedtime visits unchanged - potty break and refreshing water.",
      "quote": "Trash day: Tuesday"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Yasmeen Abrams bedtime visit report, 8:25pm",
-     "office": false,
-     "note": "#2 accident in the dogs' upstairs room at the Oct 10 bedtime visit; the sitter cleaned it and put a fresh puppy pad down. Outside time was short - cold and raining. Storm's #2 outdoors logged firm and healthy, Timber none. Cuts against the Sep 26 Company Notes rewrite, which dropped the line saying messes in the dog room need not be cleaned up.",
-     "quote": "They did have an accident in the room which was a number two which I had cleaned up"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Yasmeen Abrams bedtime visit report",
-     "office": true,
-     "note": "OFFICE: the sitter asks for a new light bulb for the dogs' upstairs room, added as a PS at the end of the Oct 10 bedtime report. The report's own 'any pet supplies getting low' question was answered No, so this request will not surface anywhere else. Same visit had a #2 accident in that room, so the room is being used in the dark.",
-     "quote": "Might need a new bulb for the boys room."
     },
     {
      "cat": "home",
@@ -4831,16 +4691,6 @@
     "Mr. Midnight"
    ],
    "items": [
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Margaret Bill visit report, Oct 10 10:59am",
-     "office": false,
-     "note": "Answers the Oct 8 fish question in practice - Margaret fed the fish on the Oct 10 house visit. She also brought the mail in and left it on the table, brought the garbage can back up to where it goes, and put bird seed out on the rail. She noted she did not know the fish's name. The report contradicts itself: the narrative says she brought the mail in, but the structured 'did you bring any mail or packages in' answer is No, and 'did you refill the water bowl' is also No. Supplies reported not low.",
-     "quote": "Then I came in and fed the fish"
-    },
     {
      "cat": "home",
      "sev": "medium",
@@ -7815,16 +7665,6 @@
     },
     {
      "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Elizabeth Sigler visit report, 12:01pm",
-     "office": false,
-     "note": "First recorded note for this client. Juniper (cat) starts the visit hiding under the couch. What worked on today's first visit: Shannon fed a pouch of wet food, coaxed her out of her hiding spot, then gave treats; by the end of the visit Juniper was purring and rolling in Shannon's lap and let Elizabeth give pets and head scratches. She ate all but one treat and came back for the last one. Juniper remembered Shannon from last May. One visit only - the report does not state this as a standing routine.",
-     "quote": "Shannon started by feeding a pouch of wet food and then coaxing Juniper out from under the couch."
-    },
-    {
-     "cat": "behavior",
      "sev": "low",
      "type": "recent",
      "date": "Oct 12",
@@ -7852,16 +7692,6 @@
      "office": false,
      "note": "Denise watches the property on a camera - she mentioned seeing a squirrel get into their pumpkin on it. She does not say which camera or whether it covers inside the home, so treat camera coverage as present but unconfirmed. She also asks that the Halloween decorations stay up.",
      "quote": "I noticed on the camera a squirrel got into our pumpkin lol!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 10",
-     "source": "Elizabeth Sigler visit report, 12:01pm",
-     "office": false,
-     "note": "House setup as seen on today's first visit: there is a water fountain rather than a water bowl, plus a litter box. Litter box scooped and fountain checked; wet can food fed and a treat given; no accidents found; supplies not low.",
-     "quote": "we also scooped the litter box and checked on the water fountain"
     }
    ],
    "dormant": false
