@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T10:20:05-05:00",
+ "generated": "2026-11-01T11:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2768,6 +2768,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 1",
+     "source": "Harvett Ellington message to client, Nov 1 10:20 AM",
+     "office": false,
+     "note": "Resolves the Nov 1 9:44 AM exchange where the client asked whether anyone was there. Sitter Harvett Ellington told her she will message to say she has arrived before going in. Treat announcing arrival before entry as expected for this client; the client has not stated it herself, so the office may still want to confirm it as a standing rule.",
+     "quote": "Before I go in, I will inform you that I am here!!!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Oct 31",
      "office": true,
@@ -2844,16 +2854,6 @@
      "office": true,
      "note": "Record conflict the office needs to settle: this visit report has the sitter speaking to Trudy and Trudy answering, which reads as a person in the home rather than a pet, but Trudy is the only name on the client's pet list and the Sep 12 feeding change was described as being for \"Trudy's situation\". Reports also describe cats being fed inside, outside and on the porch, so the pet list looks incomplete either way. Not resolved here - the client record needs checking.",
      "quote": "I told Trudy I was leaving she said thank you!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Client message",
-     "office": false,
-     "note": "Client left the front door open for the sitter and asked that if Trudy is not downstairs, the sitter call out so she knows someone is there.",
-     "quote": "front door is open if Trudy isn’t down stairs just let her no ure there"
     }
    ],
    "dormant": false
@@ -7846,6 +7846,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 1",
+     "source": "Client message, Nov 1 10:18 AM",
+     "office": false,
+     "note": "Client reports Bruno got into the trash around 3:30 AM on Nov 1 and ate half a pack of hotdogs that had expired a few days earlier. She warns of possible GI upset. No vet contact and no instructions given - watch for vomiting or loose stool and report it.",
+     "quote": "Bruno got into the trash and ate half a pack of hotdogs that expired a few days ago"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -7864,6 +7874,16 @@
      "office": false,
      "note": "New escape-risk section in the Company Notes. Keep the screen door shut. Bruno chases delivery trucks and other dogs; Suka chases bicycles, motorcycles, cars and anything with wheels, plus squirrels. The record lists one further trigger for Suka in wording that should not be reproduced on a public page - read that line in Time To Pet.",
      "quote": "Excape Risk Keep screen door shut. Bruno will chase fed ex trucks and other dogs"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 1",
+     "source": "Client message, Nov 1 10:15 AM",
+     "office": false,
+     "note": "For Nov 1 only: the client's daughter may be leaving the house around noon or 12:30, so a sitter arriving then may cross paths with her. The client's usual sitter for her fell through, which is why she is home.",
+     "quote": ""
     },
     {
      "cat": "home",
@@ -7944,26 +7964,6 @@
      "office": false,
      "note": "Bruno can bark a lot at first and is typically scared of new people, though he sometimes takes to someone right away. He hides if he thinks food is out because Suka takes his food, and he backs off his toys when she is around. On walks he barks at all vehicles bigger than an SUV and at bicycles, motorcycles, roller skaters and skateboards. He loves head and belly rubs.",
      "quote": "Bruno can bark a lot at first and is typically scared of new people."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Client message, Oct 11 10:20pm",
-     "office": true,
-     "note": "Second booking correction from Jennifer, sent after the 11/18 one. She says she entered two visits on November 29 when it should be one visit on November 29 and one on November 30. Office needs to move the duplicate visit to November 30. She also has a service order request covering Oct 22 - Nov 29 awaiting approval, so the fix likely belongs in that request.",
-     "quote": "Also, I put two visits in for November 29 and that’s supposed to be one for November 29 and one for November 30"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 23",
-     "source": "Jennifer Wagar has sent you a new message.",
-     "office": false,
-     "note": "Client says the dogs do not play much and prefer being petted; they only play when in the mood, and Bruno plays more than Suka. Useful so a sitter does not read low play interest as a problem.",
-     "quote": "They don’t play that much. They do like to be petted a lot."
     }
    ],
    "dormant": false
