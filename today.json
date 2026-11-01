@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-31T08:35:06-04:00",
- "date": "2026-10-31",
- "label": "Oct 31, 2026",
+ "generated": "2026-11-01T00:05:10-04:00",
+ "date": "2026-11-01",
+ "label": "Nov 1, 2026",
  "clients": [
   {
    "name": "Brandon Keyes",
@@ -9,9 +9,45 @@
     {
      "time": "1:00 PM",
      "sort": "1300",
-     "staff": "Shannon  Anderson",
+     "staff": "Elizabeth Cuffari",
      "service": "Dog Visit-60 minute",
      "pets": "Flacko"
+    }
+   ]
+  },
+  {
+   "name": "Jennifer Peganoff",
+   "visits": [
+    {
+     "time": "9:00 AM",
+     "sort": "0900",
+     "staff": "Chelsea Tompkins",
+     "service": "Dog Visit-20 minute",
+     "pets": "Bella, Bella, Bella"
+    }
+   ]
+  },
+  {
+   "name": "Jennifer Wagar",
+   "visits": [
+    {
+     "time": "1:00 PM",
+     "sort": "1300",
+     "staff": "Josh Stone",
+     "service": "Dog Visit-30 minute",
+     "pets": "Bruno, Suka"
+    }
+   ]
+  },
+  {
+   "name": "Joan- Gina Sullivan (Manages Account)",
+   "visits": [
+    {
+     "time": "1:45 PM",
+     "sort": "1345",
+     "staff": "Josh Stone",
+     "service": "Dog Visit-45 minute",
+     "pets": "Sassie"
     }
    ]
   },
@@ -21,7 +57,7 @@
     {
      "time": "1:00 PM",
      "sort": "1300",
-     "staff": "Dan Dantimo",
+     "staff": "Shannon  Anderson",
      "service": "Long Range Visit-30 Minute",
      "pets": "Holly"
     }
@@ -33,9 +69,28 @@
     {
      "time": "8:00 PM",
      "sort": "2000",
-     "staff": "Tiarra Roberts",
+     "staff": "Noella Assi",
      "service": "Dog Visit-20 minute",
      "pets": "Georgie"
+    }
+   ]
+  },
+  {
+   "name": "Matt Konn",
+   "visits": [
+    {
+     "time": "10:30 AM",
+     "sort": "1030",
+     "staff": "Michelle Carrara",
+     "service": "Dog Visit-30 minute",
+     "pets": "Ripley"
+    },
+    {
+     "time": "6:00 PM",
+     "sort": "1800",
+     "staff": "Monica Hopewell",
+     "service": "Dog Visit-30 minute",
+     "pets": "Ripley"
     }
    ]
   },
@@ -45,19 +100,19 @@
     {
      "time": "9:30 AM",
      "sort": "0930",
-     "staff": "Kiara Streety",
+     "staff": "Harvett Ellington",
      "service": "Cat Visit-45 minute",
      "pets": "3 indoor cats, 6 outdoor cats"
     },
     {
-     "time": "5:15 PM",
-     "sort": "1715",
-     "staff": "Elizabeth Sigler",
-     "service": "Long Range Visit-30 Minute",
+     "time": "4:00 PM",
+     "sort": "1600",
+     "staff": "Harvett Ellington",
+     "service": "Cat Visit-30 Minutes",
      "pets": "3 indoor cats, 6 outdoor cats"
     }
    ]
   }
  ],
- "visitCount": 5
+ "visitCount": 10
 }
