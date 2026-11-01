@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T05:20:06-05:00",
+ "generated": "2026-11-01T10:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2754,6 +2754,16 @@
      "office": false,
      "note": "Client wrote to all sitters on the morning of Sep 12 that the feeding instructions have changed to help Trudy's situation. Read the writing on the TOP of the cans before feeding, and the bottom of the paper bowls tells you how many cans of wet and dry to put out for AM and PM, both on the porch and in the huts. The email does not give the amounts themselves - they are written on the cans and bowls at the property. She does not say what Trudy's situation is.",
      "quote": "please read the top of the cans cause some things have changed to help Trudy’s situation"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 1",
+     "source": "Client message, 9:44 and 9:49 AM",
+     "office": true,
+     "note": "Client wrote 'Hey there ru there' at 9:44 AM and then at 9:49 AM said the sitter did not say she was there and had started. Harvett Ellington had already messaged an ETA at 9:16 AM and 'I'm walking up now' at 9:15 AM, so it is not clear from the mail whether the client missed those messages, was asking about a different visit, or wants a separate arrival confirmation once the sitter is inside and working. This repeats the Oct 18 complaint about arrival communication; the office should settle what confirmation this client expects.",
+     "quote": "She didn't say she was and started thanks"
     },
     {
      "cat": "behavior",
