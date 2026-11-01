@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T14:20:07-05:00",
+ "generated": "2026-11-01T16:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -143,6 +143,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 1",
+     "source": "Service Change Requested By Terri Orengo, Nov 1 3:09 PM",
+     "office": true,
+     "note": "Client asks to move the Sat Nov 7 12:45-1:05 PM Dog Visit (20 min, fenced yard only, no feeding; assigned Shannon Anderson) to around 5 or 6 PM, because the family is not leaving home until 1:00. She also asks that the later visit feed Nova her dinner - she says all the sitter has to do is put the soft food, which they will leave on the counter, into a bowl. That turns a no-feeding service into a feeding one, so the service type and price may need changing as well as the time. Arrived as a portal service-change notice rather than a plain message, but the request above is the client's own wording, so it is logged here as a schedule item; office needs to process the change request and reconfirm staffing.",
+     "quote": "Can we change this to a later time? I didn’t realize until just now that we’re not leaving home until 1:00"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -251,16 +261,6 @@
      "office": false,
      "note": "Nova would not come outside on her own - the sitter put her harness on to coax her out, after which she went #1 and #2 in the fenced back yard. One sitter on one visit, not an established rule.",
      "quote": "I had to put the harness on her to intice her out."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Shannon Anderson added Scarlett and Benji as pets, and set Scarlett's private note (Oct 26, 4:19-4:24 AM)",
-     "office": false,
-     "note": "Scarlett and Benji now exist as pet records in Time To Pet, which settles the open question from Oct 24 about whether Scarlett had been added to the account. Scarlett's private note was set to read that she likes to hide in Nova's room or the basement. Benji's update was a profile picture only.",
-     "quote": "Likes to hide in Nova's room or basement"
     }
    ],
    "dormant": false
