@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T11:20:05-05:00",
+ "generated": "2026-11-01T12:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3190,6 +3190,26 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 1",
+     "source": "Client message 11:45 AM Nov 1",
+     "office": false,
+     "note": "Client asked at 11:45 AM whether a walker is coming today. This is the third time she has had to ask (Oct 16 and Oct 29 are already on record), so the pattern is that she is not being told in advance who is covering her Sunday and weekday visits. Answered four minutes later by the sitter - see the next item.",
+     "quote": "Miranda do I have a walker today?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 1",
+     "source": "Shannon Anderson message to client 11:49 AM Nov 1",
+     "office": false,
+     "note": "Sitter Shannon Anderson replied at 11:49 AM confirming she will arrive by 1 PM for Holly today, which answers the client's 11:45 AM question. Today's Nov 1 coverage is therefore confirmed and staffed. The following weekdays were still unconfirmed as of Friday night and nothing has arrived about them.",
+     "quote": "I'll be there by 1pm to visit with Holly today."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3228,26 +3248,6 @@
      "office": false,
      "note": "Holly destroyed stuffed animals before the Oct 29 midday visit - stuffing and the remains of a Minnie Mouse toy, plus brown paper. The sitter cleaned it up, binned it and sent before and after photos; the report's destruction field confirms it. Holly was otherwise bright, walked her usual loop and went #1 and #2, stool firm.",
      "quote": "I did find a nice little mess that she left."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Shannon Anderson visit report",
-     "office": true,
-     "note": "Holly's grooming was not completed - the sitter wrote that Tracy did not get far with it and hoped they could work out how to help her. No reason given, so the office may need to arrange a different approach.",
-     "quote": "I'm sorry Tracy didn't get far on Holly's grooming."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Shannon Anderson 1:16 PM visit report",
-     "office": true,
-     "note": "Holly has a grooming appointment with Tracy on the morning of Tue Oct 27. This comes from the sitter's report, not from the client, and the email does not say the time or whether Holly will be out of the house when the Tuesday visit is due. Worth confirming before the morning visit.",
-     "quote": "I can't wait to see how happy she will be after her grooming appointment with Tracy tomorrow morning."
     }
    ],
    "dormant": false
@@ -3959,6 +3959,16 @@
      "office": false,
      "note": "Client asks every sitter to double-check the door is locked before leaving after Aayla's walk. She found it left unlocked on Aug 27. She raised it warmly and followed up saying she appreciates the team, so this is a standing check, not a complaint to resolve.",
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 1",
+     "source": "Client private message 11:31 AM Nov 1",
+     "office": true,
+     "note": "Client wrote at 11:31 AM to say she has now scheduled for November, apologising and thanking the office for a notice she had been sent. This explains the service order request that arrived at 11:05 AM and is still awaiting approval - it is deliberate, not an error, so the office can approve it. She does not say which November dates.",
+     "quote": "My apologies, thank you for the notice. I just scheduled for November"
     }
    ],
    "dormant": false
