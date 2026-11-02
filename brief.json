@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T14:20:06-05:00",
+ "generated": "2026-11-02T16:20:10-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7948,6 +7948,26 @@
      "quote": "On lead she may pull, I stop and turn around every time she pulls."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 2",
+     "source": "Karen Grosser updated details for pet Garrett.",
+     "office": false,
+     "note": "Client filled in Garrett's basic details herself at 3:35 PM: veterinary practice Community Vet Brook Park, 15541 Snow Rd, Brook Park, OH 44142, (216) 273-1044 - the practice name, address and phone were all blank on this record before. She also entered a birth date of Oct 13, 2020 and recorded allergies as none.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 2",
+     "source": "Karen Grosser updated details for pet Chloe.",
+     "office": false,
+     "note": "Client added veterinary details to Chloe's record at 3:36 PM: Community Vet Brook Park, 15541 Snow Rd, Brook Park, OH 44142, (216) 273-1044. Practice name, address and phone were all blank before. No other field on Chloe's record changed in this update.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -8026,16 +8046,6 @@
      "office": false,
      "note": "Cat care at this stop: do not touch the litterbox, and fill the cat dry food bowl on the kitchen bar counter from the grey air-tight container next to the portable dishwasher.",
      "quote": "Leave litterbox alone"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 30",
-     "source": "Tiarra Roberts updated contact information for Karen Grosser",
-     "office": false,
-     "note": "Supplies per the new Company Notes: treats on the microwave in a clear air-tight container, cleaning supplies under the kitchen sink, and only the Hoover stick vacuum is to be used.",
-     "quote": "Use Hoover stick vacuum, only"
     }
    ],
    "dormant": false
