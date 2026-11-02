@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T16:20:10-05:00",
+ "generated": "2026-11-02T17:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7968,6 +7968,16 @@
      "quote": ""
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 2",
+     "source": "Karen Grosser private message, Nov 2 5:08 PM",
+     "office": true,
+     "note": "Karen replied to the office's check that her weekend hours on file are right: she works Saturday noon to 8 PM and Sunday 11 AM to 6 PM. She does not say which week or which visit this applies to, so the office still has to confirm what it affects before changing anything on the schedule.",
+     "quote": "Thanks for checking Miranda. Yes it is correct. Saturday I'm working from Noon to 8, Sunday it's 11-6"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -8036,16 +8046,6 @@
      "office": false,
      "note": "Three water bowls - a fountain on the kitchen bar counter and one in the crate. Water comes from the fridge filter and the fridge door has to be shut hard.",
      "quote": "use filtered water from inside fridge. Close fridge door FIRMLY"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 30",
-     "source": "Tiarra Roberts updated contact information for Karen Grosser",
-     "office": false,
-     "note": "Cat care at this stop: do not touch the litterbox, and fill the cat dry food bowl on the kitchen bar counter from the grey air-tight container next to the portable dishwasher.",
-     "quote": "Leave litterbox alone"
     }
    ],
    "dormant": false
