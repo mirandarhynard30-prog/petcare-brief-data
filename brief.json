@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T11:20:06-05:00",
+ "generated": "2026-11-02T12:35:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4004,6 +4004,16 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Nov 2",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Murphy went #1 but no #2 on the 11:10am walk. Sitter judged he was comfortable and the walk went at a good pace. Single observation, not a pattern.",
+     "quote": "Murphy did not go number two today, however I don't think it bothered him."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Oct 26",
      "source": "Josh Stone visit report 12:44 PM",
      "office": false,
@@ -7584,6 +7594,16 @@
      "quote": "the next time this situation occurs I will contact you via time to pet to see the weather in your area"
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 2",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Boo went #2 twice on the late-morning walk; sitter recorded the consistency as slightly loose but not concerning. Single observation, not a pattern. Client was home during the visit.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -8317,6 +8337,16 @@
      "office": true,
      "note": "First information this client has ever supplied. Worth confirming the pet care note is completed - species, age, feeding and handling for Brutus are still blank.",
      "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 2",
+     "source": "Robin Lewis visit report",
+     "office": false,
+     "note": "Brutus went #1 only on the midday visit, no #2. Single observation; sitter reported the visit as otherwise normal and is due back later this week.",
+     "quote": "No #2 today"
     },
     {
      "cat": "home",
