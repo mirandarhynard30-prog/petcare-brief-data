@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T12:35:05-05:00",
+ "generated": "2026-11-02T13:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2969,6 +2969,16 @@
      "quote": "Milo then went number two and it was extremely runny case of diarrhea."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 2",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Both dogs' treat jars were empty on the Nov 2 midday visit - only Carl had treats available. Needs a refill before the next visit.",
+     "quote": "I was only able to give Carl some treats as both treat jars for the boys were empty."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3017,16 +3027,6 @@
      "office": false,
      "note": "Water bowl was found very low and had to be refilled twice inside the one visit - once on returning from Milo's walk and again after Archer's. Kiara put it down to the pups being thirsty. Supplies-low field on the report was marked No, so this is about the bowl on the day, not a shortage. Worth topping up on arrival rather than at the end.",
      "quote": "Came back in and refilled water it was really low!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Jade Popovitz visit report, Oct 20 1:41 PM",
-     "office": false,
-     "note": "Archer's water bowls were empty on arrival; sitter rinsed them out and gave fresh water. Worth checking water on arrival at this house.",
-     "quote": "Poor Archer had no water so I rinsed them out and gave fresh water"
     }
    ],
    "dormant": false
