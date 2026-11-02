@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T20:20:05-05:00",
+ "generated": "2026-11-02T09:50:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -849,16 +849,6 @@
      "office": false,
      "note": "The Ollie hand-feeding rule is cancelled. The client now says sitters do not need to try to give Lucy the Ollie at all - she has decided to give it herself at night so Lucy is hungry and eats it, and she credits that change for Lucy's healthier stool. This replaces the Oct 15 instruction to hand feed it.",
      "quote": "you don’t have to worry about trying to give her Ollie anymore"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Angela Jozsa private message, 5:01pm",
-     "office": true,
-     "note": "Client cancels tomorrow's (Oct 12) walk - she is taking the day off work. Needs confirming and the visit pulling off the schedule. Message is signed 'Carol' though the account is Angela Jozsa; unclear which name is the person writing.",
-     "quote": "we will not need a walker for tomorrow. I am going to take the day off work."
     },
     {
      "cat": "health",
@@ -2543,16 +2533,6 @@
      "quote": "I tried to do CatTV but it said the TV was not connected to the internet."
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Client message 11:39pm",
-     "office": false,
-     "note": "For this stay the owner has pre-portioned the wet food: one can of soft food per day is already laid out on the counter, so there is no need to pick cans from the supply.",
-     "quote": "the cans of soft food are laid out on the counter for each day."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -2561,16 +2541,6 @@
      "office": false,
      "note": "Owner says to plate all the cats' food up on the counter so the sitter is not hounded while serving, and warns Xander will jump up on the counter himself.",
      "quote": "xander will get up on the counter i'm sure you know by now."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Client message 11:40pm",
-     "office": false,
-     "note": "New owner request for this stay: add fresh litter to the Litter-Robot every day, and pull/empty it on Wednesday morning. Owner did not say which Wednesday beyond the coming one.",
-     "quote": "adding fresh litter to it everyday and then pull it on wednesday morning please."
     },
     {
      "cat": "behavior",
@@ -2865,16 +2835,6 @@
     "Bella"
    ],
    "items": [
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Chelsea Tompkins visit report, Oct 11 9:22am",
-     "office": true,
-     "note": "Bella's #2 on the Oct 11 morning visit was logged as diarrhea again - the report's consistency field reads very loose/diarrhea, with the sitter noting the dog seems fine otherwise. She went #1 a few times and #2 once. This is the THIRD logged diarrhea episode for Bella in the brief (Sep 20, Sep 27, Oct 11), so it is no longer a one-off; the office should raise it with the client. No vet contact, diet change or medication appears anywhere in this mailbox.",
-     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
-    },
     {
      "cat": "health",
      "sev": "medium",
@@ -4507,26 +4467,6 @@
      "office": false,
      "note": "Backyard only, no walks required. The dogs may not want to come back inside; a leash and a walk around the backyard is allowed, and cheese is the reliable lure. They stay in the upstairs bedroom (up the stairs, to the right) when unattended and may chew or damage things in there; no need to clean up messes in that room.",
      "quote": "Use cheese if needed to get them inside"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Tiarra Roberts visit report, Oct 11 8:32am",
-     "office": false,
-     "note": "Oct 11 morning visit: Storm ate little of his share of the split can while Timber ate normally. The uneaten food was left upstairs with the dogs at the end of the visit. Bill is away on a trip. This is the third appetite note on this household since Sep 27 (Sep 27 Timber slow, Oct 1 both dogs reluctant) but each report names a different dog, so it is an observation to watch rather than an established pattern.",
-     "quote": "Timber had an appetite but Storm didnt really eat, too much."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Tiarra Roberts visit report, 1:56pm",
-     "office": true,
-     "note": "At the 1:56pm visit neither Storm nor Timber had much appetite at lunch; leftover food was taken upstairs with them. Both went #1, no #2 recorded on the report, no accidents. Bill is away and the sitter notes he is home soon.",
-     "quote": "We went back inside for lunch, they didn't have much appetite."
     },
     {
      "cat": "home",
@@ -6725,16 +6665,6 @@
      "quote": "They want you to sign in and out at the front desk."
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Private client message from Gina Sullivan, Oct 11 12:38pm",
-     "office": true,
-     "note": "Gina asked the office to send her the schedule as soon as possible so she can line up extra dog walkers for this week. Unanswered as of 1:12pm. Her wording is about lining up walkers on her side; it is not clear from the email alone what coverage she is expecting from us.",
-     "quote": "Please send me the schedule ASAP so I can line up extra dog walkers for this week."
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -7405,16 +7335,6 @@
      "quote": "CLOSE PANTRY DOOR"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Tiarra Roberts visit report, Oct 11 9:52am",
-     "office": false,
-     "note": "Oct 11 morning visit: Pippa could not be found at all when the sitter arrived, so her wet-food plate was held back; she appeared later in the visit and was then fed. Polly greeted the sitter at the door and was heard by her bell first. The sitter described Pippa as a little shy that morning and wondered if she was missing the owners. Second visit in a row where Pippa has been slow to come out - still an observation, not a rule. Nobody was at the door on arrival.",
-     "quote": "I did look for Pippa, to bring her a plate, but I could not find her."
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -7533,27 +7453,17 @@
    ],
    "items": [
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 9",
-     "source": "Zachary Schulman has sent you a new message, Oct 9 7:08am",
-     "office": false,
-     "note": "For today's visit the client asks the walker to FEED Walt. He is leaving Walt's lunch in a plastic bag on the kitchen counter, and asks the sitter to make sure Walt has enough water before leaving. This is a request for today only as written - nothing in the message makes it a standing rule.",
-     "quote": "I am leaving his lunch in a plastic bag on the kitchen counter to make it easy."
-    },
-    {
      "cat": "home",
-     "sev": "medium",
+     "sev": "high",
      "type": "recent",
-     "date": "Oct 9",
-     "source": "Harvett Ellington visit report 1:00pm",
+     "date": "Nov 2",
+     "source": "Client message via text",
      "office": true,
-     "note": "AMBIGUOUS - needs confirming. Against this morning's request to feed Walt the lunch left in a plastic bag on the kitchen counter, the 1:00pm report answers the dry-food-fed field Yes but its written text does not mention the counter lunch at all. Cannot tell from the mail whether the client's actual request was followed. Visit otherwise normal: long walk, #1 and #2 firm and healthy, water refreshed, trash and mail brought in.",
-     "quote": ""
+     "note": "Client messaged at 9:36 AM asking whether we needed help getting in; no reply sent yet. Message does not say whether a sitter was actually unable to enter or whether this is a proactive offer. He is on today's schedule and his Nov 1 service order is still unapproved.",
+     "quote": "Do you need help getting in?"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Joan (Lynn) Stemmer",
@@ -7675,16 +7585,6 @@
    "items": [
     {
      "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Elizabeth Sigler visit report, 11:59am",
-     "office": false,
-     "note": "Second visit for Juniper and she warmed up much faster than on Oct 10: out from under the couch almost at once, ate some of her wet food, accepted pets from both sitters and purred. She went back under the couch with a couple of minutes left; Elizabeth S wondered whether a noise from next door spooked her, which is her guess and not confirmed.",
-     "quote": "She was a lot quicker to come out from under the couch (almost immediately) and she even ate some of her wet food."
-    },
-    {
-     "cat": "behavior",
      "sev": "low",
      "type": "recent",
      "date": "Oct 12",
@@ -7692,16 +7592,6 @@
      "office": false,
      "note": "Third visit for Juniper and no hiding reported at all - she came out on her own for attention. She was fed wet food, given treats and the litter box was scooped. The water-bowl refill field was answered No; the house has a fountain rather than a bowl, which may be why.",
      "quote": "She came out to say hi and get some attention"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Denise Enriquez has sent you a new message (6:49pm)",
-     "office": true,
-     "note": "Denise explains she booked a shorter visit length this time because she was unsure Juniper would be social, and says Juniper is getting more comfortable. She does not ask for a change, but the office may want to offer a longer visit now.",
-     "quote": "We put a shorter time this time because I wasn’t sure if she’d be social"
     },
     {
      "cat": "home",
@@ -7954,16 +7844,6 @@
      "office": false,
      "note": "Parking instruction added for the first time: her assigned spot is marked D, or park on the street. Waste and supply detail also added - poop bags in a box by the door or at the stations around the complex, cleaning supplies and paper towels in the kitchen on a shelf, extra paper towels in the kitchen closet.",
      "quote": "Parking in her spot marked D or on street"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 11",
-     "source": "Client message",
-     "office": true,
-     "note": "Jennifer says she placed a service request for 11/18 by mistake, does not need that day, and does not know how to remove it. Needs the office to cancel the 11/18 request and reply to her. She placed a separate new service order request a few minutes later, which is a booking and not part of the brief.",
-     "quote": "I accidently put in a request for services on 11/18. I do not need that day and I don't know how to remove it."
     },
     {
      "cat": "health",
