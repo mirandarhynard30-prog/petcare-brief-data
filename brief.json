@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T09:50:08-05:00",
+ "generated": "2026-11-02T11:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -650,6 +650,16 @@
     "CJ"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 2",
+     "source": "Terry M private message, 9:57 AM",
+     "office": true,
+     "note": "Client asks that his Wednesday visit this week (Wed Nov 4) be removed from the schedule - he confirmed with his employer he will be working remotely that day. Needs cancelling in Time To Pet; no reply sent yet.",
+     "quote": "I just confirmed with my boss that Wednesday I will be working remotely this week. Please remove Wednesday for the schedule."
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -7461,6 +7471,16 @@
      "office": true,
      "note": "Client messaged at 9:36 AM asking whether we needed help getting in; no reply sent yet. Message does not say whether a sitter was actually unable to enter or whether this is a proactive offer. He is on today's schedule and his Nov 1 service order is still unapproved.",
      "quote": "Do you need help getting in?"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 2",
+     "source": "Alex Miller visit report, 10:34 AM",
+     "office": false,
+     "note": "Sitter took the trash out on the mid-morning visit and believes the house is out of trash bags - worded as uncertain, not confirmed. Walter's walk was otherwise normal, #1 and #2, stool firm and healthy.",
+     "quote": "We also took the trash out for you but we think you are out of trash bags."
     }
    ],
    "dormant": false
