@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T13:20:07-05:00",
+ "generated": "2026-11-02T14:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3590,6 +3590,16 @@
      "quote": "He did go number two twice and really did well on his walk today."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 2",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Guinness balked at going out at the start of the 12:40 PM walk and wanted to stay inside with his owner, who was home. He walked a little once leashed, then got going after seeing another dog out with a walker and getting a treat. Walked well after that and went #1 and #2 a couple of times toward the Commons.",
+     "quote": "a very strange Guinness when I arrived today not wanting to go outside and just stay with mom"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3688,16 +3698,6 @@
      "office": false,
      "note": "Guinness went both #1 and #2 on the Oct 15 midday walk and Dan Dantimo again logged the consistency as a little loose but not concerning. Same reading as Oct 13 and Oct 2. The walk itself was a long one around the block and the sitter describes him as happy and energetic.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Dan Dantimo visit report, Oct 15 12:53pm",
-     "office": false,
-     "note": "The Oct 15 report's home-securing field says the client was home during the visit and asked that the door not be locked. Recorded from one report only - whether this is a standing request or just for today is not stated.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -7484,6 +7484,16 @@
     },
     {
      "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 2",
+     "source": "Alex Miller visit report",
+     "office": false,
+     "note": "Sitter reported Nov 2 afternoon that there is no peanut butter left to fill Walter's kongs.",
+     "quote": "we didn’t see anymore peanut butter for his kongs"
+    },
+    {
+     "cat": "home",
      "sev": "low",
      "type": "recent",
      "date": "Nov 2",
@@ -7824,6 +7834,16 @@
      "office": false,
      "note": "New escape-risk section in the Company Notes. Keep the screen door shut. Bruno chases delivery trucks and other dogs; Suka chases bicycles, motorcycles, cars and anything with wheels, plus squirrels. The record lists one further trigger for Suka in wording that should not be reproduced on a public page - read that line in Time To Pet.",
      "quote": "Excape Risk Keep screen door shut. Bruno will chase fed ex trucks and other dogs"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 2",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "On the Nov 2 early-afternoon walk Bruno barked once at a couple of passing dogs, then stopped. Both dogs were initially very interested in the other dogs but then listened; the sitter moved them along to avoid trouble. Single observation.",
+     "quote": "We did see a couple of dogs today and Bruno did bark once but then he stopped."
     },
     {
      "cat": "home",
