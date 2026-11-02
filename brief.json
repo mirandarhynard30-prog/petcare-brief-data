@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T17:20:07-05:00",
+ "generated": "2026-11-02T18:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -780,6 +780,16 @@
     "Lucy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 2",
+     "source": "Angela Jozsa private message, Nov 2 6:02 PM",
+     "office": true,
+     "note": "Client cancelled tomorrow's (Tue Nov 3) service by private message at 6:02 PM. No reason given and no other dates mentioned. Message is signed \"Carol\" although the account is Angela Jozsa - unclear who wrote it; confirm before actioning. Lucy's walk needs removing from Nov 3 and the assigned walker told.",
+     "quote": "Hi Miranda! Sorry but I am going to need to cancel service for tomorrow!"
+    },
     {
      "cat": "schedule",
      "sev": "high",
