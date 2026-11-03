@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T05:20:10-05:00",
+ "generated": "2026-11-03T09:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7868,6 +7868,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Karen Grosser private message, 8:59 AM Nov 3",
+     "office": false,
+     "note": "Building entry, in reply to the office: the reddish wood side doors by the garbage bins will be open. If they are not, ask the Senior Center, Trish or Mike behind the split door, or Tatiana the building manager. Grosser has emailed Trish and Tatiana but had no reply yet, so entry is not guaranteed - message the office if the sitter cannot get in.",
+     "quote": "Yes, the side doors (they look like reddish wood doors that are close to the lovely garbage bins) will be open."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -7976,16 +7986,6 @@
      "office": true,
      "note": "Karen added a pet named Chloe to her account on the same evening she filled in her own profile. The notification carries nothing but the pet's name, so there is still no species, age or care detail on file to go with the placeholder access instructions. Onboarding is incomplete on both fronts.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 30",
-     "source": "Tiarra Roberts updated contact information for Karen Grosser",
-     "office": false,
-     "note": "Three water bowls - a fountain on the kitchen bar counter and one in the crate. Water comes from the fridge filter and the fridge door has to be shut hard.",
-     "quote": "use filtered water from inside fridge. Close fridge door FIRMLY"
     }
    ],
    "dormant": false
