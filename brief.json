@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T13:20:07-05:00",
+ "generated": "2026-11-03T14:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5914,6 +5914,16 @@
      "office": true,
      "note": "Eye-drop instruction rewritten: drops are in the LEFT cabinet above or next to the stove, give them if her eye is goopy and she lets you. The softener If not, no big deal was removed in that same edit. The conflict is unresolved: the client's own Sep 29 message put the drops in the upper cabinet on the RIGHT, and that line was deleted from the Pet Care Note today, so the two records no longer agree and nobody has confirmed which cabinet is correct.",
      "quote": "Use eye drops (left cabinet above stove/next to stove) if eye is goopy, if she lets you"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Elizabeth Sigler visit report, Nov 3",
+     "office": false,
+     "note": "Louise scooted on the Nov 3 visit and went #2 shortly after; the sitter could not tell whether it was poop scooting or an itch, so this is ambiguous. Both dogs' stools were logged firm and healthy. Watch for a repeat before treating it as a problem.",
+     "quote": "Louise did some scooting (couldn’t tell if she was poop scooting or if her butt was just a little itchy)"
     },
     {
      "cat": "schedule",
