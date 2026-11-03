@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T14:20:08-05:00",
+ "generated": "2026-11-03T18:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7735,6 +7735,16 @@
      "quote": "Ollie had a little accident today. So I took the blanket out, and it's laying on the floor."
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Margaret Bill left a message for Clara Florian (2:45 PM visit report)",
+     "office": false,
+     "note": "At the Nov 3 afternoon visit Ollie was found sitting quietly in his crate and seeming a little sad. He took a drink, and Margaret Bill put a handful of dry food in a cleaned bowl - he ate from her hand but left the bowl untouched before she went. Stool at this visit was recorded as firm and healthy. One visit only, not a pattern.",
+     "quote": "He ate it from my hand but didn't take any in his bowl before I left."
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -7743,16 +7753,6 @@
      "office": false,
      "note": "Ollie is crated between visits and goes in willingly for a few kibble. He cried briefly when the crate was locked and settled once the sitter left. He also chewed bark on the walk and tracked grass indoors.",
      "quote": "When I locked the crate, he started a little crying, but once I left he stopped."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Kathy Pastor correction message, 6:28 PM",
-     "office": false,
-     "note": "Kathy Pastor's afternoon report said Ollie was put in the crate with his food, then she sent a correction at 6:28 PM saying the food was taken out of the crate before they left. The correction is the accurate version - no food was left in the crate.",
-     "quote": "Correction to my notes: we took the food out of the crate before we left."
     }
    ],
    "dormant": false
@@ -8524,6 +8524,16 @@
    "items": [
     {
      "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 3",
+     "source": "Shannon Anderson updated contact information for Dan Dantimo (6:03-6:04 PM)",
+     "office": false,
+     "note": "Important Notes now exist for the first time and give the standing medication and feeding routine: an anti-seizure med and a hip and joint supplement, both put in chicken, heated 10 seconds and balled up, and one feed a day at bedtime - a layer of chicken with 4 Tbsp of rice. The record does not say the dose, the time of the med, or who gives it. This supersedes the earlier brief note that no Pet Care Note existed.",
+     "quote": "Meds: Anti seizure, hip and joint, put in chicken, heat for 10sec, ball up"
+    },
+    {
+     "cat": "health",
      "sev": "medium",
      "type": "standing",
      "date": "Nov 3",
@@ -8544,6 +8554,16 @@
     },
     {
      "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 3",
+     "source": "Shannon Anderson updated contact information for Dan Dantimo (6:03 PM)",
+     "office": false,
+     "note": "Company Notes now exist and set out the visit: dog walk visits, park in the parking lot. Leash hangs by the back door, poop bags are in the closet next to the back door, and used bags go out the 2nd garage door to the right. Food is in the fridge, water bowl in the kitchen, treats on the counter, meds sitting on the counter, cleaning supplies above the dryer. Access and key details in the same update are deliberately not recorded here.",
+     "quote": "Leash: hanging by the back door"
+    },
+    {
+     "cat": "home",
      "sev": "low",
      "type": "standing",
      "date": "Nov 3",
@@ -8551,6 +8571,36 @@
      "office": false,
      "note": "Photos showing where Izzy's things are located are attached to Kathy Sullenberger's Nov 3 meet-and-greet report in Time To Pet. Until care notes exist, that report is the only record of where supplies are.",
      "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 3",
+     "source": "Shannon Anderson updated contact information for Dan Dantimo (6:04 PM)",
+     "office": false,
+     "note": "Important Notes record Izzy as dog friendly.",
+     "quote": "Dog friendly: Yes"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Joan- Gina Sullivan (Manages Account)",
+   "url": "https://www.timetopet.com/dashboard/client/t7fnymq07A1G",
+   "pets": [
+    "Sassie"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Oct 30",
+     "source": "Joan- Gina Sullivan (Manages Account) has sent you a new private message (Oct 30, 1:48 PM)",
+     "office": true,
+     "note": "Client replies by private message to something the office proposed, agreeing to try it but worried it would confuse Sassie. The message does not say what was proposed and the proposal itself is not in this mailbox, so the office needs to check the private conversation thread before any handling change is passed to sitters. Note this client is also carried in the brief under the shorter name Gina Sullivan.",
+     "quote": "We can try that but I am worried it could cause confusion with her."
     }
    ],
    "dormant": false
