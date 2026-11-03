@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T11:20:24-05:00",
+ "generated": "2026-11-03T13:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8501,6 +8501,46 @@
      "office": true,
      "note": "Client is asking the office to confirm her pending request for Nov 27 (Thanksgiving week). Unanswered as of this run. She left a callback number in the message.",
      "quote": "I wanted to check if you guys can confirm the request for Nov 27th"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Dan Dantimo",
+   "url": "https://www.timetopet.com/dashboard/client/tnoq6ih8FvxZ",
+   "pets": [
+    "Izzy"
+   ],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 3",
+     "source": "Kathy Sullenberger message to client",
+     "office": true,
+     "note": "Meet and greet done Nov 3 - Kathy Sullenberger says she has the full information for walking and possibly medicating Izzy. Whether Izzy is actually medicated is NOT stated, and no Pet Care Note has been written for this client yet, so nothing is on file for the next sitter.",
+     "quote": "I got all your information for walking and possibly medicating Izzy."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Kathy Sullenberger message to client",
+     "office": true,
+     "note": "Kathy Sullenberger wrote Nov 3 that she looks forward to Thursday for Izzy, which points to a Thu Nov 5 visit. The message does not state the date, service or times, so the office should confirm what is actually scheduled.",
+     "quote": "I look forward to Thursday."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 3",
+     "source": "Kathy Sullenberger visit report",
+     "office": false,
+     "note": "Photos showing where Izzy's things are located are attached to Kathy Sullenberger's Nov 3 meet-and-greet report in Time To Pet. Until care notes exist, that report is the only record of where supplies are.",
+     "quote": ""
     }
    ],
    "dormant": false
