@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T18:20:06-05:00",
+ "generated": "2026-11-03T05:20:10-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -485,16 +485,6 @@
      "office": true,
      "note": "FIRST report of Stella being off. The sitter says she is not acting like herself and had no #2 on the Oct 13 visit; the report's consistency field for Stella reads 'No #2 today' while Berry's was firm and healthy. The health watch at this house has been about Louie until now, so this is a different dog. Worth asking the client whether Stella has been off at home too.",
      "quote": "Stellas just not acting her usual self ..hope she's ok no #2 today"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Thomas Rakovec visit report, Oct 12 1:26pm",
-     "office": true,
-     "note": "Louie again would not go outside on the Oct 12 visit while Stella, Berry and Emma all went out. This is the same refusal reported on Sep 29 and sits alongside his ongoing hurt leg/hip, so it is now a repeating pattern rather than a one-off. Nobody has asked Liz about it.",
-     "quote": "I got everyone out except Louie, he didn't feel like it"
     }
    ],
    "dormant": false
@@ -1935,36 +1925,6 @@
      "quote": "Doc just raised it one unit in am"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Client msg + sitter Robin Lewis, Oct 12 3:52-3:55pm",
-     "office": true,
-     "note": "Marcella cancelled tonight's visit - roofers are on the house, still working, back tomorrow. Robin offered 6:30 or earlier, then confirmed she will see her next week instead. Oct 13 is not addressed either way; office should confirm whether tomorrow is on.",
-     "quote": "No I cancelled"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Client msg, Oct 12 3:55pm",
-     "office": false,
-     "note": "Roofing work has blocked the driveway and left debris around the property. Marcella says she cannot get into her own driveway. Expect no driveway access while the roofers are there.",
-     "quote": "Can't get in my driveway."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Marcella Singer has sent you a new message.",
-     "office": true,
-     "note": "At 7:11pm Eastern Marcella sent two words only. In the run of messages about the roofers this reads as the crew having left for the night, which would mean the driveway may be passable again, but she names nobody, so it is not certain from the mail. She had already said they are back tomorrow, and the Oct 13 visit is still unconfirmed - office should get a plain yes or no on tomorrow now that she is answering again.",
-     "quote": "Just left."
-    },
-    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -2531,26 +2491,6 @@
      "office": false,
      "note": "New supply location added this morning: the canned food and its plates are next to the couch. The earlier save dropped the line saying black trash bags are under the kitchen sink.",
      "quote": "AM/PM Feeding - canned food/plates located next to couch"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Brandy Harkless client message 12:50pm",
-     "office": false,
-     "note": "Client asks tonight's sitter to open the living room curtains all the way for the cats; she says she forgot to do it. Tiarra Roberts replied that she will.",
-     "quote": "hi whoever comes tonight can you please open the living room curtains all the way for the cats? i completely forgot."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Tiarra Roberts visit report, Oct 12 7:52pm",
-     "office": false,
-     "note": "CatTV could not be played on the Oct 12 evening visit - the sitter reports the TV said it was not connected to the internet. A sitter trying to put CatTV on will likely hit the same thing until the TV is back online.",
-     "quote": "I tried to do CatTV but it said the TV was not connected to the internet."
     },
     {
      "cat": "behavior",
@@ -3568,16 +3508,6 @@
      "office": true,
      "note": "Ray wrote in to ask that the office NOT take his current walker off Archie's walks - he says Archie and he are both comfortable with him and neither likes change. He names the walker as 'Tommy'; the sitter currently walking Archie in these reports is Thomas Rakovec, so that is almost certainly who he means, but the email does not spell the name out. Office should treat this as a staffing instruction and confirm back to him.",
      "quote": "I would not like you to keep Tommy from walking Archie. Archie and I don’t like change."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Visit report, Thomas Rakovec, Oct 12 9:56am",
-     "office": false,
-     "note": "Archie went both #1 and #2 on the Oct 12 morning walk and the report's consistency field reads 'It was firm and healthy'. That is a normal bowel movement after the no-#2 walks logged on Sep 30, Oct 2 and Oct 9. Supplies were answered 'No' on the getting-low question this visit.",
-     "quote": "Archie went no.#1/2 like a good boy"
     }
    ],
    "dormant": false
@@ -3990,16 +3920,6 @@
     "Murphy"
    ],
    "items": [
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 12",
-     "source": "Visit report, Margaret Bill, Oct 12 11:11am",
-     "office": false,
-     "note": "Julie told the sitter Murphy had a limp after the previous walk and asked for a shorter walk on Oct 12. Margaret walked one block instead of two, at a slower pace with more sniff stops. Murphy was eager to go and did not seem bothered by the foot; #2 was firm and healthy. Julie was home during the visit. The request was stated for Oct 12 only - whether shortened walks continue is not stated.",
-     "quote": "Julie said that Murphy had a limp after our last walk. She asked us to shorten his walk today."
-    },
     {
      "cat": "home",
      "sev": "medium",
@@ -6703,6 +6623,16 @@
      "office": false,
      "note": "Important Notes now flag Sassie as an ESCAPE RISK - doors and gates must stay closed. Triggers listed as squirrels, cats and unknown people.",
      "quote": "Triggers: Squirrels, cats, unknown people"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Oct 11",
+     "source": "Pet Care Note / Important Notes updated by Margaret Bill",
+     "office": false,
+     "note": "On daily anxiety medication per the record: one pill morning and one pill evening, given in cheese whiz. Spelled 'Trazadone' in the record.",
+     "quote": "Trazadone for anxiety – 1 pill AM/1pill PM in cheese whiz"
     }
    ],
    "dormant": false
@@ -7664,7 +7594,7 @@
      "quote": "I noticed on the camera a squirrel got into our pumpkin lol!"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Clara Florian",
