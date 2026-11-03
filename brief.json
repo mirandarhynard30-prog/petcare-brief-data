@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T10:20:06-05:00",
+ "generated": "2026-11-03T11:20:24-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -597,6 +597,16 @@
      "office": false,
      "note": "The off-limits food list is longer than one flavour. As well as the Whitefish Tuna not agreeing with Sampson, the client says he will not eat the liver one or the giblet one, and she deliberately did not leave either out.",
      "quote": "He also does not like the liver one and giblet one."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Margaret Bill walk report, 11:08 AM",
+     "office": false,
+     "note": "Gordy went #2 on the morning walk and the sitter recorded the consistency as slightly loose. One observation only; client was home during the visit.",
+     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -2054,6 +2064,16 @@
      "office": false,
      "note": "Important Notes now carry the arrival procedure, the hurry-him-along rule and Macy's dog reactivity. The same save deleted the reason for the long walks, so Murphy's weight-loss goal is now recorded nowhere.",
      "quote": "Goal: weight loss -> important to get a nice long walk"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Michelle Carrara walk report, 10:28 AM",
+     "office": false,
+     "note": "Murphy went #1 and marked but did not go #2 on the morning walk. Second report in a row with no #2 (Nov 2 and Nov 3). No other symptom reported; walk was otherwise normal.",
+     "quote": "He didn't do #2."
     }
    ],
    "dormant": false
@@ -8463,6 +8483,24 @@
      "office": false,
      "note": "One cat treat tube only, served on the cat plate on the kitchen table. The note does not make clear whether Purrly is a pet name or the treat brand.",
      "quote": "Feed Purrly cat treat tube on cat plate on kitchen table, 1 tube only"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Manisha Chand",
+   "url": "https://www.timetopet.com/dashboard/client/srbwilMYWrML",
+   "pets": [],
+   "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Client message from Manisha Chand, 10:37 AM",
+     "office": true,
+     "note": "Client is asking the office to confirm her pending request for Nov 27 (Thanksgiving week). Unanswered as of this run. She left a callback number in the message.",
+     "quote": "I wanted to check if you guys can confirm the request for Nov 27th"
     }
    ],
    "dormant": false
