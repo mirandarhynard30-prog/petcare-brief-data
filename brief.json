@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T09:20:07-05:00",
+ "generated": "2026-11-03T10:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7695,6 +7695,16 @@
      "quote": "Put a small handful of dry food in his bowl and put in his crate"
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Margaret Bill visit report 10:01 AM",
+     "office": false,
+     "note": "Ollie had a potty accident on the Nov 3 morning visit. Margaret Bill took the soiled blanket out of the crate and left it on the floor to be bagged, and put a pee pad in the crate. She said she would return later the same day with a clean blanket or towel. Next sitter in: expect no blanket in the crate until she does.",
+     "quote": "Ollie had a little accident today. So I took the blanket out, and it's laying on the floor."
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -7713,16 +7723,6 @@
      "office": false,
      "note": "Kathy Pastor's afternoon report said Ollie was put in the crate with his food, then she sent a correction at 6:28 PM saying the food was taken out of the crate before they left. The correction is the accurate version - no food was left in the crate.",
      "quote": "Correction to my notes: we took the food out of the crate before we left."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Kathy Pastor visit report (shadowing Josh Stone)",
-     "office": false,
-     "note": "There is a small heater in the room where Ollie is crated. Kathy Pastor turned it off at the end of the Oct 22 afternoon visit because the room was getting warm. One sitter's action on one visit, not a standing instruction.",
-     "quote": "We turned off the little heater because it was getting warm in the room."
     }
    ],
    "dormant": false
