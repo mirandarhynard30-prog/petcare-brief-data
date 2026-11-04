@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T22:20:10-05:00",
+ "generated": "2026-11-04T05:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -346,26 +346,6 @@
     {
      "cat": "behavior",
      "sev": "high",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Client message 10:21am",
-     "office": false,
-     "note": "Mary is unsure she removed Rusty's diaper before crating her this morning. Rusty has been in doggy diapers since coming into heat Oct 3. Check the crate on arrival.",
-     "quote": "I am hoping i remembered to take rustys diaper off before i put her in the cage!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Shannon Anderson visit report, 11:27am",
-     "office": true,
-     "note": "STILL OPEN. The client asked at 10:21am whether Rusty's diaper came off before crating. Shannon's 11:27am report describes crating and uncrating both dogs in detail and never mentions a diaper, so nobody has confirmed it either way. Rusty has been in diapers since coming into heat Oct 3.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
      "type": "standing",
      "date": "Oct 8",
      "source": "Margaret Bill updated contact information, 11:24am",
@@ -475,16 +455,6 @@
      "office": true,
      "note": "Client messaged the office this morning on short notice to say she will be home today and will keep us posted. She named no visit time in the message - office should confirm which of today's visits is affected and tell the assigned sitter before they travel.",
      "quote": "I apologize for the short notice. I will be home today"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Thomas Rakovec visit report, Oct 13 11:48am",
-     "office": true,
-     "note": "FIRST report of Stella being off. The sitter says she is not acting like herself and had no #2 on the Oct 13 visit; the report's consistency field for Stella reads 'No #2 today' while Berry's was firm and healthy. The health watch at this house has been about Louie until now, so this is a different dog. Worth asking the client whether Stella has been off at home too.",
-     "quote": "Stellas just not acting her usual self ..hope she's ok no #2 today"
     }
    ],
    "dormant": false
@@ -702,26 +672,6 @@
     },
     {
      "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Ashley Corall visit report, Oct 13 12:26pm",
-     "office": false,
-     "note": "NEW TRIGGER reported on Rex, the dog who slipped his harness and ran loose on Sep 25. A garbage truck came up the street on the Oct 13 walk and Rex put his ears back and pulled hard for home. The sitter took both dogs to the side of the house and she and CJ distracted him until it passed. She says she had no idea he disliked the sound and will watch for garbage trucks from now on. One observation only, so not yet a standing rule, but it is a sound trigger that is not anywhere in his record.",
-     "quote": "I heard the garbage truck coming and immediately Rex’s ears went back and he started pulling towards home"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Client private message 5:35pm",
-     "office": true,
-     "note": "Client cancels this Friday's visit (Oct 16) - Terry's schedule changed again and he will be working from home. Office needs to action the cancellation. The message is signed Toni, not Terry.",
-     "quote": "Terrys schedule has changed again this week so he will be working from home Friday so we need to cancel Fridays visit"
-    },
-    {
-     "cat": "behavior",
      "sev": "medium",
      "type": "recent",
      "date": "Oct 23",
@@ -749,26 +699,6 @@
      "office": false,
      "note": "Potty accident in the house found and cleaned up by the sitter; before and after photos are in the report.",
      "quote": "There was a potty accident and I cleaned it up"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Ashley Corall visit report, Oct 13 12:26pm",
-     "office": false,
-     "note": "Warm day and both dogs seemed hot, so the walk was cut back to the cul de sac. Rex drank on returning but CJ refused water twice - the sitter tried again before leaving and still could not get him to drink. The report's water-bowl-refill field is answered No. Worth watching at the next visit in the heat.",
-     "quote": "both seemed hot so we headed back and Rex drank and CJ wouldn’t"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Ashley Corall visit report, Oct 13 12:26pm",
-     "office": true,
-     "note": "Treats are running low at this house - the sitter flagged supplies as low on the Oct 13 report. Separate from the waste-bag shortage reported Sep 30. She also notes she will be back tomorrow with Wendy joining her again.",
-     "quote": "I noticed their treats were a little low"
     }
    ],
    "dormant": false
@@ -1174,69 +1104,9 @@
      "office": true,
      "note": "Company Notes rewritten at 7:49 PM. The potty routine survives intact - leash Riggs inside, walk to the fenced area, check for small critters by the deck before unclipping, sticky gate latch. Still missing from the full new text are the two things deleted on Sep 26: the Behavior Notes warning that Riggs is reactive to wildlife (so the critter check now appears without its reason) and the instruction to close and lock both garage doors and replace the key. A week on, neither has come back.",
      "quote": "Once inside the fenced area, CHECK FOR SMALL CRITTERS BY DECK, you may unclip the leash, afterwards"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Time To Pet record edit by Tiarra Roberts",
-     "office": true,
-     "note": "Same rewrite dropped that the gate latch must end fully down, and 'MAKE SURE TO CLOSE BOTH DOORS IN GARAGE AND LOCK. Then replace key in lockbox.' Outside bottled water and bowl also gone.",
-     "quote": "Make sure the latch is in all the way down position."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Tiarra Roberts updated contact information",
-     "office": true,
-     "note": "The Current Pet Care Note was shortened Sep 17 and the reason was dropped - it used to say Riggs is triggered by small animals. Company Notes still say he is reactive to wildlife and to check for small critters by the deck before unclipping, so the rule survives but the warning is less visible.",
-     "quote": "Please check for animals in the fenced in area before releasing Riggs off the leash."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 13",
-     "source": "Client pet record update, 12:50-12:58pm",
-     "office": true,
-     "note": "A second dog, Willow, was added to this account on Sep 13 - Retriever Mix, female, black. Current Care Notes and Allergies were both set literally to 'None', so there are no handling or feeding instructions for her yet. Vet recorded as Richfield Clinic, Richfield OH, 330-659-6606. The brief previously listed only Riggs; office should confirm Willow is a real second dog and not a duplicate record, and get real care notes.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 10",
-     "source": "Company Notes updated by Tiarra Roberts, Sep 10 2:39pm",
-     "office": false,
-     "note": "New in the Company Notes: food comes pre-portioned in bags and a little water must be added before the bowl is given to Riggs. Treats are next to the fridge.",
-     "quote": "If feeding, bags will be pre-portioned out. A little bit of water must be added before giving bowl to Riggs."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 20",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "Riggs has a big bark, so the second door should be opened slowly with treats offered through a gap.",
-     "quote": "IMPORTANT: Open second door slowly, if Riggs is barking loudly, offer treats with door slightly closed."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 20",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "The gate to the fenced potty area sticks and the latch must be pushed all the way down.",
-     "quote": "The gate latch tends to stick and may need to be lifted to latch and unlatch."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Mary Ann Mckeever",
@@ -2480,7 +2350,7 @@
      "quote": "Dispose of used poop bags in flower pot on front porch"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Brandy Harkless",
@@ -2551,19 +2421,9 @@
      "note": "Wet food plate placement is now more specific. Blue fish and shrimp can on ONE plate, second can (any flavor except fish and shrimp) on another, both near the dry food dispensers at opposite ends of the room. Earlier wording only said to place the second can near the dispensers.",
      "quote": "Place plates near dry food dispensers at opposite ends",
      "source": "Tiarra Roberts, Pet Care Note edit"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 19",
-     "source": "Tiarra Roberts updated contact information for Brandy Harkless",
-     "office": false,
-     "note": "Feeding changed in the same rewrite. The fish and shrimp blue can still goes on ONE plate, but the second can (any other flavor, NOT fish and shrimp) is no longer divided across three plates on black trays - it now goes near the dry food dispensers. Same routine AM and PM. Both automatic dry feeders in the living room still get topped off.",
-     "quote": "Place near dry food dispensers"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Lance Hoffman",
@@ -2927,16 +2787,6 @@
      "office": true,
      "note": "Milo had diarrhea again on the Oct 14 midday walk, a second consecutive day, and the sitter thinks she saw a sliver of onion in it. She is new to these dogs and reports it as uncertain. Ask the client directly, with the open Oct 2 medication question. Archer was firm and healthy.",
      "quote": "Milo did have diarrhea again today and I think I saw a sliver of onion in it"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Alex Miller visit report, 12:24pm",
-     "office": true,
-     "note": "BOTH dogs unwell on the midday walk. Milo had frank diarrhea and the sitter says he was behaving strangely like something was wrong or he did not feel well, though his energy was normal. The sitter stayed over time because of it. First report of either dog being off at this house.",
-     "quote": "Milo then went number two and it was extremely runny case of diarrhea."
     },
     {
      "cat": "home",
@@ -4246,7 +4096,7 @@
      "quote": "Refill as needed"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Sonja Cuollo",
@@ -4479,7 +4329,7 @@
      "quote": "Dry dogs before bringing inside"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Emily Tharp",
@@ -5319,19 +5169,9 @@
      "office": false,
      "note": "Feed only when clients are traveling: left container Stormi 1 1/2 scoops, right Maui 1 scoop. Kitchen fish fed at PM visits only.",
      "quote": "Fish (kitchen) need to be fed at only PM visits"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 22",
-     "source": "Tiarra Roberts updated contact information for Kayle Cruz (Sep 22)",
-     "office": true,
-     "note": "The Sep 22 Company Notes rewrite removed the water refresh line. The notes now list only that there is one water bowl in the dog room.",
-     "quote": "Refresh water at each visit"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Jackie Martanovic",
@@ -5391,7 +5231,7 @@
      "quote": "Lunge line in backyard"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Tom Noble",
@@ -5863,16 +5703,6 @@
      "source": "Shannon Anderson visit report for Christine Jenison, Oct 19 12:27 PM",
      "office": true,
      "note": "Today's report again makes no mention of Weezie's eye drops - not in the narrative and not in the report form, which still carries no eye-drop field. The standing instruction is to give them if her eye is goopy and she lets you. This continues the run of reports that are silent on the drops, so there is no record either way of whether her eye was checked.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Elizabeth Cuffari visit report 12:03pm",
-     "office": true,
-     "note": "The 12:03pm midday report makes no mention of Louise's eye drops, the fourth report in a row not to. The drops are a standing instruction for when her eye is goopy, so the report does not show whether they were given, not needed, or missed.",
      "quote": ""
     },
     {
@@ -6615,16 +6445,6 @@
      "quote": "Do you know about coverage for the weekend yet? Thanks"
     },
     {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Josh Stone walk report, 1:21pm",
-     "office": false,
-     "note": "First report naming equipment that works on Sassie, who is flagged an escape risk. Josh Stone used the no-pull leash and she allowed the harness on herself. One visit only, so not yet a standing rule, but it answers the Oct 12 report where she had a harness on and no leash.",
-     "quote": "Sassie was great on her walk! The no pull leash works nicely."
-    },
-    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -6727,7 +6547,7 @@
      "quote": ""
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Julia Rosenthal",
@@ -6800,7 +6620,7 @@
      "quote": "Sebastian said not today and hid under the bed per usual."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Terri Reitmeier",
@@ -7908,6 +7728,16 @@
      "quote": "Yes, the side doors (they look like reddish wood doors that are close to the lovely garbage bins) will be open."
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Tiarra Roberts visit report for Karen Grosser, 1:17 PM Nov 3",
+     "office": false,
+     "note": "Possible door-dash risk for the second pet. When the building staffer opened the apartment door on Nov 3 she had to make sure Garrett did not get out. This is one sitter's observation on one visit, not something the client has written as a rule, but worth blocking the doorway on entry and exit until it is confirmed. The report spells the name Garett; the account carries both Garret and Garrett.",
+     "quote": "She made sure Garett didn't get out"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -7926,6 +7756,26 @@
      "office": false,
      "note": "Chloe handling, as the client wrote it: a Mini Doodle, 2 turning 3 in December, high energy. Crate trained and she will be in the crate when you arrive. She gets excited at the door on the way out; the client takes the stairs going out and the elevator coming back, sitters may use either. On lead she pulls - stop and turn around every time; if she spots a squirrel, hold on. Poop bags hang on the lead. She will usually pee but may not poop. At the door the client removes the lead, puts the key in - sometimes the key has to stay in to open the door - and says Ready, Set ... Go.",
      "quote": "On lead she may pull, I stop and turn around every time she pulls."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 3",
+     "source": "Karen Grosser message, 10:40 PM Nov 3",
+     "office": false,
+     "note": "Key situation until further notice: the client has ordered a lockbox but it is not in place yet, and she is still waiting on the building manager about an extra key and a fob, so she is using her own set in the meantime. Until that changes, entry depends on building staff and the front desk key rather than anything the sitter carries. No codes or key locations recorded here - they stay in Time To Pet.",
+     "quote": "I've ordered the lockbox but am still waiting to hear from the bldg manager about getting an extra key and a fob"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 3",
+     "source": "Tiarra Roberts visit report for Karen Grosser, 1:17 PM Nov 3",
+     "office": false,
+     "note": "How the Nov 3 walk was actually got into, which adds to the Oct 30 access note: parked in the lot, walked to the right side of the building, in through the red double doors and then the brown double doors. Desk staff were expecting the sitter and someone came upstairs to unlock the apartment. The sitter took the client's key from the front desk and handed it back to them on leaving. Reported once by this sitter, not written anywhere as a standing instruction.",
+     "quote": "I got the client's key from the front desk and return it back to them"
     },
     {
      "cat": "health",
@@ -7986,36 +7836,6 @@
      "office": true,
      "note": "A second pet, Garrett, was added to Karen Grosser's account at 4:41 PM by Tiarra Roberts. The notification carries only the name - no species, age, feeding or handling detail is on file, so a sitter walking in has an unidentified second animal in the home. Needs filling in before the next visit.",
      "quote": "has a new pet named Garrett"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 30",
-     "source": "Tiarra Roberts updated contact information for Karen Grosser (4:59 PM)",
-     "office": false,
-     "note": "Access Instructions are now filled in - the Oct 21 placeholder reading \"Working on this\" has been replaced. Route on arrival: enter at the green/white sign for EDUCATOR SENIOR APARTMENTS / PARMA HEIGHTS SENIOR CENTER, turn right through the glass entry doors to the elevators, then immediately left to the apartment door. Entry hardware is held on site; details stay in Time To Pet and are not repeated here. This supersedes the earlier brief item saying no usable entry instructions existed.",
-     "quote": "Turn right through glass entry doors, to elevators"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 21",
-     "source": "Client profile update, 5:41 PM",
-     "office": true,
-     "note": "New client filled in her own profile - address and two emergency contacts are now on file, but the Access Instructions field was left as a placeholder saying she is still working on it. No usable entry instructions exist yet, so this must be collected before any visit is assigned.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 21",
-     "source": "Karen Grosser added pet Chloe, 5:54 PM",
-     "office": true,
-     "note": "Karen added a pet named Chloe to her account on the same evening she filled in her own profile. The notification carries nothing but the pet's name, so there is still no species, age or care detail on file to go with the placeholder access instructions. Onboarding is incomplete on both fronts.",
-     "quote": ""
     }
    ],
    "dormant": false
