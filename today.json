@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T13:05:10-05:00",
+ "generated": "2026-11-04T14:20:33-05:00",
  "date": "2026-11-04",
  "label": "Nov 4, 2026",
  "clients": [
@@ -72,18 +72,6 @@
      "staff": "Noella Assi",
      "service": "Dog Visit-30 minute",
      "pets": "Chloe"
-    }
-   ]
-  },
-  {
-   "name": "Lynne  Reno",
-   "visits": [
-    {
-     "time": "1:45 PM",
-     "sort": "1345",
-     "staff": "Julie Smith",
-     "service": "Dog Visit-30 minute",
-     "pets": "Holly"
     }
    ]
   },
@@ -224,5 +212,5 @@
    ]
   }
  ],
- "visitCount": 20
+ "visitCount": 19
 }
