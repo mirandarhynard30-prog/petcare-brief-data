@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T11:20:06-05:00",
+ "generated": "2026-11-04T12:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4562,6 +4562,16 @@
     "Lilly"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Robin Lewis visit report",
+     "office": false,
+     "note": "Client asked that Lily be kept inside with no walk on this visit; Robin Lewis did so. The report does not say whether the no-walk instruction applies only to this visit or to upcoming ones, so check before walking her.",
+     "quote": "I did keep her inside and no walk today like you asked."
+    },
     {
      "cat": "home",
      "sev": "medium",
