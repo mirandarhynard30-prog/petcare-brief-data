@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T14:20:09-05:00",
+ "generated": "2026-11-04T15:20:13-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7808,6 +7808,16 @@
      "quote": "On lead she may pull, I stop and turn around every time she pulls."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 4",
+     "source": "Client message to the office, 2:46 PM, answering sitter Noella Assi's question after the Nov 4 midday walk",
+     "office": false,
+     "note": "Chloe's normal potty routine, in the client's own words: she goes #2 in the morning and in the evening, and only #1 during the day. So a midday walk with #1 and no #2 is normal for her and is not a sign of a problem.",
+     "quote": "She usually does #2 in the am and Pm... But just #1 throughout the day"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -7876,16 +7886,6 @@
      "office": false,
      "note": "Important Notes fully rewritten Oct 30 (the old note was the short intake text). Chloe is crated: after the walk put her back in the crate by snapping fingers. Purple leash hangs next to the front door; extra poop bags on top of the fridge.",
      "quote": "Chloe will be in crate, put her back inside, after walk, by snapping fingers"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Tiarra Roberts updated details for pet Chloe (Client: Karen Grosser), 5:00 PM",
-     "office": true,
-     "note": "At 5:00 PM Chloe's Current Care Notes field was overwritten with the single line Gets excited about kids, deleting the client's full handling paragraph that is preserved in the item above. Allergies went from NONE YET to NONE and the microchip field was cleared in the same edit. This is the fourth note rewrite this week that replaced a whole field rather than editing it. If the trim was not intended, the crate, leash and door routine need restoring in Time To Pet.",
-     "quote": ""
     }
    ],
    "dormant": false
