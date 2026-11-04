@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T12:05:14-05:00",
+ "generated": "2026-11-04T13:05:10-05:00",
  "date": "2026-11-04",
  "label": "Nov 4, 2026",
  "clients": [
@@ -10,7 +10,7 @@
      "time": "11:30 AM",
      "sort": "1130",
      "staff": "Robin Lewis",
-     "service": "Long Range Visit-60 Minute",
+     "service": "Long Range Visit-45 Minute",
      "pets": "Lily"
     }
    ]
@@ -48,18 +48,6 @@
      "staff": "Elizabeth Cuffari",
      "service": "Dog Visit-30 minute",
      "pets": "Frank, Weezie or Louise"
-    }
-   ]
-  },
-  {
-   "name": "Deb Ward",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Dan Dantimo",
-     "service": "Dog Visit-30 minute",
-     "pets": "Guinness"
     }
    ]
   },
@@ -205,18 +193,6 @@
    ]
   },
   {
-   "name": "Roseann Fekete",
-   "visits": [
-    {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Dan Dantimo",
-     "service": "Dog Visit-30 minute",
-     "pets": "Muffy"
-    }
-   ]
-  },
-  {
    "name": "Terri Orengo",
    "visits": [
     {
@@ -248,5 +224,5 @@
    ]
   }
  ],
- "visitCount": 22
+ "visitCount": 20
 }
