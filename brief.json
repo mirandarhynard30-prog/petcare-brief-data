@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T16:20:08-05:00",
+ "generated": "2026-11-04T18:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -203,6 +203,26 @@
      "quote": "I did get Nova to eat a few mini milk bones"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Client message 5:58 PM",
+     "office": false,
+     "note": "Evening follow-up from Terri on this morning's food refusal: by the end of the day Nova had eaten a couple of mini bones, a small portion of her dry food and a full portion of her soft food, but not her biscuit. Terri reads it as Nova being finicky rather than unwell. Appetite partly recovered the same day; still worth watching at the next visit.",
+     "quote": "I gave her a full portion of her soft food and she ate it, so maybe she’s just being finicky today."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Sitter message 6:01 PM (Shannon Anderson)",
+     "office": false,
+     "note": "New cat-to-cat observation from Shannon Anderson after the midday visit: Scarlett moved through the kitchen past Benji and Benji appeared reluctant to walk past her. This runs the opposite way to the standing note that Benji crowds Scarlett, so the pecking order between the two cats is not settled in either direction. Shannon also notes Scarlett was out and not hiding.",
+     "quote": "Scarlett is slowly walking into the kitchen and creeping past Benji and it was like he was afraid to walk past her."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -241,26 +261,6 @@
      "office": true,
      "note": "Scarlett was announced in an ordinary client message, not through a contact-information update, so whether she has been added to Terri's pet record in Time To Pet is unknown from this mailbox - worth checking so sitters see her on the visit screen. Shannon Anderson replied \"She is cute!!!\" at 4:30 PM, which shows a sitter read the message but not that the record was updated.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Kathy Sullenberger visit report 12:37pm",
-     "office": false,
-     "note": "Nova did not urinate at the midday visit even though the sitter tried for a while. Outside time was in the fenced back yard. The report also ticks the pets as a little shy. A Sep 23 note from the client says a missed potty is not a concern for her, so this is logged rather than flagged.",
-     "quote": "She did not pee. We did try for awhile."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Shannon Anderson visit report 12:38pm",
-     "office": false,
-     "note": "Kathy Sullenberger is shadowing Shannon on Nova again and took the lead on this visit. When Nova saw only Kathy she started to hide in the bedroom. They got her outside but she would not stay out in the light rain. Shannon left the lamp next to Nova's couch on for the family coming home.",
-     "quote": "Nova only saw Kathy and started to go hide in the bedroom"
     }
    ],
    "dormant": false
@@ -273,6 +273,16 @@
     "Rusty"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Visit report 5:19 PM (Margaret Bill)",
+     "office": false,
+     "note": "Rusty broke out of her crate during the 5:19 PM visit. While Margaret Bill was outside with Puck, Rusty knocked the back panel out of her crate and had the run of the apartment; nothing was damaged. Margaret refitted the back panel and put Rusty back in with her food bowl, as Rusty had not finished eating. The crate has already failed once, so check the back panel is seated before leaving Rusty in it, and bear in mind both dogs are a standing escape risk.",
+     "quote": "She had knocked the back of her crate out and had free reign of the house."
+    },
     {
      "cat": "behavior",
      "sev": "high",
