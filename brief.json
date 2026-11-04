@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T09:20:08-05:00",
+ "generated": "2026-11-04T10:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7778,6 +7778,16 @@
      "quote": "I got the client's key from the front desk and return it back to them"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 3",
+     "source": "Client message in Time To Pet, Nov 3 10:40 PM ET, replying to Tiarra Roberts",
+     "office": false,
+     "note": "Leash handling, in the client's own words after the Nov 3 walk: the dog pulls and is a heavy sniffer, and Karen thinks she has hound in her. The message says only 'she' and never names the dog - most likely Chloe, who is the one being walked, but it is not stated, so do not assume.",
+     "quote": "she can pull And yes she is a sniff aholic. I swear she has hound in her."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -7826,16 +7836,6 @@
      "office": true,
      "note": "At 5:00 PM Chloe's Current Care Notes field was overwritten with the single line Gets excited about kids, deleting the client's full handling paragraph that is preserved in the item above. Allergies went from NONE YET to NONE and the microchip field was cleared in the same edit. This is the fourth note rewrite this week that replaced a whole field rather than editing it. If the trim was not intended, the crate, leash and door routine need restoring in Time To Pet.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 30",
-     "source": "Tiarra Roberts added Garrett as pet for Karen Grosser, 4:41 PM",
-     "office": true,
-     "note": "A second pet, Garrett, was added to Karen Grosser's account at 4:41 PM by Tiarra Roberts. The notification carries only the name - no species, age, feeding or handling detail is on file, so a sitter walking in has an unidentified second animal in the home. Needs filling in before the next visit.",
-     "quote": "has a new pet named Garrett"
     }
    ],
    "dormant": false
