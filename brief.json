@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T07:20:05-05:00",
+ "generated": "2026-11-04T08:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4161,6 +4161,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 3",
+     "source": "Thomas Rakovec left a message for Christi Russo (Nov 3, 12:00 PM)",
+     "office": false,
+     "note": "Nov 3 visit: Jaxson went #1 several times on the walk and then went #2 once back home, running around outside; the consistency field was logged as firm and healthy. That fits the client's own standing note that he will only poop in his own yard or backyard, and it is the first #2 recorded for him in November.",
+     "quote": "Jax ran around and went #2"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 30",
      "source": "Dan Dantimo visit report",
      "office": false,
@@ -4246,16 +4256,6 @@
      "office": false,
      "note": "Client replied at 5:46 PM to the two no-stool reports today and says she does not know why it is happening - she treats it as unusual rather than normal for him. Worth noting against her own Oct 20 standing note that Jaxson will only poop in his own yard, which would explain it; she does not connect the two. She also identifies Jaxson as the poodle and asks for the same sitter tomorrow if possible. No instruction given, nothing for the sitter to change - log it and keep reporting.",
      "quote": "that's really weird I wonder why Jackson's not going potty"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 20",
-     "source": "Client message 4:15 PM",
-     "office": false,
-     "note": "Standing toileting detail from the client: Jaxson will not poop anywhere except his own yard or backyard, and she says Angelo does not usually get him to poop in the morning, so she assumes he really needs to go by the time the sitter arrives. Angelo is not one of the pets on record, so it reads as someone in the household rather than another animal - unconfirmed either way. Backs up her Oct 13 point that a 1:00pm arrival is late for him.",
-     "quote": "he's such a funny pooper he doesn't like to poop anywhere but his yard or his backyard"
     }
    ],
    "dormant": false
@@ -8353,6 +8353,16 @@
      "quote": "Meds: Anti seizure, hip and joint, put in chicken, heat for 10sec, ball up"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Shannon Anderson updated contact information for Dan Dantimo (Nov 3, 6:03 PM)",
+     "office": true,
+     "note": "The visit need for the surgery is spelled out in the text Shannon Anderson's Nov 3 edit REPLACED, so it is no longer in the record: morning and afternoon on Thursday Nov 5, and possibly bedtime Nov 5 and the morning of Nov 6 if Dan stays overnight in the hospital. The earlier brief item only had Kathy Sullenberger's I look forward to Thursday with no dates or times - these are the dates. Because the wording was written as possibly and then deleted from Important Notes, the office should confirm what is actually on the schedule for Nov 5 and Nov 6 rather than treat this as booked.",
+     "quote": "Will defiently need the morning and afternoon on thrusday nov 5th and possibly bedtime nov 5th"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -8401,6 +8411,16 @@
      "office": false,
      "note": "Important Notes record Izzy as dog friendly.",
      "quote": "Dog friendly: Yes"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 3",
+     "source": "Shannon Anderson updated contact information for Dan Dantimo (Nov 3, 6:03 PM)",
+     "office": false,
+     "note": "The Nov 3 Company Notes also state there is no house alarm at this home. The rest of that update - leash, poop bags and disposal, food, water, treats, meds and cleaning supplies - is already in the brief. Access and key details in the same update are deliberately not recorded here.",
+     "quote": "No house alarm"
     }
    ],
    "dormant": false
