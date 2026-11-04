@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T10:20:06-05:00",
+ "generated": "2026-11-04T11:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2789,6 +2789,26 @@
      "quote": "Milo did have diarrhea again today and I think I saw a sliver of onion in it"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Harvett Ellington visit report 11:04 AM",
+     "office": false,
+     "note": "Milo was out of his crate when Harvett arrived for the late-morning visit; she put him back in. Check the crate on entry - it is not clear from the report whether the crate was left open or Milo got himself out.",
+     "quote": "Milo was not in his crate when I entered but I put him back in there."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Harvett Ellington visit report 11:04 AM",
+     "office": true,
+     "note": "Visit report answered Yes to pet supplies getting low but the written report does not say which supply. Needs a follow-up with Harvett Ellington to find out what is running out.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2837,16 +2857,6 @@
      "office": false,
      "note": "One of the dogs' water bowls broke during the midday visit - Milo jumped up while the sitter was carrying it. Sitter picked up the pieces, bagged them and put them in the trash, and sent photos. The home is now one water bowl short.",
      "quote": "Milo jumped up and the bowl fell right out my hand and broke"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Kiara Streety visit report, 11:31 AM",
-     "office": false,
-     "note": "Water bowl was found very low and had to be refilled twice inside the one visit - once on returning from Milo's walk and again after Archer's. Kiara put it down to the pups being thirsty. Supplies-low field on the report was marked No, so this is about the bowl on the day, not a shortage. Worth topping up on arrival rather than at the end.",
-     "quote": "Came back in and refilled water it was really low!"
     }
    ],
    "dormant": false
