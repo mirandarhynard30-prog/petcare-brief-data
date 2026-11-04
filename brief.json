@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T18:20:06-05:00",
+ "generated": "2026-11-03T19:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -784,6 +784,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 3",
+     "source": "Angela Jozsa private message 6:28 PM",
+     "office": true,
+     "note": "Client cancelled Wednesday and Thursday service and asked for Friday, Saturday and Sunday instead, at the same time. She named weekdays only, no dates - read as Nov 4 and Nov 5 cancelled, Nov 6, 7 and 8 added, but that is inference, not stated. She replied \"That would be great!! Thank you Miranda!!\" five minutes later, so the office appears to have agreed; confirm the change is actually entered on the schedule.",
+     "quote": "i am going to cancel service for Wednesday and Thursday, but I will need service Friday, Saturday and Sunday at the same time"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 2",
      "source": "Angela Jozsa private message, Nov 2 6:02 PM",
      "office": true,
@@ -889,16 +899,6 @@
      "office": true,
      "note": "Standing change from next week: her work hours are changing and she wants Lucy's walk moved to 11 AM. Signed Carol, as her messages usually are, though the client of record is Angela Jozsa. Applies to the recurring schedule, not just today.",
      "quote": "it would be to Lucy‘s benefit if we could start having the Dog Walker come now at 11 AM"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Margaret Bill visit report, Oct 29 12:37 PM",
-     "office": false,
-     "note": "On the midday walk Lucy did go #2, but Margaret describes it as only a little bit and fairly loose, and the visit report's consistency field records diarrhea with the pet otherwise seeming fine. Lucy was bright, ate all her treats and was happy to see Margaret. Separate from the Oct 27 scooting report, which is still unanswered in this mailbox.",
-     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
     }
    ],
    "dormant": false
@@ -1570,6 +1570,16 @@
      "quote": "You can try taking him off the leash if you feel comfortable"
     },
     {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Christina Palmieri private messages 5:35-6:18 PM",
+     "office": false,
+     "note": "Asked at 5:35 PM whether anyone could check on Bismark for a pee break that night because her husband was stuck at work; withdrew the request at 6:17 PM once he said he was heading home. No visit needed - noted only so the earlier ask is not acted on.",
+     "quote": "Let’s hold off, he just texted me he’s going to go home, I am so sorry."
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -1628,16 +1638,6 @@
      "office": false,
      "note": "Client confirms Bismark regularly stops and lingers at the side of the house on walks, so expect it rather than treating it as new.",
      "quote": "He stops there for us often too, I’m like dude I’m not just standing here lol."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Elizabeth Sigler morning report",
-     "office": false,
-     "note": "Bismark walked to the end of the street and back but was tired on return. The sitter adds that she has a feeling he does better in this weather, which is ambiguous - it may mean the heat suits him or that cooler weather would. One visit only; fits the existing short-walk pattern rather than changing it.",
-     "quote": "seemed a little tired by the time we got back"
     }
    ],
    "dormant": false
