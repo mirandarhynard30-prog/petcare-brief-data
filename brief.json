@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T13:20:05-05:00",
+ "generated": "2026-11-04T14:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2953,6 +2953,26 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 4",
+     "source": "Client message 1:12 PM",
+     "office": true,
+     "note": "Client cancelled today's (Wed Nov 4) walk herself because of the all-day rain. This came after she had asked at 12:54 PM whether she had a walker and Julie Smith had offered to come by 1:45 - so the earlier open question is now answered: today's visit is off.",
+     "quote": "It has rained all morning. I think we should cancel as I can't foretell the future."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Client message 1:35 PM",
+     "office": true,
+     "note": "Client asks to cancel TOMORROW (Thu Nov 5) as well. Holly will be under sedation for a grooming session and the client is unsure how the medication will affect her. Needs the Nov 5 visit removed from the schedule.",
+     "quote": "Holly will be under sedation tomorrow for her grooming sessions. I think we had better cancel tomorrow"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 29",
      "source": "Julie Smith visit report 1:26 PM",
      "office": true,
@@ -3010,6 +3030,16 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Client message 1:35 PM",
+     "office": false,
+     "note": "Holly is being sedated/tranquilized for the first time, for a grooming session on Thu Nov 5. The client flagged that she does not know how Holly will react. Expect possible grogginess or unsteadiness at the next visit after grooming.",
+     "quote": "First time for tranquilizers."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3028,36 +3058,6 @@
      "office": false,
      "note": "Sitter Shannon Anderson replied at 11:49 AM confirming she will arrive by 1 PM for Holly today, which answers the client's 11:45 AM question. Today's Nov 1 coverage is therefore confirmed and staffed. The following weekdays were still unconfirmed as of Friday night and nothing has arrived about them.",
      "quote": "I'll be there by 1pm to visit with Holly today."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Lynne Reno client message, Sat 12:54 PM",
-     "office": false,
-     "note": "Client messaged at 12:54 PM, replying to the sitter's ETA, that she is out running errands. On Oct 17 and Oct 24 the same message came with the front door left open; this one says nothing about the door or about Holly, so entry for today's visit is unstated.",
-     "quote": "I'm running errands"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Dan Dantimo message to client, Sat 12:37 PM",
-     "office": true,
-     "note": "Dan Dantimo told the client at 12:37 PM he was on his way for a roughly 1:00 PM arrival, which is the first sign in this mailbox of who is covering Lynne's visits after Julie Smith said on Oct 29 she would be out. Taken from his ETA message, not from an assignment notice, so confirm the rest of the weekend is staffed.",
-     "quote": "Hi Lynne, on my way , should be by 100"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Dan Dantimo visit report, 1:49 PM",
-     "office": false,
-     "note": "Holly's #2 on today's walk was logged as slightly loose, with the sitter judging it not a concern. Worth watching on the next visit; nothing else in the report flagged, no accidents and no supplies low.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
