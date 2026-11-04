@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T13:05:06-05:00",
+ "generated": "2026-11-04T13:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -193,6 +193,16 @@
      "quote": "I can see if she’ll eat something for me when I come over"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Shannon Anderson visit report 12:51 PM",
+     "office": false,
+     "note": "Follow-up to this morning's total food refusal: Nova did eat a few mini milk bones and one small broken-up piece of a lickable treat for Shannon Anderson in the afternoon. She hid in her room on arrival, came out when asked, and would not go potty outside because of the rain. Partial appetite only - worth watching at the next visit.",
+     "quote": "I did get Nova to eat a few mini milk bones"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -251,16 +261,6 @@
      "office": false,
      "note": "Kathy Sullenberger is shadowing Shannon on Nova again and took the lead on this visit. When Nova saw only Kathy she started to hide in the bedroom. They got her outside but she would not stay out in the light rain. Shannon left the lamp next to Nova's couch on for the family coming home.",
      "quote": "Nova only saw Kathy and started to go hide in the bedroom"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 16",
-     "source": "Client message (Terri Orengo)",
-     "office": false,
-     "note": "Client treats Nova letting a new sitter pet her as a major milestone, so expect Nova to be slow to warm to unfamiliar people and to need a slow introduction.",
-     "quote": "Noves letting you pet her already is HUGE!"
     }
    ],
    "dormant": false
@@ -372,6 +372,16 @@
      "office": true,
      "note": "Oct 30 late-morning visit: Margaret reports Rusty's collar again took a while to get on. Sitter-side difficulty with the collar, not a stated injury; the collar replacement is still an open office item.",
      "quote": "It took me a little while to get Rusty's collar on."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Margaret Bill visit report 1:05 PM",
+     "office": false,
+     "note": "On a wet walk Rusty tried to drink from a puddle, after having already drunk a good deal of water indoors. Worth steering her away from standing water. The sitter also took the dogs out one at a time, Puck first, which Rusty was unhappy about - that was this sitter's choice on this visit, not a stated rule.",
+     "quote": "Rusty did try to drink out of a puddle"
     }
    ],
    "dormant": false
@@ -2933,6 +2943,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 4",
+     "source": "Client message 12:54 PM; sitter replies 12:56 and 12:59 PM",
+     "office": true,
+     "note": "Client asked at 12:54 PM whether she had a walker today. Sitter Julie Smith replied she would be there by 1:45, then at 12:59 PM asked the client to confirm given the rain: 'Let me know if I should still head your way.' No reply from the client in the mail as of this run, so the visit is waiting on her answer.",
+     "quote": "Do I have a walker today?? Wed. Nov 4"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 29",
      "source": "Julie Smith visit report 1:26 PM",
      "office": true,
@@ -3038,16 +3058,6 @@
      "office": false,
      "note": "Holly's #2 on today's walk was logged as slightly loose, with the sitter judging it not a concern. Worth watching on the next visit; nothing else in the report flagged, no accidents and no supplies low.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Julie Smith visit report 1:26 PM",
-     "office": false,
-     "note": "Holly destroyed stuffed animals before the Oct 29 midday visit - stuffing and the remains of a Minnie Mouse toy, plus brown paper. The sitter cleaned it up, binned it and sent before and after photos; the report's destruction field confirms it. Holly was otherwise bright, walked her usual loop and went #1 and #2, stool firm.",
-     "quote": "I did find a nice little mess that she left."
     }
    ],
    "dormant": false
@@ -3283,11 +3293,11 @@
      "cat": "home",
      "sev": "low",
      "type": "recent",
-     "date": "Oct 28",
-     "source": "Visit report from Ashley Corall",
+     "date": "Nov 4",
+     "source": "Tiarra Roberts visit report 1:07 PM",
      "office": false,
-     "note": "Oakley's treat supply is running low. The sitter told Anna directly in the visit report.",
-     "quote": "I did notice that his treats were running a little low and wanted to give you a heads up."
+     "note": "The leash had no waste bags left on it. The sitter restocked it from a roll of poop bags she found in the mailbox. Worth checking the leash supply at the next visit.",
+     "quote": "I saw there were no #2 bags, so I added the ones that were in the mailbox, to the leash."
     }
    ],
    "dormant": false
@@ -3529,6 +3539,16 @@
     "Muffy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Client text message 12:46 PM",
+     "office": true,
+     "note": "Client replied 'yes please' to something the office had offered about today's walk, said she forgot it was walk day, is not home, the door is locked, and reads the rain as having saved her. The email does not contain what she was agreeing to, so whether today's walk is cancelled, shortened or still on is unclear from the mail alone - office should confirm.",
+     "quote": "i totally forgot today is walk day and just panicked because I'm not home and door is locked"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -5784,6 +5804,16 @@
      "office": true,
      "note": "OFFICE DECISION NEEDED. Client asks whether the sitters can stop sending her the routine visit updates and only message when something is wrong. She frames it as saving the sitters time and says she does appreciate them. This is a request, NOT an agreed rule - nothing in the mail shows an answer, so sitters should keep reporting as normal until the office replies. Note the standing concern on this account is the opposite: reports here have repeatedly failed to mention Louise/Weezie's eye drops, so cutting reports down would remove the only record that the drops were given.",
      "quote": "Would you guys be OK if I said you do not have to give them to us anymore unless something wrong?"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Elizabeth Cuffari visit report 12:27 PM",
+     "office": false,
+     "note": "Both dogs were reluctant to go outside in the rain and had to be coaxed out with treats. Frank refused to go down the deck steps even for treats and went #1 and #2 on the deck instead; the sitter cleaned it up. Louise did go down the steps. One wet-day observation, not stated as a standing rule.",
+     "quote": "Frank wouldn’t go down the steps, even with the treats"
     },
     {
      "cat": "health",
