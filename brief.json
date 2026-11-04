@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T08:20:08-05:00",
+ "generated": "2026-11-04T09:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -143,6 +143,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Client message from Terri Orengo, 8:12 AM Nov 4",
+     "office": false,
+     "note": "Client message at 8:12 AM today: Nova refused breakfast and all snacks this morning. Terri says Nova was excited for her walk and is otherwise acting normally, and is reporting it only as a heads-up because Nova is normally strongly food-motivated. No vet contact, no medication change and no instruction to the sitter is mentioned.",
+     "quote": "Nova didn’t want any breakfast or snacks this morning."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -171,6 +181,16 @@
      "office": false,
      "note": "Client says Nova has started pain management for arthritis. Volunteered in reply to the sitter remarking she was surprised Nova had a few seconds of zoomies in the yard that day, so Terri is offering it as the likely explanation. Neither the drug nor the dosing schedule is named, and nothing is asked of the sitter. Arthritis is new information in the brief and may also explain Nova's repeated reluctance to go outside.",
      "quote": "She started pain management for arthritis (another thing for her 😭) so that might be why."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Shannon Anderson message to Terri Orengo, 8:12 AM Nov 4",
+     "office": false,
+     "note": "Shannon Anderson answered the client within the minute, saying she would try offering Nova food when she comes over. The reply does not say which visit or what food, so whether that test happened is not recorded in this mailbox.",
+     "quote": "I can see if she’ll eat something for me when I come over"
     },
     {
      "cat": "behavior",
@@ -241,26 +261,6 @@
      "office": false,
      "note": "Client treats Nova letting a new sitter pet her as a major milestone, so expect Nova to be slow to warm to unfamiliar people and to need a slow introduction.",
      "quote": "Noves letting you pet her already is HUGE!"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 31",
-     "office": false,
-     "source": "Terri Orengo pet detail updates for Benji (10:42 AM) and Scarlett (11:04 AM)",
-     "note": "The client filled in the previously blank records for both cats this morning. Both are tabbies - Benji orange, born May 1 2020; Scarlett brown and black, born Oct 1 2024 - and both now list Rocky River Animal Hospital, 2573 Wooster Rd, 440-331-7711 as the vet. This closes the record gap left when Scarlett was announced by message on Oct 24.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 28",
-     "source": "Visit report from Kathy Sullenberger",
-     "office": false,
-     "note": "Nova would not come outside on her own - the sitter put her harness on to coax her out, after which she went #1 and #2 in the fenced back yard. One sitter on one visit, not an established rule.",
-     "quote": "I had to put the harness on her to intice her out."
     }
    ],
    "dormant": false
