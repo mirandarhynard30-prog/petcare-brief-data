@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T15:20:13-05:00",
+ "generated": "2026-11-04T16:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3548,6 +3548,16 @@
      "office": true,
      "note": "Client replied 'yes please' to something the office had offered about today's walk, said she forgot it was walk day, is not home, the door is locked, and reads the rain as having saved her. The email does not contain what she was agreeing to, so whether today's walk is cancelled, shortened or still on is unclear from the mail alone - office should confirm.",
      "quote": "i totally forgot today is walk day and just panicked because I'm not home and door is locked"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Client message (text) 3:49 PM",
+     "office": true,
+     "note": "Client wrote at 3:49 PM that she is home now and gave her preference for the make-up walk: Friday would suit her best, and any day except Tuesday works. Nothing in the mail shows a day has been picked or booked yet, so the office still has to choose one and put it on the schedule.",
+     "quote": "Hi, just got home. Friday would be nice, but any day except Tuesday is good."
     },
     {
      "cat": "behavior",
@@ -8372,6 +8382,26 @@
    "url": "https://www.timetopet.com/dashboard/client/srbwilMYWrML",
    "pets": [],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Client message 3:58 PM",
+     "office": true,
+     "note": "Client replied at 3:58 PM offering two windows and asked for an answer: tomorrow evening (Thu Nov 5) after 5, or next Tuesday. The email does not say what the office had offered, so what she is agreeing to is not established from the mail - it reads as a call or meet-and-greet rather than a visit. Still unanswered.",
+     "quote": "Sure, I can do tomorrow evening after 5 or next week on Tuesday. Let me know."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Client message 3:58 PM",
+     "office": true,
+     "note": "Pet count clarified by the client in the same 3:58 PM message: she owns only one dog, Kaaju. A second dog, a golden doodle, belongs to her niece, who is visiting for Thanksgiving. The message does not say whether the golden doodle is at the home now or only over the Thanksgiving period, so the office should confirm how many dogs the pending Nov 27 request covers.",
+     "quote": "I have only one dog, Kaaju. The golden doodle is my niece’s who is visiting us for a thanksgiving."
+    },
     {
      "cat": "schedule",
      "sev": "medium",
