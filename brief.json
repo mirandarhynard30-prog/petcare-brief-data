@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T05:20:06-05:00",
+ "generated": "2026-11-04T07:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1116,6 +1116,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 3",
+     "source": "Tiarra Roberts visit report, Nov 3 8:28 PM",
+     "office": false,
+     "note": "Nov 3 evening visit: the client was home and the sitter helped her give Georgie his medicine and eyedrops, then gave him ice cubes afterwards. Georgie went #2 and the sitter recorded the consistency as firm and healthy. One report only - this is how that visit went, not a confirmed standing rule. Medication details are in Time To Pet.",
+     "quote": "I helped Mary Ann with Georgie's medicine and eyedrops."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -1224,16 +1234,6 @@
      "office": false,
      "note": "Evening medicine and eyedrops confirmed again on the Oct 18 evening visit (sitter ETA 7:59 PM, report filed 8:20 PM). Mary Ann was home and the sitter assisted her rather than giving them alone, then gave an ice cube treat. Harness went on in the laundry room. The report logs medication administered Yes and the stool firm and healthy. This is now the fifth evening visit on record with the same routine.",
      "quote": "Once inside, I helped Mary Ann with Georgie's medicine"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Tiarra Roberts evening visit report, 7:35 PM Oct 16",
-     "office": false,
-     "note": "Evening eyedrop and medication routine confirmed again on the Oct 16 7:14 PM visit. Mary Ann was home and the sitter assisted her rather than giving them alone, same as the Oct 1, Oct 5 and Sep 27 reports.",
-     "quote": "Then, helped Mary Ann administer eyedrops and medicine"
     }
    ],
    "dormant": false
