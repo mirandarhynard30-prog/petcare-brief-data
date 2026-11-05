@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T14:20:07-05:00",
+ "generated": "2026-11-05T15:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3340,6 +3340,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Deb Ward private message",
+     "office": true,
+     "note": "Deb is pausing Guinness's walks after this Sunday; she will keep the Sunday walk and says she will come back for help later when snow and ice arrive. Needs a reply and the recurring visits after Sunday taken off the schedule.",
+     "quote": "after this Sunday I need to take a pause from having Guinness walked"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -3448,16 +3458,6 @@
      "office": false,
      "note": "Guinness went #2 twice on the walk; sitter logged the consistency as a little loose but not concerning. Single observation, no other symptoms noted.",
      "quote": "he went number one and two (twice)"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Dan Dantimo visit report, Oct 15 12:53pm",
-     "office": false,
-     "note": "Guinness went both #1 and #2 on the Oct 15 midday walk and Dan Dantimo again logged the consistency as a little loose but not concerning. Same reading as Oct 13 and Oct 2. The walk itself was a long one around the block and the sitter describes him as happy and energetic.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -4391,6 +4391,16 @@
     "Mr. Midnight"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Kari Majewski message (two parts)",
+     "office": false,
+     "note": "House tasks for this trip, same as last time: bring the garbage can down to the garage, grab mail from the 1388 and 1392 boxes, bring in any packages, put bird seed on all 3 deck rails, and feed the fish (a note about the fish is in the kitchen). Kari names Margaret as the sitter.",
+     "quote": "Put bird seed on all 3 rails of the deck 5. Feed fish (there is a note in the kitchen re:fish."
+    },
     {
      "cat": "home",
      "sev": "medium",
@@ -8155,6 +8165,16 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Dan Dantimo message",
+     "office": false,
+     "note": "Dan has seen the loose-stool reports and told the office not to worry about it. He gave no further instruction and did not mention the vet, so Izzy's stool is still worth noting on each visit but the owner is aware and is not concerned.",
+     "quote": "Yeah, don't be too concerned about the diarrhea"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "standing",
      "date": "Nov 3",
      "source": "Kathy Sullenberger message to client",
@@ -8211,16 +8231,6 @@
      "office": false,
      "note": "Important Notes record Izzy as dog friendly.",
      "quote": "Dog friendly: Yes"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 3",
-     "source": "Shannon Anderson updated contact information for Dan Dantimo (Nov 3, 6:03 PM)",
-     "office": false,
-     "note": "The Nov 3 Company Notes also state there is no house alarm at this home. The rest of that update - leash, poop bags and disposal, food, water, treats, meds and cleaning supplies - is already in the brief. Access and key details in the same update are deliberately not recorded here.",
-     "quote": "No house alarm"
     }
    ],
    "dormant": false
