@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T11:20:09-05:00",
+ "generated": "2026-11-05T12:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7877,6 +7877,16 @@
      "office": true,
      "note": "First information this client has ever supplied. Worth confirming the pet care note is completed - species, age, feeding and handling for Brutus are still blank.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Robin Lewis visit message",
+     "office": false,
+     "note": "Sitter had no cell reception inside the house on the Nov 5 visit and asked the client for the Wi-Fi password to get a signal; the client replied with it through Time To Pet. Expect no cell signal indoors - the Wi-Fi credential stays in Time To Pet and is not recorded here. Single report, not confirmed as an every-visit problem.",
+     "quote": "Could I please have the password for your Wi-Fi for some reason I cannot get reception in your house"
     },
     {
      "cat": "health",
