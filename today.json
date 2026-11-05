@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T12:20:09-05:00",
+ "generated": "2026-11-05T13:20:31-05:00",
  "date": "2026-11-05",
  "label": "Nov 5, 2026",
  "clients": [
@@ -64,8 +64,8 @@
    "name": "Deb Ward",
    "visits": [
     {
-     "time": "12:00 PM",
-     "sort": "1200",
+     "time": "12:30 PM",
+     "sort": "1230",
      "staff": "Thomas Rakovec",
      "service": "Dog Visit-30 minute",
      "pets": "Guinness"
@@ -150,8 +150,8 @@
    "name": "Matt Konn",
    "visits": [
     {
-     "time": "1:00 PM",
-     "sort": "1300",
+     "time": "1:30 PM",
+     "sort": "1330",
      "staff": "Monica Hopewell",
      "service": "Dog Visit-30 minute",
      "pets": "Ripley"
