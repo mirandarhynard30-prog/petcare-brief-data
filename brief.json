@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T13:20:08-05:00",
+ "generated": "2026-11-05T14:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7889,6 +7889,16 @@
      "quote": "Could I please have the password for your Wi-Fi for some reason I cannot get reception in your house"
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Tracy Martin message, 1:31 PM",
+     "office": false,
+     "note": "The frozen blue Kong Tracy said would be in the freezer for the crate was not there. She says she asked her kid to put it in and did not check, so do not count on finding one.",
+     "quote": "I asked my kid to put it in The freezer but didn’t verify."
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -8101,6 +8111,16 @@
      "office": false,
      "note": "Nov 5 morning visit: Izzy went #1 and #2 and the stool was loose. The sitter recorded the consistency as 'very loose/ diarrhea but pet seems fine otherwise' and offered her own guess that it may relate to Izzy's medication - that link is the sitter's speculation, not a vet opinion. Izzy was otherwise bright, met her at the back door with a tail wag, took a long drink and was given a couple of treats. Same sitter returns at 1 PM, so the afternoon visit should check whether it is still loose.",
      "quote": "Pretty soft stool but probably uncommon with her meds."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Kathy Sullenberger visit report, 1:20 PM",
+     "office": true,
+     "note": "The 1 PM recheck found Izzy's stool still soft - Kathy reports it unchanged from the 9 am visit. That is two consecutive visits with loose stool on a dog on anti-seizure medication, on the day Dan is in surgery. Kathy notes she is otherwise fine - happy, eating treats, drinking well, walked the complex - and in the morning report she suggested the softness may not be unusual with Izzy's meds, which is her impression and not a vet opinion. The office should decide whether to call Dan or his vet.",
+     "quote": "She did #1 and 2. Same consistency."
     },
     {
      "cat": "health",
