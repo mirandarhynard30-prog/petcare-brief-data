@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T05:20:05-05:00",
+ "generated": "2026-11-05T06:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -371,6 +371,26 @@
      "source": "Margaret Bill visit report 1:05 PM",
      "office": false,
      "note": "On a wet walk Rusty tried to drink from a puddle, after having already drunk a good deal of water indoors. Worth steering her away from standing water. The sitter also took the dogs out one at a time, Puck first, which Rusty was unhappy about - that was this sitter's choice on this visit, not a stated rule.",
+     "quote": "Rusty did try to drink out of a puddle"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Margaret Bill visit report for Mary Gilmore",
+     "office": false,
+     "note": "On the Nov 4 midday visit Margaret took Puck out first and Rusty was unhappy about waiting; Rusty went out second.",
+     "quote": "Rusty wasn't very happy with that"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Margaret Bill visit report for Mary Gilmore",
+     "office": false,
+     "note": "Rusty tried to drink from a puddle on the Nov 4 midday walk, after already drinking a lot of water indoors.",
      "quote": "Rusty did try to drink out of a puddle"
     }
    ],
@@ -2772,6 +2792,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 4",
+     "source": "Harvett Ellington visit report for Paulo Garcia",
+     "office": true,
+     "note": "Harvett's Nov 4 report answered yes to pet supplies getting low but did not say which supply - ambiguous, needs a follow-up with the sitter.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 2",
      "source": "Shannon Anderson visit report",
      "office": false,
@@ -3258,6 +3288,16 @@
      "office": true,
      "note": "Ray wrote in to ask that the office NOT take his current walker off Archie's walks - he says Archie and he are both comfortable with him and neither likes change. He names the walker as 'Tommy'; the sitter currently walking Archie in these reports is Thomas Rakovec, so that is almost certainly who he means, but the email does not spell the name out. Office should treat this as a staffing instruction and confirm back to him.",
      "quote": "I would not like you to keep Tommy from walking Archie. Archie and I don’t like change."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Thomas Rakovec visit report for Ray Koesel",
+     "office": false,
+     "note": "Ray was home on Nov 4 with Archie ready to go. The walk was cut short by rain - Archie went number one several times but no number two.",
+     "quote": "He went #1 several times but didn't go #2 because of rain"
     }
    ],
    "dormant": false
@@ -8014,6 +8054,16 @@
     },
     {
      "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 3",
+     "source": "Shannon Anderson updated contact information for Dan Dantimo",
+     "office": false,
+     "note": "Fed once a day at bedtime: layer shredded chicken on the bottom of the bowl, add 4 Tbsp of rice, heat in the microwave about 1 minute. Food is in the fridge.",
+     "quote": "Feed 1x daily (bedtime): layer of chicken and 4Tbsp of rice"
+    },
+    {
+     "cat": "health",
      "sev": "medium",
      "type": "standing",
      "date": "Nov 3",
@@ -8041,6 +8091,16 @@
      "office": false,
      "note": "Company Notes now exist and set out the visit: dog walk visits, park in the parking lot. Leash hangs by the back door, poop bags are in the closet next to the back door, and used bags go out the 2nd garage door to the right. Food is in the fridge, water bowl in the kitchen, treats on the counter, meds sitting on the counter, cleaning supplies above the dryer. Access and key details in the same update are deliberately not recorded here.",
      "quote": "Leash: hanging by the back door"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 3",
+     "source": "Shannon Anderson updated contact information for Dan Dantimo",
+     "office": false,
+     "note": "Company Notes added Nov 3: dog walk visits, park in the parking lot. Leash hangs by the back door, poop bags in the closet next to the back door, bag disposal at the second garage door to the right. Water bowl in the kitchen, treats on the counter, cleaning supplies above the dryer.",
+     "quote": ""
     },
     {
      "cat": "home",
@@ -8083,6 +8143,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Josh Stone visit report for Joan- Gina Sullivan",
+     "office": false,
+     "note": "On the Nov 4 visit the client was home and asked that the door not be locked on leaving.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -8091,6 +8161,16 @@
      "office": true,
      "note": "Client replies by private message to something the office proposed, agreeing to try it but worried it would confuse Sassie. The message does not say what was proposed and the proposal itself is not in this mailbox, so the office needs to check the private conversation thread before any handling change is passed to sitters. Note this client is also carried in the brief under the shorter name Gina Sullivan.",
      "quote": "We can try that but I am worried it could cause confusion with her."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Josh Stone visit report for Joan- Gina Sullivan",
+     "office": false,
+     "note": "Sassie dislikes rain. She wears a raincoat and the Nov 4 outing was cut to a potty break. She greets people in the building hallways.",
+     "quote": "not a fan of rain as I can tell"
     }
    ],
    "dormant": false
