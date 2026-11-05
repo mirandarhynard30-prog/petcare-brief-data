@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T15:20:07-05:00",
+ "generated": "2026-11-05T17:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5556,6 +5556,26 @@
      "quote": "Use eye drops (left cabinet above stove/next to stove) if eye is goopy, if she lets you"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 5",
+     "source": "Christine Jenison message",
+     "office": false,
+     "note": "Client confirms evening feeding is needed. Bowls will be left on the counter already filled; if they are not, each pet gets one scoop, twice a day. Pet names not given in the message.",
+     "quote": "We will leave there bowls on the counter with food in them. If we forget, they each get one scoop 2x per day."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Elizabeth Sigler message to client",
+     "office": true,
+     "note": "Sitter Elizabeth Sigler asked Christine where the pets' food is normally kept, as a backup if no bowls are out. Unanswered as of 4:39 PM ET Nov 5 - office should get the answer before the next evening feed.",
+     "quote": "Thanks for the information! Can I ask where you typically keep their food (just in case)?"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -5584,16 +5604,6 @@
      "office": false,
      "note": "Both dogs were reluctant to go outside in the rain and had to be coaxed out with treats. Frank refused to go down the deck steps even for treats and went #1 and #2 on the deck instead; the sitter cleaned it up. Louise did go down the steps. One wet-day observation, not stated as a standing rule.",
      "quote": "Frank wouldn’t go down the steps, even with the treats"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Elizabeth Cuffari 12:31 PM visit report",
-     "office": false,
-     "note": "Both dogs went #1 only on the Oct 23 midday visit; no #2 for either. Sitter reports they spent most of the time in the fenced back yard and flagged no concern.",
-     "quote": "They only went number one today."
     }
    ],
    "dormant": false
