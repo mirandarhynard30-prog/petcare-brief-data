@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T12:20:05-05:00",
+ "generated": "2026-11-05T13:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -354,6 +354,16 @@
      "quote": "Trigger for Puck loud noises run for bldg."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Margaret Bill visit report, Nov 5 midday",
+     "office": true,
+     "note": "Rusty fought having her collar put on again on the Nov 5 midday visit; Margaret needed several minutes to get it on. This is a repeat of the same difficulty she reported on Oct 30, and the collar replacement is still an open office item, so it is listed here for the office as well. Sitter-side difficulty only - no injury was stated. Rest of the visit was normal: both dogs walked, both went #1 and #2, nothing low on supplies.",
+     "quote": "Today she fought getting her collar on but after several minutes I did succeed."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -382,16 +392,6 @@
      "office": false,
      "note": "On the Nov 4 midday visit Margaret took Puck out first and Rusty was unhappy about waiting; Rusty went out second.",
      "quote": "Rusty wasn't very happy with that"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Margaret Bill visit report for Mary Gilmore",
-     "office": false,
-     "note": "Rusty tried to drink from a puddle on the Nov 4 midday walk, after already drinking a lot of water indoors.",
-     "quote": "Rusty did try to drink out of a puddle"
     }
    ],
    "dormant": false
