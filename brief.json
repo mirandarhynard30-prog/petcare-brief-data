@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T18:20:05-05:00",
+ "generated": "2026-11-05T05:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -223,6 +223,16 @@
      "quote": "Scarlett is slowly walking into the kitchen and creeping past Benji and it was like he was afraid to walk past her."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Terri Orengo client message",
+     "office": false,
+     "note": "Follow-up on Nova refusing breakfast: Terri reports Nova ate only a small portion of dry food and skipped her biscuit, but ate a full portion of soft food that evening. Terri thinks she may just be finicky. Watch appetite on the next visit.",
+     "quote": "I did see she ate a small portion of her dry food, but not her biscuit."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -251,16 +261,6 @@
      "office": false,
      "note": "Scarlett is fine with people and tolerates Nova, but she and Benji are not settled yet - Terri says Benji is too curious and gets in her space. All three can now be out at the same time, so expect them loose together rather than separated.",
      "quote": "She loves humans, tolerates Nova, and she and Benji are working on it."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Client message from Terri Orengo, Oct 24 4:29 PM",
-     "office": true,
-     "note": "Scarlett was announced in an ordinary client message, not through a contact-information update, so whether she has been added to Terri's pet record in Time To Pet is unknown from this mailbox - worth checking so sitters see her on the visit screen. Shannon Anderson replied \"She is cute!!!\" at 4:30 PM, which shows a sitter read the message but not that the record was updated.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -314,16 +314,6 @@
      "quote": "Thanks so much!! Pucks food is left side and rustys is right side"
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Shannon Anderson message + record edit",
-     "office": true,
-     "note": "Shannon Anderson messaged the client before the Oct 14 visit to check the feeding amounts, saying the record showed Puck at 1 cup while she had 3/4 cup, then edited the Important Notes from 'Puck 1 cup Best Breed' to 'Puck 3/4 cup Best Breed' and messaged 'I fixed Puck's feeding amount'. No reply from the client appears in the notification mail, so who authorised the change and which amount is correct cannot be confirmed from the record. Same shape as the Lauren White / Oakley scoop-vs-cup conflict.",
-     "quote": "Ok. Just double checking since the notes say Puck gets 1cup"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -342,16 +332,6 @@
      "office": false,
      "note": "Feeding amounts confirmed by the client. Shannon Anderson asked at 2:41pm whether Rusty gets 3 cups and Puck 3/4 cup; Mary answered at 2:57pm and added that Puck's food is on the left and Rusty's on the right. Her reply does not restate the numbers itself, so the container sides are certain and the amounts are confirmed only by her agreeing to the sitter's question.",
      "quote": "Yup! Pucks food is on the left and rustys is on the right"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Shannon Anderson message 2:41pm + client reply 2:57pm",
-     "office": true,
-     "note": "CORRECTION to the earlier Oct 14 item that said no client reply existed. Mary Gilmore did reply, at 2:57pm, between Shannon's 2:41pm question and her 2:58pm 'the notes say Puck gets 1cup' message, in a separate client-message thread. The 2:59pm edit of the Important Notes from 'Puck 1 cup Best Breed' to 'Puck 3/4 cup Best Breed' therefore has client agreement behind it, not sitter authority alone. Nothing further is needed unless the office wants the amounts restated in the client's own numbers.",
-     "quote": "Rusty gets 3 3cups and Puck gets 3/4cup?"
     },
     {
      "cat": "behavior",
@@ -465,16 +445,6 @@
      "office": true,
      "note": "Liz Wainio messaged at 7:13 AM today to cancel - she is home, so the dogs do not need their visit. Today's scheduled visit is 12:00 PM, Dog Visit-45 minute, Thomas Rakovec, for Stella, Berry, Emma and Louie. No confirming mail yet; the office must cancel it in Time To Pet and tell the sitter before noon.",
      "quote": "Good morning. I’m still home. So the pups won’t need a visit. Sorry for the late notice"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Client message 7:17am ET",
-     "office": true,
-     "note": "Client messaged the office this morning on short notice to say she will be home today and will keep us posted. She named no visit time in the message - office should confirm which of today's visits is affected and tell the assigned sitter before they travel.",
-     "quote": "I apologize for the short notice. I will be home today"
     }
    ],
    "dormant": false
@@ -972,16 +942,6 @@
      "office": true,
      "note": "The front door stuck on the Oct 15 morning visit and the sitter and Chloe were shut out of the house; they got back in through the back door near the patio. Sitters should expect the front door may not open. Whether the door has been looked at is not stated.",
      "quote": "Your front door was sticking and we were essentially locked out, so we snuck in the backdoor (near your patio)."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Jade Popovitz visit report",
-     "office": false,
-     "note": "On the Oct 14 walk Chloe repeatedly tried to go into the road. One sitter's single observation, so it is not recorded as a standing rule, but it is a road-safety matter for the next walk.",
-     "quote": "During the walk she did lots of sniffing and kept trying to go into the road"
     }
    ],
    "dormant": false
@@ -1328,7 +1288,7 @@
      "quote": "Pure pumpkin 2 spoons per serving in fridge"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Regina Mathews",
@@ -1400,7 +1360,7 @@
      "quote": ""
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Christina Palmieri",
@@ -2149,16 +2109,6 @@
      "quote": "I noticed she really doesn't like quick or sudden movements so I talked her through what I was doing and moved slowly."
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Kristin Brewer client message, 8:27am",
-     "office": true,
-     "note": "Client wrote this morning that Paul will be at home today. She did not cancel or change the visit - office should confirm whether today's visit still stands and let the assigned sitter know someone may be in the house.",
-     "quote": "Morning! Just wanted you to know that Paul will be at home today."
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2799,16 +2749,6 @@
      "quote": "his poop was messy again (third day in a row) and it was diarrhea"
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Elizabeth Sigler report 11:55am",
-     "office": true,
-     "note": "Milo had diarrhea again on the Oct 14 midday walk, a second consecutive day, and the sitter thinks she saw a sliver of onion in it. She is new to these dogs and reports it as uncertain. Ask the client directly, with the open Oct 2 medication question. Archer was firm and healthy.",
-     "quote": "Milo did have diarrhea again today and I think I saw a sliver of onion in it"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3020,16 +2960,6 @@
      "quote": "Hesitant with males-will take a little bit to warm up to initially, please ignore her until she feels more comfortable"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Julie Smith message to client 11:37am",
-     "office": true,
-     "note": "Cover change told to the client at 11:37am: Shannon has the Oct 14 and Oct 15 visits because Julie has a sick dog at home; Julie expects to be back Friday Oct 16. Matters because this morning's rewrite deleted the warning that Holly is hesitant with men.",
-     "quote": "Shannon will be doing the visits today and tomorrow for me"
-    },
-    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -3138,49 +3068,9 @@
      "office": true,
      "note": "Same deletion took the heating-pad setting and water routine: pad in the living room corner by the tv behind the chair, 95 degrees, set in 12-hour periods; two cups by the couch filled with ice and water, towel underneath swapped when sopping; litter into the lidded can by the toilet.",
      "quote": "I usually leave this on at 95 degrees all the time."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Pet care note updated by Tiarra Roberts, Aug 26",
-     "office": false,
-     "note": "Care note now asks sitters to check the fridge before opening a new can of wet food and to use already-opened cans first.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Tiarra Roberts profile update",
-     "office": false,
-     "note": "New standing task in the care note. Pad is in the front room by the windows.",
-     "quote": "Reprogram Oliver's heating pad at each visit for 95 degrees at 12 hours"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 26",
-     "source": "Tiarra Roberts profile update",
-     "office": false,
-     "note": "Fill the water cups by the couch to the brim - easier for Oliver to drink.",
-     "quote": "please make sure to fill the cups of water, by the couch, to the brim for Oliver"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Tiarra Roberts updated Company Notes 4:09pm",
-     "office": false,
-     "note": "The dry food instruction lost 'at every visit' and now reads only 'as needed'. Do-not-pet rule, wet food twice daily and the 95F heating pad are all unchanged.",
-     "quote": "Fill dry food bowl (located in bedroom in front of full-length mirror) as needed, at every visit"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Anna Caraboolad",
@@ -3189,16 +3079,6 @@
     "Oakley"
    ],
    "items": [
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Client message 6:07pm",
-     "office": true,
-     "note": "Client says no sitter is needed for Oakley next week. She did not give the specific dates - office needs to confirm which visits that covers and cancel them in Time To Pet.",
-     "quote": "We won’t need anybody for Oakley next week :)"
-    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -3238,26 +3118,6 @@
      "office": true,
      "note": "The Oct 27 report answers Yes to setting the house alarm before leaving. That is the first indication in recent mail that this home has an alarm at all - no alarm instruction is recorded for this client. Entry was through the garage. Office should get the alarm step written into the notes if it applies every visit.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Monica Hopewell report 12:08pm",
-     "office": false,
-     "note": "Oct 14 walk: sitter says the first two stools were harder to pass and the third softer. The report's consistency field still says firm and healthy, so the two do not agree.",
-     "quote": "His first two number 2s seemed to be harder to pass than his third one"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Monica Hopewell report 12:08pm",
-     "office": true,
-     "note": "Waste bags nearly out after the Oct 14 walk; supplies flagged low on the report. She also brought in a package.",
-     "quote": "there is only one bag left in his pouch"
     },
     {
      "cat": "home",
@@ -3378,16 +3238,6 @@
      "office": false,
      "note": "Oct 16 morning walk: Archie went both #1 and #2 and the report's consistency field reads firm and healthy. That breaks the no-#2 run and follows the normal Oct 12 report, with the Oct 14 walk the last one logged as no #2. Ray was home for the visit and asked that the door not be locked.",
      "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Thomas Rakovec visit report, 10:08am",
-     "office": false,
-     "note": "Oct 14 morning walk: Archie went #1 but had no bowel movement, and the consistency field reads No #2 today. The walk was cut short by heavy rain and the sitter says Archie will not go #2 in the rain. This is the fifth no-#2 walk on file (Sep 1, Sep 30, Oct 2, Oct 9, Oct 14); the rain is a plausible reason for this one but the office may want to keep counting.",
-     "quote": "ARCHIE went no.#1 but hates to go no.#2 in the rain so he didn't"
     },
     {
      "cat": "home",
@@ -3618,26 +3468,6 @@
      "office": false,
      "note": "Muffy's #2 is recorded two different ways in the same report: the free text says it was just fine, the report form field says a little loose but not concerning. Ambiguous - not clearly a problem.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Dan Dantimo visit report, 1:11pm",
-     "office": false,
-     "note": "Muffy went both #1 and #2 on the walk. Dan Dantimo noted the #2 was mucus-free; the visit-report consistency field says it was a little loose but not concerning.",
-     "quote": "She went number one and two and number two was mucus free."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Dan Dantimo visit report, 1:11pm",
-     "office": false,
-     "note": "Muffy pulls on leash. Dan Dantimo worked on heel with treat rewards and suggests trying the harness next time. This is the sitter's suggestion, not a client instruction - confirm with the client before switching.",
-     "quote": "Perhaps next time we can try the harness, it could help with the pulling"
     }
    ],
    "dormant": false
@@ -3951,39 +3781,9 @@
      "office": false,
      "note": "The client's own read of her two cats, which settles the contradiction flagged from this morning's report: Frank having lazy days and staying out of sight is normal for him and does not mean he is unhappy, and Theo warms up over time and will come looking for scratches. This morning's report of Frank hiding and Theo greeting is therefore consistent with the client's picture, not a reversal.",
      "quote": "And Frank has lazy days (weeks haha!), but I know he is happy with the visits"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 27",
-     "source": "Client message to Tiarra and Noella, Sep 27 12:02pm Eastern",
-     "office": false,
-     "note": "Client says her brother may have stopped by Saturday evening and may be over periodically in the evenings. She does not want sitters alarmed if things look moved out of place. So an unexpected person or signs of someone in the house are expected, not a break-in.",
-     "quote": "my brother may have stopped by yesterday evening, and may be over periodically in the evening"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 27",
-     "source": "Noella Assi visit report, Sep 27 2:10pm ET",
-     "office": false,
-     "note": "Theo hides under the bed and the sitter used the lickable treat in the tiny dish to draw him out and get eyes on him. Frank greets at the door; Theo does not. This is a working method for a cat the sitter has to lay eyes on, and it is the same lickable-treat routine the brief records as having been deleted from the account.",
-     "quote": "I also gave him some to get him out from under the bed."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Stephanie Sarrocco message Sep 26",
-     "office": false,
-     "note": "Client says Frank gets very lonely and asks that sitters give him attention during the visit; sitter reports scratches and brushing quiet him down.",
-     "quote": "Frank can get very lonely so thank you for giving him that attention."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Krysten Whitesel",
@@ -4187,16 +3987,6 @@
     "Jackson"
    ],
    "items": [
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Thomas Rakovec report 11:49am",
-     "office": true,
-     "note": "Alarm was about to go off when the sitter let himself in through the garage Oct 14; he disarmed it. Nothing in her record warns the alarm may be armed or says what to do. Confirm with the client and get the procedure written down.",
-     "quote": "I entered through the garage but for some reason the alarm was about to go off"
-    },
     {
      "cat": "home",
      "sev": "high",
@@ -4865,39 +4655,9 @@
      "office": false,
      "note": "New standing rule and now the entire Pet Care Note. Half a wet food container per feeding; the opened half goes back in the fridge with the provided lid on, so there should usually be an open can waiting.",
      "quote": "Check fridge FIRST for open cat wet food can, before opening a new one"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Yasmeen Abrams visit report, Sep 11 evening",
-     "office": false,
-     "note": "Treat limit for P relayed by Tiarra Roberts while training a new sitter: three treats a day. The trainee gave two. This limit is not written anywhere in the Pet Care Note or Company Notes as they currently stand.",
-     "quote": "Tiarra told me 3x treats a day we only gave 2 just to make sure."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 7",
-     "source": "Client Pet Care Note update (Perd)",
-     "office": false,
-     "note": "Suzanne edited P's care note twice on Sep 7. The new line limits the portion size at each wet-food feeding. The rest of the note is unchanged: wet food twice daily, morning between 6:30am and 8am and afternoon between 4pm and 5pm, timed about 45 minutes either side of the automatic feeder so she does not get sick.",
-     "quote": "PLEASE only give her a little wet food at each feeding."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 17",
-     "source": "Tiarra Roberts updated Company Notes 4:22pm",
-     "office": false,
-     "note": "Auto dry feeder and water bowl are now listed in the bar room; they previously said dining room by kitchen. The same edit trimmed 'check and top off dry feeder each visit' to 'check dry feeder each visit' and dropped 'Refresh water each visit'.",
-     "quote": "Auto dry feeder in bar room"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Karen Mitterholzer",
@@ -4950,16 +4710,6 @@
      "quote": "I tried to go into the wrong garage, so if your neighbor says anything, shes to the right when you're pulling into the driveway."
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts visit report",
-     "office": false,
-     "note": "Tiarra Roberts found on the Oct 14 walk that Rosie and Frankie are interested in squirrels and kept a firm hold of both leashes. First time this is recorded, so treat it as an observation rather than a standing rule.",
-     "quote": "I learned they like squirrels, but I had a firm hold of the leashes"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -4998,16 +4748,6 @@
      "office": true,
      "note": "Karen has replied about this morning's wrong-garage mix-up and is not upset - she says her neighbour would not make a fuss. The office follow-up call can be a courtesy rather than damage control. She also thanked the team for covering last minute.",
      "quote": "they would not make a fuss and would probably get a good laugh out of you trying to get inside!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts visit report",
-     "office": false,
-     "note": "Packages arrived as Tiarra was leaving the Oct 14 visit and she left them inside the laundry room.",
-     "quote": "I placed them on the dryer, inside the laundry room"
     }
    ],
    "dormant": false
@@ -5361,7 +5101,7 @@
      "quote": "• Walk Helios as needed"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Beth Nickel",
@@ -5431,39 +5171,9 @@
      "office": false,
      "note": "A gain in the same edit: Louie's allergy field firmed up from uncertain to grass and chicken. Check before giving any treat.",
      "quote": "GRASS, CHICKEN. HE’S AN ITCHY BOY"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts pet edit 1:00pm",
-     "office": true,
-     "note": "Lanie's leash warning narrowed from easily distracted by all furry animals to only rabbits and squirrels. If the broader version was right this understates the walk risk.",
-     "quote": "EASILY DISTRACTED BY ALL FURRY ANIMALS. RABBITS, SQUIRRELS"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Beth Nickel message",
-     "office": false,
-     "note": "Client instruction: leave the gate up down the long hall and keep the gate up in front of the sunroom door. Lainey chews pillowcases and carpet.",
-     "quote": "Lainey likes to eat my pillow cases and chew at the carpet."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Beth Nickel message",
-     "office": false,
-     "note": "Louie wears an orange invisible-fence collar. Lainey's lead is in front of the fence door and is already attached out in the yard. A couple of sticks and a ball are on the patio.",
-     "quote": "We use invisible fence collar for Lou. (Orange collar)."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Denise Spurio",
@@ -5608,59 +5318,9 @@
      "office": true,
      "note": "The Company Notes rewrite deleted the line telling sitters to report an unusually hot house. The Nest thermostat line stayed. This is the same kind of hot-weather instruction that went missing from Mary Ann Mckeever's note on Sep 11 - worth checking whether the deletion was intended.",
      "quote": "Notify management if house feels unusually hot"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Company Notes rewritten by Tiarra Roberts",
-     "office": false,
-     "note": "Both cats are shy and may take a while to come out. Bubby (Mr Crowley) is a climber, Sweet Pea (Miss Ashley) is the one more likely to hide - office behind the books, under the office couch, in crates or behind the bookshelf. Try to lay eyes on both cats every visit.",
-     "quote": "Try to visually confirm both cats during visits"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Company Notes rewritten by Tiarra Roberts",
-     "office": false,
-     "note": "Two wet cans per visit, split unevenly: one and a half cans for Mr Crowley, who eats no dry food, and half a can for Miss Ashley next to her dry bowl. Miss Ashley eats on the right, Mr Crowley on the left. Both litter boxes get scooped every visit.",
-     "quote": "1 and 1/2 can for Mr crowley (he does not eat dry food)"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Tiarra Roberts record edit 18:08 ET",
-     "office": true,
-     "note": "The same retype also dropped where the litter bags and scoopers are kept, the parking guidance, the note that Lysol may be used on surfaces, and the line that the garage holds the trash bins.",
-     "quote": "Bags and scoopers in litter room"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 22",
-     "source": "Company Notes edit by Tiarra Roberts",
-     "office": false,
-     "note": "Hot-house instruction is back: the Nest thermostat line now says to contact management if the house feels warm. This replaces the gap noted on Sep 17.",
-     "quote": "Nest thermostat on wall, if house feeling warm, contact management"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 22",
-     "source": "Company Notes edit by Tiarra Roberts",
-     "office": true,
-     "note": "The same Sep 22 rewrite removed the line 'Scoop all litter boxes each visit' (bags, scoopers and disposal lines remain) and the Care Notes section. The email does not say whether scooping every visit still applies. Office to confirm.",
-     "quote": ""
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Alan & Bridgette Wiggers",
@@ -5915,49 +5575,9 @@
      "office": true,
      "note": "Feeding times were lost in the same rewrite. Company Notes was cut to three lines and no longer gives Bailey's 4-5am and 4-5pm windows or Oakley's 5-7am, 11am-1pm and 4-6pm windows; the only timing left is that midday visits include feeding Oakley. Also gone: that Bailey sometimes eats little while the owners are away and may be offered more, and where her water bowl is.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts updated contact information, 10:44am",
-     "office": true,
-     "note": "AMBIGUOUS portion for Oakley. The new Important Notes say one scoop per meal; the Company Notes deleted in the same edit said to use the black scoop in the tote and feed 1 cup per meal. Whether a scoop and a cup are the same measure is no longer stated anywhere. Needs confirming with the client rather than guessing.",
-     "quote": "Give 1 scoop of food"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:50pm",
-     "office": true,
-     "note": "Same rewrite replaced exact leash and harness locations with one vague line. Lost: which closet Bailey's leash is in, where each harness hangs, and that her harness handle sits on her back.",
-     "quote": "Everything is hanging near food/water bowls"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:50pm",
-     "office": true,
-     "note": "Oakley's treat-portion limit was dropped too. New notes name no limit for him.",
-     "quote": "Oakley may have treats, but only small portions"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Notes rewritten by Tiarra Roberts, Oct 7 4:50pm",
-     "office": true,
-     "note": "Pet Care Note cut to one line on Oakley's three meals. The rule to feed both dogs on an evening visit is gone, so an evening sitter would not know to feed Bailey.",
-     "quote": "Will feed both if doing an evening visit."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Brandon Keyes",
@@ -6294,49 +5914,9 @@
      "office": true,
      "note": "The same deleted section carried the rule never to leave the mastiffs outside on their own. Visits here are backyard potty breaks only, so this was the line governing the whole visit.",
      "quote": "Do not leave the mastiffs outside unattended."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 23",
-     "source": "Client message, 3:00pm",
-     "office": true,
-     "note": "Nicole replied to Shannon Anderson's 1:34pm report and explained the arm-grab: she says Vito does the same to her whenever he wants to play or wants attention, lightly taking her arm and leading her to the couch to sit and pet him. She reads it as Vito having warmed up to the sitter, not as aggression. This is the client's own account of the behavior; it does not change the open alleged-bite matter or the no-walk rule.",
-     "quote": "he lightly grabs my arm and walks me to the couch so I can sit and pet him."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 22",
-     "source": "Tiarra Roberts updated contact information for Nicole Zammit (Sep 22)",
-     "office": true,
-     "note": "The Sep 22 Company Notes rewrite still describes Vito only as shy and to be ignored on arrival. The full new text contains no mention of the no-walk rule or the muzzle, so a sitter reading only the notes would not know either applies. Worth checking the notes match the current handling rule.",
-     "quote": "Vito: Very shy. Ignore Vito initially and do not attempt to pet him."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 20",
-     "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
-     "office": false,
-     "note": "Vito is very shy. Ignore him and do not pet him; he needs to sniff you for a while and will eventually follow the other dogs' lead. Hamilton and Vivian are very attention-needy and will greet you.",
-     "quote": "Please ignore Vito and do not pet him as he will need to sniff you for a while."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 20",
-     "source": "Client message to Shannon Anderson, Sep 20 10:59pm",
-     "office": false,
-     "note": "Outside rules: if the mastiffs start playing, bring Hamilton inside because they play too rough for him. The mastiffs must not be outside unattended, and do not let them bark at the fence, which runs right along the sidewalk.",
-     "quote": "The mastiffs shouldn't be outside unattended and don't let them bark at the fence as it goes right to the sidewalk."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Michael Smith",
@@ -6503,16 +6083,6 @@
      "office": true,
      "note": "Client asks that Sassie's visits move closer to 8am, 1pm and 7pm - the times her back-up walker uses. She says her mother expects Sassie out by 1 and does not recall the roughly 9 / 2:30 / 8 times originally given, and pushes back when reminded. Needs the office to confirm what is actually possible and update the schedule; the client sent a follow-up six minutes later saying she understood, so some reply was already made - confirm what was promised.",
      "quote": "We have been having our back up walker do 8am 1pm, and 7pm. That seems to work good."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 14",
-     "source": "Client private message 12:05pm",
-     "office": true,
-     "note": "Client chasing the office on weekend coverage. Second unanswered request in four days; her Oct 11 schedule request is also open. Needs a reply today.",
-     "quote": "Do you know about coverage for the weekend yet? Thanks"
     },
     {
      "cat": "home",
@@ -7233,19 +6803,9 @@
      "office": false,
      "note": "CORRECTION to the AM treat placement: Pippa's pile of Temptation treats from the pantry goes on the DOWNSTAIRS bedroom dresser, not the upstairs one as the notes previously said.",
      "quote": "Pile Temptation treats (pantry) on downstairs bedroom dresser for Pippa in AM visit."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 8",
-     "source": "Lauren & Brian Stuy message",
-     "office": false,
-     "note": "Lauren confirms Pippa does chew cords sometimes; she says telling her no stops her and thinks it is attention-seeking. Answers the sitter's cord-biting question - no other action requested.",
-     "quote": "Pippa does sometimes bite cords. She’s a bit mischievous. I tell her no and she stops."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Michael & Kelly Smith",
@@ -7280,7 +6840,7 @@
      "quote": ""
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Chuck Garrett",
