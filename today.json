@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T13:20:31-05:00",
+ "generated": "2026-11-05T14:35:13-05:00",
  "date": "2026-11-05",
  "label": "Nov 5, 2026",
  "clients": [
@@ -48,15 +48,8 @@
      "time": "8:00 PM",
      "sort": "2000",
      "staff": "Shannon  Anderson",
-     "service": "Trainer Visit-30minute",
+     "service": "Long Range Visit-30 Minute",
      "pets": "Izzy"
-    },
-    {
-     "time": "8:00 PM",
-     "sort": "2000",
-     "staff": "Elizabeth Cuffari",
-     "service": "Shadow Visit with Staff Member-30 minute",
-     "pets": "All"
     }
    ]
   },
@@ -169,8 +162,8 @@
      "pets": "chloe"
     },
     {
-     "time": "1:15 PM",
-     "sort": "1315",
+     "time": "2:00 PM",
+     "sort": "1400",
      "staff": "Harvett Ellington",
      "service": "Dog Visit-30 minute",
      "pets": "chloe"
@@ -214,5 +207,5 @@
    ]
   }
  ],
- "visitCount": 20
+ "visitCount": 19
 }
