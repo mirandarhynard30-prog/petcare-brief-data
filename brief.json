@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T07:20:06-05:00",
+ "generated": "2026-11-05T08:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5784,6 +5784,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Client message from Ellen Krane, Nov 5 morning",
+     "office": true,
+     "note": "Thanksgiving plans have changed: she says they will need fewer sitting days than originally booked and possibly none at all, and will confirm in the next day or two. Office should hold her Thanksgiving dates pending her follow-up rather than releasing them yet. She does not say which specific dates change.",
+     "quote": "We will not be needing a pet sitter for as many days as we originally planned and possibly not at all."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -5892,16 +5902,6 @@
      "office": true,
      "note": "Meet-and-greet now appears settled for Thursday at 5. At 3:49 PM Ellen asked for after 4:30 pm Tuesday or Thursday so her daughter could attend; at 7:36 PM she replied confirming Thursday at 5. Thursday is Oct 29. The reply she is thanking is not visible in this mailbox, so confirm the appointment is actually on the calendar and that someone is assigned. Her separate Thanksgiving coverage request is a different thread and is not addressed by this message.",
      "quote": "Thank you! See you Thursday at 5!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 30",
-     "source": "Tiarra Roberts updated contact information for Ellen Krane",
-     "office": false,
-     "note": "Two litterboxes in the office alcove off the living room; cleaning supplies on the desk, vacuum on the wall. Poop bags and wet food cans go in the outside bin in front of the garage, dog treats on the black cabinet in the living room.",
-     "quote": "Sliding glass door: click button to unlock, press down to lock"
     }
    ],
    "dormant": false
@@ -8171,6 +8171,16 @@
      "office": false,
      "note": "On the Nov 4 visit the client was home and asked that the door not be locked on leaving.",
      "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Visit report from Josh Stone, Nov 4 afternoon",
+     "office": false,
+     "note": "Sassie dislikes rain. On Nov 4 her raincoat went on and, as the rain got heavier, the sitter kept it to a quick potty break rather than a full walk. She went #1 and #2 quickly, firm and healthy, and greeted neighbours in the hallway afterwards.",
+     "quote": "She’s not a fan of rain as I can tell!"
     },
     {
      "cat": "behavior",
