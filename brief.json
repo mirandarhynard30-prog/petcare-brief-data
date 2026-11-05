@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T17:20:05-05:00",
+ "generated": "2026-11-05T18:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -277,6 +277,26 @@
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 5",
+     "source": "Mary Gilmore client message, 5:59 PM",
+     "office": false,
+     "note": "Client found the front panel of Rusty's cage unhooked and asks that it be checked on visits so Rusty cannot escape. She says she will check it herself after work. Separate from the Nov 4 crate break-out, which was a different event.",
+     "quote": "i noticed rustys cage, front panel, was unhooked. Can you pay attention to that when you visit so she cant escape midday?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Mary Gilmore client message, 5:59 PM",
+     "office": true,
+     "note": "Client asks for a midday check because of the unhooked cage panel. She does not say which day she means - the Nov 5 midday had already passed when she wrote at 5:59 PM, so this may mean Nov 6 or ongoing. Needs an answer from the office.",
+     "quote": "Ill check it after work but if you could do a midday check thatd be great!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 4",
      "source": "Visit report 5:19 PM (Margaret Bill)",
      "office": false,
@@ -364,34 +384,14 @@
      "quote": "Today she fought getting her collar on but after several minutes I did succeed."
     },
     {
-     "cat": "home",
+     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
-     "date": "Oct 30",
-     "source": "Margaret Bill visit report",
+     "date": "Nov 5",
+     "source": "Mary Gilmore client message, 5:58 PM",
      "office": true,
-     "note": "Oct 30 late-morning visit: Margaret reports Rusty's collar again took a while to get on. Sitter-side difficulty with the collar, not a stated injury; the collar replacement is still an open office item.",
-     "quote": "It took me a little while to get Rusty's collar on."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Margaret Bill visit report 1:05 PM",
-     "office": false,
-     "note": "On a wet walk Rusty tried to drink from a puddle, after having already drunk a good deal of water indoors. Worth steering her away from standing water. The sitter also took the dogs out one at a time, Puck first, which Rusty was unhappy about - that was this sitter's choice on this visit, not a stated rule.",
-     "quote": "Rusty did try to drink out of a puddle"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Margaret Bill visit report for Mary Gilmore",
-     "office": false,
-     "note": "On the Nov 4 midday visit Margaret took Puck out first and Rusty was unhappy about waiting; Rusty went out second.",
-     "quote": "Rusty wasn't very happy with that"
+     "note": "Monday Nov 9 will be Rusty only - Puck will be at a friend's house so the client can take her to a vet appointment after work. No reason for the appointment given.",
+     "quote": "On monday, itll just be rusty. Puck will be at a friends house so i can take her for a vet apt after work"
     }
    ],
    "dormant": false
@@ -5423,16 +5423,6 @@
     {
      "cat": "health",
      "sev": "high",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Chelsea Tompkins, Sep 14 evening visit report",
-     "office": true,
-     "note": "The Sep 14 EVENING report covers Bella's wet food, Chloe's dry food and water, the bins and the mail, but makes no mention of Chloe's medicine at all. Chelsea's own Sep 14 MORNING report did mention preparing it. Whether an evening dose was due is not stated anywhere - office to confirm with the clients what Chloe's evening medication schedule actually is. Do not assume a dose was missed.",
-     "quote": "I added some more dry food to Chloe bowl and refreshed the water."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
      "type": "standing",
      "date": "Sep 11",
      "source": "Chelsea Tompkins visit report 9:43am Sep 11",
@@ -5441,37 +5431,17 @@
      "quote": "I got Chloe‘s liquid medicine ready and mixed with the churro"
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Chelsea Tompkins visit report, Sep 14 morning",
-     "office": false,
-     "note": "Chloe's medicine was prepared as a churu-and-medicine mix and carried upstairs to her; the report marks medication administered. The report does not name the medication or give a dose.",
-     "quote": "I took Chloe churo and medicine mix upstairs for her."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Sep 14",
-     "source": "Chelsea Tompkins, Sep 14 evening visit report",
-     "office": false,
-     "note": "Chloe did not come to greet the sitter on the Sep 14 evening visit - she was found upstairs lying down behind the curtains. The same report answers 'Was the pets happy to see you?' with 'They were a little shy'.",
-     "quote": "I found Chloe laying down behind the curtains."
-    },
-    {
-     "cat": "home",
+     "cat": "schedule",
      "sev": "low",
      "type": "recent",
-     "date": "Sep 14",
-     "source": "Chelsea Tompkins, Sep 14 evening visit report",
-     "office": false,
-     "note": "Cleaners were in the house on Sep 14. Worth knowing if a later sitter finds doors, bowls or bins moved from their usual places.",
-     "quote": "The cleaners came today."
+     "date": "Nov 5",
+     "source": "Alan & Bridgette Wiggers private message, 6:09 PM",
+     "office": true,
+     "note": "Client sent a one-line private message about this coming weekend. The message carries no dates or details, so it is unclear whether they are confirming an existing booking or asking for something to be set up. Office should check the conversation thread.",
+     "quote": "Set for this weekend"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Christine Jenison",
