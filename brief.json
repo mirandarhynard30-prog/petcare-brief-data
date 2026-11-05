@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T09:20:06-05:00",
+ "generated": "2026-11-05T10:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -964,14 +964,14 @@
      "quote": "Your front door was sticking and we were essentially locked out, so we snuck in the backdoor (near your patio)."
     },
     {
-     "cat": "behavior",
+     "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Nov 4",
-     "source": "Elizabeth Sigler visit report",
+     "date": "Nov 5",
+     "source": "Alex Miller morning visit report, Nov 5",
      "office": false,
-     "note": "On the Nov 4 visit Chloe was found sitting at the top of the steps and was carried downstairs before the leash went on; she returned to the same perch afterwards. One sitter, one visit - not confirmed as a standing rule.",
-     "quote": "I saw her sitting at the top of the steps. After I gave her some pets, I carried her downstairs."
+     "note": "Nov 5 morning visit went well. Chloe had to be woken because she had had a late night, Melody carried her outside, and she then went #1 and #2 twice with firm and healthy consistency. Short but pleasant walk, cut down because of the cold (about 60 degrees). Both water bowls were full. No wheezing or breathing trouble is mentioned anywhere in this report. Melody was home and again asked that the door not be locked.",
+     "quote": "After you carried her outside she immediately went number one in the front yard"
     }
    ],
    "dormant": false
@@ -8062,6 +8062,16 @@
     "Izzy"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Kathy Sullenberger morning visit report, Nov 5",
+     "office": false,
+     "note": "Nov 5 morning visit: Izzy went #1 and #2 and the stool was loose. The sitter recorded the consistency as 'very loose/ diarrhea but pet seems fine otherwise' and offered her own guess that it may relate to Izzy's medication - that link is the sitter's speculation, not a vet opinion. Izzy was otherwise bright, met her at the back door with a tail wag, took a long drink and was given a couple of treats. Same sitter returns at 1 PM, so the afternoon visit should check whether it is still loose.",
+     "quote": "Pretty soft stool but probably uncommon with her meds."
+    },
     {
      "cat": "health",
      "sev": "high",
