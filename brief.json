@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T08:20:06-05:00",
+ "generated": "2026-11-05T09:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3308,6 +3308,16 @@
      "office": false,
      "note": "Ray was home on Nov 4 with Archie ready to go. The walk was cut short by rain - Archie went number one several times but no number two.",
      "quote": "He went #1 several times but didn't go #2 because of rain"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "Rainy-day walk cut short; Archie went #1 several times but no #2. Ray was home during the visit.",
+     "quote": "He went #1 several times but didn't go #2 because of rain"
     }
    ],
    "dormant": false
@@ -4061,6 +4071,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 4",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "Jax went #1 several times on the walk but no #2; the sitter waited with him in the backyard afterwards and he still did not go. One visit, one sitter.",
+     "quote": "Jax went #1 several times but didn't go #2"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 3",
      "source": "Thomas Rakovec left a message for Christi Russo (Nov 3, 12:00 PM)",
      "office": false,
@@ -4146,16 +4166,6 @@
      "office": false,
      "note": "Second visit of the day and Jaxson still had not had a bowel movement - urinated repeatedly, no #2. The earlier walk report the same day also recorded no #2. Worth watching at the next visit.",
      "quote": "He went pee million times no no.#2"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Client message 5:46 PM",
-     "office": false,
-     "note": "Client replied at 5:46 PM to the two no-stool reports today and says she does not know why it is happening - she treats it as unusual rather than normal for him. Worth noting against her own Oct 20 standing note that Jaxson will only poop in his own yard, which would explain it; she does not connect the two. She also identifies Jaxson as the poodle and asks for the same sitter tomorrow if possible. No instruction given, nothing for the sitter to change - log it and keep reporting.",
-     "quote": "that's really weird I wonder why Jackson's not going potty"
     }
    ],
    "dormant": false
