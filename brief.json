@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T06:20:05-05:00",
+ "generated": "2026-11-05T07:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -962,6 +962,16 @@
      "office": true,
      "note": "The front door stuck on the Oct 15 morning visit and the sitter and Chloe were shut out of the house; they got back in through the back door near the patio. Sitters should expect the front door may not open. Whether the door has been looked at is not stated.",
      "quote": "Your front door was sticking and we were essentially locked out, so we snuck in the backdoor (near your patio)."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Elizabeth Sigler visit report",
+     "office": false,
+     "note": "On the Nov 4 visit Chloe was found sitting at the top of the steps and was carried downstairs before the leash went on; she returned to the same perch afterwards. One sitter, one visit - not confirmed as a standing rule.",
+     "quote": "I saw her sitting at the top of the steps. After I gave her some pets, I carried her downstairs."
     }
    ],
    "dormant": false
@@ -4036,6 +4046,16 @@
      "office": false,
      "note": "Client confirms the alarm may be armed on arrival and expects the sitter to disarm it on entry. The code is in Time To Pet and is deliberately not recorded here. Message was addressed to one sitter by name, so a sitter who has not been given the code needs to get it from the office before the visit.",
      "quote": "Yes if the alarm is on just disarm it"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 4",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "Jaxson went #1 several times on the Nov 4 midday walk but no #2, including extra time waiting in the back yard. Worth watching on the next visit.",
+     "quote": "I waited him out for a #2 but he didn't go so we went back in."
     },
     {
      "cat": "health",
