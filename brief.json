@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T10:20:05-05:00",
+ "generated": "2026-11-05T11:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1679,6 +1679,16 @@
      "office": true,
      "note": "The 4:28 PM rewrite deleted the whole Walk Instructions section, the only line saying where to walk and that one dog goes per visit. Garage leash hand-off, the two-dogs-one-at-a-time line and the harness colours survive. The brief still carries the Spyglass Hill route from Aug 26.",
      "quote": "Walk Astra or Nova each visit, towards the Spyglass Hill housing development"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Ashley Corall visit report, Nov 5",
+     "office": false,
+     "note": "Client was home for the Nov 5 visit and asked that the door not be locked on the way out. Recorded in the report's home-security field. Single visit, so treat as this-visit instruction rather than a standing rule.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -7838,6 +7848,16 @@
     "Brutus"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Client message to Robin Lewis, Nov 5",
+     "office": false,
+     "note": "Client says a blue Kong is in the freezer for Brutus to have in his crate when the sitter leaves. She phrased it as 'I believe', so confirm it is actually there before relying on it. Stated once, on this visit - not yet a confirmed standing rule.",
+     "quote": "I believe there is a blue Kong in the freezer for him to have in his crate when you leave."
+    },
     {
      "cat": "home",
      "sev": "medium",
