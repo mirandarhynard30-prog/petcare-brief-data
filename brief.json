@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T18:20:05-05:00",
+ "generated": "2026-11-05T19:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -297,6 +297,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 5",
+     "source": "Mary Gilmore client message, 6:13 PM",
+     "office": false,
+     "note": "Follow-up to her 5:59 PM cage message, sent with a photo: both side latches on Rusty's cage were also found unhooked and Rusty was still inside. The client wonders whether Rusty is pawing at the cage and working the latches open herself. Check the side latches as well as the front panel before leaving Rusty crated. Separate message from the front-panel report, not the same event as the Nov 4 crate break-out.",
+     "quote": "These side latches were both unhooked, so she could have easily popped out!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 4",
      "source": "Visit report 5:19 PM (Margaret Bill)",
      "office": false,
@@ -382,16 +392,6 @@
      "office": true,
      "note": "Rusty fought having her collar put on again on the Nov 5 midday visit; Margaret needed several minutes to get it on. This is a repeat of the same difficulty she reported on Oct 30, and the collar replacement is still an open office item, so it is listed here for the office as well. Sitter-side difficulty only - no injury was stated. Rest of the visit was normal: both dogs walked, both went #1 and #2, nothing low on supplies.",
      "quote": "Today she fought getting her collar on but after several minutes I did succeed."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Mary Gilmore client message, 5:58 PM",
-     "office": true,
-     "note": "Monday Nov 9 will be Rusty only - Puck will be at a friend's house so the client can take her to a vet appointment after work. No reason for the appointment given.",
-     "quote": "On monday, itll just be rusty. Puck will be at a friends house so i can take her for a vet apt after work"
     }
    ],
    "dormant": false
@@ -1126,6 +1126,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Mary Ann Mckeever private message, 6:17 PM",
+     "office": true,
+     "note": "Monday Nov 9 walks are cancelled - Georgie is having his teeth cleaned that day and may need some pulled. Client apologises for the late notice. Needs taking off the Monday schedule and an acknowledgement; no other days were mentioned.",
+     "quote": "Georgie won’t need his walks on Monday because he is getting his teeth cleaned and may need to have some pulled."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -1234,16 +1244,6 @@
      "office": false,
      "note": "Owner-confirmed limping after the 8 PM walk on which Noella Assi reported Georgie hurting his front leg. Mary Ann says he twisted the leg and is limping a bit, and she is resting him Monday morning rather than walking him. She said earlier in the evening that she thinks it is a sprain or arthritis. No vet visit and no medication change is mentioned anywhere in this mailbox.",
      "quote": "He is limping a bit."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 18",
-     "source": "Tiarra Roberts visit report, Oct 18 8:20 PM",
-     "office": false,
-     "note": "Evening medicine and eyedrops confirmed again on the Oct 18 evening visit (sitter ETA 7:59 PM, report filed 8:20 PM). Mary Ann was home and the sitter assisted her rather than giving them alone, then gave an ice cube treat. Harness went on in the laundry room. The report logs medication administered Yes and the stool firm and healthy. This is now the fifth evening visit on record with the same routine.",
-     "quote": "Once inside, I helped Mary Ann with Georgie's medicine"
     }
    ],
    "dormant": false
