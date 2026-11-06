@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T10:20:12-05:00",
+ "generated": "2026-11-06T11:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -557,6 +557,16 @@
      "office": false,
      "note": "The off-limits food list is longer than one flavour. As well as the Whitefish Tuna not agreeing with Sampson, the client says he will not eat the liver one or the giblet one, and she deliberately did not leave either out.",
      "quote": "He also does not like the liver one and giblet one."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Margaret Bill visit report, Nov 6 morning",
+     "office": false,
+     "note": "Gordy went #2 twice on the Nov 6 morning walk and the sitter described both as a little soft; the report consistency field was logged as a little loose but not concerning.",
+     "quote": "both times it was a little soft"
     },
     {
      "cat": "health",
@@ -3200,6 +3210,16 @@
      "quote": "Archie is a little stand offish and will take some time to warm up to us"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Thomas Rakovec visit report, Nov 6 10:19 AM",
+     "office": false,
+     "note": "Nov 6 report recorded the home-security answer as client home during visit and client asked not to lock door. Basis is this one report, so treat as Ray's instruction to leave the door unlocked and confirm with the office if unsure.",
+     "quote": "Client asked not to lock door"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3258,6 +3278,16 @@
      "office": true,
      "note": "Ray wrote in to ask that the office NOT take his current walker off Archie's walks - he says Archie and he are both comfortable with him and neither likes change. He names the walker as 'Tommy'; the sitter currently walking Archie in these reports is Thomas Rakovec, so that is almost certainly who he means, but the email does not spell the name out. Office should treat this as a staffing instruction and confirm back to him.",
      "quote": "I would not like you to keep Tommy from walking Archie. Archie and I don’t like change."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Thomas Rakovec visit report, Nov 6 10:19 AM",
+     "office": false,
+     "note": "Archie went #1 on the Nov 6 walk but did not go #2 even after the sitter gave him extra time; report field logged as No #2 today. Single occurrence.",
+     "quote": "We had a great walk and Archie went #1but DID'NT go"
     },
     {
      "cat": "behavior",
@@ -3978,6 +4008,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Christi Russo message, Nov 6 11:05 AM",
+     "office": true,
+     "note": "Christi messaged that she got rained out, is on her way home, and tried to cancel today's walk - Thomas does not need to come. She asks for confirmation that everyone got the message and for a call back from the office.",
+     "quote": "today Tommy you don't have to come because I just got rained out"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -4086,16 +4126,6 @@
      "office": false,
      "note": "Sitter Dan Dantimo answered the no-stool worry the same evening: Jaxson did go #2 at the visits Dan covered, plus once in the back yard. The client replied three minutes later that it is not a big deal, so the question is closed on her side.",
      "quote": "he went number two the times I was there and one time in the backyard"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Thomas Rakovec visit report, 5:09 PM",
-     "office": false,
-     "note": "Second visit of the day and Jaxson still had not had a bowel movement - urinated repeatedly, no #2. The earlier walk report the same day also recorded no #2. Worth watching at the next visit.",
-     "quote": "He went pee million times no no.#2"
     }
    ],
    "dormant": false
@@ -7228,6 +7258,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Jennifer Wagar message, Nov 6 10:49 AM",
+     "office": false,
+     "note": "Bruno dislikes rain. Jennifer says she sometimes holds the umbrella over Bruno rather than over herself in order to walk him. Suka does not mind the rain.",
+     "quote": "Bruno hates the rain."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 2",
      "source": "Margaret Bill visit report",
@@ -7294,16 +7334,6 @@
      "office": false,
      "note": "Parking instruction added for the first time: her assigned spot is marked D, or park on the street. Waste and supply detail also added - poop bags in a box by the door or at the stations around the complex, cleaning supplies and paper towels in the kitchen on a shelf, extra paper towels in the kitchen closet.",
      "quote": "Parking in her spot marked D or on street"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 11",
-     "source": "Client updated pet details - Suka",
-     "office": false,
-     "note": "Suka is older, has arthritis in her back hips and can drag her foot at times. Owner's note says she gets gabapentin for the pain; the note does not say sitters administer it, so confirm with the office before assuming any dosing role.",
-     "quote": "Suka is an old girl and has some arthritis in her back hips and can drag her foot at times."
     }
    ],
    "dormant": false
