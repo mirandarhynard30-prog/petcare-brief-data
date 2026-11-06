@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T14:20:05-05:00",
+ "generated": "2026-11-06T15:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3590,6 +3590,16 @@
     "Freddy"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Jade Popovitz visit report",
+     "office": false,
+     "note": "Freddy hid in the closet when the sitter arrived, then came out and blocked the bathroom doorway during the litter change. Single observation, not an established pattern. Full litter change done; food had just been refreshed.",
+     "quote": "He was hiding in the closet when I came in and he blocked the door while I changed out the litter"
+    },
     {
      "cat": "home",
      "sev": "low",
@@ -7877,6 +7887,16 @@
      "office": false,
      "note": "The peanut-butter Kong Tracy described as probably in a freezer drawer was actually found and given on the Nov 6 midday visit, so that location is now confirmed rather than assumed.",
      "quote": "I did find the Kong in the freezer and he’s happy as can be."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Robin Lewis visit report",
+     "office": false,
+     "note": "Sitter noticed Brutus struggles to pick up the last kibble at the bottom of his bowl now that he is growing quickly. Stool was firm and healthy; he went #1 and #2. Kong was in the freezer as expected.",
+     "quote": "when he gets down to the bottom its hards for him to grab them with him growing so fast"
     },
     {
      "cat": "home",
