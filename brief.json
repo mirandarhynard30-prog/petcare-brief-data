@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T08:35:05-05:00",
+ "generated": "2026-11-06T10:20:12-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7739,6 +7739,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Tracy Martin message, Nov 6 10:03 AM",
+     "office": false,
+     "note": "Tracy says there is another peanut-butter Kong in the freezer for Brutus, in a middle drawer below the fridge doors that also works as a freezer. She calls it unverified, and a sitter found no Kong there on Nov 5, so look before counting on one.",
+     "quote": "there is another unverified Kong w peanut butter in the freezer for him"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -7767,6 +7777,16 @@
      "office": true,
      "note": "First information this client has ever supplied. Worth confirming the pet care note is completed - species, age, feeding and handling for Brutus are still blank.",
      "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Tracy Martin message, Nov 6 10:03 AM",
+     "office": false,
+     "note": "Brutus balked at going outside in the rain on the morning of Nov 6. Tracy says that is new for him.",
+     "quote": "He had a hard time going outside in the rain this morning."
     },
     {
      "cat": "home",
