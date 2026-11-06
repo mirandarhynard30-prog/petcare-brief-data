@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T12:20:19-05:00",
+ "generated": "2026-11-06T13:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2089,6 +2089,16 @@
      "quote": "put on a bland diet for the next couple of days. Please don’t give him any treats"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Shannon Anderson visit report, 12:41 PM",
+     "office": false,
+     "note": "Daffodil was moody on today's midday visit. She got loud when Shannon clipped the leash to her harness, then barked at another doodle before they had even left the yard; she did accept the harness this time, unlike Oct 29 when she would not let Shannon put it on. Both dogs barked at Shannon on entry and she thinks she startled them. Daffodil put herself in her crate at the end of the visit. Oliver walked first and was straightforward. One sitter, one visit - still a pattern of Daffodil being unsettled with Shannon rather than a confirmed rule.",
+     "quote": "She actually got loud when I clipped her leash to her harness"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3350,6 +3360,16 @@
      "quote": "He did go number two twice and really did well on his walk today."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Client message, 12:14 PM",
+     "office": false,
+     "note": "Client message at 12:14 PM telling the sitter to let himself in rather than wait to be let in. Thomas Rakovec messaged her eleven minutes later that he would be there in 25 minutes, and clients in this mailbox call him Tommy, so the line most plainly reads as Deb telling Thomas she is out at a friend's and he should go straight in. AMBIGUOUS - it could instead mean someone or something else named Tommy is going out. Either reading differs from her standing note that she is home during visits and asks that the door not be locked, so for today expect an empty house.",
+     "quote": "Tommy going to a friends just go in. Thanks"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3438,16 +3458,6 @@
      "office": false,
      "note": "Guinness went #2 TWICE near the end of the Oct 20 midday walk and the consistency field was again answered that it was a little loose but not concerning. Same reading on Oct 2, 13, 15, 17 and now Oct 20. Narrative otherwise normal - walked happily toward the Commons, then wanted to head home. NOTE: the form-answer quote was dropped because the de-duplication key collided with another client's identical stock phrase on the same day.",
      "quote": "when we were almost done with our walk he went number two twice"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Guinness went #2 twice on the walk; sitter logged the consistency as a little loose but not concerning. Single observation, no other symptoms noted.",
-     "quote": "he went number one and two (twice)"
     }
    ],
    "dormant": false
@@ -4028,6 +4038,16 @@
      "quote": "today Tommy you don't have to come because I just got rained out"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Thomas Rakovec visit report, 12:24 PM",
+     "office": true,
+     "note": "Today's walk went ahead about 80 minutes after Christi messaged at 11:05 AM to cancel it. Thomas Rakovec's 12:24 PM report says he arrived, got Jaxson ready, walked him, fed a few snacks and released him back to Christie, and signs off see you next week. The report's own fields say the client was home during the visit and asked that the door not be locked, so she was there and the walk appears to have happened with her present - but nothing in this mailbox shows the cancellation reaching Thomas, and her request for confirmation and a call back is still unanswered. Office should close the loop with her and check what the scheduler now shows for today.",
+     "quote": "Arrived at Christies to give Jaxson a nice walk. I got him ready and away we went."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -4126,16 +4146,6 @@
      "office": false,
      "note": "Standing request from the client about Jaxson's toileting: after the walk is finished, give him a chance to relieve himself in their own front yard. She says he went daily, sometimes twice, for his previous walker and wants to be sure he is not holding it all day. Report back whether the front-yard attempt works.",
      "quote": "Do you ever try to let him go when you're done walking him in our front yard?"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Dan Dantimo visit message 5:43 PM",
-     "office": false,
-     "note": "Sitter Dan Dantimo answered the no-stool worry the same evening: Jaxson did go #2 at the visits Dan covered, plus once in the back yard. The client replied three minutes later that it is not a big deal, so the question is closed on her side.",
-     "quote": "he went number two the times I was there and one time in the backyard"
     }
    ],
    "dormant": false
