@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T19:20:05-05:00",
+ "generated": "2026-11-05T21:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8155,6 +8155,26 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Dan Dantimo message, about 8:43 PM Nov 5",
+     "office": false,
+     "note": "Dan wrote late on Nov 5 that he has Imodium AD at the house for Izzy's diarrhea but forgot to leave it out, and said not to worry. Nothing has been set out for the sitter, so there is no medication on site for the loose stool and none should be looked for. Dan did not ask for anything to be given.",
+     "quote": "Shit, I forgot I had Imodium ad for her diarrhea, forgot to leave that out but no worries"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Shannon Anderson evening visit report, about 8:13 PM Nov 5",
+     "office": false,
+     "note": "At the Nov 5 evening visit Izzy's #2 was loose again - the report records it as very loose/diarrhea with the pet seeming fine otherwise. Medication was administered, she ate her dinner, drank well, took treats and walked normally. No accidents in the home. Shannon returns to Izzy on the morning of Nov 6.",
+     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "standing",
      "date": "Nov 3",
      "source": "Kathy Sullenberger message to client",
@@ -8191,26 +8211,6 @@
      "office": false,
      "note": "Company Notes added Nov 3: dog walk visits, park in the parking lot. Leash hangs by the back door, poop bags in the closet next to the back door, bag disposal at the second garage door to the right. Water bowl in the kitchen, treats on the counter, cleaning supplies above the dryer.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 3",
-     "source": "Kathy Sullenberger visit report",
-     "office": false,
-     "note": "Photos showing where Izzy's things are located are attached to Kathy Sullenberger's Nov 3 meet-and-greet report in Time To Pet. Until care notes exist, that report is the only record of where supplies are.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 3",
-     "source": "Shannon Anderson updated contact information for Dan Dantimo (6:04 PM)",
-     "office": false,
-     "note": "Important Notes record Izzy as dog friendly.",
-     "quote": "Dog friendly: Yes"
     }
    ],
    "dormant": false
