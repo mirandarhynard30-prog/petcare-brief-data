@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T17:20:16-05:00",
+ "generated": "2026-11-06T18:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7431,6 +7431,16 @@
      "cat": "home",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 6",
+     "source": "Client private message, Nov 6 6:06 PM",
+     "office": true,
+     "note": "Client has installed a lockbox at the home and sent its current code to the office by private message, and she asks that the code be reset to a different value so no one else sees it. Deliberately not recorded here - both the current and the requested code are in that Time To Pet private message and belong in her Pet Care Note, not in the brief. OFFICE: reply to confirm the reset and update the record, and make sure sitters are told the entry method has changed before the next visit.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 3",
      "source": "Karen Grosser private message, 8:59 AM Nov 3",
      "office": false,
@@ -7536,16 +7546,6 @@
      "office": true,
      "note": "Karen replied to the office's check that her weekend hours on file are right: she works Saturday noon to 8 PM and Sunday 11 AM to 6 PM. She does not say which week or which visit this applies to, so the office still has to confirm what it affects before changing anything on the schedule.",
      "quote": "Thanks for checking Miranda. Yes it is correct. Saturday I'm working from Noon to 8, Sunday it's 11-6"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 30",
-     "source": "Tiarra Roberts updated contact information for Karen Grosser",
-     "office": false,
-     "note": "Important Notes fully rewritten Oct 30 (the old note was the short intake text). Chloe is crated: after the walk put her back in the crate by snapping fingers. Purple leash hangs next to the front door; extra poop bags on top of the fridge.",
-     "quote": "Chloe will be in crate, put her back inside, after walk, by snapping fingers"
     }
    ],
    "dormant": false
