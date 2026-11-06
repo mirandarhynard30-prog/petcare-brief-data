@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T22:20:05-05:00",
+ "generated": "2026-11-06T08:35:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -455,16 +455,6 @@
      "office": true,
      "note": "Client messaged at 9:51 AM today to say she meant to cancel today's visit and had forgotten to enter it. A portal Service Change notice at 10:01 AM covers the cancellation of today's 11:15 AM - 12:00 PM Dog Visit-45 min, so the request now appears to be in the system and needs processing before the 11:15 AM slot. This is her third same-day cancellation in three days (Oct 14, Oct 15, Oct 16).",
      "quote": "Hi, so sorry. Yes. I forgot to put in the cancellation."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Client message via Time To Pet, 7:13 AM Oct 15",
-     "office": true,
-     "note": "Liz Wainio messaged at 7:13 AM today to cancel - she is home, so the dogs do not need their visit. Today's scheduled visit is 12:00 PM, Dog Visit-45 minute, Thomas Rakovec, for Stella, Berry, Emma and Louie. No confirming mail yet; the office must cancel it in Time To Pet and tell the sitter before noon.",
-     "quote": "Good morning. I’m still home. So the pups won’t need a visit. Sorry for the late notice"
     }
    ],
    "dormant": false
@@ -547,16 +537,6 @@
      "office": true,
      "note": "Client reports TWO MORE soft movements today beyond the two in Kathy Pastor's afternoon walk report - one before the groomers and one when she picked Gordy up - so four soft to liquid movements in one day. She offers a diet explanation: he ate only his canned soft food and refused his hard food. She does not ask for anything and does not mention a vet.",
      "quote": "He did go #2 before going into the groomers and he did #2 when I picked him up"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Kathy Pastor message to client 11:33am",
-     "office": true,
-     "note": "Sitter Kathy Pastor wrote to the client about giving a pet a peaceful transition and wished her well for tomorrow, which points to a euthanasia appointment on Oct 16. The mail does not say which animal, and the client's own message that prompted it is not in this mailbox - confirm with the client before scheduling or sending anyone.",
-     "quote": "Now you are giving him a peaceful transition. Best wishes for tomorrow."
     },
     {
      "cat": "health",
@@ -952,16 +932,6 @@
      "office": false,
      "note": "For tonight's visit the client says the back gate is open - stay with Chloe the whole time she is out back, do not leave her unattended in the yard. Client wrote this at 7:01 PM on Oct 17; it is not stated as a permanent condition, so treat it as current rather than standing.",
      "quote": "please stay with her because the gate is open"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Elizabeth Sigler post-visit report, 10:48am",
-     "office": true,
-     "note": "The front door stuck on the Oct 15 morning visit and the sitter and Chloe were shut out of the house; they got back in through the back door near the patio. Sitters should expect the front door may not open. Whether the door has been looked at is not stated.",
-     "quote": "Your front door was sticking and we were essentially locked out, so we snuck in the backdoor (near your patio)."
     },
     {
      "cat": "health",
@@ -2109,16 +2079,6 @@
      "quote": "put on a bland diet for the next couple of days. Please don’t give him any treats"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Kristin Brewer private message, 8:14pm",
-     "office": true,
-     "note": "Replying to an office check-in, the client asked for one visit at her usual lunch time and named Kathy as her preference, saying they can make other arrangements if Kathy is not available. AMBIGUOUS - she wrote only \"Thursday\" with no date, and the message arrived Thursday evening, so it is unclear whether she means Oct 16 or Oct 22. Office needs to confirm the date and whether Kathy can take it.",
-     "quote": "I think just Thursday for now, typical lunch time - if that works."
-    },
-    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2777,16 +2737,6 @@
      "office": true,
      "note": "The report contradicts itself on whether a dog was sick. The accidents field reads that the pet got sick and was cleaned up with before and after pictures, while the sitter's own narrative describes only a spot on the couch that she assumes came from the cat. Which animal it was is unclear from the email. On the stool readings themselves: Milo was logged with no #2 at all today and Archer's was firm and healthy.",
      "quote": "The pet got sick and I cleaned it up"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Elizabeth Sigler visit report 11:55am",
-     "office": true,
-     "note": "Milo had diarrhea again on today's visit - third day in a row. The Milo consistency field reads that the pet does not seem well and that the sitter has reached out to management for guidance; no reply from the office appears in the mail. Archer's stool was firm and healthy on the same visit.",
-     "quote": "his poop was messy again (third day in a row) and it was diarrhea"
     },
     {
      "cat": "behavior",
@@ -3572,26 +3522,6 @@
    "items": [
     {
      "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Kiara Streety post-visit report, 10:32am",
-     "office": false,
-     "note": "A caregiver was in the home at the Oct 15 10:05am visit, sitting with Marcia in the room where Freddy was lying. The caregiver spoke with the sitter and asked about the routine. Expect other people in the house.",
-     "quote": "I came in and a caregiver is here sitting with Marcia."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Kiara Streety post-visit report, 10:32am",
-     "office": false,
-     "note": "Kiara Streety found far too much food in Freddy's bowl on the Oct 15 visit and said it looked as though it had been sitting. She took it out and fed a fresh half can. The report does not establish whether Freddy is being over-served or is not finishing his food.",
-     "quote": "I noticed he had way too much food in his bowl"
-    },
-    {
-     "cat": "home",
      "sev": "low",
      "type": "recent",
      "date": "Oct 30",
@@ -3619,16 +3549,6 @@
      "office": false,
      "note": "Marcia and a caregiver were both home during the Oct 22 visit. Freddy's unused wet food was left in the refrigerator for the next visit.",
      "quote": "The food left to reuse is in the refrigerator!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Kiara Streety post-visit report, 10:32am",
-     "office": false,
-     "note": "The food taken out of Freddy's bowl was bagged and left in the fridge, so there is a half can in a baggy plus a bag of food there for his next feeding.",
-     "quote": "so he has a can in a baggy and whole bag of food as well in the fridge"
     },
     {
      "cat": "home",
@@ -4792,16 +4712,6 @@
     {
      "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Kristin Ashick visit report, Oct 15 12:35pm",
-     "office": true,
-     "note": "New sitter Kristin Ashick tried the neighbour's garage first on the Oct 15 visit before finding the right home. She says the neighbour is the house to the right as you pull into the driveway and has a Ring camera, and asks the client to apologise for her. Worth telling anyone new to this stop which garage is which.",
-     "quote": "I tried to go into the wrong garage, so if your neighbor says anything, shes to the right when you're pulling into the driveway."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
      "type": "standing",
      "date": "Oct 13",
      "source": "Care note update",
@@ -4828,16 +4738,6 @@
      "office": false,
      "note": "Entry is through the attached garage at the Fox Villa apartments. The note asks the sitter to send an ETA in case Karen's friend is there resting.",
      "quote": "Send an ETA just in case Karen's friend is there resting."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 15",
-     "source": "Karen Mitterholzer message 5:29pm",
-     "office": true,
-     "note": "Karen has replied about this morning's wrong-garage mix-up and is not upset - she says her neighbour would not make a fuss. The office follow-up call can be a courtesy rather than damage control. She also thanked the team for covering last minute.",
-     "quote": "they would not make a fuss and would probably get a good laugh out of you trying to get inside!"
     }
    ],
    "dormant": false
@@ -8093,6 +7993,26 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Dan Dantimo message, Nov 6 8:03 AM",
+     "office": true,
+     "note": "Dan wrote at 8:03 AM Nov 6, replying to Shannon's morning report, that he expects to be home this morning. He did not say which visits he still wants, so the rest of today's visits for Izzy need confirming with him before anyone drives out.",
+     "quote": "I should be home this morning"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Shannon Anderson visit report, Nov 6 morning",
+     "office": true,
+     "note": "At the Nov 6 morning visit Izzy's #2 was very loose again - the report records very loose/diarrhea with the pet seeming fine otherwise. That is loose stool on Nov 4, at all of the Nov 5 visits, and now Nov 6, so a third day running. Medication was given. Dan has Imodium AD at the house but has not left it out and has twice said not to be concerned; no vet contact appears anywhere in the record.",
+     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -8145,6 +8065,26 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Shannon Anderson visit report, Nov 6 morning",
+     "office": false,
+     "note": "Shannon's Nov 6 report states Izzy has arthritis - the first mention of it in the mail. She cut the morning potty break short because of the rain and the chill rather than risk a flare. The arthritis is standing; the shortened walk was this one sitter's judgement on a cold wet morning, not a standing instruction from Dan.",
+     "quote": "I didn't want to keep her out too long and cause her arthritis to flare up today"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Shannon Anderson visit report, Nov 6 morning",
+     "office": false,
+     "note": "Supplies flagged low on the Nov 6 morning report: more chicken will be needed after tonight's dinner. Izzy's meds are balled up in chicken, so running out affects medicating her. Shannon told Dan directly in the report.",
+     "quote": "you will need more chicken after making her dinner tonight"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 5",
      "source": "Dan Dantimo message",
@@ -8171,46 +8111,6 @@
      "office": false,
      "note": "At the Nov 5 evening visit Izzy's #2 was loose again - the report records it as very loose/diarrhea with the pet seeming fine otherwise. Medication was administered, she ate her dinner, drank well, took treats and walked normally. No accidents in the home. Shannon returns to Izzy on the morning of Nov 6.",
      "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 3",
-     "source": "Kathy Sullenberger message to client",
-     "office": true,
-     "note": "Meet and greet done Nov 3 - Kathy Sullenberger says she has the full information for walking and possibly medicating Izzy. Whether Izzy is actually medicated is NOT stated, and no Pet Care Note has been written for this client yet, so nothing is on file for the next sitter.",
-     "quote": "I got all your information for walking and possibly medicating Izzy."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Kathy Sullenberger message to client",
-     "office": true,
-     "note": "Kathy Sullenberger wrote Nov 3 that she looks forward to Thursday for Izzy, which points to a Thu Nov 5 visit. The message does not state the date, service or times, so the office should confirm what is actually scheduled.",
-     "quote": "I look forward to Thursday."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 3",
-     "source": "Shannon Anderson updated contact information for Dan Dantimo (6:03 PM)",
-     "office": false,
-     "note": "Company Notes now exist and set out the visit: dog walk visits, park in the parking lot. Leash hangs by the back door, poop bags are in the closet next to the back door, and used bags go out the 2nd garage door to the right. Food is in the fridge, water bowl in the kitchen, treats on the counter, meds sitting on the counter, cleaning supplies above the dryer. Access and key details in the same update are deliberately not recorded here.",
-     "quote": "Leash: hanging by the back door"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 3",
-     "source": "Shannon Anderson updated contact information for Dan Dantimo",
-     "office": false,
-     "note": "Company Notes added Nov 3: dog walk visits, park in the parking lot. Leash hangs by the back door, poop bags in the closet next to the back door, bag disposal at the second garage door to the right. Water bowl in the kitchen, treats on the counter, cleaning supplies above the dryer.",
-     "quote": ""
     }
    ],
    "dormant": false
