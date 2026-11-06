@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T16:20:05-05:00",
+ "generated": "2026-11-06T17:20:16-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -567,6 +567,16 @@
      "office": false,
      "note": "Gordy went #2 twice on the Nov 6 morning walk and the sitter described both as a little soft; the report consistency field was logged as a little loose but not concerning.",
      "quote": "both times it was a little soft"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Client message, Nov 6 4:23 PM",
+     "office": false,
+     "note": "Client states Gordy likes to stay out front on the porch. On Nov 6 he rested a little after his walk and then wanted to go back outside.",
+     "quote": "He likes staying out front on the porch."
     },
     {
      "cat": "health",
@@ -4392,6 +4402,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Client message, Nov 6 4:18 PM",
+     "office": false,
+     "note": "Kari confirms the sitter should feed the fish (Mr. Midnight) and say hello to him on the visit. This is her answer to an earlier question about whether anything else was wanted.",
+     "quote": "Yes, if she could please feed fish and say hello to him, that’d be great."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4450,6 +4470,16 @@
      "office": true,
      "note": "Routine change: the raccoons are NO LONGER to be fed. Birdseed for the birds only, kept in the kitchen closet on the floor. The published standing note still says bird food generally, so it needs correcting in Time To Pet.",
      "quote": "We are no longer feeding the raccoons, just the birdseed for the birds."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Client message, Nov 6 4:18 PM",
+     "office": true,
+     "note": "Kari retracts the word \"pit\" from her earlier email as a send-too-soon mistake and asks that it be disregarded. If anything was recorded from that earlier message, it needs re-checking against this correction. Her Nov 7 request is still outstanding in the office queue.",
+     "quote": "The “pit” in my email was an error. I hit send to soon, so pls disregard."
     },
     {
      "cat": "home",
