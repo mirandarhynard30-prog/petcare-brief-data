@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T11:20:06-05:00",
+ "generated": "2026-11-06T12:20:19-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2747,6 +2747,16 @@
      "office": true,
      "note": "The report contradicts itself on whether a dog was sick. The accidents field reads that the pet got sick and was cleaned up with before and after pictures, while the sitter's own narrative describes only a spot on the couch that she assumes came from the cat. Which animal it was is unclear from the email. On the stool readings themselves: Milo was logged with no #2 at all today and Archer's was firm and healthy.",
      "quote": "The pet got sick and I cleaned it up"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Jade Popovitz visit report, Nov 6 11:44 AM",
+     "office": true,
+     "note": "Treats are out at the Garcia home - Jade could not give Milo or Archer a treat on the Nov 6 visit. Note the structured supplies-low field on the same report was answered No, so the narrative and the form disagree. This may be what Harvett's vague Nov 4 supplies-low flag referred to, but the mail does not say so.",
+     "quote": "Unfortunately no treats since they were all out, they were so sad"
     },
     {
      "cat": "behavior",
@@ -7817,6 +7827,26 @@
      "office": false,
      "note": "Brutus balked at going outside in the rain on the morning of Nov 6. Tracy says that is new for him.",
      "quote": "He had a hard time going outside in the rain this morning."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Robin Lewis visit report, Nov 6 11:50 AM",
+     "office": false,
+     "note": "Robin reports Brutus has trouble picking up the last of his kibble once he gets to the bottom of the bowl, which she attributes to how fast he is growing. One sitter's observation on one visit, not stated as an ongoing rule.",
+     "quote": "when he gets down to the bottom its hards for him to grab them with him growing so fast"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Robin Lewis visit report, Nov 6 11:50 AM",
+     "office": false,
+     "note": "The peanut-butter Kong Tracy described as probably in a freezer drawer was actually found and given on the Nov 6 midday visit, so that location is now confirmed rather than assumed.",
+     "quote": "I did find the Kong in the freezer and he’s happy as can be."
     },
     {
      "cat": "home",
