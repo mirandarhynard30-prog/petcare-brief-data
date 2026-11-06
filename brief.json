@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T21:20:05-05:00",
+ "generated": "2026-11-05T22:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -307,6 +307,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 5",
+     "source": "Margaret Bill message to client, Nov 5 approx 9:15 PM",
+     "office": false,
+     "note": "Margaret Bill wrote late on Nov 5 that Rusty has been pawing at her cage and that the BACK panels got pushed out - a third failure point on top of the front panel and the two side latches already reported. She says she will check them all when she is there. Her wording 'yesterday the back ones got pushed out' points at Nov 4, the same day Rusty broke out of the crate, but she does not say so outright. Treat all four sides of the cage - front, both sides, back - as needing a hand-check before leaving.",
+     "quote": "Rusty has been pawing at her cage. Yesterday the back ones got pushed out.. I will be sure to check them all"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 4",
      "source": "Visit report 5:19 PM (Margaret Bill)",
      "office": false,
@@ -382,16 +392,6 @@
      "office": false,
      "note": "The Oct 8 Company Notes rewrite adds walking and handling detail that was not there before: loud noises make Puck run for the building, Puck walks beside you, Rusty pulls like a puppy, the two may be taken out separately, and the dogs will be in the back left bedroom.",
      "quote": "Trigger for Puck loud noises run for bldg."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Margaret Bill visit report, Nov 5 midday",
-     "office": true,
-     "note": "Rusty fought having her collar put on again on the Nov 5 midday visit; Margaret needed several minutes to get it on. This is a repeat of the same difficulty she reported on Oct 30, and the collar replacement is still an open office item, so it is listed here for the office as well. Sitter-side difficulty only - no injury was stated. Rest of the visit was normal: both dogs walked, both went #1 and #2, nothing low on supplies.",
-     "quote": "Today she fought getting her collar on but after several minutes I did succeed."
     }
    ],
    "dormant": false
