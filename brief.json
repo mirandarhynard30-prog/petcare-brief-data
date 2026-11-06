@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T13:20:05-05:00",
+ "generated": "2026-11-06T14:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -843,6 +843,16 @@
     "Ella Mae"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Kiara Streety visit report, 1:52 PM",
+     "office": true,
+     "note": "Chloe was WALKED on the Nov 6 midday visit - Kiara Streety reports a short walk, cut short because it was cold, and Chloe went #1 twice with no #2. That runs against the standing restriction on file since Oct 26 (pneumonia: no walking or other strenuous activity for now). Melody was home, spoke to the sitter on arrival and handed Chloe over herself, so the restriction may well have been lifted - but nothing in this mailbox says so. Office: confirm with Melody whether walking is allowed again and tell the sitters either way.",
+     "quote": "We did a short walk it is cold out today"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -3028,6 +3038,16 @@
      "office": false,
      "note": "Sitter Shannon Anderson replied at 11:49 AM confirming she will arrive by 1 PM for Holly today, which answers the client's 11:45 AM question. Today's Nov 1 coverage is therefore confirmed and staffed. The following weekdays were still unconfirmed as of Friday night and nothing has arrived about them.",
      "quote": "I'll be there by 1pm to visit with Holly today."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Shannon Anderson visit report, 1:23 PM",
+     "office": false,
+     "note": "Shannon Anderson told Lynne at the end of the Nov 6 walk that she will be back tomorrow afternoon, so Saturday Nov 7 looks covered for Holly by Shannon. Worth noting because Lynne has had to ask three times whether a walker was coming; this is the sitter saying it unprompted, not a client request. Holly was in good spirits, walked her normal route, went #1 and #2 firm and healthy, and showed off her new haircut after yesterday's grooming.",
+     "quote": "I will see you and Holly tomorrow afternoon."
     }
    ],
    "dormant": false
