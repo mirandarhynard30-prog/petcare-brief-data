@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T13:20:11-05:00",
+ "generated": "2026-11-07T14:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2656,6 +2656,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Kathy Pastor visit report",
+     "office": false,
+     "note": "Client was home during the visit and asked that the door not be locked. Recorded once on this visit, so it is not confirmed as a standing rule.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -4348,9 +4358,30 @@
    "url": "https://www.timetopet.com/dashboard/client/syqnz6sYgbFq",
    "pets": [
     "Miguel",
-    "Mr. Midnight"
+    "Mr. Midnight",
+    "Mister Midnight"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Visit routine as carried out Nov 7: bring the garbage can down, collect the mail and any packages and leave them on the table, spread bird seed on all three porch rails, then lock the outside porch door and put the stick back in.",
+     "quote": "I spread the bird seed on all three rails."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Mister Midnight is fed and then given medicine. The email does not name the medicine or the dose. Some medicine was spilled on the counter and wiped up.",
+     "quote": "After I fed him, I gave him his medicine."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
@@ -4450,26 +4481,6 @@
      "office": false,
      "note": "Kari asked that a heavy delivered box be left in the garage rather than carried upstairs. Separately, Margaret Bill replied that she had already taken it upstairs before the message came in, calling it awkward rather than heavy.",
      "quote": "There is a heavy box that has been delivered. Please do not take it upstairs. It can just stay in the garage."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Client message, Nov 6 4:18 PM",
-     "office": true,
-     "note": "Kari retracts the word \"pit\" from her earlier email as a send-too-soon mistake and asks that it be disregarded. If anything was recorded from that earlier message, it needs re-checking against this correction. Her Nov 7 request is still outstanding in the office queue.",
-     "quote": "The “pit” in my email was an error. I hit send to soon, so pls disregard."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Margaret Bill visit report 11:35 AM Oct 24",
-     "office": false,
-     "note": "Packages had accumulated outside the front door while the client is away. The sitter brought the mail and the packages inside and set them on the table, and took the garbage can down.",
-     "quote": "There were numerous packages by the front door."
     }
    ],
    "dormant": false
@@ -5508,6 +5519,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Both dogs refused to stay outside in the cold wind. Frank would not go out at all; Weezie went out only long enough to go #1 and then would not go back out once the wind picked up. Neither went #2.",
+     "quote": "I tried to get Frank outside but he refused."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Nov 5",
      "source": "Christine Jenison message",
@@ -5544,16 +5565,6 @@
      "office": false,
      "note": "Louise scooted on the Nov 3 visit and went #2 shortly after; the sitter could not tell whether it was poop scooting or an itch, so this is ambiguous. Both dogs' stools were logged firm and healthy. Watch for a repeat before treating it as a problem.",
      "quote": "Louise did some scooting (couldn’t tell if she was poop scooting or if her butt was just a little itchy)"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Client message, Oct 29 4:45 PM",
-     "office": true,
-     "note": "OFFICE DECISION NEEDED. Client asks whether the sitters can stop sending her the routine visit updates and only message when something is wrong. She frames it as saving the sitters time and says she does appreciate them. This is a request, NOT an agreed rule - nothing in the mail shows an answer, so sitters should keep reporting as normal until the office replies. Note the standing concern on this account is the opposite: reports here have repeatedly failed to mention Louise/Weezie's eye drops, so cutting reports down would remove the only record that the drops were given.",
-     "quote": "Would you guys be OK if I said you do not have to give them to us anymore unless something wrong?"
     }
    ],
    "dormant": false
@@ -7258,6 +7269,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "client message",
+     "office": false,
+     "note": "Bruno hates the rain and the client sometimes walks him holding an umbrella over him rather than herself. Suka is not bothered by rain.",
+     "quote": "Bruno hates the rain. Sometimes I have to use an umbrella over him to walk him instead of an umbrella over me."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 2",
      "source": "Margaret Bill visit report",
@@ -7314,16 +7335,6 @@
      "office": false,
      "note": "Suka is named in the Company Notes for the first time and is described as friendly, 58 lb, 13 years old, with hearing problems, and as a treat thief who will take Bruno's. Bruno is described as leery of people. Commands differ between the two dogs.",
      "quote": "Commands: Suka knows stop. Bruno not always listening"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 22",
-     "source": "Margaret Bill updated contact information for Jennifer Wagar, 3:01 PM",
-     "office": false,
-     "note": "Parking instruction added for the first time: her assigned spot is marked D, or park on the street. Waste and supply detail also added - poop bags in a box by the door or at the stations around the complex, cleaning supplies and paper towels in the kitchen on a shelf, extra paper towels in the kitchen closet.",
-     "quote": "Parking in her spot marked D or on street"
     }
    ],
    "dormant": false
@@ -7518,6 +7529,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "client updated pet care notes for Merlin",
+     "office": false,
+     "note": "Merlin's care notes were updated to add 1 pump of fish oil in each meal, kept in the fridge. Feeding is otherwise unchanged: 1/2 cup Freshpet twice a day, AM and PM, fed in her crate.",
+     "quote": "also 1 pump of fish oil in each meal (in fridge)"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "client updated pet care notes for Suzaiko",
+     "office": false,
+     "note": "Suzaiko's care notes were updated to add 1 pump of fish oil in each meal, kept in the fridge. Feeding is otherwise unchanged: 1/2 cup Freshpet twice a day, AM and PM, fed in her crate.",
+     "quote": "ALSO 1 PUMP OF FISH OIL IN EACH MEAL (LOCATED IN FRIDGE)"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -7526,6 +7557,16 @@
      "office": false,
      "note": "Ruri has a dedicated 'DO NOT PET' leash - use that leash for Ruri and expect her not to be approached or petted by passers-by. The Pet Care Note that was empty when this client was set up has now been filled in, so the three dogs finally have handling instructions on file.",
      "quote": "'DO NOT PET' leash for Ruri"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "client pet care notes for Merlin",
+     "office": false,
+     "note": "Merlin: use the black harness, leash does not matter, and do not pet her as soon as you walk in because she is an excited pee-er. Suzaiko uses the blue floral harness.",
+     "quote": "Do not pet as soon as you walk in; she is an excited pee'er."
     },
     {
      "cat": "behavior",
@@ -7606,16 +7647,6 @@
      "office": false,
      "note": "Suzaiko: use the BLUE FLORAL harness, any leash is fine. Feeding per the same note: half a cup of Freshpet twice a day, AM and PM, fed in her crate. (Harness colour is the way to tell the two dogs' gear apart - black is Merlin's.)",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts updated contact information for Megan O'Dell, Oct 28 7:39pm ET",
-     "office": false,
-     "note": "Company Notes now list where the cleaning kit lives: cleaning supplies under the kitchen sink, vacuum and Swiffer in the front closet.",
-     "quote": "Cleaning supplies: under kitchen sink"
     }
    ],
    "dormant": false
@@ -7902,6 +7933,16 @@
      "cat": "home",
      "sev": "low",
      "type": "recent",
+     "date": "Nov 6",
+     "source": "Robin Lewis visit report",
+     "office": false,
+     "note": "A Kong is kept in the freezer for Brutus; the sitter found it and gave it to him.",
+     "quote": "I did find the Kong in the freezer"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
      "date": "Nov 5",
      "source": "Robin Lewis visit message",
      "office": false,
@@ -7917,16 +7958,6 @@
      "office": false,
      "note": "The frozen blue Kong Tracy said would be in the freezer for the crate was not there. She says she asked her kid to put it in and did not check, so do not count on finding one.",
      "quote": "I asked my kid to put it in The freezer but didn’t verify."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 2",
-     "source": "Robin Lewis visit report",
-     "office": false,
-     "note": "Brutus went #1 only on the midday visit, no #2. Single observation; sitter reported the visit as otherwise normal and is due back later this week.",
-     "quote": "No #2 today"
     }
    ],
    "dormant": false
