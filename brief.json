@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T18:20:05-05:00",
+ "generated": "2026-11-06T19:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7441,6 +7441,16 @@
      "cat": "home",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 6",
+     "source": "Client private message, Nov 6 6:49 PM",
+     "office": true,
+     "note": "Follow-up to the Nov 6 lockbox message. The client says she spoke to her building manager and expects a spare fob next week and a spare key later because it has to be cut. Until the spares arrive the fob and key in the box are her own, and she has to remember to put them there before she leaves for work - so entry is not guaranteed on any visit until then. OFFICE: confirm the code reset she asked for, and agree what a sitter should do if the box is empty. No code and no box or key location recorded here on purpose; those are in the Time To Pet private message and belong in her Pet Care Note.",
+     "quote": "I should have an extra fob next week and a key that might take a little longer as it has to be made."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 3",
      "source": "Karen Grosser private message, 8:59 AM Nov 3",
      "office": false,
@@ -7536,16 +7546,6 @@
      "office": false,
      "note": "Client added veterinary details to Chloe's record at 3:36 PM: Community Vet Brook Park, 15541 Snow Rd, Brook Park, OH 44142, (216) 273-1044. Practice name, address and phone were all blank before. No other field on Chloe's record changed in this update.",
      "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 2",
-     "source": "Karen Grosser private message, Nov 2 5:08 PM",
-     "office": true,
-     "note": "Karen replied to the office's check that her weekend hours on file are right: she works Saturday noon to 8 PM and Sunday 11 AM to 6 PM. She does not say which week or which visit this applies to, so the office still has to confirm what it affects before changing anything on the schedule.",
-     "quote": "Thanks for checking Miranda. Yes it is correct. Saturday I'm working from Noon to 8, Sunday it's 11-6"
     }
    ],
    "dormant": false
