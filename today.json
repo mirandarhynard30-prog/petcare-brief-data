@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T09:35:32-05:00",
+ "generated": "2026-11-07T11:50:08-05:00",
  "date": "2026-11-07",
  "label": "Nov 7, 2026",
  "clients": [
@@ -62,18 +62,6 @@
      "staff": "Kathy Pastor",
      "service": "Dog Visit-20 minute",
      "pets": "Bella"
-    }
-   ]
-  },
-  {
-   "name": "Karen  Grosser",
-   "visits": [
-    {
-     "time": "3:30 PM",
-     "sort": "1530",
-     "staff": "Tiarra Roberts",
-     "service": "Dog Visit-30 minute",
-     "pets": "Chloe"
     }
    ]
   },
@@ -150,5 +138,5 @@
    ]
   }
  ],
- "visitCount": 13
+ "visitCount": 12
 }
