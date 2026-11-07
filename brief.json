@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T11:20:07-05:00",
+ "generated": "2026-11-07T13:20:11-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -317,6 +317,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 5",
+     "source": "Margaret Bill",
+     "office": true,
+     "note": "Escape risk: sitter reports Rusty has been pawing at her cage and the back latches got pushed out. Sitter said she will check all of them at each visit.",
+     "quote": "Rusty has been pawing at her cage. Yesterday the back ones got pushed out."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 4",
      "source": "Visit report 5:19 PM (Margaret Bill)",
      "office": false,
@@ -382,16 +392,6 @@
      "office": false,
      "note": "Company Notes now specify how Rusty's prong collar goes on: prongs on the inside, chain through the loop, bring the clip up and cinch it under the ears, not on the neck.",
      "quote": "Prong collar prongs on inside chain through loop bring up clip and cinch under ears not neck"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 8",
-     "source": "Company Notes rewrite 11:37am",
-     "office": false,
-     "note": "The Oct 8 Company Notes rewrite adds walking and handling detail that was not there before: loud noises make Puck run for the building, Puck walks beside you, Rusty pulls like a puppy, the two may be taken out separately, and the dogs will be in the back left bedroom.",
-     "quote": "Trigger for Puck loud noises run for bldg."
     }
    ],
    "dormant": false
@@ -811,6 +811,16 @@
      "quote": "you don’t have to worry about trying to give her Ollie anymore"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Margaret Bill",
+     "office": true,
+     "note": "Sitter swapped Lucy's correcting collar for her regular collar on the Nov 7 visit and asked the client whether that was okay - no confirmation seen yet.",
+     "quote": "I took the correcting collar off and put her regular collar on."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -819,16 +829,6 @@
      "office": false,
      "note": "Third datapoint on Lucy's bowels after the Oct 29 loose-stool reports. On the Oct 30 midday walk she had more energy than the day before, went #1 once and #2 twice, and ate kibble and treats. The report's consistency field was NOT answered this time, so there is no record of whether the stool was still loose - that gap is worth closing with Margaret rather than assuming it resolved.",
      "quote": "On the way back, Lucy went number two twice."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 29",
-     "source": "Client private message 11:49 AM",
-     "office": true,
-     "note": "Standing change from next week: her work hours are changing and she wants Lucy's walk moved to 11 AM. Signed Carol, as her messages usually are, though the client of record is Angela Jozsa. Applies to the recurring schedule, not just today.",
-     "quote": "it would be to Lucy‘s benefit if we could start having the Dog Walker come now at 11 AM"
     }
    ],
    "dormant": false
@@ -3350,6 +3350,16 @@
      "quote": "Tommy going to a friends just go in. Thanks"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Client message",
+     "office": true,
+     "note": "Short client message whose meaning is unclear - it may mean the sitter should let themselves in because she is out, or that the dog is away. Worth confirming before the next visit.",
+     "quote": "Tommy going to a friends just go in. Thanks"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -3428,16 +3438,6 @@
      "office": false,
      "note": "Guinness went #2 twice on the walk; the second was diarrhea. Sitter reports he seemed fine otherwise. First report of this for Guinness.",
      "quote": "the second time was diarrhea but he seemed just find"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Dan Dantimo visit report, 12:50 PM",
-     "office": false,
-     "note": "Guinness went #2 TWICE near the end of the Oct 20 midday walk and the consistency field was again answered that it was a little loose but not concerning. Same reading on Oct 2, 13, 15, 17 and now Oct 20. Narrative otherwise normal - walked happily toward the Commons, then wanted to head home. NOTE: the form-answer quote was dropped because the de-duplication key collided with another client's identical stock phrase on the same day.",
-     "quote": "when we were almost done with our walk he went number two twice"
     }
    ],
    "dormant": false
@@ -4038,6 +4038,16 @@
      "quote": "Arrived at Christies to give Jaxson a nice walk. I got him ready and away we went."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Client message",
+     "office": true,
+     "note": "Client messaged to cancel the Nov 6 visit - she was on her way home and got rained out. She asked for confirmation that everyone received it and for a call back.",
+     "quote": "I am on my way home so I tried to cancel today Tommy you don't have to come because I just got rained out"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -4126,16 +4136,6 @@
      "office": false,
      "note": "Jaxson went both #1 and #2 on the Oct 22 walk and the consistency field was logged as firm and healthy. That answers the two Oct 21 reports where he produced no stool at all and the client said she did not know why.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 22",
-     "source": "Client message 5:41 PM",
-     "office": false,
-     "note": "Standing request from the client about Jaxson's toileting: after the walk is finished, give him a chance to relieve himself in their own front yard. She says he went daily, sometimes twice, for his previous walker and wants to be sure he is not holding it all day. Report back whether the front-yard attempt works.",
-     "quote": "Do you ever try to let him go when you're done walking him in our front yard?"
     }
    ],
    "dormant": false
@@ -4374,6 +4374,26 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Client message",
+     "office": false,
+     "note": "Client's task list for this sit, first message: bring the garbage can down to the garage, grab the mail from the 1388 and 1392 boxes, and bring in any packages.",
+     "quote": "Margaret can do exactly what she did last time."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 5",
+     "source": "Client message",
+     "office": false,
+     "note": "Same task list continued in a second message: bird seed on all three rails of the deck, and feed the fish - there is a note in the kitchen about the fish.",
+     "quote": "Put bird seed on all 3 rails of the deck"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "standing",
      "date": "Oct 9",
      "source": "Kari Majewski has sent you a new message. (6:21pm)",
@@ -4450,16 +4470,6 @@
      "office": false,
      "note": "Packages had accumulated outside the front door while the client is away. The sitter brought the mail and the packages inside and set them on the table, and took the garbage can down.",
      "quote": "There were numerous packages by the front door."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 10",
-     "source": "Kari Majewski client message, Oct 10 11:10am",
-     "office": false,
-     "note": "Client gives the fish's name for future reference - Mr. Midnight - and says he usually sleeps most of the day. She thanked Margaret for feeding him and for the video, and said Margaret actually got him out and swimming.",
-     "quote": "our fish’s name is Mr. Midnight"
     }
    ],
    "dormant": false
@@ -5518,6 +5528,16 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 5",
+     "source": "Client message",
+     "office": false,
+     "note": "Evening feeding is needed. The client leaves the bowls on the counter already filled; if they forget, each pet gets one scoop twice a day.",
+     "quote": "If we forget, they each get one scoop 2x per day."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 3",
      "source": "Elizabeth Sigler visit report, Nov 3",
@@ -5534,16 +5554,6 @@
      "office": true,
      "note": "OFFICE DECISION NEEDED. Client asks whether the sitters can stop sending her the routine visit updates and only message when something is wrong. She frames it as saving the sitters time and says she does appreciate them. This is a request, NOT an agreed rule - nothing in the mail shows an answer, so sitters should keep reporting as normal until the office replies. Note the standing concern on this account is the opposite: reports here have repeatedly failed to mention Louise/Weezie's eye drops, so cutting reports down would remove the only record that the drops were given.",
      "quote": "Would you guys be OK if I said you do not have to give them to us anymore unless something wrong?"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Elizabeth Cuffari visit report 12:27 PM",
-     "office": false,
-     "note": "Both dogs were reluctant to go outside in the rain and had to be coaxed out with treats. Frank refused to go down the deck steps even for treats and went #1 and #2 on the deck instead; the sitter cleaned it up. Louise did go down the steps. One wet-day observation, not stated as a standing rule.",
-     "quote": "Frank wouldn’t go down the steps, even with the treats"
     }
    ],
    "dormant": false
@@ -7328,6 +7338,36 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client cancelled today's visit because she could not get the lockbox to open.",
+     "quote": "I have to cancel today. I couldn't get the code to work on the Lockbox."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client is asking about tomorrow morning instead - she works until 8 tonight and 11-6 tomorrow. This needs an answer from the office; no reply had gone out when this was read.",
+     "quote": "I work til 8 tonight and 11-6 tomorrow. So tomorrow morning? If you have the time."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Client private message",
+     "office": true,
+     "note": "Lockbox access is not working reliably - it is a small iron lock and the client cannot reach the locksmith who installed it. Get current access details from Time To Pet or the office; nothing is recorded here.",
+     "quote": "It's a small Iron Lock. I'm trying to get ahold of the locksmith who put it up, but I'm not having much luck."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -7388,6 +7428,16 @@
      "quote": "On lead she may pull, I stop and turn around every time she pulls."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Client private message",
+     "office": false,
+     "note": "For this weekend the client asks that Chloe be walked rather than let into the back yard, which is a mess of leaves and rain, and that her feet be wiped with the towel left by the door.",
+     "quote": "please ask them to just walk Chloe. The backyard is a mess with all the leaves and rain we've had."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -7406,46 +7456,6 @@
      "office": false,
      "note": "Key situation until further notice: the client has ordered a lockbox but it is not in place yet, and she is still waiting on the building manager about an extra key and a fob, so she is using her own set in the meantime. Until that changes, entry depends on building staff and the front desk key rather than anything the sitter carries. No codes or key locations recorded here - they stay in Time To Pet.",
      "quote": "I've ordered the lockbox but am still waiting to hear from the bldg manager about getting an extra key and a fob"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 3",
-     "source": "Tiarra Roberts visit report for Karen Grosser, 1:17 PM Nov 3",
-     "office": false,
-     "note": "How the Nov 3 walk was actually got into, which adds to the Oct 30 access note: parked in the lot, walked to the right side of the building, in through the red double doors and then the brown double doors. Desk staff were expecting the sitter and someone came upstairs to unlock the apartment. The sitter took the client's key from the front desk and handed it back to them on leaving. Reported once by this sitter, not written anywhere as a standing instruction.",
-     "quote": "I got the client's key from the front desk and return it back to them"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 3",
-     "source": "Client message in Time To Pet, Nov 3 10:40 PM ET, replying to Tiarra Roberts",
-     "office": false,
-     "note": "Leash handling, in the client's own words after the Nov 3 walk: the dog pulls and is a heavy sniffer, and Karen thinks she has hound in her. The message says only 'she' and never names the dog - most likely Chloe, who is the one being walked, but it is not stated, so do not assume.",
-     "quote": "she can pull And yes she is a sniff aholic. I swear she has hound in her."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 2",
-     "source": "Karen Grosser updated details for pet Garrett.",
-     "office": false,
-     "note": "Client filled in Garrett's basic details herself at 3:35 PM: veterinary practice Community Vet Brook Park, 15541 Snow Rd, Brook Park, OH 44142, (216) 273-1044 - the practice name, address and phone were all blank on this record before. She also entered a birth date of Oct 13, 2020 and recorded allergies as none.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 2",
-     "source": "Karen Grosser updated details for pet Chloe.",
-     "office": false,
-     "note": "Client added veterinary details to Chloe's record at 3:36 PM: Community Vet Brook Park, 15541 Snow Rd, Brook Park, OH 44142, (216) 273-1044. Practice name, address and phone were all blank before. No other field on Chloe's record changed in this update.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -7536,6 +7546,26 @@
      "office": false,
      "note": "NEW tonight: one pump of fish oil now goes into every meal for Merlin and for Suzaiko - the fish oil is kept in the fridge. This is the only change the client made to either note; everything else in both notes is unchanged. The note does not say whether Ruri gets it, so assume not until confirmed.",
      "quote": "also 1 pump of fish oil in each meal (in fridge)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Client updated pet details - Suzaiko",
+     "office": false,
+     "note": "Suzaiko's care notes: blue floral harness, leash does not matter, fed in her crate.",
+     "quote": "USE BLUE FLORAL HARNESS, LEASH DOESN'T MATTER."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Client updated pet details - Suzaiko",
+     "office": false,
+     "note": "Feeding updated Nov 6: Suzaiko gets 1/2 cup Freshpet twice a day (AM and PM) plus 1 pump of fish oil in each meal, fish oil kept in the fridge. The fish oil is what is new.",
+     "quote": "ALSO 1 PUMP OF FISH OIL IN EACH MEAL (LOCATED IN FRIDGE)."
     },
     {
      "cat": "behavior",
@@ -7859,6 +7889,16 @@
      "quote": "when he gets down to the bottom its hards for him to grab them with him growing so fast"
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 6",
+     "source": "Robin Lewis",
+     "office": false,
+     "note": "Sitter notes Brutus is growing fast and has trouble reaching the food left at the bottom of his bowl.",
+     "quote": "I do notice while he is eating his food when he gets down to the bottom its hards for him to grab them"
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -7887,16 +7927,6 @@
      "office": false,
      "note": "Brutus went #1 only on the midday visit, no #2. Single observation; sitter reported the visit as otherwise normal and is due back later this week.",
      "quote": "No #2 today"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 27",
-     "source": "Robin Lewis meet-and-greet report, Oct 27 2:24 PM",
-     "office": false,
-     "note": "Meet-and-greet with Brutus completed Oct 27. The sitter confirmed she attached photos showing where things are located to that visit report, so a sitter arriving for the first time can find supplies by opening the Oct 27 report in Time To Pet. No feeding, handling or health detail was given in the report.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -8281,6 +8311,26 @@
      "office": false,
      "source": "Client's own profile update, Nov 6 3:21 PM",
      "note": "Access: the client filled in her Access Instructions on Nov 6 with a front-door lock code. The code is in Time To Pet and is deliberately not repeated here - look it up there before the visit. No other access detail (parking, which door, where anything is kept) has been entered.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Client account updates",
+     "office": false,
+     "note": "New client - pets Wynston and Willa were both added to the account on Nov 6, Wynston listed as a smooth-coat Chihuahua. No visit history yet, so expect first-visit introductions.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Client profile update",
+     "office": false,
+     "note": "Client filled in her access instructions and emergency contacts in Time To Pet on Nov 6. Look them up in the app - access details are deliberately not repeated here.",
      "quote": ""
     }
    ],
