@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T15:20:06-05:00",
+ "generated": "2026-11-07T17:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -186,6 +186,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 7",
+     "source": "Shannon Anderson visit report, 5:07 PM",
+     "office": false,
+     "note": "Nova's Prednisone goes in her wet food. On this visit she ate the wet food with the Prednisone with no trouble, and all three animals were fed from the bowls set up per the post-it notes in the kitchen. Nova went #1 outside and had no #2 on this visit.",
+     "quote": "She ate her wet food with the Prednisone without a worry."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Shannon Anderson visit report, 5:07 PM",
+     "office": false,
+     "note": "Nova went out to the fenced back yard to potty with no leash and no harness - Shannon notes this was the second day Nova has done that for her. Reported as a one-off observation by one sitter, not a standing instruction; the standing escape warnings for the two indoor cats are unchanged.",
+     "quote": "It was the 2nd day she went outside without her leash and harness for me."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 4",
      "source": "Shannon Anderson message to Terri Orengo, 8:12 AM Nov 4",
      "office": false,
@@ -241,26 +261,6 @@
      "office": false,
      "note": "The General Information field in Time To Pet was rewritten twice early Oct 26 so that the escape warning now covers BOTH indoor cats - it previously named only the orange one - and the no-upstairs rule is now in the client record rather than only in a client message. Final text also keeps the existing 'make potty' prompt for Nova.",
      "quote": "We do have two indoor cats, they will try to run outside- please make sure they stays inside."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 24",
-     "source": "Client message from Terri Orengo, Oct 24 4:29 PM",
-     "office": false,
-     "note": "Scarlett keeps to Nova's room and the basement, and Terri states upstairs is off limits for all three animals - the first time that whole-house rule appears in a message here.",
-     "quote": "She prefers Nova’s room and the basement- no upstairs allowed (for any of them)."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 24",
-     "source": "Client message from Terri Orengo, Oct 24 4:29 PM",
-     "office": false,
-     "note": "Scarlett is fine with people and tolerates Nova, but she and Benji are not settled yet - Terri says Benji is too curious and gets in her space. All three can now be out at the same time, so expect them loose together rather than separated.",
-     "quote": "She loves humans, tolerates Nova, and she and Benji are working on it."
     }
    ],
    "dormant": false
@@ -8334,6 +8334,16 @@
     "Willa"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "Shannon Anderson meet and greet report, 4:33 PM",
+     "office": false,
+     "note": "Meet and greet completed Nov 7 at about 4:30 PM. There is still no written Pet Care Note for either dog, but Shannon confirmed on that report that she photographed where things are located and attached the pictures to it - so the Nov 7 meet and greet report in Time To Pet is currently the only record of where supplies and equipment are. Open that report before the first visit.",
+     "quote": ""
+    },
     {
      "cat": "behavior",
      "sev": "high",
