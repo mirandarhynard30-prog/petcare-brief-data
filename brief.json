@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T19:20:05-05:00",
+ "generated": "2026-11-06T21:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7621,6 +7621,26 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 6",
+     "source": "Client updated Merlin's Pet Care Note in Time To Pet, Nov 6 8:52 PM",
+     "office": false,
+     "note": "Merlin (referred to as she): use the BLACK harness, any leash is fine. Do not pet her the moment you walk in - she is an excited pee'er. Feeding per the same note: half a cup of Freshpet twice a day, AM and PM, fed in her crate.",
+     "quote": "Use black harness, leash doesn't matter. Do not pet as soon as you walk in; she is an excited pee'er."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Client updated both Merlin's and Suzaiko's Pet Care Notes in Time To Pet, Nov 6 8:51-8:52 PM",
+     "office": false,
+     "note": "NEW tonight: one pump of fish oil now goes into every meal for Merlin and for Suzaiko - the fish oil is kept in the fridge. This is the only change the client made to either note; everything else in both notes is unchanged. The note does not say whether Ruri gets it, so assume not until confirmed.",
+     "quote": "also 1 pump of fish oil in each meal (in fridge)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 28",
      "source": "Tiarra Roberts updated contact information for Megan O'Dell, Oct 28 7:39pm ET",
      "office": false,
@@ -7645,6 +7665,16 @@
      "source": "Megan O'Dell profile and pet records created Oct 25; 400-day search of this mailbox",
      "office": true,
      "note": "Brand-new client, on today's schedule, and nothing about these animals has ever come through this mailbox. She set up her own profile Oct 25 and added three pets - Merlin, Suzaiko and Ruri - but no Pet Care Note, Company Note, client message or visit report exists for her, so a sitter arriving today has no handling, feeding or access information for any of the three. Species are not stated anywhere in the email record. The office should confirm the care notes are filled in before the first visit.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Client updated Suzaiko's Pet Care Note in Time To Pet, Nov 6 8:51 PM",
+     "office": false,
+     "note": "Suzaiko: use the BLUE FLORAL harness, any leash is fine. Feeding per the same note: half a cup of Freshpet twice a day, AM and PM, fed in her crate. (Harness colour is the way to tell the two dogs' gear apart - black is Merlin's.)",
      "quote": ""
     },
     {
