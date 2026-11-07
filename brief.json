@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T05:20:06-05:00",
+ "generated": "2026-11-07T11:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4420,6 +4420,16 @@
      "office": true,
      "note": "Routine change: the raccoons are NO LONGER to be fed. Birdseed for the birds only, kept in the kitchen closet on the floor. The published standing note still says bird food generally, so it needs correcting in Time To Pet.",
      "quote": "We are no longer feeding the raccoons, just the birdseed for the birds."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Kari Majewski message, Nov 7 10:19 AM ET",
+     "office": false,
+     "note": "Kari asked that a heavy delivered box be left in the garage rather than carried upstairs. Separately, Margaret Bill replied that she had already taken it upstairs before the message came in, calling it awkward rather than heavy.",
+     "quote": "There is a heavy box that has been delivered. Please do not take it upstairs. It can just stay in the garage."
     },
     {
      "cat": "schedule",
