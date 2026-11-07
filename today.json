@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T00:05:07-05:00",
+ "generated": "2026-11-07T09:35:32-05:00",
  "date": "2026-11-07",
  "label": "Nov 7, 2026",
  "clients": [
@@ -114,23 +114,11 @@
    ]
   },
   {
-   "name": "Mary Gilmore",
-   "visits": [
-    {
-     "time": "11:45 AM",
-     "sort": "1145",
-     "staff": "Margaret Bill",
-     "service": "Dog Visit-30 minute",
-     "pets": "Puck, Rusty"
-    }
-   ]
-  },
-  {
    "name": "Megan Nickoli",
    "visits": [
     {
-     "time": "1:00 PM",
-     "sort": "1300",
+     "time": "12:00 PM",
+     "sort": "1200",
      "staff": "Margaret Bill",
      "service": "Dog Visit-30 minute",
      "pets": "Aayla"
@@ -162,5 +150,5 @@
    ]
   }
  ],
- "visitCount": 14
+ "visitCount": 13
 }
