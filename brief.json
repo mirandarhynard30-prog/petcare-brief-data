@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T14:20:09-05:00",
+ "generated": "2026-11-07T15:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3020,14 +3020,24 @@
      "quote": "I'll be there by 1pm to visit with Holly today."
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Holly was bright and energetic on the Nov 7 afternoon walk and the sitter noted her new haircut, so Thursday's grooming went ahead. Nothing unusual was reported after the sedation the client had been worried about. No accidents in the home; client was home during the visit.",
+     "quote": "She was super excited when I entered the home today."
+    },
+    {
      "cat": "schedule",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 6",
-     "source": "Shannon Anderson visit report, 1:23 PM",
+     "date": "Nov 7",
+     "source": "Shannon Anderson visit report",
      "office": false,
-     "note": "Shannon Anderson told Lynne at the end of the Nov 6 walk that she will be back tomorrow afternoon, so Saturday Nov 7 looks covered for Holly by Shannon. Worth noting because Lynne has had to ask three times whether a walker was coming; this is the sitter saying it unprompted, not a client request. Holly was in good spirits, walked her normal route, went #1 and #2 firm and healthy, and showed off her new haircut after yesterday's grooming.",
-     "quote": "I will see you and Holly tomorrow afternoon."
+     "note": "Shannon Anderson told Lynne at the end of the Nov 7 afternoon walk that she will be back tomorrow afternoon, so Sunday Nov 8 looks covered for Holly by Shannon.",
+     "quote": "I will see you guys tomorrow afternoon."
     }
    ],
    "dormant": false
