@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T21:20:06-05:00",
+ "generated": "2026-11-07T05:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -445,16 +445,6 @@
      "office": true,
      "note": "Liz messaged at 4:45 AM to cancel today's visit - still having health issues and says she will keep us posted. She is on today's roster, so the office needs to take Mon Oct 19 off the schedule. This is her sixth cancellation this month (Oct 8, 9, 14, 15, 16, 19) and she wrote \"cancel again today\", so expect more short-notice cancellations.",
      "quote": "unfortunately I am still having health issues. I apologize to have to cancel again today. I will keep you posted too."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Liz Wainio has sent you a new message.",
-     "office": true,
-     "note": "Client messaged at 9:51 AM today to say she meant to cancel today's visit and had forgotten to enter it. A portal Service Change notice at 10:01 AM covers the cancellation of today's 11:15 AM - 12:00 PM Dog Visit-45 min, so the request now appears to be in the system and needs processing before the 11:15 AM slot. This is her third same-day cancellation in three days (Oct 14, Oct 15, Oct 16).",
-     "quote": "Hi, so sorry. Yes. I forgot to put in the cancellation."
     }
    ],
    "dormant": false
@@ -1866,16 +1856,6 @@
      "quote": "Phil and I had our schedules mixed up. He made a grooming appointment this morning at the same time as I scheduled the walk."
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Client private message 10:33am",
-     "office": true,
-     "note": "Client asks to scrap today's walk because of several bands of rain over the next hour and a half, and asks whether Murphy can walk tomorrow (Sat Oct 17) late morning instead. Needs an office reply and a schedule change for both days.",
-     "quote": "If we scrap it for today, any chance he could walk tomorrow late morning?"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1934,16 +1914,6 @@
      "office": false,
      "note": "Important Notes were edited Oct 17 at 10:55 AM and one line was added - park in the driveway. Nothing was removed: send an ETA when on the way, the client will have Murphy ready, close the garage door and knock on the glass door, hurry Murphy along if he starts to sniff, and Macy can be dog reactive are all still there.",
      "quote": "Park in driveway"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Client private message 10:37am",
-     "office": true,
-     "note": "Second message four minutes later: she leaves the replacement time to the office, says they are open all day, and wants Murphy to get the exercise. So any time Saturday works - the office just has to pick one and tell her.",
-     "quote": "You tell me what works for the girls. We’re open all day."
     },
     {
      "cat": "behavior",
@@ -2990,16 +2960,6 @@
      "quote": "I’m running errands. Door open and she is raring to go"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Client private message 1:08 PM",
-     "office": true,
-     "note": "Client asks by private message at 1:08 PM whether she has a walker today. Unanswered as of this run. She is on today's schedule, so someone needs to confirm who is coming and when.",
-     "quote": "Do I have a walker today"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -3298,16 +3258,6 @@
      "office": true,
      "note": "Thomas Rakovec replied to Ray a minute later with two messages, 'Got it' and this one, so the client has had an acknowledgement. That is a reply, not a schedule change - the Monday and Tuesday visits still have to be taken off the schedule in Time To Pet, and tonight's auto-charge is the deadline for Monday to be a correction rather than a refund.",
      "quote": "Johnny needs done time off"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Visit report 10:23am, Thomas Rakovec",
-     "office": false,
-     "note": "Oct 16 morning walk: Archie went both #1 and #2 and the report's consistency field reads firm and healthy. That breaks the no-#2 run and follows the normal Oct 12 report, with the Oct 14 walk the last one logged as no #2. Ray was home for the visit and asked that the door not be locked.",
-     "quote": "It was firm and healthy"
     },
     {
      "cat": "home",
@@ -4850,7 +4800,7 @@
      "quote": "Send an ETA just in case Karen's friend is there resting."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Jen Moyse",
@@ -7014,46 +6964,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Client message 10:41am",
-     "office": true,
-     "note": "Today's Oct 16 walk was called off for rain by Dan Dantimo, who told the client roughly six minutes before the due time. The client says she has early plans Saturday, so she expects the next walk to be Monday. Office needs to settle what Saturday and Monday hold and reply to her.",
-     "quote": "Sorry we have early plans tomorrow. I guess it will be Monday."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Client message 10:49am",
-     "office": true,
-     "note": "Follow-up message: the client says it had not rained at her house for over an hour and that she had just seen two neighbours out walking their dogs, so in her view the walk could have been fitted in or the weather checked earlier. Dan Dantimo accepted this in reply at 10:52am.",
-     "quote": "So it could have been fit in or checked earlier."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Client message 11:12am",
-     "office": true,
-     "note": "Third message in the same thread: she walked Boo herself with no rain, says the weather at the sitter's house differs from hers and that phones can be set for different cities. Service only started 10/12, so this is dissatisfaction in the first week. Needs an office call or reply today.",
-     "quote": "One walk and already problems"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Client private message to Miranda, 11:15 AM",
-     "office": true,
-     "note": "Follow-up to the rain cancellation of Boo's walk. She asks for billing to be corrected and asks directly whether walkers do not walk in the rain - still unanswered. Repeats that there was no rain at her house and that neighbours were out walking their dogs, and calls the short notice unacceptable.",
-     "quote": "So do walkers not walk in the rain?"
-    },
-    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7082,26 +6992,6 @@
      "office": false,
      "note": "Mid-morning walk: BooBoo went #1 and #2 and Dan Dantimo answered the report's consistency field 'It was a little loose but not concerning'. Second reading of that kind this month - the Oct 12 walk was logged the same way. Otherwise a normal visit: eager to go out, went #2 right away, usual route, took a treat, client was home.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Client message 10:41am",
-     "office": true,
-     "note": "In passing the client says she will walk Boo once her meds kick in. She does not name the medication, the dose or the timing, and nothing on file for this client mentions a medication - office should confirm whether Boo is on anything that affects walk timing.",
-     "quote": "Boo is looking out window but I will take her later as soon as meds kick in."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 16",
-     "source": "Dan Dantimo message to client, 11:16 AM",
-     "office": true,
-     "note": "Dan Dantimo has already promised her that next time weather threatens a walk he will message her through Time To Pet to check conditions at her address before calling it off. Office should know this commitment was made before calling her back.",
-     "quote": "the next time this situation occurs I will contact you via time to pet to see the weather in your area"
     },
     {
      "cat": "health",
@@ -8351,6 +8241,37 @@
      "office": false,
      "note": "Sassie dislikes rain. She wears a raincoat and the Nov 4 outing was cut to a potty break. She greets people in the building hallways.",
      "quote": "not a fan of rain as I can tell"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Melanie Pinkerton",
+   "url": "https://www.timetopet.com/dashboard/client/to39hs2iIfP9",
+   "pets": [
+    "Wynston",
+    "Willa"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Time To Pet profile and pet records created by the client, Nov 6 3:21-3:43 PM",
+     "office": true,
+     "note": "Brand-new client, on today's Nov 7 schedule, and there is NO Pet Care Note of any kind for either dog. She set up her own profile on Nov 6 and added two pets - Wynston (Chihuahua, smooth coat) and Willa - but no feeding amounts, handling or leash instructions, potty routine, medications or vet practice have been entered for either one, and nothing about these animals has ever come through this mailbox. A sitter arriving today has nothing to go on and should expect to ask the client in person. Office: this needs a Pet Care Note before the next visit.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "office": false,
+     "source": "Client's own profile update, Nov 6 3:21 PM",
+     "note": "Access: the client filled in her Access Instructions on Nov 6 with a front-door lock code. The code is in Time To Pet and is deliberately not repeated here - look it up there before the visit. No other access detail (parking, which door, where anything is kept) has been entered.",
+     "quote": ""
     }
    ],
    "dormant": false
