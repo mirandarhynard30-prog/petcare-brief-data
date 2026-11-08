@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T21:20:05-05:00",
+ "generated": "2026-11-07T22:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7402,6 +7402,26 @@
      "cat": "home",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 7",
+     "source": "Client private message, Nov 7 8:46 PM ET",
+     "office": true,
+     "note": "Lockbox access is fixed. The client says the locksmith had entered the code incorrectly, came back out and reset it, and that whoever comes on Sunday Nov 8 will have the keys. This supersedes the Nov 6 and Nov 7 notes saying the lockbox was failing and that she could not reach the locksmith. The new code is deliberately NOT recorded here - it is in her Time To Pet private message and belongs in her Pet Care Note. OFFICE: update the access record and tell the assigned sitter the box is working again before the visit.",
+     "quote": "Thanks Miranda, but it's fixed now."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Client private message, Nov 7 8:46 PM ET",
+     "office": true,
+     "note": "The client is now writing as though a visit is happening tomorrow, Sunday Nov 8, which is the morning slot she asked for after cancelling Saturday. No reply or confirmation from the office appears anywhere in the mail, so it is unclear whether that Sunday visit is actually on the schedule and assigned. Confirm before Sunday morning.",
+     "quote": "So whomever is coming tomorrow will have the keys."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 6",
      "source": "Client private message, Nov 6 6:06 PM",
      "office": true,
@@ -7457,26 +7477,6 @@
      "office": false,
      "note": "Chloe handling, as the client wrote it: a Mini Doodle, 2 turning 3 in December, high energy. Crate trained and she will be in the crate when you arrive. She gets excited at the door on the way out; the client takes the stairs going out and the elevator coming back, sitters may use either. On lead she pulls - stop and turn around every time; if she spots a squirrel, hold on. Poop bags hang on the lead. She will usually pee but may not poop. At the door the client removes the lead, puts the key in - sometimes the key has to stay in to open the door - and says Ready, Set ... Go.",
      "quote": "On lead she may pull, I stop and turn around every time she pulls."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Client private message",
-     "office": false,
-     "note": "For this weekend the client asks that Chloe be walked rather than let into the back yard, which is a mess of leaves and rain, and that her feet be wiped with the towel left by the door.",
-     "quote": "please ask them to just walk Chloe. The backyard is a mess with all the leaves and rain we've had."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Karen Grosser private message",
-     "office": true,
-     "note": "Building access still unresolved: client expects a spare fob next week and a key that has to be cut, so until then sitters are using her own. Lockbox has been failing to open.",
-     "quote": "I should have an extra fob next week and a key that might take a little longer"
     }
    ],
    "dormant": false
