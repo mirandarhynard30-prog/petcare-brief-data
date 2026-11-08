@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T13:20:05-05:00",
+ "generated": "2026-11-08T17:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -624,6 +624,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 8",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client will not be working Monday Nov 9 and says no dog walker is needed that day. Needs the Monday visit pulled from the schedule.",
+     "quote": "I will not be working tomorrow so we will not need a dog walker tomorrow."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 2",
      "source": "Terry M private message, 9:57 AM",
      "office": true,
@@ -1096,6 +1106,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 8",
+     "source": "Pet Care Note update by Tiarra Roberts",
+     "office": false,
+     "note": "Orange cooling collar lives in the freezer. If it is over 75 degrees, put it on Georgie before the walk and slip the harness over the collar.",
+     "quote": "if temp is over 75 degrees, put on before walk - slip harness over cooling collar"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1204,16 +1224,6 @@
      "office": true,
      "note": "Mary Ann cancelled the Monday Oct 26 morning walk. She wrote to Monica at 9:18 PM that Georgie twisted his leg on tonight's walk and is limping a bit, so the am walk is off. This supersedes her 7:16 PM note about Tillie being loose in the kitchen for that same morning visit. No acknowledgement from the office or from Monica is visible in this mailbox, so the visit may still be on the board.",
      "quote": "I need to cancel the morning walk tomorrow because Georgie twisted his leg tonight on his walk."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Client message to Monica Hopewell, 9:18 PM",
-     "office": false,
-     "note": "Owner-confirmed limping after the 8 PM walk on which Noella Assi reported Georgie hurting his front leg. Mary Ann says he twisted the leg and is limping a bit, and she is resting him Monday morning rather than walking him. She said earlier in the evening that she thinks it is a sprain or arthritis. No vet visit and no medication change is mentioned anywhere in this mailbox.",
-     "quote": "He is limping a bit."
     }
    ],
    "dormant": false
@@ -3270,6 +3280,16 @@
      "quote": "I’ll be out at friends today. Will miss you and Dan until I need you both."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "Client message",
+     "office": true,
+     "note": "Client was out at a friend's Sunday and says she will be in touch when she needs walks again. Ambiguous whether this pauses the standing schedule or only covered Sunday - Guinness was still walked Sunday by Thomas. Worth confirming before Monday.",
+     "quote": "Will miss you and Dan until I need you both."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3348,16 +3368,6 @@
      "office": false,
      "note": "Oct 26 midday walk: Guinness went #1 several times and #2 once, and Dan Dantimo again answered the consistency field a little loose but not concerning. That is the same answer on Oct 12, 13, 15, 17, 20, 21, 22, 23 and now Oct 26.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Dan Dantimo visit report, 1:10 PM",
-     "office": true,
-     "note": "Guinness went #2 on the Oct 22 midday walk and the consistency field was logged as a little loose but not concerning. That is a second day running after the Oct 21 report of frank diarrhea. The sitter describes him as excited, keen to walk and sniffing far more than usual, and reports no accidents in the home. Quote left empty on purpose - the exact field wording collides with another client's Oct 22 item under the relay's de-duplication key.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -3569,6 +3579,16 @@
      "office": false,
      "note": "Client asks every sitter to double-check the door is locked before leaving after Aayla's walk. She found it left unlocked on Aug 27. She raised it warmly and followed up saying she appreciates the team, so this is a standing check, not a complaint to resolve.",
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "Visit report - Kristin Aldridge",
+     "office": false,
+     "note": "A package was waiting at the front door on Sunday; the sitter brought it in and left it on the table inside.",
+     "quote": "there was a package at your front door, so we brought that in and left it on the table inside"
     },
     {
      "cat": "schedule",
@@ -5678,6 +5698,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 8",
+     "source": "Client message",
+     "office": true,
+     "note": "Client's Thanksgiving plans changed - cancel every Thanksgiving visit at this home. Christmas is still undecided; she will write if sitters are needed.",
+     "quote": "Please cancel all of their visits to our home for Thanksgiving."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 5",
      "source": "Client message from Ellen Krane, Nov 5 morning",
      "office": true,
@@ -5773,16 +5803,6 @@
      "office": true,
      "note": "The meet-and-greet happened on Thursday Oct 29 - Michelle Carrara met Ellen and confirmed the pet roster as Baxter, Rosie, Buttons, Nugget and Roxie, five pets. She signed off telling Ellen to enjoy her trip, so travel looks imminent, but the email gives no dates. The three unanswered Thanksgiving cover requests from Oct 22, 23 and 25 are still the open office item and nothing in this report answers them.",
      "quote": "We are looking forward to taking care of Baxter, Rosie, Buttons, Nugget and Roxie"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Ellen Krane message 3:49 PM",
-     "office": true,
-     "note": "Client asking to book a meet-and-greet after 4:30 pm on Tuesday or Thursday; her daughter wants to attend and is not home until 4:30-4:45. Needs an office reply with a time.",
-     "quote": "would a meet-and-greet after 4:30 pm work for you on Tuesday or Thursday?"
     }
    ],
    "dormant": false
@@ -6101,6 +6121,26 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 8",
+     "source": "Pet Care Note update by Tiarra Roberts",
+     "office": false,
+     "note": "Zeno is food aggressive. Give Zeno his treat first, send him to the crate in the bedroom and shut the door while he eats, then treat the other dogs and let Zeno out once they have finished. Each dog gets one treat.",
+     "quote": "Zeno is food aggressive"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 8",
+     "source": "Pet Care Note update by Tiarra Roberts",
+     "office": false,
+     "note": "Zeno must not have the milk bone treats on the kitchen counter - he only gets the treats in the container with the white lid.",
+     "quote": "ZENO DOES NOT GET THE MILK BONE TREATS - only treats in the container with white lid for Zeno"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 22",
      "source": "Pet Care Note and Company Notes, edited by Tiarra Roberts Sep 22",
      "office": true,
@@ -6151,11 +6191,31 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
-     "date": "Sep 26",
-     "source": "Time To Pet record edit by Tiarra Roberts",
+     "date": "Nov 8",
+     "source": "Pet Care Note update by Tiarra Roberts",
+     "office": false,
+     "note": "Odie and Zeno can go out in the backyard, but Griswold must be taken out on leash. Leash is on the table by the front door.",
+     "quote": "MUST be taken out on leash"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "Visit report - Tiarra Roberts",
+     "office": false,
+     "note": "Zeno was digging in the fence corner during the Sunday visit while the neighbours' kids were on their trampoline and the neighbour dog was at the fence. Sitter had to go get him out of that corner.",
+     "quote": "When Zeno was in corner, by fence where trampoline and neighbor dog was, he was digging, a bit."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "Visit report - Tiarra Roberts",
      "office": true,
-     "note": "Pet Care Note cut back to the Odie muzzle line only; Zeno's treat-aggression rule and Griswold's leash-only rule deleted from it. Both survive in Company Notes, so nothing lost outright, but the field sitters read first no longer carries them.",
-     "quote": "Griswold has to be leashed up, do not let him in the back yard without being leashed."
+     "note": "Sitter asked whether ball or toy play is safe with Zeno given his food aggression - she held off rather than risk it. Needs an answer from the office or client.",
+     "quote": "I thought about playing ball, but I didn't want to agrevate Zeno"
     }
    ],
    "dormant": false
@@ -8185,6 +8245,36 @@
    "items": [
     {
      "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 8",
+     "source": "Client private message",
+     "office": false,
+     "note": "A family member at the home has worsening dementia and may tell the walker not to come. Account manager asks that any such cancellation be confirmed with her first - it already happened with a previous walker. Do not leave on a verbal cancellation at the door without checking.",
+     "quote": "if she tells the walker not to come please confirm with me 1st"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "Client private message",
+     "office": false,
+     "note": "Sassie is getting older with more health issues; client flags possible incontinence and says she saw the vet Saturday. No diagnosis or medication given in the message.",
+     "quote": "She possibly could have incontinence Just an FYI. She went to the vet Saturday."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "Client private message",
+     "office": true,
+     "note": "Account manager is still waiting on full coverage for this client's visits.",
+     "quote": "I hope we can get full coverage soon."
+    },
+    {
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
      "date": "Nov 4",
@@ -8337,6 +8427,16 @@
      "quote": ""
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "Pet Care Note update by Shannon Anderson",
+     "office": false,
+     "note": "Feeding is once a day, midday or afternoon: cover the bottom of the bowl for the puppies and top off during the day. Food is Science Diet puppy, kept on the dresser. Water bowls in the puppy room and the dining/living room.",
+     "quote": "Feed 1x daily (midday/afternoon): cover the bottom of the bowl for puppies, top off during the day"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -8344,16 +8444,6 @@
      "office": false,
      "source": "Client's own profile update, Nov 6 3:21 PM",
      "note": "Access: the client filled in her Access Instructions on Nov 6 with a front-door lock code. The code is in Time To Pet and is deliberately not repeated here - look it up there before the visit. No other access detail (parking, which door, where anything is kept) has been entered.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 6",
-     "source": "Client account updates",
-     "office": false,
-     "note": "New client - pets Wynston and Willa were both added to the account on Nov 6, Wynston listed as a smooth-coat Chihuahua. No visit history yet, so expect first-visit introductions.",
      "quote": ""
     }
    ],
