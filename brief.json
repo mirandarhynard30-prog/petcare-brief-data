@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T11:20:07-05:00",
+ "generated": "2026-11-08T12:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -811,6 +811,16 @@
      "quote": "you don’t have to worry about trying to give her Ollie anymore"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "Margaret Bill visit report, Nov 8 11:48 AM",
+     "office": false,
+     "note": "Lucy was flat on the Nov 8 midday visit. She went out, went #1, smelled the flowers next door and wanted to come straight home, then went back into her pen and would not play. The sitter could only get her to eat by dropping kibble into the pen - about ten pieces, then roughly five more, and she was still eating when the sitter left. She took her bone into the pen rather than outside. No #2 was recorded on the report. This is one sitter's observation on one visit, not an established pattern, and the report records no vomiting, limping or other symptom.",
+     "quote": "She went back into her pen and didn't want to play. She did let me pet her and she seemed a little sad."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -819,16 +829,6 @@
      "office": true,
      "note": "Sitter swapped Lucy's correcting collar for her regular collar on the Nov 7 visit and asked the client whether that was okay - no confirmation seen yet.",
      "quote": "I took the correcting collar off and put her regular collar on."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Margaret Bill midday walk report, Oct 30 1:06 PM",
-     "office": false,
-     "note": "Third datapoint on Lucy's bowels after the Oct 29 loose-stool reports. On the Oct 30 midday walk she had more energy than the day before, went #1 once and #2 twice, and ate kibble and treats. The report's consistency field was NOT answered this time, so there is no record of whether the stool was still loose - that gap is worth closing with Margaret rather than assuming it resolved.",
-     "quote": "On the way back, Lucy went number two twice."
     }
    ],
    "dormant": false
@@ -7259,6 +7259,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "Karen Grosser client message, Nov 8 11:41 AM",
+     "office": true,
+     "note": "Karen wrote at 11:41 AM that the lock box code has changed again and gave the new code in that message. The code itself is deliberately not recorded here. The office has to read it out of her Nov 8 11:41 AM Time To Pet message and get it into her Pet Care Note and to whoever covers her 1:00 PM visit today. This is the second code change in two days - she also sent a re-set code on Nov 7 at 8:46 PM. She sent a second, content-free message at 11:53 AM.",
+     "quote": ""
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7367,16 +7377,6 @@
      "office": false,
      "note": "New Company Notes carry a conditional feeding routine for Chloe: only when directed, one full Ollie wet food package from the fridge mixed well with the red spatula, plus one can of Fancy Feast. A second edit three minutes later corrected the supplement wording from Vitamin E to Vitamin E oil and from Ollie tablet to Ollie probiotic - use the later version.",
      "quote": "ONLY IF DIRECTED: Feed 1 full Ollie package wet food, from fridge, 1/2 dropper Vitamin E oil, Pawfy, Ollie probiotic"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 30",
-     "source": "Chloe pet record, Current Care Notes (text the client had written, replaced Oct 30 5:00 PM)",
-     "office": false,
-     "note": "Chloe handling, as the client wrote it: a Mini Doodle, 2 turning 3 in December, high energy. Crate trained and she will be in the crate when you arrive. She gets excited at the door on the way out; the client takes the stairs going out and the elevator coming back, sitters may use either. On lead she pulls - stop and turn around every time; if she spots a squirrel, hold on. Poop bags hang on the lead. She will usually pee but may not poop. At the door the client removes the lead, puts the key in - sometimes the key has to stay in to open the door - and says Ready, Set ... Go.",
-     "quote": "On lead she may pull, I stop and turn around every time she pulls."
     }
    ],
    "dormant": false
