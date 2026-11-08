@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T09:20:05-05:00",
+ "generated": "2026-11-08T10:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3260,6 +3260,16 @@
      "quote": "He did go number two twice and really did well on his walk today."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "Client message",
+     "office": true,
+     "note": "Client message at 9:58 AM Nov 8, addressed to Tom: she will be out at friends today and will miss Tom and Dan until she needs them both. Read against her Nov 5 message about pausing the walks after this Sunday, this most likely means today's Sunday walk is the last one before the pause and she is saying goodbye rather than cancelling. Ambiguous as written - she does not say whether today's visit should still happen while she is out. Office should confirm before the visit goes out.",
+     "quote": "I’ll be out at friends today. Will miss you and Dan until I need you both."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3348,16 +3358,6 @@
      "office": true,
      "note": "Guinness went #2 on the Oct 22 midday walk and the consistency field was logged as a little loose but not concerning. That is a second day running after the Oct 21 report of frank diarrhea. The sitter describes him as excited, keen to walk and sniffing far more than usual, and reports no accidents in the home. Quote left empty on purpose - the exact field wording collides with another client's Oct 22 item under the relay's de-duplication key.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Guinness went #2 twice on the walk; the second was diarrhea. Sitter reports he seemed fine otherwise. First report of this for Guinness.",
-     "quote": "the second time was diarrhea but he seemed just find"
     }
    ],
    "dormant": false
@@ -5668,6 +5668,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 8",
+     "source": "Client message",
+     "office": true,
+     "note": "Client message at 9:58 AM Nov 8 cancels Thanksgiving outright - she asks that ALL Thanksgiving visits to her home be cancelled. This supersedes her Nov 5 message, which only said she would need fewer days and possibly none. She says she will finalize Christmas plans in the next few weeks and will write if sitters are needed then. Someone has to actually pull the Thanksgiving visits off the schedule.",
+     "quote": "We will no longer be needing the pet sitters to do any visits for Thanksgiving."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 5",
      "source": "Client message from Ellen Krane, Nov 5 morning",
      "office": true,
@@ -5773,16 +5783,6 @@
      "office": true,
      "note": "Client asking to book a meet-and-greet after 4:30 pm on Tuesday or Thursday; her daughter wants to attend and is not home until 4:30-4:45. Needs an office reply with a time.",
      "quote": "would a meet-and-greet after 4:30 pm work for you on Tuesday or Thursday?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Client message 7:36 PM",
-     "office": true,
-     "note": "Meet-and-greet now appears settled for Thursday at 5. At 3:49 PM Ellen asked for after 4:30 pm Tuesday or Thursday so her daughter could attend; at 7:36 PM she replied confirming Thursday at 5. Thursday is Oct 29. The reply she is thanking is not visible in this mailbox, so confirm the appointment is actually on the calendar and that someone is assigned. Her separate Thanksgiving coverage request is a different thread and is not addressed by this message.",
-     "quote": "Thank you! See you Thursday at 5!"
     }
    ],
    "dormant": false
