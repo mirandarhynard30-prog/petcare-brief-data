@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T10:20:05-05:00",
+ "generated": "2026-11-08T11:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -6081,6 +6081,26 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 8",
+     "source": "Tiarra Roberts updated contact information, Nov 8 10:26 AM",
+     "office": true,
+     "note": "The muzzle contradiction open since Sep 22 looks resolved by this 10:26 AM edit. Company Notes were rewritten and no longer contain any muzzle instruction, so the Pet Care Note carries the only rule: muzzle on arrival, take it off at the visit, crate him WITHOUT it when you leave. Nothing anywhere now says to put it back on. Office should confirm with Ashley that crating Odie un-muzzled is intended, since the old note said the opposite.",
+     "quote": "Muzzle will be on Odie, please take off at visit and put him in his crate WITHOUT muzzle, when you leave"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 8",
+     "source": "Tiarra Roberts updated contact information, Nov 8 10:26 AM",
+     "office": false,
+     "note": "Griswold's leash-only rule is back in the Pet Care Note after being deleted from it Sep 26. Odie and Zeno can go in the backyard; Griswold must be leashed, leash on the table by the front door. The older qualifier about not walking far is no longer in either note.",
+     "quote": "MUST be taken out on leash (on table, by front door)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 22",
      "source": "Pet Care Note and Company Notes, edited by Tiarra Roberts Sep 22",
      "office": true,
@@ -6108,6 +6128,26 @@
      "quote": "MUST be taken out on leash (front yard/back yard)"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 8",
+     "source": "Tiarra Roberts updated contact information, Nov 8 10:26 AM",
+     "office": true,
+     "note": "Water handling was cut back and is now ambiguous. The note says only that the bowl is on the kitchen counter by the back door and to pick it up before leaving. The old instructions to fill it and place it down, and the separate large shared bowl to top off each visit, are both gone - as written a sitter could remove the bowl without ever putting water down. Office should confirm what the dogs get during a visit.",
+     "quote": "Water bowl is on kitchen counter, by back door. Pick up before leaving"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 8",
+     "source": "Tiarra Roberts updated contact information, Nov 8 10:26 AM",
+     "office": false,
+     "note": "Treat rules survive in Company Notes unchanged: milk bones on the kitchen counter by the water bowl, one treat each, and ZENO DOES NOT GET THE MILK BONES - only the treats in the white-lidded container. Zeno is food aggressive: his treat first, send him to the bedroom crate and shut the door while he eats, treat the others, let him out after they finish. Poop bags in the trash can outside the garage.",
+     "quote": "Give Zeno his treat FIRST"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -6116,19 +6156,9 @@
      "office": true,
      "note": "Pet Care Note cut back to the Odie muzzle line only; Zeno's treat-aggression rule and Griswold's leash-only rule deleted from it. Both survive in Company Notes, so nothing lost outright, but the field sitters read first no longer carries them.",
      "quote": "Griswold has to be leashed up, do not let him in the back yard without being leashed."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 13",
-     "source": "Company Notes edit by Tiarra Roberts 10:06am",
-     "office": false,
-     "note": "Company Notes edited at 10:06am. The only change is the removal of the 'Dog Overview: Odie, Zeno, Griswold' header line. The care content is unchanged and still carries all three rules in full: Odie's muzzle comes off at the start and back on before leaving, Zeno is food aggressive so he gets his treat first shut in his crate, and Griswold must go out on leash in front or back yard.",
-     "quote": ""
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Julia Rosenthal",
