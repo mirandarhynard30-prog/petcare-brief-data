@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T12:20:07-05:00",
+ "generated": "2026-11-08T13:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -714,6 +714,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 8",
+     "source": "Client private message to Miranda, Nov 8 12:25 PM",
+     "office": true,
+     "note": "Client cancelled tomorrow's walk - she wrote at 12:25 PM that no walker is needed Monday Nov 9 for Lucy and that service resumes Tuesday Nov 10. Monday needs to come off the schedule and the message is still unanswered. The message is signed by neither name, but it came from the Angela Jozsa account.",
+     "quote": "We won’t need a walker for tomorrow for Lucy. We will see you guys Tuesday!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 3",
      "source": "Angela Jozsa private message 6:28 PM",
      "office": true,
@@ -819,16 +829,6 @@
      "office": false,
      "note": "Lucy was flat on the Nov 8 midday visit. She went out, went #1, smelled the flowers next door and wanted to come straight home, then went back into her pen and would not play. The sitter could only get her to eat by dropping kibble into the pen - about ten pieces, then roughly five more, and she was still eating when the sitter left. She took her bone into the pen rather than outside. No #2 was recorded on the report. This is one sitter's observation on one visit, not an established pattern, and the report records no vomiting, limping or other symptom.",
      "quote": "She went back into her pen and didn't want to play. She did let me pet her and she seemed a little sad."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Margaret Bill",
-     "office": true,
-     "note": "Sitter swapped Lucy's correcting collar for her regular collar on the Nov 7 visit and asked the client whether that was okay - no confirmation seen yet.",
-     "quote": "I took the correcting collar off and put her regular collar on."
     }
    ],
    "dormant": false
