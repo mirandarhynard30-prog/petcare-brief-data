@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T08:20:05-05:00",
+ "generated": "2026-11-08T09:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5275,6 +5275,16 @@
      "cat": "health",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 8",
+     "source": "Client private message, Nov 8 8:18 AM",
+     "office": true,
+     "note": "Client sent a one-line private message: no more wet food. No pet is named and no reason is given, so it is unclear whether this covers Chloe's liquid medication, which the standing Sep 11 instruction says is mixed into a churu wet treat. Office should confirm with the client how the medication is to be given before any sitter changes the routine.",
+     "quote": "No more wet food."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
      "date": "Sep 11",
      "source": "Chelsea Tompkins visit report 9:43am Sep 11",
      "office": false,
@@ -8237,6 +8247,26 @@
      "quote": ""
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 8",
+     "source": "Client private message, Nov 8 9:01 AM",
+     "office": true,
+     "note": "Client will enter her own visit days in Time To Pet on Thursdays for the following week, and says she has set a calendar reminder to do it. Office should expect her requests on Thursdays and follow up if they do not arrive.",
+     "quote": "I will just enter them in on Thursdays."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 8",
+     "source": "Pet detail updates for Hansel and Gretel, Nov 8 8:46-8:47 AM",
+     "office": true,
+     "note": "Client updated both puppies' records on Nov 8. Veterinary name, address and phone for Hansel and for Gretel were all filled in as will provide upon receipt, so there is still no vet on file for either dog on a brand-new client. Gretel's birth date was set to Aug 15, 2026. Neutered/spayed was touched on both records but the new value is blank in the notification. Office follow-up to collect the vet details.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -8295,26 +8325,6 @@
      "office": false,
      "note": "New client - pets Wynston and Willa were both added to the account on Nov 6, Wynston listed as a smooth-coat Chihuahua. No visit history yet, so expect first-visit introductions.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 6",
-     "source": "Client profile update",
-     "office": false,
-     "note": "Client filled in her access instructions and emergency contacts in Time To Pet on Nov 6. Look them up in the app - access details are deliberately not repeated here.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 7",
-     "source": "Company Notes updated by Shannon Anderson",
-     "office": false,
-     "note": "Used pee pads go in the bag on the closet door; spare pads are behind the bedroom door. Trash day is Friday morning.",
-     "quote": "Puppies have pee pads in their room, put used pads in a bag hanging on the closet door"
     }
    ],
    "dormant": false
