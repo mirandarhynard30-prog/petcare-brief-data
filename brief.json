@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T19:20:05-05:00",
+ "generated": "2026-11-07T20:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7389,6 +7389,16 @@
      "quote": "It's a small Iron Lock. I'm trying to get ahold of the locksmith who put it up, but I'm not having much luck."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Karen Grosser private message",
+     "office": true,
+     "note": "Asks to move the cancelled visit to Sunday Nov 8 morning; says she works until 8 Saturday night and 11-6 Sunday. Needs an office reply to confirm.",
+     "quote": "So tomorrow morning? If you have the time."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -7459,24 +7469,14 @@
      "quote": "please ask them to just walk Chloe. The backyard is a mess with all the leaves and rain we've had."
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 4",
-     "source": "Client message to the office, 2:46 PM, answering sitter Noella Assi's question after the Nov 4 midday walk",
-     "office": false,
-     "note": "Chloe's normal potty routine, in the client's own words: she goes #2 in the morning and in the evening, and only #1 during the day. So a midday walk with #1 and no #2 is normal for her and is not a sign of a problem.",
-     "quote": "She usually does #2 in the am and Pm... But just #1 throughout the day"
-    },
-    {
      "cat": "home",
      "sev": "medium",
-     "type": "standing",
-     "date": "Nov 3",
-     "source": "Karen Grosser message, 10:40 PM Nov 3",
-     "office": false,
-     "note": "Key situation until further notice: the client has ordered a lockbox but it is not in place yet, and she is still waiting on the building manager about an extra key and a fob, so she is using her own set in the meantime. Until that changes, entry depends on building staff and the front desk key rather than anything the sitter carries. No codes or key locations recorded here - they stay in Time To Pet.",
-     "quote": "I've ordered the lockbox but am still waiting to hear from the bldg manager about getting an extra key and a fob"
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Karen Grosser private message",
+     "office": true,
+     "note": "Building access still unresolved: client expects a spare fob next week and a key that has to be cut, so until then sitters are using her own. Lockbox has been failing to open.",
+     "quote": "I should have an extra fob next week and a key that might take a little longer"
     }
    ],
    "dormant": false
@@ -7619,6 +7619,26 @@
      "quote": "ALSO 1 PUMP OF FISH OIL IN EACH MEAL (LOCATED IN FRIDGE)."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Client updated pet Suzaiko care notes",
+     "office": false,
+     "note": "Suzaiko's feeding notes now add fish oil too: 1/2 cup Freshpet twice a day (AM and PM) plus one pump of fish oil in each meal, kept in the fridge. Fed in crate.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 6",
+     "source": "Client updated pet Merlin care notes",
+     "office": false,
+     "note": "Merlin: use the black harness, leash does not matter. Do not greet her on arrival - she is an excited urinator.",
+     "quote": "Do not pet as soon as you walk in; she is an excited pee'er."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -7637,26 +7657,6 @@
      "office": false,
      "note": "Apartment complex. Park in the apartment parking lot. Leashes hang next to the front door. Take the dogs out for the walk through the sliding glass door, and put waste in the dumpster that is visible from that sliding glass door.",
      "quote": "Park in apartment parking lot"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Megan O'Dell profile and pet records created Oct 25; 400-day search of this mailbox",
-     "office": true,
-     "note": "Brand-new client, on today's schedule, and nothing about these animals has ever come through this mailbox. She set up her own profile Oct 25 and added three pets - Merlin, Suzaiko and Ruri - but no Pet Care Note, Company Note, client message or visit report exists for her, so a sitter arriving today has no handling, feeding or access information for any of the three. Species are not stated anywhere in the email record. The office should confirm the care notes are filled in before the first visit.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 6",
-     "source": "Client updated Suzaiko's Pet Care Note in Time To Pet, Nov 6 8:51 PM",
-     "office": false,
-     "note": "Suzaiko: use the BLUE FLORAL harness, any leash is fine. Feeding per the same note: half a cup of Freshpet twice a day, AM and PM, fed in her crate. (Harness colour is the way to tell the two dogs' gear apart - black is Merlin's.)",
-     "quote": ""
     }
    ],
    "dormant": false
