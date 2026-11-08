@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T22:20:06-05:00",
+ "generated": "2026-11-08T05:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -934,26 +934,6 @@
      "quote": "Took a video of Chloe wheezing while coughing."
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Client message 6:17 PM",
-     "office": true,
-     "note": "Client asked at 6:17 PM tonight for an extra visit between 8:00 and 8:30 PM - she will be out later than expected. A backyard let-out is enough; no walk required. Her 7:01 PM follow-up (“yay! thanks”) reads as though the office already agreed, but confirm it is on the schedule and assigned.",
-     "quote": "Is there anyway that someone may be able to come and walk Chloe or really just let her out in the backyard"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Client message 7:01 PM",
-     "office": false,
-     "note": "For tonight's visit the client says the back gate is open - stay with Chloe the whole time she is out back, do not leave her unattended in the yard. Client wrote this at 7:01 PM on Oct 17; it is not stated as a permanent condition, so treat it as current rather than standing.",
-     "quote": "please stay with her because the gate is open"
-    },
-    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -1412,16 +1392,6 @@
     {
      "cat": "behavior",
      "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Elizabeth Sigler visit report",
-     "office": false,
-     "note": "Bismark got past the gate but laid down after a couple of steps and would not walk; sitter spent the rest of the visit with him in the fenced backyard instead.",
-     "quote": "I didn’t have much trouble getting him past the gate, but then he laid down pretty quickly."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
      "type": "standing",
      "date": "Sep 25",
      "source": "Christina Palmieri message",
@@ -1468,36 +1438,6 @@
      "office": false,
      "note": "Bismark refused his walk on Oct 20 - would not go near the gate - so the sitter gave him fenced backyard time instead and he settled in his usual patch of grass. One occurrence, not a standing rule.",
      "quote": "He really didn’t want to take a walk today, I couldn’t get him to go anywhere near the gate."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 17",
-     "office": false,
-     "source": "Christina Palmieri client message, Oct 17 8:57 PM",
-     "note": "Client is relaxed about Bismark refusing activity - she says he does not mind and a low-activity visit is fine. Said about tonight's visit specifically, after he refused to walk earlier in the day.",
-     "quote": "if he doesn’t want to do much of anything, that is also totally fine!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 17",
-     "office": true,
-     "source": "Christina Palmieri client message, Oct 17 8:57 PM",
-     "note": "At 8:57 PM the client said they would be home in about two hours, so home roughly 11 PM Oct 17. She did not ask for any visit change.",
-     "quote": "We’ll be home in 2 hours"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Harvett Ellington visit report",
-     "office": false,
-     "note": "On the 9:26 PM visit Bismark walked only briefly then wanted to lie down on the side of the house. #1 only, no #2 recorded.",
-     "quote": "He walked for a little bit and then wanted to lay out on the side of the house.."
     },
     {
      "cat": "behavior",
@@ -1846,16 +1786,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Charlene Szunyog has sent you a new message.",
-     "office": true,
-     "note": "Client missed today's 10:05 AM walk - she says she and Phil double-booked a grooming appointment against the walk she had scheduled. Sitter waited about 15 minutes and left without seeing Murphy. Needs a billing and reschedule decision from the office.",
-     "quote": "Phil and I had our schedules mixed up. He made a grooming appointment this morning at the same time as I scheduled the walk."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -1894,16 +1824,6 @@
      "office": false,
      "note": "Macy's stool on the Oct 20 walk was marked loose in the consistency field - the sitter judged it not concerning and the narrative says nothing about it. First loose-stool note on Macy; Murphy's was normal the same visit.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Tiarra Roberts left a message for Charlene Szunyog.",
-     "office": false,
-     "note": "Oct 17, 10:05 AM arrival: garage was closed on arrival. Sitter opened the garage, knocked on the garage door and the glass door, knocked at the front door and rang the Ring doorbell. No answer after about 15 minutes and Murphy could not be heard inside. The standing note expects the client to have Murphy ready, so an unanswered arrival means the visit cannot proceed.",
-     "quote": "I arrived and saw the garage was closed."
     },
     {
      "cat": "home",
@@ -2687,16 +2607,6 @@
     },
     {
      "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Chelsea Tompkins left a message for Jennifer Peganoff.",
-     "office": false,
-     "note": "Oct 17, 10:00 AM visit: Bella passed two stools and urinated several times. Sitter logged the consistency as a little loose but not concerning. Bella's Oct 11 stool was logged very loose, so soft stool has now been seen twice in a week - worth a consistency note at every visit.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
      "sev": "low",
      "type": "recent",
      "date": "Oct 24",
@@ -2958,16 +2868,6 @@
      "office": true,
      "note": "Sitter Julie Smith told the client in her Oct 29 visit report that she will not be at the Friday Oct 30 visit because she is having to put her dog down, and expects to be back next week. Nothing in the mail shows cover for Oct 30 has been arranged. Julie was also marked late to acknowledge her schedule today.",
      "quote": "I won’t be here tomorrow because I am having to say goodbye to my dog."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Lynne Reno private message, 11:34 AM",
-     "office": false,
-     "note": "Client wrote by private message at 11:34 AM that she is out running errands, has left the door open and Holly is ready to go. This is the opposite of her standing access rule, which says she will be home and hands Holly off at the door, so the sitter should not expect anyone to answer. The message does not say which of today's visits it covers, so it is unclear whether it applies to a visit happening at the time she wrote or to the 1:00 PM one.",
-     "quote": "I’m running errands. Door open and she is raring to go"
     },
     {
      "cat": "behavior",
@@ -4939,56 +4839,6 @@
      "office": true,
      "note": "Client is home as of about 4:05 PM Sun Oct 18 - the stay has ended. She thanked the team for giving Miley her medication and looking after the indoor/outdoor cats, so the Felimazole doses appear to have been covered through the stay. Office: this closes the open question of how the widened evening visits bill, and it has to be settled before tonight's 10 PM auto-charge.",
      "quote": "We are home and the kitties were very happy to see us"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Tiarra Roberts visit report, Oct 17 8:21 AM",
-     "office": false,
-     "note": "The dry-food gravity feeder came apart on the Oct 17 morning visit when the sitter lifted it by the top half, spilling dry food across the floor and the green mat. She cleaned it up, washed and replaced the mat, and noted the feeder has to be lifted from the bottom. Treat as one sitter's experience, not yet a confirmed standing rule.",
-     "quote": "The gravity feeder top-half came off and dry food was everywhere."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Tiarra Roberts post-visit report, 10:09 PM visit",
-     "office": true,
-     "note": "The 10:09 PM visit again went well past the scope the client set on Oct 13, that evening is Miley's second Felimazole dose only: litter scooped, LitterRobot bag changed, bowls washed, treats and 2 Churu given, trash taken out, packages brought in. Second night running. Confirm with the client whether the evening scope has in fact widened.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Tiarra Roberts post-visit report, 10:09 PM visit",
-     "office": false,
-     "note": "Miley's evening medication was given on the 10:09 PM visit and she took it without difficulty - third straightforward dosing in three days.",
-     "quote": "She took it with no problems."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Tiarra Roberts post-visit report, 10:09 PM visit",
-     "office": false,
-     "note": "Potty accident in the office on the 10:09 PM visit; the sitter cleaned it up and attached before and after pictures, and the report's accidents field is ticked to match.",
-     "quote": "I cleaned up a little accident in the office."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 17",
-     "source": "Tiarra Roberts post-visit report, 10:09 PM visit",
-     "office": false,
-     "note": "A kitten came out of hiding in the office while the sitter was sweeping. Kittens are in the house and can appear underfoot during cleaning; nothing in the record says where they are kept or whether any door needs watching.",
-     "quote": "As I was sweeping in the office, one of the kittens came out!!"
     }
    ],
    "dormant": false
@@ -5430,6 +5280,16 @@
      "office": false,
      "note": "Chloe gets a liquid medication mixed into a churu treat and served on a plate upstairs. She is usually under the blankets and has to be uncovered to get it to her. Bella gets whatever churu is left over.",
      "quote": "I got Chloe‘s liquid medicine ready and mixed with the churro"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Chelsea Tompkins visit report, Nov 7 10:25 PM",
+     "office": false,
+     "note": "Nov 7 evening visit, as the sitter described it: three packages were brought in with the mail, Bella's water and dry food were done downstairs, the hallway water bowl upstairs was refreshed, Chloe's water and food were topped up in the upstairs bedroom, and all three litter boxes were scooped and vacuumed around. The litter genie bag goes out to the garbage can in the garage. Both pets were logged as a little shy on this visit. One report only, so treat as this visit's routine rather than a written standing rule.",
+     "quote": "I cleaned out the litter genie and disposed of the bag in the garbage can in the garage."
     },
     {
      "cat": "schedule",
