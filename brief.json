@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T20:20:07-05:00",
+ "generated": "2026-11-07T21:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -226,6 +226,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 7",
+     "source": "Sitter and client messages, Shannon Anderson",
+     "office": false,
+     "note": "Nova ate everything except her dry food on the Nov 7 visit. The client is not worried - she says Nova will come back to it when she is ready and Scarlett will try some. The client notes this was the first time they were not home for the pets' dinner.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 4",
      "source": "Shannon Anderson message to Terri Orengo, 8:12 AM Nov 4",
      "office": false,
@@ -251,16 +261,6 @@
      "office": false,
      "note": "Evening follow-up from Terri on this morning's food refusal: by the end of the day Nova had eaten a couple of mini bones, a small portion of her dry food and a full portion of her soft food, but not her biscuit. Terri reads it as Nova being finicky rather than unwell. Appetite partly recovered the same day; still worth watching at the next visit.",
      "quote": "I gave her a full portion of her soft food and she ate it, so maybe she’s just being finicky today."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Sitter message 6:01 PM (Shannon Anderson)",
-     "office": false,
-     "note": "New cat-to-cat observation from Shannon Anderson after the midday visit: Scarlett moved through the kitchen past Benji and Benji appeared reluctant to walk past her. This runs the opposite way to the standing note that Benji crowds Scarlett, so the pecking order between the two cats is not settled in either direction. Shannon also notes Scarlett was out and not hiding.",
-     "quote": "Scarlett is slowly walking into the kitchen and creeping past Benji and it was like he was afraid to walk past her."
     }
    ],
    "dormant": false
@@ -5567,14 +5567,14 @@
      "quote": "Both of them refused to go out there due to the cold."
     },
     {
-     "cat": "behavior",
+     "cat": "health",
      "sev": "medium",
      "type": "standing",
-     "date": "Nov 5",
-     "source": "Christine Jenison message",
+     "date": "Nov 7",
+     "source": "Client message",
      "office": false,
-     "note": "Client confirms evening feeding is needed. Bowls will be left on the counter already filled; if they are not, each pet gets one scoop, twice a day. Pet names not given in the message.",
-     "quote": "We will leave there bowls on the counter with food in them. If we forget, they each get one scoop 2x per day."
+     "note": "Portion check: a sitter who could not find the scoop estimated about half a cup each, and the client confirmed that was close enough. The client also says the dogs probably will not eat much while the family is away from home.",
+     "quote": "1/2 cup would’ve been close enough."
     }
    ],
    "dormant": false
@@ -8407,6 +8407,16 @@
      "quote": "Backyard only visits"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Time To Pet pet records, Shannon Anderson",
+     "office": true,
+     "note": "Pet list is unclear for this new client. Wynston and Willa were added to the account on Nov 6 by the client; Hansel and Gretel were then added on Nov 7 by Shannon Anderson, and Hansel's color was edited the same evening. The emails do not say whether there are now four animals or whether the two puppies were re-entered under different names. Worth confirming before the next sitter arrives.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -8445,16 +8455,6 @@
      "office": false,
      "note": "Used pee pads go in the bag on the closet door; spare pads are behind the bedroom door. Trash day is Friday morning.",
      "quote": "Puppies have pee pads in their room, put used pads in a bag hanging on the closet door"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 7",
-     "source": "Company Notes updated by Shannon Anderson",
-     "office": false,
-     "note": "A cleaning lady is in the home every other Tuesday.",
-     "quote": "Every other Tuesday cleaning lady comes in"
     }
    ],
    "dormant": false
