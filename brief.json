@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T17:20:08-05:00",
+ "generated": "2026-11-07T19:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -206,6 +206,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 7",
+     "source": "Visit report from Shannon Anderson",
+     "office": false,
+     "note": "Nova ate everything on the Nov 7 evening visit except her dry food.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Visit report from Shannon Anderson",
+     "office": false,
+     "note": "Shannon reported that on both of her visits this week Nova went outside without her harness and leash - noted as progress, not a standing instruction.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 4",
      "source": "Shannon Anderson message to Terri Orengo, 8:12 AM Nov 4",
      "office": false,
@@ -241,26 +261,6 @@
      "office": false,
      "note": "New cat-to-cat observation from Shannon Anderson after the midday visit: Scarlett moved through the kitchen past Benji and Benji appeared reluctant to walk past her. This runs the opposite way to the standing note that Benji crowds Scarlett, so the pecking order between the two cats is not settled in either direction. Shannon also notes Scarlett was out and not hiding.",
      "quote": "Scarlett is slowly walking into the kitchen and creeping past Benji and it was like he was afraid to walk past her."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Terri Orengo client message",
-     "office": false,
-     "note": "Follow-up on Nova refusing breakfast: Terri reports Nova ate only a small portion of dry food and skipped her biscuit, but ate a full portion of soft food that evening. Terri thinks she may just be finicky. Watch appetite on the next visit.",
-     "quote": "I did see she ate a small portion of her dry food, but not her biscuit."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 26",
-     "source": "Shannon Anderson updated contact information for Terri Orengo (Oct 26, 4:21 and 4:23 AM)",
-     "office": false,
-     "note": "The General Information field in Time To Pet was rewritten twice early Oct 26 so that the escape warning now covers BOTH indoor cats - it previously named only the orange one - and the no-upstairs rule is now in the client record rather than only in a client message. Final text also keeps the existing 'make potty' prompt for Nova.",
-     "quote": "We do have two indoor cats, they will try to run outside- please make sure they stays inside."
     }
    ],
    "dormant": false
@@ -5537,6 +5537,36 @@
      "quote": "I tried to get Frank outside but he refused."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "Client message from Christine Jenison",
+     "office": false,
+     "note": "Where to find the food scoop - a sitter could not locate it on the Nov 7 evening visit.",
+     "quote": "The scoop is attached to the underside of the container holding the dog food"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Client message from Christine Jenison",
+     "office": false,
+     "note": "Christine expects reduced appetite while the family is away; half a cup each is close enough.",
+     "quote": "They probably won’t eat it because we are not home."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 7",
+     "source": "Visit report from Elizabeth Sigler",
+     "office": false,
+     "note": "Both dogs refused to go outside in the cold and had to be lured out with treats; both then went #1.",
+     "quote": "Both of them refused to go out there due to the cold."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -5545,36 +5575,6 @@
      "office": false,
      "note": "Client confirms evening feeding is needed. Bowls will be left on the counter already filled; if they are not, each pet gets one scoop, twice a day. Pet names not given in the message.",
      "quote": "We will leave there bowls on the counter with food in them. If we forget, they each get one scoop 2x per day."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Elizabeth Sigler message to client",
-     "office": true,
-     "note": "Sitter Elizabeth Sigler asked Christine where the pets' food is normally kept, as a backup if no bowls are out. Unanswered as of 4:39 PM ET Nov 5 - office should get the answer before the next evening feed.",
-     "quote": "Thanks for the information! Can I ask where you typically keep their food (just in case)?"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 5",
-     "source": "Client message",
-     "office": false,
-     "note": "Evening feeding is needed. The client leaves the bowls on the counter already filled; if they forget, each pet gets one scoop twice a day.",
-     "quote": "If we forget, they each get one scoop 2x per day."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Elizabeth Sigler visit report, Nov 3",
-     "office": false,
-     "note": "Louise scooted on the Nov 3 visit and went #2 shortly after; the sitter could not tell whether it was poop scooting or an itch, so this is ambiguous. Both dogs' stools were logged firm and healthy. Watch for a repeat before treating it as a problem.",
-     "quote": "Louise did some scooting (couldn’t tell if she was poop scooting or if her butt was just a little itchy)"
     }
    ],
    "dormant": false
@@ -8331,7 +8331,9 @@
    "url": "https://www.timetopet.com/dashboard/client/to39hs2iIfP9",
    "pets": [
     "Wynston",
-    "Willa"
+    "Willa",
+    "Hansel",
+    "Gretel"
    ],
    "items": [
     {
@@ -8348,11 +8350,61 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 7",
+     "source": "Pet Care Note updated by Shannon Anderson",
+     "office": false,
+     "note": "Escape risk flagged on the client's Important Notes - keep all doors and gates closed.",
+     "quote": "ESCAPE RISK: keep doors/gates closed"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "Company Notes updated by Shannon Anderson",
+     "office": false,
+     "note": "Hansel gets out of the puppy pen; puppies are kept in the dog room between visits.",
+     "quote": "hansel will escape from the puppy pen"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Nov 6",
      "source": "Time To Pet profile and pet records created by the client, Nov 6 3:21-3:43 PM",
      "office": true,
      "note": "Brand-new client, on today's Nov 7 schedule, and there is NO Pet Care Note of any kind for either dog. She set up her own profile on Nov 6 and added two pets - Wynston (Chihuahua, smooth coat) and Willa - but no feeding amounts, handling or leash instructions, potty routine, medications or vet practice have been entered for either one, and nothing about these animals has ever come through this mailbox. A sitter arriving today has nothing to go on and should expect to ask the client in person. Office: this needs a Pet Care Note before the next visit.",
      "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "Pet Care Note updated by Shannon Anderson",
+     "office": false,
+     "note": "Willa is triggered by sudden loud noises and hides in the bedroom.",
+     "quote": "Triggers: willa- sudden loud noises ( she will run to the bedroom to hide)"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "Pet Care Note updated by Shannon Anderson",
+     "office": false,
+     "note": "Feeding is once daily, midday or afternoon. Food is Science Diet puppy, on the dresser. Water bowls in the puppy room and the dining/living room.",
+     "quote": "Feed 1x daily (midday/afternoon): cover the bottom of the bowl for puppies, top off during the day"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "Company Notes updated by Shannon Anderson",
+     "office": false,
+     "note": "Visit details: backyard-only visits, park in the driveway, no house alarm. No walks - dogs are let out in the fenced yard.",
+     "quote": "Backyard only visits"
     },
     {
      "cat": "home",
@@ -8383,6 +8435,26 @@
      "office": false,
      "note": "Client filled in her access instructions and emergency contacts in Time To Pet on Nov 6. Look them up in the app - access details are deliberately not repeated here.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "Company Notes updated by Shannon Anderson",
+     "office": false,
+     "note": "Used pee pads go in the bag on the closet door; spare pads are behind the bedroom door. Trash day is Friday morning.",
+     "quote": "Puppies have pee pads in their room, put used pads in a bag hanging on the closet door"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 7",
+     "source": "Company Notes updated by Shannon Anderson",
+     "office": false,
+     "note": "A cleaning lady is in the home every other Tuesday.",
+     "quote": "Every other Tuesday cleaning lady comes in"
     }
    ],
    "dormant": false
