@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T17:20:07-05:00",
+ "generated": "2026-11-09T18:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -462,6 +462,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 9",
+     "source": "Kathy Pastor visit report, Nov 9 10:36 AM",
+     "office": true,
+     "note": "Kathy Pastor's Nov 9 morning walk: Gordy went #2 at FIVE separate stops, and the report consistency field was again answered a little loose but not concerning. The frequency is the new part - earlier loose reports were one or two movements. Loose or soft stool has now been logged on Oct 20, Oct 22, Oct 26, Oct 30, Nov 3, Nov 6 and Nov 9. The rest of the visit was normal: lots of sniffing, #1 as usual, a passing walker with two dogs on another road was not a problem, paws and bottom wiped, several treats taken.",
+     "quote": "He did five stops for number 2!"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 30",
      "source": "Margaret Bill visit report, Oct 30 11:14 AM",
      "office": false,
@@ -552,31 +562,21 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 6",
-     "source": "Margaret Bill visit report, Nov 6 morning",
+     "date": "Nov 9",
+     "source": "Anna Marie LeMaster message, Nov 9 3:18 PM",
      "office": false,
-     "note": "Gordy went #2 twice on the Nov 6 morning walk and the sitter described both as a little soft; the report consistency field was logged as a little loose but not concerning.",
-     "quote": "both times it was a little soft"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 6",
-     "source": "Client message, Nov 6 4:23 PM",
-     "office": false,
-     "note": "Client states Gordy likes to stay out front on the porch. On Nov 6 he rested a little after his walk and then wanted to go back outside.",
-     "quote": "He likes staying out front on the porch."
+     "note": "The client's own reply to that walk report treats the #2 frequency as routine and says Gordy saves it for Mondays. It is said jokingly, not as a clinical report, but it is the only sign so far of how the client reads the Monday pattern - worth knowing before the office raises the loose-stool run with her.",
+     "quote": "He loves his walks, leaf piles, and saving his #2 for Mondays!"
     },
     {
      "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 3",
-     "source": "Margaret Bill walk report, 11:08 AM",
+     "date": "Nov 6",
+     "source": "Margaret Bill visit report, Nov 6 morning",
      "office": false,
-     "note": "Gordy went #2 on the morning walk and the sitter recorded the consistency as slightly loose. One observation only; client was home during the visit.",
-     "quote": "It was a little loose but not concerning"
+     "note": "Gordy went #2 twice on the Nov 6 morning walk and the sitter described both as a little soft; the report consistency field was logged as a little loose but not concerning.",
+     "quote": "both times it was a little soft"
     }
    ],
    "dormant": false
