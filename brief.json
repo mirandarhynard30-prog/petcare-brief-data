@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T11:20:06-05:00",
+ "generated": "2026-11-09T12:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1634,6 +1634,16 @@
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 9",
+     "source": "Client private message Nov 9",
+     "office": true,
+     "note": "Jessica asks to change Astra's visits from 30 to 45 minutes starting next week, because of the colder weather. Needs the office to update the scheduler and confirm. A second one-line message, 'Yes please!', followed 30 minutes later; what it answers is not stated in the thread.",
+     "quote": "can we switch astra to 45 minutes instead of 30 starting next week?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 27",
      "source": "Client message, 10:20 AM",
      "office": true,
@@ -1661,14 +1671,14 @@
      "quote": "Walk Astra or Nova each visit, towards the Spyglass Hill housing development"
     },
     {
-     "cat": "home",
+     "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 5",
-     "source": "Ashley Corall visit report, Nov 5",
+     "date": "Nov 9",
+     "source": "Ashley Corall visit report Nov 9",
      "office": false,
-     "note": "Client was home for the Nov 5 visit and asked that the door not be locked on the way out. Recorded in the report's home-security field. Single visit, so treat as this-visit instruction rather than a standing rule.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
+     "note": "Astra went #1 on today's walk but no #2 (report field: 'No #2 today'). Single observation, no other symptoms noted.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -2933,6 +2943,16 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Nov 9",
+     "source": "Dan Dantimo visit report Nov 9",
+     "office": false,
+     "note": "Holly's stool on today's walk was logged as a little loose but not concerning. Single observation for Holly.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Nov 7",
      "source": "Shannon Anderson visit report",
      "office": false,
@@ -3954,7 +3974,8 @@
    "url": "https://www.timetopet.com/dashboard/client/t0sv8x53ImZV",
    "pets": [
     "Jaxson",
-    "Jackson"
+    "Jackson",
+    "Guinness"
    ],
    "items": [
     {
