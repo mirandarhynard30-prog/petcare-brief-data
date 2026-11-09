@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T19:20:05-05:00",
+ "generated": "2026-11-08T20:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5330,6 +5330,16 @@
      "office": false,
      "note": "Chloe gets a liquid medication mixed into a churu treat and served on a plate upstairs. She is usually under the blankets and has to be uncovered to get it to her. Bella gets whatever churu is left over.",
      "quote": "I got Chloe‘s liquid medicine ready and mixed with the churro"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "Chelsea Tompkins visit report, Nov 8 evening visit",
+     "office": true,
+     "note": "Nov 8 evening visit: the sitter found throw up on the upstairs carpet and cleaned it up. Which cat was sick is not stated. The report notes Chloe stayed hidden upstairs under the bed, and the same report answers the accidents question with 'There were no accidents', so the two entries do not agree - treat the vomit as reported in the written note. Food and water were done for both pets and all three litter boxes were scooped; no supplies flagged low.",
+     "quote": "There was throw up on the carpet upstairs I clean up."
     },
     {
      "cat": "home",
