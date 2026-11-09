@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T09:20:07-05:00",
+ "generated": "2026-11-09T10:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1795,6 +1795,16 @@
      "quote": "Would like to watch how you give the cat insulin."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Client message 9:59 AM (via text)",
+     "office": true,
+     "note": "Client says she has to take Buttercup for a glucose check. This is the first message naming which animal the glucose monitoring is for; the Oct 5 and Oct 19 insulin notes did not name the cat. Her opening 'Ok, let me check' is a reply, so what she is checking and the date of the glucose check are not stated here - office should confirm the date and whether any visit or insulin timing changes.",
+     "quote": "Ok, let me check. I have to take Buttercup for a glucose check."
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -3158,6 +3168,16 @@
      "office": true,
      "note": "Ray wrote in to ask that the office NOT take his current walker off Archie's walks - he says Archie and he are both comfortable with him and neither likes change. He names the walker as 'Tommy'; the sitter currently walking Archie in these reports is Thomas Rakovec, so that is almost certainly who he means, but the email does not spell the name out. Office should treat this as a staffing instruction and confirm back to him.",
      "quote": "I would not like you to keep Tommy from walking Archie. Archie and I don’t like change."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Thomas Rakovec visit report 9:57 AM",
+     "office": false,
+     "note": "Archie went both #1 and #2 on today's walk and the report rates the stool firm and healthy. This follows the Nov 4 and Nov 6 reports where he did not go #2, so the earlier concern looks resolved. Ray was home during the visit and asked that the door not be locked.",
+     "quote": "We had a great walk and Archie went #1 and #2 and fed a few snacks."
     },
     {
      "cat": "health",
@@ -8013,6 +8033,16 @@
    "url": "https://www.timetopet.com/dashboard/client/srbwilMYWrML",
    "pets": [],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Client message 9:52 AM",
+     "office": true,
+     "note": "Client is still waiting on the office and has now offered new windows for a visit: tomorrow, or any day Nov 17-19. She wrote 'tomorrow' on Nov 9, which would be Nov 10 - confirm the date with her rather than assuming. This supersedes the two windows she offered on Nov 4.",
+     "quote": "Let me know if tomorrow is good for you to stop by. If not anytime on 11/17-19 should work for me."
+    },
     {
      "cat": "schedule",
      "sev": "medium",
