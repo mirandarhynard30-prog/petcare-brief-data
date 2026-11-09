@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T20:20:05-05:00",
+ "generated": "2026-11-09T05:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2208,36 +2208,6 @@
      "office": false,
      "note": "New standing rule added to Important Notes at 2:51 PM. Comparing the Updated to and Previously blocks, this one bullet is the only change - everything else is unchanged. Nothing in the email says why.",
      "quote": "Do NOT allow Ripley to pee around flagpole in front yard"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Client private message, 9:39 AM",
-     "office": true,
-     "note": "Client asked by private message whether a same-day visit between 4 and 6 PM tonight could still be scheduled.",
-     "quote": "Miranda - is it too late to schedule a visit btwn 4-6 tonite?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Client private message 5:43 PM",
-     "office": true,
-     "note": "Matt's only follow-up to his 4-6 PM same-day request, sent at 5:43 PM. The wording is ambiguous: he says he was there this morning, which may mean he covered Ripley himself and no longer needs tonight's visit, or may be about something else entirely. The 4-6 PM window closes at 6 PM, so the office needs to read this and answer him rather than guess.",
-     "quote": "I was there this morning - ty"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Tiarra Roberts visit report 6:37 PM",
-     "office": true,
-     "note": "The same-day 4-6 PM visit Matt asked for WAS covered. Tiarra Roberts filed an evening visit report at 6:37 PM: she entered through the garage, walked Ripley, fed wet and dry food, refreshed water and secured the garage door. This closes the open question from earlier today about whether the evening visit happened. She also wrote 'I enjoyed caring for Ripley, this week', which reads as the end of the current run of visits - confirm against the schedule rather than assuming.",
-     "quote": "Good evening Matt, I arrived and entered through the garage."
     }
    ],
    "dormant": false
@@ -2476,16 +2446,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Client message, 9:31 AM",
-     "office": true,
-     "note": "Client complaint about sitter punctuality - she says arrivals do not happen when stated. This also explains her earlier unexplained 'Are you sure ?' message: it was about the arrival time, not the visit report. Needs an answer from the office.",
-     "quote": "The reason I sent that message is because you are r not there when u say you will be"
-    },
-    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -2623,16 +2583,6 @@
      "source": "Chelsea Tompkins visit report, Oct 25 9 AM visit",
      "office": false,
      "note": "Second consecutive day of loose stool for Bella. On the Oct 25 9 AM visit she went #1 a few times and #2 once, and the consistency field was answered a little loose but not concerning. The Oct 24 10 AM report logged her single #2 as slightly loose after she ate grass. Two days running, both logged as not concerning by the sitters.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Chelsea Tompkins post-visit report, Oct 18 10:21 AM",
-     "office": false,
-     "note": "Oct 18 morning visit: Bella urinated a few times and passed two stools. The sitter logged the consistency as a little loose but not concerning. That is softer than normal but far milder than the frank diarrhea logged Sep 27 and Oct 11, and it is one observation from one visit - watch the next report rather than treating it as a flare.",
      "quote": "It was a little loose but not concerning"
     },
     {
@@ -3150,16 +3100,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Client message 5:27 PM",
-     "office": true,
-     "note": "Ray wrote in at 5:27 PM to cancel service for Monday and Tuesday this week because Johnny is taking vacation time. Both days need removing from the schedule. He does not mention Wednesday onward, so assume service resumes then unless he says otherwise.",
-     "quote": "I won’t need your service on Monday or Tuesday this week Johnny is taking vacation time."
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -3198,16 +3138,6 @@
      "office": false,
      "note": "Oct 23 morning walk: Archie went both #1 and #2 and the report's consistency field reads firm and healthy. That is the second firm reading this month after Oct 16, against no-bowel-movement walks on Oct 9 and Oct 14. Client was home during the visit, so the sitter did not go in or check the house.",
      "quote": "Archie went to the bathroom and took a #1 and #2 and fed a few snacks"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Thomas Rakovec reply 5:28 PM",
-     "office": true,
-     "note": "Thomas Rakovec replied to Ray a minute later with two messages, 'Got it' and this one, so the client has had an acknowledgement. That is a reply, not a schedule change - the Monday and Tuesday visits still have to be taken off the schedule in Time To Pet, and tonight's auto-charge is the deadline for Monday to be a correction rather than a refund.",
-     "quote": "Johnny needs done time off"
     },
     {
      "cat": "home",
@@ -4869,19 +4799,9 @@
      "office": false,
      "note": "Miley's medication was given but was harder to administer than usual on this visit. One observation by one sitter, not an established pattern. Report notes no supplies running low.",
      "quote": "We had a harder time today but we did it!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Client message, 4:05 PM",
-     "office": true,
-     "note": "Client is home as of about 4:05 PM Sun Oct 18 - the stay has ended. She thanked the team for giving Miley her medication and looking after the indoor/outdoor cats, so the Felimazole doses appear to have been covered through the stay. Office: this closes the open question of how the widened evening visits bill, and it has to be settled before tonight's 10 PM auto-charge.",
-     "quote": "We are home and the kitties were very happy to see us"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Kayle Cruz",
@@ -6412,26 +6332,6 @@
      "quote": ""
     },
     {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Kiara Streety visit report",
-     "office": true,
-     "note": "Bear's probiotic is down to 2 doses in the container. Kiara asked whether there is more and has had no answer; at one per visit it runs out within two days.",
-     "quote": "gave Bear his probiotic there is only 2 left for him in the container. Is there anymore ?"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 18",
-     "source": "Client message, 10:01 AM",
-     "office": true,
-     "note": "Client answered the low-probiotic question: more probiotic is expected from Amazon today. Confirm it arrives and tell the sitter on the next visit; 2 doses were reported left this morning.",
-     "quote": "There should be more probiotic coming from Amazon today!"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -6994,6 +6894,16 @@
     "BooBoo"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "Client message, Nov 8 10:20 PM",
+     "office": false,
+     "note": "Client will not be home for the Monday Nov 9 morning walk - she wrote 'tomorrow morning' on Sunday night. Boo will be waiting inside. Past reports repeatedly note the client was home during visits, so this is a change for that visit only. Dan Dantimo replied at 10:21 PM that he will be there at 10:30.",
+     "quote": "I will not be home tomorrow morning but Boo will be waiting."
+    },
     {
      "cat": "health",
      "sev": "medium",
