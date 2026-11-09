@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T16:20:06-05:00",
+ "generated": "2026-11-09T17:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5391,6 +5391,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 9",
+     "source": "Shannon Anderson visit report, Nov 9 12:21 PM",
+     "office": true,
+     "note": "The Nov 9 midday report again makes no mention of Weezie/Louise's eye drops - not in the narrative and not in the report form. That continues the pattern already logged for Oct 19, Oct 20 and Oct 23. Office needs to confirm whether the drops are still expected at each visit and, if so, get it into the report form so it is recorded. Visit itself followed the backyard-potty-only rule and both dogs went #1.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Oct 23",
      "source": "Elizabeth Cuffari 12:31 PM visit report",
      "office": true,
@@ -5496,16 +5506,6 @@
      "office": false,
      "note": "Both dogs refused to go outside in the cold and had to be lured out with treats; both then went #1.",
      "quote": "Both of them refused to go out there due to the cold."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 7",
-     "source": "Client message",
-     "office": false,
-     "note": "Portion check: a sitter who could not find the scoop estimated about half a cup each, and the client confirmed that was close enough. The client also says the dogs probably will not eat much while the family is away from home.",
-     "quote": "1/2 cup would’ve been close enough."
     }
    ],
    "dormant": false
