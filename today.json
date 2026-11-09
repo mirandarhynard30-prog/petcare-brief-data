@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T00:05:17-05:00",
+ "generated": "2026-11-09T08:50:10-05:00",
  "date": "2026-11-09",
  "label": "Nov 9, 2026",
  "clients": [
@@ -119,18 +119,6 @@
    ]
   },
   {
-   "name": "Marcella Singer",
-   "visits": [
-    {
-     "time": "6:30 PM",
-     "sort": "1830",
-     "staff": "Robin Lewis",
-     "service": "Cat Visit-30 Minutes",
-     "pets": "Buttercup, Sandy, Simba, Misty"
-    }
-   ]
-  },
-  {
    "name": "Mary Gilmore",
    "visits": [
     {
@@ -198,5 +186,5 @@
    ]
   }
  ],
- "visitCount": 17
+ "visitCount": 16
 }
