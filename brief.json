@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T17:20:05-05:00",
+ "generated": "2026-11-08T19:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -634,6 +634,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 8",
+     "source": "client private message 6:26 PM",
+     "office": true,
+     "note": "Second message the same evening, signed \"Toni\": Friday is off as well - both dogs have a 1:30 vet appointment and she gets off work at noon - and she now needs a Wednesday visit because she is in the office that day. She sums the week up as Tuesday and Wednesday only. Read against the message date (Sun Nov 8) that means visits Tue Nov 10 and Wed Nov 11, nothing Mon Nov 9 or Fri Nov 13; she did not write the dates herself, so confirm them with her. This revises, not repeats, the earlier Nov 8 message that only cancelled Monday. No reply sent yet.",
+     "quote": "our week looks like Tuesday and Wednesday for visits this week"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 2",
      "source": "Terry M private message, 9:57 AM",
      "office": true,
@@ -709,6 +719,16 @@
      "office": false,
      "note": "Potty accident in the house found and cleaned up by the sitter; before and after photos are in the report.",
      "quote": "There was a potty accident and I cleaned it up"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 8",
+     "source": "client private message 6:26 PM",
+     "office": false,
+     "note": "Client says both dogs (\"the boys\") have a vet appointment Friday at 1:30 PM - by the message date that is Fri Nov 13. No visit is scheduled that day, so this is background only; no instruction came with it.",
+     "quote": ""
     }
    ],
    "dormant": false
