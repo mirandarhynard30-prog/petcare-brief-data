@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T10:20:09-05:00",
+ "generated": "2026-11-09T11:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -877,6 +877,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 9",
+     "source": "Drew Walker visit report",
+     "office": true,
+     "note": "Chloe was WALKED again on the Nov 9 midday visit - Drew Walker put her harness on and reports they made it relatively far. This is the second walk logged in four days (Nov 6 was the other) for a dog recorded as recovering from pneumonia since the Oct 26 diagnosis. She went #1 and #2 twice and the stool is rated firm and healthy. Whether walks are within her current care plan is still unconfirmed by the office.",
+     "quote": "We made it relatively far today and Chloe went number 1 and number 2 twice today."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 6",
      "source": "Kiara Streety visit report, 1:52 PM",
      "office": true,
@@ -972,6 +982,16 @@
      "office": false,
      "note": "Nov 5 morning visit went well. Chloe had to be woken because she had had a late night, Melody carried her outside, and she then went #1 and #2 twice with firm and healthy consistency. Short but pleasant walk, cut down because of the cold (about 60 degrees). Both water bowls were full. No wheezing or breathing trouble is mentioned anywhere in this report. Melody was home and again asked that the door not be locked.",
      "quote": "After you carried her outside she immediately went number one in the front yard"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Drew Walker visit report",
+     "office": false,
+     "note": "Melody was home during the Nov 9 visit and asked that the door not be locked on the way out. Stated for this visit only, not as a standing rule.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -3610,6 +3630,16 @@
     "Murphy"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Margaret Bill visit report",
+     "office": true,
+     "note": "Murphy went #1 roughly six times on the Nov 9 morning walk but again did not go #2, and the sitter wrote that he STILL did not go. That makes three no-#2 reports now (Oct 26, Nov 2, Nov 9), so this is no longer a single observation. Worth raising with Julie. Walk itself went well - usual route, avoided people working on leaves.",
+     "quote": "He went number one about 6 times but he still didn't go #2."
+    },
     {
      "cat": "home",
      "sev": "medium",
@@ -6915,6 +6945,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Dan Dantimo visit report",
+     "office": true,
+     "note": "Boo went #1 and #2 on the Nov 9 late-morning walk and the sitter again answered the consistency field with a little loose but not concerning. That is the fourth loose-stool report (Oct 19, Oct 26, Nov 2, Nov 9), so the pattern is persistent rather than one-off.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -6953,6 +6993,16 @@
      "office": false,
      "note": "Mid-morning walk: BooBoo went #1 and #2 and Dan Dantimo answered the report's consistency field 'It was a little loose but not concerning'. Second reading of that kind this month - the Oct 12 walk was logged the same way. Otherwise a normal visit: eager to go out, went #2 right away, usual route, took a treat, client was home.",
      "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Boo was startled on arrival on Nov 9 and the sitter's own explanation is that he parked on the street so she could not see his car; she settled as soon as she saw him. One visit only, and it is the sitter's guess rather than something the client stated.",
+     "quote": "I parked on the street and she didn't see my car"
     },
     {
      "cat": "health",
