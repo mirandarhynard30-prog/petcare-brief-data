@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T14:20:11-05:00",
+ "generated": "2026-11-09T15:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -887,6 +887,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 9",
+     "source": "Harvett Ellington visit report, Nov 9 afternoon",
+     "office": true,
+     "note": "Chloe was taken OUTSIDE and walked again on the Nov 9 afternoon visit by Harvett Ellington - the third outdoor walk logged for her on Nov 9 (Drew Walker morning, Drew Walker midday, Harvett Ellington afternoon). Sitter notes it was 51 degrees. This runs against the Oct 26 standing restriction of no walking following the pneumonia diagnosis. Chloe went #1, no #2 on this visit. Sitter says she told Melody, and that she returns tomorrow afternoon.",
+     "quote": "and I had a great time outside. Only went number one, no number two"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 6",
      "source": "Kiara Streety visit report, 1:52 PM",
      "office": true,
@@ -982,16 +992,6 @@
      "office": false,
      "note": "Nov 5 morning visit went well. Chloe had to be woken because she had had a late night, Melody carried her outside, and she then went #1 and #2 twice with firm and healthy consistency. Short but pleasant walk, cut down because of the cold (about 60 degrees). Both water bowls were full. No wheezing or breathing trouble is mentioned anywhere in this report. Melody was home and again asked that the door not be locked.",
      "quote": "After you carried her outside she immediately went number one in the front yard"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 9",
-     "source": "Drew Walker visit report",
-     "office": false,
-     "note": "Melody was home during the Nov 9 visit and asked that the door not be locked on the way out. Stated for this visit only, not as a standing rule.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
