@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T15:20:06-05:00",
+ "generated": "2026-11-09T16:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1764,6 +1764,16 @@
     "Simba"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Marcella Singer client message, Nov 9 3:31 PM",
+     "office": true,
+     "note": "The glucose check now has a day: Marcella says she will try tomorrow, Tue Nov 10, for Buttercup - she had said earlier the same day that she had to take Buttercup for a glucose check. Buttercup is the cat on insulin per the standing note. She did not give a time, so whether a Nov 10 visit collides with the appointment is still unknown; she separately wrote 'So far. It looks ok.' at 3:57 PM with no stated subject.",
+     "quote": "So I'll try tomorrow for Buttercup."
+    },
     {
      "cat": "health",
      "sev": "high",
