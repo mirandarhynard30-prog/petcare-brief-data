@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T12:20:06-05:00",
+ "generated": "2026-11-09T13:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1146,6 +1146,26 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Mary Ann Mckeever private message, 12:16 PM",
+     "office": true,
+     "note": "Tomorrow morning's walk (Tue Nov 10) is cancelled - Georgie had 14 teeth pulled today and needs to rest. Client expects the evening visit to still be fine but did not confirm it outright. Needs the Tuesday AM visit taken off the schedule and a reply confirming the evening one stands.",
+     "quote": "I need to cancel tomorrow am walk."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Mary Ann Mckeever private message, 12:16 PM",
+     "office": false,
+     "note": "Georgie had 14 teeth pulled today (Nov 9) - this is the dental the client flagged on Nov 5. Client says he will need to rest. No post-op instructions, medication or feeding changes were given in the message; check Time To Pet before any visit.",
+     "quote": "Georgie had 14 teeth pulled today"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1244,26 +1264,6 @@
      "office": false,
      "note": "A visiting dog will be loose in the house for the morning visit. Mary Ann wrote at 7:16 PM that her cousin's dog Tillie will be in the kitchen, that Tillie is a runner, and not to let her out. Mary Ann will be out at an appointment when the sitter arrives, so nobody will be home to help. Georgie already carries an escape-artist warning, so there are now two escape risks in the same house for that visit. The message is addressed to Monica, but the morning assignment is not confirmed in this mailbox.",
      "quote": "My cousin’s dog, Tillie, will be in the kitchen. She’s a runner, so don’t let her out."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Noella Assi visit report 8:39 PM",
-     "office": false,
-     "note": "Georgie hurt his front leg on tonight's 8 PM walk. Noella took him out on his usual route, he went #1 and #2, then hurt the front leg. She looked it over back at the house, said everything looked ok and that he may have pulled a muscle, gave him ice treats, and asked the family to report on the leg in the morning. Client was home. No vet contact mentioned.",
-     "quote": "He went number one and two, and then he hurt his front leg."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Client message to Monica Hopewell, 9:18 PM",
-     "office": true,
-     "note": "Mary Ann cancelled the Monday Oct 26 morning walk. She wrote to Monica at 9:18 PM that Georgie twisted his leg on tonight's walk and is limping a bit, so the am walk is off. This supersedes her 7:16 PM note about Tillie being loose in the kitchen for that same morning visit. No acknowledgement from the office or from Monica is visible in this mailbox, so the visit may still be on the board.",
-     "quote": "I need to cancel the morning walk tomorrow because Georgie twisted his leg tonight on his walk."
     }
    ],
    "dormant": false
