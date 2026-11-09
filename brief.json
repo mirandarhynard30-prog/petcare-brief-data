@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T13:20:06-05:00",
+ "generated": "2026-11-09T14:20:11-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2248,6 +2248,16 @@
      "office": false,
      "note": "New standing rule added to Important Notes at 2:51 PM. Comparing the Updated to and Previously blocks, this one bullet is the only change - everything else is unchanged. Nothing in the email says why.",
      "quote": "Do NOT allow Ripley to pee around flagpole in front yard"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Ripley went #1 on the Nov 9 midday walk but no #2 (report field: 'No #2 today'). Single observation, not a pattern.",
+     "quote": "She only went number one today."
     }
    ],
    "dormant": false
