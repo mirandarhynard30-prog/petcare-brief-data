@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T22:20:05-05:00",
+ "generated": "2026-11-10T08:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -435,16 +435,6 @@
      "office": true,
      "note": "Liz messaged at 7:56 AM to say she is taking a leave of absence from her job and will be off for the rest of the week, and that she will submit the cancellation forms. A portal Service Change notice at 8:07 AM cancels today's 11:00 AM Dog Visit-45 minute. She did not list which other days she is cancelling, so the rest of the week still has to be confirmed and taken off the scheduler.",
      "quote": "I am taking a leave of absence from my job. I will be off the rest of the week."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Client message 4:45 AM",
-     "office": true,
-     "note": "Liz messaged at 4:45 AM to cancel today's visit - still having health issues and says she will keep us posted. She is on today's roster, so the office needs to take Mon Oct 19 off the schedule. This is her sixth cancellation this month (Oct 8, 9, 14, 15, 16, 19) and she wrote \"cancel again today\", so expect more short-notice cancellations.",
-     "quote": "unfortunately I am still having health issues. I apologize to have to cancel again today. I will keep you posted too."
     }
    ],
    "dormant": false
@@ -679,16 +669,6 @@
      "office": true,
      "note": "Client says she will be home Tuesday Oct 20 as well, still unwell - a second consecutive day home on sick leave. A portal Service Change cancellation for Tue Oct 20 followed at 6:01 AM. Confirm the Tuesday visit is off the scheduler and acknowledge her.",
      "quote": "I’m going be home Tuesday as well. Still not feeling well."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Private client message 12:02 AM, signed Toni",
-     "office": true,
-     "note": "Private message at 12:02 AM Mon Oct 19: client is home on sick PTO and does not need services \"tomorrow\". AMBIGUOUS - the message arrived just after midnight, so \"tomorrow\" could mean Mon Oct 19 (the day it landed) or Tue Oct 20. Terry M is on today's Oct 19 roster, and a portal Service Change notice followed at 12:13 AM. Office must confirm which day with the client before the visit window.",
-     "quote": "I’ll be home tomorrow on sick PTO. I caught a bug or food poisoning not sure which, however no need for services tomorrow."
     },
     {
      "cat": "behavior",
@@ -1432,16 +1412,6 @@
     {
      "cat": "behavior",
      "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Jade Popovitz visit report, 11:02 AM",
-     "office": false,
-     "note": "Bismark did walk on the Oct 19 morning visit - to the end of the street, where he pulled the sitter to cross to the other side, then froze and stared at another dog before agreeing to turn back. Worth knowing against the standing note that he will not walk for any sitter any more, but this is one visit and does not change that rule. He finished the visit lying in the damp grass; #1 only, no #2.",
-     "quote": "He froze for awhile and stared before he decided it would be fine if we went back."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
      "type": "standing",
      "date": "Sep 25",
      "source": "Christina Palmieri message",
@@ -1569,36 +1539,6 @@
      "office": true,
      "note": "Client wrote at 9:08 AM Eastern asking to reschedule because construction has taken over the driveway again. Needs an office reply; she did not name which visits or propose new dates.",
      "quote": "We have more construction going on at the house and they're taking up the driveway again. Can we reschedule?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Client private message 8:41 AM",
-     "office": true,
-     "note": "Asked to move this week's visit to another day - a shed is being built and the contractors need the entire driveway, so there is nowhere to park.",
-     "quote": "Could we reschedule for another day this week?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Client private message 9:15 AM",
-     "office": true,
-     "note": "Follow-up proposing Wednesday, flagging that Nova's walk falls on the same day, with Thursday as the alternative. Unanswered as of 9:20 AM.",
-     "quote": "Is Wednesday alright? We have novas walk on the same day though. If not, Thursday is good."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Client private message, Oct 19 9:36 AM",
-     "office": true,
-     "note": "The reschedule is now settled - she accepted and then confirmed at 9:36 AM, so her two earlier unanswered reschedule messages this morning no longer need a reply. The notifications do not say which day was agreed or whether Nova's walk was moved, so check the schedule.",
-     "quote": "Awesome! See you then!"
     },
     {
      "cat": "behavior",
@@ -1783,36 +1723,6 @@
      "office": false,
      "note": "Client turned down an earlier arrival for the evening visit because an earlier time is too early for the feeding and the injection. Same objection she made Oct 5 about 6:00, so 6:30 looks like the earliest workable time for the evening feed-then-insulin visit. She names no dose and no exact window.",
      "quote": "It would be too early for feeding & injection."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Client text message 8:33 AM",
-     "office": false,
-     "note": "Client confirms insulin is to be given at tonight's visit. She will feed him in the kitchen first so he does not suspect anything.",
-     "quote": "You can give insulin."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Robin Lewis visit report 7:03 PM",
-     "office": true,
-     "note": "Buttercup's evening insulin was given and logged as administered, with the client home and watching. Robin Lewis asked the client to watch because she wants confirmation she is giving the injection correctly - she is not yet confident in the technique. Office should confirm she has been signed off before she covers this visit unsupervised.",
-     "quote": "Thank you for watching me do the shot. I just want to make sure i am doing it right."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Client message, 8:59 PM Oct 19",
-     "office": false,
-     "note": "Client reported the diabetic cat's blood glucose went up to over 300. She does not name which cat in the message - she refers to 'him', and the same evening mentions Simb, Sandy and Buttercup separately - so confirm which animal before relying on this.",
-     "quote": "His glucose went up to over 300."
     },
     {
      "cat": "health",
@@ -2707,16 +2617,6 @@
      "office": true,
      "note": "Milo had diarrhea again on the Oct 22 visit - very loose, hard to pick up. Kiara writes she was told it has been going on for more than one day. Archer's stool was firm. Who told her, and how many days it has run, is not stated in the email.",
      "quote": "Milo still has diarrhea and I have been told he has been having it"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Jade Popovitz visit report for Paulo Garcia, Oct 19 12:17 PM",
-     "office": true,
-     "note": "The report contradicts itself on whether a dog was sick. The accidents field reads that the pet got sick and was cleaned up with before and after pictures, while the sitter's own narrative describes only a spot on the couch that she assumes came from the cat. Which animal it was is unclear from the email. On the stool readings themselves: Milo was logged with no #2 at all today and Archer's was firm and healthy.",
-     "quote": "The pet got sick and I cleaned it up"
     },
     {
      "cat": "home",
@@ -5428,16 +5328,6 @@
      "quote": ""
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Shannon Anderson visit report for Christine Jenison, Oct 19 12:27 PM",
-     "office": true,
-     "note": "Today's report again makes no mention of Weezie's eye drops - not in the narrative and not in the report form, which still carries no eye-drop field. The standing instruction is to give them if her eye is goopy and she lets you. This continues the run of reports that are silent on the drops, so there is no record either way of whether her eye was checked.",
-     "quote": ""
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -6413,26 +6303,6 @@
    ],
    "items": [
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Jade Popovitz visit report, Oct 19 9:37 AM",
-     "office": true,
-     "note": "Zoey had diarrhea at the morning visit. She went #2 repeatedly outside and rubbed her behind on the ground, and showed no interest in her food although she was thirsty. The sitter says she seemed to relax in the second half of the outside time and found no accidents in the house. Bear was unaffected and ate normally.",
-     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Elizabeth Sigler visit report 2:08 PM",
-     "office": true,
-     "note": "The 2:08 PM visit is the follow-up to Zoey's morning diarrhea but gives no stool reading for her: she is logged #1 only, so no #2 and no consistency answer, and the narrative does not mention her rear end or her appetite. Bear went #1 and #2 with no consistency field answered. No accidents in the home. Nothing here settles whether Zoey's diarrhea has passed.",
-     "quote": ""
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -7034,16 +6904,6 @@
      "office": true,
      "note": "Client asks what a Long Range Visit is - Friday's visit is booked under that service type while the rest of hers are Dog Visit. She has queried her billing twice already this month, so answer the service type and check Friday is booked correctly. Unanswered as of this run.",
      "quote": "What is a long range visit?"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 19",
-     "source": "Dan Dantimo visit report, 11:21 AM",
-     "office": false,
-     "note": "Mid-morning walk: BooBoo went #1 and #2 and Dan Dantimo answered the report's consistency field 'It was a little loose but not concerning'. Second reading of that kind this month - the Oct 12 walk was logged the same way. Otherwise a normal visit: eager to go out, went #2 right away, usual route, took a treat, client was home.",
-     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "behavior",
@@ -8398,6 +8258,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 10",
+     "source": "Client message, Nov 10 8:02 AM",
+     "office": false,
+     "note": "First handling instructions from the client for the puppies: get them out of their pen and let them run to burn off energy. Outdoors is optional - she says they mostly just chase and eat leaves.",
+     "quote": "Please get the puppies out of their pen and let them run around to exhaust their energy."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 10",
+     "source": "Client message, Nov 10 8:02 AM",
+     "office": false,
+     "note": "When the puppies go back in their pen, give them a tiny handful of the kibble sitting on the dresser - the client says they then eat and settle to sleep.",
+     "quote": "When you put the puppies back in their pen, please give them a tiny handfull of kibble that is on the dresser."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -8438,6 +8318,36 @@
      "quote": ""
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 10",
+     "source": "Client message, Nov 10 8:02 AM",
+     "office": false,
+     "note": "Treat amounts: half a fun-size Beggin' Strip for each puppy, and the client says that amount may be doubled if you like. Willa and Wynston get a full-size one each.",
+     "quote": "Same with Willa and Wynston but they get a full size one each."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Client message, Nov 10 8:02 AM",
+     "office": false,
+     "note": "Client reports the puppies have worked out the steps up to the couch. Relevant to the escape/containment risk already flagged for this household.",
+     "quote": "Oh and the puppies figured out the steps to the couch already."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 10",
+     "source": "Client message, Nov 10 8:02 AM",
+     "office": false,
+     "note": "Client sent keypad entry instructions by message on Nov 10 (a code plus a button on the lock). The code is deliberately not recorded here - read it in Time To Pet.",
+     "quote": ""
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "standing",
@@ -8466,56 +8376,6 @@
      "office": false,
      "note": "Willa is triggered by sudden loud noises and hides in the bedroom.",
      "quote": "Triggers: willa- sudden loud noises ( she will run to the bedroom to hide)"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 7",
-     "source": "Pet Care Note updated by Shannon Anderson",
-     "office": false,
-     "note": "Feeding is once daily, midday or afternoon. Food is Science Diet puppy, on the dresser. Water bowls in the puppy room and the dining/living room.",
-     "quote": "Feed 1x daily (midday/afternoon): cover the bottom of the bowl for puppies, top off during the day"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 7",
-     "source": "Company Notes updated by Shannon Anderson",
-     "office": false,
-     "note": "Visit details: backyard-only visits, park in the driveway, no house alarm. No walks - dogs are let out in the fenced yard.",
-     "quote": "Backyard only visits"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Time To Pet pet records, Shannon Anderson",
-     "office": true,
-     "note": "Pet list is unclear for this new client. Wynston and Willa were added to the account on Nov 6 by the client; Hansel and Gretel were then added on Nov 7 by Shannon Anderson, and Hansel's color was edited the same evening. The emails do not say whether there are now four animals or whether the two puppies were re-entered under different names. Worth confirming before the next sitter arrives.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 7",
-     "source": "Pet Care Note update by Shannon Anderson",
-     "office": false,
-     "note": "Feeding is once a day, midday or afternoon: cover the bottom of the bowl for the puppies and top off during the day. Food is Science Diet puppy, kept on the dresser. Water bowls in the puppy room and the dining/living room.",
-     "quote": "Feed 1x daily (midday/afternoon): cover the bottom of the bowl for puppies, top off during the day"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 6",
-     "office": false,
-     "source": "Client's own profile update, Nov 6 3:21 PM",
-     "note": "Access: the client filled in her Access Instructions on Nov 6 with a front-door lock code. The code is in Time To Pet and is deliberately not repeated here - look it up there before the visit. No other access detail (parking, which door, where anything is kept) has been entered.",
-     "quote": ""
     }
    ],
    "dormant": false
