@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T15:20:06-05:00",
+ "generated": "2026-11-10T17:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -10,6 +10,26 @@
     "Caleb"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Client private message, 4:10 PM Nov 10",
+     "office": true,
+     "note": "Client asks the office to assign Tiarra to her next two Monday AM visits so Tiarra can practise Livvie's AM medications with the client still at home before her NYC trip. She says only 2 Monday AM visits are left before the trip. Needs a staffing decision from the office; no trip dates were given in this message.",
+     "quote": "If she is available my next 2 Monday AM visits can you please schedule her"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Client private message, 4:18 PM Nov 10",
+     "office": true,
+     "note": "Follow-up eight minutes later naming the two dates: Monday Nov 16 and Monday Nov 30. She repeats that the point is a couple more supervised runs at Livvie's AM meds with her present before she goes solo while the client is away.",
+     "quote": "The next 2 Monday visits are the 16th and 30th."
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -109,26 +129,6 @@
      "office": false,
      "note": "Client says Caleb hides under the table and hisses when there have been visitors, and describes it as his usual reaction - finding him under the table instead of on the couch is normal.",
      "quote": "My friend was over before we left and Caleb was doing his hiding under the table hissing thing"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Noella Assi evening visit report, Oct 24 7:56 PM",
-     "office": true,
-     "note": "Wet food is out. Noella Assi fed the last of the wet food at the Oct 24 evening visit and discarded the empty can. The next visit has no wet food on hand, and Kelly's notes call for wet food at both AM and PM. Ambiguity worth flagging: the same report answered the pet-supplies-getting-low field No, so the shortage is only in the narrative and may not have reached the office.",
-     "quote": "it was the last bit of wet food so I threw out the can with the litter waste"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Kelly Huntington message, Oct 23 6:59 PM",
-     "office": false,
-     "note": "Client will not be home tonight or for tomorrow's visits. She is NOT cancelling - the visits stand, nobody home, so the sitter should not expect anyone there. Re-emitted: handed off at 19:12 and 20:13 and still absent from the published brief.",
-     "quote": "I wont be home tonight or tomorrows visits so I wont get to see you"
     }
    ],
    "dormant": false
@@ -7148,6 +7148,16 @@
      "quote": "He wouldn't eat it from the bowl, but he ate it from the floor."
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Margaret Bill visit report, 1:39 PM Nov 10",
+     "office": false,
+     "note": "Ollie's stool on the Nov 10 early-afternoon visit was logged in the consistency field as a little loose, judged not concerning by the sitter. He went #1 in the back yard and #2 in the front. Same visit as the bowl-versus-floor feeding note already on file.",
+     "quote": ""
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -7156,16 +7166,6 @@
      "office": false,
      "note": "Ollie had a potty accident on the Nov 3 morning visit. Margaret Bill took the soiled blanket out of the crate and left it on the floor to be bagged, and put a pee pad in the crate. She said she would return later the same day with a clean blanket or towel. Next sitter in: expect no blanket in the crate until she does.",
      "quote": "Ollie had a little accident today. So I took the blanket out, and it's laying on the floor."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Margaret Bill left a message for Clara Florian (2:45 PM visit report)",
-     "office": false,
-     "note": "At the Nov 3 afternoon visit Ollie was found sitting quietly in his crate and seeming a little sad. He took a drink, and Margaret Bill put a handful of dry food in a cleaned bowl - he ate from her hand but left the bowl untouched before she went. Stool at this visit was recorded as firm and healthy. One visit only, not a pattern.",
-     "quote": "He ate it from my hand but didn't take any in his bowl before I left."
     }
    ],
    "dormant": false
@@ -7217,6 +7217,16 @@
      "office": false,
      "note": "New escape-risk section in the Company Notes. Keep the screen door shut. Bruno chases delivery trucks and other dogs; Suka chases bicycles, motorcycles, cars and anything with wheels, plus squirrels. The record lists one further trigger for Suka in wording that should not be reproduced on a public page - read that line in Time To Pet.",
      "quote": "Excape Risk Keep screen door shut. Bruno will chase fed ex trucks and other dogs"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 10",
+     "source": "Client message, 11:27 AM Nov 10",
+     "office": false,
+     "note": "Client states outright that Suka's hearing is very poor. This is the client's own confirmation of the hard-of-hearing observation a sitter raised the same morning, and it applies to every visit.",
+     "quote": "she doesn’t hear very well at all!"
     },
     {
      "cat": "behavior",
@@ -7287,16 +7297,6 @@
      "office": false,
      "note": "Gear instructions added. Bruno's pink harness goes side down with the leash through both rings; Suka's harness is the larger one with pink straps and a back loop. All leashes, collars and harnesses are by the door. Toys are in the basket or on the couch.",
      "quote": "Pink harness side down and put leash through both rings. both leashes, collars and harnesses are by the door"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 22",
-     "source": "Margaret Bill updated contact information for Jennifer Wagar, 3:01 PM",
-     "office": false,
-     "note": "Suka is named in the Company Notes for the first time and is described as friendly, 58 lb, 13 years old, with hearing problems, and as a treat thief who will take Bruno's. Bruno is described as leery of people. Commands differ between the two dogs.",
-     "quote": "Commands: Suka knows stop. Bruno not always listening"
     }
    ],
    "dormant": false
