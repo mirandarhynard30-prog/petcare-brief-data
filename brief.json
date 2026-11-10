@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T08:20:05-05:00",
+ "generated": "2026-11-10T11:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1849,6 +1849,26 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Nov 10",
+     "source": "Tiarra Roberts visit report for Charlene Szunyog",
+     "office": false,
+     "note": "Murphy's #2 on the Nov 10 morning walk was marked a little loose in the consistency field; the sitter judged it not concerning and the narrative says nothing about it. This is the first loose stool recorded for Murphy - the Oct 20 loose stool was Macy's. He did go #2, which breaks the Nov 2 and Nov 3 run of no-#2 reports.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Tiarra Roberts visit report for Charlene Szunyog",
+     "office": false,
+     "note": "On the Nov 10 walk there were workers parked on the side of the street and another dog being walked, and the sitter reports Murphy did not react to either. One good day, not a change to the standing reactivity note. Client was home for this visit and asked that the door not be locked.",
+     "quote": "Murphy did not react to anything"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Nov 3",
      "source": "Michelle Carrara walk report, 10:28 AM",
      "office": false,
@@ -3058,6 +3078,16 @@
      "office": false,
      "note": "Take shoes off on entering. Paw care is the paw wash in the laundry room plus the towel on the back of the laundry room door; the line about extra towels by the back door was removed.",
      "quote": "Please take shoes off when entering house."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 10",
+     "source": "Tiarra Roberts updated contact information for Anna Caraboolad",
+     "office": false,
+     "note": "Company Notes edited at 10:57 AM. The only line that changed is the treat location, which gained detail: treats are on the counter by the paper towels, in a glass jar in a basket or in a paper envelope with a pawprint. Everything else is word-for-word unchanged - orange leash and harness in the laundry room, backyard in bad weather, backyard NOT fenced so use the green leash on the back door, paw wash and the towel on the back of the laundry room door, one water and one food bowl in the dining room, poop bags in the small bin next to the garage trash can.",
+     "quote": "Treats are on counter by the paper towels in glass jar in basket or paper envelope with pawprint"
     },
     {
      "cat": "home",
