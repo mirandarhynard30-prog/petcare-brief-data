@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T12:20:07-05:00",
+ "generated": "2026-11-10T13:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8439,6 +8439,16 @@
      "quote": ""
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Elizabeth Sigler visit report, 12:50 PM",
+     "office": false,
+     "note": "Willa was wary of the two sitters new to the home: she stayed inside the whole visit and barked at both of them. She accepted a few pets mid-visit and more on the way out. Give her space and let her come to you. Single visit, so not yet a standing rule.",
+     "quote": "She barked at both Dan and I."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "standing",
@@ -8457,16 +8467,6 @@
      "office": true,
      "note": "Client updated both puppies' records on Nov 8. Veterinary name, address and phone for Hansel and for Gretel were all filled in as will provide upon receipt, so there is still no vet on file for either dog on a brand-new client. Gretel's birth date was set to Aug 15, 2026. Neutered/spayed was touched on both records but the new value is blank in the notification. Office follow-up to collect the vet details.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 7",
-     "source": "Pet Care Note updated by Shannon Anderson",
-     "office": false,
-     "note": "Willa is triggered by sudden loud noises and hides in the bedroom.",
-     "quote": "Triggers: willa- sudden loud noises ( she will run to the bedroom to hide)"
     }
    ],
    "dormant": false
