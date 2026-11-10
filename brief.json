@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T17:20:06-05:00",
+ "generated": "2026-11-10T18:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4012,6 +4012,26 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 10",
+     "source": "Thomas Rakovec visit report, 11:41 AM Nov 10",
+     "office": false,
+     "note": "Thomas Rakovec's 11:41 AM visit report logs the #2 as firm and healthy and says the stools are getting firmer. Which dog it was is unclear in the report itself: the narrative calls him Guinness throughout, while the visit-report pet section is filled in under JAXSON.",
+     "quote": "Guinness went several #1 and a very good #2..they are getting firmer"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Dan Dantimo message to client, 5:19 PM Nov 10",
+     "office": true,
+     "note": "Dan Dantimo messaged the client thread at 5:19 PM to correct the sitter on the pet's name, so the dog on the Nov 10 walk was Jaxson. The correction went to the client-visible thread and the 11:41 AM report still names Guinness - office may want to fix that report.",
+     "quote": "Tom, the dog's name is Jaxson!!"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 4",
      "source": "Thomas Rakovec visit report",
      "office": false,
@@ -4067,26 +4087,6 @@
      "office": false,
      "note": "Jaxson went #1 several times on the Oct 29 walk but not #2, including a deliberate second try in the back yard. Fence closed, yard dry, water refreshed. Relevant because the record already carries a no-stool concern.",
      "quote": "he went to the bathroom #1 ( several times) but didn't go #2"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 28",
-     "source": "Thomas Rakovec message",
-     "office": true,
-     "note": "Sitter messaged after his Oct 28 visit that he had thought today was Thursday and will be back tomorrow. His own visit report earlier the same day said he would see Jaxson next week, so the two messages disagree and the office should check which day he is actually on the schedule.",
-     "quote": "I'll be there tomorrow thought today was Thursday duh"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Thomas Rakovec visit report, 1:06 PM",
-     "office": false,
-     "note": "Jaxson went both #1 and #2 on the Oct 22 walk and the consistency field was logged as firm and healthy. That answers the two Oct 21 reports where he produced no stool at all and the client said she did not know why.",
-     "quote": ""
     }
    ],
    "dormant": false
