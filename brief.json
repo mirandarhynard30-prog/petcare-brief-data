@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T18:20:05-05:00",
+ "generated": "2026-11-09T19:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1843,6 +1843,16 @@
      "office": true,
      "note": "Client says she has to take Buttercup for a glucose check. This is the first message naming which animal the glucose monitoring is for; the Oct 5 and Oct 19 insulin notes did not name the cat. Her opening 'Ok, let me check' is a reply, so what she is checking and the date of the glucose check are not stated here - office should confirm the date and whether any visit or insulin timing changes.",
      "quote": "Ok, let me check. I have to take Buttercup for a glucose check."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 9",
+     "source": "Robin Lewis message to client, Nov 9 6:56 PM",
+     "office": true,
+     "note": "A visit change at this client went through on Nov 9. Robin Lewis's message thanks the client for the change and apologises for today, giving as the reason that both dogs got skunked. Logged in Time To Pet as Robin Lewis messaging the client, sent by text message only, so the wording reads as the sitter's own two dogs rather than the client's - but it is ambiguous from the email alone whose dogs are meant, and the message names no new date or time for the moved visit. Worth settling because Robin Lewis is the sitter who gives Buttercup the insulin injection, and the client said the same day she would try Tue Nov 10 for Buttercup's glucose check.",
+     "quote": "Thank you for the change sorry about today both my dogs got skunked"
     },
     {
      "cat": "home",
