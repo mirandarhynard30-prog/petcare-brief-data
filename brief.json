@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T13:20:05-05:00",
+ "generated": "2026-11-10T14:20:14-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2903,6 +2903,16 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Nov 10",
+     "source": "Visit report, Dan Dantimo 2:03 PM",
+     "office": false,
+     "note": "Holly went #1 but no #2 on the 1:30 PM walk. Client was home during the visit.",
+     "quote": "She did go number one but no number two."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Nov 9",
      "source": "Dan Dantimo visit report Nov 9",
      "office": false,
@@ -2918,16 +2928,6 @@
      "office": false,
      "note": "Holly was bright and energetic on the Nov 7 afternoon walk and the sitter noted her new haircut, so Thursday's grooming went ahead. Nothing unusual was reported after the sedation the client had been worried about. No accidents in the home; client was home during the visit.",
      "quote": "She was super excited when I entered the home today."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Shannon Anderson told Lynne at the end of the Nov 7 afternoon walk that she will be back tomorrow afternoon, so Sunday Nov 8 looks covered for Holly by Shannon.",
-     "quote": "I will see you guys tomorrow afternoon."
     }
    ],
    "dormant": false
@@ -7138,6 +7138,16 @@
      "quote": "Put a small handful of dry food in his bowl and put in his crate"
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Visit report, Margaret Bill 1:39 PM",
+     "office": false,
+     "note": "Ollie would not eat from his bowl on this visit but did eat the same food off the floor. One visit only, so not treated as a standing feeding rule.",
+     "quote": "He wouldn't eat it from the bowl, but he ate it from the floor."
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "recent",
@@ -7156,16 +7166,6 @@
      "office": false,
      "note": "At the Nov 3 afternoon visit Ollie was found sitting quietly in his crate and seeming a little sad. He took a drink, and Margaret Bill put a handful of dry food in a cleaned bowl - he ate from her hand but left the bowl untouched before she went. Stool at this visit was recorded as firm and healthy. One visit only, not a pattern.",
      "quote": "He ate it from my hand but didn't take any in his bowl before I left."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "Ollie is crated between visits and goes in willingly for a few kibble. He cried briefly when the crate was locked and settled once the sitter left. He also chewed bark on the walk and tracked grass indoors.",
-     "quote": "When I locked the crate, he started a little crying, but once I left he stopped."
     }
    ],
    "dormant": false
@@ -7524,6 +7524,36 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 10",
+     "source": "Client message, Megan O'Dell 11:45 AM",
+     "office": false,
+     "note": "Client asks sitters not to pet Merlin or Ruri until the dogs are outside - they will pee if greeted indoors.",
+     "quote": "please remember not to pet Merlin and Ruri until they get outside, as they will pee"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 10",
+     "source": "Client message, Megan O'Dell 11:45 AM",
+     "office": false,
+     "note": "Client asks that Ruri's crate door be closed after she is out if any food is left in her bowl, or the smaller dogs will eat it.",
+     "quote": "If Ruri has any food left in her bowl, please close her crate door after she's out"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Visit report, Ashley Corall 1:39 PM",
+     "office": false,
+     "note": "Merlin got over-excited while the group was being got ready and had a #1 indoors; the sitter removed her sweater and cleaned it up. Merlin was the only dog that did not go #2 on the walk.",
+     "quote": "Merlin had a little too much excitement and had a #1 so we removed the sweater"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Nov 7",
      "source": "client pet care notes for Merlin",
      "office": false,
@@ -7579,36 +7609,6 @@
      "office": false,
      "note": "Suzaiko's feeding notes now add fish oil too: 1/2 cup Freshpet twice a day (AM and PM) plus one pump of fish oil in each meal, kept in the fridge. Fed in crate.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 6",
-     "source": "Client updated pet Merlin care notes",
-     "office": false,
-     "note": "Merlin: use the black harness, leash does not matter. Do not greet her on arrival - she is an excited urinator.",
-     "quote": "Do not pet as soon as you walk in; she is an excited pee'er."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts updated contact information for Megan O'Dell, Oct 28 7:39pm ET",
-     "office": false,
-     "note": "Feeding routine as newly written: crate the dogs to feed them, half a cup of Fresh Pet from the fridge twice daily plus two scoops of dry food from the container in the dining room corner. Water is two bowls, one on either side of the dining room table. The note does not say whether the half cup and two scoops are per dog or shared, so check with the office if it matters.",
-     "quote": "Put dogs in crates for feeding. 1/2 cup Fresh Pet (fridge) twice daily and 2 scoops dry food"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts updated contact information for Megan O'Dell, Oct 28 7:39pm ET",
-     "office": false,
-     "note": "Apartment complex. Park in the apartment parking lot. Leashes hang next to the front door. Take the dogs out for the walk through the sliding glass door, and put waste in the dumpster that is visible from that sliding glass door.",
-     "quote": "Park in apartment parking lot"
     }
    ],
    "dormant": false
