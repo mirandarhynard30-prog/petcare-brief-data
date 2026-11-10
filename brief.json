@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T19:20:09-05:00",
+ "generated": "2026-11-09T22:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -744,6 +744,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 9",
+     "source": "Client private message to Miranda, Nov 9 9:54 PM",
+     "office": true,
+     "note": "Client cancelled tomorrow's (Tue Nov 10) service at 9:54 PM, saying her husband will be home. No end date given and no mention of when service resumes - this is the second cancellation in two days, after she cancelled Mon Nov 9 on Nov 8. Lucy's Nov 10 walk needs taking off the schedule and the assigned walker told; the message is still unanswered. Signed \"Carol\" although the account is Angela Jozsa, as with her earlier messages.",
+     "quote": "We are going to cancel service again for tomorrow. My husband will be home."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 8",
      "source": "Client private message to Miranda, Nov 8 12:25 PM",
      "office": true,
@@ -849,16 +859,6 @@
      "office": false,
      "note": "The Ollie hand-feeding rule is cancelled. The client now says sitters do not need to try to give Lucy the Ollie at all - she has decided to give it herself at night so Lucy is hungry and eats it, and she credits that change for Lucy's healthier stool. This replaces the Oct 15 instruction to hand feed it.",
      "quote": "you don’t have to worry about trying to give her Ollie anymore"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 8",
-     "source": "Margaret Bill visit report, Nov 8 11:48 AM",
-     "office": false,
-     "note": "Lucy was flat on the Nov 8 midday visit. She went out, went #1, smelled the flowers next door and wanted to come straight home, then went back into her pen and would not play. The sitter could only get her to eat by dropping kibble into the pen - about ten pieces, then roughly five more, and she was still eating when the sitter left. She took her bone into the pen rather than outside. No #2 was recorded on the report. This is one sitter's observation on one visit, not an established pattern, and the report records no vomiting, limping or other symptom.",
-     "quote": "She went back into her pen and didn't want to play. She did let me pet her and she seemed a little sad."
     }
    ],
    "dormant": false
