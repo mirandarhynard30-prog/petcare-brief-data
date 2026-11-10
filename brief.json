@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T11:20:07-05:00",
+ "generated": "2026-11-10T12:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2639,6 +2639,16 @@
      "quote": "Milo still has diarrhea and I have been told he has been having it"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Drew Walker visit report, Nov 10 11:40 AM",
+     "office": false,
+     "note": "Archer was shut in a bedroom when the sitter arrived for the Nov 10 late-morning visit and she let him out before the walk. The report does not say who put him there or why; the only earlier instance on record is Oct 27, when the client said cleaners were in the house. Worth checking the bedrooms on arrival rather than assuming he will greet you.",
+     "quote": "I arrived with Archer put away in the bedroom."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -3033,6 +3043,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 10",
+     "source": "Tiarra Roberts visit report, Nov 10 11:22 AM",
+     "office": false,
+     "note": "Second report to confirm this home has an alarm, after Oct 27. The Nov 10 arrival routine as the sitter describes it: enter through the garage, shoes off in the garage, disarm the alarm, and arm it again on leaving. The code itself is in Time To Pet and is deliberately not recorded here.",
+     "quote": "I took my shoes off in the garage and disarmed the alarm."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Oct 27",
      "source": "Ashley Corall midday visit report",
      "office": true,
@@ -3088,6 +3108,16 @@
      "office": false,
      "note": "Company Notes edited at 10:57 AM. The only line that changed is the treat location, which gained detail: treats are on the counter by the paper towels, in a glass jar in a basket or in a paper envelope with a pawprint. Everything else is word-for-word unchanged - orange leash and harness in the laundry room, backyard in bad weather, backyard NOT fenced so use the green leash on the back door, paw wash and the towel on the back of the laundry room door, one water and one food bowl in the dining room, poop bags in the small bin next to the garage trash can.",
      "quote": "Treats are on counter by the paper towels in glass jar in basket or paper envelope with pawprint"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Tiarra Roberts visit report, Nov 10 11:22 AM",
+     "office": false,
+     "note": "Where the waste goes at this home: the sitter put the #2 bags in a designated small trash bin in the garage on the way back in. One sitter, one visit - not stated anywhere as a house rule.",
+     "quote": "I put the #2 bags into the designated small trash bin"
     },
     {
      "cat": "home",
@@ -5324,9 +5354,20 @@
     "Weezie",
     "Frankie",
     "Weezie/Louise",
-    "Louise"
+    "Louise",
+    "Weezie or Louise"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Dan Dantimo visit report, Nov 10 11:56 AM",
+     "office": true,
+     "note": "The Nov 10 late-morning report again makes no mention of Weezie/Louise's eye drops - not in the narrative and not in the report form, whose only field for her is whether she went #1. That is the fourth report in a row with no eye-drop record (Oct 20, Oct 23, Nov 9, Nov 10). Either the drops have stopped and the standing note is stale, or they are being missed. Note this visit was done by Dan Dantimo shadowing Elizabeth Sigler.",
+     "quote": ""
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -8213,6 +8254,26 @@
      "office": false,
      "note": "A family member at the home has worsening dementia and may tell the walker not to come. Account manager asks that any such cancellation be confirmed with her first - it already happened with a previous walker. Do not leave on a verbal cancellation at the door without checking.",
      "quote": "if she tells the walker not to come please confirm with me 1st"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Josh Stone visit report, Nov 10 11:45 AM",
+     "office": false,
+     "note": "Sassie had a gland spray applied on the Nov 10 late-morning visit. The sitter's method was to distract her with a treat and spray quickly. This is the first mention of a gland spray in recent mail - one sitter on one visit, so it is not written up here as a standing instruction.",
+     "quote": "We also applied her gland spray by distracting her with a treat while spraying her behind quickly."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Josh Stone visit report, Nov 10 11:45 AM",
+     "office": true,
+     "note": "After the Nov 10 walk the sitter put Sassie's water bowl in the sink to limit how much she drank, because of the long gap before the evening visit. Nothing in the mail says the client or the office asked for this. Worth confirming it is wanted, given the Nov 8 note about possible incontinence.",
+     "quote": "I put her water in the sink to limit her intake this afternoon since there's extra time between her visits today."
     },
     {
      "cat": "health",
