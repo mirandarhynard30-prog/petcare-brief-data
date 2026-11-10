@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T15:05:08-05:00",
+ "generated": "2026-11-10T15:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -857,6 +857,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 10",
+     "source": "Harvett Ellington visit report, Nov 10 2:38 PM",
+     "office": true,
+     "note": "Harvett Ellington's 2:38 PM report: Chloe went #1 only, no #2, no accidents in the home, bowls cleaned and fresh water added. The report does NOT say whether Chloe was taken outside or walked, so it is unclear whether the Oct 26 no-walking restriction was observed on this visit - Harvett was not told about it before she went in. Harvett told Chloe she will see her Friday.",
+     "quote": "Chloe went number one only."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 9",
      "source": "Drew Walker visit report",
      "office": true,
@@ -962,16 +972,6 @@
      "office": false,
      "note": "Chloe was wheezing while coughing during the morning visit; sitter recorded a video and flagged it to Melody, who was home. Same sitter returns in the afternoon - watch her breathing. No vet contact mentioned in the report.",
      "quote": "Took a video of Chloe wheezing while coughing."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Alex Miller morning visit report, Nov 5",
-     "office": false,
-     "note": "Nov 5 morning visit went well. Chloe had to be woken because she had had a late night, Melody carried her outside, and she then went #1 and #2 twice with firm and healthy consistency. Short but pleasant walk, cut down because of the cold (about 60 degrees). Both water bowls were full. No wheezing or breathing trouble is mentioned anywhere in this report. Melody was home and again asked that the door not be locked.",
-     "quote": "After you carried her outside she immediately went number one in the front yard"
     }
    ],
    "dormant": false
@@ -8467,6 +8467,28 @@
      "office": true,
      "note": "Client updated both puppies' records on Nov 8. Veterinary name, address and phone for Hansel and for Gretel were all filled in as will provide upon receipt, so there is still no vet on file for either dog on a brand-new client. Gretel's birth date was set to Aug 15, 2026. Neutered/spayed was touched on both records but the new value is blank in the notification. Office follow-up to collect the vet details.",
      "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Meagan O'Dell",
+   "url": "https://www.timetopet.com/dashboard/client/tn63qlLqf1VL",
+   "pets": [
+    "Merlin",
+    "Suzaiko",
+    "Ruri"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Client message, Nov 10 1:43 PM",
+     "office": false,
+     "note": "For THURSDAY'S visit the client offers an alternative to lifting Merlin: open Merlin's crate using the side door and she will jump out and back in on her own. Client says Merlin can be a little odd about being picked up. Client scoped this to Thursday, so it is not filed as a standing rule.",
+     "quote": "for Thursday's visit, if you would prefer to open Merlin's crate using the side door, she'll jump out and in of her own accord"
     }
    ],
    "dormant": false
