@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T21:20:08-05:00",
+ "generated": "2026-11-11T06:35:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -425,16 +425,6 @@
      "office": true,
      "note": "Liz messaged at 10:29 PM to say she has quit her job and asks that all of her scheduled visits be cancelled for now. She has prospects but does not expect to start work for a while. This is an open-ended cancellation of everything on her books, not a single visit - the office has to confirm it and clear her future schedule, and nothing in this mailbox shows a reply yet.",
      "quote": "I imagine we should cancel all of our scheduled visits for now."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Client message via Time To Pet, 7:56 AM",
-     "office": true,
-     "note": "Liz messaged at 7:56 AM to say she is taking a leave of absence from her job and will be off for the rest of the week, and that she will submit the cancellation forms. A portal Service Change notice at 8:07 AM cancels today's 11:00 AM Dog Visit-45 minute. She did not list which other days she is cancelling, so the rest of the week still has to be confirmed and taken off the scheduler.",
-     "quote": "I am taking a leave of absence from my job. I will be off the rest of the week."
     }
    ],
    "dormant": false
@@ -507,26 +497,6 @@
      "office": true,
      "note": "Gordy went #2 twice on the Oct 22 morning walk and the consistency field was logged as loose again. This is the third loose-stool day inside the window after two reports on Oct 20, so the office should check in with Anna Marie rather than treat it as a one-off. The sitter judged it not concerning on the day.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Kathy Pastor visit report, Oct 20 1 PM",
-     "office": true,
-     "note": "Gordy went #2 twice on the afternoon walk - first small, dark and very loose, second smaller and just liquid. Sitter marked the form 'very loose/ diarrhea but pet seems fine otherwise'. Dark colour plus two liquid movements in one visit; office may want to raise it with the client.",
-     "quote": "First time it was small, dark, and very loose. The second time it was even smaller and just liquid."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Client message 3:28 PM",
-     "office": true,
-     "note": "Client reports TWO MORE soft movements today beyond the two in Kathy Pastor's afternoon walk report - one before the groomers and one when she picked Gordy up - so four soft to liquid movements in one day. She offers a diet explanation: he ate only his canned soft food and refused his hard food. She does not ask for anything and does not mention a vet.",
-     "quote": "He did go #2 before going into the groomers and he did #2 when I picked him up"
     },
     {
      "cat": "health",
@@ -661,16 +631,6 @@
      "quote": "So let’s keep the schedule as is and l will ensure I communicate to you every Monday. Is this ok?"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Terry M private message, 5:51 AM",
-     "office": true,
-     "note": "Client says she will be home Tuesday Oct 20 as well, still unwell - a second consecutive day home on sick leave. A portal Service Change cancellation for Tue Oct 20 followed at 6:01 AM. Confirm the Tuesday visit is off the scheduler and acknowledge her.",
-     "quote": "I’m going be home Tuesday as well. Still not feeling well."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -720,6 +680,16 @@
     "Lucy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 11",
+     "source": "Client private message 4:30 AM ET Nov 11",
+     "office": true,
+     "note": "Client cancelled TODAY'S (Wed Nov 11) dog walk by private message at 4:30 AM ET, signed Carol. No reason given, no end date, and nothing about when service resumes. Unanswered as of this run - this is the fifth cancellation in this thread since Oct 23. Needs the visit pulled off today's schedule.",
+     "quote": "Miranda, I am sorry, but we need to cancel dog walker again today!!"
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -809,16 +779,6 @@
      "office": true,
      "note": "Withdrew her reschedule request - today's Lucy walk stays at 12:15, no change needed. She had chased at 8:17 AM asking for whoever was coming to arrive around 1:00; this message supersedes that. Nothing in this mailbox shows the office replied to either message.",
      "quote": "Ok we will just keep it at 12:15. Thank you for trying!!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Client private message 9:35 PM",
-     "office": true,
-     "note": "Client (Carol) asks by private message at 9:35 PM to move Lucy's walk tomorrow, Wed Oct 21, from 12:00 to 1:00. She calls it late notice. Unanswered as of this run and it is for the next day - needs confirming to the client and moving on the scheduler before the noon slot. Separate from the Oct 11 and Oct 7 schedule changes already on file.",
-     "quote": "Miranda, I know this is late notice but I’m wondering if we could change time for Lucy’s walk tomorrow to 1:00 rather than 12:00."
     },
     {
      "cat": "behavior",
@@ -1452,16 +1412,6 @@
     {
      "cat": "behavior",
      "sev": "low",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Elizabeth Sigler visit report",
-     "office": false,
-     "note": "Bismark refused his walk on Oct 20 - would not go near the gate - so the sitter gave him fenced backyard time instead and he settled in his usual patch of grass. One occurrence, not a standing rule.",
-     "quote": "He really didn’t want to take a walk today, I couldn’t get him to go anywhere near the gate."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
      "type": "standing",
      "date": "Oct 17",
      "source": "Christina Palmieri message",
@@ -1816,16 +1766,6 @@
      "quote": "Phil is the name of Charlene's husband"
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Michelle Carrara visit report, Oct 20 10:40 AM",
-     "office": false,
-     "note": "Macy's stool on the Oct 20 walk was marked loose in the consistency field - the sitter judged it not concerning and the narrative says nothing about it. First loose-stool note on Macy; Murphy's was normal the same visit.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -1904,16 +1844,6 @@
      "office": true,
      "note": "Client submitted a request for Mac on Nov 3 and is chasing earlier requests for Nov 16-19 and Dec 10-11 that still show as pending. She sent a thank-you later the same evening; whether all three were approved is not confirmed.",
      "quote": "I just realized the November 16-19 and December 10-11 are still pending."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Client private message, Oct 20 10:45 AM",
-     "office": true,
-     "note": "Client asks the office to correct the service type on a request she just placed: she picked Dog and Cat visit and wants Dog visit only. She calls it the November 15-19 request, but the order-request notice that arrived five minutes later reads Nov 16 - Dec 11, so confirm which booking she means before editing. Needs an office change in Time To Pet; unanswered as of this run.",
-     "quote": "I meant to select Dog visit only."
     },
     {
      "cat": "behavior",
@@ -5399,16 +5329,6 @@
      "quote": ""
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Shannon Anderson visit report, 12:26 PM",
-     "office": true,
-     "note": "Oct 20 midday report makes no mention of Weezie/Louise's eye drops - not in the narrative and not in the report form, which still has no eye-drop field. Weezie is logged #1 only, with no #2 and no consistency; Frank is logged #1, #2 and firm and healthy. The run of reports with no eye-drop record now extends into Oct 20.",
-     "quote": ""
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -6046,16 +5966,6 @@
      "office": true,
      "note": "Second day in a row of possible duplicate coverage at the apartment. Margaret Bill arrived for the Oct 25 morning visit and Joan told her another dog walker, described as a girl, had already come, so Margaret's services were not needed. On Oct 24 the same thing happened with someone Margaret called 'the young gentleman'. A visit report was still filed today. Two consecutive days means this needs settling with the client rather than being noted again.",
      "quote": "Joan reported that a girl dog walker had come again today and my services were not needed."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Chrissy George visit message, Oct 20 10:20 AM",
-     "office": false,
-     "note": "Sassie lunged at a moving car on today's walk and barked at a dog she saw. The report's own walk field still says everything went as planned, so the lunge appears only in the narrative. Reinforces the existing escape-risk warning - keep her short on leash near the road. Single observation by one sitter, not a new standing rule.",
-     "quote": "she did go after a car as we were walking"
     },
     {
      "cat": "schedule",
@@ -6977,16 +6887,6 @@
      "quote": "She seemed to struggle a bit to go #2."
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 20",
-     "source": "Client private message, Oct 20 10:35 AM",
-     "office": true,
-     "note": "Client asks what a Long Range Visit is - Friday's visit is booked under that service type while the rest of hers are Dog Visit. She has queried her billing twice already this month, so answer the service type and check Friday is booked correctly. Unanswered as of this run.",
-     "quote": "What is a long range visit?"
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -7563,6 +7463,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Client message 1:43 PM ET Nov 10",
+     "office": false,
+     "note": "Handling tip the client added for Thursday's visit: open Merlin's crate by the SIDE door and she will get herself out and back in, so nobody has to pick her up. The client says Merlin can be a little weird about being lifted. She framed it for Thursday specifically, not as a standing rule.",
+     "quote": "she'll jump out and in of her own accord"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Nov 7",
      "source": "client pet care notes for Merlin",
@@ -7609,16 +7519,6 @@
      "office": false,
      "note": "Feeding updated Nov 6: Suzaiko gets 1/2 cup Freshpet twice a day (AM and PM) plus 1 pump of fish oil in each meal, fish oil kept in the fridge. The fish oil is what is new.",
      "quote": "ALSO 1 PUMP OF FISH OIL IN EACH MEAL (LOCATED IN FRIDGE)."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 6",
-     "source": "Client updated pet Suzaiko care notes",
-     "office": false,
-     "note": "Suzaiko's feeding notes now add fish oil too: 1/2 cup Freshpet twice a day (AM and PM) plus one pump of fish oil in each meal, kept in the fridge. Fed in crate.",
-     "quote": ""
     }
    ],
    "dormant": false
