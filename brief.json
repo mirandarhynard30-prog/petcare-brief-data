@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T16:20:06-05:00",
+ "generated": "2026-11-11T17:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2602,6 +2602,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 11",
+     "source": "Alex Miller visit report, 11:44 AM",
+     "office": false,
+     "note": "How this sitter ran the visit: the dogs went out one at a time - Archer walked first, down the street and back, then Milo, whose walk was shorter with many stops for squirrels. Milo went back into his crate at the end and Archer did not. One sitter on one visit, so not recorded as a rule.",
+     "quote": "I came back to get Milo and he was super excited to get out."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 10",
      "source": "Drew Walker visit report, Nov 10 11:40 AM",
      "office": false,
@@ -2687,16 +2697,6 @@
      "office": false,
      "note": "Treat containers are down to crumbs. Sitter flagged it to the client directly in the report.",
      "quote": "The treats containers are low nothing but crumbs in it just so you are aware!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "One of the dogs' water bowls broke during the midday visit - Milo jumped up while the sitter was carrying it. Sitter picked up the pieces, bagged them and put them in the trash, and sent photos. The home is now one water bowl short.",
-     "quote": "Milo jumped up and the bowl fell right out my hand and broke"
     }
    ],
    "dormant": false
@@ -3981,6 +3981,16 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 11",
+     "source": "Client message, 4:21 PM",
+     "office": false,
+     "note": "The client gives the reason behind the Oct 29 to Nov 11 run of soft and missed stools: Jaxson is in the middle of a food change. She thanks the sitter for reporting the potty and asks for nothing. No new food, amount or timing is named, so all that is recorded is that a transition is under way.",
+     "quote": "Trying to change food is never a good thing"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 10",
      "source": "Thomas Rakovec visit report, 11:41 AM Nov 10",
@@ -4037,16 +4047,6 @@
      "office": false,
      "note": "Jaxson went #2 in the backyard on the Oct 30 visit, after none was logged on Oct 29; Dan answered the consistency question \"It was a little loose but not concerning\".",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Dan Dantimo visit report",
-     "office": true,
-     "note": "Oct 30 visit: alarm was armed on arrival and Dan disarmed it without trouble, but he deliberately left it unset on departure, securing the house instead. Unclear whether that is the standing instruction for this home - worth confirming with Christi.",
-     "quote": "I did not set it when I left, just made sure the house was secure"
     }
    ],
    "dormant": false
@@ -8217,6 +8217,16 @@
      "quote": "I know you have been helping with the spray. Can you administer her ear drops? Thanks!"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 11",
+     "source": "Client private message, 4:31 PM",
+     "office": true,
+     "note": "Follow-up to the 3:47 PM medication message - the account manager now gives the schedule. Spray twice a day, morning and evening. For the ear medicine she writes 'ounce a day', which reads as once a day but is not what the message says, so treat the frequency as unconfirmed; she adds that morning or afternoon would work for it. Still no reply from the office anywhere in the mail and nothing written into Time To Pet, so sitters have no ear-drop instruction to work from.",
+     "quote": "Spray is twice a day. Ear medicine ounce a day."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -8305,16 +8315,6 @@
      "office": false,
      "note": "Sassie dislikes rain. On Nov 4 her raincoat went on and, as the rain got heavier, the sitter kept it to a quick potty break rather than a full walk. She went #1 and #2 quickly, firm and healthy, and greeted neighbours in the hallway afterwards.",
      "quote": "She’s not a fan of rain as I can tell!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Joan- Gina Sullivan (Manages Account) has sent you a new private message (Oct 30, 1:48 PM)",
-     "office": true,
-     "note": "Client replies by private message to something the office proposed, agreeing to try it but worried it would confuse Sassie. The message does not say what was proposed and the proposal itself is not in this mailbox, so the office needs to check the private conversation thread before any handling change is passed to sitters. Note this client is also carried in the brief under the shorter name Gina Sullivan.",
-     "quote": "We can try that but I am worried it could cause confusion with her."
     }
    ],
    "dormant": false
@@ -8326,7 +8326,8 @@
     "Wynston",
     "Willa",
     "Hansel",
-    "Gretel"
+    "Gretel",
+    "Winston"
    ],
    "items": [
     {
@@ -8392,6 +8393,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Nov 11",
+     "source": "Elizabeth Cuffari visit report, 1:19 PM, with Shannon Anderson shadowing",
+     "office": false,
+     "note": "Willa and Winston did not go outside on their own on this visit - the sitter carried Willa out. Willa used an indoor pad, and the pads were refreshed for the two puppies and for Willa and Winston. The water bowl field was answered No. Two sitters were present, one shadowing.",
+     "quote": "Willa and Winston didn’t go outside but Shannon carried Willa out"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Nov 10",
      "source": "Client message, Nov 10 8:02 AM",
@@ -8438,16 +8449,6 @@
      "office": true,
      "note": "Client will enter her own visit days in Time To Pet on Thursdays for the following week, and says she has set a calendar reminder to do it. Office should expect her requests on Thursdays and follow up if they do not arrive.",
      "quote": "I will just enter them in on Thursdays."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 8",
-     "source": "Pet detail updates for Hansel and Gretel, Nov 8 8:46-8:47 AM",
-     "office": true,
-     "note": "Client updated both puppies' records on Nov 8. Veterinary name, address and phone for Hansel and for Gretel were all filled in as will provide upon receipt, so there is still no vet on file for either dog on a brand-new client. Gretel's birth date was set to Aug 15, 2026. Neutered/spayed was touched on both records but the new value is blank in the notification. Office follow-up to collect the vet details.",
-     "quote": ""
     }
    ],
    "dormant": false
