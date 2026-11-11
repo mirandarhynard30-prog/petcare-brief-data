@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T10:20:05-05:00",
+ "generated": "2026-11-11T11:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -817,6 +817,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 11",
+     "source": "Alex Miller visit report, Nov 11 10:31 AM ET",
+     "office": true,
+     "note": "Alex Miller's Nov 11 mid-morning report flags a possible limp: Chloe's back left leg appeared to be used less, as if she was putting less pressure on it. The sitter asks whether whoever comes in the afternoon can give a second opinion so it does not go unnoticed. One sitter, one visit - not confirmed by anyone else, and the client has not responded in the notification mail.",
+     "quote": "Something to note is it almost looked like Chloe had a limp today."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 10",
      "source": "Harvett Ellington visit report, Nov 10 2:38 PM",
      "office": true,
@@ -922,16 +932,6 @@
      "office": false,
      "note": "NEW DIAGNOSIS - Chloe has pneumonia. The sitter spoke with Melody at the start of the Oct 26 afternoon visit and reports the restriction as no walking and no other strenuous activity for now. This is the first time a diagnosis appears in this mailbox and it explains the Oct 20, Oct 23 and Oct 26 unwell reports. Backyard time only; next visit named as Wednesday.",
      "quote": "after I checked in with you and discussed Chloe’s recent pneumonia diagnosis (no walking or other strenuous activity for now)"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Harvett Ellington visit report",
-     "office": false,
-     "note": "Chloe was wheezing while coughing during the morning visit; sitter recorded a video and flagged it to Melody, who was home. Same sitter returns in the afternoon - watch her breathing. No vet contact mentioned in the report.",
-     "quote": "Took a video of Chloe wheezing while coughing."
     }
    ],
    "dormant": false
