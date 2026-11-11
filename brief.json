@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T12:20:06-05:00",
+ "generated": "2026-11-11T13:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -183,6 +183,16 @@
      "quote": "She started pain management for arthritis (another thing for her 😭) so that might be why."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 11",
+     "source": "Elizabeth Cuffari visit report, Nov 11 (with Shannon Anderson shadowing)",
+     "office": false,
+     "note": "Nova was still shy with Elizabeth C on this afternoon visit but better than her previous one; the report's form answer recorded the pet as anxious. Treats were used. Two sitters were present because Shannon was shadowing.",
+     "quote": "She was still pretty shy but seemed better this time."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -251,16 +261,6 @@
      "office": false,
      "note": "Follow-up to this morning's total food refusal: Nova did eat a few mini milk bones and one small broken-up piece of a lickable treat for Shannon Anderson in the afternoon. She hid in her room on arrival, came out when asked, and would not go potty outside because of the rain. Partial appetite only - worth watching at the next visit.",
      "quote": "I did get Nova to eat a few mini milk bones"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Client message 5:58 PM",
-     "office": false,
-     "note": "Evening follow-up from Terri on this morning's food refusal: by the end of the day Nova had eaten a couple of mini bones, a small portion of her dry food and a full portion of her soft food, but not her biscuit. Terri reads it as Nova being finicky rather than unwell. Appetite partly recovered the same day; still worth watching at the next visit.",
-     "quote": "I gave her a full portion of her soft food and she ate it, so maybe she’s just being finicky today."
     }
    ],
    "dormant": false
@@ -273,6 +273,16 @@
     "Rusty"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 11",
+     "source": "Margaret Bill visit report, Nov 11",
+     "office": true,
+     "note": "Rusty's collar chain broke during this visit and the sitter could not refasten it, so Rusty was walked without her prong collar and did okay. The chain was still broken when the sitter left - next visit has no working prong collar for Rusty unless the office replaces it.",
+     "quote": "I broke the chain and could not fix it because I couldn't bring the latches together enough"
+    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -382,16 +392,6 @@
      "office": false,
      "note": "Feeding amounts confirmed by the client. Shannon Anderson asked at 2:41pm whether Rusty gets 3 cups and Puck 3/4 cup; Mary answered at 2:57pm and added that Puck's food is on the left and Rusty's on the right. Her reply does not restate the numbers itself, so the container sides are certain and the amounts are confirmed only by her agreeing to the sitter's question.",
      "quote": "Yup! Pucks food is on the left and rustys is on the right"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 8",
-     "source": "Margaret Bill updated contact information, 11:24am",
-     "office": false,
-     "note": "Company Notes now specify how Rusty's prong collar goes on: prongs on the inside, chain through the loop, bring the clip up and cinch it under the ears, not on the neck.",
-     "quote": "Prong collar prongs on inside chain through loop bring up clip and cinch under ears not neck"
     }
    ],
    "dormant": false
@@ -7398,6 +7398,16 @@
      "office": true,
      "note": "Follow-up to her earlier unanswered request to speak with someone. She says she did not realise her first message went into a group chat, works from home and can take a call almost any time except during meetings, but needs a specific agreed day and time because she does not answer unknown numbers. The office has to propose a slot - she will not pick up a cold call. What she wants to discuss is still not stated in this mailbox.",
      "quote": "I work from home and can speak most any time barring meetings. I'd just need an agreed upon day/time"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 11",
+     "source": "Client message, Nov 11",
+     "office": false,
+     "note": "Client sent photos ahead of the 1pm visit warning that a sitter may barely see the pets, as they hide; the sitter who replied said past reports also describe them as shy. Expect not to see them out.",
+     "quote": "this might be the most you see of these guys"
     }
    ],
    "dormant": false
