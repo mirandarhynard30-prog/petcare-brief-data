@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T14:20:09-05:00",
+ "generated": "2026-11-11T15:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -629,6 +629,16 @@
      "office": true,
      "note": "Standing arrangement the client is proposing: she is approved to work from home one day a week and is trying to make it Wednesday, but it may change and she may have to go in some weeks. She asks that the recurring schedule be left as is and says she will tell the office every Monday whether that Wednesday is remote. She asks directly whether this is acceptable - needs an answer from the office. This supersedes the Oct 13 one-off Friday cancellation pattern.",
      "quote": "So let’s keep the schedule as is and l will ensure I communicate to you every Monday. Is this ok?"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 11",
+     "source": "Wendy Marquard visit report, 12:25 PM",
+     "office": false,
+     "note": "This home has a house alarm: the report's alarm question was answered Yes, meaning the sitter set it before leaving. Entry and exit are through the garage door, closed fully on the way out. Taken from the form fields of one report - no code or key detail is recorded here and none should be, it stays in Time To Pet.",
+     "quote": "I entered through the garage door, garage door is fully closed before leaving"
     },
     {
      "cat": "behavior",
@@ -2130,6 +2140,16 @@
      "quote": "Do NOT allow Ripley to pee around flagpole in front yard"
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 11",
+     "source": "Tiarra Roberts visit report, 2:40 PM",
+     "office": false,
+     "note": "Ripley needed encouragement to eat on the afternoon visit - the sitter put a few treats on top of her food to get her started. Mentioned only as a postscript, with no other appetite detail. Worth watching alongside Ripley's earlier GI notes (Oct 22 loose stools, Oct 25 hard stool, Nov 9 no #2) but a single observation on its own.",
+     "quote": "I enticed eating with a few little treats on top of the food"
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -2843,31 +2863,31 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Nov 11",
+     "source": "Julie Smith visit report, 1:45 PM",
+     "office": false,
+     "note": "Holly went both #1 and #2 on the afternoon walk and the consistency field reads firm and healthy. This follows Nov 9 (a little loose) and Nov 10 (no #2), so the earlier stool watch looks resolved for now.",
+     "quote": "It was firm and healthy"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 11",
+     "source": "Julie Smith visit report, 1:45 PM",
+     "office": false,
+     "note": "Handling detail from one sitter who describes it as habitual rather than one-off: Holly jumps up and puts her paws on the sitter's chest at the greeting, and on the back half of the walk she pulls toward the house and resists walking the last few minutes. Reported by Julie Smith only, so not confirmed as a standing rule. Client was home during this visit and asked that the door not be locked.",
+     "quote": "She definitely always knows the way home, and definitely starts to pull a little bit to get back there."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Nov 10",
      "source": "Visit report, Dan Dantimo 2:03 PM",
      "office": false,
      "note": "Holly went #1 but no #2 on the 1:30 PM walk. Client was home during the visit.",
      "quote": "She did go number one but no number two."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 9",
-     "source": "Dan Dantimo visit report Nov 9",
-     "office": false,
-     "note": "Holly's stool on today's walk was logged as a little loose but not concerning. Single observation for Holly.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Holly was bright and energetic on the Nov 7 afternoon walk and the sitter noted her new haircut, so Thursday's grooming went ahead. Nothing unusual was reported after the sedation the client had been worried about. No accidents in the home; client was home during the visit.",
-     "quote": "She was super excited when I entered the home today."
     }
    ],
    "dormant": false
