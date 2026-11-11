@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T11:20:06-05:00",
+ "generated": "2026-11-11T12:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5295,9 +5295,20 @@
     "Frankie",
     "Weezie/Louise",
     "Louise",
-    "Weezie or Louise"
+    "Weezie or Louise",
+    "Weezie (Louise)"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 11",
+     "source": "Elizabeth Cuffari visit report, Nov 11 11:57 AM",
+     "office": true,
+     "note": "Nov 11 late-morning report again makes no mention of Weezie/Louise's eye drops - fourth report in a row with no confirmation they were given. Report is otherwise routine: both dogs out, #1 only for both, no #2, no accidents, treats given, home secured via garage. The report does not say the drops were skipped, only that they are not mentioned.",
+     "quote": ""
+    },
     {
      "cat": "health",
      "sev": "high",
