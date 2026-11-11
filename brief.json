@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T18:20:06-05:00",
+ "generated": "2026-11-10T19:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8274,6 +8274,26 @@
      "office": true,
      "note": "After the Nov 10 walk the sitter put Sassie's water bowl in the sink to limit how much she drank, because of the long gap before the evening visit. Nothing in the mail says the client or the office asked for this. Worth confirming it is wanted, given the Nov 8 note about possible incontinence.",
      "quote": "I put her water in the sink to limit her intake this afternoon since there's extra time between her visits today."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Kristin Aldridge visit report, Nov 10 evening visit (approx 6:20 PM)",
+     "office": false,
+     "note": "On the Nov 10 evening walk Sassie was skittish in the darker parts of the grounds but fine in the well-lit areas; the sitter brought a flashlight and says it seemed to help. Sassie also wanted to come inside a little early. One observation on one evening visit, not recorded as a standing rule.",
+     "quote": "She seemed a little bit skittish in the darker areas of the grounds, but was good in the well lit areas."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Kristin Aldridge visit report, Nov 10 evening visit (approx 6:20 PM)",
+     "office": true,
+     "note": "The Nov 10 evening sitter topped off Sassie's water before leaving, and logged #1 and #2 both normal and medication administered. The midday sitter that same day had instead limited her water. Nothing in the mail states what the actual water rule for Sassie is, so this is ambiguous and needs the office to settle it rather than leaving each sitter to judge.",
+     "quote": "I topped off her water before leaving."
     },
     {
      "cat": "health",
