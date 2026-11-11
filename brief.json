@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T19:20:07-05:00",
+ "generated": "2026-11-10T21:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1126,6 +1126,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 10",
+     "source": "Tiarra Roberts message",
+     "office": false,
+     "note": "NO ICE CUBES for Georgie for some time because of his stitches. Sent by Tiarra Roberts at 9:07 PM Nov 10 as a correction to her own visit report earlier the same evening, in which she had given him ice cubes. Georgie had 14 teeth pulled Nov 9. No end date was given - treat as in force until the office says otherwise.",
+     "quote": "Actually Georgie will not have ice cubes for some time because of his stitches"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1234,16 +1244,6 @@
      "office": true,
      "note": "Client says Georgie is fine today and the evening walk is back on, after she cancelled the Monday morning walk late Sunday night for a twisted leg. Office needs to confirm the evening visit is still on the schedule with a sitter assigned.",
      "quote": "Georgie seems fine today, so we can plan on his evening walk."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Client message 7:16 PM",
-     "office": false,
-     "note": "A visiting dog will be loose in the house for the morning visit. Mary Ann wrote at 7:16 PM that her cousin's dog Tillie will be in the kitchen, that Tillie is a runner, and not to let her out. Mary Ann will be out at an appointment when the sitter arrives, so nobody will be home to help. Georgie already carries an escape-artist warning, so there are now two escape risks in the same house for that visit. The message is addressed to Monica, but the morning assignment is not confirmed in this mailbox.",
-     "quote": "My cousin’s dog, Tillie, will be in the kitchen. She’s a runner, so don’t let her out."
     }
    ],
    "dormant": false
@@ -2198,6 +2198,16 @@
      "office": false,
      "note": "New standing rule added to Important Notes at 2:51 PM. Comparing the Updated to and Previously blocks, this one bullet is the only change - everything else is unchanged. Nothing in the email says why.",
      "quote": "Do NOT allow Ripley to pee around flagpole in front yard"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 10",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Monica Hopewell's Nov 10 2 PM walk: Ripley spent much of the walk hunting crickets and grasshoppers. Single observation, not a standing rule, but worth watching given her Oct 22 loose stool after eating something she found. Stool was firm and healthy on this visit and the client was home.",
+     "quote": "Ripley spent a considerable amount of time on our walk hunting crickets and grasshoppers"
     },
     {
      "cat": "health",
