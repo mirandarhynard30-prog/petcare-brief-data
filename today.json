@@ -1,20 +1,8 @@
 {
- "generated": "2026-11-11T00:05:07-05:00",
+ "generated": "2026-11-11T09:05:07-05:00",
  "date": "2026-11-11",
  "label": "Nov 11, 2026",
  "clients": [
-  {
-   "name": "Angela Jozsa",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Margaret Bill",
-     "service": "Dog Visit-30 minute",
-     "pets": "Lucy"
-    }
-   ]
-  },
   {
    "name": "Anna Caraboolad",
    "visits": [
@@ -300,5 +288,5 @@
    ]
   }
  ],
- "visitCount": 28
+ "visitCount": 27
 }
