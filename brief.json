@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T15:20:09-05:00",
+ "generated": "2026-11-11T16:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3972,6 +3972,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 11",
+     "source": "Thomas Rakovec visit report, 11:17 AM",
+     "office": false,
+     "note": "Jaxson's Nov 11 #2 is logged two different ways in the same report and they disagree: the narrative says it was a little soft, while the report's consistency field was answered firm and healthy. Ambiguous - treat as a soft stool for watching purposes. Relevant because this follows the Oct 29 to Nov 10 run of missed and loose stools already on file. Sitter also brought a package in.",
+     "quote": "little soft but nice shape"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 10",
      "source": "Thomas Rakovec visit report, 11:41 AM Nov 10",
      "office": false,
@@ -4037,16 +4047,6 @@
      "office": true,
      "note": "Oct 30 visit: alarm was armed on arrival and Dan disarmed it without trouble, but he deliberately left it unset on departure, securing the house instead. Unclear whether that is the standing instruction for this home - worth confirming with Christi.",
      "quote": "I did not set it when I left, just made sure the house was secure"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Thomas Rakovec visit report 11:41 AM",
-     "office": false,
-     "note": "Jaxson went #1 several times on the Oct 29 walk but not #2, including a deliberate second try in the back yard. Fence closed, yard dry, water refreshed. Relevant because the record already carries a no-stool concern.",
-     "quote": "he went to the bathroom #1 ( several times) but didn't go #2"
     }
    ],
    "dormant": false
@@ -8197,6 +8197,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 11",
+     "source": "Client private message, 3:47 PM",
+     "office": true,
+     "note": "Medication change from the account manager: Sassie is OFF her anxiety medication. She now gets a spray applied to her behind (already being done by sitters) plus an over-the-counter ear medication. The message does not name either product, give a dose, or say when the anxiety medication stopped. Nothing beyond what the client wrote - do not infer a schedule.",
+     "quote": "Sassie is no longer taking her anxiety medication but gets a spray on her behind and an over counter ear medication"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 11",
+     "source": "Client private message, 3:47 PM",
+     "office": true,
+     "note": "Open question for the office in the same 3:47 PM message: the account manager asks whether Petcare Deluxe can administer Sassie's ear drops. No answer appears anywhere in the mail as of this run. Until the office replies and the instruction is written into Time To Pet, sitters have no ear-drop instruction.",
+     "quote": "I know you have been helping with the spray. Can you administer her ear drops? Thanks!"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -8295,16 +8315,6 @@
      "office": true,
      "note": "Client replies by private message to something the office proposed, agreeing to try it but worried it would confuse Sassie. The message does not say what was proposed and the proposal itself is not in this mailbox, so the office needs to check the private conversation thread before any handling change is passed to sitters. Note this client is also carried in the brief under the shorter name Gina Sullivan.",
      "quote": "We can try that but I am worried it could cause confusion with her."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Josh Stone visit report for Joan- Gina Sullivan",
-     "office": false,
-     "note": "Sassie dislikes rain. She wears a raincoat and the Nov 4 outing was cut to a potty break. She greets people in the building hallways.",
-     "quote": "not a fan of rain as I can tell"
     }
    ],
    "dormant": false
