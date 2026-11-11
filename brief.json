@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T17:20:05-05:00",
+ "generated": "2026-11-11T18:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1664,6 +1664,26 @@
     "Simba"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 11",
+     "source": "Client message (text into Time To Pet), 5:15 PM",
+     "office": true,
+     "note": "INSULIN DOSE CHANGE. Client messaged at 5:15 PM to say Buttercup's glucose went up again to 477 and the insulin dose is now 10 units twice a day. She says the new change will be on the fridge. She asks that a note be made. This supersedes the Oct 19 dose change. No office reply appears anywhere in the mail, and nothing shows the dose has been written into Time To Pet yet.",
+     "quote": "So insulin dosage will now be 10 units twice a day."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 11",
+     "source": "Client messages, 5:21-5:23 PM",
+     "office": true,
+     "note": "Open question from the client in the same run of messages: she asks whether this is normal and says the reading had been as low as 96 at one point. She writes 'He was doing so good' while the glucose message names Buttercup, so it is unclear whether she means Buttercup or another animal. The only reply in the mail is Robin Lewis at 5:47 PM, 'So sorry to hear that it changed' - sympathy, not an answer. The question is unanswered.",
+     "quote": "Is this not normal,???"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -8240,6 +8260,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 11",
+     "source": "Chrissy George visit report, 1:16 PM",
+     "office": true,
+     "note": "The Nov 11 midday visit report for Sassie is a walk report only - harness and leash on, three laps of the building, #1 and #2 with firm and healthy consistency, client was home during the visit. It does not mention the gland spray, the ear medicine, or any medication being given. Relevant because the account manager's 3:47 PM and 4:31 PM medication messages came in after this visit and still have no office reply.",
+     "quote": "She went number one and number two it was healthy."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 10",
      "source": "Josh Stone visit report, Nov 10 11:45 AM",
      "office": false,
@@ -8305,16 +8335,6 @@
      "office": false,
      "note": "On the Nov 4 visit the client was home and asked that the door not be locked on leaving.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Visit report from Josh Stone, Nov 4 afternoon",
-     "office": false,
-     "note": "Sassie dislikes rain. On Nov 4 her raincoat went on and, as the rain got heavier, the sitter kept it to a quick potty break rather than a full walk. She went #1 and #2 quickly, firm and healthy, and greeted neighbours in the hallway afterwards.",
-     "quote": "She’s not a fan of rain as I can tell!"
     }
    ],
    "dormant": false
