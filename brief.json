@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T09:20:06-05:00",
+ "generated": "2026-11-12T10:20:12-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3053,6 +3053,16 @@
      "cat": "home",
      "sev": "low",
      "type": "standing",
+     "date": "Nov 12",
+     "source": "Tiarra Roberts contact-information update, 9:24 AM ET",
+     "office": false,
+     "note": "The mailbox line gained a second instruction: as well as the street mailbox, check the front porch for packages. The rest of this morning's edit moved existing paw-wash and leash text between Pet Care and Company Notes without changing it.",
+     "quote": "Mailbox on street, check front porch for packages"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
      "date": "Nov 10",
      "source": "Tiarra Roberts updated contact information for Anna Caraboolad",
      "office": false,
@@ -3068,16 +3078,6 @@
      "office": false,
      "note": "Where the waste goes at this home: the sitter put the #2 bags in a designated small trash bin in the garage on the way back in. One sitter, one visit - not stated anywhere as a house rule.",
      "quote": "I put the #2 bags into the designated small trash bin"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Tiarra Roberts visit report 1:07 PM",
-     "office": false,
-     "note": "The leash had no waste bags left on it. The sitter restocked it from a roll of poop bags she found in the mailbox. Worth checking the leash supply at the next visit.",
-     "quote": "I saw there were no #2 bags, so I added the ones that were in the mailbox, to the leash."
     }
    ],
    "dormant": false
@@ -6114,6 +6114,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 12",
+     "source": "Tiarra Roberts contact-information update, 9:18 AM ET",
+     "office": false,
+     "note": "Water handling, which the Nov 8 edit had left vague, is spelled out again: a white bowl for Odie on the kitchen counter by the back door with food pieces added, plus a large stainless steel bowl near the treat station. The note no longer says to pick the bowl up before leaving.",
+     "quote": "White water bowl for Odie is on kitchen counter, by back door (add food pieces)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Tiarra Roberts contact-information update, 9:18 AM ET",
+     "office": false,
+     "note": "The muzzle rule is reworded to be clearer about timing: Odie's muzzle comes off at the END of the visit and he goes into the crate without it. The previous wording said take it off at the visit and crate him when you leave.",
+     "quote": "Muzzle will be on Odie, please take off at end of visit and put him in crate WITHOUT muzzle"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
      "date": "Nov 8",
      "source": "Tiarra Roberts updated contact information, Nov 8 10:26 AM",
      "office": true,
@@ -6139,26 +6159,6 @@
      "office": false,
      "note": "Odie and Zeno can go out in the backyard, but Griswold must be taken out on leash. Leash is on the table by the front door.",
      "quote": "MUST be taken out on leash"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 8",
-     "source": "Visit report - Tiarra Roberts",
-     "office": false,
-     "note": "Zeno was digging in the fence corner during the Sunday visit while the neighbours' kids were on their trampoline and the neighbour dog was at the fence. Sitter had to go get him out of that corner.",
-     "quote": "When Zeno was in corner, by fence where trampoline and neighbor dog was, he was digging, a bit."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 8",
-     "source": "Visit report - Tiarra Roberts",
-     "office": true,
-     "note": "Sitter asked whether ball or toy play is safe with Zeno given his food aggression - she held off rather than risk it. Needs an answer from the office or client.",
-     "quote": "I thought about playing ball, but I didn't want to agrevate Zeno"
     }
    ],
    "dormant": false
@@ -7320,6 +7320,26 @@
    "pets": [],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Tiarra Roberts contact-information update, 9:47-9:50 AM ET",
+     "office": false,
+     "note": "New first line of the Pet Care Note: the cats are an escape risk and sitters should be careful around exterior doors. Nothing in the previous version of the note mentioned escape risk at all.",
+     "quote": "Escape risk; be aware around exterior doors"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Tiarra Roberts contact-information update, 9:47-9:50 AM ET",
+     "office": false,
+     "note": "Shoes come off before entering this home. Added to the Pet Care Note this morning.",
+     "quote": "Remove shoes before entering"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -7358,6 +7378,16 @@
      "office": true,
      "note": "Follow-up to her earlier unanswered request to speak with someone. She says she did not realise her first message went into a group chat, works from home and can take a call almost any time except during meetings, but needs a specific agreed day and time because she does not answer unknown numbers. The office has to propose a slot - she will not pick up a cold call. What she wants to discuss is still not stated in this mailbox.",
      "quote": "I work from home and can speak most any time barring meetings. I'd just need an agreed upon day/time"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Tiarra Roberts contact-information update, 9:47-9:50 AM ET",
+     "office": false,
+     "note": "Where to look for the cats if they are not visible: the office trundle-bed drawer, under the bedroom bed, and the basement.",
+     "quote": "Hiding spots: Office (drawer of trundle bed), Bedroom (under bed), Basement"
     },
     {
      "cat": "behavior",
@@ -7829,6 +7859,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Tiarra Roberts contact-information update, 10:05 AM ET",
+     "office": false,
+     "note": "Penny's morning medicine is now named in the Pet Care Note: Rimadyl, half a tablet in the morning. Earlier notes only said half of an unnamed medicine kept on the kitchen island counter, so this closes that gap. Dose and timing come from the note, not from a vet instruction in the mail.",
+     "quote": "Meds (dog): Rimadyl for Penny, Give Penny 1/2 tablet in morning"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -7857,6 +7897,16 @@
      "office": false,
      "note": "Garage doors must be closed firmly on the way out. Sent as a separate follow-up message right after the meet-and-greet notes.",
      "quote": "Firmly close garage doors!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Tiarra Roberts contact-information update, 10:05 AM ET",
+     "office": false,
+     "note": "Important Notes now open with backyard-visits-only and the mailbox being on the street. Both lines were added to the Pet Care Note during this morning's run of edits; backyard-only previously sat in Company Notes.",
+     "quote": "Backyard visits ONLY"
     },
     {
      "cat": "health",
@@ -7927,26 +7977,6 @@
      "office": false,
      "note": "The mini door to the upstairs litterbox stays propped open. Extra litter is in the laundry room.",
      "quote": "Keep litterbox black door open mini door, upstairs"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Time To Pet pet added 1:24 PM",
-     "office": true,
-     "note": "Client added a pet named Penney Rueo at 1:24 PM. No species, age, feeding or handling detail supplied yet - pet care note needs completing before any visit.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
-     "office": false,
-     "note": "One cat treat tube only, served on the cat plate on the kitchen table. The note does not make clear whether Purrly is a pet name or the treat brand.",
-     "quote": "Feed Purrly cat treat tube on cat plate on kitchen table, 1 tube only"
     }
    ],
    "dormant": false
@@ -8180,6 +8210,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 12",
+     "source": "Chrissy George visit report, 10:05 AM ET",
+     "office": true,
+     "note": "Today's morning visit report for Sassie covers the walk only - rain coat, harness and leash, one lap of the building, #1 and #2 firm and healthy, a treat and petting. It makes no mention of the gland spray or the ear medicine the account manager wrote about on Nov 11, so the mail does not show whether either was given at this visit.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 11",
      "source": "Chrissy George visit report, 1:16 PM",
      "office": true,
@@ -8245,16 +8285,6 @@
      "office": false,
      "note": "Sassie is getting older with more health issues; client flags possible incontinence and says she saw the vet Saturday. No diagnosis or medication given in the message.",
      "quote": "She possibly could have incontinence Just an FYI. She went to the vet Saturday."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 8",
-     "source": "Client private message",
-     "office": true,
-     "note": "Account manager is still waiting on full coverage for this client's visits.",
-     "quote": "I hope we can get full coverage soon."
     }
    ],
    "dormant": false
