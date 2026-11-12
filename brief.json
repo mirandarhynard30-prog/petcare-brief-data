@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T16:20:11-05:00",
+ "generated": "2026-11-12T17:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -517,6 +517,16 @@
      "office": false,
      "note": "The off-limits food list is longer than one flavour. As well as the Whitefish Tuna not agreeing with Sampson, the client says he will not eat the liver one or the giblet one, and she deliberately did not leave either out.",
      "quote": "He also does not like the liver one and giblet one."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 12",
+     "source": "Client message, Nov 12 4:21 PM",
+     "office": true,
+     "note": "Client messaged that they are driving home and expect to arrive about 5:01 PM Nov 12. Check whether any later visits today should be dropped. The mail does not say which visits or how long they were away.",
+     "quote": "We are still on the road in traffic.We should be there at 5;01 pm."
     },
     {
      "cat": "health",
