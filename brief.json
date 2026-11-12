@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T14:20:07-05:00",
+ "generated": "2026-11-12T15:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -674,6 +674,26 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 12",
+     "source": "Angela Jozsa private message, 2:48 PM Nov 12 (signed Carol)",
+     "office": true,
+     "note": "Client (signs as Carol) asks by private message at 2:48 PM for an EXTRA walk for Lucy TODAY at about 3:30 or 4:00 PM because she has to stay at work later than expected. She calls it last-minute and a bit of an emergency. Nothing in the mail shows what the office offered or who was assigned.",
+     "quote": "Is there anyway that we could get somebody over there to walk Lucy today at about 330 or 4 o’clock?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 12",
+     "source": "Angela Jozsa private message, 2:59 PM Nov 12",
+     "office": true,
+     "note": "Eleven minutes after her 2:48 PM extra-walk request the client writes that the arrangement works, so something was offered. The agreed time and sitter are not in the mail, so the added visit still needs to be on the scheduler and a sitter confirmed.",
+     "quote": "ok that work!! Thank you very much!!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 11",
      "source": "Client private message 4:30 AM ET Nov 11",
      "office": true,
@@ -769,26 +789,6 @@
      "office": false,
      "note": "Leash routine changed. New rule: Lucy waits in the pen, and once she comes out of the gate you put her collar and leash on - the old rule was to attach the leash to her harness BEFORE letting her out. Keep the leash on afterwards to guide her back, tell her to go in her pen and give a treat, then take collar and leash OFF before she goes in the pen (previously the harness stayed on). Unchanged: if she will not walk, say \"let's go get it\" or \"Ok, lets run!\", and Dan may be home during visits.",
      "quote": "Once she comes out of the gate, put her collar and leash on"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 19",
-     "source": "Client message from Angela Jozsa, Oct 19 12:12 PM",
-     "office": false,
-     "note": "The Ollie hand-feeding rule is cancelled. The client now says sitters do not need to try to give Lucy the Ollie at all - she has decided to give it herself at night so Lucy is hungry and eats it, and she credits that change for Lucy's healthier stool. This replaces the Oct 15 instruction to hand feed it.",
-     "quote": "you don’t have to worry about trying to give her Ollie anymore"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 12",
-     "source": "Margaret Bill visit report, 12:00 PM",
-     "office": false,
-     "note": "Lucy's pen gate was open when Margaret Bill arrived for the Nov 12 midday visit and Lucy came running to her. The same report says the client was home during the visit and asked that the door not be locked, so whether the gate was left open deliberately is not stated either way. Expect the possibility of a loose dog at the gate on arrival.",
-     "quote": "Lucy's gate was open, and she came running."
     }
    ],
    "dormant": false
@@ -2153,6 +2153,16 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Nov 12",
+     "source": "Kristin Ashick visit report, 1:35 PM Nov 12",
+     "office": false,
+     "note": "Kristin Ashick's early-afternoon report logs Ripley going #1 only; the report carries no #2 question at all. Third report since Oct 23 with no #2 recorded, after Oct 23 and Nov 9. The rest of the visit was normal - jogged in the rain, towelled off, treat, water refreshed.",
+     "quote": "she did some sniffing and went number one"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Nov 11",
      "source": "Tiarra Roberts visit report, 2:40 PM",
      "office": false,
@@ -2168,16 +2178,6 @@
      "office": false,
      "note": "Monica Hopewell's Nov 10 2 PM walk: Ripley spent much of the walk hunting crickets and grasshoppers. Single observation, not a standing rule, but worth watching given her Oct 22 loose stool after eating something she found. Stool was firm and healthy on this visit and the client was home.",
      "quote": "Ripley spent a considerable amount of time on our walk hunting crickets and grasshoppers"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 9",
-     "source": "Monica Hopewell visit report",
-     "office": false,
-     "note": "Ripley went #1 on the Nov 9 midday walk but no #2 (report field: 'No #2 today'). Single observation, not a pattern.",
-     "quote": "She only went number one today."
     }
    ],
    "dormant": false
@@ -8261,6 +8261,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 12",
+     "source": "Josh Stone visit report, 2:38 PM Nov 12",
+     "office": true,
+     "note": "Josh Stone's 2:38 PM report is a walk report only - harness on, hallways walked because of the rain, water refreshed, a treat, #1 and #2 both firm and healthy. Neither the gland spray nor the ear drops is mentioned anywhere in it. Second report today with no medication entry, and the Nov 11 ear-drop question is still unanswered.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 11",
      "source": "Chrissy George visit report, 1:16 PM",
      "office": true,
@@ -8316,16 +8326,6 @@
      "office": true,
      "note": "The Nov 10 evening sitter topped off Sassie's water before leaving, and logged #1 and #2 both normal and medication administered. The midday sitter that same day had instead limited her water. Nothing in the mail states what the actual water rule for Sassie is, so this is ambiguous and needs the office to settle it rather than leaving each sitter to judge.",
      "quote": "I topped off her water before leaving."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 8",
-     "source": "Client private message",
-     "office": false,
-     "note": "Sassie is getting older with more health issues; client flags possible incontinence and says she saw the vet Saturday. No diagnosis or medication given in the message.",
-     "quote": "She possibly could have incontinence Just an FYI. She went to the vet Saturday."
     }
    ],
    "dormant": false
