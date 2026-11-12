@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T11:20:09-05:00",
+ "generated": "2026-11-12T12:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -779,6 +779,16 @@
      "office": false,
      "note": "The Ollie hand-feeding rule is cancelled. The client now says sitters do not need to try to give Lucy the Ollie at all - she has decided to give it herself at night so Lucy is hungry and eats it, and she credits that change for Lucy's healthier stool. This replaces the Oct 15 instruction to hand feed it.",
      "quote": "you don’t have to worry about trying to give her Ollie anymore"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 12",
+     "source": "Margaret Bill visit report, 12:00 PM",
+     "office": false,
+     "note": "Lucy's pen gate was open when Margaret Bill arrived for the Nov 12 midday visit and Lucy came running to her. The same report says the client was home during the visit and asked that the door not be locked, so whether the gate was left open deliberately is not stated either way. Expect the possibility of a loose dog at the gate on arrival.",
+     "quote": "Lucy's gate was open, and she came running."
     }
    ],
    "dormant": false
@@ -3441,6 +3451,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 12",
+     "source": "Kiara Streety visit report, 11:41 AM",
+     "office": true,
+     "note": "Kiara Streety again found wet food sitting out on the table, covered, on the Nov 12 late-morning visit; she used that food and put it in the fridge. This is the third report since Oct 22 describing wet food left out on the table or in an open can and a sitter deciding what to do with it. No written rule covers it, so the office should settle with Marcia what sitters do with food already out.",
+     "quote": "Saw some food already out covered laying on the table"
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -3972,6 +3992,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 12",
+     "source": "Thomas Rakovec visit report, 11:40 AM",
+     "office": false,
+     "note": "Jaxson's Nov 12 midday #2 is described the same way in both places in the report for once: the narrative calls it pretty solid and the consistency field is logged as firm and healthy. He went #1 on a short walk cut off by heavier rain, then #2 in the back yard once it eased. The client said on Nov 11 that he is mid food change, so this is the stool the office was watching for.",
+     "quote": "pretty solid"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 11",
      "source": "Thomas Rakovec visit report, 11:17 AM",
      "office": false,
@@ -4037,16 +4067,6 @@
      "office": false,
      "note": "Nov 3 visit: Jaxson went #1 several times on the walk and then went #2 once back home, running around outside; the consistency field was logged as firm and healthy. That fits the client's own standing note that he will only poop in his own yard or backyard, and it is the first #2 recorded for him in November.",
      "quote": "Jax ran around and went #2"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Jaxson went #2 in the backyard on the Oct 30 visit, after none was logged on Oct 29; Dan answered the consistency question \"It was a little loose but not concerning\".",
-     "quote": ""
     }
    ],
    "dormant": false
