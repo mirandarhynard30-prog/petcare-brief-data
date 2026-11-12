@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T00:05:10-05:00",
+ "generated": "2026-11-12T12:35:20-05:00",
  "date": "2026-11-12",
  "label": "Nov 12, 2026",
  "clients": [
@@ -67,30 +67,6 @@
      "staff": "Josh Stone",
      "service": "Dog Visit-45 minute",
      "pets": "Sassie"
-    }
-   ]
-  },
-  {
-   "name": "Lynne  Reno",
-   "visits": [
-    {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Kathy Sullenberger",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "Holly"
-    }
-   ]
-  },
-  {
-   "name": "Marcella Singer",
-   "visits": [
-    {
-     "time": "6:30 PM",
-     "sort": "1830",
-     "staff": "Robin Lewis",
-     "service": "Cat Visit-30 Minutes",
-     "pets": "Buttercup, Sandy, Simba, Misty"
     }
    ]
   },
@@ -262,5 +238,5 @@
    ]
   }
  ],
- "visitCount": 24
+ "visitCount": 22
 }
