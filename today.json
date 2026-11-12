@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T12:35:20-05:00",
+ "generated": "2026-11-12T15:05:09-05:00",
  "date": "2026-11-12",
  "label": "Nov 12, 2026",
  "clients": [
@@ -11,6 +11,13 @@
      "sort": "1100",
      "staff": "Margaret Bill",
      "service": "Dog Visit-30 minute",
+     "pets": "Lucy"
+    },
+    {
+     "time": "3:45 PM",
+     "sort": "1545",
+     "staff": "Margaret Bill",
+     "service": "Last Minute Visit- 30 minute",
      "pets": "Lucy"
     }
    ]
@@ -238,5 +245,5 @@
    ]
   }
  ],
- "visitCount": 22
+ "visitCount": 23
 }
