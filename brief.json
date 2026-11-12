@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T15:20:05-05:00",
+ "generated": "2026-11-12T16:20:11-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -694,6 +694,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 12",
+     "source": "Margaret Bill message to client, 3:36 PM",
+     "office": false,
+     "note": "The extra walk is covered. After the client's 2:48 PM emergency request for a walk around 3:30-4:00 PM today, Margaret Bill messaged the client at 3:36 PM that she was leaving with a 3:50 PM ETA. No office action needed on coverage.",
+     "quote": "Hi Carol! My ETA is 3:50pm. Leaving now."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 11",
      "source": "Client private message 4:30 AM ET Nov 11",
      "office": true,
@@ -779,16 +789,6 @@
      "office": true,
      "note": "Client (signs as Carol) is cancelling service for Monday Oct 26. Needs to be taken off the schedule.",
      "quote": "I am going to cancel service for next Monday!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 19",
-     "source": "Important Notes updated by Margaret Bill 8:56 AM",
-     "office": false,
-     "note": "Leash routine changed. New rule: Lucy waits in the pen, and once she comes out of the gate you put her collar and leash on - the old rule was to attach the leash to her harness BEFORE letting her out. Keep the leash on afterwards to guide her back, tell her to go in her pen and give a treat, then take collar and leash OFF before she goes in the pen (previously the harness stayed on). Unchanged: if she will not walk, say \"let's go get it\" or \"Ok, lets run!\", and Dan may be home during visits.",
-     "quote": "Once she comes out of the gate, put her collar and leash on"
     }
    ],
    "dormant": false
@@ -8491,9 +8491,40 @@
    "url": "https://www.timetopet.com/dashboard/client/to74ys4qFqPi",
    "pets": [
     "Lola",
-    "Luke"
+    "Luke",
+    "Luc"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
+     "office": false,
+     "note": "ESCAPE RISK recorded for both dogs - keep doors and gates closed. Triggers are squirrels and deer. The note says that if either dog does get out they will come home.",
+     "quote": "ESCAPE RISK: keep doors/gates closed"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
+     "office": false,
+     "note": "Walking hazard: the note warns to be cautious going to the left, because a neighbour's Newfoundland is aggressive and runs loose.",
+     "quote": "a neighbor has a Newfoundland who is aggressive and will be running loose"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
+     "office": false,
+     "note": "Lola has Cushing's disease and drinks a lot of water. Expect heavy water intake and more frequent urination; keep the water bowl filled.",
+     "quote": "lola drinks a lot of water due to Cushing's disease"
+    },
     {
      "cat": "home",
      "sev": "medium",
@@ -8505,6 +8536,46 @@
      "quote": "I HAVE TAKEN PICTURES OF WHERE THINGS ARE LOCATED AND ATTACHED THEM"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
+     "office": false,
+     "note": "Luc may need his anal glands expressed if he is scooting. The note does not say who does this or whether sitters should only report it, so that is unresolved.",
+     "quote": "Luc may need anal gland expressed if scooting"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
+     "office": false,
+     "note": "Leash and harness setup: leashes hang by the back door, both blue, Lola's is the shorter one. Harness on the table by the leashes, and a prong collar that goes on with the prong side inside. Lola has a small harness. Front legs into the front harness, press together so the rings meet, then attach the leash.",
+     "quote": "Collar side with prongs on inside, lola has a small harness"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
+     "office": true,
+     "note": "Commands: both dogs know stay, sit and come. The note then says \"lucy can't hear well\", but the two dogs on this record are Lola and Luc, so which dog is hard of hearing is unclear - most likely Luc, but it needs confirming before a sitter relies on it.",
+     "quote": "both know stay, sit, come, lucy can't hear well"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
+     "office": false,
+     "note": "Arrival: the client is sometimes home, so let yourself in and leash the dog. The house alarm is not used during the day. Park in the drive closest to the front door.",
+     "quote": "Client is sometimes home: enter home and leash pet"
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "standing",
@@ -8513,6 +8584,16 @@
      "office": false,
      "note": "Brand-new client; today's 1:00 PM appointment was her meet and greet, attended by both Margaret Bill and Chrissy George. Two dogs, Lola and Luke - Margaret Bill spells the second name Luc - and both sitters describe them as very nice dogs. No visit history before today.",
      "quote": "it was great meeting you and lola and Luke too. They are very nice dogs"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
+     "office": false,
+     "note": "Supplies: poop bags are attached to the leash with spares in the dog cupboard, disposal is the metal container on the porch, water bowl is left of the kitchen counter, treats are in the small pet cupboard by the kitchen, cleaning supplies under the kitchen sink.",
+     "quote": "Poop bag disposal: in metal container on porch"
     }
    ],
    "dormant": false
