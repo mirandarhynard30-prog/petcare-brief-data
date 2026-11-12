@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T18:20:08-05:00",
+ "generated": "2026-11-12T09:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -651,26 +651,6 @@
      "quote": "CJ had a toy that made a little nervous about how small it was getting so I placed it in the counter"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Monica Hopewell visit report",
-     "office": false,
-     "note": "On the walk both dogs reacted loudly to two other dogs passing and were frustrated at not being allowed to greet them. One walk, one observation.",
-     "quote": "very very vocal about not getting to say hi"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Monica Hopewell visit report",
-     "office": false,
-     "note": "Potty accident in the house found and cleaned up by the sitter; before and after photos are in the report.",
-     "quote": "There was a potty accident and I cleaned it up"
-    },
-    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -779,16 +759,6 @@
      "office": true,
      "note": "Client (signs as Carol) is cancelling service for Monday Oct 26. Needs to be taken off the schedule.",
      "quote": "I am going to cancel service for next Monday!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Angela Jozsa private message, Oct 21 9:05 AM ET",
-     "office": true,
-     "note": "Withdrew her reschedule request - today's Lucy walk stays at 12:15, no change needed. She had chased at 8:17 AM asking for whoever was coming to arrive around 1:00; this message supersedes that. Nothing in this mailbox shows the office replied to either message.",
-     "quote": "Ok we will just keep it at 12:15. Thank you for trying!!"
     },
     {
      "cat": "behavior",
@@ -3418,16 +3388,6 @@
      "office": false,
      "note": "Muffy still pulls on leash; the harness makes a noticeable difference but pulling is an ongoing work-in-progress. She walked well on her heel around the pond.",
      "quote": "I noticed the difference right away with the harness on but we're still working on her pulling"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Muffy's #2 is recorded two different ways in the same report: the free text says it was just fine, the report form field says a little loose but not concerning. Ambiguous - not clearly a problem.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -6393,36 +6353,6 @@
      "office": false,
      "note": "Zoey went #2 on the final afternoon visit and the consistency field reads firm and healthy. That is the first clean stool reading logged for her since the Oct 19 diarrhea, so the open question on Zoey's stool looks answered.",
      "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Alex Miller visit report, Oct 21 9:39 AM",
-     "office": true,
-     "note": "Wet food ran out at the Oct 21 morning visit. Alex Miller fed dry plus the last of the wet and asked the client where to get more before the afternoon visit; Kiara Streety sent a separate message saying the same. No answer from the client yet, so the afternoon sitter has no instruction.",
-     "quote": "Wet food is out today, would you be able to tell us where we can get more for their afternoon visit?"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Nicole Smith message",
-     "office": false,
-     "note": "Nicole answered this morning's out-of-wet-food question: a spare pack is in the freezer.",
-     "quote": "There should be another pack in the freezer!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Nicole Smith message",
-     "office": false,
-     "note": "Nicole's handling instruction for the frozen wet food, sent in a separate message: do not defrost; she usually leaves it on the counter 10-15 minutes then stores it in the fridge. For today specifically she asked for dry food only this afternoon and both foods again in the morning.",
-     "quote": "If it’s frozen could just leave it in the fridge overnight and do dry food only this afternoon and both again in the morning."
     }
    ],
    "dormant": false
@@ -7037,16 +6967,6 @@
      "office": false,
      "note": "Client message this morning about the midday feed: Ollie may not finish all of his lunch, and if he does not it is fine to take the food out of his crate before he goes back in for the afternoon. This adds to the existing midday feed-then-crate routine rather than replacing it.",
      "quote": "He may not finish all of his lunch but if he does not it is okay to take it out of his crate"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 21",
-     "source": "Margaret Bill visit report 3:28 PM",
-     "office": true,
-     "note": "Ollie finished everything in his bowl at the afternoon visit and the sitter topped it up with a little more, then asked Clara to confirm whether that is wanted. No answer from Clara yet, so the standing portion size is unconfirmed - office should get a yes or no before the next feeding visit.",
-     "quote": "He ate all of the food in his bowl so I gave him a little more."
     },
     {
      "cat": "behavior",
@@ -8270,6 +8190,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 11",
+     "source": "Kristin Aldridge evening visit report, Nov 11 7:05 PM",
+     "office": true,
+     "note": "First visit report after the account manager's Nov 11 medication messages. Kristin Aldridge's Nov 11 evening report says she assisted with medication. The report does not say which medication, so it is not clear whether this was the gland spray, the ear medicine, or something else - and the account manager's 3:47 PM question about whether sitters may give the ear drops still has no reply in the mail. Office should confirm what was actually given before the next visit.",
+     "quote": "When we got back in, I topped off her water and assisted with medication."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 10",
      "source": "Josh Stone visit report, Nov 10 11:45 AM",
      "office": false,
@@ -8325,16 +8255,6 @@
      "office": true,
      "note": "Account manager is still waiting on full coverage for this client's visits.",
      "quote": "I hope we can get full coverage soon."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Josh Stone visit report for Joan- Gina Sullivan",
-     "office": false,
-     "note": "On the Nov 4 visit the client was home and asked that the door not be locked on leaving.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
