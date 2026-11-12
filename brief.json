@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T10:20:12-05:00",
+ "generated": "2026-11-12T11:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1635,6 +1635,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 12",
+     "source": "Client message via text, 11:06 AM",
+     "office": true,
+     "note": "Client pushed the next visit back to Monday - she is shampooing the carpet and says it will still be wet. Robin Lewis replied 'Ok thank you for letting me know' at 11:07 AM, so it is acknowledged but the schedule itself still needs changing.",
+     "quote": "We can wait till Monday."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -3148,6 +3158,16 @@
      "office": true,
      "note": "Ray wrote in to ask that the office NOT take his current walker off Archie's walks - he says Archie and he are both comfortable with him and neither likes change. He names the walker as 'Tommy'; the sitter currently walking Archie in these reports is Thomas Rakovec, so that is almost certainly who he means, but the email does not spell the name out. Office should treat this as a staffing instruction and confirm back to him.",
      "quote": "I would not like you to keep Tommy from walking Archie. Archie and I don’t like change."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 12",
+     "source": "Thomas Rakovec visit report, 10:11 AM",
+     "office": false,
+     "note": "Ray was home for the Nov 12 walk and asked that the door not be locked on the way out. Archie walked fine, went #1 only.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
     },
     {
      "cat": "health",
