@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T17:20:05-05:00",
+ "generated": "2026-11-13T05:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -477,26 +477,6 @@
      "office": false,
      "note": "Two new standing warnings about Gordy were added to the Important Notes: he can be reactive with other dogs, and he pulls on leash and pulls to the right. Give other dogs a wide berth and expect to brace against the pull.",
      "quote": "Gordy can be reactive with other dogs"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Margaret Bill rewrote the Important Notes and Company Notes at 3:54 PM",
-     "office": true,
-     "note": "The same rewrite removed Sampson the cat from the record entirely. His feeding schedule, his Methimazole thyroid dose, his litter box routine and the food restrictions are all gone, and the Company Notes pet list now reads Gordy only. The rewrite does not say why, so this is not stated outright, but it fits the Oct 15 note that pointed to a euthanasia appointment. Treat every earlier Sampson medication, feeding and litter item as no longer in force, and confirm with the office before acting on any of them. The morning kitchen-sink-light reminder was also dropped.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Margaret Bill visit report 11:02 AM",
-     "office": true,
-     "note": "Gordy went #2 twice on the Oct 22 morning walk and the consistency field was logged as loose again. This is the third loose-stool day inside the window after two reports on Oct 20, so the office should check in with Anna Marie rather than treat it as a one-off. The sitter judged it not concerning on the day.",
-     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "health",
@@ -2140,16 +2120,6 @@
      "quote": "She went #1."
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Client message, 12:40 PM",
-     "office": false,
-     "note": "Client reports the dog has needed to go out 3 times with loose bowel movements and thinks she ate a contractor's leftover sandwich thrown in the woods. He flags it as FYI only and asks nothing. He writes 'she' and does not name the dog, so which of Ripley or Luna is affected is not stated. Expect extra potty breaks and watch for worsening.",
-     "quote": "She has had to go out 3 times bc of loose bowel movements"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -2607,16 +2577,6 @@
      "office": false,
      "note": "Client message this morning: cleaners are at the house today, so Milo is out at daycare and Archer is shut in the upstairs guest bedroom. Expect only Archer on site and expect him behind that door; cleaners may also be present.",
      "quote": "Since the cleaners are coming today, Milo is at daycare and Archer is in the guest bedroom upstairs"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Kiara Streety visit report",
-     "office": true,
-     "note": "Milo had diarrhea again on the Oct 22 visit - very loose, hard to pick up. Kiara writes she was told it has been going on for more than one day. Archer's stool was firm. Who told her, and how many days it has run, is not stated in the email.",
-     "quote": "Milo still has diarrhea and I have been told he has been having it"
     },
     {
      "cat": "behavior",
@@ -3493,26 +3453,6 @@
     {
      "cat": "home",
      "sev": "low",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "Marcia was home during the morning visit and a caregiver was in the house as well; the sitter spoke with both. Expect people in the home on arrival. Freddy's leftover wet food is kept in the refrigerator to reuse.",
-     "quote": "I came in and spoke to the caregiver and Marcia they both were having conversations with each other!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "Marcia and a caregiver were both home during the Oct 22 visit. Freddy's unused wet food was left in the refrigerator for the next visit.",
-     "quote": "The food left to reuse is in the refrigerator!"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
      "type": "standing",
      "date": "Sep 17",
      "source": "Marcia Ontell private message, 1:58pm",
@@ -4220,16 +4160,6 @@
      "office": false,
      "note": "At the Oct 24 evening visit Lucy did not finish the peanut butter her pills are hidden in - she left some on the spoon. Elizabeth Sigler checked the leftover for pill fragments before wiping the spoon off, and reported none, so the dose was taken. Worth a look at the spoon on any visit where she leaves some, since a missed pill would not be obvious otherwise.",
      "quote": "She left a little on the spoon, so I checked to make sure the leftover peanut butter didn’t contain any pill fragments"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Elizabeth Sigler visit report",
-     "office": false,
-     "note": "Sitter is tracking the downstairs cat auto-feeder level visit to visit to confirm it is actually dispensing. No fault reported yet - next sitter should note the level too.",
-     "quote": "I took note of how much cat food is in the auto feeder so that I can compare next time I am over"
     },
     {
      "cat": "home",
@@ -5749,16 +5679,6 @@
      "quote": "we lost the hedgehog a few months ago, so there will just be two dogs, two cats and a hamster to visit!"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Client message, 3:17 PM",
-     "office": true,
-     "note": "Second ask for Thanksgiving cover and still nothing confirmed back to her. Ellen says she wrote several weeks ago and never got an answer, and has now sent the exact schedule she needs: Wed Nov 25 - 10am let out, 4pm feed and out, 9pm let out; Thu, Fri and Sat - 8am feed and out, 4pm feed and out, 9pm let out; Sun Nov 29 - 8am feed and out, 4pm feed and out. She notes they should be home before 9pm, and Sunday's list has no late visit. Two dogs, two cats and a hamster. Needs a yes or no from the office.",
-     "quote": "I never received a confirmation that you could do this."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -6406,7 +6326,7 @@
      "quote": "It was firm and healthy"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Kim Knight",
@@ -7211,16 +7131,6 @@
      "quote": "she said one of the dogs peed in the living room"
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 22",
-     "source": "Client message",
-     "office": false,
-     "note": "Jennifer messaged at 8:17 AM that her 11-year-old likely left the front door unlocked, so it would probably be unlocked on arrival for today's visit. Sitter Chrissy George replied at 8:21 AM that the team would lock it up when finished with the visit. No code or key detail given, and nothing indicates a standing access change.",
-     "quote": "I believe my 11 year-old forgot to lock the door so it will probably be unlocked when you get there."
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -7960,6 +7870,16 @@
      "quote": "Firmly close garage doors!"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Client private message, Nov 13 1:45 AM",
+     "office": true,
+     "note": "Client says she finished uploading pet profiles and added the times still needed in the portal, and asks the office to confirm it came through on our end. Which dates and times she added is not stated in the message - check the portal and reply to her.",
+     "quote": "I can't remember how you explained the scheduling, so I wanted to make sure you got it on your end."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -8018,16 +7938,6 @@
      "office": false,
      "note": "Both cats hide - Stash is the black one, Bean the calico; they go behind the couch and under the bed.",
      "quote": "Cats- Stash (black)/Bean (calico) hide behind couch"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
-     "office": false,
-     "note": "Feeding stations are spread out: Bean's bowl on the kitchen table, Stash's on the living room coffee table, and three water fountains - front room, game room and dining room - filled from the fridge water.",
-     "quote": "Bean's bowl on kitchen table"
     }
    ],
    "dormant": false
