@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T16:20:05-05:00",
+ "generated": "2026-11-13T17:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -274,6 +274,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Margaret Bill visit report, Nov 13 12:31 PM ET",
+     "office": false,
+     "note": "Margaret Bill's Nov 13 late-morning walk report says Puck's #2 was loose and that there was a lot of it. Puck held it until the last apartment house before going. This is the first loose stool recorded for Puck - the brief's existing stool history is for Rusty.",
+     "quote": "Her number two was loose, and there was a lot of it."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -382,16 +392,6 @@
      "office": false,
      "note": "Standing notes as of the Oct 14 update: both dogs are an escape risk, Puck's trigger is loud noises and she will run for the building, and the dogs are kept in the back left bedroom.",
      "quote": "Puck trigger: loud noises, will run for building"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Mary Gilmore client message 2:57pm",
-     "office": false,
-     "note": "Feeding amounts confirmed by the client. Shannon Anderson asked at 2:41pm whether Rusty gets 3 cups and Puck 3/4 cup; Mary answered at 2:57pm and added that Puck's food is on the left and Rusty's on the right. Her reply does not restate the numbers itself, so the container sides are certain and the amounts are confirmed only by her agreeing to the sitter's question.",
-     "quote": "Yup! Pucks food is on the left and rustys is on the right"
     }
    ],
    "dormant": false
@@ -1068,6 +1068,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "recent",
+     "date": "Nov 12",
+     "source": "Client message, Nov 12 12:13 PM ET",
+     "office": false,
+     "note": "The client reports that Georgie did eventually eat on Nov 12 and that his pill went down hidden in his food. This is three days after the Nov 9 dental extraction and follows the extra work the sitter put in that visit. The client states it once; it is not yet a standing instruction on how to give the pill.",
+     "quote": "Georgie finally ate (pill was hidden in his food), so now he is ready for a nap."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "standing",
      "date": "Nov 10",
      "source": "Tiarra Roberts message",
@@ -1174,16 +1184,6 @@
      "office": false,
      "note": "Oct 27 morning walk was deliberately slower and shorter to protect Georgie's leg. The sitter says the leg was hurt 'yesterday'; the only injury recorded in this mailbox is the Oct 25 8 PM walk, so this may be loose dating rather than a second injury. He went both #1 and #2 and the consistency field reads firm and healthy.",
      "quote": "I just wanted to be careful with Georgie today since his leg was hurt yesterday so we did take a slower walk"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Client private message 12:09 PM",
-     "office": true,
-     "note": "Client says Georgie is fine today and the evening walk is back on, after she cancelled the Monday morning walk late Sunday night for a twisted leg. Office needs to confirm the evening visit is still on the schedule with a sitter assigned.",
-     "quote": "Georgie seems fine today, so we can plan on his evening walk."
     }
    ],
    "dormant": false
@@ -3609,6 +3609,26 @@
      "office": false,
      "note": "Client asks every sitter to double-check the door is locked before leaving after Aayla's walk. She found it left unlocked on Aug 27. She raised it warmly and followed up saying she appreciates the team, so this is a standing check, not a complaint to resolve.",
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Chrissy George visit report, Nov 13 11:39 AM ET",
+     "office": false,
+     "note": "Aayla cut the Nov 13 morning walk short - one loop around the complex and then she wanted to go home. It was very cold and sprinkling when they set out, and the rain stopped halfway. She drank water on getting back in.",
+     "quote": "Then she wanted to come home after we did one walk around the complex."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Chrissy George visit report, Nov 13 11:39 AM ET",
+     "office": false,
+     "note": "Aayla went both #1 and #2 on the Nov 13 morning walk and the consistency was logged as firm and healthy.",
+     "quote": "She went number one, and number two both looked healthy."
     },
     {
      "cat": "home",
