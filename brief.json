@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T05:20:09-05:00",
+ "generated": "2026-11-13T06:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5284,6 +5284,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 12",
+     "source": "Elizabeth Cuffari visit report, Nov 12 12:33 PM ET",
+     "office": true,
+     "note": "The Nov 12 late-morning report again makes no mention of Weezie/Louise's eye drops - not in the narrative and not in the report form. That is five consecutive reports (Nov 9, 10, 11, 12 plus Oct 23) with no confirmation either way.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 11",
      "source": "Elizabeth Cuffari visit report, Nov 11 11:57 AM",
      "office": true,
@@ -5389,16 +5399,6 @@
      "office": false,
      "note": "Christine expects reduced appetite while the family is away; half a cup each is close enough.",
      "quote": "They probably won’t eat it because we are not home."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Visit report from Elizabeth Sigler",
-     "office": false,
-     "note": "Both dogs refused to go outside in the cold and had to be lured out with treats; both then went #1.",
-     "quote": "Both of them refused to go out there due to the cold."
     }
    ],
    "dormant": false
@@ -8402,6 +8402,16 @@
      "office": false,
      "note": "For THURSDAY'S visit the client offers an alternative to lifting Merlin: open Merlin's crate using the side door and she will jump out and back in on her own. Client says Merlin can be a little odd about being picked up. Client scoped this to Thursday, so it is not filed as a standing rule.",
      "quote": "for Thursday's visit, if you would prefer to open Merlin's crate using the side door, she'll jump out and in of her own accord"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 12",
+     "source": "Kristin Ashick visit report, Nov 12 1:23 PM ET",
+     "office": true,
+     "note": "The sitter says she forgot to end the visit timer on the Nov 12 visit, so the logged duration for that visit is wrong and may need correcting. Visit was run by two sitters, Kristin Ashick and Ashley Corall; all three pups went out back and went #1.",
+     "quote": "I forgot to end the timer when Ashley and I were talking outside"
     }
    ],
    "dormant": false
