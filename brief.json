@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T15:20:05-05:00",
+ "generated": "2026-11-13T16:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1979,6 +1979,16 @@
      "quote": "put on a bland diet for the next couple of days. Please don’t give him any treats"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Kathy Sullenberger visit report, Nov 13 1:21 PM",
+     "office": true,
+     "note": "The sitter put a new band on Olly during today's visit. The report does not say what kind of band it is or where spares are kept - ambiguous, and worth pinning down in this client's notes so other sitters know.",
+     "quote": "I put a new band on him"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2027,6 +2037,26 @@
      "office": false,
      "note": "A sitter confirmed she will watch for lawn-chemical warning signs; the client's original caution is not in this thread.",
      "quote": "I will be aware of the yard chemical signs."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Kathy Sullenberger visit report, Nov 13 1:21 PM",
+     "office": false,
+     "note": "Both dogs went #1 and #2 on today's visit and both stools were logged firm and healthy. The sitter notes she thinks it is the first time both have done everything.",
+     "quote": "I think that's a first fir both to take of everything"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Kathy Sullenberger visit report, Nov 13 1:21 PM",
+     "office": false,
+     "note": "Visit routine on Nov 13: the dogs go out one at a time, Olly first and then Daff, with treats handed out on arrival and again at the end and both water bowls refilled. A box was brought in.",
+     "quote": "I took Olly out first"
     },
     {
      "cat": "home",
@@ -2150,34 +2180,44 @@
      "quote": "Do NOT allow Ripley to pee around flagpole in front yard"
     },
     {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 12",
-     "source": "Kristin Ashick visit report, 1:35 PM Nov 12",
-     "office": false,
-     "note": "Kristin Ashick's early-afternoon report logs Ripley going #1 only; the report carries no #2 question at all. Third report since Oct 23 with no #2 recorded, after Oct 23 and Nov 9. The rest of the visit was normal - jogged in the rain, towelled off, treat, water refreshed.",
-     "quote": "she did some sniffing and went number one"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Tiarra Roberts visit report, 2:40 PM",
-     "office": false,
-     "note": "Ripley needed encouragement to eat on the afternoon visit - the sitter put a few treats on top of her food to get her started. Mentioned only as a postscript, with no other appetite detail. Worth watching alongside Ripley's earlier GI notes (Oct 22 loose stools, Oct 25 hard stool, Nov 9 no #2) but a single observation on its own.",
-     "quote": "I enticed eating with a few little treats on top of the food"
-    },
-    {
      "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Tiarra Roberts visit report, Nov 13 12:34 PM",
+     "office": false,
+     "note": "Ripley was wearing only her collar when the sitter arrived for today's midday visit, and the sitter did not know why. Ripley greeted her in the kitchen and then ran to the mudroom for her leash.",
+     "quote": "I noticed Ripley had just her collar on, not sure why"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Tiarra Roberts visit report, Nov 13 12:34 PM",
+     "office": false,
+     "note": "A heavy package of copy paper was sitting at the front door today. The sitter brought it inside and left it just inside the front door rather than carrying it through to the office.",
+     "quote": "I brought in the copy paper through the front door, leaving it inside, next to the front door"
+    },
+    {
+     "cat": "home",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 10",
-     "source": "Monica Hopewell visit report",
+     "date": "Nov 13",
+     "source": "Tiarra Roberts visit report, Nov 13 12:34 PM",
      "office": false,
-     "note": "Monica Hopewell's Nov 10 2 PM walk: Ripley spent much of the walk hunting crickets and grasshoppers. Single observation, not a standing rule, but worth watching given her Oct 22 loose stool after eating something she found. Stool was firm and healthy on this visit and the client was home.",
-     "quote": "Ripley spent a considerable amount of time on our walk hunting crickets and grasshoppers"
+     "note": "Wet-weather routine on today's visit: the sitter removed her shoes on the way in, entered through the garage, towel-dried Ripley in the garage after the walk and laid her leash and collar out there to dry - an idea she credits to Kristin.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Tiarra Roberts visit report, Nov 13 12:34 PM",
+     "office": false,
+     "note": "Ripley went #1 on today's walk; the report carries no #2 entry at all, the same as the Nov 12 report. It rained during the walk and they turned back early, just before Hawksledge Ct.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -3370,6 +3410,16 @@
      "quote": "i totally forgot today is walk day and just panicked because I'm not home and door is locked"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Dan Dantimo visit report, Nov 13 12:09 PM",
+     "office": false,
+     "note": "Muffy walked better WITHOUT the harness on today's late-morning walk - the sitter says she had been too anxious waiting for him to put it on. She also worked the heel command well and was better behaved than on previous visits. Single observation, and it cuts against the standing note that the harness makes a noticeable difference to her pulling.",
+     "quote": "She walked better today too even without the harness"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -3408,6 +3458,26 @@
      "office": false,
      "note": "Muffy's leash and treats are kept in the hall closet. Leftover treats are to go back in the closet after the visit.",
      "quote": "Left over treats should be returned to the closet."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Dan Dantimo visit report, Nov 13 12:09 PM",
+     "office": false,
+     "note": "Muffy went #1 right away and went #2 twice on today's walk; the report's consistency field reads firm and healthy.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Dan Dantimo visit report, Nov 13 12:09 PM",
+     "office": false,
+     "note": "Access on today's visit as the sitter described it: entered through the garage door, and the garage door was fully closed before leaving.",
+     "quote": ""
     },
     {
      "cat": "behavior",
@@ -6840,6 +6910,16 @@
    "items": [
     {
      "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Dan Dantimo visit report, Nov 13 11:13 AM",
+     "office": false,
+     "note": "Boo passed a small amount of DIARRHEA on today's late-morning walk and then struggled to go #2 for the rest of the walk. The report's consistency field reads very loose/diarrhea but pet seems fine otherwise. This follows loose stools logged Oct 26, Nov 2 and Nov 9 - today is the loosest of that run. The client was home during the visit.",
+     "quote": "she had a small amount of diarrhea and struggled to do number two the entire walk"
+    },
+    {
+     "cat": "health",
      "sev": "medium",
      "type": "recent",
      "date": "Nov 9",
@@ -6867,6 +6947,16 @@
      "office": false,
      "note": "Boo appeared to strain going #2 and the stool was a little loose, logged as not concerning. First visit, so no baseline for her yet.",
      "quote": "She seemed to struggle a bit to go #2."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Dan Dantimo visit report, Nov 13 11:13 AM",
+     "office": false,
+     "note": "Despite the stool trouble Boo was keen to be out - ready to go on arrival, stopped to sniff a patch of grass she liked by the cul de sac, and the sitter rated the walk as going as planned. Treat given at the end.",
+     "quote": ""
     },
     {
      "cat": "behavior",
