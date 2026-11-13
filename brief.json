@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T17:20:09-05:00",
+ "generated": "2026-11-13T18:35:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -797,6 +797,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 13",
+     "source": "Harvett Ellington visit report, Nov 13 9:38 AM ET",
+     "office": false,
+     "note": "Chloe went #1 only and no #2 on the Nov 13 MORNING walk, which the sitter cut short, he thinks because of the rain; 43 degrees. Taken with the separate 2:22 PM report, Chloe went without a #2 at BOTH of today's visits, and the Nov 10 afternoon report also logged no #2.",
+     "quote": "it was a short walk, possibly because of 🌧; did number one only."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 11",
      "source": "Alex Miller visit report, Nov 11 10:31 AM ET",
      "office": true,
@@ -902,16 +912,6 @@
      "office": true,
      "note": "Oct 27 report: Chloe was asleep upstairs and began wheezing while the sitter carried her gently downstairs; sitter attached a video. The rest of the visit was normal - went #1 and #2, enjoyed the fenced back yard, bowls cleaned and fresh water. Single observation, no vet contact or follow-up mentioned in the email.",
      "quote": "while I carried her gently downstairs. She began to wheez"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Jade Popovitz visit report, 9:43 AM Oct 26",
-     "office": true,
-     "note": "Jade Popovitz's Oct 26 morning report opens by saying Chloe is not feeling well. Chloe went out to the fenced back yard, went #1 and then went right back to the door; the sitter describes the morning as wet and cold and does not blame her for cutting it short. No #2 at this visit. Chloe lay back down next to the client, who was home throughout. The report does not say what is wrong, does not record any symptom, and does not say whether Melody raised anything, so the office cannot tell from this alone whether it is the same problem as the coughing and wheezing flagged on Oct 23. Third report in seven days noting Chloe off form.",
-     "quote": "It was great to see Chloe today although she's not feeling well."
     }
    ],
    "dormant": false
@@ -1765,6 +1765,16 @@
     "Macy"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Tiarra Roberts visit report, Nov 13 11:33 AM ET",
+     "office": false,
+     "note": "Property condition reported on Nov 13: the flap on the garage door falls off easily. The sitter put it back on. Recorded once, by one sitter - worth watching for whether it recurs before treating it as a standing note.",
+     "quote": "The garage door flap does fall off easily. I of course, put it back on, though."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
