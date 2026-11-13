@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T07:20:07-05:00",
+ "generated": "2026-11-13T11:50:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -193,6 +193,16 @@
      "quote": "She was still pretty shy but seemed better this time."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 11",
+     "source": "Client message",
+     "office": false,
+     "note": "Nova is shy and warming up slowly. The client says she is a creature of habit and the visits are now part of her routine.",
+     "quote": "She’s definitely a creature of habit"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -251,16 +261,6 @@
      "office": false,
      "note": "Shannon Anderson answered the client within the minute, saying she would try offering Nova food when she comes over. The reply does not say which visit or what food, so whether that test happened is not recorded in this mailbox.",
      "quote": "I can see if she’ll eat something for me when I come over"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Shannon Anderson visit report 12:51 PM",
-     "office": false,
-     "note": "Follow-up to this morning's total food refusal: Nova did eat a few mini milk bones and one small broken-up piece of a lickable treat for Shannon Anderson in the afternoon. She hid in her room on arrival, came out when asked, and would not go potty outside because of the rain. Partial appetite only - worth watching at the next visit.",
-     "quote": "I did get Nova to eat a few mini milk bones"
     }
    ],
    "dormant": false
@@ -2753,6 +2753,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 13",
+     "source": "Client messages",
+     "office": true,
+     "note": "Client said she would walk the dog herself if the rain stopped and that no one needed to be sent, then followed up later this morning that it was not raining there and she would check in later. Today's 1:45 PM visit is left unresolved.",
+     "quote": "I'll take her if it stops raining. NO need to send someone."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 4",
      "source": "Client message 12:54 PM; sitter replies 12:56 and 12:59 PM",
      "office": true,
@@ -2858,16 +2868,6 @@
      "office": false,
      "note": "Handling detail from one sitter who describes it as habitual rather than one-off: Holly jumps up and puts her paws on the sitter's chest at the greeting, and on the back half of the walk she pulls toward the house and resists walking the last few minutes. Reported by Julie Smith only, so not confirmed as a standing rule. Client was home during this visit and asked that the door not be locked.",
      "quote": "She definitely always knows the way home, and definitely starts to pull a little bit to get back there."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Visit report, Dan Dantimo 2:03 PM",
-     "office": false,
-     "note": "Holly went #1 but no #2 on the 1:30 PM walk. Client was home during the visit.",
-     "quote": "She did go number one but no number two."
     }
    ],
    "dormant": false
@@ -2949,6 +2949,16 @@
     "Oakley"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Company Notes updated by Tiarra Roberts",
+     "office": false,
+     "note": "The backyard is not fenced. Use the green leash hanging on the back door whenever Oakley goes out back.",
+     "quote": "Backyard is NOT fenced — must use green leash hanging on back door"
+    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -3058,16 +3068,6 @@
      "office": false,
      "note": "Company Notes edited at 10:57 AM. The only line that changed is the treat location, which gained detail: treats are on the counter by the paper towels, in a glass jar in a basket or in a paper envelope with a pawprint. Everything else is word-for-word unchanged - orange leash and harness in the laundry room, backyard in bad weather, backyard NOT fenced so use the green leash on the back door, paw wash and the towel on the back of the laundry room door, one water and one food bowl in the dining room, poop bags in the small bin next to the garage trash can.",
      "quote": "Treats are on counter by the paper towels in glass jar in basket or paper envelope with pawprint"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Tiarra Roberts visit report, Nov 10 11:22 AM",
-     "office": false,
-     "note": "Where the waste goes at this home: the sitter put the #2 bags in a designated small trash bin in the garage on the way back in. One sitter, one visit - not stated anywhere as a house rule.",
-     "quote": "I put the #2 bags into the designated small trash bin"
     }
    ],
    "dormant": false
@@ -3942,6 +3942,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 13",
+     "source": "Visit report from Thomas Rakovec",
+     "office": false,
+     "note": "Jaxson's stool has been firming up day by day through a food change. Today's report rated it firm and healthy.",
+     "quote": "seems to be getting firmer each day"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 12",
      "source": "Thomas Rakovec visit report, 11:40 AM",
      "office": false,
@@ -4007,16 +4017,6 @@
      "office": false,
      "note": "Jax went #1 several times on the walk but no #2; the sitter waited with him in the backyard afterwards and he still did not go. One visit, one sitter.",
      "quote": "Jax went #1 several times but didn't go #2"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Thomas Rakovec left a message for Christi Russo (Nov 3, 12:00 PM)",
-     "office": false,
-     "note": "Nov 3 visit: Jaxson went #1 several times on the walk and then went #2 once back home, running around outside; the consistency field was logged as firm and healthy. That fits the client's own standing note that he will only poop in his own yard or backyard, and it is the first #2 recorded for him in November.",
-     "quote": "Jax ran around and went #2"
     }
    ],
    "dormant": false
@@ -6015,6 +6015,36 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 12",
+     "source": "Important Notes updated by Tiarra Roberts",
+     "office": false,
+     "note": "Odie will have a muzzle on. Take it off at the end of the visit and crate him without the muzzle.",
+     "quote": "Muzzle will be on Odie, please take off at end of visit"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Important Notes updated by Tiarra Roberts",
+     "office": false,
+     "note": "Zeno is food aggressive. Give Zeno his treat first, send him to his crate and shut the door while he eats, then treat the other dogs and let Zeno out once they have finished.",
+     "quote": "Zeno is food aggressive"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Important Notes updated by Tiarra Roberts",
+     "office": false,
+     "note": "Griswold must go out on leash; the leash is on the table by the front door. Odie and Zeno can go in the backyard.",
+     "quote": "MUST be taken out on leash (on table, by front door)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Nov 8",
      "source": "Tiarra Roberts updated contact information, Nov 8 10:26 AM",
      "office": true,
@@ -6100,36 +6130,6 @@
      "office": false,
      "note": "The muzzle rule is reworded to be clearer about timing: Odie's muzzle comes off at the END of the visit and he goes into the crate without it. The previous wording said take it off at the visit and crate him when you leave.",
      "quote": "Muzzle will be on Odie, please take off at end of visit and put him in crate WITHOUT muzzle"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 8",
-     "source": "Tiarra Roberts updated contact information, Nov 8 10:26 AM",
-     "office": true,
-     "note": "Water handling was cut back and is now ambiguous. The note says only that the bowl is on the kitchen counter by the back door and to pick it up before leaving. The old instructions to fill it and place it down, and the separate large shared bowl to top off each visit, are both gone - as written a sitter could remove the bowl without ever putting water down. Office should confirm what the dogs get during a visit.",
-     "quote": "Water bowl is on kitchen counter, by back door. Pick up before leaving"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 8",
-     "source": "Tiarra Roberts updated contact information, Nov 8 10:26 AM",
-     "office": false,
-     "note": "Treat rules survive in Company Notes unchanged: milk bones on the kitchen counter by the water bowl, one treat each, and ZENO DOES NOT GET THE MILK BONES - only the treats in the white-lidded container. Zeno is food aggressive: his treat first, send him to the bedroom crate and shut the door while he eats, treat the others, let him out after they finish. Poop bags in the trash can outside the garage.",
-     "quote": "Give Zeno his treat FIRST"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 8",
-     "source": "Pet Care Note update by Tiarra Roberts",
-     "office": false,
-     "note": "Odie and Zeno can go out in the backyard, but Griswold must be taken out on leash. Leash is on the table by the front door.",
-     "quote": "MUST be taken out on leash"
     }
    ],
    "dormant": false
@@ -7278,7 +7278,10 @@
   {
    "name": "Heather & Jason Stary",
    "url": "https://www.timetopet.com/dashboard/client/sqaptfz0UbIv",
-   "pets": [],
+   "pets": [
+    "Bailey",
+    "Riley"
+   ],
    "items": [
     {
      "cat": "behavior",
@@ -7299,6 +7302,16 @@
      "office": false,
      "note": "Shoes come off before entering this home. Added to the Pet Care Note this morning.",
      "quote": "Remove shoes before entering"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Important Notes updated by Tiarra Roberts",
+     "office": false,
+     "note": "AM: split 1 can of wet food between the left-most bowl and the separate right bowl (right side of dining table), plus 1 scoop of dry into the right-hand double bowl. PM: split 1 pouch of wet food between the same bowls, plus 1 scoop of dry.",
+     "quote": ""
     },
     {
      "cat": "schedule",
@@ -7843,6 +7856,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 12",
+     "source": "Important Notes updated by Tiarra Roberts",
+     "office": false,
+     "note": "Do not play tug of war with Penny: she has lost teeth.",
+     "quote": "Do not play tug of war with Penny - she has lost teeth"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Oct 28",
      "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
      "office": false,
@@ -7893,51 +7916,41 @@
      "cat": "health",
      "sev": "medium",
      "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "date": "Nov 12",
+     "source": "Important Notes updated by Tiarra Roberts",
      "office": false,
-     "note": "Joint-health tablet is split between the two dogs as written below.",
-     "quote": "Joint health: valentine has only nub and Penny has rest of tablet x2"
+     "note": "Nightly vitamins. Penny: 1 full Cosequin, 1 Fortiflora, 2 big parts of hip and joint chew. Valentine: 1/2 Cosequin, 1/2 Fortiflora, 2 corners of Penny's hip and joint chew.",
+     "quote": "Penny and Valentine get vitamins at night"
     },
     {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
+     "date": "Nov 12",
+     "source": "Company Notes updated by Tiarra Roberts",
      "office": false,
-     "note": "Dinner: half teaspoon for Penny, quarter teaspoon for Valentine, with anal gland powder kept on the kitchen island counter. The note does not say what the teaspoon measure is of - it sits next to the anal gland powder line, so check with the office before assuming.",
-     "quote": "Dinner time - penny half teaspoon"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
-     "office": false,
-     "note": "Penny gets half of a medicine kept on the kitchen island counter; the note says it is already broken in the bottle. The medicine is not named in the note.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
-     "office": false,
-     "note": "Fresh turkey food is in the fridge and is portioned by weight on the scale in the drawer of the kitchen island counter.",
-     "quote": "Vital - turkey in fridge"
+     "note": "Gland X goes in the evening meal: Penny 1/2 tsp, Valentine 1/4 tsp.",
+     "quote": "Add Gland X in evening (Penny 1/2 tsp, valentine-1/4 tsp)"
     },
     {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 12",
+     "source": "Important Notes updated by Tiarra Roberts",
+     "office": false,
+     "note": "Backyard visits only.",
+     "quote": "Backyard visits ONLY"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 28",
      "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
      "office": false,
-     "note": "Both cats hide - Stash is the black one, Bean the calico; they go behind the couch and under the bed.",
-     "quote": "Cats- Stash (black)/Bean (calico) hide behind couch"
+     "note": "Joint-health tablet is split between the two dogs as written below.",
+     "quote": "Joint health: valentine has only nub and Penny has rest of tablet x2"
     }
    ],
    "dormant": false
@@ -8158,6 +8171,16 @@
      "quote": "Spray is twice a day. Ear medicine ounce a day."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 11",
+     "source": "Client private message",
+     "office": true,
+     "note": "Sassie is off her anxiety medication. She now gets a spray plus an over-the-counter ear medication, and the client asked whether staff can administer the ear drops.",
+     "quote": "Can you administer her ear drops?"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -8236,16 +8259,6 @@
      "office": false,
      "note": "On the Nov 10 evening walk Sassie was skittish in the darker parts of the grounds but fine in the well-lit areas; the sitter brought a flashlight and says it seemed to help. Sassie also wanted to come inside a little early. One observation on one evening visit, not recorded as a standing rule.",
      "quote": "She seemed a little bit skittish in the darker areas of the grounds, but was good in the well lit areas."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Kristin Aldridge visit report, Nov 10 evening visit (approx 6:20 PM)",
-     "office": true,
-     "note": "The Nov 10 evening sitter topped off Sassie's water before leaving, and logged #1 and #2 both normal and medication administered. The midday sitter that same day had instead limited her water. Nothing in the mail states what the actual water rule for Sassie is, so this is ambiguous and needs the office to settle it rather than leaving each sitter to judge.",
-     "quote": "I topped off her water before leaving."
     }
    ],
    "dormant": false
@@ -8422,9 +8435,30 @@
    "pets": [
     "Lola",
     "Luke",
-    "Luc"
+    "Luc",
+    "Lucy"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 13",
+     "source": "Company Notes updated by Margaret Bill",
+     "office": false,
+     "note": "Escape risk: keep doors and gates closed. Both dogs are triggered by squirrels and deer.",
+     "quote": "ESCAPE RISK: keep doors/gates closed"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 13",
+     "source": "Company Notes updated by Margaret Bill",
+     "office": false,
+     "note": "If walking to the left from the house, a neighbor's Newfoundland runs loose and is aggressive. If either dog escapes, they will come home.",
+     "quote": "a neighbor has a Newfoundland who is aggressive and will be running loose"
+    },
     {
      "cat": "behavior",
      "sev": "high",
@@ -8456,6 +8490,66 @@
      "quote": "lola drinks a lot of water due to Cushing's disease"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 13",
+     "source": "Company Notes updated by Margaret Bill",
+     "office": false,
+     "note": "Lola drinks a lot of water because of Cushing's disease.",
+     "quote": "lola drinks a lot of water due to Cushing's disease"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 13",
+     "source": "Company Notes updated by Margaret Bill",
+     "office": false,
+     "note": "A dog may need its anal gland expressed if scooting. The note names 'Luc' while the dogs are listed as Lola and Lucy, so which dog is meant is unclear.",
+     "quote": "Luc may need anal gland expressed if scooting"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 13",
+     "source": "Company Notes updated by Margaret Bill",
+     "office": false,
+     "note": "Both dogs know stay, sit and come. Lucy does not hear well.",
+     "quote": "both know stay, sit, come, lucy can't hear well"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 13",
+     "source": "Company Notes updated by Margaret Bill",
+     "office": false,
+     "note": "Prong collar goes on with the prong side inside. Lola wears a small harness. Harness: front legs in first, then press together so the rings meet and attach the leash.",
+     "quote": "Collar side with prongs on inside, lola has a small harness"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 13",
+     "source": "Company Notes updated by Margaret Bill",
+     "office": false,
+     "note": "Client is sometimes home during visits: enter the home and leash the dog. House alarm is not used during the day.",
+     "quote": "Client is sometimes home: enter home and leash pet"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Client Notes updated by Margaret Bill",
+     "office": true,
+     "note": "New client onboarding: midday walks preferred between 11:00 AM and 2:00 PM, starting around Dec 2, roughly 6 days a week for 2 weeks while her daughter travels, then likely down to 2-3 walks a week.",
+     "quote": "Start Date: Around December 2nd."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -8464,66 +8558,6 @@
      "office": false,
      "note": "Chrissy George's meet-and-greet report carries ten photos of where things are located in the home; the report itself has no written text. For now those photos on the Nov 12 report in Time To Pet are the only record of the layout for this client.",
      "quote": "I HAVE TAKEN PICTURES OF WHERE THINGS ARE LOCATED AND ATTACHED THEM"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
-     "office": false,
-     "note": "Luc may need his anal glands expressed if he is scooting. The note does not say who does this or whether sitters should only report it, so that is unresolved.",
-     "quote": "Luc may need anal gland expressed if scooting"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
-     "office": false,
-     "note": "Leash and harness setup: leashes hang by the back door, both blue, Lola's is the shorter one. Harness on the table by the leashes, and a prong collar that goes on with the prong side inside. Lola has a small harness. Front legs into the front harness, press together so the rings meet, then attach the leash.",
-     "quote": "Collar side with prongs on inside, lola has a small harness"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
-     "office": true,
-     "note": "Commands: both dogs know stay, sit and come. The note then says \"lucy can't hear well\", but the two dogs on this record are Lola and Luc, so which dog is hard of hearing is unclear - most likely Luc, but it needs confirming before a sitter relies on it.",
-     "quote": "both know stay, sit, come, lucy can't hear well"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
-     "office": false,
-     "note": "Arrival: the client is sometimes home, so let yourself in and leash the dog. The house alarm is not used during the day. Park in the drive closest to the front door.",
-     "quote": "Client is sometimes home: enter home and leash pet"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Chrissy George and Margaret Bill messages, Nov 12 1:51-1:58 PM",
-     "office": false,
-     "note": "Brand-new client; today's 1:00 PM appointment was her meet and greet, attended by both Margaret Bill and Chrissy George. Two dogs, Lola and Luke - Margaret Bill spells the second name Luc - and both sitters describe them as very nice dogs. No visit history before today.",
-     "quote": "it was great meeting you and lola and Luke too. They are very nice dogs"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
-     "office": false,
-     "note": "Supplies: poop bags are attached to the leash with spares in the dog cupboard, disposal is the metal container on the porch, water bowl is left of the kitchen counter, treats are in the small pet cupboard by the kitchen, cleaning supplies under the kitchen sink.",
-     "quote": "Poop bag disposal: in metal container on porch"
     }
    ],
    "dormant": false
