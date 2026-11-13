@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T11:50:05-05:00",
+ "generated": "2026-11-13T13:35:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -203,6 +203,16 @@
      "quote": "She’s definitely a creature of habit"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 11",
+     "source": "Client message",
+     "office": false,
+     "note": "Nova is shy and still warming up to sitters, but she is settling into the visits. Client's point is that consistency is what is working - keep the same routine rather than trying something new with her.",
+     "quote": "She’s definitely a creature of habit and it sounds like these visits are part of her routine now."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -251,16 +261,6 @@
      "office": false,
      "note": "Nova ate everything except her dry food on the Nov 7 visit. The client is not worried - she says Nova will come back to it when she is ready and Scarlett will try some. The client notes this was the first time they were not home for the pets' dinner.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Shannon Anderson message to Terri Orengo, 8:12 AM Nov 4",
-     "office": false,
-     "note": "Shannon Anderson answered the client within the minute, saying she would try offering Nova food when she comes over. The reply does not say which visit or what food, so whether that test happened is not recorded in this mailbox.",
-     "quote": "I can see if she’ll eat something for me when I come over"
     }
    ],
    "dormant": false
@@ -1667,6 +1667,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Nov 11",
+     "source": "Client message (text)",
+     "office": true,
+     "note": "Insulin dose change. Client says the new dosing will be posted on the fridge. Do not act on the dose from this note alone - confirm against what is on the fridge and in Time To Pet.",
+     "quote": "Buttercup 's glucose went up again to 477. So insulin dosage will now be 10 units twice a day."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Nov 9",
      "source": "Marcella Singer client message, Nov 9 3:31 PM",
@@ -1703,6 +1713,16 @@
      "office": true,
      "note": "One of the cats at this client is on INSULIN. This is the first mention of insulin anywhere in the notifications for Marcella Singer - no insulin instruction is carried in the brief and no pet is named in the message, so which cat (Buttercup or Simba), the dose and the timing are all unknown from the mail. The exchange is about watching the insulin being given before taking it on. AMBIGUITY: Time To Pet logs both messages as Robin Lewis messaging the client by Text Message only, but the wording reads as if the sitter is asking to come earlier to watch the owner do it; who said which line cannot be settled from the email. Office should confirm the insulin protocol in Time To Pet.",
      "quote": "Would like to watch how you give the cat insulin."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 11",
+     "source": "Client message (text)",
+     "office": true,
+     "note": "In a follow-up message the client asked whether the rise is normal, noting he had been as low as 96 at one point. She is waiting on a reply from the office; this is a vet question, not one for a sitter to answer.",
+     "quote": "He was doing so good even at one time 96."
     },
     {
      "cat": "health",
@@ -2579,6 +2599,16 @@
      "quote": "Since the cleaners are coming today, Milo is at daycare and Archer is in the guest bedroom upstairs"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Visit report from Kiara Streety",
+     "office": false,
+     "note": "On today's midday visit Milo urinated but did not pass a stool, even after the sitter kept him out longer to try. Archer went both. Worth watching on the next visit.",
+     "quote": "stayed out a little bit longer for Milo to see if he got to bathroom he never went number 2!"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2763,6 +2793,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 13",
+     "source": "Client message",
+     "office": false,
+     "note": "Rain call on today's visit - the client initially said not to send anyone and that she would walk Holly herself if the rain stopped.",
+     "quote": "I'll take her if it stops raining. NO need to send someone. Thanks."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 4",
      "source": "Client message 12:54 PM; sitter replies 12:56 and 12:59 PM",
      "office": true,
@@ -2820,6 +2860,26 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Client message (text)",
+     "office": false,
+     "note": "Later this morning the client said it was not raining at her place and that she would check back in rather than cancel outright.",
+     "quote": "It is not raining here. But I'll check in with you later. Thanks."
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Sitter message from Julie Smith",
+     "office": false,
+     "note": "Resolved - Julie told the client the weather looked good enough to come, and the visit went ahead this afternoon. No office action needed on today's rain question.",
+     "quote": "I think the weather should be good for me to come walk Holly."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2838,36 +2898,6 @@
      "office": false,
      "note": "Client asked at 11:45 AM whether a walker is coming today. This is the third time she has had to ask (Oct 16 and Oct 29 are already on record), so the pattern is that she is not being told in advance who is covering her Sunday and weekday visits. Answered four minutes later by the sitter - see the next item.",
      "quote": "Miranda do I have a walker today?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 1",
-     "source": "Shannon Anderson message to client 11:49 AM Nov 1",
-     "office": false,
-     "note": "Sitter Shannon Anderson replied at 11:49 AM confirming she will arrive by 1 PM for Holly today, which answers the client's 11:45 AM question. Today's Nov 1 coverage is therefore confirmed and staffed. The following weekdays were still unconfirmed as of Friday night and nothing has arrived about them.",
-     "quote": "I'll be there by 1pm to visit with Holly today."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Julie Smith visit report, 1:45 PM",
-     "office": false,
-     "note": "Holly went both #1 and #2 on the afternoon walk and the consistency field reads firm and healthy. This follows Nov 9 (a little loose) and Nov 10 (no #2), so the earlier stool watch looks resolved for now.",
-     "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Julie Smith visit report, 1:45 PM",
-     "office": false,
-     "note": "Handling detail from one sitter who describes it as habitual rather than one-off: Holly jumps up and puts her paws on the sitter's chest at the greeting, and on the back half of the walk she pulls toward the house and resists walking the last few minutes. Reported by Julie Smith only, so not confirmed as a standing rule. Client was home during this visit and asked that the door not be locked.",
-     "quote": "She definitely always knows the way home, and definitely starts to pull a little bit to get back there."
     }
    ],
    "dormant": false
@@ -3982,6 +4012,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 11",
+     "source": "Client message",
+     "office": false,
+     "note": "The dog is in the middle of a food change and his stools are being watched. The client wants sitters to keep reporting on his potty in visit notes. Note the spelling differs - the client writes 'Jackson', sitters write 'Jaxson'.",
+     "quote": "thank you for keeping us informed about Jackson's potty. Trying to change food is never a good thing"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 10",
      "source": "Thomas Rakovec visit report, 11:41 AM Nov 10",
      "office": false,
@@ -4007,16 +4047,6 @@
      "office": false,
      "note": "Jaxson went #1 several times on the Nov 4 midday walk but no #2, including extra time waiting in the back yard. Worth watching on the next visit.",
      "quote": "I waited him out for a #2 but he didn't go so we went back in."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "Jax went #1 several times on the walk but no #2; the sitter waited with him in the backyard afterwards and he still did not go. One visit, one sitter.",
-     "quote": "Jax went #1 several times but didn't go #2"
     }
    ],
    "dormant": false
@@ -6045,6 +6075,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 12",
+     "source": "Pet Care Note updated by Tiarra Roberts",
+     "office": false,
+     "note": "Milk bones (glass jar on the kitchen counter) are for the other dogs only. Zeno's treats are the ones in the white-lidded container.",
+     "quote": "ZENO DOES NOT GET THE MILK BONE TREATS - only treats in the container with white lid for Zeno"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Nov 8",
      "source": "Tiarra Roberts updated contact information, Nov 8 10:26 AM",
      "office": true,
@@ -6120,16 +6160,6 @@
      "office": false,
      "note": "Water handling, which the Nov 8 edit had left vague, is spelled out again: a white bowl for Odie on the kitchen counter by the back door with food pieces added, plus a large stainless steel bowl near the treat station. The note no longer says to pick the bowl up before leaving.",
      "quote": "White water bowl for Odie is on kitchen counter, by back door (add food pieces)"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Tiarra Roberts contact-information update, 9:18 AM ET",
-     "office": false,
-     "note": "The muzzle rule is reworded to be clearer about timing: Odie's muzzle comes off at the END of the visit and he goes into the crate without it. The previous wording said take it off at the visit and crate him when you leave.",
-     "quote": "Muzzle will be on Odie, please take off at end of visit and put him in crate WITHOUT muzzle"
     }
    ],
    "dormant": false
@@ -7314,6 +7344,16 @@
      "quote": ""
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Pet Care Note updated by Tiarra Roberts",
+     "office": false,
+     "note": "Feeding is now AM and PM (the note previously said AM visit only). AM: split 1 can of wet food between the left-most bowl and the separate right bowl by the dining table, plus 1 scoop of dry into the right-hand double bowl. PM: same split with 1 pouch, plus 1 scoop of dry.",
+     "quote": "PM: Split 1 pouch of wet food between same bowls."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -7362,6 +7402,16 @@
      "office": false,
      "note": "Where to look for the cats if they are not visible: the office trundle-bed drawer, under the bedroom bed, and the basement.",
      "quote": "Hiding spots: Office (drawer of trundle bed), Bedroom (under bed), Basement"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Pet Care Note updated by Tiarra Roberts",
+     "office": false,
+     "note": "Two litter boxes in the basement, grocery bags hanging to the right of the table. Trash bin is inside the garage near the interior door. 2-3 Greenies left on the floor.",
+     "quote": "Sprinkle Arm & Hammer Double Duty deoderizer and MIX WITH LITTER after scooping"
     },
     {
      "cat": "behavior",
@@ -7903,6 +7953,16 @@
      "quote": "I can't remember how you explained the scheduling, so I wanted to make sure you got it on your end."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Client private message",
+     "office": true,
+     "note": "Sent overnight. Client finished uploading the pet profiles and added the remaining times, and wants the office to confirm the scheduling came through correctly on our end. Unanswered as of this run.",
+     "quote": "I finished uploading profiles and adding the times we still needed."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -7941,16 +8001,6 @@
      "office": false,
      "note": "Backyard visits only.",
      "quote": "Backyard visits ONLY"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
-     "office": false,
-     "note": "Joint-health tablet is split between the two dogs as written below.",
-     "quote": "Joint health: valentine has only nub and Penny has rest of tablet x2"
     }
    ],
    "dormant": false
@@ -8345,6 +8395,16 @@
      "quote": "Willa and Winston didn’t go outside but Shannon carried Willa out"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 11",
+     "source": "Client message (text)",
+     "office": false,
+     "note": "Client has taken the steps off the couch so the puppies can play on the living room rug. That rug is where they burn off their energy with each other and the toys - she wants play time happening there.",
+     "quote": "I removed the steps from the couch so that you can play with the puppies in the living room"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -8383,16 +8443,6 @@
      "office": false,
      "note": "Willa was wary of the two sitters new to the home: she stayed inside the whole visit and barked at both of them. She accepted a few pets mid-visit and more on the way out. Give her space and let her come to you. Single visit, so not yet a standing rule.",
      "quote": "She barked at both Dan and I."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 8",
-     "source": "Client private message, Nov 8 9:01 AM",
-     "office": true,
-     "note": "Client will enter her own visit days in Time To Pet on Thursdays for the following week, and says she has set a calendar reminder to do it. Office should expect her requests on Thursdays and follow up if they do not arrive.",
-     "quote": "I will just enter them in on Thursdays."
     }
    ],
    "dormant": false
@@ -8550,14 +8600,14 @@
      "quote": "Start Date: Around December 2nd."
     },
     {
-     "cat": "home",
+     "cat": "behavior",
      "sev": "medium",
      "type": "standing",
-     "date": "Nov 12",
-     "source": "Chrissy George meet-and-greet visit report, Nov 12 1:51 PM",
+     "date": "Nov 13",
+     "source": "Pet Care Note updated by Margaret Bill",
      "office": false,
-     "note": "Chrissy George's meet-and-greet report carries ten photos of where things are located in the home; the report itself has no written text. For now those photos on the Nov 12 report in Time To Pet are the only record of the layout for this client.",
-     "quote": "I HAVE TAKEN PICTURES OF WHERE THINGS ARE LOCATED AND ATTACHED THEM"
+     "note": "Leashes hang by the back door, both blue - Lola has the shorter one and the small harness. Prong collar goes on with the prong side inside. Harness: front legs in, press together, rings meet and clip the leash.",
+     "quote": "both are blue but Lola has the shorter one"
     }
    ],
    "dormant": false
