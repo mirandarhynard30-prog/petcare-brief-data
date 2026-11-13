@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T13:35:05-05:00",
+ "generated": "2026-11-13T15:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2609,6 +2609,26 @@
      "quote": "stayed out a little bit longer for Milo to see if he got to bathroom he never went number 2!"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Milo went number 1 but did not go number 2, even after Kiara kept him out longer to give him the chance. Archer went both and his stool was firm and healthy. Worth watching on the next visit.",
+     "quote": "he never went number 2"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Milo is crated. Kiara was met by Archer at the door, let Milo out, got the leashes together and leashed Milo first while he ran around, walked them separately, then put Milo back in the crate before leaving. There is also a cat in the home.",
+     "quote": "it was time for Milo to go back into the crate"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2687,26 +2707,6 @@
      "office": true,
      "note": "Sitter noticed a bump on Archer's back, middle section, on the Oct 28 late-morning visit. Nothing in the mail says the owner has been told or that this has been seen before, so the office should confirm.",
      "quote": "Archer has a bump on the top of his back and is located in the middle section."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Client message",
-     "office": false,
-     "note": "Oct 27 client message: with cleaners in the house that day, Milo was at daycare and Archer was shut in the upstairs guest bedroom. Stated for Oct 27 only - the email does not say this is a standing arrangement for cleaning days.",
-     "quote": "Since the cleaners are coming today, Milo is at daycare and Archer is in the guest bedroom upstairs"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Kiara Streety visit report 11:46 AM",
-     "office": false,
-     "note": "Treat containers are down to crumbs. Sitter flagged it to the client directly in the report.",
-     "quote": "The treats containers are low nothing but crumbs in it just so you are aware!"
     }
    ],
    "dormant": false
@@ -3022,6 +3022,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 12",
+     "source": "Tiarra Roberts updated Important Notes",
+     "office": false,
+     "note": "Paw wash in the laundry room after coming back inside; the towel for paws hangs on the back of the laundry room door. Orange leash and harness are in the laundry room.",
+     "quote": "Use paw wash in laundry room"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 10",
      "source": "Tiarra Roberts visit report, Nov 10 11:22 AM",
@@ -3088,16 +3098,6 @@
      "office": false,
      "note": "The mailbox line gained a second instruction: as well as the street mailbox, check the front porch for packages. The rest of this morning's edit moved existing paw-wash and leash text between Pet Care and Company Notes without changing it.",
      "quote": "Mailbox on street, check front porch for packages"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 10",
-     "source": "Tiarra Roberts updated contact information for Anna Caraboolad",
-     "office": false,
-     "note": "Company Notes edited at 10:57 AM. The only line that changed is the treat location, which gained detail: treats are on the counter by the paper towels, in a glass jar in a basket or in a paper envelope with a pawprint. Everything else is word-for-word unchanged - orange leash and harness in the laundry room, backyard in bad weather, backyard NOT fenced so use the green leash on the back door, paw wash and the towel on the back of the laundry room door, one water and one food bowl in the dining room, poop bags in the small bin next to the garage trash can.",
-     "quote": "Treats are on counter by the paper towels in glass jar in basket or paper envelope with pawprint"
     }
    ],
    "dormant": false
@@ -4022,6 +4022,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 11",
+     "source": "Client message",
+     "office": false,
+     "note": "Client thanked the sitter for the updates on Jackson's potty and said the dog is mid food change, which she expects to unsettle him for a while. Sitters have been writing the name as Jaxson, the client writes Jackson.",
+     "quote": "thank you for keeping us informed about Jackson's potty"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 10",
      "source": "Thomas Rakovec visit report, 11:41 AM Nov 10",
      "office": false,
@@ -4037,16 +4047,6 @@
      "office": true,
      "note": "Dan Dantimo messaged the client thread at 5:19 PM to correct the sitter on the pet's name, so the dog on the Nov 10 walk was Jaxson. The correction went to the client-visible thread and the 11:41 AM report still names Guinness - office may want to fix that report.",
      "quote": "Tom, the dog's name is Jaxson!!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "Jaxson went #1 several times on the Nov 4 midday walk but no #2, including extra time waiting in the back yard. Worth watching on the next visit.",
-     "quote": "I waited him out for a #2 but he didn't go so we went back in."
     }
    ],
    "dormant": false
@@ -6085,6 +6085,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 12",
+     "source": "Tiarra Roberts updated Important Notes",
+     "office": false,
+     "note": "Odie will be muzzled when you arrive. Take the muzzle off at the end of the visit and crate him without it.",
+     "quote": "Muzzle will be on Odie, please take off at end of visit and put him in crate WITHOUT muzzle"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Nov 8",
      "source": "Tiarra Roberts updated contact information, Nov 8 10:26 AM",
      "office": true,
@@ -6150,16 +6160,6 @@
      "office": false,
      "note": "Griswold must be on a leash every time he goes out, front or back yard. Do not let him into the backyard off leash. Go only far enough for a potty. His leash is on the table by the front door. Odie and Zeno can use the backyard.",
      "quote": "MUST be taken out on leash (front yard/back yard)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Tiarra Roberts contact-information update, 9:18 AM ET",
-     "office": false,
-     "note": "Water handling, which the Nov 8 edit had left vague, is spelled out again: a white bowl for Odie on the kitchen counter by the back door with food pieces added, plus a large stainless steel bowl near the treat station. The note no longer says to pick the bowl up before leaving.",
-     "quote": "White water bowl for Odie is on kitchen counter, by back door (add food pieces)"
     }
    ],
    "dormant": false
@@ -7883,6 +7883,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client finished uploading the pet profiles and adding the visit times they still needed, and wants the office to confirm the schedule came through on our end. Sent early Friday morning.",
+     "quote": "I wanted to make sure you got it on your end."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -7991,16 +8001,6 @@
      "office": false,
      "note": "Gland X goes in the evening meal: Penny 1/2 tsp, Valentine 1/4 tsp.",
      "quote": "Add Gland X in evening (Penny 1/2 tsp, valentine-1/4 tsp)"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Important Notes updated by Tiarra Roberts",
-     "office": false,
-     "note": "Backyard visits only.",
-     "quote": "Backyard visits ONLY"
     }
    ],
    "dormant": false
@@ -8513,6 +8513,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 13",
+     "source": "Margaret Bill updated Company Notes",
+     "office": false,
+     "note": "If walking to the left of the house, be careful - a neighbor has a Newfoundland that is aggressive and runs loose.",
+     "quote": "be cautious as a neighbor has a Newfoundland who is aggressive and will be running loose"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Nov 12",
      "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
      "office": false,
@@ -8598,16 +8608,6 @@
      "office": true,
      "note": "New client onboarding: midday walks preferred between 11:00 AM and 2:00 PM, starting around Dec 2, roughly 6 days a week for 2 weeks while her daughter travels, then likely down to 2-3 walks a week.",
      "quote": "Start Date: Around December 2nd."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 13",
-     "source": "Pet Care Note updated by Margaret Bill",
-     "office": false,
-     "note": "Leashes hang by the back door, both blue - Lola has the shorter one and the small harness. Prong collar goes on with the prong side inside. Harness: front legs in, press together, rings meet and clip the leash.",
-     "quote": "both are blue but Lola has the shorter one"
     }
    ],
    "dormant": false
