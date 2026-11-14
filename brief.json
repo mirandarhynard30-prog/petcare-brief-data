@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T09:20:05-05:00",
+ "generated": "2026-11-14T10:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7151,6 +7151,26 @@
      "quote": "Excape Risk Keep screen door shut. Bruno will chase fed ex trucks and other dogs"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Client message from Jennifer Wagar",
+     "office": false,
+     "note": "Someone is home today, unlike usual: the client's 11-year-old daughter is there until about 11:30, when somebody comes to pick her up. The daughter knows the sitter is coming and will probably stay in her room.",
+     "quote": "usually no one is home when you come, but today my 11 year-old will be there until about 11:30"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Client message from Jennifer Wagar, received via text message",
+     "office": true,
+     "note": "Twenty minutes after the note above, the client wrote again asking whether we had seen it. No reply appears anywhere in the mail, so she is still waiting on an acknowledgement.",
+     "quote": "Thank you, did you see my message about my daughter being there?"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -7209,16 +7229,6 @@
      "office": false,
      "note": "Client messaged at 12:36 PM that her 11-year-old daughter reported one of the dogs peed in the living room before she was picked up. The client's own guess is that the daughter only put paper towels over it rather than cleaning it properly, and she tells the sitter to watch their step. She does not say which dog or exactly when.",
      "quote": "she said one of the dogs peed in the living room"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 22",
-     "source": "Margaret Bill updated contact information for Jennifer Wagar, 3:01 PM",
-     "office": false,
-     "note": "Gear instructions added. Bruno's pink harness goes side down with the leash through both rings; Suka's harness is the larger one with pink straps and a back loop. All leashes, collars and harnesses are by the door. Toys are in the basket or on the couch.",
-     "quote": "Pink harness side down and put leash through both rings. both leashes, collars and harnesses are by the door"
     }
    ],
    "dormant": false
