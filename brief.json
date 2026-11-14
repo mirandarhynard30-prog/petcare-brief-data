@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T16:20:07-05:00",
+ "generated": "2026-11-14T17:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1865,6 +1865,16 @@
     "Mac"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Diane Hoard private message, Nov 14 4:32 PM",
+     "office": true,
+     "note": "Client withdraws a duplicate booking: she says she forgot she had already requested the service and only needs one visit for Mac that day, so the request she just placed should be disregarded. She does not name the date herself - the request she placed twenty minutes earlier, at 4:12 PM, was for Nov 21. Office needs to decline or delete the duplicate so Mac is not booked and billed twice for that day.",
+     "quote": "disregard the request i just put in"
+    },
     {
      "cat": "schedule",
      "sev": "medium",
