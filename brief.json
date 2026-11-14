@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T21:20:06-05:00",
+ "generated": "2026-11-14T06:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -529,6 +529,16 @@
      "quote": "We are still on the road in traffic.We should be there at 5;01 pm."
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Client message, 7:58 PM",
+     "office": false,
+     "note": "Client apologises in her evening message that Gordy pulled the sitter into a big bush on the Nov 13 walk. A concrete instance of his standing pull-on-leash warning from Oct 22; she raises it only in passing and asks for nothing. Which of the day's walks she means is not stated.",
+     "quote": "I am sorry he pulled you in to a big bush."
+    },
+    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -651,16 +661,6 @@
      "quote": "I entered through the garage door, garage door is fully closed before leaving"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Ashley Corall visit report",
-     "office": false,
-     "note": "One of CJ's toys had worn down small enough that the sitter was concerned about it being swallowed, so she removed it and left it on the counter. Future sitters should not hand it back without the client's say-so.",
-     "quote": "CJ had a toy that made a little nervous about how small it was getting so I placed it in the counter"
-    },
-    {
      "cat": "health",
      "sev": "low",
      "type": "recent",
@@ -779,26 +779,6 @@
      "office": true,
      "note": "Oct 28, 8:58am ET private message. Earlier the same morning (4:45am) she asked to push today's visit later, closer to 12:30; she has now settled on a different plan and wants a walker at the regular time plus a second walk at 3:30 today. Needs the schedule confirmed and a second visit added.",
      "quote": "I will need a Walker at the regular time and then one at 3:30. That would work."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Client private message, Oct 23 4:25 PM",
-     "office": true,
-     "note": "Client wrote at 4:25 PM to cancel service for next Monday (Oct 26). The message is signed Carol although the client of record is Angela Jozsa - ambiguous, not resolved here. No reply or schedule change is visible in this mailbox, so Monday's visit should be treated as still on the books until the office confirms the cancellation.",
-     "quote": "I am going to cancel service for next Monday! Thank you and have a good weekend!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Client private message",
-     "office": true,
-     "note": "Client (signs as Carol) is cancelling service for Monday Oct 26. Needs to be taken off the schedule.",
-     "quote": "I am going to cancel service for next Monday!"
     }
    ],
    "dormant": false
@@ -1796,26 +1776,6 @@
      "quote": "The garage door flap does fall off easily. I of course, put it back on, though."
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Monica Hopewell visit report, Oct 23 11:45 AM",
-     "office": false,
-     "note": "Murphy picked up a skunk scent on the Oct 23 11:15 AM walk and towed the sitter along the trail at speed until the smell ran out. No skunk was actually found. First scent-tracking report for him in this mailbox - worth knowing he will pull hard and set the pace when he catches a scent. Stool on the same walk was firm and healthy.",
-     "quote": "He caught the scent of a skunk and made us follow that until the smell stopped"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "office": true,
-     "source": "Client private message, Oct 23 10:18 AM",
-     "note": "Third time on record this client has had to ask when her walker is coming, after Oct 6 and Oct 16. Monica Hopewell answered 41 minutes later with an 11:15 ETA. The Oct 22 Important Notes edit already carries a standing instruction to send an ETA when on the way, and the ask still happened - office should decide whether that rule is being followed here.",
-     "quote": "Good morning! What time should we expect our walker today?"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2188,16 +2148,6 @@
      "office": false,
      "note": "Ripley needs to be fed at both the morning and the evening visit on Oct 25.",
      "quote": "She will need fed both times!!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Tiarra Roberts visit report, Oct 23 1:55 PM",
-     "office": true,
-     "note": "Tiarra Roberts' Oct 23 afternoon report logs Ripley going #1 only - there is no #2 entry and no stool-consistency field at all - the day after Matt reported she had needed out three times with loose bowel movements. Nothing in this mailbox answers him about the stool.",
-     "quote": "She went #1."
     },
     {
      "cat": "behavior",
@@ -3210,16 +3160,6 @@
      "quote": "Archie went #1 several times but DID'NT have a #2 we headed back and fed a few snacks"
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Thomas Rakovec visit report, Oct 23 10:09 AM",
-     "office": false,
-     "note": "Oct 23 morning walk: Archie went both #1 and #2 and the report's consistency field reads firm and healthy. That is the second firm reading this month after Oct 16, against no-bowel-movement walks on Oct 9 and Oct 14. Client was home during the visit, so the sitter did not go in or check the house.",
-     "quote": "Archie went to the bathroom and took a #1 and #2 and fed a few snacks"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -3308,16 +3248,6 @@
      "office": true,
      "note": "Deb is pausing Guinness's walks after this Sunday; she will keep the Sunday walk and says she will come back for help later when snow and ice arrive. Needs a reply and the recurring visits after Sunday taken off the schedule.",
      "quote": "after this Sunday I need to take a pause from having Guinness walked"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Dan Dantimo visit report, Oct 23 2:12 PM",
-     "office": true,
-     "note": "Oct 23 midday walk: Guinness went #2 twice and the consistency field was answered a little loose but not concerning. Counting what is already on file for Oct 13, 15, 17, 20, 21 and 22, this is the seventh logged walk this month with loose or diarrhea stool. Nothing in the mailbox or the brief records a vet contact, diet change or any reply to the client about it. Office call on whether to raise it with Deb. Walk otherwise normal - new route past the clubhouse and two bridges, water refreshed, no accidents.",
-     "quote": "He did go number two twice and really did well on his walk today."
     },
     {
      "cat": "schedule",
@@ -4350,16 +4280,6 @@
      "office": true,
      "note": "Name check for this record: the Oct 24 evening report names the dog Lucy and gives greenies to Silas and Penny, so those three are the animals. Chloe and Hector, from the client's own 8:51 PM message, are human friends visiting the house, not pets. Worth confirming the Time To Pet pet list matches, because Chloe is also a cat at one client and a dog at another.",
      "quote": "Silas and Penny also got a greenie or two"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Shannon Anderson visit report for Emily Tharp, Oct 23 8:18 PM",
-     "office": false,
-     "note": "On the dark evening visit Lucy barked at the door until she recognised the sitter, then settled immediately. Worth expecting on after-dark arrivals; seen once so far, not yet a standing pattern.",
-     "quote": "She met me at the door barking since she didn't know who it was due to it being dark."
     }
    ],
    "dormant": false
@@ -5471,16 +5391,6 @@
      "quote": ""
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Elizabeth Cuffari 12:31 PM visit report",
-     "office": true,
-     "note": "The Oct 23 midday report again makes no mention of Weezie/Louise's eye drops - not in the narrative and not anywhere in the report form, which for this client logs only whether each dog went #1. This continues the run of reports already on file for Oct 13, Oct 19 and Oct 20 with no eye-drop record. Office should confirm whether the drops are still a standing instruction and, if so, get them back onto the report.",
-     "quote": ""
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -5817,16 +5727,6 @@
      "office": true,
      "note": "The Oct 30 rewrite replaced the old feeding schedule and dropped the evening dog feeding. The old note fed the dogs twice daily, morning and evening; the new note gives each pup one scoop of dry food in the AM only and feeds the cats AM only. Ambiguous whether the PM dog feeding was meant to go - office should confirm before the weekend.",
      "quote": "1 scoop, dry food for each pup in AM"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 23",
-     "source": "Ellen Krane client message",
-     "office": true,
-     "note": "Third contact on the still-unanswered Thanksgiving request. Client confirms the pet roster has changed: the hedgehog died a few months ago, so the visits would cover two dogs, two cats and a hamster. She does not name the pets. No office reply to her is visible in this mailbox.",
-     "quote": "we lost the hedgehog a few months ago, so there will just be two dogs, two cats and a hamster to visit!"
     },
     {
      "cat": "behavior",
