@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T10:20:09-05:00",
+ "generated": "2026-11-14T11:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2565,6 +2565,26 @@
     "Bella"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Kathy Pastor visit report, Nov 14 10:23 AM",
+     "office": false,
+     "note": "Nov 14 morning walk: Bella went #2 twice, ate a little grass, and the sitter logged the consistency as a little loose but not concerning. The brief already carries loose stool for Bella on Oct 24 and Oct 25, so this is a recurrence rather than a first instance.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Kathy Pastor visit report, Nov 14 10:23 AM",
+     "office": false,
+     "note": "Client was home for the Nov 14 morning visit and asked that the door not be locked, so the sitter did not go in or check the home. This is the third visit on record with the same arrangement (Oct 24 and Nov 7 are already in the brief); the client has not stated it as a standing rule.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
     {
      "cat": "home",
      "sev": "medium",
