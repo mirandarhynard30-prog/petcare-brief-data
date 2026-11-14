@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T18:35:06-05:00",
+ "generated": "2026-11-13T19:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -442,6 +442,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 13",
+     "source": "Chelsea Tompkins morning walk report, Nov 13 10:29 AM",
+     "office": false,
+     "note": "Gordy went #2 twice on the Nov 13 morning walk and the consistency field was again answered a little loose but not concerning. That is the fifth report since Oct 26 with the same reading (Oct 26, Oct 30, Nov 6, Nov 9, Nov 13). No sitter has called it concerning and no other symptoms are noted, but the run is now long enough to be worth mentioning to the client.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 9",
      "source": "Kathy Pastor visit report, Nov 9 10:36 AM",
      "office": true,
@@ -497,6 +507,16 @@
      "office": false,
      "note": "The off-limits food list is longer than one flavour. As well as the Whitefish Tuna not agreeing with Sampson, the client says he will not eat the liver one or the giblet one, and she deliberately did not leave either out.",
      "quote": "He also does not like the liver one and giblet one."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Chelsea Tompkins morning walk report, Nov 13 10:29 AM",
+     "office": false,
+     "note": "Gordy passed four other dogs on the Nov 13 walk and was not bothered by any of them - one of the other dogs was barking and pulling toward him. The sitter changed direction at the first pair and stood as far back as she could while they passed. This runs against his standing reactive-with-other-dogs warning; it is one walk, so keep handling him as the standing note says.",
+     "quote": "Gordy really wasn’t bothered by them"
     },
     {
      "cat": "schedule",
@@ -8361,6 +8381,26 @@
      "quote": "if she tells the walker not to come please confirm with me 1st"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Chrissy George afternoon visit report, Nov 13 1:35 PM",
+     "office": false,
+     "note": "Dog reactivity on the Nov 13 afternoon walk: Sassie saw another dog, barked and tried to go toward it, and the sitter turned and walked the opposite way. First dog-reactivity note on record for Sassie - treat as one observation, not a standing rule yet.",
+     "quote": "She saw another dog we went the opposite way. She was barking and trying to go towards it."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 13",
+     "source": "Chrissy George morning and afternoon visit reports, Nov 13",
+     "office": true,
+     "note": "Both of Nov 13's visits record the sitter assisting with medication - the ear drops at the 9:41 AM visit and the spray at the 1:35 PM visit. The account manager's Nov 11 question about whether Petcare Deluxe can administer the ear drops is still unanswered in writing, but staff are already doing it. Office should confirm the arrangement.",
+     "quote": "Then I helped with her ear drops and gave her some more love."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -8409,26 +8449,6 @@
      "office": false,
      "note": "Sassie had a gland spray applied on the Nov 10 late-morning visit. The sitter's method was to distract her with a treat and spray quickly. This is the first mention of a gland spray in recent mail - one sitter on one visit, so it is not written up here as a standing instruction.",
      "quote": "We also applied her gland spray by distracting her with a treat while spraying her behind quickly."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Josh Stone visit report, Nov 10 11:45 AM",
-     "office": true,
-     "note": "After the Nov 10 walk the sitter put Sassie's water bowl in the sink to limit how much she drank, because of the long gap before the evening visit. Nothing in the mail says the client or the office asked for this. Worth confirming it is wanted, given the Nov 8 note about possible incontinence.",
-     "quote": "I put her water in the sink to limit her intake this afternoon since there's extra time between her visits today."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Kristin Aldridge visit report, Nov 10 evening visit (approx 6:20 PM)",
-     "office": false,
-     "note": "On the Nov 10 evening walk Sassie was skittish in the darker parts of the grounds but fine in the well-lit areas; the sitter brought a flashlight and says it seemed to help. Sassie also wanted to come inside a little early. One observation on one evening visit, not recorded as a standing rule.",
-     "quote": "She seemed a little bit skittish in the darker areas of the grounds, but was good in the well lit areas."
     }
    ],
    "dormant": false
