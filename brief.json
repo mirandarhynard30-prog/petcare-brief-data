@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T11:20:05-05:00",
+ "generated": "2026-11-14T14:35:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -711,6 +711,16 @@
      "quote": "Hi Carol! My ETA is 3:50pm. Leaving now."
     },
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 12",
+     "source": "Margaret Bill visit report",
+     "office": true,
+     "note": "Sitter arrived to find Lucy's gate standing open and Lucy loose in the yard, running up to greet her. Worth checking the gate on arrival and flagging to the client. Note the client is addressed as 'Carol' by sitters and signs her messages that way, although the account name is Angela Jozsa.",
+     "quote": "Lucy's gate was open, and she came running."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -779,6 +789,16 @@
      "office": true,
      "note": "Oct 28, 8:58am ET private message. Earlier the same morning (4:45am) she asked to push today's visit later, closer to 12:30; she has now settled on a different plan and wants a walker at the regular time plus a second walk at 3:30 today. Needs the schedule confirmed and a second visit added.",
      "quote": "I will need a Walker at the regular time and then one at 3:30. That would work."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 12",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Rainy visit: Lucy went only as far as the neighbour's bushes, then sat down at the door and would not walk. She ate kibble from the sitter's hand, refused a second helping, and did not urinate or defecate during the visit.",
+     "quote": "She did not go #2 or #1."
     }
    ],
    "dormant": false
@@ -2446,6 +2466,16 @@
      "quote": "please read the top of the cans cause some things have changed to help Trudy’s situation"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "client message to Jade",
+     "office": false,
+     "note": "Client said she would be at the house by 9 to let the sitter in for today's visit, so expect to be let in rather than entering alone.",
+     "quote": "No worries I’ll be there by 9 to let u in thanks!"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2544,16 +2574,6 @@
      "office": true,
      "note": "Record conflict the office needs to settle: this visit report has the sitter speaking to Trudy and Trudy answering, which reads as a person in the home rather than a pet, but Trudy is the only name on the client's pet list and the Sep 12 feeding change was described as being for \"Trudy's situation\". Reports also describe cats being fed inside, outside and on the porch, so the pet list looks incomplete either way. Not resolved here - the client record needs checking.",
      "quote": "I told Trudy I was leaving she said thank you!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 14",
-     "source": "Vicki Davey message and Jade Popovitz reply, Nov 14",
-     "office": false,
-     "note": "Client asked on Nov 14 whether the 9:00 visit could come at 9:15 instead. Sitter Jade Popovitz replied that she had to get to her other job immediately after the visit and asked to keep 9:00; the client agreed to 9:00 and said she would be there by 9 to let her in. Resolved in the thread, no action outstanding.",
-     "quote": "No worries I’ll be there by 9 to let u in thanks!"
     }
    ],
    "dormant": false
@@ -2830,6 +2850,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 14",
+     "source": "Julie Smith visit report",
+     "office": false,
+     "note": "Holly pulls much harder once she realises the walk is heading home. The sitter states this has come up in her previous reports as well, so treat it as an ongoing pattern. On today's walk she pulled hard enough that she was, in the sitter's words, sort of choking herself.",
+     "quote": "she definitely knows when we are heading towards home, because she starts to pull much more"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Julie Smith visit report",
+     "office": true,
+     "note": "Sitter raised the pulling and asked whether a harness should be tried for Holly, and said she does not know whether the client already owns one. This is an open question to the client that needs an answer from the office.",
+     "quote": "I’m wondering if we should try a harness."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -2928,26 +2968,6 @@
      "office": false,
      "note": "Resolved - Julie told the client the weather looked good enough to come, and the visit went ahead this afternoon. No office action needed on today's rain question.",
      "quote": "I think the weather should be good for me to come walk Holly."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Client message 1:35 PM",
-     "office": false,
-     "note": "Holly is being sedated/tranquilized for the first time, for a grooming session on Thu Nov 5. The client flagged that she does not know how Holly will react. Expect possible grogginess or unsteadiness at the next visit after grooming.",
-     "quote": "First time for tranquilizers."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 1",
-     "source": "Client message 11:45 AM Nov 1",
-     "office": false,
-     "note": "Client asked at 11:45 AM whether a walker is coming today. This is the third time she has had to ask (Oct 16 and Oct 29 are already on record), so the pattern is that she is not being told in advance who is covering her Sunday and weekday visits. Answered four minutes later by the sitter - see the next item.",
-     "quote": "Miranda do I have a walker today?"
     }
    ],
    "dormant": false
@@ -7131,6 +7151,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "client message",
+     "office": false,
+     "note": "For today's visit only: the client says a family member will be in the house until about 11:30, knows the sitter is coming, and will most likely stay in a bedroom. Normally nobody is home at visit time, so expect someone inside and do not treat it as an intruder.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -7191,6 +7221,16 @@
      "quote": "Thank you, did you see my message about my daughter being there?"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "client message via text",
+     "office": true,
+     "note": "Client followed up by text about twenty minutes later asking whether her earlier message about someone being at the house had been seen. She is waiting on confirmation from the office.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -7229,26 +7269,6 @@
      "office": false,
      "note": "On the Nov 2 early-afternoon walk Bruno barked once at a couple of passing dogs, then stopped. Both dogs were initially very interested in the other dogs but then listened; the sitter moved them along to avoid trouble. Single observation.",
      "quote": "We did see a couple of dogs today and Bruno did bark once but then he stopped."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 1",
-     "source": "Client message, Nov 1 10:15 AM",
-     "office": false,
-     "note": "For Nov 1 only: the client's daughter may be leaving the house around noon or 12:30, so a sitter arriving then may cross paths with her. The client's usual sitter for her fell through, which is why she is home.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 1",
-     "source": "Client message 12:36 PM",
-     "office": false,
-     "note": "Client messaged at 12:36 PM that her 11-year-old daughter reported one of the dogs peed in the living room before she was picked up. The client's own guess is that the daughter only put paper towels over it rather than cleaning it properly, and she tells the sitter to watch their step. She does not say which dog or exactly when.",
-     "quote": "she said one of the dogs peed in the living room"
     }
    ],
    "dormant": false
@@ -8603,6 +8623,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 13",
+     "source": "Company Notes updated by Margaret Bill",
+     "office": false,
+     "note": "Walking route warning: a neighbour to the left keeps a Newfoundland described as aggressive and often running loose. The note adds that if either of Rita's dogs escapes they will come home.",
+     "quote": "If going to the left, be cautious as a neighbor has a Newfoundland who is aggressive and will be running loose"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Nov 12",
      "source": "Margaret Bill rewrote Company Notes, 3:29 PM",
      "office": false,
@@ -8678,16 +8708,6 @@
      "office": false,
      "note": "Client is sometimes home during visits: enter the home and leash the dog. House alarm is not used during the day.",
      "quote": "Client is sometimes home: enter home and leash pet"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Client Notes updated by Margaret Bill",
-     "office": true,
-     "note": "New client onboarding: midday walks preferred between 11:00 AM and 2:00 PM, starting around Dec 2, roughly 6 days a week for 2 weeks while her daughter travels, then likely down to 2-3 walks a week.",
-     "quote": "Start Date: Around December 2nd."
     }
    ],
    "dormant": false
