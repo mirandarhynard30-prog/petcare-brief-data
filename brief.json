@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T17:20:05-05:00",
+ "generated": "2026-11-14T18:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7296,6 +7296,16 @@
      "cat": "home",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 14",
+     "source": "Noella Assi visit report, 3:48 PM",
+     "office": true,
+     "note": "Chloe's treats have run out. The sitter gave her the last treat in the bag on the Nov 14 mid-afternoon visit and took the empty bag out with her. The same report answers No to the pet-supplies-low question, so nothing in Time To Pet flags this - the client needs asking to restock before the next visit.",
+     "quote": "it was the last of Chloe treat so I took the empty bag out"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 8",
      "source": "Karen Grosser client message, Nov 8 11:41 AM",
      "office": true,
@@ -7401,16 +7411,6 @@
      "office": false,
      "note": "Possible door-dash risk for the second pet. When the building staffer opened the apartment door on Nov 3 she had to make sure Garrett did not get out. This is one sitter's observation on one visit, not something the client has written as a rule, but worth blocking the doorway on entry and exit until it is confirmed. The report spells the name Garett; the account carries both Garret and Garrett.",
      "quote": "She made sure Garett didn't get out"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 30",
-     "source": "Tiarra Roberts updated contact information for Karen Grosser",
-     "office": false,
-     "note": "New Company Notes carry a conditional feeding routine for Chloe: only when directed, one full Ollie wet food package from the fridge mixed well with the red spatula, plus one can of Fancy Feast. A second edit three minutes later corrected the supplement wording from Vitamin E to Vitamin E oil and from Ollie tablet to Ollie probiotic - use the later version.",
-     "quote": "ONLY IF DIRECTED: Feed 1 full Ollie package wet food, from fridge, 1/2 dropper Vitamin E oil, Pawfy, Ollie probiotic"
     }
    ],
    "dormant": false
