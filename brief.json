@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T19:20:06-05:00",
+ "generated": "2026-11-13T20:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -827,6 +827,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 13",
+     "source": "Alex Miller visit report, Nov 13 approx 2:20 PM",
+     "office": true,
+     "note": "Afternoon walk: Chloe went #1 but again no #2. This is the second Nov 13 walk in a row with no #2, after the morning walk already logged. 42 degrees, usual route, no accidents in the home. Chloe was asleep in the office on arrival and the client was home during the visit.",
+     "quote": "Chloe went number one but no number two."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 11",
      "source": "Alex Miller visit report, Nov 11 10:31 AM ET",
      "office": true,
@@ -922,16 +932,6 @@
      "office": true,
      "note": "At the afternoon visit the same day, Chloe was found asleep upstairs and began wheezing after being carried down; sitter attached a video. She did go #1 and #2 in the yard. Separate visit from the morning report.",
      "quote": "She began to wheez"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Visit report - Harvett Ellington",
-     "office": true,
-     "note": "Oct 27 report: Chloe was asleep upstairs and began wheezing while the sitter carried her gently downstairs; sitter attached a video. The rest of the visit was normal - went #1 and #2, enjoyed the fenced back yard, bowls cleaned and fresh water. Single observation, no vet contact or follow-up mentioned in the email.",
-     "quote": "while I carried her gently downstairs. She began to wheez"
     }
    ],
    "dormant": false
