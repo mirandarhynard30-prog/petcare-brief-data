@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T06:20:05-05:00",
+ "generated": "2026-11-14T09:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2544,6 +2544,16 @@
      "office": true,
      "note": "Record conflict the office needs to settle: this visit report has the sitter speaking to Trudy and Trudy answering, which reads as a person in the home rather than a pet, but Trudy is the only name on the client's pet list and the Sep 12 feeding change was described as being for \"Trudy's situation\". Reports also describe cats being fed inside, outside and on the porch, so the pet list looks incomplete either way. Not resolved here - the client record needs checking.",
      "quote": "I told Trudy I was leaving she said thank you!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Vicki Davey message and Jade Popovitz reply, Nov 14",
+     "office": false,
+     "note": "Client asked on Nov 14 whether the 9:00 visit could come at 9:15 instead. Sitter Jade Popovitz replied that she had to get to her other job immediately after the visit and asked to keep 9:00; the client agreed to 9:00 and said she would be there by 9 to let her in. Resolved in the thread, no action outstanding.",
+     "quote": "No worries I’ll be there by 9 to let u in thanks!"
     }
    ],
    "dormant": false
