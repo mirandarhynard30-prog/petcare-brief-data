@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T14:35:05-05:00",
+ "generated": "2026-11-14T15:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -274,6 +274,26 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 14",
+     "source": "Client message, Nov 14 1:21 PM",
+     "office": false,
+     "note": "Puck is meant to be left in her crate. The sitter asked the client directly whether Puck had been left out of her crate and the client answered that she should be in.",
+     "quote": "No she should be in! Thanks"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Shannon Anderson messages and visit report, Nov 14 1:16-1:37 PM",
+     "office": true,
+     "note": "On the Nov 14 early-afternoon visit the sitter found Puck loose in the apartment, greeting her at the door, while Rusty was crated - so Puck had been left out by whoever was there before. The sitter checked with the client, then secured both dogs in their crates before leaving. Worth finding out how Puck came to be out.",
+     "quote": "She came and greeted me at the door"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -372,26 +392,6 @@
      "office": true,
      "note": "The afternoon feeding was done without the sitter knowing which food belongs to which dog - she guessed. Which container feeds Puck and which feeds Rusty needs to be written into the Pet Care Note so no sitter has to guess again.",
      "quote": "it would be helpful if I knew which food went to which dog"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 21",
-     "source": "Client message 6:27 PM",
-     "office": false,
-     "note": "Client answered the open food-container question directly at 6:27 PM: Puck's food is the left-side container, Rusty's is the right side. She sent this after the 5:52 PM visit at which the sitter fed both dogs without knowing which container was which and guessed. Use it with the amounts already on file rather than guessing.",
-     "quote": "Thanks so much!! Pucks food is left side and rustys is right side"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Important Notes update",
-     "office": false,
-     "note": "Standing notes as of the Oct 14 update: both dogs are an escape risk, Puck's trigger is loud noises and she will run for the building, and the dogs are kept in the back left bedroom.",
-     "quote": "Puck trigger: loud noises, will run for building"
     }
    ],
    "dormant": false
@@ -794,11 +794,11 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
-     "date": "Nov 12",
-     "source": "Margaret Bill visit report",
+     "date": "Nov 13",
+     "source": "Margaret Bill visit report, Nov 13 11:36 AM",
      "office": false,
-     "note": "Rainy visit: Lucy went only as far as the neighbour's bushes, then sat down at the door and would not walk. She ate kibble from the sitter's hand, refused a second helping, and did not urinate or defecate during the visit.",
-     "quote": "She did not go #2 or #1."
+     "note": "Lucy was slow to get up on the Nov 13 late-morning visit but did get up and walked out on her own. She went #1 and went #2 twice, consistency logged firm and healthy, and the sitter says she did not seem to mind the cold. Back at the house she would only eat a little of her moist food; the sitter got her started by feeding from her hands first, which she says is her own usual approach with Lucy.",
+     "quote": "Lucy, was slow in getting up today, but she did get up."
     }
    ],
    "dormant": false
@@ -2456,6 +2456,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Client message, Nov 14 2:31 PM",
+     "office": false,
+     "note": "Lock-up instructions the client sent mid-afternoon on Nov 14: she left the front door unlocked for the sitter. On the way out, lock the front door, leave by the side door, pull it shut and check that it is shut and locked, and also lock the door to the back porch. She asks to be told if there are any issues.",
+     "quote": "please make sure you lock the front door when u leave go out the side when u pull it shut"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -2474,6 +2484,16 @@
      "office": false,
      "note": "Client said she would be at the house by 9 to let the sitter in for today's visit, so expect to be let in rather than entering alone.",
      "quote": "No worries I’ll be there by 9 to let u in thanks!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Harvett Ellington message, Nov 14 2:32 PM",
+     "office": false,
+     "note": "Replying to those instructions, the sitter said he would make a video of the locked front door 'again'. That wording suggests a video of the locked door has been sent before, but nothing in these emails states it as a standing requirement - treat it as unconfirmed.",
+     "quote": "Yes maam I will make a video again of the front door"
     },
     {
      "cat": "schedule",
@@ -2554,26 +2574,6 @@
      "office": true,
      "note": "The 4:28 PM afternoon report finally names the low supply the morning report flagged without detail: gloves. The sitter also put the recycled-can bag out. Office should restock gloves for this home. Same report notes the client was home during the visit and all indoor and outdoor cats were fed and watered.",
      "quote": "Also, gloves are getting low, and the recycled ♻️ cans bag went out also."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Client message, 9:49 AM Oct 24",
-     "office": false,
-     "note": "Entry note the client sent for today's visit only, right after Kiara Streety's ETA message: the front door is open, and if Trudy is not downstairs the sitter should let her know she is there. Third documented instance this month of the front door being left open for the sitter (Oct 10, Oct 17, Oct 24) - the pattern is standing even though each message covers one visit.",
-     "quote": "Ok thanks Kiara front door is open if Trudy isn’t down stairs just let her no ure there thanks have a great day!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 24",
-     "source": "Kiara Streety visit report, 10:49 AM Oct 24",
-     "office": true,
-     "note": "Record conflict the office needs to settle: this visit report has the sitter speaking to Trudy and Trudy answering, which reads as a person in the home rather than a pet, but Trudy is the only name on the client's pet list and the Sep 12 feeding change was described as being for \"Trudy's situation\". Reports also describe cats being fed inside, outside and on the porch, so the pet list looks incomplete either way. Not resolved here - the client record needs checking.",
-     "quote": "I told Trudy I was leaving she said thank you!"
     }
    ],
    "dormant": false
