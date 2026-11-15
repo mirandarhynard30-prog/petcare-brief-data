@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T11:20:05-05:00",
+ "generated": "2026-11-15T12:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2429,6 +2429,16 @@
      "cat": "home",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 15",
+     "source": "Kiara Streety post-visit report 11:00 AM Nov 15",
+     "office": false,
+     "note": "Morning cat visit: the front door was locked, the sitter had to wait to be let in, and she both entered and left through the side door. Her report ends by saying the front door will stay locked for now, which runs against the client's 8:59 AM message asking that it be left unlocked for the afternoon team. Client was home during the visit.",
+     "quote": "Front door is going to stay locked for right now!"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 14",
      "source": "Client message, Nov 14 2:31 PM",
      "office": false,
@@ -2514,16 +2524,6 @@
      "office": false,
      "note": "Entry note the client sent for the Oct 31 evening visit only, three minutes after Elizabeth Sigler gave a 5:25 ETA: the front door will be open, so the sitter should let themselves in. Applies to that visit only.",
      "quote": "The front door will be open thanks Vicki"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Harvett Ellington visit report, Oct 25 morning visit",
-     "office": false,
-     "note": "Potty accident found and cleaned up on the Oct 25 morning visit (sitter arrived 9:20-9:25 AM). Before and after photos were attached to the report. The report also records the client as home during the visit.",
-     "quote": "There was a potty accident and I cleaned it up (before and after pictures included)"
     }
    ],
    "dormant": false
@@ -8325,6 +8325,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 15",
+     "source": "Client message 11:14 AM Nov 15",
+     "office": true,
+     "note": "Client says she scheduled Wednesday and Thursday of this week (Nov 18-19 by that wording) but it did not register, and that she would try again. Office needs to confirm whether anything actually came through for those two days.",
+     "quote": "I scheduled Wednesday/Thursday this week. Not sure why it didn’t register. I will try again."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -8385,6 +8395,16 @@
      "quote": ""
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 15",
+     "source": "Client message 11:19 AM Nov 15",
+     "office": true,
+     "note": "Five minutes later the client wrote that she had not hit add, so nothing was submitted, and that she will not need the same services each week so she does not want a recurring template.",
+     "quote": "I didn’t hit add so it didn’t submit it."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -8423,26 +8443,6 @@
      "office": false,
      "note": "Client reports the puppies have worked out the steps up to the couch. Relevant to the escape/containment risk already flagged for this household.",
      "quote": "Oh and the puppies figured out the steps to the couch already."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 10",
-     "source": "Client message, Nov 10 8:02 AM",
-     "office": false,
-     "note": "Client sent keypad entry instructions by message on Nov 10 (a code plus a button on the lock). The code is deliberately not recorded here - read it in Time To Pet.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Elizabeth Sigler visit report, 12:50 PM",
-     "office": false,
-     "note": "Willa was wary of the two sitters new to the home: she stayed inside the whole visit and barked at both of them. She accepted a few pets mid-visit and more on the way out. Give her space and let her come to you. Single visit, so not yet a standing rule.",
-     "quote": "She barked at both Dan and I."
     }
    ],
    "dormant": false
