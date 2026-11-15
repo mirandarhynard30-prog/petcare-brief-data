@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T13:20:07-05:00",
+ "generated": "2026-11-15T14:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1079,6 +1079,26 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 15",
+     "source": "Client message",
+     "office": true,
+     "note": "Writing the morning after the Nov 14 evening visit, the client thanks the sitter for helping with Georgie's eye drops. Her wording leaves it unclear whether she gives the drops herself and the sitter assists, or the sitter gives them. Nothing in the mail says the drops are written into a care note, so the office should confirm what sitters are expected to do.",
+     "quote": "Thanks for helping me with his eye drops!"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Visit report - Tiarra Roberts",
+     "office": false,
+     "note": "The Nov 14 evening visit report answers the medication question Yes. The written part of the report does not say what was given or how, so the only detail here is that medication was administered on that visit.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 12",
      "source": "Client message, Nov 12 12:13 PM ET",
      "office": false,
@@ -1174,26 +1194,6 @@
      "office": true,
      "note": "Same mail and garage routine on the Oct 30 evening visit: the sitter collected the mail, entered through the garage and handed the mail to Mary Ann, and the security field again reads that the garage door was fully closed before leaving. Two consecutive nights of unwritten standing steps.",
      "quote": "I got the mail and headed inside, through the garage."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Tiarra Roberts visit report, 8:25 PM",
-     "office": false,
-     "note": "Evening medicine and eyedrops again on Oct 30, with the sitter holding Georgie while Mary Ann administered them, then ice cubes as a treat. The report records #2 as firm and healthy and medication administered. No sign of the leg trouble reported Oct 25 to Oct 27.",
-     "quote": "I held Georgie while Mary Ann gave him his medicine and eyedrops."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Monica Hopewell visit report, 10:18 AM",
-     "office": false,
-     "note": "Oct 27 morning walk was deliberately slower and shorter to protect Georgie's leg. The sitter says the leg was hurt 'yesterday'; the only injury recorded in this mailbox is the Oct 25 8 PM walk, so this may be loose dating rather than a second injury. He went both #1 and #2 and the consistency field reads firm and healthy.",
-     "quote": "I just wanted to be careful with Georgie today since his leg was hurt yesterday so we did take a slower walk"
     }
    ],
    "dormant": false
