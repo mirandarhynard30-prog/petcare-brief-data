@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T22:20:06-05:00",
+ "generated": "2026-11-15T05:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -414,16 +414,6 @@
      "source": "Client message",
      "office": true,
      "note": "Client asks to cancel all currently scheduled visits for now, and would like weekly visits with Tommy to resume once her work schedule is settled. Needs an office reply.",
-     "quote": "I imagine we should cancel all of our scheduled visits for now."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Client message 10:29 PM",
-     "office": true,
-     "note": "Liz messaged at 10:29 PM to say she has quit her job and asks that all of her scheduled visits be cancelled for now. She has prospects but does not expect to start work for a while. This is an open-ended cancellation of everything on her books, not a single visit - the office has to confirm it and clear her future schedule, and nothing in this mailbox shows a reply yet.",
      "quote": "I imagine we should cancel all of our scheduled visits for now."
     }
    ],
@@ -2150,36 +2140,6 @@
      "quote": "her stool seemed to be harder and she was having a harder time passing it today"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Matt Konn private message, Oct 24 10:29 AM",
-     "office": true,
-     "note": "Client messaged privately at 10:29 AM Oct 24 asking for two visits tomorrow, Sun Oct 25 - a 7-9 AM window and a 7-9 PM window, each walk plus feeding. Described as a spur-of-the-moment decision. No reply or scheduling visible in this mailbox as of 11:15 AM.",
-     "quote": "Can I get someone for 7- 9 am window: walk + feeding....as well as 7-9 pm window: walk + feeding?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Matt Konn private message, 11:17 AM Oct 24",
-     "office": true,
-     "note": "Follow-up to his 10:29 AM request for two visits Sunday Oct 25 (7-9 AM and 7-9 PM windows): he confirms the pet needs feeding at both visits. His wording suggests someone replied to him, but no reply is visible in this mailbox, so whether the Sunday visits are booked is unconfirmed.",
-     "quote": "TY!!! She will need fed both times!! I really appreciate it!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Client private message",
-     "office": false,
-     "note": "Ripley needs to be fed at both the morning and the evening visit on Oct 25.",
-     "quote": "She will need fed both times!!"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -2376,16 +2336,6 @@
      "quote": "Putting Frankie on his own leash, again. That works out so much better."
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Tiarra Roberts visit report, 1:45 PM",
-     "office": false,
-     "note": "Sitter found walking Frankie on a separate leash worked better than the usual setup. One sitter on one visit, not an established rule - worth trying and confirming before it becomes standing.",
-     "quote": "It was much better to put Frankie on his own leash."
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2434,16 +2384,6 @@
      "office": false,
      "note": "They eat three times a day (am, midday, evening) in the utility room - portioned bags in the refrigerator or on the kitchen island, rice/chicken plus kibble in each bowl. Treats in the utility room cabinet. Water bowls in laundry room and kitchen.",
      "quote": "NO NEED TO PICK UP THE #2'S. WATCH OUT FOR DEER POOP IN BACK YARD FIELD."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Tiarra Roberts visit report, 1:45 PM",
-     "office": true,
-     "note": "Sitter flagged the kitchen scissors used to open the pre-packaged food as going dull and suggested replacing them. The report's pet-supplies-low field was answered No, so this did not register as a supply issue anywhere else.",
-     "quote": "The scissors are getting a bit dull, maybe time for new ones, possibly?"
     },
     {
      "cat": "home",
@@ -2634,26 +2574,6 @@
      "office": false,
      "note": "Second consecutive day of loose stool for Bella. On the Oct 25 9 AM visit she went #1 a few times and #2 once, and the consistency field was answered a little loose but not concerning. The Oct 24 10 AM report logged her single #2 as slightly loose after she ate grass. Two days running, both logged as not concerning by the sitters.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Kathy Pastor visit report, Oct 24 10:24 AM",
-     "office": false,
-     "note": "On the 10 AM walk Bella ate some grass and her single #2 was logged as slightly loose. The sitter recorded it as not concerning and reported Bella as chipper and brisk, so this is one observation rather than an established pattern.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Kathy Pastor visit report, Oct 24 10:24 AM",
-     "office": false,
-     "note": "Client was home for the Oct 24 10 AM visit and asked that the door not be locked on leaving. The sitter did not go in or check the home for that reason.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -4313,36 +4233,6 @@
     },
     {
      "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Shannon Anderson visit report, Oct 24 morning",
-     "office": false,
-     "note": "On the Oct 24 morning visit the kitty area was fine except for litter scattered in front of the litter boxes. Shannon Anderson could not clean it up because the house vacuum was dead, so the litter was left in place. The report does not say whether the vacuum is broken or just uncharged.",
-     "quote": "I was going to vacuum it up but the vacuum was dead"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Client message, Oct 24 8:51 PM",
-     "office": false,
-     "note": "Heads-up that people may be at the house: the client's friends (named in her message as Chloe and Hector - these are people, not pets) may be at the house tonight using the backyard. Sitter may run into them. Client gave no end date, so this reads as tonight only.",
-     "quote": "our friends Chloe and Hector may be at our house tonight using our backyard"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Elizabeth Sigler visit report, Oct 24 10:03 PM",
-     "office": false,
-     "note": "At the Oct 24 evening visit Lucy did not finish the peanut butter her pills are hidden in - she left some on the spoon. Elizabeth Sigler checked the leftover for pill fragments before wiping the spoon off, and reported none, so the dose was taken. Worth a look at the spoon on any visit where she leaves some, since a missed pill would not be obvious otherwise.",
-     "quote": "She left a little on the spoon, so I checked to make sure the leftover peanut butter didn’t contain any pill fragments"
-    },
-    {
-     "cat": "home",
      "sev": "low",
      "type": "recent",
      "date": "Oct 25",
@@ -4360,26 +4250,6 @@
      "office": false,
      "note": "Lucy was reluctant to go #2 on the Oct 25 morning walk - they did the usual route and even walked past the house before she went. She did go both #1 and #2 and the consistency was logged firm and healthy.",
      "quote": "She was very determined to skip going #2 but she finally did"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Client message, Oct 24 8:58 PM",
-     "office": false,
-     "note": "Follow-up message confirming the visit still goes ahead in full even with her friends at the house - all normal tasks as usual.",
-     "quote": "Yes please still do everything like food medicine water walk"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Elizabeth Sigler visit report, Oct 24 10:03 PM; client message Oct 24 8:51 PM",
-     "office": true,
-     "note": "Name check for this record: the Oct 24 evening report names the dog Lucy and gives greenies to Silas and Penny, so those three are the animals. Chloe and Hector, from the client's own 8:51 PM message, are human friends visiting the house, not pets. Worth confirming the Time To Pet pet list matches, because Chloe is also a cat at one client and a dog at another.",
-     "quote": "Silas and Penny also got a greenie or two"
     }
    ],
    "dormant": false
@@ -5733,36 +5603,6 @@
      "office": false,
      "note": "Flacko was waiting at the gate when the sitter arrived and pushed in while she was moving it, and at the end of the visit he tried to follow her out. He is a documented escape risk, so treat the gate and the door as the pinch points on arrival and departure.",
      "quote": "He even tried to leave with me today."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Client message, 1:50 PM",
-     "office": false,
-     "note": "Client replying about a supply a sitter had asked after - the request itself is not in this mailbox, so which supply is unclear. He points to a possible stock under the cabinet by the kitchen door and says he will have more for tomorrow. Sitter should check there first. Elizabeth Sigler acknowledged at 1:57 PM.",
-     "quote": "There might be some under the cabinet right by the kitchen door. If not, I’ll make sure I have some more for tomorrow."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Elizabeth Sigler visit report, Oct 24 2:25 PM",
-     "office": false,
-     "note": "Poop bags are out. Elizabeth Sigler checked the cabinet by the kitchen door that Brandon had pointed to and found none, and used a bag from her own car. Brandon said earlier the same day he would have more by tomorrow, so bring your own bags until that is confirmed. Report's pet-supplies-low field answered Yes.",
-     "quote": "I looked all over for poop bags or other plastic bags- including the cabinet you mentioned. Seems like you’re out!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 24",
-     "source": "Client message",
-     "office": false,
-     "note": "Replying to a sitter asking about a supply, the client said there may be some under the cabinet by the kitchen door and that he would get more if not. The email does not say which supply was being asked about.",
-     "quote": "There might be some under the cabinet right by the kitchen door."
     }
    ],
    "dormant": false
