@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T10:20:06-05:00",
+ "generated": "2026-11-15T11:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2535,6 +2535,16 @@
     "Bella"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 15",
+     "source": "Visit report, Chelsea Tompkins, Nov 15 9:30 AM",
+     "office": false,
+     "note": "Nov 15 morning walk: Bella went #1 a few times and #2 once, and the sitter logged the stool as a little loose though she judged it not concerning. The walk was shortened because it was raining.",
+     "quote": "It was a little loose but not concerning"
+    },
     {
      "cat": "health",
      "sev": "medium",
@@ -8598,6 +8608,24 @@
      "office": false,
      "note": "Client is sometimes home during visits: enter the home and leash the dog. House alarm is not used during the day.",
      "quote": "Client is sometimes home: enter home and leash pet"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Allysa Ware",
+   "url": "https://www.timetopet.com/dashboard/client/teztzxCzyNGZ",
+   "pets": [],
+   "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 15",
+     "source": "Client message, Nov 15 10:19 AM",
+     "office": false,
+     "note": "Answering a question from the office, the client confirms the wet-food portion is the same morning and evening. She writes 'she' and does not name the pet, so check Time To Pet for which animal this applies to if there is more than one.",
+     "quote": "She should get the same amount of wet food in the morning and evening."
     }
    ],
    "dormant": false
