@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T21:20:05-05:00",
+ "generated": "2026-11-14T22:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4170,6 +4170,26 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Monica Hopewell visit report, Nov 14 evening",
+     "office": true,
+     "note": "Garage keypad would not let the sitter in on the Nov 14 evening visit. The sitter believes the battery on the garage door is dead and used the backup entry instead.",
+     "quote": "I could not get in through the garage keypad"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 14",
+     "source": "Monica Hopewell visit report, Nov 14 evening",
+     "office": false,
+     "note": "The Nov 14 evening sitter reported reading in Time To Pet that she was not supposed to feed Storm and Timber. The email does not say whether that is a standing instruction or applied only to that visit.",
+     "quote": "then I read that I wasn't supposed to feed them"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -4198,6 +4218,16 @@
      "office": false,
      "note": "Client wrote at 6:21 PM that his car is in the garage but he is not home, so the car in the garage does not mean anyone is there. He does not say whether this is just for today's visit or a general clarification, so treat it as ambiguous in scope.",
      "quote": "fyi car in the garage I am not there."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Monica Hopewell visit report, Nov 14 evening",
+     "office": true,
+     "note": "Both dogs were fed on the Nov 14 evening visit before the sitter read the no-feeding instruction.",
+     "quote": "Storm ate and Timber ate some"
     },
     {
      "cat": "home",
