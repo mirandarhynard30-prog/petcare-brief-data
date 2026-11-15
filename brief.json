@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T08:20:05-05:00",
+ "generated": "2026-11-15T10:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2409,6 +2409,26 @@
      "cat": "home",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 15",
+     "source": "Client message 8:59 AM Nov 15",
+     "office": false,
+     "note": "Client wrote at 8:59 AM on Nov 15 that she left the front door unlocked and asks that it be LEFT unlocked for the afternoon team. This is the opposite of her Nov 14 instruction to lock the front door on the way out, so treat it as applying to Nov 15 only.",
+     "quote": "Gm the front door is unlocked please leave unlocked for afternoon people thanks"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 15",
+     "source": "Kiara Streety message 9:34 AM Nov 15",
+     "office": true,
+     "note": "Thirty-five minutes after the client said the front door was unlocked, the 9:30 AM sitter reported finding it locked. No reply from the client appears anywhere in the mail, so it is not clear whether the sitter got in. Office should confirm the visit happened.",
+     "quote": "Good morning Vicki the front door is locked"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 14",
      "source": "Client message, Nov 14 2:31 PM",
      "office": false,
@@ -2504,26 +2524,6 @@
      "office": false,
      "note": "Potty accident found and cleaned up on the Oct 25 morning visit (sitter arrived 9:20-9:25 AM). Before and after photos were attached to the report. The report also records the client as home during the visit.",
      "quote": "There was a potty accident and I cleaned it up (before and after pictures included)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Harvett Ellington visit report, Oct 25 morning visit",
-     "office": true,
-     "note": "The Oct 25 morning report answers Yes to pet supplies getting low but gives no detail anywhere in the report, so it is not clear which supply is running out. Office needs to ask the sitter which item it is.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Harvett Ellington visit report, Oct 25 4:28 PM",
-     "office": true,
-     "note": "The 4:28 PM afternoon report finally names the low supply the morning report flagged without detail: gloves. The sitter also put the recycled-can bag out. Office should restock gloves for this home. Same report notes the client was home during the visit and all indoor and outdoor cats were fed and watered.",
-     "quote": "Also, gloves are getting low, and the recycled ♻️ cans bag went out also."
     }
    ],
    "dormant": false
