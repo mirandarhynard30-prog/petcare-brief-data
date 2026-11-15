@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T16:20:07-05:00",
+ "generated": "2026-11-15T17:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2469,6 +2469,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 15",
+     "source": "Harvett Ellington visit report, Nov 15 afternoon visit",
+     "office": false,
+     "note": "Somebody was present at the Nov 15 afternoon visit - the report's home-secured field answers 'Client was home during visit' and the sitter writes that she met Trudy's daughter and told Trudy she would see them all next week. Trudy is listed as a pet on this account, so whether 'Trudy' and 'Trudy's daughter' here mean the pet or people at the home is unclear from the report. Relevant to the unresolved morning question about whether the front door was locked or unlocked, since someone was there in the afternoon.",
+     "quote": "met Trudy's daughter, very pleasant!!"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 14",
      "source": "client message to Jade",
      "office": false,
@@ -2524,16 +2534,6 @@
      "office": false,
      "note": "Entry note the client sent for the Oct 31 morning visit only: the front door would be left open, so the sitter was to let themselves in. Applies to that visit, not as a standing rule.",
      "quote": "Gm front door will be open thanks!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Client message 5:04 PM",
-     "office": false,
-     "note": "Entry note the client sent for the Oct 31 evening visit only, three minutes after Elizabeth Sigler gave a 5:25 ETA: the front door will be open, so the sitter should let themselves in. Applies to that visit only.",
-     "quote": "The front door will be open thanks Vicki"
     }
    ],
    "dormant": false
