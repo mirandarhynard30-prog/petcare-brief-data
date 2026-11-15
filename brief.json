@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T18:20:07-05:00",
+ "generated": "2026-11-14T19:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4192,6 +4192,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Client private message, Nov 14 6:21 PM",
+     "office": false,
+     "note": "Client wrote at 6:21 PM that his car is in the garage but he is not home, so the car in the garage does not mean anyone is there. He does not say whether this is just for today's visit or a general clarification, so treat it as ambiguous in scope.",
+     "quote": "fyi car in the garage I am not there."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "standing",
      "date": "Oct 11",
      "source": "Bill Brock private message, Oct 11 10:07am",
@@ -4230,7 +4240,7 @@
      "quote": "Dry dogs before bringing inside"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Emily Tharp",
