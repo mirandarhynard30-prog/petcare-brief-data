@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T15:20:13-05:00",
+ "generated": "2026-11-15T16:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -590,6 +590,16 @@
     "CJ"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 15",
+     "source": "Terry M private message, Nov 15 3:23 PM",
+     "office": true,
+     "note": "Client sent the household's holiday schedule: no services needed Nov 19-20 or Nov 25-27. This came as a private message, not a cancellation in Time To Pet, so any visits already booked on those five days are still on the schedule and the office has to pull them. The message is signed only 'Terry M'; an earlier message on this account was signed 'Toni', so which household member wrote it is unclear.",
+     "quote": "No need for services on the following days:\nNov. 19-20\nNov. 25-27"
+    },
     {
      "cat": "schedule",
      "sev": "high",
