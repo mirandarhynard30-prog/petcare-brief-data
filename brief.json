@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T14:20:06-05:00",
+ "generated": "2026-11-15T15:20:13-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3972,6 +3972,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 15",
+     "source": "Client message 3:02 PM Nov 15",
+     "office": true,
+     "note": "Client writes that she will be off Thanksgiving and Black Friday (Nov 26-27). She does not say whether visits on those days should be cancelled, and 'as well' points at earlier days off that are not in this email - check the schedule and confirm with her which visits to drop.",
+     "quote": "i wanted to tell you i will be off Thanksgiving and Black Friday as well!!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 6",
      "source": "Christi Russo message, Nov 6 11:05 AM",
      "office": true,
@@ -4077,16 +4087,6 @@
      "office": false,
      "note": "Thomas Rakovec's 11:41 AM visit report logs the #2 as firm and healthy and says the stools are getting firmer. Which dog it was is unclear in the report itself: the narrative calls him Guinness throughout, while the visit-report pet section is filled in under JAXSON.",
      "quote": "Guinness went several #1 and a very good #2..they are getting firmer"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Dan Dantimo message to client, 5:19 PM Nov 10",
-     "office": true,
-     "note": "Dan Dantimo messaged the client thread at 5:19 PM to correct the sitter on the pet's name, so the dog on the Nov 10 walk was Jaxson. The correction went to the client-visible thread and the 11:41 AM report still names Guinness - office may want to fix that report.",
-     "quote": "Tom, the dog's name is Jaxson!!"
     }
    ],
    "dormant": false
@@ -8635,8 +8635,20 @@
   {
    "name": "Allysa Ware",
    "url": "https://www.timetopet.com/dashboard/client/teztzxCzyNGZ",
-   "pets": [],
+   "pets": [
+    "Bluey"
+   ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 15",
+     "source": "Client message 2:22 PM Nov 15",
+     "office": false,
+     "note": "Bluey is fed once a day. Sent minutes after the client's separate answer about the wet-food portion being the same morning and evening, so the two messages describe different animals - the once-a-day rule is Bluey's. The email does not say which meal of the day Bluey's feeding is.",
+     "quote": "Bluey gets fed once a day."
+    },
     {
      "cat": "health",
      "sev": "medium",
@@ -8646,6 +8658,26 @@
      "office": false,
      "note": "Answering a question from the office, the client confirms the wet-food portion is the same morning and evening. She writes 'she' and does not name the pet, so check Time To Pet for which animal this applies to if there is more than one.",
      "quote": "She should get the same amount of wet food in the morning and evening."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 15",
+     "source": "Client message 2:23 PM Nov 15",
+     "office": false,
+     "note": "Litter/waste drawer: the client asks that reset be selected whenever the bag in the drawer is changed. She does not name the appliance in this message.",
+     "quote": "It is usually best to select reset if you change the bag in the drawer."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 15",
+     "source": "Client message 2:50 PM Nov 15",
+     "office": false,
+     "note": "Separate follow-up message about the same drawer: check the indicator light after closing it and hit reset if the light is not green, to confirm the unit is working.",
+     "quote": "If the light isn't green once you close the drawer, hit the reset button to ensure it is working."
     }
    ],
    "dormant": false
