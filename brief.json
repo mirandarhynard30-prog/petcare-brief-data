@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T17:20:05-05:00",
+ "generated": "2026-11-15T18:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -5075,6 +5075,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 15",
+     "source": "Client message",
+     "office": true,
+     "note": "Client is requesting overnight-span service Dec 5-6 and asks the office to get back to her - this came as a message, nothing is booked in Time To Pet. She wants 2-3 visits each day: Sat she leaves about 9am and asks for 2pm, 6pm and 10pm; Sun 7am and 1-2pm. Pets need to be fed on the visits. She notes the trip (driving to Canada via Buffalo NY) is weather dependent, so the dates may still change.",
+     "quote": "Looking for service. December 5-6, overnight. We would like to go out of town 12-5&6 2026. Will need 2-3 visits both days."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -5135,7 +5145,7 @@
      "quote": "GRASS, CHICKEN. HE’S AN ITCHY BOY"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Denise Spurio",
