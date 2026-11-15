@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T12:20:05-05:00",
+ "generated": "2026-11-15T13:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4120,6 +4120,16 @@
      "quote": "then I read that I wasn't supposed to feed them"
     },
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Visit report from Monica Hopewell",
+     "office": true,
+     "note": "On the Nov 14 evening visit the sitter could not get in through the garage keypad and had to use the alternate entry. She thinks the garage door battery is dead. Worth checking before the next visit.",
+     "quote": "I think the battery is dead on the garage door."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -4158,6 +4168,16 @@
      "office": true,
      "note": "Both dogs were fed on the Nov 14 evening visit before the sitter read the no-feeding instruction.",
      "quote": "Storm ate and Timber ate some"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Visit report from Monica Hopewell",
+     "office": true,
+     "note": "Storm and Timber were fed on the Nov 14 evening visit before the sitter read that they were not to be fed. Storm ate a full portion, Timber ate some. The no-feed instruction is reported secondhand by the sitter - confirm it and make sure it is clear in the care note.",
+     "quote": "I read that I wasn't supposed to feed them so they did eat"
     },
     {
      "cat": "home",
@@ -7131,6 +7151,16 @@
      "quote": ""
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 14",
+     "source": "Client message from Jennifer Wagar",
+     "office": false,
+     "note": "Client says nobody is normally home at visit time, so expect an empty house unless told otherwise for a particular day.",
+     "quote": "usually no one is home when you come"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -7159,16 +7189,6 @@
      "office": false,
      "note": "Bruno hates the rain and the client sometimes walks him holding an umbrella over him rather than herself. Suka is not bothered by rain.",
      "quote": "Bruno hates the rain. Sometimes I have to use an umbrella over him to walk him instead of an umbrella over me."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 2",
-     "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "On the Nov 2 early-afternoon walk Bruno barked once at a couple of passing dogs, then stopped. Both dogs were initially very interested in the other dogs but then listened; the sitter moved them along to avoid trouble. Single observation.",
-     "quote": "We did see a couple of dogs today and Bruno did bark once but then he stopped."
     }
    ],
    "dormant": false
