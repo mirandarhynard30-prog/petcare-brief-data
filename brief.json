@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T16:20:06-05:00",
+ "generated": "2026-11-16T18:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1806,6 +1806,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Company Notes edit by Tiarra Roberts, 2:11 PM",
+     "office": false,
+     "note": "Harness rule, new to the brief: the blue denim harness has a clip in front to use if he pulls. This afternoon's Company Notes edit only deleted the section headings (Harness, Waste Disposal) - the wording of both instructions is unchanged.",
+     "quote": "Blue denim harness, does have clip in front, if pulling"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -1844,6 +1854,16 @@
      "office": false,
      "note": "Important Notes now carry the arrival procedure, the hurry-him-along rule and Macy's dog reactivity. The same save deleted the reason for the long walks, so Murphy's weight-loss goal is now recorded nowhere.",
      "quote": "Goal: weight loss -> important to get a nice long walk"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Company Notes edit by Tiarra Roberts, 2:11 PM",
+     "office": false,
+     "note": "Waste disposal at this home, also new to the brief: used poop bags go in the gray trash can in the garage.",
+     "quote": "Poop bags go in gray trash can in garage"
     },
     {
      "cat": "health",
@@ -2188,6 +2208,26 @@
      "office": false,
      "note": "A heavy package of copy paper was sitting at the front door today. The sitter brought it inside and left it just inside the front door rather than carrying it through to the office.",
      "quote": "I brought in the copy paper through the front door, leaving it inside, next to the front door"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Monica Hopewell visit report, 2:12 PM",
+     "office": false,
+     "note": "Ripley went both #1 and #2 on today's midday walk and the consistency field was answered firm and healthy. That closes the run of reports with no #2 entry at all - Nov 12 and Nov 13 both carried none.",
+     "quote": "It was firm and healthy"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Monica Hopewell visit report, 2:12 PM",
+     "office": false,
+     "note": "Ripley sat calmly while another dog was down the street before the walk carried on. The client was home during this visit. Entry was through the garage and the garage door was fully closed on leaving.",
+     "quote": "She did really good about sitting for when the puppy was down the street before we continued on."
     },
     {
      "cat": "home",
@@ -3093,11 +3133,11 @@
      "cat": "home",
      "sev": "low",
      "type": "standing",
-     "date": "Nov 12",
-     "source": "Tiarra Roberts contact-information update, 9:24 AM ET",
+     "date": "Nov 16",
+     "source": "Important Notes edit by Tiarra Roberts, 2:02 PM",
      "office": false,
-     "note": "The mailbox line gained a second instruction: as well as the street mailbox, check the front porch for packages. The rest of this morning's edit moved existing paw-wash and leash text between Pet Care and Company Notes without changing it.",
-     "quote": "Mailbox on street, check front porch for packages"
+     "note": "One wording change in this afternoon's Important Notes edit and nothing else: the paw-wash step is now tied to coming back from the walk rather than to coming inside generally. Previously it read 'After coming inside:'. The paw wash in the laundry room and the towel on the back of the laundry room door are unchanged.",
+     "quote": "After coming inside, after walk:"
     }
    ],
    "dormant": false
@@ -7787,6 +7827,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Robin Lewis visit report, 12:15 PM",
+     "office": false,
+     "note": "Brutus refused his food entirely on today's late-morning visit - food was already in his bowl and he showed no interest. He did drink the water, went #1 and #2 (consistency field answered firm and healthy), played, and took treats. One observation from one sitter, no other symptom reported; worth watching whether he eats at the next visit.",
+     "quote": "He drank the water but would not eat his food at all showed no interest in it."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7895,16 +7945,6 @@
      "office": false,
      "note": "Sitter had no cell reception inside the house on the Nov 5 visit and asked the client for the Wi-Fi password to get a signal; the client replied with it through Time To Pet. Expect no cell signal indoors - the Wi-Fi credential stays in Time To Pet and is not recorded here. Single report, not confirmed as an every-visit problem.",
      "quote": "Could I please have the password for your Wi-Fi for some reason I cannot get reception in your house"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Tracy Martin message, 1:31 PM",
-     "office": false,
-     "note": "The frozen blue Kong Tracy said would be in the freezer for the crate was not there. She says she asked her kid to put it in and did not check, so do not count on finding one.",
-     "quote": "I asked my kid to put it in The freezer but didn’t verify."
     }
    ],
    "dormant": false
@@ -8656,7 +8696,8 @@
    "name": "Allysa Ware",
    "url": "https://www.timetopet.com/dashboard/client/teztzxCzyNGZ",
    "pets": [
-    "Bluey"
+    "Bluey",
+    "Bailey"
    ],
    "items": [
     {
@@ -8718,6 +8759,36 @@
      "office": false,
      "note": "Bluey is fed once a day.",
      "quote": "Bluey gets fed once a day."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Reese Rath visit report, 4:25 PM",
+     "office": false,
+     "note": "A package was sitting at the door on this afternoon's visit and the sitter brought it inside.",
+     "quote": "I also brought the package that was at the door inside."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Reese Rath visit report, 4:25 PM",
+     "office": true,
+     "note": "No photos are attached to this afternoon's report. The sitter says she took them in the app but they appear to have been deleted and not saved. The report form asks for pictures with the water, food and litter answers, so the office may want to tell the client why this visit has none.",
+     "quote": "I did take pictures, but they somehow got deleted since I took them through the app"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Reese Rath visit report, 4:25 PM",
+     "office": false,
+     "note": "Bailey was waiting at the door when the sitter walked in, but the report's greeting field was answered 'a little shy' rather than happy. Full litter change-out done and the bottom bag taken out.",
+     "quote": "They were a little shy"
     }
    ],
    "dormant": false
