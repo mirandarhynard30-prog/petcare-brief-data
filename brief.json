@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T20:20:05-05:00",
+ "generated": "2026-11-15T21:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -599,6 +599,16 @@
      "office": true,
      "note": "Client sent the household's holiday schedule: no services needed Nov 19-20 or Nov 25-27. This came as a private message, not a cancellation in Time To Pet, so any visits already booked on those five days are still on the schedule and the office has to pull them. The message is signed only 'Terry M'; an earlier message on this account was signed 'Toni', so which household member wrote it is unclear.",
      "quote": "No need for services on the following days:\nNov. 19-20\nNov. 25-27"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 15",
+     "source": "Terry M private message",
+     "office": false,
+     "note": "No services needed Nov 19-20 and Nov 25-27 (client gave two weeks of holiday schedule).",
+     "quote": "No need for services on the following days:"
     },
     {
      "cat": "schedule",
@@ -2449,11 +2459,31 @@
      "cat": "home",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 15",
+     "source": "Vicki Davey message",
+     "office": false,
+     "note": "Client left the front door open for the day and asked that it be left unlocked for the afternoon visits.",
+     "quote": "the front door is unlocked please leave unlocked for afternoon people"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 14",
      "source": "Client message, Nov 14 2:31 PM",
      "office": false,
      "note": "Lock-up instructions the client sent mid-afternoon on Nov 14: she left the front door unlocked for the sitter. On the way out, lock the front door, leave by the side door, pull it shut and check that it is shut and locked, and also lock the door to the back porch. She asks to be told if there are any issues.",
      "quote": "please make sure you lock the front door when u leave go out the side when u pull it shut"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Vicki Davey message",
+     "office": false,
+     "note": "Locking routine the client gave: lock the front door on the way out, leave by the side door and pull it shut, check it is shut and locked, and lock the back porch door too.",
+     "quote": "please make sure you lock the front door when u leave go out the side"
     },
     {
      "cat": "health",
@@ -2514,26 +2544,6 @@
      "office": false,
      "note": "Resolves the Nov 1 9:44 AM exchange where the client asked whether anyone was there. Sitter Harvett Ellington told her she will message to say she has arrived before going in. Treat announcing arrival before entry as expected for this client; the client has not stated it herself, so the office may still want to confirm it as a standing rule.",
      "quote": "Before I go in, I will inform you that I am here!!!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 31",
-     "office": true,
-     "source": "Kiara Streety visit report, Oct 31 10:21 AM",
-     "note": "This morning's report says Trudy was asleep and the sitter decided not to speak to her so as not to wake her. The home-secured field on the same report answers 'Client was home during visit'. Whether a sitter spoke to Trudy has been the subject of repeated client challenges this month, and the client's Oct 24 ask was that the sitter call out to her, so expect a question on this one.",
-     "quote": "Trudy was sleep I was going to speak and say goodbye but I didn’t want to wake her!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Client message 9:25 AM",
-     "office": false,
-     "note": "Entry note the client sent for the Oct 31 morning visit only: the front door would be left open, so the sitter was to let themselves in. Applies to that visit, not as a standing rule.",
-     "quote": "Gm front door will be open thanks!"
     }
    ],
    "dormant": false
@@ -2616,6 +2626,16 @@
      "source": "Client private message",
      "office": true,
      "note": "Client wrote this evening that he has MOVED and gave a new service address in Shaker Heights 44120. The address has to be updated in Time To Pet before the next visit or a sitter will be sent to the old house. The street address is deliberately not recorded here - it is in the 7:25 PM message in Time To Pet. The same message also gave side-door entry details, which stay in Time To Pet.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 15",
+     "source": "Paulo Garcia private message",
+     "office": true,
+     "note": "Client has moved. New service address is in Shaker Heights 44120 - pull the full new address from Time To Pet before dispatching; confirm the client record is updated.",
      "quote": ""
     },
     {
@@ -2716,16 +2736,6 @@
      "source": "Harvett Ellington visit report 11:04 AM",
      "office": true,
      "note": "Visit report answered Yes to pet supplies getting low but the written report does not say which supply. Needs a follow-up with Harvett Ellington to find out what is running out.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Harvett Ellington visit report for Paulo Garcia",
-     "office": true,
-     "note": "Harvett's Nov 4 report answered yes to pet supplies getting low but did not say which supply - ambiguous, needs a follow-up with the sitter.",
      "quote": ""
     }
    ],
@@ -4029,6 +4039,16 @@
      "quote": "Yes if the alarm is on just disarm it"
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 15",
+     "source": "Christi Russo message",
+     "office": true,
+     "note": "Client says she is off work Thanksgiving and Black Friday. She did not say outright that visits are cancelled those days - confirm before removing them from the schedule.",
+     "quote": "i wanted to tell you i will be off Thanksgiving and Black Friday"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -4087,16 +4107,6 @@
      "office": false,
      "note": "Client thanked the sitter for the updates on Jackson's potty and said the dog is mid food change, which she expects to unsettle him for a while. Sitters have been writing the name as Jaxson, the client writes Jackson.",
      "quote": "thank you for keeping us informed about Jackson's potty"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Thomas Rakovec visit report, 11:41 AM Nov 10",
-     "office": false,
-     "note": "Thomas Rakovec's 11:41 AM visit report logs the #2 as firm and healthy and says the stools are getting firmer. Which dog it was is unclear in the report itself: the narrative calls him Guinness throughout, while the visit-report pet section is filled in under JAXSON.",
-     "quote": "Guinness went several #1 and a very good #2..they are getting firmer"
     }
    ],
    "dormant": false
@@ -4138,6 +4148,16 @@
      "office": true,
      "note": "On the Nov 14 evening visit the sitter could not get in through the garage keypad and had to use the alternate entry. She thinks the garage door battery is dead. Worth checking before the next visit.",
      "quote": "I think the battery is dead on the garage door."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 14",
+     "source": "Monica Hopewell visit report",
+     "office": true,
+     "note": "Sitter fed Storm and Timber on this visit before reading that they were not to be fed. Storm ate and Timber ate some. Client may need telling, and the no-feeding instruction needs to be clearer to sitters.",
+     "quote": "and then I read that I wasn't supposed to feed them so they did eat"
     },
     {
      "cat": "health",
@@ -4218,16 +4238,6 @@
      "office": true,
      "note": "Company Notes rewritten at 4:14 PM and the water bowls changed. The note previously listed three bowls - kitchen, deck, and upstairs in the dog room. It now lists one in the kitchen and two upstairs in the dog room, so the deck bowl has dropped out. This reverses the Sep 27 change that had added the deck bowl.",
      "quote": "1 water bowl in kitchen and 2 water bowls upstairs, in dog room"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts updated contact information for Bill Brock",
-     "office": true,
-     "note": "The same rewrite deleted the two drying lines from Potty & Outdoor Instructions - that the dogs should be dried before coming inside, and that the towels are by the back door. The muddy-backyard warning stays but the note no longer says what to do about it.",
-     "quote": "Dry dogs before bringing inside"
     }
    ],
    "dormant": false
@@ -5083,6 +5093,16 @@
      "office": true,
      "note": "Client is requesting overnight-span service Dec 5-6 and asks the office to get back to her - this came as a message, nothing is booked in Time To Pet. She wants 2-3 visits each day: Sat she leaves about 9am and asks for 2pm, 6pm and 10pm; Sun 7am and 1-2pm. Pets need to be fed on the visits. She notes the trip (driving to Canada via Buffalo NY) is weather dependent, so the dates may still change.",
      "quote": "Looking for service. December 5-6, overnight. We would like to go out of town 12-5&6 2026. Will need 2-3 visits both days."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 15",
+     "source": "Beth Nickel message",
+     "office": true,
+     "note": "Requesting overnight-style coverage Dec 5-6: Sat leaving ~9am, wants visits at 2, 6 and 10; Sun 7am and 1-2pm; pets need feeding at each. Trip is weather dependent (driving to Canada via Buffalo). Asked for a reply - not yet answered as of this run.",
+     "quote": "Looking for service. December 5-6, overnight."
     },
     {
      "cat": "behavior",
