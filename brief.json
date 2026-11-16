@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T06:20:07-05:00",
+ "generated": "2026-11-16T08:35:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -609,6 +609,16 @@
      "office": false,
      "note": "No services needed Nov 19-20 and Nov 25-27 (client gave two weeks of holiday schedule).",
      "quote": "No need for services on the following days:"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 15",
+     "source": "Terry M private message",
+     "office": true,
+     "note": "Terry sent two weeks of dates with no service needed: Nov 19-20 and Nov 25-27. Miranda replied in the thread and Terry thanked her, but the visits still need to be off the schedule.",
+     "quote": "I wanted to give you our schedule for the next 2 weeks going into the Holiday."
     },
     {
      "cat": "schedule",
@@ -2469,6 +2479,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 15",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Nov 15 morning visit was delayed - the sitter could not get in and waited to be let in; the client was home during the visit.",
+     "quote": "had to wait to be let in but I had nothing but time"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 14",
      "source": "client message to Jade",
      "office": false,
@@ -2494,16 +2514,6 @@
      "office": true,
      "note": "Client wrote 'Hey there ru there' at 9:44 AM and then at 9:49 AM said the sitter did not say she was there and had started. Harvett Ellington had already messaged an ETA at 9:16 AM and 'I'm walking up now' at 9:15 AM, so it is not clear from the mail whether the client missed those messages, was asking about a different visit, or wants a separate arrival confirmation once the sitter is inside and working. This repeats the Oct 18 complaint about arrival communication; the office should settle what confirmation this client expects.",
      "quote": "She didn't say she was and started thanks"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 1",
-     "source": "Harvett Ellington message to client, Nov 1 10:20 AM",
-     "office": false,
-     "note": "Resolves the Nov 1 9:44 AM exchange where the client asked whether anyone was there. Sitter Harvett Ellington told her she will message to say she has arrived before going in. Treat announcing arrival before entry as expected for this client; the client has not stated it herself, so the office may still want to confirm it as a standing rule.",
-     "quote": "Before I go in, I will inform you that I am here!!!"
     }
    ],
    "dormant": false
@@ -2586,6 +2596,16 @@
      "source": "Paulo Garcia private message",
      "office": true,
      "note": "Client has moved. New service address is in Shaker Heights 44120 - pull the full new address from Time To Pet before dispatching; confirm the client record is updated.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 15",
+     "source": "Paulo Garcia private message",
+     "office": true,
+     "note": "Paulo has moved; the new service address is in Shaker Heights 44120. Get the address and the entry details from Time To Pet - do not use the old address. Office should confirm the move is updated in the system and that routing reflects it.",
      "quote": ""
     },
     {
@@ -2677,16 +2697,6 @@
      "office": false,
      "note": "Milo was out of his crate when Harvett arrived for the late-morning visit; she put him back in. Check the crate on entry - it is not clear from the report whether the crate was left open or Milo got himself out.",
      "quote": "Milo was not in his crate when I entered but I put him back in there."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Harvett Ellington visit report 11:04 AM",
-     "office": true,
-     "note": "Visit report answered Yes to pet supplies getting low but the written report does not say which supply. Needs a follow-up with Harvett Ellington to find out what is running out.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -8608,6 +8618,26 @@
      "office": false,
      "note": "Separate follow-up message about the same drawer: check the indicator light after closing it and hit reset if the light is not green, to confirm the unit is working.",
      "quote": "If the light isn't green once you close the drawer, hit the reset button to ensure it is working."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 15",
+     "source": "Allysa Ware message",
+     "office": false,
+     "note": "Same amount of wet food morning and evening. Allysa wrote 'She', so which pet this covers is not stated in the message.",
+     "quote": "She should get the same amount of wet food in the morning and evening."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 15",
+     "source": "Allysa Ware message",
+     "office": false,
+     "note": "Bluey is fed once a day.",
+     "quote": "Bluey gets fed once a day."
     }
    ],
    "dormant": false
