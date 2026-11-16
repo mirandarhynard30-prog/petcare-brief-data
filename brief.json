@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T08:35:05-05:00",
+ "generated": "2026-11-16T09:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -499,6 +499,16 @@
      "quote": "He also does not like the liver one and giblet one."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Client message 8:31 AM",
+     "office": false,
+     "note": "Client is home and going to bed this morning - she had been up 24 hours. She tells the walker to let herself get Gordy and take him out, and says he had already been out once since she got home. She wrote the name two ways in the same message (Gordy, then Girdy), so it is unclear whether the second mention is a typo or a second dog.",
+     "quote": "You can grab Gordy and take him for his walk."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -537,16 +547,6 @@
      "office": false,
      "note": "The client's own reply to that walk report treats the #2 frequency as routine and says Gordy saves it for Mondays. It is said jokingly, not as a clinical report, but it is the only sign so far of how the client reads the Monday pattern - worth knowing before the office raises the loose-stool run with her.",
      "quote": "He loves his walks, leaf piles, and saving his #2 for Mondays!"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Margaret Bill visit report, Nov 6 morning",
-     "office": false,
-     "note": "Gordy went #2 twice on the Nov 6 morning walk and the sitter described both as a little soft; the report consistency field was logged as a little loose but not concerning.",
-     "quote": "both times it was a little soft"
     }
    ],
    "dormant": false
