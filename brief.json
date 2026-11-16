@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T14:35:06-05:00",
+ "generated": "2026-11-16T15:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7243,6 +7243,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Karen Grosser client message, Nov 16 2:17 PM",
+     "office": true,
+     "note": "Karen asked at 2:17 PM for someone to stop by today - she is in too much pain to walk Chloe herself. She says she is home, just unable to walk, and that she booked a visit for about 3 PM. Noella Assi replied in the thread that she can come 3:30-4 PM and Karen agreed to that time. The office still needs to confirm the visit is actually on today's schedule.",
+     "quote": "I'm in allot of pain today and can't really walk myself, let alone Chloe"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -7351,16 +7361,6 @@
      "office": false,
      "note": "Building entry, in reply to the office: the reddish wood side doors by the garbage bins will be open. If they are not, ask the Senior Center, Trish or Mike behind the split door, or Tatiana the building manager. Grosser has emailed Trish and Tatiana but had no reply yet, so entry is not guaranteed - message the office if the sitter cannot get in.",
      "quote": "Yes, the side doors (they look like reddish wood doors that are close to the lovely garbage bins) will be open."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Tiarra Roberts visit report for Karen Grosser, 1:17 PM Nov 3",
-     "office": false,
-     "note": "Possible door-dash risk for the second pet. When the building staffer opened the apartment door on Nov 3 she had to make sure Garrett did not get out. This is one sitter's observation on one visit, not something the client has written as a rule, but worth blocking the doorway on entry and exit until it is confirmed. The report spells the name Garett; the account carries both Garret and Garrett.",
-     "quote": "She made sure Garett didn't get out"
     }
    ],
    "dormant": false
