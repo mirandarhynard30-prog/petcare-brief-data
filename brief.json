@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T12:20:07-05:00",
+ "generated": "2026-11-16T14:35:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -111,6 +111,16 @@
      "quote": "Use blue pill cutter in cat drawer (check pill cutter tray first to see if there is a half pill from previous day)."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Tiarra Roberts updated contact information for Kelly Huntington - Important Notes, Nov 16 2:00 PM ET",
+     "office": false,
+     "note": "New line at the end of the Important Notes: when Kelly is traveling, turn off the living room light and turn on a different light, at every visit. Everything else in the note - the AM Prednisolone and Gabapentin, the wet/dry feeding, the litter boxes and the scooper routine - is word for word what the brief already carries. The only other change is housekeeping: the line about extra wet food cans in the cupboard under the coffee maker moved out of Important Notes into Company Notes.",
+     "quote": "When Kelly is traveling, turn off living room light and turn on a different light, at each visit"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -119,16 +129,6 @@
      "office": false,
      "note": "Livvie is on medication: tablets plus a syringe of liquid gabapentin. On the Oct 26 morning visit the tablets took several tries; the liquid went down easily. Dose and schedule are not stated in the email.",
      "quote": "I got Livvie's medicine 💊 and syringe of liquid gabapentin ready for her."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 25",
-     "source": "Client message",
-     "office": false,
-     "note": "Client says Caleb hides under the table and hisses when there have been visitors, and describes it as his usual reaction - finding him under the table instead of on the couch is normal.",
-     "quote": "My friend was over before we left and Caleb was doing his hiding under the table hissing thing"
     }
    ],
    "dormant": false
@@ -4080,6 +4080,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Tiarra Roberts updated contact information for Bill Brock - Important Notes, Nov 16 2:09 PM ET",
+     "office": false,
+     "note": "Containment rule the brief was not carrying: the dogs are shut in the upstairs bedroom - up the stairs and to the right - whenever they are left unattended, because they may chew or damage. This line is identical in the old and new versions of the note, so it is not a change today, just absent from the brief until now.",
+     "quote": "Dogs stay in upstairs bedroom (up stairs, to right) when unattended. May chew or damage"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -4142,6 +4152,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Tiarra Roberts updated contact information for Bill Brock - Important Notes, Nov 16 2:09 PM ET",
+     "office": false,
+     "note": "The bedtime visit gained a time window and a hard limit in this edit. It now reads 8pm-10pm and potty break plus refreshing the water bowls ONLY, and the bowls are located for the first time - one in the kitchen, two upstairs. The previous version had no time window, no ONLY and no bowl locations. Same edit also added '(in fridge)' to the AM/PM wet food line.",
+     "quote": "Bedtime Visits 8pm-10pm: Potty break and refreshing water bowls ONLY(1 in kitchen, 2 upstairs)"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 14",
      "source": "Client private message, Nov 14 6:21 PM",
@@ -4178,26 +4198,6 @@
      "office": false,
      "note": "Client answers the sitters' supply question: trash bags are kept in the cabinet above the trash can. This does NOT answer the separate Oct 10 request for a light bulb for the dogs' upstairs room - that one is still open.",
      "quote": "The trash bags are in the cabinet above the trash can."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 10",
-     "source": "Tiarra Roberts contact-info update, 3:45-4:09pm",
-     "office": false,
-     "note": "Important Notes edited three times in half an hour. A trash day was added, the feeding lines tightened to name 'two white plates' at both the AM and the afternoon/evening feeding, and the headline rule now reads 'Backyard Only/No Walks required'. Bedtime visits unchanged - potty break and refreshing water.",
-     "quote": "Trash day: Tuesday"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts updated contact information for Bill Brock",
-     "office": true,
-     "note": "Company Notes rewritten at 4:14 PM and the water bowls changed. The note previously listed three bowls - kitchen, deck, and upstairs in the dog room. It now lists one in the kitchen and two upstairs in the dog room, so the deck bowl has dropped out. This reverses the Sep 27 change that had added the deck bowl.",
-     "quote": "1 water bowl in kitchen and 2 water bowls upstairs, in dog room"
     }
    ],
    "dormant": false
@@ -5105,6 +5105,26 @@
      "quote": "Louie receives Apoquel for skin allergies"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Tiarra Roberts updated contact information for Beth Nickel - Company Notes, Nov 16 2:04 PM ET",
+     "office": false,
+     "note": "Waste handling at this home, new to the brief: used poop bags go out on the patio for Beth to collect herself, and fresh bags are kept on the kitchen counter and in the garage. Unchanged by this afternoon's edit - it is the consolidation of the Company Notes that surfaced it.",
+     "quote": "Place used poop bags on patio for Beth to get"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Tiarra Roberts updated contact information for Beth Nickel - Company Notes, Nov 16 2:04 PM ET",
+     "office": false,
+     "note": "Treat limit for this household: no more than 2 per dog, from the treat container on the dining room shelf, and the dogs may also have peanut-butter-filled bones. This edit dropped the old qualifier - the previous note read 'No more than 2 treats/sticks broken into pieces per dog', so the limit now reads as two whole treats rather than two broken up. The Treats heading was also removed, folding these lines into the surrounding list.",
+     "quote": "Treat container located on dining room shelf (no more than 2 per dog)"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -5350,6 +5370,16 @@
     "Louise (Weezie)"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Shannon Anderson visit report for Christine Jenison, Nov 16 12:23 PM ET",
+     "office": true,
+     "note": "Today's midday report again makes no mention of Weezie/Louise's eye drops - not in the narrative and not anywhere in the report form, whose only fields for her are whether she went #1 and the stool consistency. The report is otherwise full and careful: bins brought back up, Chewy box and mail brought in, both fountains changed, treats given, all doors locked. That extends the run already logged for Nov 9, 10, 11 and 12 to six consecutive reports with no confirmation the drops were given.",
+     "quote": ""
+    },
     {
      "cat": "health",
      "sev": "high",
