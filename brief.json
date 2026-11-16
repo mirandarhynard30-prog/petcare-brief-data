@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T15:20:07-05:00",
+ "generated": "2026-11-16T16:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -10,6 +10,16 @@
     "Caleb"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Tiarra Roberts updated Important Notes",
+     "office": false,
+     "note": "Medication, per the current Important Notes: AM visit, Livvie only - one and a half Prednisolone tablets (a saved half pill may be in the pill cutter tray). Gabapentin is 0.4ml drawn in the syringe to the red line; the bottle is on the top shelf of the fridge and is shaken well first. These lines were unchanged by this update.",
+     "quote": "Gabapentin - 0.4ml in syringe, to red line"
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -119,16 +129,6 @@
      "office": false,
      "note": "New line at the end of the Important Notes: when Kelly is traveling, turn off the living room light and turn on a different light, at every visit. Everything else in the note - the AM Prednisolone and Gabapentin, the wet/dry feeding, the litter boxes and the scooper routine - is word for word what the brief already carries. The only other change is housekeeping: the line about extra wet food cans in the cupboard under the coffee maker moved out of Important Notes into Company Notes.",
      "quote": "When Kelly is traveling, turn off living room light and turn on a different light, at each visit"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Visit report, Tiarra Roberts",
-     "office": false,
-     "note": "Livvie is on medication: tablets plus a syringe of liquid gabapentin. On the Oct 26 morning visit the tablets took several tries; the liquid went down easily. Dose and schedule are not stated in the email.",
-     "quote": "I got Livvie's medicine 💊 and syringe of liquid gabapentin ready for her."
     }
    ],
    "dormant": false
@@ -519,6 +519,16 @@
      "quote": "He went number two twice, both times it was a little loose."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Client message",
+     "office": false,
+     "note": "Client had been up 24 hours and was going to sleep, telling the sitter to take the dog out for his walk without her. She wrote that the dog had already been out for #2 after she got home - she spells the name two ways in the message (Gordy and Girdy), so it is unclear whether one dog or two are meant.",
+     "quote": "You can grab Gordy and take him for his walk."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -537,16 +547,6 @@
      "office": true,
      "note": "Client messaged that they are driving home and expect to arrive about 5:01 PM Nov 12. Check whether any later visits today should be dropped. The mail does not say which visits or how long they were away.",
      "quote": "We are still on the road in traffic.We should be there at 5;01 pm."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Client message, 7:58 PM",
-     "office": false,
-     "note": "Client apologises in her evening message that Gordy pulled the sitter into a big bush on the Nov 13 walk. A concrete instance of his standing pull-on-leash warning from Oct 22; she raises it only in passing and asks for nothing. Which of the day's walks she means is not stated.",
-     "quote": "I am sorry he pulled you in to a big bush."
     }
    ],
    "dormant": false
@@ -2592,6 +2592,16 @@
      "cat": "home",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 16",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client has MOVED. The new service address is on Riedham Road in Shaker Heights 44120 - the full address and the entry details are in his private message in Time To Pet. Needs updating on the client record and on the route before the next visit, or a sitter will drive to the old address.",
+     "quote": "I have moved and the new service address is"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
      "date": "Nov 15",
      "source": "Client private message",
      "office": true,
@@ -2642,6 +2652,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 16",
+     "source": "Client private message",
+     "office": false,
+     "note": "At the new home Milo will be crated on the first floor and Archer stays free roaming. Water bowls are in the dining room and the treats will be on the counter.",
+     "quote": "Milo will be in his crate on the first floor, and Archer will still be free roaming"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Nov 15",
      "source": "Client private message",
      "office": false,
@@ -2687,26 +2707,6 @@
      "office": false,
      "note": "How this sitter ran the visit: the dogs went out one at a time - Archer walked first, down the street and back, then Milo, whose walk was shorter with many stops for squirrels. Milo went back into his crate at the end and Archer did not. One sitter on one visit, so not recorded as a rule.",
      "quote": "I came back to get Milo and he was super excited to get out."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Drew Walker visit report, Nov 10 11:40 AM",
-     "office": false,
-     "note": "Archer was shut in a bedroom when the sitter arrived for the Nov 10 late-morning visit and she let him out before the walk. The report does not say who put him there or why; the only earlier instance on record is Oct 27, when the client said cleaners were in the house. Worth checking the bedrooms on arrival rather than assuming he will greet you.",
-     "quote": "I arrived with Archer put away in the bedroom."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Jade Popovitz visit report, Nov 6 11:44 AM",
-     "office": true,
-     "note": "Treats are out at the Garcia home - Jade could not give Milo or Archer a treat on the Nov 6 visit. Note the structured supplies-low field on the same report was answered No, so the narrative and the form disagree. This may be what Harvett's vague Nov 4 supplies-low flag referred to, but the mail does not say so.",
-     "quote": "Unfortunately no treats since they were all out, they were so sad"
     }
    ],
    "dormant": false
@@ -4090,6 +4090,16 @@
      "quote": "Dogs stay in upstairs bedroom (up stairs, to right) when unattended. May chew or damage"
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Tiarra Roberts updated Important Notes",
+     "office": false,
+     "note": "No walks at this home - backyard visits only. Dogs stay in the upstairs bedroom (up the stairs, to the right) when unattended; they may chew or cause damage.",
+     "quote": "No walks, backyard visits only"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -4162,6 +4172,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Tiarra Roberts updated Important Notes",
+     "office": false,
+     "note": "Bedtime visits are now specified as 8pm-10pm and limited to a potty break and refreshing the water bowls only (1 in the kitchen, 2 upstairs). AM/PM feeding is 1 canned wet food total from the fridge split between 2 white plates, dry food topped off, fountain filled. Mailbox is on the street; trash day is Tuesday.",
+     "quote": "Bedtime Visits 8pm-10pm: Potty break and refreshing water bowls ONLY"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 14",
      "source": "Client private message, Nov 14 6:21 PM",
@@ -4178,26 +4198,6 @@
      "office": true,
      "note": "Both dogs were fed on the Nov 14 evening visit before the sitter read the no-feeding instruction.",
      "quote": "Storm ate and Timber ate some"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 14",
-     "source": "Visit report from Monica Hopewell",
-     "office": true,
-     "note": "Storm and Timber were fed on the Nov 14 evening visit before the sitter read that they were not to be fed. Storm ate a full portion, Timber ate some. The no-feed instruction is reported secondhand by the sitter - confirm it and make sure it is clear in the care note.",
-     "quote": "I read that I wasn't supposed to feed them so they did eat"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 11",
-     "source": "Bill Brock private message, Oct 11 10:07am",
-     "office": false,
-     "note": "Client answers the sitters' supply question: trash bags are kept in the cabinet above the trash can. This does NOT answer the separate Oct 10 request for a light bulb for the dogs' upstairs room - that one is still open.",
-     "quote": "The trash bags are in the cabinet above the trash can."
     }
    ],
    "dormant": false
@@ -7253,6 +7253,16 @@
      "quote": "I'm in allot of pain today and can't really walk myself, let alone Chloe"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Client message",
+     "office": true,
+     "note": "Client asked for an added visit today because she cannot walk Chloe herself. She is HOME, not away. She says she scheduled one for around 3pm and later is also fine; Noella and Miranda both replied in the thread, so it appears covered - office should confirm the visit is actually on the schedule.",
+     "quote": "Just to verify I am here just unable to walk today"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -7351,16 +7361,6 @@
      "office": true,
      "note": "Follow-up to the Nov 6 lockbox message. The client says she spoke to her building manager and expects a spare fob next week and a spare key later because it has to be cut. Until the spares arrive the fob and key in the box are her own, and she has to remember to put them there before she leaves for work - so entry is not guaranteed on any visit until then. OFFICE: confirm the code reset she asked for, and agree what a sitter should do if the box is empty. No code and no box or key location recorded here on purpose; those are in the Time To Pet private message and belong in her Pet Care Note.",
      "quote": "I should have an extra fob next week and a key that might take a little longer as it has to be made."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Karen Grosser private message, 8:59 AM Nov 3",
-     "office": false,
-     "note": "Building entry, in reply to the office: the reddish wood side doors by the garbage bins will be open. If they are not, ask the Senior Center, Trish or Mike behind the split door, or Tatiana the building manager. Grosser has emailed Trish and Tatiana but had no reply yet, so entry is not guaranteed - message the office if the sitter cannot get in.",
-     "quote": "Yes, the side doors (they look like reddish wood doors that are close to the lovely garbage bins) will be open."
     }
    ],
    "dormant": false
