@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T00:05:09-05:00",
+ "generated": "2026-11-16T13:35:09-05:00",
  "date": "2026-11-16",
  "label": "Nov 16, 2026",
  "clients": [
@@ -67,8 +67,8 @@
    "name": "Diane Hoard",
    "visits": [
     {
-     "time": "12:45 PM",
-     "sort": "1245",
+     "time": "1:00 PM",
+     "sort": "1300",
      "staff": "Kristin Ashick",
      "service": "Dog Visit-45 minute",
      "pets": "Mac"
@@ -201,8 +201,8 @@
    "name": "Matt Konn",
    "visits": [
     {
-     "time": "1:00 PM",
-     "sort": "1300",
+     "time": "1:30 PM",
+     "sort": "1330",
      "staff": "Monica Hopewell",
      "service": "Dog Visit-30 minute",
      "pets": "Ripley, Ripley, Ripley"
@@ -232,8 +232,8 @@
      "pets": "chloe, chloe"
     },
     {
-     "time": "2:30 PM",
-     "sort": "1430",
+     "time": "3:00 PM",
+     "sort": "1500",
      "staff": "Harvett Ellington",
      "service": "Dog Visit-30 minute",
      "pets": "chloe"
