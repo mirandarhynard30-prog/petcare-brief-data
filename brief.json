@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T10:20:05-05:00",
+ "generated": "2026-11-16T11:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -274,6 +274,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Margaret Bill visit report, Nov 16 morning walk",
+     "office": false,
+     "note": "Puck went #2 twice on this morning's walk and the sitter wrote that it was fairly soft again. The structured consistency field on the same report says a little loose but not concerning, so the write-up and the field do not fully agree.",
+     "quote": "It was fairly soft again today."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Margaret Bill visit report, Nov 16 morning walk",
+     "office": true,
+     "note": "One of the latches on Rusty's collar was crooked and the sitter could not pull it down, so she used the other collar instead. Rusty walked well on it and did not pull much. The collar needs checking or replacing.",
+     "quote": "One of the latches was crooked, and I couldn't pull it down so I used the other collar."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -372,26 +392,6 @@
      "office": false,
      "note": "Rusty broke out of her crate during the 5:19 PM visit. While Margaret Bill was outside with Puck, Rusty knocked the back panel out of her crate and had the run of the apartment; nothing was damaged. Margaret refitted the back panel and put Rusty back in with her food bowl, as Rusty had not finished eating. The crate has already failed once, so check the back panel is seated before leaving Rusty in it, and bear in mind both dogs are a standing escape risk.",
      "quote": "She had knocked the back of her crate out and had free reign of the house."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 28",
-     "source": "Shannon Anderson visit report, 6:44 PM ET",
-     "office": false,
-     "note": "Rusty's collar was tightening on its own around her neck during the evening visit. Sitter removed it for safety and left it on the counter, then walked Rusty on her other collar and leash. Next sitter should use the other collar, not the one on the counter, until it is replaced or checked.",
-     "quote": "I noticed her collar was closing itself around her neck"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 21",
-     "source": "Margaret Bill visit report, 5:52 PM",
-     "office": true,
-     "note": "The afternoon feeding was done without the sitter knowing which food belongs to which dog - she guessed. Which container feeds Puck and which feeds Rusty needs to be written into the Pet Care Note so no sitter has to guess again.",
-     "quote": "it would be helpful if I knew which food went to which dog"
     }
    ],
    "dormant": false
@@ -2631,6 +2631,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Harvett Ellington visit report, Nov 16 late-morning visit",
+     "office": false,
+     "note": "Archer growled at the sitter on arrival this morning until he recognised who she was, then settled. Milo was happy as usual.",
+     "quote": "Archer was growling until he saw who I was."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "standing",
      "date": "Nov 15",
      "source": "Client private message",
@@ -2697,16 +2707,6 @@
      "office": true,
      "note": "Treats are out at the Garcia home - Jade could not give Milo or Archer a treat on the Nov 6 visit. Note the structured supplies-low field on the same report was answered No, so the narrative and the form disagree. This may be what Harvett's vague Nov 4 supplies-low flag referred to, but the mail does not say so.",
      "quote": "Unfortunately no treats since they were all out, they were so sad"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Harvett Ellington visit report 11:04 AM",
-     "office": false,
-     "note": "Milo was out of his crate when Harvett arrived for the late-morning visit; she put him back in. Check the crate on entry - it is not clear from the report whether the crate was left open or Milo got himself out.",
-     "quote": "Milo was not in his crate when I entered but I put him back in there."
     }
    ],
    "dormant": false
@@ -3529,6 +3529,16 @@
      "office": false,
      "note": "Client asks every sitter to double-check the door is locked before leaving after Aayla's walk. She found it left unlocked on Aug 27. She raised it warmly and followed up saying she appreciates the team, so this is a standing check, not a complaint to resolve.",
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Chrissy George visit report, Nov 16 morning walk",
+     "office": false,
+     "note": "Aayla went #1 several times on this morning's walk but did not go #2. Single observation, not a pattern.",
+     "quote": "She went number one multiple times. She did not go number two."
     },
     {
      "cat": "behavior",
@@ -6802,6 +6812,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 16",
+     "source": "Julie Smith visit report, Nov 16 late-morning walk",
+     "office": false,
+     "note": "Boo's #2 on this morning's walk is described in the sitter's write-up as quite a bit soft and runny. The structured consistency field on the same report says a little loose but not concerning - the two do not agree, so the field alone understates what the sitter wrote.",
+     "quote": "Her number two was quite a bit soft and runny which I did mention in the report."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 13",
      "source": "Dan Dantimo visit report, Nov 13 11:13 AM",
      "office": false,
@@ -6847,6 +6867,16 @@
      "office": false,
      "note": "Boo appeared to strain going #2 and the stool was a little loose, logged as not concerning. First visit, so no baseline for her yet.",
      "quote": "She seemed to struggle a bit to go #2."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Julie Smith visit report, Nov 16 late-morning walk",
+     "office": false,
+     "note": "Boo barked at another dog that came out of a garage during this morning's walk. The sitter redirected her and they carried on without trouble.",
+     "quote": "she definitely barked when she saw the dog, but I was able to redirect her"
     },
     {
      "cat": "behavior",
