@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T09:20:06-05:00",
+ "generated": "2026-11-16T10:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -509,6 +509,16 @@
      "quote": "You can grab Gordy and take him for his walk."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Visit report from Margaret Bill",
+     "office": false,
+     "note": "On this morning's walk Gordy went #2 twice and both were a little loose; the sitter's report marked it as not concerning.",
+     "quote": "He went number two twice, both times it was a little loose."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -537,16 +547,6 @@
      "office": false,
      "note": "Client apologises in her evening message that Gordy pulled the sitter into a big bush on the Nov 13 walk. A concrete instance of his standing pull-on-leash warning from Oct 22; she raises it only in passing and asks for nothing. Which of the day's walks she means is not stated.",
      "quote": "I am sorry he pulled you in to a big bush."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 9",
-     "source": "Anna Marie LeMaster message, Nov 9 3:18 PM",
-     "office": false,
-     "note": "The client's own reply to that walk report treats the #2 frequency as routine and says Gordy saves it for Mondays. It is said jokingly, not as a clinical report, but it is the only sign so far of how the client reads the Monday pattern - worth knowing before the office raises the loose-stool run with her.",
-     "quote": "He loves his walks, leaf piles, and saving his #2 for Mondays!"
     }
    ],
    "dormant": false
@@ -1529,6 +1529,16 @@
      "office": false,
      "note": "Client spells out the difference between the two dogs if one gets loose: Nova comes back when called, Astra bolts. She says the dogs have halo collars for this but they were on charge the last time Astra got out. She agrees to a garage hand-off going forward, so sitters should take and return the dogs through the garage rather than the front door.",
      "quote": "nova comes straight back when called, but astra will bolt"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client asks that everyone park in the turn around, and asked Miranda to send a notice to the team about it.",
+     "quote": "I keep forgetting to ask everyone if they can park in the turn around."
     },
     {
      "cat": "schedule",
@@ -6797,6 +6807,16 @@
      "office": false,
      "note": "Boo passed a small amount of DIARRHEA on today's late-morning walk and then struggled to go #2 for the rest of the walk. The report's consistency field reads very loose/diarrhea but pet seems fine otherwise. This follows loose stools logged Oct 26, Nov 2 and Nov 9 - today is the loosest of that run. The client was home during the visit.",
      "quote": "she had a small amount of diarrhea and struggled to do number two the entire walk"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Client message",
+     "office": false,
+     "note": "Client will not be home for Boo's walk today. She says Boo is raring to go; Boo had a haircut last week and was at the dog park yesterday.",
+     "quote": "I will not be home for Boo’s walk today."
     },
     {
      "cat": "health",
