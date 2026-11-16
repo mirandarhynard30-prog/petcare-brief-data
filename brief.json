@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T22:20:06-05:00",
+ "generated": "2026-11-16T05:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -417,7 +417,7 @@
      "quote": "I imagine we should cancel all of our scheduled visits for now."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Anna Marie LeMaster",
@@ -1412,16 +1412,6 @@
     {
      "cat": "behavior",
      "sev": "low",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Harvett Ellington message to client, 1:30 PM",
-     "office": false,
-     "note": "Another walk refusal on the Oct 25 midday visit - the sitter writes that Bismark was not having it and did not want to go. The notification truncates the rest of the message, so what the sitter did instead is not recorded here. Consistent with the Oct 17, Oct 19 and Oct 20 reports.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
      "type": "standing",
      "date": "Oct 17",
      "source": "Christina Palmieri message",
@@ -2119,7 +2109,7 @@
      "quote": "I came by for the last visit before you guys get in."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Matt Konn",
@@ -2148,16 +2138,6 @@
      "office": true,
      "note": "Follow-up private message one minute after the visit request, specifying the request is for the following day - Sunday Nov 1.",
      "quote": "For Tomorrow …Ha"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Monica Hopewell visit report, Oct 25 morning visit",
-     "office": false,
-     "note": "Monica Hopewell's Oct 25 morning report says Ripley went both #1 and #2, but her stool seemed harder than usual and she had a harder time passing it. The stool-consistency field on the same report was answered 'It was firm and healthy', so the narrative and the checklist do not agree. Matt reported loose bowel movements on Oct 22, so a swing the other way is worth watching at the evening visit.",
-     "quote": "her stool seemed to be harder and she was having a harder time passing it today"
     },
     {
      "cat": "behavior",
@@ -2394,29 +2374,9 @@
      "office": false,
      "note": "Two further Company Notes edits at 7:37pm and 7:38pm finished the rewrite. The containment rule now reads unconditionally - the earlier 'when unattended' qualifier is gone - and it now specifies which door: the one leading to the house. The strong-puller warning was cut from Company Notes at 7:38pm and now sits in the Current Pet Care Note as 'VERY STRONG, WILL PULL DURING WALK'. The deer-poop warning kept but no longer says 'in back yard field'.",
      "quote": "All 3 dogs stay in the utility room. Make sure to replace the gate and keep door shut, leading to house."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 24",
-     "source": "Time To Pet care note update - Tiarra Roberts",
-     "office": false,
-     "note": "They eat three times a day (am, midday, evening) in the utility room - portioned bags in the refrigerator or on the kitchen island, rice/chicken plus kibble in each bowl. Treats in the utility room cabinet. Water bowls in laundry room and kitchen.",
-     "quote": "NO NEED TO PICK UP THE #2'S. WATCH OUT FOR DEER POOP IN BACK YARD FIELD."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 27",
-     "source": "Tiarra Roberts updated contact information for Lance Hoffman (Company Notes)",
-     "office": false,
-     "note": "Supply location confirmed in the current Company Notes and not previously recorded: the dogs' treats live in the utility room cabinet, the same room they are contained in.",
-     "quote": "Treats are in cabinet in utility room."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Vicki Davey",
@@ -2594,16 +2554,6 @@
      "office": false,
      "note": "Client was home during the visit and asked that the door not be locked. Recorded once on this visit, so it is not confirmed as a standing rule.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Chelsea Tompkins visit report, Oct 25 9 AM visit",
-     "office": false,
-     "note": "Second consecutive day of loose stool for Bella. On the Oct 25 9 AM visit she went #1 a few times and #2 once, and the consistency field was answered a little loose but not concerning. The Oct 24 10 AM report logged her single #2 as slightly loose after she ate grass. Two days running, both logged as not concerning by the sitters.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -3551,26 +3501,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Josh Stone visit report 11:24 AM",
-     "office": true,
-     "note": "Josh Stone arrived for today's visit and Aayla was not there - her leash was gone too. He checked the apartment, locked up and ended the visit. The cancellation the client says she requested did not reach the sitter, so the visit was made for nothing.",
-     "quote": "I stoped by for the visit and, no aayla lol."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Megan Nickoli client message 11:27 AM",
-     "office": true,
-     "note": "Client says she had requested today's visit be cancelled because work sent her home, and the family then left to visit relatives and walk trails. She is not asking for anything and is apologetic, but the cancellation never reached the schedule - the office needs to confirm whether the request was ever logged and whether the visit is billed.",
-     "quote": "I had requested to cancel because work was overstaffed and they sent me home this morning."
-    },
-    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -4302,7 +4232,7 @@
      "quote": "She was very determined to skip going #2 but she finally did"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Kari Majewski",
@@ -5663,16 +5593,6 @@
      "office": false,
      "note": "Flacko (Brandon Keyes): about two minutes after the visit report the client replied that Flacko had also been unwell earlier the same morning and that he would keep an eye on him, so the walk was not the first episode of the day.",
      "quote": "He wasn’t feeling too well this morning either"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Shannon Anderson post-visit report, 1:58 PM",
-     "office": false,
-     "note": "Flacko was waiting at the gate when the sitter arrived and pushed in while she was moving it, and at the end of the visit he tried to follow her out. He is a documented escape risk, so treat the gate and the door as the pinch points on arrival and departure.",
-     "quote": "He even tried to leave with me today."
     }
    ],
    "dormant": false
@@ -5998,16 +5918,6 @@
      "office": true,
      "note": "UNANSWERED AS OF 8 PM. Client asks by private message at 7:22 PM whether both of Friday Oct 30's visits are covered and what the weekend coverage looks like. She has asked about weekend coverage before (Oct 11 and Oct 14) and says she lines up back-up walkers herself when she does not hear back, so an answer tonight prevents duplicate coverage at the apartment.",
      "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Margaret Bill message and visit report to Gina Sullivan, Oct 25 9:17 AM",
-     "office": true,
-     "note": "Second day in a row of possible duplicate coverage at the apartment. Margaret Bill arrived for the Oct 25 morning visit and Joan told her another dog walker, described as a girl, had already come, so Margaret's services were not needed. On Oct 24 the same thing happened with someone Margaret called 'the young gentleman'. A visit report was still filed today. Two consecutive days means this needs settling with the client rather than being noted again.",
-     "quote": "Joan reported that a girl dog walker had come again today and my services were not needed."
     },
     {
      "cat": "schedule",
@@ -7432,26 +7342,6 @@
      "office": true,
      "note": "Client chased an unanswered message at 1:20pm ET, then wrote '3pm would work' and later 'Sounds good'. What the 3pm refers to is not stated in the notifications, so the office should confirm what was actually agreed.",
      "quote": "just following up on the previous message since I haven't seen a reply yet"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Heather & Jason Stary client message 11:21 AM",
-     "office": true,
-     "note": "Unanswered client message asking to speak with someone about the service on their previous visits. She does not say what the concern is, so it is not clear whether it is a complaint, a billing question or a care change - this is not a schedule change, it is filed here only to keep it in the office queue and off the sitter page. Needs a call back.",
-     "quote": "I have a question about the service from our previous visits. Is there a way I can speak with you about it?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 25",
-     "source": "Client private message to the office, 9:49 PM",
-     "office": true,
-     "note": "Follow-up to her earlier unanswered request to speak with someone. She says she did not realise her first message went into a group chat, works from home and can take a call almost any time except during meetings, but needs a specific agreed day and time because she does not answer unknown numbers. The office has to propose a slot - she will not pick up a cold call. What she wants to discuss is still not stated in this mailbox.",
-     "quote": "I work from home and can speak most any time barring meetings. I'd just need an agreed upon day/time"
     },
     {
      "cat": "behavior",
