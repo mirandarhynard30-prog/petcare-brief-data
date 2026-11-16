@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T11:20:07-05:00",
+ "generated": "2026-11-16T12:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -811,14 +811,14 @@
      "quote": "I will need a Walker at the regular time and then one at 3:30. That would work."
     },
     {
-     "cat": "health",
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Nov 13",
-     "source": "Margaret Bill visit report, Nov 13 11:36 AM",
+     "date": "Nov 16",
+     "source": "Client message in Time To Pet, Nov 16 9:42 AM",
      "office": false,
-     "note": "Lucy was slow to get up on the Nov 13 late-morning visit but did get up and walked out on her own. She went #1 and went #2 twice, consistency logged firm and healthy, and the sitter says she did not seem to mind the cold. Back at the house she would only eat a little of her moist food; the sitter got her started by feeding from her hands first, which she says is her own usual approach with Lucy.",
-     "quote": "Lucy, was slow in getting up today, but she did get up."
+     "note": "Client wrote this morning that she is working from home today and will be there when the sitter arrives. She expects to be on a call in one of the bedrooms and said she did not want to startle anyone. One-off for today only; she did not say this is a standing arrangement.",
+     "quote": "Most likely I’ll be on a call in one of the bedrooms, I just didn’t want to startle."
     }
    ],
    "dormant": false
