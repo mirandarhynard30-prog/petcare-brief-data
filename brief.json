@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T18:20:07-05:00",
+ "generated": "2026-11-15T20:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2609,6 +2609,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 15",
+     "source": "Client private message",
+     "office": true,
+     "note": "Client wrote this evening that he has MOVED and gave a new service address in Shaker Heights 44120. The address has to be updated in Time To Pet before the next visit or a sitter will be sent to the old house. The street address is deliberately not recorded here - it is in the 7:25 PM message in Time To Pet. The same message also gave side-door entry details, which stay in Time To Pet.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -2617,6 +2627,16 @@
      "office": false,
      "note": "Client message this morning: cleaners are at the house today, so Milo is out at daycare and Archer is shut in the upstairs guest bedroom. Expect only Archer on site and expect him behind that door; cleaners may also be present.",
      "quote": "Since the cleaners are coming today, Milo is at daycare and Archer is in the guest bedroom upstairs"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 15",
+     "source": "Client private message",
+     "office": false,
+     "note": "At the new address: Milo is crated on the first floor, Archer is still free roaming. Client stated this as the ongoing arrangement, not a one-off.",
+     "quote": "Milo will be in his crate on the first floor, and Archer will still be free roaming."
     },
     {
      "cat": "health",
@@ -2707,26 +2727,6 @@
      "office": true,
      "note": "Harvett's Nov 4 report answered yes to pet supplies getting low but did not say which supply - ambiguous, needs a follow-up with the sitter.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 2",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Both dogs' treat jars were empty on the Nov 2 midday visit - only Carl had treats available. Needs a refill before the next visit.",
-     "quote": "I was only able to give Carl some treats as both treat jars for the boys were empty."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 28",
-     "source": "Harvett Ellington visit report",
-     "office": true,
-     "note": "Sitter noticed a bump on Archer's back, middle section, on the Oct 28 late-morning visit. Nothing in the mail says the owner has been told or that this has been seen before, so the office should confirm.",
-     "quote": "Archer has a bump on the top of his back and is located in the middle section."
     }
    ],
    "dormant": false
