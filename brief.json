@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T05:20:11-05:00",
+ "generated": "2026-11-17T06:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -537,6 +537,16 @@
      "office": true,
      "note": "Client messaged that they are driving home and expect to arrive about 5:01 PM Nov 12. Check whether any later visits today should be dropped. The mail does not say which visits or how long they were away.",
      "quote": "We are still on the road in traffic.We should be there at 5;01 pm."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Client message, Nov 16 11:50 PM ET",
+     "office": false,
+     "note": "Late-evening message explaining why she had been up 24 hours on the Nov 16 morning walk: the household had just driven back from New Hampshire, which she calls a 12-13 hour drive. Confirms she is home. The rest of the message is thanks for the walk.",
+     "quote": "I didn't sleep well because we were driving from New Hampshire. It's like a 12-13 hour drive!"
     }
    ],
    "dormant": false
