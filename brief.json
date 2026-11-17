@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T14:20:05-05:00",
+ "generated": "2026-11-17T15:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2893,21 +2893,21 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 17",
+     "source": "Julie Smith visit report",
+     "office": false,
+     "note": "Holly's #2 on the afternoon walk was mucousy; sitter logged the consistency as a little loose but not concerning. First loose-stool report for Holly in this brief - watch whether it repeats.",
+     "quote": "She went number one and number two, which was a bit mucousy today."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 16",
      "source": "Dan Dantimo visit report, approx 1 PM",
      "office": false,
      "note": "Holly's #2 on today's midday walk was logged as a little loose but not concerning. The written part of the report does not mention it at all - it comes only from the structured consistency answer.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Client message (text)",
-     "office": false,
-     "note": "Later this morning the client said it was not raining at her place and that she would check back in rather than cancel outright.",
-     "quote": "It is not raining here. But I'll check in with you later. Thanks."
     }
    ],
    "dormant": false
@@ -4019,6 +4019,16 @@
      "quote": "Jackson appreciates you he finally went potty yay"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "Sitter reports Jackson is very strong on the leash and could pull him around the neighborhood when he wants to. One sitter's observation on this visit, not a standing handling rule - brace for pulling.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -4067,16 +4077,6 @@
      "office": false,
      "note": "Jaxson's Nov 11 #2 is logged two different ways in the same report and they disagree: the narrative says it was a little soft, while the report's consistency field was answered firm and healthy. Ambiguous - treat as a soft stool for watching purposes. Relevant because this follows the Oct 29 to Nov 10 run of missed and loose stools already on file. Sitter also brought a package in.",
      "quote": "little soft but nice shape"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 11",
-     "source": "Client message, 4:21 PM",
-     "office": false,
-     "note": "The client gives the reason behind the Oct 29 to Nov 11 run of soft and missed stools: Jaxson is in the middle of a food change. She thanks the sitter for reporting the potty and asks for nothing. No new food, amount or timing is named, so all that is recorded is that a transition is under way.",
-     "quote": "Trying to change food is never a good thing"
     }
    ],
    "dormant": false
@@ -8223,6 +8223,16 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 17",
+     "source": "Chrissy George visit report, relaying Joan",
+     "office": false,
+     "note": "Day walkers do not need to do Sassie's spray or ear drops - Joan told the sitter the night walker handles them. Relayed second-hand by the sitter, quoting Joan.",
+     "quote": "Not worry about her spray and ear drops that the night walker will help her."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 16",
      "source": "Chrissy George midday visit report",
@@ -8269,16 +8279,6 @@
      "office": true,
      "note": "Josh Stone's 2:38 PM report is a walk report only - harness on, hallways walked because of the rain, water refreshed, a treat, #1 and #2 both firm and healthy. Neither the gland spray nor the ear drops is mentioned anywhere in it. Second report today with no medication entry, and the Nov 11 ear-drop question is still unanswered.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Chrissy George visit report, 1:16 PM",
-     "office": true,
-     "note": "The Nov 11 midday visit report for Sassie is a walk report only - harness and leash on, three laps of the building, #1 and #2 with firm and healthy consistency, client was home during the visit. It does not mention the gland spray, the ear medicine, or any medication being given. Relevant because the account manager's 3:47 PM and 4:31 PM medication messages came in after this visit and still have no office reply.",
-     "quote": "She went number one and number two it was healthy."
     }
    ],
    "dormant": false
