@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T12:20:05-05:00",
+ "generated": "2026-11-17T13:20:10-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1866,6 +1866,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Mac was whiny for much of the midday visit even with constant attention, and only went #1 - no #2. Sitter had no explanation for the whining.",
+     "quote": "He was a bit whiny today even with me constantly petting him he was whining."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -1966,24 +1976,14 @@
      "quote": "PLEASE ENSURE WOODEN WHITE FRONT BLINDS ARE OPEN FOR MAC TO LOOK OUT - 2ND WATER BOWL NOW ON PATIO IN THE BACKYARD"
     },
     {
-     "cat": "home",
+     "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 16",
-     "source": "Kristin Ashick visit report, Nov 16",
+     "date": "Nov 17",
+     "source": "Monica Hopewell visit report",
      "office": false,
-     "note": "There is a tablet in the house that plays music for Mac. On the Nov 16 visit the sitter found it had locked itself and no music was playing. Single observation, so not a standing rule.",
-     "quote": "I saw the tablet but no music was playing, it must have locked after a set time."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 30",
-     "source": "Client message, 1:02 PM",
-     "office": false,
-     "note": "Client confirms the neighbour who flagged the stranger is Mike and that he watches the house for them. A friendly neighbour approaching a sitter at this address is normal.",
-     "quote": "Mike's a good guy. He keeps an eye out for us too."
+     "note": "One side of Mac's face smelled strongly of skunk. The sitter could not tell whether he was actually sprayed or just walked through the smell - unconfirmed either way.",
+     "quote": "I'm not sure if he got sprayed by a skunk or just walked into the residual waft of a skunk"
     }
    ],
    "dormant": false
@@ -2652,6 +2652,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 17",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Milo was crated on arrival. Sitter let him out, walked the two dogs one at a time - Milo first, then Archer - and put Milo back in the crate in between and before leaving. One sitter's account of this visit, not a confirmed standing rule.",
+     "quote": "Came back in put Milo back in crate than it was archer time to leash up!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 16",
      "source": "Harvett Ellington visit report, Nov 16 late-morning visit",
      "office": false,
@@ -2707,16 +2717,6 @@
      "office": false,
      "note": "Milo is crated. Kiara was met by Archer at the door, let Milo out, got the leashes together and leashed Milo first while he ran around, walked them separately, then put Milo back in the crate before leaving. There is also a cat in the home.",
      "quote": "it was time for Milo to go back into the crate"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Alex Miller visit report, 11:44 AM",
-     "office": false,
-     "note": "How this sitter ran the visit: the dogs went out one at a time - Archer walked first, down the street and back, then Milo, whose walk was shorter with many stops for squirrels. Milo went back into his crate at the end and Archer did not. One sitter on one visit, so not recorded as a rule.",
-     "quote": "I came back to get Milo and he was super excited to get out."
     }
    ],
    "dormant": false
@@ -5421,6 +5421,16 @@
      "quote": "Use eye drops (left cabinet above stove/next to stove) if eye is goopy, if she lets you"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Weezie's heart toy had torn open and was shedding stuffing when she shook it. Sitter took it away as a choking precaution and left it on the kitchen island - do not give it back.",
+     "quote": "I did take the heart toy away. The hole was big enough that Weezie had stuffing coming out when she shook it."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -5439,16 +5449,6 @@
      "office": false,
      "note": "Where to find the food scoop - a sitter could not locate it on the Nov 7 evening visit.",
      "quote": "The scoop is attached to the underside of the container holding the dog food"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Client message from Christine Jenison",
-     "office": false,
-     "note": "Christine expects reduced appetite while the family is away; half a cup each is close enough.",
-     "quote": "They probably won’t eat it because we are not home."
     }
    ],
    "dormant": false
