@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T09:20:07-05:00",
+ "generated": "2026-11-17T10:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1096,6 +1096,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Mary Ann Mckeever, private message to the office",
+     "office": true,
+     "note": "Mary Ann asks to cancel the Nov 26 and Nov 27 morning visits and keep the evening visits on both days. Georgie's evening medicine and eyedrops fall on the shifts she is keeping.",
+     "quote": "I want to cancel 26 and 27 mornings but leave evenings on those days."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -1204,16 +1214,6 @@
      "office": false,
      "note": "Georgie's evening medicine and eyedrops were given again on the Oct 31 visit, with the sitter assisting Mary Ann rather than giving them alone - the same pattern as the Oct 5, Oct 16 and Oct 18 reports. The report records no problem. In this mailbox the routine appears only in sitter reports, never in a Pet Care Note.",
      "quote": "I helped Mary Ann with Georgie's medicine 💊 and eyedrops."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Tiarra Roberts visit report, 8:25 PM",
-     "office": true,
-     "note": "Same mail and garage routine on the Oct 30 evening visit: the sitter collected the mail, entered through the garage and handed the mail to Mary Ann, and the security field again reads that the garage door was fully closed before leaving. Two consecutive nights of unwritten standing steps.",
-     "quote": "I got the mail and headed inside, through the garage."
     }
    ],
    "dormant": false
@@ -3359,6 +3359,16 @@
     "Muffy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Roseann Fekete, private message to the office",
+     "office": true,
+     "note": "Replying to the Thanksgiving reminder, Roseann asks to move Muffy's walk next week to Monday or Tuesday, and to cancel it for the week if neither day works. She does not say which walk or give a date, so the office needs to confirm with her which visit she means before changing the schedule.",
+     "quote": "Please move Muffy’s walk to Monday or Tuesday if possible.  If it’s not possible please cancel her walk for next week."
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -6769,6 +6779,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Joan (Lynn) Stemmer, private message to the office",
+     "office": true,
+     "note": "Joan asks to cancel the Nov 27 walk, objecting to the holiday surcharge and saying she would have accepted it for Nov 26. The cancellation needs processing and the pricing complaint needs an answer from the office, not the sitter.",
+     "quote": "Please cancel walk 11/27/26. It is nit worth the extra money. I could see if it was for the 26th."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -8141,6 +8161,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Joan- Gina Sullivan (Manages Account), private message to the office",
+     "office": true,
+     "note": "The account manager confirms Thanksgiving-week coverage is wanted for every shift except Thanksgiving evening, which the family will cover themselves. The message does not list the dates it covers, so the office should confirm the exact span against the schedule.",
+     "quote": "We will need coverage except for Thanksgiving evening. We can walk Sassie for that shift."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -8249,16 +8279,6 @@
      "office": true,
      "note": "The Nov 11 midday visit report for Sassie is a walk report only - harness and leash on, three laps of the building, #1 and #2 with firm and healthy consistency, client was home during the visit. It does not mention the gland spray, the ear medicine, or any medication being given. Relevant because the account manager's 3:47 PM and 4:31 PM medication messages came in after this visit and still have no office reply.",
      "quote": "She went number one and number two it was healthy."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Kristin Aldridge evening visit report, Nov 11 7:05 PM",
-     "office": true,
-     "note": "First visit report after the account manager's Nov 11 medication messages. Kristin Aldridge's Nov 11 evening report says she assisted with medication. The report does not say which medication, so it is not clear whether this was the gland spray, the ear medicine, or something else - and the account manager's 3:47 PM question about whether sitters may give the ear drops still has no reply in the mail. Office should confirm what was actually given before the next visit.",
-     "quote": "When we got back in, I topped off her water and assisted with medication."
     }
    ],
    "dormant": false
