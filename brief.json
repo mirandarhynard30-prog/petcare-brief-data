@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T22:20:05-05:00",
+ "generated": "2026-11-17T05:20:11-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -459,16 +459,6 @@
      "quote": "It was a little loose but not concerning"
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Margaret Bill morning walk report, Oct 26 11:50 AM",
-     "office": false,
-     "note": "Gordy went #2 twice again on the Oct 26 morning walk and the consistency field was answered a little loose but not concerning. The sitter describes the soft stool as his normal state, which is a different reading from the Oct 20 and Oct 22 reports that treated it as new. Fourth report of loose or soft stool inside a week.",
-     "quote": "The number two was fairly soft as it usually is."
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -649,16 +639,6 @@
      "office": true,
      "note": "Client asks that his Wednesday visit this week (Wed Nov 4) be removed from the schedule - he confirmed with his employer he will be working remotely that day. Needs cancelling in Time To Pet; no reply sent yet.",
      "quote": "I just confirmed with my boss that Wednesday I will be working remotely this week. Please remove Wednesday for the schedule."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Client private message, Oct 26 1:22 PM",
-     "office": true,
-     "note": "Client will be working from home this Wednesday (Oct 28) and asks that the visit be removed from the schedule. Unanswered as of this run.",
-     "quote": "I will working from home this Wednesday so wanted you to know in advance to remove from the schedule."
     },
     {
      "cat": "schedule",
@@ -1382,16 +1362,6 @@
     {
      "cat": "behavior",
      "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Drew Walker visit report, 11:06 AM",
-     "office": false,
-     "note": "First walk progress in a while - Bismark actually walked down the road for a bit on the Oct 26 visit, not far but he went somewhere, which the sitter reads as a good sign. Follows a run of refusals Oct 17 through Oct 25. He went #1 only, no #2.",
-     "quote": "We made some progress today as Bismark actually walked down the road for a bit."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
      "type": "standing",
      "date": "Sep 25",
      "source": "Christina Palmieri message",
@@ -1491,16 +1461,6 @@
    ],
    "items": [
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Client private message",
-     "office": true,
-     "note": "Client wrote at 9:08 AM Eastern asking to reschedule because construction has taken over the driveway again. Needs an office reply; she did not name which visits or propose new dates.",
-     "quote": "We have more construction going on at the house and they're taking up the driveway again. Can we reschedule?"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -1559,16 +1519,6 @@
      "office": true,
      "note": "Today's visit is going ahead: Monica Hopewell sent a 10:30 AM arrival time and Jessica acknowledged it. This does not say whether her Oct 26 request to reschedule around the blocked driveway was ever answered, or where the sitter is to park while the construction crew has the driveway.",
      "quote": "Awesome, we'll see you then"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Client private message",
-     "office": false,
-     "note": "Construction crew is occupying the driveway again as of Oct 26, so driveway parking is unavailable. Duration not stated.",
-     "quote": ""
     },
     {
      "cat": "behavior",
@@ -3358,16 +3308,6 @@
      "office": false,
      "note": "Client is home during visits and has asked that the door not be locked when the sitter leaves.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Dan Dantimo midday walk report, Oct 26 1:25 PM",
-     "office": false,
-     "note": "Oct 26 midday walk: Guinness went #1 several times and #2 once, and Dan Dantimo again answered the consistency field a little loose but not concerning. That is the same answer on Oct 12, 13, 15, 17, 20, 21, 22, 23 and now Oct 26.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -3689,26 +3629,6 @@
      "office": false,
      "note": "Murphy went #1 but no #2 on the 11:10am walk. Sitter judged he was comfortable and the walk went at a good pace. Single observation, not a pattern.",
      "quote": "Murphy did not go number two today, however I don't think it bothered him."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Josh Stone visit report 12:44 PM",
-     "office": false,
-     "note": "Murphy went #1 but not #2 on the midday walk. Nothing else flagged - he walked happily and the sitter logged no other concerns. One missed #2, not a run of them.",
-     "quote": "He went #1 but no 2 today."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Josh Stone visit report 12:44 PM",
-     "office": false,
-     "note": "On this visit the client was home and asked that the door not be locked on the way out. Stated for this visit only, not given as a standing instruction.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
@@ -4039,6 +3959,16 @@
      "quote": "Yes if the alarm is on just disarm it"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Dan Dantimo visit report, Nov 16 midday",
+     "office": false,
+     "note": "Jaxson went #1 a couple of times on the Nov 16 walk but no #2, and still no #2 when the sitter put him in the backyard afterwards. Continues the stool watch during his food change - the report's Jaxson section logs only #1.",
+     "quote": "he went number one a couple of times but no number two"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -4097,16 +4027,6 @@
      "office": false,
      "note": "The dog is in the middle of a food change and his stools are being watched. The client wants sitters to keep reporting on his potty in visit notes. Note the spelling differs - the client writes 'Jackson', sitters write 'Jaxson'.",
      "quote": "thank you for keeping us informed about Jackson's potty. Trying to change food is never a good thing"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Client message",
-     "office": false,
-     "note": "Client thanked the sitter for the updates on Jackson's potty and said the dog is mid food change, which she expects to unsettle him for a while. Sitters have been writing the name as Jaxson, the client writes Jackson.",
-     "quote": "thank you for keeping us informed about Jackson's potty"
     }
    ],
    "dormant": false
@@ -4465,46 +4385,6 @@
      "quote": "Was there no food jar in the fridge for her?"
     },
     {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Robin Lewis visit report 12:00 PM",
-     "office": false,
-     "note": "The dog's automatic water bowl is not working and was empty on arrival. Sitter added water by hand and it still did not run; one red light and two white lights after unplugging and replugging.",
-     "quote": "I noticed the dogs water bowl was not working and had no water at all in it."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Client message 12:01 PM",
-     "office": false,
-     "note": "Client's workaround until the waterer is fixed: use the spare bowl next to the food. She is having Lisa look at the unit tonight.",
-     "quote": "She’s able to use the extra bowl by her food."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Robin Lewis message 12:15 PM",
-     "office": false,
-     "note": "Sitter unplugged the broken automatic waterer as a precaution after replugging it did not make it run. Anyone arriving should expect the unit to be off and unplugged.",
-     "quote": "To be on the safe side i did unplug it."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Robin Lewis visit report 12:46 PM",
-     "office": true,
-     "note": "The report implies Lily has pills that are given when she is not walking well. On this visit the sitter judged her walking fine and gave none. The report does not say what the pills are, who authorises them or at what point they should be given - that is ambiguous and worth confirming before another sitter has to decide.",
-     "quote": "She seemed to be walking fine so i did not give her any pills"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -4553,16 +4433,6 @@
      "office": true,
      "note": "The same report contradicts itself on water: the water-bowl field answers No to refilling while the narrative says the sitter topped the water off. Worth checking rather than assuming, because this client's automatic waterer was found broken on Oct 26 and the stated workaround is the spare bowl next to the food.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Robin Lewis visit report 12:46 PM",
-     "office": false,
-     "note": "Lily barked steadily until the walk actually started, then walked happily. Same sitter notes she is a howler. One visit's observation, not an established pattern.",
-     "quote": "She loves to howl."
     }
    ],
    "dormant": false
@@ -6506,26 +6376,6 @@
      "office": false,
      "note": "Client identifies her twin cats for sitters: Drew is the one with the full white face; Doughty has a little black eye. Both are often found hiding under the bed.",
      "quote": "The one under the bed is doughty lol. He has the a little black eye."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Monica Hopewell visit report 10:29 AM and client reply 10:31 AM",
-     "office": false,
-     "note": "Kopi met the sitter at the garage door and accepted a few pets. The client wrote back that she is pleased he is trusting this sitter and coming downstairs, so this is progress against his usual hiding.",
-     "quote": "Happy kopi is trusting you and coming downstairs"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Monica Hopewell visit report 10:29 AM",
-     "office": false,
-     "note": "The two other cats, referred to as the twins, stayed hidden. The sitter saw one and not the other, chose not to search for them so as not to disturb them, and left treats both upstairs and downstairs. Reported as fine, not a concern.",
-     "quote": "I did see one of the twins but not the other"
     }
    ],
    "dormant": false
@@ -6929,16 +6779,6 @@
      "quote": "I will not be home tomorrow morning but Boo will be waiting."
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Julie Smith visit report 11:23 AM",
-     "office": false,
-     "note": "Boo appeared to strain going #2 and the stool was a little loose, logged as not concerning. First visit, so no baseline for her yet.",
-     "quote": "She seemed to struggle a bit to go #2."
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -6977,16 +6817,6 @@
      "office": false,
      "note": "Boo went #2 twice on the late-morning walk; sitter recorded the consistency as slightly loose but not concerning. Single observation, not a pattern. Client was home during the visit.",
      "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 26",
-     "source": "Julie Smith visit report 11:23 AM",
-     "office": false,
-     "note": "First walk with this client. Boo barked at another dog on the walk but redirected easily. Client was home during the visit.",
-     "quote": "We saw another dog and she barked at them but was easily redirected."
     }
    ],
    "dormant": false
