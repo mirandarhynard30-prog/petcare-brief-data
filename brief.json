@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T08:35:07-05:00",
+ "generated": "2026-11-17T09:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8406,6 +8406,36 @@
     "Ruri"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Client message 9:06 AM Nov 17",
+     "office": false,
+     "note": "Maintenance is expected at the home at some point today to fix the bath tub. The client says that if they are there when the sitter arrives, just go about the visit as usual. She does not say what time they are coming.",
+     "quote": "maintenence is supposed to stop in at some point today to fix my bath tub"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Client message 9:06 AM Nov 17",
+     "office": false,
+     "note": "For TODAY only the client says to skip the harnesses - clip the little dogs on their collars instead. She does not extend this past today, so treat it as a one-day change and not a new standing rule.",
+     "quote": "don't worry about the harnesses today. You can just hook the littles on their collars and they should be fine"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Client message 9:06 AM Nov 17",
+     "office": false,
+     "note": "None of the dogs went #2 this morning before the visit. The client's priority is getting Ruri, the puppy, to go; she says it is a plus but not necessary if the two older dogs do not.",
+     "quote": "My main focus is Ruri going #2, it's okay if the older 2 don't"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
