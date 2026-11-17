@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T18:20:05-05:00",
+ "generated": "2026-11-16T19:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -837,6 +837,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 16",
+     "source": "Harvett Ellington visit report, approx 3 PM",
+     "office": true,
+     "note": "Chloe began wheezing heavily right at the end of the outside time, just before coming back in. Everything else in the report is normal - she was calm and rested on arrival, went both #1 and #2 with the consistency answered firm and healthy, bowls cleaned and fresh water added, outside temperature 47 degrees. The sitter does not say whether the wheezing settled, and this is the first report of it.",
+     "quote": "Chloe began to wheeze quite heavily"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 13",
      "source": "Harvett Ellington visit report, Nov 13 9:38 AM ET",
      "office": false,
@@ -942,16 +952,6 @@
      "office": true,
      "note": "Chloe was found asleep upstairs and the sitter carried her downstairs; she then began to wheeze and the sitter attached a video. Afternoon visit, Oct 27. No vet contact or medication mentioned in the report.",
      "quote": "I carried her gently downstairs"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Harvett Ellington visit report",
-     "office": true,
-     "note": "At the afternoon visit the same day, Chloe was found asleep upstairs and began wheezing after being carried down; sitter attached a video. She did go #1 and #2 in the yard. Separate visit from the morning report.",
-     "quote": "She began to wheez"
     }
    ],
    "dormant": false
@@ -2920,6 +2920,16 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Dan Dantimo visit report, approx 1 PM",
+     "office": false,
+     "note": "Holly's #2 on today's midday walk was logged as a little loose but not concerning. The written part of the report does not mention it at all - it comes only from the structured consistency answer.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -2928,16 +2938,6 @@
      "office": false,
      "note": "Later this morning the client said it was not raining at her place and that she would check back in rather than cancel outright.",
      "quote": "It is not raining here. But I'll check in with you later. Thanks."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Sitter message from Julie Smith",
-     "office": false,
-     "note": "Resolved - Julie told the client the weather looked good enough to come, and the visit went ahead this afternoon. No office action needed on today's rain question.",
-     "quote": "I think the weather should be good for me to come walk Holly."
     }
    ],
    "dormant": false
@@ -7303,6 +7303,16 @@
      "quote": "Just to verify I am here just unable to walk today"
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 16",
+     "source": "Important Notes edit by Tiarra Roberts, 2:14 PM",
+     "office": false,
+     "note": "Crate and leash routine from the current Important Notes, which the brief was not carrying: Chloe goes in the crate, and she is put back inside after the walk by snapping fingers. Her purple leash hangs next to the front door.",
+     "quote": "Chloe will be in crate, put her back inside, after walk, by snapping fingers"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -7391,16 +7401,6 @@
      "office": true,
      "note": "Client has installed a lockbox at the home and sent its current code to the office by private message, and she asks that the code be reset to a different value so no one else sees it. Deliberately not recorded here - both the current and the requested code are in that Time To Pet private message and belong in her Pet Care Note, not in the brief. OFFICE: reply to confirm the reset and update the record, and make sure sitters are told the entry method has changed before the next visit.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Client private message, Nov 6 6:49 PM",
-     "office": true,
-     "note": "Follow-up to the Nov 6 lockbox message. The client says she spoke to her building manager and expects a spare fob next week and a spare key later because it has to be cut. Until the spares arrive the fob and key in the box are her own, and she has to remember to put them there before she leaves for work - so entry is not guaranteed on any visit until then. OFFICE: confirm the code reset she asked for, and agree what a sitter should do if the box is empty. No code and no box or key location recorded here on purpose; those are in the Time To Pet private message and belong in her Pet Care Note.",
-     "quote": "I should have an extra fob next week and a key that might take a little longer as it has to be made."
     }
    ],
    "dormant": false
@@ -8640,6 +8640,26 @@
      "quote": "lola drinks a lot of water due to Cushing's disease"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Chrissy George visit report, approx 1:20 PM",
+     "office": false,
+     "note": "How this afternoon's walk was split: Lola went out first and was brought back inside, then the walk carried on with Luke on his own. The client was home and helped with the collars, the leashes and Lola's harness. Both went #1 and Luke went #2, logged firm and healthy. One visit, not stated as the standing arrangement.",
+     "quote": "then I brought Lola back inside and went back to our walk with Luke"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Chrissy George visit report, approx 1:20 PM",
+     "office": false,
+     "note": "Client was home for this visit and asked that the door not be locked, so the sitter did not go in or check the home.",
+     "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -8668,26 +8688,6 @@
      "office": false,
      "note": "Both dogs know stay, sit and come. Lucy does not hear well.",
      "quote": "both know stay, sit, come, lucy can't hear well"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 13",
-     "source": "Company Notes updated by Margaret Bill",
-     "office": false,
-     "note": "Prong collar goes on with the prong side inside. Lola wears a small harness. Harness: front legs in first, then press together so the rings meet and attach the leash.",
-     "quote": "Collar side with prongs on inside, lola has a small harness"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 13",
-     "source": "Company Notes updated by Margaret Bill",
-     "office": false,
-     "note": "Client is sometimes home during visits: enter the home and leash the dog. House alarm is not used during the day.",
-     "quote": "Client is sometimes home: enter home and leash pet"
     }
    ],
    "dormant": false
