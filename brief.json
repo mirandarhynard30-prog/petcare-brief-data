@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T06:20:09-05:00",
+ "generated": "2026-11-17T07:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1866,6 +1866,26 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Kristin Ashick visit report, Nov 16",
+     "office": true,
+     "note": "The Nov 16 sitter put Mac's waste bag ON the black trash barrel. The standing rule since Sep 26 is that used bags go IN the outside trash bin next to the garage. Worth restating to whoever covers Mac.",
+     "quote": "I put that on the black trash barrel"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Kristin Ashick visit report, Nov 16",
+     "office": false,
+     "note": "Diane left a written note for the Nov 16 sitter whose contents appear nowhere in the mail. The sitter read it and wrote 'Poor Mac and your house!!', and later in the same report mentioned catching a whiff, with a skunk emoji. That reads like a skunk problem at the house, but nothing states it outright - check Time To Pet or ask Diane rather than assuming.",
+     "quote": "Poor Mac and your house!!"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -1948,32 +1968,22 @@
     {
      "cat": "home",
      "sev": "low",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Kristin Ashick visit report, Nov 16",
+     "office": false,
+     "note": "There is a tablet in the house that plays music for Mac. On the Nov 16 visit the sitter found it had locked itself and no music was playing. Single observation, so not a standing rule.",
+     "quote": "I saw the tablet but no music was playing, it must have locked after a set time."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
      "type": "standing",
      "date": "Sep 30",
      "source": "Client message, 1:02 PM",
      "office": false,
      "note": "Client confirms the neighbour who flagged the stranger is Mike and that he watches the house for them. A friendly neighbour approaching a sitter at this address is normal.",
      "quote": "Mike's a good guy. He keeps an eye out for us too."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Company Notes edit by Tiarra Roberts, Sep 26 5:26pm Eastern",
-     "office": false,
-     "note": "Waste disposal for Mac CHANGED. Used poop bags now go IN the outside trash bin next to the garage. The previous rule, which the brief still carries from Sep 11, was to leave them on top of the outside trash can. Everything else in the note held: fenced backyard only, no walks, blinds open, two water bowls.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Tiarra Roberts updated contact information for Diane Hoard",
-     "office": false,
-     "note": "Waste and supplies as rewritten Sep 11: poop bags are by the front door and used bags go on top of the outside trash can. Toys are in the container behind the recliner beside the food bowls.",
-     "quote": "Place poop bags on top of outside trash can"
     }
    ],
    "dormant": false
@@ -3158,6 +3168,26 @@
      "office": true,
      "note": "Ray wrote in to ask that the office NOT take his current walker off Archie's walks - he says Archie and he are both comfortable with him and neither likes change. He names the walker as 'Tommy'; the sitter currently walking Archie in these reports is Thomas Rakovec, so that is almost certainly who he means, but the email does not spell the name out. Office should treat this as a staffing instruction and confirm back to him.",
      "quote": "I would not like you to keep Tommy from walking Archie. Archie and I don’t like change."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Thomas Rakovec visit report, Nov 16",
+     "office": false,
+     "note": "Archie went both #1 and #2 on the Nov 16 walk and the report rates the stool firm and healthy. That is the second good #2 logged since the Nov 4 and Nov 6 walks where he did not go.",
+     "quote": "We went on a great walk where Arch went #1 and #2."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Thomas Rakovec visit report, Nov 16",
+     "office": false,
+     "note": "Ray was home again for the Nov 16 walk - both the accident-check and home-security fields read client was home. Same as the Nov 6 and Nov 12 reports. No water refill and no mail or packages this visit.",
+     "quote": ""
     },
     {
      "cat": "home",
