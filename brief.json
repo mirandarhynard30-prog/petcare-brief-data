@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T13:20:10-05:00",
+ "generated": "2026-11-17T14:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -277,6 +277,46 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 17",
+     "source": "Margaret Bill visit report, Nov 17 1:33 PM",
+     "office": false,
+     "note": "Puck went #1 and #2 on the Nov 17 midday walk and the structured consistency field was answered very loose/diarrhea with the pet otherwise fine. The sitter's own write-up calls it quite loose and says she will tell Miranda. Third report in a row flagging Puck's stool after Nov 13 and Nov 16.",
+     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 17",
+     "office": true,
+     "source": "Client message, Nov 17 1:38 PM",
+     "note": "Client wrote back the same afternoon that both dogs had loose stool this morning too, separate from the sitter's midday report. That makes it both dogs rather than only Puck, and the office may want to answer her.",
+     "quote": "They both had icky poops this morning."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 17",
+     "office": false,
+     "source": "Margaret Bill visit report, Nov 17 1:33 PM",
+     "note": "The sitter could not fix Rusty's collar on this visit, so she walked Rusty on her regular collar instead of the prong. Same collar trouble as Nov 11 and Nov 16.",
+     "quote": "I couldn't fix her collar, so I took her out with just her regular collar."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 17",
+     "office": false,
+     "source": "Client message, Nov 17 1:38 PM",
+     "note": "Client says the purple collar is too big for Rusty and she can slip out of it, and that the prong collar still needs a new link. Until the client replaces it, neither collar is reliable - an escape risk on walks. The client says she will get Rusty a better collar but gives no date.",
+     "quote": "the purple one is a bit too big and she can slip out of."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 16",
      "source": "Margaret Bill visit report, Nov 16 morning walk",
      "office": false,
@@ -352,46 +392,6 @@
      "office": true,
      "note": "Client asks for a midday check because of the unhooked cage panel. She does not say which day she means - the Nov 5 midday had already passed when she wrote at 5:59 PM, so this may mean Nov 6 or ongoing. Needs an answer from the office.",
      "quote": "Ill check it after work but if you could do a midday check thatd be great!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Mary Gilmore client message, 6:13 PM",
-     "office": false,
-     "note": "Follow-up to her 5:59 PM cage message, sent with a photo: both side latches on Rusty's cage were also found unhooked and Rusty was still inside. The client wonders whether Rusty is pawing at the cage and working the latches open herself. Check the side latches as well as the front panel before leaving Rusty crated. Separate message from the front-panel report, not the same event as the Nov 4 crate break-out.",
-     "quote": "These side latches were both unhooked, so she could have easily popped out!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Margaret Bill message to client, Nov 5 approx 9:15 PM",
-     "office": false,
-     "note": "Margaret Bill wrote late on Nov 5 that Rusty has been pawing at her cage and that the BACK panels got pushed out - a third failure point on top of the front panel and the two side latches already reported. She says she will check them all when she is there. Her wording 'yesterday the back ones got pushed out' points at Nov 4, the same day Rusty broke out of the crate, but she does not say so outright. Treat all four sides of the cage - front, both sides, back - as needing a hand-check before leaving.",
-     "quote": "Rusty has been pawing at her cage. Yesterday the back ones got pushed out.. I will be sure to check them all"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Margaret Bill",
-     "office": true,
-     "note": "Escape risk: sitter reports Rusty has been pawing at her cage and the back latches got pushed out. Sitter said she will check all of them at each visit.",
-     "quote": "Rusty has been pawing at her cage. Yesterday the back ones got pushed out."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Visit report 5:19 PM (Margaret Bill)",
-     "office": false,
-     "note": "Rusty broke out of her crate during the 5:19 PM visit. While Margaret Bill was outside with Puck, Rusty knocked the back panel out of her crate and had the run of the apartment; nothing was damaged. Margaret refitted the back panel and put Rusty back in with her food bowl, as Rusty had not finished eating. The crate has already failed once, so check the back panel is seated before leaving Rusty in it, and bear in mind both dogs are a standing escape risk.",
-     "quote": "She had knocked the back of her crate out and had free reign of the house."
     }
    ],
    "dormant": false
@@ -4012,6 +4012,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 17",
+     "office": false,
+     "source": "Client message, Nov 17 1:23 PM",
+     "note": "Client confirms Jackson did finally go potty on this visit, after the earlier reports of him holding it.",
+     "quote": "Jackson appreciates you he finally went potty yay"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 16",
      "source": "Dan Dantimo visit report, Nov 16 midday",
      "office": false,
@@ -4067,16 +4077,6 @@
      "office": false,
      "note": "The client gives the reason behind the Oct 29 to Nov 11 run of soft and missed stools: Jaxson is in the middle of a food change. She thanks the sitter for reporting the potty and asks for nothing. No new food, amount or timing is named, so all that is recorded is that a transition is under way.",
      "quote": "Trying to change food is never a good thing"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Client message",
-     "office": false,
-     "note": "The dog is in the middle of a food change and his stools are being watched. The client wants sitters to keep reporting on his potty in visit notes. Note the spelling differs - the client writes 'Jackson', sitters write 'Jaxson'.",
-     "quote": "thank you for keeping us informed about Jackson's potty. Trying to change food is never a good thing"
     }
    ],
    "dormant": false
@@ -7176,6 +7176,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 17",
+     "office": true,
+     "source": "Client message, Nov 17 1:31 PM",
+     "note": "Client wrote at 1:31 PM that she is home but still not feeling well, and asks that Noella still come for the visit. Noella messaged back at 1:39 PM with a 3 PM ETA, so this looks answered, but the client is unwell at home a second day running after the Nov 16 request.",
+     "quote": "Ladies, I am home but still not feeling well. Noella if you could still come I'd really appreciate it"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 16",
      "source": "Karen Grosser client message, Nov 16 2:17 PM",
      "office": true,
@@ -7281,16 +7291,6 @@
      "office": true,
      "note": "The client is now writing as though a visit is happening tomorrow, Sunday Nov 8, which is the morning slot she asked for after cancelling Saturday. No reply or confirmation from the office appears anywhere in the mail, so it is unclear whether that Sunday visit is actually on the schedule and assigned. Confirm before Sunday morning.",
      "quote": "So whomever is coming tomorrow will have the keys."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Client private message, Nov 6 6:06 PM",
-     "office": true,
-     "note": "Client has installed a lockbox at the home and sent its current code to the office by private message, and she asks that the code be reset to a different value so no one else sees it. Deliberately not recorded here - both the current and the requested code are in that Time To Pet private message and belong in her Pet Care Note, not in the brief. OFFICE: reply to confirm the reset and update the record, and make sure sitters are told the entry method has changed before the next visit.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -8459,12 +8459,52 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 17",
+     "office": false,
+     "source": "Client message, Nov 17 1:54 PM",
+     "note": "Client confirms sitters are welcome to take the dogs into the dog park at the building instead of walking all three together, which she says is a lot. Stated as a general permission, not for this visit only.",
+     "quote": "I definitely never mind you all taking them to the dog park in there"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 17",
+     "office": false,
+     "source": "Monica Hopewell visit report, Nov 17 1:50 PM",
+     "note": "Maintenance was in the apartment when the sitter arrived for the midday visit - the tub work the client flagged this morning. He told her he was shutting the bathroom door to contain the smell so it would clear faster, so a later sitter may find that door closed.",
+     "quote": "he was closing the bathroom door to trap the smell in and it would help dissipate it faster"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 10",
      "source": "Client message, Nov 10 1:43 PM",
      "office": false,
      "note": "For THURSDAY'S visit the client offers an alternative to lifting Merlin: open Merlin's crate using the side door and she will jump out and back in on her own. Client says Merlin can be a little odd about being picked up. Client scoped this to Thursday, so it is not filed as a standing rule.",
      "quote": "for Thursday's visit, if you would prefer to open Merlin's crate using the side door, she'll jump out and in of her own accord"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 17",
+     "office": false,
+     "source": "Client message, Nov 17 1:54 PM",
+     "note": "Client says Suzaiko sniffs and marks rather than playing at parks, and adds that she is spayed. Context for a sitter who sees the marking and wonders.",
+     "quote": "Suzaiko tends to just walk around sniffing and marking at parks"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 17",
+     "office": false,
+     "source": "Monica Hopewell visit report, Nov 17 1:50 PM",
+     "note": "All three dogs went #1 and #2 on the midday visit and every consistency field was answered firm and healthy. That clears the client's morning worry that none of them had gone #2 yet.",
+     "quote": "all three pops went both one and two today so thumbs up in that regard"
     },
     {
      "cat": "schedule",
