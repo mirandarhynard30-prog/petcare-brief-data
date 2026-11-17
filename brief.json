@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T10:20:07-05:00",
+ "generated": "2026-11-17T12:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3030,6 +3030,16 @@
      "quote": "Backyard is NOT fenced — must use leash or long lead (available)"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Ashley Corall visit report, Nov 17 midday",
+     "office": false,
+     "note": "Oakley's back paws looked a little red when the sitter rinsed them after the usual 30 minute walk, so she was extra careful with them. She adds that her own dog's paws look the same at the moment, which reads as a seasonal guess rather than a diagnosis. Single observation, first report of it. The walk otherwise went normally and his #2 was firm and healthy.",
+     "quote": "his back paws I made sure I was extra careful because they looked a little red"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -3098,16 +3108,6 @@
      "office": false,
      "note": "Take shoes off on entering. Paw care is the paw wash in the laundry room plus the towel on the back of the laundry room door; the line about extra towels by the back door was removed.",
      "quote": "Please take shoes off when entering house."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 16",
-     "source": "Important Notes edit by Tiarra Roberts, 2:02 PM",
-     "office": false,
-     "note": "One wording change in this afternoon's Important Notes edit and nothing else: the paw-wash step is now tied to coming back from the walk rather than to coming inside generally. Previously it read 'After coming inside:'. The paw wash in the laundry room and the towel on the back of the laundry room door are unchanged.",
-     "quote": "After coming inside, after walk:"
     }
    ],
    "dormant": false
