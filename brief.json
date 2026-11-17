@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T07:20:06-05:00",
+ "generated": "2026-11-17T08:35:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8191,6 +8191,16 @@
      "quote": "if she tells the walker not to come please confirm with me 1st"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 16",
+     "source": "Chrissy George midday visit report",
+     "office": true,
+     "note": "The Nov 16 midday report is a walk report only - harness and leash on, three laps of the building, #1 several times and #2 twice, both rated healthy. Neither the gland spray nor the ear medication is mentioned anywhere in it, continuing the run of reports that do not record them. The account manager's Nov 11 question about whether staff can give the ear drops still has no answer in the mail.",
+     "quote": "she went number one multiple times, number two twice, and they both looked healthy"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -8249,16 +8259,6 @@
      "office": true,
      "note": "First visit report after the account manager's Nov 11 medication messages. Kristin Aldridge's Nov 11 evening report says she assisted with medication. The report does not say which medication, so it is not clear whether this was the gland spray, the ear medicine, or something else - and the account manager's 3:47 PM question about whether sitters may give the ear drops still has no reply in the mail. Office should confirm what was actually given before the next visit.",
      "quote": "When we got back in, I topped off her water and assisted with medication."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Josh Stone visit report, Nov 10 11:45 AM",
-     "office": false,
-     "note": "Sassie had a gland spray applied on the Nov 10 late-morning visit. The sitter's method was to distract her with a treat and spray quickly. This is the first mention of a gland spray in recent mail - one sitter on one visit, so it is not written up here as a standing instruction.",
-     "quote": "We also applied her gland spray by distracting her with a treat while spraying her behind quickly."
     }
    ],
    "dormant": false
@@ -8629,6 +8629,16 @@
      "office": false,
      "note": "Bluey is fed once a day.",
      "quote": "Bluey gets fed once a day."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Reese Rath morning visit report",
+     "office": false,
+     "note": "This morning's report answers the greeting field 'they were a little shy' again - the second visit in a row with that answer, after the Nov 16 afternoon report. Bailey was at the door when the sitter arrived, was fed her wet food on top of dry already down, and her litter box was rotated. Two reports is not yet a pattern.",
+     "quote": "They were a little shy"
     },
     {
      "cat": "home",
