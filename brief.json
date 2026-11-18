@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T07:35:06-05:00",
+ "generated": "2026-11-18T08:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -183,6 +183,16 @@
      "quote": "She started pain management for arthritis (another thing for her 😭) so that might be why."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Client message, Nov 18 7:15 AM ET",
+     "office": false,
+     "note": "Client left a bowl of dry food on the counter and asks the sitter to put it down on the pet's placemat on the floor before leaving. She spells the name 'Noves' in this message; the brief otherwise carries this pet as Nova, so the spelling is the client's, not a second animal. Written for today's visit, not stated as a standing instruction.",
+     "quote": "I put a bowl of hard food on the counter for Noves."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -250,16 +260,6 @@
      "source": "Visit report from Shannon Anderson",
      "office": false,
      "note": "Shannon reported that on both of her visits this week Nova went outside without her harness and leash - noted as progress, not a standing instruction.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Sitter and client messages, Shannon Anderson",
-     "office": false,
-     "note": "Nova ate everything except her dry food on the Nov 7 visit. The client is not worried - she says Nova will come back to it when she is ready and Scarlett will try some. The client notes this was the first time they were not home for the pets' dinner.",
      "quote": ""
     }
    ],
@@ -8521,6 +8521,26 @@
      "quote": "Bluey gets fed once a day."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Reese Rath visit report, Nov 18 morning",
+     "office": false,
+     "note": "Bailey guarded the stairs on this morning's visit. The sitter fed Bluey first, then waited for Bailey to move off the stairs before going downstairs to feed her, refresh water and rotate the litter box. One sitter's experience on one visit, not stated as a standing rule.",
+     "quote": "she was guarding the stairs, so I waited for her to move"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Client message, Nov 18 7:43 AM ET",
+     "office": false,
+     "note": "Client wrote during this morning's visit that her daughter is on her way to the house and may arrive before the sitter leaves. She says she is telling the team so nobody is alarmed by someone letting themselves in. For today only as written.",
+     "quote": "My daughter is headed to the house so she may arrive before you leave."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -8574,6 +8594,26 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
+     "date": "Nov 18",
+     "source": "Reese Rath visit report, Nov 18 morning",
+     "office": false,
+     "note": "Bailey was out waiting at the arrival point again - the sitter's own word 'again'. Third report in a row with Bailey at the door or waiting on arrival, after the Nov 16 afternoon and Nov 17 morning visits.",
+     "quote": "Bailey was out waiting again when I arrived."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Reese Rath visit report, Nov 18 morning",
+     "office": false,
+     "note": "The report's greeting field was answered 'they were a little shy' again - the third visit in a row with that answer, after Nov 16 afternoon and Nov 17 morning. The sitter's narrative otherwise says everything went well.",
+     "quote": "They were a little shy"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
      "date": "Nov 17",
      "source": "Reese Rath morning visit report",
      "office": false,
@@ -8589,26 +8629,6 @@
      "office": false,
      "note": "A package was sitting at the door on this afternoon's visit and the sitter brought it inside.",
      "quote": "I also brought the package that was at the door inside."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 16",
-     "source": "Reese Rath visit report, 4:25 PM",
-     "office": true,
-     "note": "No photos are attached to this afternoon's report. The sitter says she took them in the app but they appear to have been deleted and not saved. The report form asks for pictures with the water, food and litter answers, so the office may want to tell the client why this visit has none.",
-     "quote": "I did take pictures, but they somehow got deleted since I took them through the app"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 16",
-     "source": "Reese Rath visit report, 4:25 PM",
-     "office": false,
-     "note": "Bailey was waiting at the door when the sitter walked in, but the report's greeting field was answered 'a little shy' rather than happy. Full litter change-out done and the bottom bag taken out.",
-     "quote": "They were a little shy"
     }
    ],
    "dormant": false
