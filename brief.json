@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T09:20:10-05:00",
+ "generated": "2026-11-18T10:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8011,6 +8011,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 18",
+     "source": "Margaret Bill updated contact information for Joan- Gina Sullivan (Manages Account), 10:02 AM",
+     "office": false,
+     "note": "Sassie's Important Notes were rewritten with the medication detail the record was missing until now: AM visit is ear drops, 1 or 2 drops in both ears, plus the spray on her behind; evening visit is the spray applied liberally. Previously the same note said only 'ear drops and spray' with no dose and no amount. This is what Time To Pet now carries, so sitters have a written ear-drop instruction for the first time.",
+     "quote": "MEDS: Am visit: ear drops (1 or 2 drops in both ears) and spray (spray on Sassie's behind)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 18",
+     "source": "Margaret Bill updated contact information for Joan- Gina Sullivan (Manages Account), 10:02 AM",
+     "office": false,
+     "note": "The trigger list in the same note now includes dogs. It previously read squirrels, cats and unknown people only, so dog reactivity is now a standing rule in the record rather than a single sitter observation. Sassie is already flagged an escape risk.",
+     "quote": "Triggers: squirrels, cats, unknown people, dogs"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -8071,6 +8091,16 @@
      "quote": "if she tells the walker not to come please confirm with me 1st"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Joan- Gina Sullivan (Manages Account) private message, 9:18 AM",
+     "office": true,
+     "note": "After-hours access: the account manager says a sitter would have to be buzzed in after hours, and that she would send the exit code separately - her husband has it. No code is recorded here and none should be; the office needs to take delivery of it and write it into Time To Pet, then tell the evening sitter how entry and exit will work. Relates to the existing rule that the building closes its doors at 8pm.",
+     "quote": "She would have to buzz in after hours."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -8099,36 +8129,6 @@
      "office": false,
      "note": "Dog reactivity on the Nov 13 afternoon walk: Sassie saw another dog, barked and tried to go toward it, and the sitter turned and walked the opposite way. First dog-reactivity note on record for Sassie - treat as one observation, not a standing rule yet.",
      "quote": "She saw another dog we went the opposite way. She was barking and trying to go towards it."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Chrissy George morning and afternoon visit reports, Nov 13",
-     "office": true,
-     "note": "Both of Nov 13's visits record the sitter assisting with medication - the ear drops at the 9:41 AM visit and the spray at the 1:35 PM visit. The account manager's Nov 11 question about whether Petcare Deluxe can administer the ear drops is still unanswered in writing, but staff are already doing it. Office should confirm the arrangement.",
-     "quote": "Then I helped with her ear drops and gave her some more love."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 12",
-     "source": "Chrissy George visit report, 10:05 AM ET",
-     "office": true,
-     "note": "Today's morning visit report for Sassie covers the walk only - rain coat, harness and leash, one lap of the building, #1 and #2 firm and healthy, a treat and petting. It makes no mention of the gland spray or the ear medicine the account manager wrote about on Nov 11, so the mail does not show whether either was given at this visit.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 12",
-     "source": "Josh Stone visit report, 2:38 PM Nov 12",
-     "office": true,
-     "note": "Josh Stone's 2:38 PM report is a walk report only - harness on, hallways walked because of the rain, water refreshed, a treat, #1 and #2 both firm and healthy. Neither the gland spray nor the ear drops is mentioned anywhere in it. Second report today with no medication entry, and the Nov 11 ear-drop question is still unanswered.",
-     "quote": ""
     }
    ],
    "dormant": false
