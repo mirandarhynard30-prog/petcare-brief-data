@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T08:20:08-05:00",
+ "generated": "2026-11-18T09:20:10-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8541,6 +8541,26 @@
      "quote": "My daughter is headed to the house so she may arrive before you leave."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 18",
+     "source": "Client message, Nov 18 8:17 AM ET",
+     "office": false,
+     "note": "Replying to this morning's report that Bailey guarded the stairs, the client says the cat hides from most people and likes to supervise, and treats her being feisty with you as a sign she has accepted you. The client writes 'her' and does not name the pet in this message, but it is a direct reply to Reese Rath's report about Bailey.",
+     "quote": "She will hide from most people. She also does like to supervise! Lol!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 18",
+     "source": "Client message, Nov 18 8:22 AM ET",
+     "office": false,
+     "note": "Follow-up five minutes after her 8:17 AM message: the same cat will often plant herself where she wants the sitter to go, but will not bite or scratch. The client's point is that this is fussiness, not aggression. She again writes 'she' and does not name the pet.",
+     "quote": "She isn't feisty in that way. She is just fussy. (All meow and no bite)"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "standing",
@@ -8609,26 +8629,6 @@
      "office": false,
      "note": "The report's greeting field was answered 'they were a little shy' again - the third visit in a row with that answer, after Nov 16 afternoon and Nov 17 morning. The sitter's narrative otherwise says everything went well.",
      "quote": "They were a little shy"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 17",
-     "source": "Reese Rath morning visit report",
-     "office": false,
-     "note": "This morning's report answers the greeting field 'they were a little shy' again - the second visit in a row with that answer, after the Nov 16 afternoon report. Bailey was at the door when the sitter arrived, was fed her wet food on top of dry already down, and her litter box was rotated. Two reports is not yet a pattern.",
-     "quote": "They were a little shy"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 16",
-     "source": "Reese Rath visit report, 4:25 PM",
-     "office": false,
-     "note": "A package was sitting at the door on this afternoon's visit and the sitter brought it inside.",
-     "quote": "I also brought the package that was at the door inside."
     }
    ],
    "dormant": false
