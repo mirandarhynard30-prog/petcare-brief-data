@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T18:20:08-05:00",
+ "generated": "2026-11-17T19:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -314,6 +314,26 @@
      "quote": "the purple one is a bit too big and she can slip out of."
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Client message 5:52 PM ET",
+     "office": true,
+     "note": "Later follow-up to her earlier collar message: the client asks whether putting a buckle on Rusty's prong collar would help with getting it on, so it would fasten with a buckle instead of wrapping around, through and clipping. This is an open question to the office and has not been answered.",
+     "quote": "Margaret, would a buckle on rustys prong collar help with putting it on?"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Client message 5:52 PM ET",
+     "office": false,
+     "note": "In the same 5:52 PM message the client says she has now fixed the collar that was misaligned. She does not say which collar beyond 'that one', so it is ambiguous whether this is the crooked latch the Nov 16 and Nov 17 sitters could not pull down. No sitter has confirmed the fix yet.",
+     "quote": "I just fixed that one that was misaligned"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -372,26 +392,6 @@
      "office": true,
      "note": "Rusty's collar chain broke during this visit and the sitter could not refasten it, so Rusty was walked without her prong collar and did okay. The chain was still broken when the sitter left - next visit has no working prong collar for Rusty unless the office replaces it.",
      "quote": "I broke the chain and could not fix it because I couldn't bring the latches together enough"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Mary Gilmore client message, 5:59 PM",
-     "office": false,
-     "note": "Client found the front panel of Rusty's cage unhooked and asks that it be checked on visits so Rusty cannot escape. She says she will check it herself after work. Separate from the Nov 4 crate break-out, which was a different event.",
-     "quote": "i noticed rustys cage, front panel, was unhooked. Can you pay attention to that when you visit so she cant escape midday?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Mary Gilmore client message, 5:59 PM",
-     "office": true,
-     "note": "Client asks for a midday check because of the unhooked cage panel. She does not say which day she means - the Nov 5 midday had already passed when she wrote at 5:59 PM, so this may mean Nov 6 or ongoing. Needs an answer from the office.",
-     "quote": "Ill check it after work but if you could do a midday check thatd be great!"
     }
    ],
    "dormant": false
@@ -3669,6 +3669,26 @@
      "office": false,
      "note": "Julie is normally home for the walk and asks that the door not be locked. Recorded the same way on both the Aug 17 and Aug 24 visit reports, so sitters have not needed to enter or secure the house.",
      "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Murphy was very interested in a street worker on this walk and kept turning around to look at him. No reactivity was reported and no other dogs or people were seen. Single observation.",
+     "quote": "Murphy was also very interested in the street worker and would turn around and look at the worker."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Murphy went #1 but not #2 on this walk. The sitter took a slightly different route so he would not get bored.",
+     "quote": "Murphy went number one but not number two."
     },
     {
      "cat": "health",
@@ -8603,6 +8623,26 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 17",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Client was home for this visit and the sitter assisted Rita with the leashes and harnesses at the house. The two dogs were walked separately - Lola up Edgerton and back first, then Luke around a block.",
+     "quote": "I came and assisted Rita in putting the leashes and harnesses on."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Luke saw a squirrel on the walk and the sitter redirected him with a treat, which worked. Both dogs were interested in treats. Single observation on this visit, not stated as a standing rule.",
+     "quote": "Luke did see a squirrel so I distracted him with a treat."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 16",
      "source": "Chrissy George visit report, approx 1:20 PM",
      "office": false,
@@ -8628,26 +8668,6 @@
      "office": false,
      "note": "Lola drinks a lot of water because of Cushing's disease.",
      "quote": "lola drinks a lot of water due to Cushing's disease"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 13",
-     "source": "Company Notes updated by Margaret Bill",
-     "office": false,
-     "note": "A dog may need its anal gland expressed if scooting. The note names 'Luc' while the dogs are listed as Lola and Lucy, so which dog is meant is unclear.",
-     "quote": "Luc may need anal gland expressed if scooting"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 13",
-     "source": "Company Notes updated by Margaret Bill",
-     "office": false,
-     "note": "Both dogs know stay, sit and come. Lucy does not hear well.",
-     "quote": "both know stay, sit, come, lucy can't hear well"
     }
    ],
    "dormant": false
