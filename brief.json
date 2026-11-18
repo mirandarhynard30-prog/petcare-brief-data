@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T22:20:06-05:00",
+ "generated": "2026-11-18T05:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1521,16 +1521,6 @@
      "quote": "can we switch astra to 45 minutes instead of 30 starting next week?"
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Client message, 10:20 AM",
-     "office": true,
-     "note": "Today's visit is going ahead: Monica Hopewell sent a 10:30 AM arrival time and Jessica acknowledged it. This does not say whether her Oct 26 request to reschedule around the blocked driveway was ever answered, or where the sitter is to park while the construction crew has the driveway.",
-     "quote": "Awesome, we'll see you then"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -1904,26 +1894,6 @@
      "office": true,
      "note": "Client withdraws a duplicate booking: she says she forgot she had already requested the service and only needs one visit for Mac that day, so the request she just placed should be disregarded. She does not name the date herself - the request she placed twenty minutes earlier, at 4:12 PM, was for Nov 21. Office needs to decline or delete the duplicate so Mac is not booked and billed twice for that day.",
      "quote": "disregard the request i just put in"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Diane Hoard private message, Oct 27 2:19 PM",
-     "office": true,
-     "note": "Client wrote asking about visit requests: a new one placed for Mac on Nov 3, and earlier requests for Nov 16-19 and Dec 10-11 that she says are still pending. She sent a thank-you at 2:42 PM, so the office did reply, but that reply referenced a dog/cat species correction rather than the dates, so whether the three pending requests have actually been approved is unclear.",
-     "quote": "I just realized the November 16-19 and December 10-11 are still pending. Just checking on them."
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "client private message",
-     "office": true,
-     "note": "Client submitted a request for Mac on Nov 3 and is chasing earlier requests for Nov 16-19 and Dec 10-11 that still show as pending. She sent a thank-you later the same evening; whether all three were approved is not confirmed.",
-     "quote": "I just realized the November 16-19 and December 10-11 are still pending."
     },
     {
      "cat": "behavior",
@@ -2640,16 +2610,6 @@
     },
     {
      "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Client message",
-     "office": false,
-     "note": "Client message this morning: cleaners are at the house today, so Milo is out at daycare and Archer is shut in the upstairs guest bedroom. Expect only Archer on site and expect him behind that door; cleaners may also be present.",
-     "quote": "Since the cleaners are coming today, Milo is at daycare and Archer is in the guest bedroom upstairs"
-    },
-    {
-     "cat": "behavior",
      "sev": "medium",
      "type": "recent",
      "date": "Nov 17",
@@ -3062,16 +3022,6 @@
     {
      "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Ashley Corall midday visit report",
-     "office": true,
-     "note": "The Oct 27 report answers Yes to setting the house alarm before leaving. That is the first indication in recent mail that this home has an alarm at all - no alarm instruction is recorded for this client. Entry was through the garage. Office should get the alarm step written into the notes if it applies every visit.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
      "type": "standing",
      "date": "Oct 13",
      "source": "Important Notes edit by Tiarra Roberts 10:03am",
@@ -3327,16 +3277,6 @@
      "source": "Visit report from Dan Dantimo",
      "office": false,
      "note": "Guinness went #2 early in the walk and the sitter logged the consistency as slightly loose but not concerning. One visit only - watch whether it repeats.",
-     "quote": "It was a little loose but not concerning"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Visit report from Dan Dantimo, Oct 27",
-     "office": false,
-     "note": "Guinness's stool was slightly loose on the Oct 27 midday walk. The sitter did not consider it concerning, but worth watching on the next visit.",
      "quote": "It was a little loose but not concerning"
     },
     {
@@ -4483,26 +4423,6 @@
      "office": false,
      "note": "On today's visit Lily went and stood by the refrigerator as if expecting food. Sitter noted nothing was in there for her. One visit, one sitter - not a standing rule.",
      "quote": "She’s going by the refrigerator. Think there’s something in there for her, but there’s not."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Robin Lewis midday visit report",
-     "office": false,
-     "note": "Oct 27 midday visit: Lily was unusually vocal and asked to go back out about 15 minutes after the first walk, so the sitter took her out a second time. Both walks were short. She went #1 and #2 outside, consistency logged firm and healthy.",
-     "quote": "She was very vocal today we took our walk came back in and 15 minutes later she wanted to go back out"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Robin Lewis midday visit report",
-     "office": true,
-     "note": "The same report contradicts itself on water: the water-bowl field answers No to refilling while the narrative says the sitter topped the water off. Worth checking rather than assuming, because this client's automatic waterer was found broken on Oct 26 and the stated workaround is the spare bowl next to the food.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -7364,26 +7284,6 @@
      "quote": "PM: Split 1 pouch of wet food between same bowls."
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Client private message 1:46 PM",
-     "office": true,
-     "note": "Client proposed 3pm as a time that works, after sending a separate message at 1:20 PM chasing an unanswered reply. The purpose of the 3pm slot is not stated in this message. Still unanswered.",
-     "quote": "3pm would work"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "client private message",
-     "office": true,
-     "note": "Client chased an unanswered message at 1:20pm ET, then wrote '3pm would work' and later 'Sounds good'. What the 3pm refers to is not stated in the notifications, so the office should confirm what was actually agreed.",
-     "quote": "just following up on the previous message since I haven't seen a reply yet"
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "standing",
@@ -7614,69 +7514,9 @@
      "office": false,
      "note": "New pet named Fitz added to this account early on Oct 27. The notification carries the name only - no species, age, handling or care detail - so confirm Fitz's care notes in Time To Pet before the visit.",
      "quote": "has added a pet with name Fitz to their account."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Shannon Anderson messages 11:17 and 11:19 AM Oct 27",
-     "office": true,
-     "note": "At the 11:30 meet and greet Shannon Anderson and Harvette were held in the lobby and had to ask the client in writing whether the lobby could be messaged to let them up. The client answered, but the building-access step does not appear to be anywhere the sitters could see it beforehand - worth writing into this client's record before the next visit.",
-     "quote": "Is it possible to message the lobby for permission to let us up"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 27",
-     "source": "Harvett Ellington meet-and-greet report, 12:21 PM",
-     "office": false,
-     "note": "Photos showing where the leash and treats are kept are attached to Harvett Ellington's Oct 27 visit report in Time To Pet. Sitters should open that report before the first visit - the locations are only in the pictures, not written out anywhere.",
-     "quote": "There are pictures of where the leash and treats are located."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 27",
-     "source": "Pet Care Note updated by Shannon Anderson, Oct 27",
-     "office": false,
-     "note": "Kat is a new mom and is home during visits, but still wants the sitter to come inside and leash Fitz. Send her an ETA before heading over.",
-     "quote": "Please send an eta when headed her way."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 27",
-     "source": "Company Notes updated by Shannon Anderson, Oct 27",
-     "office": false,
-     "note": "Park in the visitors lot on the side of the building. No house alarm. Leash is on the counter or by the shoes, harness will already be on him, poop bags are on his leash, and waste goes in the disposal cans in the designated pet spots. Water bowl in the kitchen, treats on the counter or next to the fridge, cleaning supplies under the kitchen sink.",
-     "quote": "Park in visitors lot on side of building"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 27",
-     "source": "Harvett Ellington meet-and-greet report, 12:21 PM",
-     "office": false,
-     "note": "At the meet and greet the sitters told the client that taking the trash out and refreshing the water bowl with fresh water are part of each visit. Treat that as the expectation the client was given.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 27",
-     "source": "Harvett Ellington meet-and-greet report, 12:21 PM",
-     "office": false,
-     "note": "There is an infant in the home - the sitters met the client and her baby at the Oct 27 meet and greet. Expect someone to be home and keep arrivals quiet.",
-     "quote": ""
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Marie Newlove",
@@ -7715,16 +7555,6 @@
      "office": true,
      "note": "Office to tidy the record: the Important Notes field was edited three times between 9:28 and 9:36am ET and the 9:34am edit garbled the text - a new feeding and cat-hiding sentence was spliced into the middle of the access sentence mid-word, leaving fragments. The access details themselves are intact in the Access Instructions field. Content not reproduced here because that field holds entry codes.",
      "quote": ""
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Client message 12:54 PM",
-     "office": true,
-     "note": "Client messaged only \"We're ready.\" with no further context. Meaning is ambiguous - it may mean ready for a visit, a start date or a meet-and-greet. Nothing in this mailbox answers it. Needs an office reply to find out what she is ready for.",
-     "quote": "We’re ready."
     }
    ],
    "dormant": false
@@ -7774,16 +7604,6 @@
      "source": "Tracy Martin profile update",
      "office": false,
      "note": "Client filled in her own profile for the first time on Oct 27 and added a pet named Brutus. Access instructions and two emergency contacts are now on file in Time To Pet; details are deliberately not repeated here. Check the client record in Time To Pet before the visit. No pet care note, species, age or handling detail has been written yet.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Tracy Martin profile update",
-     "office": true,
-     "note": "First information this client has ever supplied. Worth confirming the pet care note is completed - species, age, feeding and handling for Brutus are still blank.",
      "quote": ""
     },
     {
