@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T00:05:08-05:00",
+ "generated": "2026-11-18T13:20:14-05:00",
  "date": "2026-11-18",
  "label": "Nov 18, 2026",
  "clients": [
@@ -140,8 +140,8 @@
      "pets": "Sassie"
     },
     {
-     "time": "5:45 PM",
-     "sort": "1745",
+     "time": "6:00 PM",
+     "sort": "1800",
      "staff": "Josh Stone",
      "service": "Dog Visit-45 minute",
      "pets": "Sassie"
@@ -152,8 +152,8 @@
    "name": "Karen  Grosser",
    "visits": [
     {
-     "time": "12:00 PM",
-     "sort": "1200",
+     "time": "12:30 PM",
+     "sort": "1230",
      "staff": "Noella Assi",
      "service": "Dog Visit-30 minute",
      "pets": "Chloe"
@@ -214,8 +214,8 @@
      "pets": "Puck, Rusty"
     },
     {
-     "time": "4:30 PM",
-     "sort": "1630",
+     "time": "4:45 PM",
+     "sort": "1645",
      "staff": "Josh Stone",
      "service": "Dog Visit-30 minute",
      "pets": "Puck, Rusty"
