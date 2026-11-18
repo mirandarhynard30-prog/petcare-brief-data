@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T12:20:10-05:00",
+ "generated": "2026-11-18T13:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1989,6 +1989,16 @@
      "quote": "put on a bland diet for the next couple of days. Please don’t give him any treats"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Oliver wears a belly band indoors - sitter took it off for his walk and put it back on before leaving.",
+     "quote": "I put Oliver's belly band back on and made sure the front door was locked upon departure."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -2047,6 +2057,16 @@
      "office": false,
      "note": "A sitter confirmed she will watch for lawn-chemical warning signs; the client's original caution is not in this thread.",
      "quote": "I will be aware of the yard chemical signs."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Daffodil was in her crate on arrival and her barking startled Oliver, who was asleep on the couch. Oliver also cut his walk short and headed home at the mention of treats.",
+     "quote": "Daffodil was barking which startled Oliver who was napping on the couch with the white blanket"
     },
     {
      "cat": "health",
@@ -3008,6 +3028,16 @@
      "office": false,
      "note": "Company Notes now state the back yard is NOT fenced, so Oakley must be on a leash or the long lead any time he is outside. The long lead is at the house.",
      "quote": "Backyard is NOT fenced — must use leash or long lead (available)"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Ashley Corall visit report",
+     "office": false,
+     "note": "Oakley went #2 three times on the walk and the last one was loose; sitter reported he otherwise seemed completely fine. Worth watching on the next visit.",
+     "quote": "he did go #2 (3 times) on his last one it was loose but he seems totally fine"
     },
     {
      "cat": "health",
@@ -3989,6 +4019,16 @@
      "quote": "Yes if the alarm is on just disarm it"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Dan Dantimo visit report",
+     "office": true,
+     "note": "Sitter reports the house alarm is armed when he arrives and he has been leaving it unarmed; he asked the client whether to arm it on departure. No answer yet - office needs to confirm the client's preference and put it in the Pet Care Note.",
+     "quote": "I've noticed the alarm has been set when I arrive and should I arm it when I leave."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -4047,16 +4087,6 @@
      "office": false,
      "note": "Jaxson's Nov 12 midday #2 is described the same way in both places in the report for once: the narrative calls it pretty solid and the consistency field is logged as firm and healthy. He went #1 on a short walk cut off by heavier rain, then #2 in the back yard once it eased. The client said on Nov 11 that he is mid food change, so this is the stool the office was watching for.",
      "quote": "pretty solid"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Thomas Rakovec visit report, 11:17 AM",
-     "office": false,
-     "note": "Jaxson's Nov 11 #2 is logged two different ways in the same report and they disagree: the narrative says it was a little soft, while the report's consistency field was answered firm and healthy. Ambiguous - treat as a soft stool for watching purposes. Relevant because this follows the Oct 29 to Nov 10 run of missed and loose stools already on file. Sitter also brought a package in.",
-     "quote": "little soft but nice shape"
     }
    ],
    "dormant": false
@@ -8235,6 +8265,16 @@
      "quote": ""
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Client message",
+     "office": false,
+     "note": "Client warned workers may be in the backyard taking the awning down; when the sitter asked whether to avoid the backyard altogether, the client replied yes if the workers are there.",
+     "quote": "There might be workers in the backyard taking the awning down."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -8273,16 +8313,6 @@
      "office": false,
      "note": "Treat amounts: half a fun-size Beggin' Strip for each puppy, and the client says that amount may be doubled if you like. Willa and Wynston get a full-size one each.",
      "quote": "Same with Willa and Wynston but they get a full size one each."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Client message, Nov 10 8:02 AM",
-     "office": false,
-     "note": "Client reports the puppies have worked out the steps up to the couch. Relevant to the escape/containment risk already flagged for this household.",
-     "quote": "Oh and the puppies figured out the steps to the couch already."
     }
    ],
    "dormant": false
