@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T15:20:05-05:00",
+ "generated": "2026-11-18T17:20:09-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4059,6 +4059,16 @@
      "quote": "I've noticed the alarm has been set when I arrive and should I arm it when I leave."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Client message 4:31 PM, replying to Dan Dantimo's 12:38 PM report",
+     "office": true,
+     "note": "The client replied to Dan's report but did not address his question about whether to arm the house alarm when he leaves. That question is now unanswered through a direct client reply, so it needs to be asked again by the office and written into the Pet Care Note.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -4107,16 +4117,6 @@
      "office": false,
      "note": "Jaxson's stool has been firming up day by day through a food change. Today's report rated it firm and healthy.",
      "quote": "seems to be getting firmer each day"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 12",
-     "source": "Thomas Rakovec visit report, 11:40 AM",
-     "office": false,
-     "note": "Jaxson's Nov 12 midday #2 is described the same way in both places in the report for once: the narrative calls it pretty solid and the consistency field is logged as firm and healthy. He went #1 on a short walk cut off by heavier rain, then #2 in the back yard once it eased. The client said on Nov 11 that he is mid food change, so this is the stool the office was watching for.",
-     "quote": "pretty solid"
     }
    ],
    "dormant": false
@@ -8325,6 +8325,16 @@
      "quote": "Willa and Winston are good with them, but they get annoyed after a while."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 18",
+     "source": "Client message 4:30 PM, replying to Elizabeth Cuffari's afternoon report",
+     "office": false,
+     "note": "Client's answer to the sitter reporting that Wynston was humping the puppies: she says a verbal correction is all that is needed and he will stop. Treat as the client's standing handling instruction, not a one-off. Note the client spells the dog Wynston; the sitter wrote Winston.",
+     "quote": "When you see Wynston try to hump the puppies, just say “No Wynston!” And he will stop."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -8333,16 +8343,6 @@
      "office": true,
      "note": "Five minutes later the client wrote that she had not hit add, so nothing was submitted, and that she will not need the same services each week so she does not want a recurring template.",
      "quote": "I didn’t hit add so it didn’t submit it."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Elizabeth Cuffari visit report, 1:19 PM, with Shannon Anderson shadowing",
-     "office": false,
-     "note": "Willa and Winston did not go outside on their own on this visit - the sitter carried Willa out. Willa used an indoor pad, and the pads were refreshed for the two puppies and for Willa and Winston. The water bowl field was answered No. Two sitters were present, one shadowing.",
-     "quote": "Willa and Winston didn’t go outside but Shannon carried Willa out"
     }
    ],
    "dormant": false
