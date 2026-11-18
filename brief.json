@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T19:20:05-05:00",
+ "generated": "2026-11-17T22:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -432,6 +432,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 17",
+     "source": "Kathy Pastor visit report, 10:37 AM",
+     "office": false,
+     "note": "Kathy Pastor's Nov 17 morning walk: Gordy went #1 several times and #2 twice, and the consistency field was again answered a little loose but not concerning. That is the same answer as the Nov 16, Nov 13, Nov 9 and Oct 30 reports. Frost on the lawn but sunny and not windy; he ignored another walker, sniffed a lot and walked through leaf piles. Sitter took the trash out, brought the mail in and wiped his paws. Client was home.",
+     "quote": "Gordy did several number one and twice did number two."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 13",
      "source": "Chelsea Tompkins morning walk report, Nov 13 10:29 AM",
      "office": false,
@@ -537,16 +547,6 @@
      "office": true,
      "note": "Client messaged that they are driving home and expect to arrive about 5:01 PM Nov 12. Check whether any later visits today should be dropped. The mail does not say which visits or how long they were away.",
      "quote": "We are still on the road in traffic.We should be there at 5;01 pm."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 16",
-     "source": "Client message, Nov 16 11:50 PM ET",
-     "office": false,
-     "note": "Late-evening message explaining why she had been up 24 hours on the Nov 16 morning walk: the household had just driven back from New Hampshire, which she calls a 12-13 hour drive. Confirms she is home. The rest of the message is thanks for the walk.",
-     "quote": "I didn't sleep well because we were driving from New Hampshire. It's like a 12-13 hour drive!"
     }
    ],
    "dormant": false
@@ -827,6 +827,26 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 17",
+     "source": "Alex Miller visit report, 10:24 AM",
+     "office": true,
+     "note": "Chloe was WALKED again on the Nov 17 morning visit - Alex Miller carried her outside and they went a lap around the street, 50 degrees, sunny. She went #1 and #2 and the consistency field was answered firm and healthy. Melody was home during the visit and asked that the door not be locked. This is another outdoor walk logged for a dog recorded as recovering from pneumonia since the Oct 26 diagnosis, and the office has still not confirmed whether walking is allowed again.",
+     "quote": "Chloe and I went a lap around the street."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Alex Miller visit report, 2:38 PM",
+     "office": true,
+     "note": "Second walk of the same day, and the sitter says it was much longer than the morning one - Chloe stayed outside with him for a bit and seemed to have a lot of energy. She went #1 only, no #2 on this visit, after going #2 in the morning. Two walks in one day for Chloe, both by Alex Miller.",
+     "quote": "Our walk was much longer this afternoon!"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 16",
      "source": "Harvett Ellington visit report, approx 3 PM",
      "office": true,
@@ -922,26 +942,6 @@
      "office": false,
      "note": "Chloe had a wheezing and coughing fit during the Oct 29 early-afternoon visit. The sitter found her asleep upstairs in the office, carried her down, and the fit started while the sitter was putting shoes on in the breezeway. The sitter sat with her a minute until she settled, then harnessed her and took her out. This is the same carry-then-wheeze sequence reported on Oct 27. On the walk Chloe peed quickly and wanted to go straight back in, but then did well in the backyard with harness and leash on.",
      "quote": "I noticed that Chloe was having a wheezing and coughing fit."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Alex Miller visit report, 9:54 AM",
-     "office": false,
-     "note": "Oct 27 morning visit was cut short because Chloe is unwell. Alex Miller found her in the office with Melody, carried her outside, sat with her and coaxed her back out a second time; she would not go potty on either attempt and went straight back upstairs to Melody. Water bowls refilled, client home, door left unlocked at her request. The report's walk checkbox still reads that the usual route went as planned, which contradicts the narrative.",
-     "quote": "The visit was shorter today because poor Chloe isn’t feeling well"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 27",
-     "source": "Harvett Ellington visit report 2:13 PM",
-     "office": true,
-     "note": "Chloe was found asleep upstairs and the sitter carried her downstairs; she then began to wheeze and the sitter attached a video. Afternoon visit, Oct 27. No vet contact or medication mentioned in the report.",
-     "quote": "I carried her gently downstairs"
     }
    ],
    "dormant": false
