@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T11:20:07-05:00",
+ "generated": "2026-11-18T12:20:10-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7575,6 +7575,16 @@
      "office": true,
      "note": "Office to tidy the record: the Important Notes field was edited three times between 9:28 and 9:36am ET and the 9:34am edit garbled the text - a new feeding and cat-hiding sentence was spliced into the middle of the access sentence mid-word, leaving fragments. The access details themselves are intact in the Access Instructions field. Content not reproduced here because that field holds entry codes.",
      "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Client message from Marie Newlove, 11:33 AM",
+     "office": false,
+     "note": "Client confirms Abbey, the shy cat, stayed hidden through the Nov 18 visit and sent a photo of her. She hopes Abbey will be more visible next visit. Consistent with the standing note that Abbey hides; no action asked for.",
+     "quote": "She was hiding when you were here. Hopefully she’ll be more visible when you come by."
     }
    ],
    "dormant": false
