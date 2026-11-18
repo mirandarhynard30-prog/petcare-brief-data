@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T10:20:08-05:00",
+ "generated": "2026-11-18T11:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2109,6 +2109,16 @@
     "Luna"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Client private message, 10:30 AM",
+     "office": true,
+     "note": "Client asks by private message to move both the Nov 26 and Nov 27 visits onto Saturday Nov 28, and suggests 11-12 and then 4-5 that day. This is a request in a message, not a booking in the system, and nothing in the mail shows an answer yet. Needs a reply from the office.",
+     "quote": "Miranda - can I move the 26th & 27th visits to Both being on Saturday the 28th?"
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -6991,6 +7001,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Client message, 10:15 AM",
+     "office": false,
+     "note": "Client says she is home today and had not realised a visit was scheduled, and she wants the visit to go ahead anyway. The visit is ON - expect the client to be in the house, which she says is not normally the case.",
+     "quote": "I must not have checked my schedule very well because I am home today."
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -7044,6 +7064,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 18",
+     "source": "Client message, 10:17 AM",
+     "office": false,
+     "note": "Follow-up two minutes after the message above: the client will be upstairs getting ready and the dogs will be waiting and ready for their walk. She asks the sitter to carry on as normal as though she is not there.",
+     "quote": "Just pretend like I’m not here."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 14",
      "source": "Client message from Jennifer Wagar",
      "office": false,
@@ -7089,26 +7119,6 @@
      "office": false,
      "note": "Client states outright that Suka's hearing is very poor. This is the client's own confirmation of the hard-of-hearing observation a sitter raised the same morning, and it applies to every visit.",
      "quote": "she doesn’t hear very well at all!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 6",
-     "source": "Jennifer Wagar message, Nov 6 10:49 AM",
-     "office": false,
-     "note": "Bruno dislikes rain. Jennifer says she sometimes holds the umbrella over Bruno rather than over herself in order to walk him. Suka does not mind the rain.",
-     "quote": "Bruno hates the rain."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 6",
-     "source": "client message",
-     "office": false,
-     "note": "Bruno hates the rain and the client sometimes walks him holding an umbrella over him rather than herself. Suka is not bothered by rain.",
-     "quote": "Bruno hates the rain. Sometimes I have to use an umbrella over him to walk him instead of an umbrella over me."
     }
    ],
    "dormant": false
