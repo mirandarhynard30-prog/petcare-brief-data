@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T05:20:09-05:00",
+ "generated": "2026-11-18T07:35:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -334,6 +334,16 @@
      "quote": "I just fixed that one that was misaligned"
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Margaret Bill message 10:20 PM",
+     "office": true,
+     "note": "Margaret Bill answered the client's buckle suggestion late on Nov 17. She says she does not know whether a buckle would work better and that she cannot squeeze the prongs of Rusty's prong collar together, and she is willing to try it if the client wants. Rusty's collar is still unresolved after a week of failures - the office needs to decide what collar she is walked on.",
+     "quote": "I don't know the buckle or whether it would work better."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -382,16 +392,6 @@
      "office": false,
      "note": "Margaret Bill's Nov 13 late-morning walk report says Puck's #2 was loose and that there was a lot of it. Puck held it until the last apartment house before going. This is the first loose stool recorded for Puck - the brief's existing stool history is for Rusty.",
      "quote": "Her number two was loose, and there was a lot of it."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Margaret Bill visit report, Nov 11",
-     "office": true,
-     "note": "Rusty's collar chain broke during this visit and the sitter could not refasten it, so Rusty was walked without her prong collar and did okay. The chain was still broken when the sitter left - next visit has no working prong collar for Rusty unless the office replaces it.",
-     "quote": "I broke the chain and could not fix it because I couldn't bring the latches together enough"
     }
    ],
    "dormant": false
@@ -1864,6 +1864,16 @@
      "office": false,
      "note": "Mac was whiny for much of the midday visit even with constant attention, and only went #1 - no #2. Sitter had no explanation for the whining.",
      "quote": "He was a bit whiny today even with me constantly petting him he was whining."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 17",
+     "source": "Client message 4:05 PM",
+     "office": false,
+     "note": "The client answers the sitter's open question about the skunk smell: Mac was sprayed a couple of weeks ago, while the family was out of town and a niece was staying at the house. She says it is better but still lingers despite multiple washes. This resolves the Nov 17 report's uncertainty over whether he was sprayed or had only walked through the smell - he was sprayed.",
+     "quote": "indeed sweet Mac had an encounter of the skunky kind a couple of weeks ago!"
     },
     {
      "cat": "home",
@@ -5274,6 +5284,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 17",
+     "source": "Shannon Anderson visit report",
+     "office": true,
+     "note": "Shannon Anderson's Nov 17 midday report makes no mention of Weezie/Louise's eye drops - not in the narrative and not anywhere in the report form, whose only fields for her are whether she went #1 and the stool consistency. That is a sixth consecutive report (Nov 9, 10, 11, 12, 16, 17) with no confirmation the drops were given. The office needs to settle whether the drops are still prescribed and whose job they are.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 16",
      "source": "Shannon Anderson visit report for Christine Jenison, Nov 16 12:23 PM ET",
      "office": true,
@@ -5379,16 +5399,6 @@
      "office": false,
      "note": "Both dogs refused to stay outside in the cold wind. Frank would not go out at all; Weezie went out only long enough to go #1 and then would not go back out once the wind picked up. Neither went #2.",
      "quote": "I tried to get Frank outside but he refused."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 7",
-     "source": "Client message from Christine Jenison",
-     "office": false,
-     "note": "Where to find the food scoop - a sitter could not locate it on the Nov 7 evening visit.",
-     "quote": "The scoop is attached to the underside of the container holding the dog food"
     }
    ],
    "dormant": false
