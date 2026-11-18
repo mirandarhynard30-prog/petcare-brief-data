@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T13:20:06-05:00",
+ "generated": "2026-11-18T14:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2173,6 +2173,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 18",
+     "source": "Kristin Ashick visit report",
+     "office": false,
+     "note": "Gardeners were working at the house when the sitter arrived on Nov 18. She brought plenty of small treats and kept Ripley close going down the driveway. One man kept his head down and hands crossed; the other looked at Ripley and she gave him a warning bark. The gardeners were leaving as they came back and she passed them with no barks.",
+     "quote": "She gave him a warning bark, and then we were on our way."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 13",
      "source": "Tiarra Roberts visit report, Nov 13 12:34 PM",
      "office": false,
@@ -2188,6 +2198,16 @@
      "office": false,
      "note": "A heavy package of copy paper was sitting at the front door today. The sitter brought it inside and left it just inside the front door rather than carrying it through to the office.",
      "quote": "I brought in the copy paper through the front door, leaving it inside, next to the front door"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Kristin Ashick visit report",
+     "office": false,
+     "note": "Passing another dog on the way back from the Nov 18 walk, Ripley was unsettled but the sitter got her through it. No #2 on this walk.",
+     "quote": "we did see another dog and she wasnt particularly thrilled but we made it"
     },
     {
      "cat": "health",
@@ -3418,6 +3438,16 @@
      "office": false,
      "note": "Muffy's leash and treats are kept in the hall closet. Leftover treats are to go back in the closet after the visit.",
      "quote": "Left over treats should be returned to the closet."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Leash pattern on the Nov 18 walk: Muffy started out very excitable, then settled further into the walk and was listening to commands, walking by the sitter's side by the end. Dan describes it as improvement but still a work in progress. Her #2 was firm and healthy.",
+     "quote": "as we went further in our walk, she would slow it down and listen to commands"
     },
     {
      "cat": "health",
@@ -7101,6 +7131,16 @@
      "quote": "Just pretend like I’m not here."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "client message",
+     "office": false,
+     "note": "Client's own explanation for the green tint reported in Bruno's stool: her 11-year-old made a cake with blue food colouring, it was thrown in the garbage, and Bruno got into the garbage and ate the whole thing, dye included. Client offers this as the cause and reports no other symptoms.",
+     "quote": "Bruno got into the garbage and ate the whole cake, blue food dye, and all!"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -7139,16 +7179,6 @@
      "office": false,
      "note": "Client says nobody is normally home at visit time, so expect an empty house unless told otherwise for a particular day.",
      "quote": "usually no one is home when you come"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 10",
-     "source": "Client message, 11:27 AM Nov 10",
-     "office": false,
-     "note": "Client states outright that Suka's hearing is very poor. This is the client's own confirmation of the hard-of-hearing observation a sitter raised the same morning, and it applies to every visit.",
-     "quote": "she doesn’t hear very well at all!"
     }
    ],
    "dormant": false
