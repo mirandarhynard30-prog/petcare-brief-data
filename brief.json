@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T17:20:07-05:00",
+ "generated": "2026-11-19T18:20:14-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1979,11 +1979,11 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 18",
-     "source": "Monica Hopewell visit report, Nov 18 morning",
+     "date": "Nov 19",
+     "source": "Client message, Thu 1:45 PM",
      "office": false,
-     "note": "The Nov 18 sitter opened her report by calling Mac stinky, so the skunk smell the client explained on Nov 17 was still noticeable on Nov 18. The sitter did not say how strong it was or where on him.",
-     "quote": "I'm here with the stinky Macaroni noodle"
+     "note": "Client explains the lingering smell sitters have mentioned: Mac's head may still be slightly scented from a skunk encounter in the back yard a couple of weeks ago. She is not concerned about it.",
+     "quote": "his head might still be slightly scented from his skunk encounter in the back yard a couple weeks ago"
     }
    ],
    "dormant": false
@@ -2200,6 +2200,16 @@
      "quote": "Do NOT allow Ripley to pee around flagpole in front yard"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Monica Hopewell report, Thu 1:17 PM",
+     "office": false,
+     "note": "Ripley's #2 on the Nov 19 midday visit was recorded as a little loose but not concerning. She went both #1 and #2 on the walk and had a treat and fresh water afterwards.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2258,16 +2268,6 @@
      "office": false,
      "note": "Ripley sat calmly while another dog was down the street before the walk carried on. The client was home during this visit. Entry was through the garage and the garage door was fully closed on leaving.",
      "quote": "She did really good about sitting for when the puppy was down the street before we continued on."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Tiarra Roberts visit report, Nov 13 12:34 PM",
-     "office": false,
-     "note": "Wet-weather routine on today's visit: the sitter removed her shoes on the way in, entered through the garage, towel-dried Ripley in the garage after the walk and laid her leash and collar out there to dry - an idea she credits to Kristin.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -4029,6 +4029,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Client message, Thu 5:19 PM",
+     "office": true,
+     "note": "Client reports Jaxson threw up on the rug in front of the front door and says this is the fourth time in a week. She is asking whether sitters have noticed anything out of the ordinary. She says he is still eating and drinking normally. Needs an office reply.",
+     "quote": "This is 4 times in a week. Was wondering if you see any thing out of the ordinary?"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 19",
+     "source": "Client message, Thu 5:34 PM",
+     "office": false,
+     "note": "Client says Jaxson is on an antacid every morning and that she gives him a small snack before bed. She says the vomiting is typically right after he eats a meal or first thing in the morning on an empty stomach. Reported by the client - no dosing or medication detail beyond this was given.",
+     "quote": "we do have him on an antacid every morning so I try to give him a little snack before bed"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -4099,6 +4119,26 @@
      "quote": "the fertilizer guy was doing the yard, so definitely no backyard time today"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 19",
+     "source": "Client message, Thu 5:34 PM",
+     "office": false,
+     "note": "Client warns that Jaxson will eat his own vomit if a sitter does not get to it straight away. She is unsure whether he does it to hide it or out of instinct.",
+     "quote": "if you don't get to it right away he tries to do that"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Dan Dantimo report, Thu 5:27 PM",
+     "office": false,
+     "note": "On the Nov 19 walk Dan saw Jaxson trying to eat mulch or litter - he names candy and gum wrappers - and says he kept a close eye on it and did not see Jaxson actually swallow anything. He allows that something may have been picked up when he was not looking.",
+     "quote": "the only thing I noticed was him trying the eat either mulch or trash(candy, gum wrappers, etc.)"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4107,46 +4147,6 @@
      "office": true,
      "note": "Sitter reports the house alarm is armed when he arrives and he has been leaving it unarmed; he asked the client whether to arm it on departure. No answer yet - office needs to confirm the client's preference and put it in the Pet Care Note.",
      "quote": "I've noticed the alarm has been set when I arrive and should I arm it when I leave."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 18",
-     "source": "Client message 4:31 PM, replying to Dan Dantimo's 12:38 PM report",
-     "office": true,
-     "note": "The client replied to Dan's report but did not address his question about whether to arm the house alarm when he leaves. That question is now unanswered through a direct client reply, so it needs to be asked again by the office and written into the Pet Care Note.",
-     "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 18",
-     "source": "Client message",
-     "office": false,
-     "note": "Client leaves very early and cannot tell whether Jackson has gone potty, so she wants sitters to report whether he goes. She thanked the sitter for keeping her up to date.",
-     "quote": "I never know did he go did he not go because we are leaving so early."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 17",
-     "office": false,
-     "source": "Client message, Nov 17 1:23 PM",
-     "note": "Client confirms Jackson did finally go potty on this visit, after the earlier reports of him holding it.",
-     "quote": "Jackson appreciates you he finally went potty yay"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 17",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "Sitter reports Jackson is very strong on the leash and could pull him around the neighborhood when he wants to. One sitter's observation on this visit, not a standing handling rule - brace for pulling.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -7803,6 +7803,26 @@
      "quote": "Ok. We don't see the scale"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 19",
+     "source": "Client message, Thu 1:14 PM",
+     "office": false,
+     "note": "This answers the sitters' question about the missing broth. The client forgot to buy it before leaving and says to add water to the food instead. Applies until the replacement broth arrives.",
+     "quote": "Just adding water is good."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 19",
+     "source": "Client message, Thu 1:16 PM",
+     "office": false,
+     "note": "This answers the sitters' question about the missing food scale: it is in the right-hand drawer of the island counter, across from the fridge. The client had forgotten to set it out before leaving. The Important Notes were updated the same afternoon to include the location.",
+     "quote": "Right drawer in the island. Just forgot to pull it out before we left."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7861,26 +7881,6 @@
      "office": false,
      "note": "Bedtime supplements: Valentine gets half a cosequin and half a flora; Penny gets a full cosequin and a full flora.",
      "quote": "Valentine- 1/2 cosequin, 1/2 flora"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts message, Oct 28",
-     "office": false,
-     "note": "Garage doors must be closed firmly on the way out. Sent as a separate follow-up message right after the meet-and-greet notes.",
-     "quote": "Firmly close garage doors!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 19",
-     "source": "Client message",
-     "office": false,
-     "note": "Cat's food is under the plant hutch in the kitchen and labeled. Derek also left a typed note on the counter saying what to do during which time slots. Client said to reach out if anything is unclear.",
-     "quote": "Cat's food is under the plant hutch in the kitchen, also labeled."
     }
    ],
    "dormant": false
