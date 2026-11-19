@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T11:21:03-05:00",
+ "generated": "2026-11-19T12:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -690,6 +690,16 @@
     "Lucy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Client private message 10:43 AM",
+     "office": false,
+     "note": "Client (signs as Carol) asked by private message this morning for an EXTRA walk for Lucy today at about 2:30, saying it was last minute and that she would be out all evening. Eleven minutes later she wrote back 'That's perfect!! Thank you so much!', so something was offered and agreed. The message itself does not say who is covering it.",
+     "quote": "I am wondering if there’s anyway we could squeeze another walk in today at about 2:30?"
+    },
     {
      "cat": "schedule",
      "sev": "high",
@@ -2611,6 +2621,16 @@
     {
      "cat": "home",
      "sev": "high",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Alex Miller visit report 11:47 AM",
+     "office": false,
+     "note": "At the new Shaker Heights home the side door was found UNLOCKED on arrival for the late-morning visit. The sitter flagged it to the client in his report and says he locked the door on his way out. Worth checking the doors on arrival until it is clear how it happened.",
+     "quote": "When I got here the side door was unlocked just so you are aware."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
      "type": "standing",
      "date": "Nov 16",
      "source": "Client private message",
@@ -2647,6 +2667,26 @@
      "office": true,
      "note": "Paulo has moved; the new service address is in Shaker Heights 44120. Get the address and the entry details from Time To Pet - do not use the old address. Office should confirm the move is updated in the system and that routing reflects it.",
      "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Alex Miller visit report 11:47 AM",
+     "office": false,
+     "note": "Let out of his crate, Milo was very high energy and went for a napkin left on the couch; the sitter had to chase him down and take it off him before the walk. Loose paper within reach is a swallowing risk with him.",
+     "quote": "he tried to eat a napkin left on the couch"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Alex Miller visit report 11:47 AM",
+     "office": false,
+     "note": "Milo urinated indoors during the visit and the sitter cleaned it up. Ambiguous: the report's accident field is the combined option 'There was a potty accident and the pet got sick, and I cleaned it up', but the sitter's written report mentions only urine, so it is not clear whether Milo was also sick. Worth confirming before treating it as vomiting.",
+     "quote": "He also went pee inside the house. I did clean it up."
     },
     {
      "cat": "behavior",
@@ -2697,26 +2737,6 @@
      "office": false,
      "note": "On today's midday visit Milo urinated but did not pass a stool, even after the sitter kept him out longer to try. Archer went both. Worth watching on the next visit.",
      "quote": "stayed out a little bit longer for Milo to see if he got to bathroom he never went number 2!"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "Milo went number 1 but did not go number 2, even after Kiara kept him out longer to give him the chance. Archer went both and his stool was firm and healthy. Worth watching on the next visit.",
-     "quote": "he never went number 2"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Kiara Streety visit report",
-     "office": false,
-     "note": "Milo is crated. Kiara was met by Archer at the door, let Milo out, got the leashes together and leashed Milo first while he ran around, walked them separately, then put Milo back in the crate before leaving. There is also a cat in the home.",
-     "quote": "it was time for Milo to go back into the crate"
     }
    ],
    "dormant": false
@@ -4032,6 +4052,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 19",
+     "source": "Thomas Rakovec visit report 11:43 AM",
+     "office": false,
+     "note": "A fertilizer contractor was treating the yard when the sitter arrived this morning, so there was no backyard time at all - Jax was walked around the block instead. The report does not say how long the yard should be avoided.",
+     "quote": "arrived at the house the fertilizer guy was doing the yard, so definitely no backyard time today"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 18",
      "source": "Dan Dantimo visit report",
      "office": true,
@@ -4087,16 +4117,6 @@
      "office": false,
      "note": "Jaxson went #1 a couple of times on the Nov 16 walk but no #2, and still no #2 when the sitter put him in the backyard afterwards. Continues the stool watch during his food change - the report's Jaxson section logs only #1.",
      "quote": "he went number one a couple of times but no number two"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 15",
-     "source": "Christi Russo message",
-     "office": true,
-     "note": "Client says she is off work Thanksgiving and Black Friday. She did not say outright that visits are cancelled those days - confirm before removing them from the schedule.",
-     "quote": "i wanted to tell you i will be off Thanksgiving and Black Friday"
     }
    ],
    "dormant": false
