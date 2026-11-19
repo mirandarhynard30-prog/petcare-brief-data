@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T16:20:06-05:00",
+ "generated": "2026-11-19T17:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -274,6 +274,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Gretchen Gipson visit report, Nov 19 12:37 PM",
+     "office": true,
+     "note": "First report in over a week where Rusty's collar worked: Gretchen leashed Rusty on her prong collar for the Nov 19 afternoon walk and reports a great walk with lots of sniffs and no trouble getting it on. That is the same prong collar the Nov 17 notes said still needed a new link and that Margaret Bill could not squeeze together, so the office's open collar decision now has one successful walk behind it. The sitter does not say whether anything about the collar was changed.",
+     "quote": "We leashed up Rusty Hill for a walk with her prong collar"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -382,16 +392,6 @@
      "office": true,
      "note": "On the Nov 14 early-afternoon visit the sitter found Puck loose in the apartment, greeting her at the door, while Rusty was crated - so Puck had been left out by whoever was there before. The sitter checked with the client, then secured both dogs in their crates before leaving. Worth finding out how Puck came to be out.",
      "quote": "She came and greeted me at the door"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Margaret Bill visit report, Nov 13 12:31 PM ET",
-     "office": false,
-     "note": "Margaret Bill's Nov 13 late-morning walk report says Puck's #2 was loose and that there was a lot of it. Puck held it until the last apartment house before going. This is the first loose stool recorded for Puck - the brief's existing stool history is for Rusty.",
-     "quote": "Her number two was loose, and there was a lot of it."
     }
    ],
    "dormant": false
@@ -7793,6 +7793,16 @@
      "quote": "Back door doesn't lock at the handle. It has a lock at the bottom of the panel."
     },
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Shannon Anderson messages 1:13-1:28 PM and Julie Smith visit report 1:49 PM, Nov 19",
+     "office": true,
+     "note": "On the first full day of the trip two separate sitter teams lost time hunting for the feeding supplies. Shannon Anderson and Julie Smith messaged the client at 1:13 PM that they could not find the broth, at 1:15 PM that they could not see the scale, and at 1:28 PM that they had found it. Julie's own report on the later visit also describes hunting for the scale before she could measure the food out. Whether the broth was ever found is not stated anywhere in the mail. Worth getting both locations written into the Pet Care Note while the clients are away.",
+     "quote": "Ok. We don't see the scale"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7871,16 +7881,6 @@
      "office": false,
      "note": "Cat's food is under the plant hutch in the kitchen and labeled. Derek also left a typed note on the counter saying what to do during which time slots. Client said to reach out if anything is unclear.",
      "quote": "Cat's food is under the plant hutch in the kitchen, also labeled."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 19",
-     "source": "Client message",
-     "office": false,
-     "note": "Heads-up for this trip: the back door does not lock at the handle, it has a separate lock elsewhere on the panel - the client spelled out how it works in Time To Pet, so check there before securing the house. Clients said they would lock the outer garage door on their way out.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -8285,6 +8285,16 @@
      "quote": "We have had a ton of interest in the puppies being adopted"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 19",
+     "source": "Elizabeth Cuffari visit report, Nov 19 2:17 PM",
+     "office": false,
+     "note": "The client's verbal-correction instruction has now been tried in the field and worked. Winston went for the puppies again on the Nov 19 afternoon visit and Elizabeth used the correction the client described on Nov 18; she reports it worked well. Second visit in a row with the humping, so treat the client's correction as the handling to use rather than a one-off.",
+     "quote": "Winston tried to hump the puppies again, and I did what you suggested."
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -8313,16 +8323,6 @@
      "office": false,
      "note": "All four dogs played together indoors on this visit after outside time. The sitter reports the two adults do well with the puppies but their patience runs out after a while.",
      "quote": "Willa and Winston are good with them, but they get annoyed after a while."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 18",
-     "source": "Client message 4:30 PM, replying to Elizabeth Cuffari's afternoon report",
-     "office": false,
-     "note": "Client's answer to the sitter reporting that Wynston was humping the puppies: she says a verbal correction is all that is needed and he will stop. Treat as the client's standing handling instruction, not a one-off. Note the client spells the dog Wynston; the sitter wrote Winston.",
-     "quote": "When you see Wynston try to hump the puppies, just say “No Wynston!” And he will stop."
     }
    ],
    "dormant": false
@@ -8336,6 +8336,16 @@
     "Ruri"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 19",
+     "source": "Monica Hopewell visit report, Nov 19 2:08 PM",
+     "office": false,
+     "note": "There are two dog parks at this building and only one of them is usable. Monica tried the second one on Nov 19 after spotting it on the drive up and found it has no gate at all, so she walked the dogs back to the same park used the day before. Relevant to the client's standing permission to use the building's dog park instead of walking all three dogs together.",
+     "quote": "it didn't have a gate at all so we went to the same one as yesterday"
+    },
     {
      "cat": "home",
      "sev": "medium",
