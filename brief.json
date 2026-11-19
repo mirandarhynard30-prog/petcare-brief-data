@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T05:20:07-05:00",
+ "generated": "2026-11-19T08:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7555,6 +7555,16 @@
      "office": false,
      "note": "Client confirms Abbey, the shy cat, stayed hidden through the Nov 18 visit and sent a photo of her. She hopes Abbey will be more visible next visit. Consistent with the standing note that Abbey hides; no action asked for.",
      "quote": "She was hiding when you were here. Hopefully she’ll be more visible when you come by."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Client message",
+     "office": false,
+     "note": "Abbey the cat was hiding for the whole of the last visit; the client hopes she will be more visible next time.",
+     "quote": "This is Abbey. She was hiding when you were here."
     }
    ],
    "dormant": false
@@ -7803,14 +7813,14 @@
      "quote": "Cat's food is under the plant hutch in the kitchen, also labeled."
     },
     {
-     "cat": "schedule",
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Nov 13",
-     "source": "Client private message, Nov 13 1:45 AM",
-     "office": true,
-     "note": "Client says she finished uploading pet profiles and added the times still needed in the portal, and asks the office to confirm it came through on our end. Which dates and times she added is not stated in the message - check the portal and reply to her.",
-     "quote": "I can't remember how you explained the scheduling, so I wanted to make sure you got it on your end."
+     "date": "Nov 19",
+     "source": "Client message",
+     "office": false,
+     "note": "Heads-up for this trip: the back door does not lock at the handle, it has a separate lock elsewhere on the panel - the client spelled out how it works in Time To Pet, so check there before securing the house. Clients said they would lock the outer garage door on their way out.",
+     "quote": ""
     }
    ],
    "dormant": false
@@ -8021,6 +8031,16 @@
      "quote": "Triggers: squirrels, cats, unknown people, dogs"
     },
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Private message",
+     "office": true,
+     "note": "After-hours visits have to buzz in at the building and the client warns the sitter may have to wait for a worker to answer. The client sent the entry details through Time To Pet on Nov 18-19; those details stay in Time To Pet and are deliberately not repeated here. Office needs to make sure whoever covers an after-hours shift has them.",
+     "quote": ""
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -8109,16 +8129,6 @@
      "office": false,
      "note": "Feeding is only the sitter's job if the client cannot do it, at the midday/afternoon and bedtime visits: 1 cup/mug from the bag.",
      "quote": "Only feed if client cannot (midday/afternoon, bedtime): 1 cup/mug in bag"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 18",
-     "source": "Pet Care Note updated by Margaret Bill",
-     "office": false,
-     "note": "Joan is home: knock at the door on the 2nd floor near the elevator, go in and leash the dog. Leash is in the closet to the left of the front door. Joan is elderly and the visit is a walk/potty break for her dog. Refresh the water before leaving.",
-     "quote": "knock on door (2nd floor near elevator)"
     }
    ],
    "dormant": false
@@ -8245,14 +8255,14 @@
      "quote": "When you see Wynston try to hump the puppies, just say “No Wynston!” And he will stop."
     },
     {
-     "cat": "schedule",
+     "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Nov 15",
-     "source": "Client message 11:19 AM Nov 15",
-     "office": true,
-     "note": "Five minutes later the client wrote that she had not hit add, so nothing was submitted, and that she will not need the same services each week so she does not want a recurring template.",
-     "quote": "I didn’t hit add so it didn’t submit it."
+     "date": "Nov 18",
+     "source": "Client message",
+     "office": false,
+     "note": "Workers were expected in the backyard to take the awning down. When the sitter asked whether to avoid the backyard altogether, the client said yes if the workers are there.",
+     "quote": "There might be workers in the backyard taking the awning down. You might not want to be in the way."
     }
    ],
    "dormant": false
