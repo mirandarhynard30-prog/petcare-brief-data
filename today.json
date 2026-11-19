@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T11:50:43-05:00",
+ "generated": "2026-11-19T14:20:07-05:00",
  "date": "2026-11-19",
  "label": "Nov 19, 2026",
  "clients": [
@@ -84,14 +84,14 @@
      "time": "1:00 PM",
      "sort": "1300",
      "staff": "Shannon  Anderson",
-     "service": "Trainer Visit-30minute",
+     "service": "Trainer Visit-45 minute",
      "pets": "Penney Rue, Valentine, Bean, Velitraxistaasch \"Stash\", Lacey, Octavia, Braxley, Manon, Opal, Onyx"
     },
     {
      "time": "1:00 PM",
      "sort": "1300",
      "staff": "Julie Smith",
-     "service": "Shadow Visit with Staff Member-30 minute",
+     "service": "Shadow Visit with Staff Member-45 minute",
      "pets": "Penney Rue, Valentine, Bean, Velitraxistaasch \"Stash\", Lacey, Octavia, Braxley, Manon, Opal, Onyx"
     },
     {
@@ -145,8 +145,8 @@
      "pets": "Sassie"
     },
     {
-     "time": "5:45 PM",
-     "sort": "1745",
+     "time": "6:30 PM",
+     "sort": "1830",
      "staff": "Gretchen Gipson",
      "service": "Dog Visit-45 minute",
      "pets": "Sassie"
@@ -250,8 +250,8 @@
      "pets": "chloe"
     },
     {
-     "time": "2:00 PM",
-     "sort": "1400",
+     "time": "3:00 PM",
+     "sort": "1500",
      "staff": "Harvett Ellington",
      "service": "Dog Visit-30 minute",
      "pets": "chloe"
@@ -293,19 +293,7 @@
      "pets": "Luke, Lola"
     }
    ]
-  },
-  {
-   "name": "Test Visit 2",
-   "visits": [
-    {
-     "time": "3:00 PM",
-     "sort": "1500",
-     "staff": "Miranda",
-     "service": "Dog Visit-30 minute",
-     "pets": "Axel, Hazel, Sassie, Silas"
-    }
-   ]
   }
  ],
- "visitCount": 29
+ "visitCount": 28
 }
