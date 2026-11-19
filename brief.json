@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T09:20:07-05:00",
+ "generated": "2026-11-19T11:21:03-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -203,6 +203,16 @@
      "quote": "I put a bowl of hard food on the counter for Noves."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 18",
+     "source": "Client message",
+     "office": false,
+     "note": "Client left a bowl of hard food on the counter for Nova (written \"Noves\") and asked that it be moved to her placemat on the floor before the sitter leaves.",
+     "quote": "Before you leave, can you put it on her placemat on the floor?"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -251,16 +261,6 @@
      "office": false,
      "note": "Nova went out to the fenced back yard to potty with no leash and no harness - Shannon notes this was the second day Nova has done that for her. Reported as a one-off observation by one sitter, not a standing instruction; the standing escape warnings for the two indoor cats are unchanged.",
      "quote": "It was the 2nd day she went outside without her leash and harness for me."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Visit report from Shannon Anderson",
-     "office": false,
-     "note": "Nova ate everything on the Nov 7 evening visit except her dry food.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -1076,6 +1076,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Client message",
+     "office": false,
+     "note": "For the morning of Nov 20 the client will be out and her cousin's dog Tillie will be shut in the kitchen. Tillie must not be let out - the client describes her as a runner. Friendly, but the client says Tillie will not let her pick her up.",
+     "quote": "Please don’t let her out because she is a runner."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1184,16 +1194,6 @@
      "office": true,
      "note": "Halloween evening visit performed the mail and garage steps again. The sitter retrieved the mail on arrival and brought it in, entered through the garage, gave the mail to Mary Ann, took back some to recycle, and threw trash into the bin. The security field again reads that she entered through the garage door and closed it fully before leaving. These are the same steps the Oct 14 note rewrite removed from Company Notes and Access Instructions, so sitters are still doing them from habit rather than from the written notes.",
      "quote": "I entered through the garage door, garage door is fully closed before leaving"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Tiarra Roberts visit report, 8:17 PM",
-     "office": false,
-     "note": "Georgie's evening medicine and eyedrops were given again on the Oct 31 visit, with the sitter assisting Mary Ann rather than giving them alone - the same pattern as the Oct 5, Oct 16 and Oct 18 reports. The report records no problem. In this mailbox the routine appears only in sitter reports, never in a Pet Care Note.",
-     "quote": "I helped Mary Ann with Georgie's medicine 💊 and eyedrops."
     }
    ],
    "dormant": false
@@ -8051,6 +8051,16 @@
      "quote": ""
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 18",
+     "source": "Margaret Bill updated Important Notes",
+     "office": false,
+     "note": "Important Notes were updated and the medication wording is now more specific. AM visit: ear drops, given as one or two drops in both ears, plus the spray on Sassie's behind. Evening visit: spray liberally on Sassie's behind. The previous version gave no drop count and did not say \"liberally\"; nothing else about the medications changed.",
+     "quote": "Am visit: ear drops (1 or 2 drops in both ears) and spray"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -8129,16 +8139,6 @@
      "office": true,
      "note": "After-hours access: the account manager says a sitter would have to be buzzed in after hours, and that she would send the exit code separately - her husband has it. No code is recorded here and none should be; the office needs to take delivery of it and write it into Time To Pet, then tell the evening sitter how entry and exit will work. Relates to the existing rule that the building closes its doors at 8pm.",
      "quote": "She would have to buzz in after hours."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 18",
-     "source": "Pet Care Note updated by Margaret Bill",
-     "office": false,
-     "note": "Feeding is only the sitter's job if the client cannot do it, at the midday/afternoon and bedtime visits: 1 cup/mug from the bag.",
-     "quote": "Only feed if client cannot (midday/afternoon, bedtime): 1 cup/mug in bag"
     }
    ],
    "dormant": false
