@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T08:20:07-05:00",
+ "generated": "2026-11-19T09:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1829,6 +1829,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 18",
+     "source": "Monica Hopewell visit report, Nov 18 morning",
+     "office": false,
+     "note": "Mac did not come to the door on the Nov 18 morning visit - he was lounging - but then had zoomies in the back yard, finished his breakfast and went both #1 and #2, with the consistency field answered firm and healthy. A better picture than the Nov 17 visit where he was whiny throughout and went #1 only.",
+     "quote": "He didn't greet me at the front door when I came in today, he was just lounging."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 17",
      "source": "Monica Hopewell visit report",
      "office": false,
@@ -1929,11 +1939,11 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 17",
-     "source": "Monica Hopewell visit report",
+     "date": "Nov 18",
+     "source": "Monica Hopewell visit report, Nov 18 morning",
      "office": false,
-     "note": "One side of Mac's face smelled strongly of skunk. The sitter could not tell whether he was actually sprayed or just walked through the smell - unconfirmed either way.",
-     "quote": "I'm not sure if he got sprayed by a skunk or just walked into the residual waft of a skunk"
+     "note": "The Nov 18 sitter opened her report by calling Mac stinky, so the skunk smell the client explained on Nov 17 was still noticeable on Nov 18. The sitter did not say how strong it was or where on him.",
+     "quote": "I'm here with the stinky Macaroni noodle"
     }
    ],
    "dormant": false
