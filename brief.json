@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T15:20:05-05:00",
+ "generated": "2026-11-19T16:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1745,6 +1745,26 @@
     "Macy"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Client private message, 3:27 PM, with a follow-up at 3:31 PM",
+     "office": true,
+     "note": "Client asks to move Murphy's Dec 16 visit and offers Mon Dec 15 or Dec 17. In a follow-up message four minutes later she writes only \"The 15th\", so Dec 15 is the date she picked. She asked to be advised, and nothing in the mail shows the office has answered or moved the visit yet.",
+     "quote": "I need to change Murphy’s visit on 12/16. Monday the 15th, or the 17th would be fine. Please advise!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Client private message, 3:30 PM",
+     "office": true,
+     "note": "Separate message in the same conversation: the client is cancelling Murphy's visit on the Friday after Thanksgiving, which is Nov 27 this year. She says \"I think I will just cancel\", so treat it as her decision but worth a confirming reply. No other Thanksgiving-week dates are mentioned.",
+     "quote": "I think I will just cancel his Friday visit, the day after thanksgiving."
+    },
     {
      "cat": "behavior",
      "sev": "medium",
