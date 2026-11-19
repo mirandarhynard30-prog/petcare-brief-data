@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T12:20:06-05:00",
+ "generated": "2026-11-19T15:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -704,6 +704,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 19",
+     "source": "Client private message 1:56 PM",
+     "office": true,
+     "note": "Client (signs as Carol) cancelled TOMORROW'S (Fri Nov 20) service by private message at 1:56 PM, saying her husband will be home. No end date given, so days after Nov 20 are not addressed. This is the same day she asked for and received an extra 2:30 PM walk, so the office needs to confirm which visits are now off.",
+     "quote": "Another change. I will need to cancel service for tomorrow! My husband will be home!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 12",
      "source": "Angela Jozsa private message, 2:48 PM Nov 12 (signed Carol)",
      "office": true,
@@ -791,14 +801,14 @@
      "quote": "Hi Miranda! Sorry but I am going to need to cancel service for tomorrow!"
     },
     {
-     "cat": "home",
+     "cat": "behavior",
      "sev": "medium",
-     "type": "recent",
-     "date": "Nov 16",
-     "source": "Client message in Time To Pet, Nov 16 9:42 AM",
+     "type": "standing",
+     "date": "Nov 19",
+     "source": "Client message 2:53 PM, answering sitter Gretchen Gipson",
      "office": false,
-     "note": "Client wrote this morning that she is working from home today and will be there when the sitter arrives. She expects to be on a call in one of the bedrooms and said she did not want to startle anyone. One-off for today only; she did not say this is a standing arrangement.",
-     "quote": "Most likely I’ll be on a call in one of the bedrooms, I just didn’t want to startle."
+     "note": "Client prefers Lucy's collar OFF when Lucy goes back into her pen - she says she feels safer with it off. If Lucy gives the sitter any trouble about it, the client does not want them to push it. The client's wording is \"not having it on\"; the collar is the subject because she is answering Gretchen Gipson's 2:45 PM question about taking Lucy's collar off at the pen. Gretchen reported at 3:04 PM that she had no trouble doing it.",
+     "quote": "I just feel more safe with her, not having it on."
     }
    ],
    "dormant": false
@@ -4062,6 +4072,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 19",
+     "source": "Visit report, Thomas Rakovec 11:43 AM",
+     "office": false,
+     "note": "A lawn-fertilizer crew was treating the yard when the sitter arrived on Nov 19, so there was no backyard time at all that visit; the sitter walked Jax around the block instead. Worth knowing for the next visit or two in case the treatment is still fresh.",
+     "quote": "the fertilizer guy was doing the yard, so definitely no backyard time today"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 18",
      "source": "Dan Dantimo visit report",
      "office": true,
@@ -4107,16 +4127,6 @@
      "office": false,
      "note": "Sitter reports Jackson is very strong on the leash and could pull him around the neighborhood when he wants to. One sitter's observation on this visit, not a standing handling rule - brace for pulling.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 16",
-     "source": "Dan Dantimo visit report, Nov 16 midday",
-     "office": false,
-     "note": "Jaxson went #1 a couple of times on the Nov 16 walk but no #2, and still no #2 when the sitter put him in the backyard afterwards. Continues the stool watch during his food change - the report's Jaxson section logs only #1.",
-     "quote": "he went number one a couple of times but no number two"
     }
    ],
    "dormant": false
@@ -8245,6 +8255,16 @@
      "quote": ""
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Client message 2:28 PM",
+     "office": false,
+     "note": "Client says there has been a lot of interest in the puppies and she does not expect them to be in the home much longer, so the number of dogs on a visit is likely to drop over the coming weeks. She did not give any dates.",
+     "quote": "We have had a ton of interest in the puppies being adopted"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -8283,16 +8303,6 @@
      "office": false,
      "note": "Client's answer to the sitter reporting that Wynston was humping the puppies: she says a verbal correction is all that is needed and he will stop. Treat as the client's standing handling instruction, not a one-off. Note the client spells the dog Wynston; the sitter wrote Winston.",
      "quote": "When you see Wynston try to hump the puppies, just say “No Wynston!” And he will stop."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 18",
-     "source": "Client message",
-     "office": false,
-     "note": "Workers were expected in the backyard to take the awning down. When the sitter asked whether to avoid the backyard altogether, the client said yes if the workers are there.",
-     "quote": "There might be workers in the backyard taking the awning down. You might not want to be in the way."
     }
    ],
    "dormant": false
