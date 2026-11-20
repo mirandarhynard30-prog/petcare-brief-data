@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T12:20:05-05:00",
+ "generated": "2026-11-20T13:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2898,6 +2898,16 @@
      "office": false,
      "note": "Holly's #2 on the afternoon walk was mucousy; sitter logged the consistency as a little loose but not concerning. First loose-stool report for Holly in this brief - watch whether it repeats.",
      "quote": "She went number one and number two, which was a bit mucousy today."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Tiarra Roberts updated contact information",
+     "office": false,
+     "note": "Pet Care Notes updated Nov 20 to say where the water bowl is refilled from. Other notes unchanged in substance.",
+     "quote": "Water bowl in living room, refill from bathroom near front door"
     }
    ],
    "dormant": false
@@ -4049,6 +4059,16 @@
      "quote": "Yes if the alarm is on just disarm it"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "On the Nov 20 walk Dan Dantimo deliberately kept Jaxson on the sidewalk to stop him picking things up off the ground, and held his treats to two. One sitter's handling on one visit, not a stated rule from the client.",
+     "quote": "I was definitely keeping a close eye on him today to make sure he didn't eat anything from the outside"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4087,16 +4107,6 @@
      "office": false,
      "note": "On the Nov 19 walk Dan saw Jaxson trying to eat mulch or litter - he names candy and gum wrappers - and says he kept a close eye on it and did not see Jaxson actually swallow anything. He allows that something may have been picked up when he was not looking.",
      "quote": "the only thing I noticed was him trying the eat either mulch or trash(candy, gum wrappers, etc.)"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 18",
-     "source": "Dan Dantimo visit report",
-     "office": true,
-     "note": "Sitter reports the house alarm is armed when he arrives and he has been leaving it unarmed; he asked the client whether to arm it on departure. No answer yet - office needs to confirm the client's preference and put it in the Pet Care Note.",
-     "quote": "I've noticed the alarm has been set when I arrive and should I arm it when I leave."
     }
    ],
    "dormant": false
