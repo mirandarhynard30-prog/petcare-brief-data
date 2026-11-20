@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T17:20:05-05:00",
+ "generated": "2026-11-20T18:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8002,6 +8002,16 @@
      "quote": "Then i put her ear drops in her ear, and then i put the spray on her behind."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Private message from the account manager, 5:43 PM",
+     "office": true,
+     "note": "The account manager says by private message at 5:43 PM that they can also cover the evening shift on Nov 25. Read alongside her Nov 17 message - which said every Thanksgiving-week shift is wanted except Thanksgiving evening, which the family covers - this most likely means no sitter is needed for the Nov 25 evening visit either. She does not say that outright, so the office should confirm before anything is removed from the schedule. Nov 25 is five days out.",
+     "quote": "We can also do the evening shift on 11/25."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "standing",
@@ -8100,16 +8110,6 @@
      "office": false,
      "note": "A family member at the home has worsening dementia and may tell the walker not to come. Account manager asks that any such cancellation be confirmed with her first - it already happened with a previous walker. Do not leave on a verbal cancellation at the door without checking.",
      "quote": "if she tells the walker not to come please confirm with me 1st"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 19",
-     "source": "Client private message",
-     "office": false,
-     "note": "After-hours visits: the sitter has to be buzzed in and may wait a bit for a worker to answer the door. To get out, wave a hand in front of the sensor up top. The door code itself is in Time To Pet, not here.",
-     "quote": "She might have to wait a little bit for a worker to answer the door."
     }
    ],
    "dormant": false
