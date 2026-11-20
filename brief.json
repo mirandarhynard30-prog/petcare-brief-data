@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T21:20:08-05:00",
+ "generated": "2026-11-19T22:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1106,6 +1106,16 @@
      "quote": "Please don’t let her out because she is a runner."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 19",
+     "source": "Client message, 9:35 PM Nov 19",
+     "office": false,
+     "note": "Update to the standing NO ICE CUBES rule. The client reports Georgie got a good report on his oral surgery, but says ice cube treats are still on hold and that he can have them soon. She gives no date, so the no-ice-cubes rule stays in force until the office says otherwise.",
+     "quote": "We still need to hold off on ice cube treats, but he can have them soon."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -1204,16 +1214,6 @@
      "office": false,
      "note": "Nov 3 evening visit: the client was home and the sitter helped her give Georgie his medicine and eyedrops, then gave him ice cubes afterwards. Georgie went #2 and the sitter recorded the consistency as firm and healthy. One report only - this is how that visit went, not a confirmed standing rule. Medication details are in Time To Pet.",
      "quote": "I helped Mary Ann with Georgie's medicine and eyedrops."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Tiarra Roberts visit report, 8:17 PM",
-     "office": true,
-     "note": "Halloween evening visit performed the mail and garage steps again. The sitter retrieved the mail on arrival and brought it in, entered through the garage, gave the mail to Mary Ann, took back some to recycle, and threw trash into the bin. The security field again reads that she entered through the garage door and closed it fully before leaving. These are the same steps the Oct 14 note rewrite removed from Company Notes and Access Instructions, so sitters are still doing them from habit rather than from the written notes.",
-     "quote": "I entered through the garage door, garage door is fully closed before leaving"
     }
    ],
    "dormant": false
