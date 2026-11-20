@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T18:20:14-05:00",
+ "generated": "2026-11-19T21:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7759,7 +7759,8 @@
     "Bean",
     "Valentine",
     "Penny",
-    "chickens"
+    "chickens",
+    "Penny Rue"
    ],
    "items": [
     {
@@ -8181,14 +8182,14 @@
      "quote": "She might have to wait a little bit for a worker to answer the door."
     },
     {
-     "cat": "home",
+     "cat": "behavior",
      "sev": "medium",
      "type": "recent",
-     "date": "Nov 18",
-     "source": "Joan- Gina Sullivan (Manages Account) private message, 9:18 AM",
-     "office": true,
-     "note": "After-hours access: the account manager says a sitter would have to be buzzed in after hours, and that she would send the exit code separately - her husband has it. No code is recorded here and none should be; the office needs to take delivery of it and write it into Time To Pet, then tell the evening sitter how entry and exit will work. Relates to the existing rule that the building closes its doors at 8pm.",
-     "quote": "She would have to buzz in after hours."
+     "date": "Nov 19",
+     "source": "Visit report, Gretchen Gipson",
+     "office": false,
+     "note": "Sassie dislikes the medicated spray. On the Nov 19 evening visit the sitter put the leash on to steady and calm her while applying it, and reported no trouble. One sitter's approach on one visit, not a client instruction.",
+     "quote": "I used the leash to help calm Sassie while applying the spray (she’s not a fan)."
     }
    ],
    "dormant": false
