@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T00:05:10-05:00",
+ "generated": "2026-11-20T09:07:02-05:00",
  "date": "2026-11-20",
  "label": "Nov 20, 2026",
  "clients": [
@@ -48,18 +48,6 @@
      "staff": "Elizabeth Sigler",
      "service": "Dog Visit-30 minute",
      "pets": "Bismark"
-    }
-   ]
-  },
-  {
-   "name": "Christine Jenison",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Elizabeth Cuffari",
-     "service": "Dog Visit-30 minute",
-     "pets": "Frank, Weezie or Louise"
     }
    ]
   },
@@ -181,8 +169,8 @@
    "name": "Lynne  Reno",
    "visits": [
     {
-     "time": "1:45 PM",
-     "sort": "1345",
+     "time": "1:00 PM",
+     "sort": "1300",
      "staff": "Julie Smith",
      "service": "Dog Visit-30 minute",
      "pets": "Holly"
@@ -331,5 +319,5 @@
    ]
   }
  ],
- "visitCount": 31
+ "visitCount": 30
 }
