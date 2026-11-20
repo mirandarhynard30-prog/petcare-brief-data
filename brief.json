@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T22:20:05-05:00",
+ "generated": "2026-11-20T05:20:08-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -691,6 +691,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Important Notes updated by Margaret Bill (2:22 AM)",
+     "office": false,
+     "note": "The Important Notes were rewritten and the pen routine now has an explicit order: keep the leash on when finished, use it to guide Lucy back to her pen, and only then take the collar off, then tell her to go in her pen and give a treat. The previous version of the note said the collar and leash came off BEFORE she was put in the pen, so the order has been reversed. A sitter working from the old wording would do this backwards. This matches the client's Nov 19 message that she feels safer with the collar off.",
+     "quote": "Keep leash on when done, use it to guide her back to her pen then take the collar off"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -799,16 +809,6 @@
      "office": true,
      "note": "Client cancelled tomorrow's (Tue Nov 3) service by private message at 6:02 PM. No reason given and no other dates mentioned. Message is signed \"Carol\" although the account is Angela Jozsa - unclear who wrote it; confirm before actioning. Lucy's walk needs removing from Nov 3 and the assigned walker told.",
      "quote": "Hi Miranda! Sorry but I am going to need to cancel service for tomorrow!"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 19",
-     "source": "Client message 2:53 PM, answering sitter Gretchen Gipson",
-     "office": false,
-     "note": "Client prefers Lucy's collar OFF when Lucy goes back into her pen - she says she feels safer with it off. If Lucy gives the sitter any trouble about it, the client does not want them to push it. The client's wording is \"not having it on\"; the collar is the subject because she is answering Gretchen Gipson's 2:45 PM question about taking Lucy's collar off at the pen. Gretchen reported at 3:04 PM that she had no trouble doing it.",
-     "quote": "I just feel more safe with her, not having it on."
     }
    ],
    "dormant": false
@@ -932,16 +932,6 @@
      "office": true,
      "note": "Chloe was WALKED on the Nov 6 midday visit - Kiara Streety reports a short walk, cut short because it was cold, and Chloe went #1 twice with no #2. That runs against the standing restriction on file since Oct 26 (pneumonia: no walking or other strenuous activity for now). Melody was home, spoke to the sitter on arrival and handed Chloe over herself, so the restriction may well have been lifted - but nothing in this mailbox says so. Office: confirm with Melody whether walking is allowed again and tell the sitters either way.",
      "quote": "We did a short walk it is cold out today"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Elizabeth Sigler visit report, Oct 29 2:50 PM",
-     "office": false,
-     "note": "Chloe had a wheezing and coughing fit during the Oct 29 early-afternoon visit. The sitter found her asleep upstairs in the office, carried her down, and the fit started while the sitter was putting shoes on in the breezeway. The sitter sat with her a minute until she settled, then harnessed her and took her out. This is the same carry-then-wheeze sequence reported on Oct 27. On the walk Chloe peed quickly and wanted to go straight back in, but then did well in the backyard with harness and leash on.",
-     "quote": "I noticed that Chloe was having a wheezing and coughing fit."
     }
    ],
    "dormant": false
@@ -1999,16 +1989,6 @@
    ],
    "items": [
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Kristin Brewer client message, 9:54 AM",
-     "office": false,
-     "note": "Oliver was seen by the vet the morning of Oct 29 and is on a bland diet for the next couple of days. No treats at all when the pups are taken out. Client asks to be told if he has trouble going to the bathroom or if there is blood in his stool. Sitter Shannon Anderson acknowledged at 9:56 AM and agreed to report anything.",
-     "quote": "put on a bland diet for the next couple of days. Please don’t give him any treats"
-    },
-    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2037,36 +2017,6 @@
      "office": false,
      "note": "Daffodil was moody on today's midday visit. She got loud when Shannon clipped the leash to her harness, then barked at another doodle before they had even left the yard; she did accept the harness this time, unlike Oct 29 when she would not let Shannon put it on. Both dogs barked at Shannon on entry and she thinks she startled them. Daffodil put herself in her crate at the end of the visit. Oliver walked first and was straightforward. One sitter, one visit - still a pattern of Daffodil being unsettled with Shannon rather than a confirmed rule.",
      "quote": "She actually got loud when I clipped her leash to her harness"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Shannon Anderson visit report 12:30 PM",
-     "office": false,
-     "note": "Oliver walked his usual route and went #1 only, no #2 on this visit; lots of marking and sniffing. Damp belly band swapped for a fresh one, left on the laundry room floor. Daffodil also went #1 only.",
-     "quote": "He only went #1. He did do a lot of marking and sniffing."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Shannon Anderson visit report 12:30 PM",
-     "office": false,
-     "note": "Daffodil would not let Shannon put her harness on, so Shannon clipped the leash to her collar instead and walked her that way. Shannon is still new to her.",
-     "quote": "She's still not used to me, so she wouldn't let me put her harness on"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Shannon Anderson follow-up message 12:56 PM",
-     "office": false,
-     "note": "Shannon's handling note for Daffodil after that walk: move slowly and talk her through what you are doing. One sitter's observation from a single visit, not yet a confirmed standing rule.",
-     "quote": "I noticed she really doesn't like quick or sudden movements so I talked her through what I was doing and moved slowly."
     },
     {
      "cat": "home",
@@ -2107,16 +2057,6 @@
      "office": false,
      "note": "Visit routine on Nov 13: the dogs go out one at a time, Olly first and then Daff, with treats handed out on arrival and again at the end and both water bowls refilled. A box was brought in.",
      "quote": "I took Olly out first"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Shannon Anderson visit report 12:30 PM",
-     "office": true,
-     "note": "Recycling had been collected, so Shannon brought the can up to the garage but did not know where it belongs and left it in front of the garage door. She also asked Kristin whether to use the sink or the fridge dispenser to refill the water pitcher. Both questions are unanswered in the mail.",
-     "quote": "I wasn't exactly sure where it went so I left it in front of the garage door."
     }
    ],
    "dormant": false
@@ -2908,16 +2848,6 @@
      "office": true,
      "note": "Client asks to cancel TOMORROW (Thu Nov 5) as well. Holly will be under sedation for a grooming session and the client is unsure how the medication will affect her. Needs the Nov 5 visit removed from the schedule.",
      "quote": "Holly will be under sedation tomorrow for her grooming sessions. I think we had better cancel tomorrow"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Julie Smith visit report 1:26 PM",
-     "office": true,
-     "note": "Sitter Julie Smith told the client in her Oct 29 visit report that she will not be at the Friday Oct 30 visit because she is having to put her dog down, and expects to be back next week. Nothing in the mail shows cover for Oct 30 has been arranged. Julie was also marked late to acknowledge her schedule today.",
-     "quote": "I won’t be here tomorrow because I am having to say goodbye to my dog."
     },
     {
      "cat": "behavior",
@@ -5361,6 +5291,26 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Elizabeth Sigler visit report",
+     "office": true,
+     "note": "The garage door was standing open when the sitter arrived and she decided to leave it open on departure for the cleaners and the landscapers. The report's home-security field reads that the client was home during the visit and asked that the door not be locked. The office may want to confirm whether leaving the garage open is acceptable, since it was the sitter's own call rather than a documented instruction.",
+     "quote": "I figured I should leave the garage door open for the cleaners and the landscapers."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 19",
+     "source": "Elizabeth Sigler visit report",
+     "office": true,
+     "note": "A visit went ahead on Thursday Nov 19 with the cleaner on site. The record already carries the client's Oct 7 request that the house-cleaning Thursdays - Oct 8 and every other Thursday after it - be marked as days not to come, and counting forward from Oct 8 makes Nov 19 one of those Thursdays. Nothing in the mail says the arrangement changed, so this is an inference, not a stated conflict. Worth the office confirming whether Nov 19 should have been a visit day and checking the remaining every-other-Thursday dates.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -5459,26 +5409,6 @@
      "office": true,
      "note": "Eye-drop instruction rewritten: drops are in the LEFT cabinet above or next to the stove, give them if her eye is goopy and she lets you. The softener If not, no big deal was removed in that same edit. The conflict is unresolved: the client's own Sep 29 message put the drops in the upper cabinet on the RIGHT, and that line was deleted from the Pet Care Note today, so the two records no longer agree and nobody has confirmed which cabinet is correct.",
      "quote": "Use eye drops (left cabinet above stove/next to stove) if eye is goopy, if she lets you"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 17",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Weezie's heart toy had torn open and was shedding stuffing when she shook it. Sitter took it away as a choking precaution and left it on the kitchen island - do not give it back.",
-     "quote": "I did take the heart toy away. The hole was big enough that Weezie had stuffing coming out when she shook it."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Shannon Anderson visit report",
-     "office": false,
-     "note": "Both dogs refused to stay outside in the cold wind. Frank would not go out at all; Weezie went out only long enough to go #1 and then would not go back out once the wind picked up. Neither went #2.",
-     "quote": "I tried to get Frank outside but he refused."
     }
    ],
    "dormant": false
@@ -5747,16 +5677,6 @@
      "office": false,
      "note": "Michelle Carrara photographed where things are located at the house and attached the photos to her Oct 29 post-visit report, then sent a second message adding a few more pictures for reference. A sitter arriving here for the first time should open that Oct 29 report for the location photos rather than hunting.",
      "quote": "just adding a couple of extra pictures for our reference"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 29",
-     "source": "Michelle Carrara visit report",
-     "office": true,
-     "note": "The meet-and-greet happened on Thursday Oct 29 - Michelle Carrara met Ellen and confirmed the pet roster as Baxter, Rosie, Buttons, Nugget and Roxie, five pets. She signed off telling Ellen to enjoy her trip, so travel looks imminent, but the email gives no dates. The three unanswered Thanksgiving cover requests from Oct 22, 23 and 25 are still the open office item and nothing in this report answers them.",
-     "quote": "We are looking forward to taking care of Baxter, Rosie, Buttons, Nugget and Roxie"
     }
    ],
    "dormant": false
@@ -5998,29 +5918,9 @@
      "office": false,
      "note": "Heritage Crossings closes its doors at 8pm, so the last visit of the day has to be by 7:30. Gina says sitters are to sign in and out at the front desk.",
      "quote": "They want you to sign in and out at the front desk."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 11",
-     "source": "Margaret Bill updated contact information for Gina Sullivan",
-     "office": false,
-     "note": "Important Notes now flag Sassie as an ESCAPE RISK - doors and gates must stay closed. Triggers listed as squirrels, cats and unknown people.",
-     "quote": "Triggers: Squirrels, cats, unknown people"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 11",
-     "source": "Pet Care Note / Important Notes updated by Margaret Bill",
-     "office": false,
-     "note": "On daily anxiety medication per the record: one pill morning and one pill evening, given in cheese whiz. Spelled 'Trazadone' in the record.",
-     "quote": "Trazadone for anxiety – 1 pill AM/1pill PM in cheese whiz"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Ashley Corall",
@@ -6487,19 +6387,9 @@
      "office": true,
      "note": "The cat Caesar died in April - sudden, fluid in the abdomen, not expected to survive surgery. The owner also refers to his mother as a former pet, so there may be no cat at this home any more, but she does not say that outright. The pet record appears to still show a cat; have the office confirm and update it.",
      "quote": "Sadly Caesar passed away in April."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 2",
-     "source": "Client message 12:48 PM",
-     "office": false,
-     "note": "Food bowls are kept inside the microwave because Calvin has learned to get up on the kitchen counters.",
-     "quote": "Their bowls will be in the microwave because Calvin has learned how to get up on the counters."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Ryan Stanton",
