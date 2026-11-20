@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T13:20:06-05:00",
+ "generated": "2026-11-20T14:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7684,6 +7684,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Pet Care Note updated by Tiarra Roberts",
+     "office": false,
+     "note": "The backyard-only rule was strengthened today to say explicitly that there are no walks. Earlier the line read only 'Backyard visits ONLY'. Keep both dogs in the yard.",
+     "quote": "Backyard visits ONLY, no walks"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7792,16 +7802,6 @@
      "office": false,
      "note": "No tug of war with Penny. Stated twice in the same meet-and-greet note.",
      "quote": "Penny- no tug of war!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
-     "office": false,
-     "note": "Bedtime supplements: Valentine gets half a cosequin and half a flora; Penny gets a full cosequin and a full flora.",
-     "quote": "Valentine- 1/2 cosequin, 1/2 flora"
     }
    ],
    "dormant": false
