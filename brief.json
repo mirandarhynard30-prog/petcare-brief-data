@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T11:20:06-05:00",
+ "generated": "2026-11-20T12:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1359,6 +1359,16 @@
     "Bismark"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Elizabeth Sigler visit report, Nov 20",
+     "office": false,
+     "note": "Bismark walked on this visit, which cuts against the standing note that he will not walk for any sitter. Elizabeth Sigler led him past the gate with no trouble, they went up the road a little past the neighbour's fence, he stopped to pee, then he turned himself around and wanted the backyard, so the rest of the visit was yard time. He paused at the top of the steps on arrival before coming down to greet her. One visit only, so treat it as worth trying the walk rather than as a change to the standing rule.",
+     "quote": "Then when we got outside I was easily able to lead him past the gate!"
+    },
     {
      "cat": "behavior",
      "sev": "medium",
