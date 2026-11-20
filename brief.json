@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T15:20:05-05:00",
+ "generated": "2026-11-20T16:35:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -7694,6 +7694,36 @@
      "quote": "Backyard visits ONLY, no walks"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Pet Care Note rewrite by Tiarra Roberts, Nov 20 1:30 PM",
+     "office": true,
+     "note": "Per-dog feeding amounts are now in the note for the first time: 80 for Penny Rue and 25 for Valentine, fed 2x daily morning and bedtime, Fresh Pet Vital from the fridge, weighed on the scale in the right-hand drawer of the island counter across from the fridge. THE NOTE DOES NOT STATE THE UNIT for 80 and 25 - a scale is specified, so grams is plausible, but no unit is written anywhere in the note. Office should confirm the unit before a sitter guesses.",
+     "quote": "80 for Penny Rue/25 for Valentine, scale is in right-hand drawer, in island counter"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Pet Care Note rewrite by Tiarra Roberts, Nov 20 1:30 PM",
+     "office": false,
+     "note": "Feeding method and evening additive: measure out the food, then measure out broth or water, and add Gland X at the PM visit - 1/2 tsp for Penny Rue, 1/4 tsp for Valentine. The 1:30 PM edit changed this line from 'broth' to 'broth or water'.",
+     "quote": "Measure out food and measure out broth or water. Add Gland X in PM"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Pet Care Note rewrite by Tiarra Roberts, Nov 20 1:30 PM",
+     "office": false,
+     "note": "Both dogs get vitamins at the PM visit. Penny: 1 full cosequin, 1 Fortiflora, 2 big parts of hip and joint chew. Valentine: 1/2 cosequin, 1/2 Fortiflora, 2 corners of Penny's hip and joint chew.",
+     "quote": "Penny: 1 full cosequin, 1 Fortiflora, 2 big parts of hip and joint chew"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7772,36 +7802,6 @@
      "office": false,
      "note": "Penny's morning medicine is now named in the Pet Care Note: Rimadyl, half a tablet in the morning. Earlier notes only said half of an unnamed medicine kept on the kitchen island counter, so this closes that gap. Dose and timing come from the note, not from a vet instruction in the mail.",
      "quote": "Meds (dog): Rimadyl for Penny, Give Penny 1/2 tablet in morning"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Tiarra Roberts contact information update, Nov 12 10:02 AM",
-     "office": true,
-     "note": "Today's rewrite of the Pet Care Note dropped a chicken-allergy line for Penny. The 10:02 AM edit's Previously text still carried it and none of the later versions do. Penny's food is Fresh Pet Vital, so the office should confirm with the client whether the chicken allergy still applies and put the line back if it does.",
-     "quote": "Allergies (dog): chicken- Penny"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Important Notes updated by Tiarra Roberts",
-     "office": false,
-     "note": "Do not play tug of war with Penny: she has lost teeth.",
-     "quote": "Do not play tug of war with Penny - she has lost teeth"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 28",
-     "source": "Tiarra Roberts meet-and-greet notes, Oct 28",
-     "office": false,
-     "note": "No tug of war with Penny. Stated twice in the same meet-and-greet note.",
-     "quote": "Penny- no tug of war!"
     }
    ],
    "dormant": false
