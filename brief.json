@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T22:20:11-05:00",
+ "generated": "2026-11-21T05:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -457,16 +457,6 @@
      "office": true,
      "note": "Kathy Pastor's Nov 9 morning walk: Gordy went #2 at FIVE separate stops, and the report consistency field was again answered a little loose but not concerning. The frequency is the new part - earlier loose reports were one or two movements. Loose or soft stool has now been logged on Oct 20, Oct 22, Oct 26, Oct 30, Nov 3, Nov 6 and Nov 9. The rest of the visit was normal: lots of sniffing, #1 as usual, a passing walker with two dogs on another road was not a problem, paws and bottom wiped, several treats taken.",
      "quote": "He did five stops for number 2!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Margaret Bill visit report, Oct 30 11:14 AM",
-     "office": false,
-     "note": "Margaret Bill's Oct 30 late-morning walk: Gordy went #1 many times and #2 once, and the consistency field was answered a little loose but not concerning. That is another loose-stool reading after Oct 20, Oct 22 and Oct 26 - four separate days inside the window now. Margaret adds he was a lot calmer than yesterday and that they did the usual route plus South Oakmont.",
-     "quote": "It was a little loose but not concerning"
     },
     {
      "cat": "behavior",
@@ -3150,16 +3140,6 @@
      "quote": "Client asked not to lock door"
     },
     {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Thomas Rakovec visit report, Oct 30 10:08 AM",
-     "office": false,
-     "note": "Oct 30 morning walk: Archie went #1 several times but had no bowel movement, and the consistency field reads No #2 today. First no-#2 walk logged since Oct 14, after firm readings on Oct 16 and Oct 23. The sitter gives no reason this time - no rain or cut-short walk is mentioned, the walk is described as a fantastic jaunt around the complex - so the office may want to keep counting. Ray had Archie ready at the door and was home during the visit, so the sitter did not go in or check the house.",
-     "quote": "Archie went #1 several times but DID'NT have a #2 we headed back and fed a few snacks"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -3318,16 +3298,6 @@
      "office": false,
      "note": "Guinness balked at going out at the start of the 12:40 PM walk and wanted to stay inside with his owner, who was home. He walked a little once leashed, then got going after seeing another dog out with a walker and getting a treat. Walked well after that and went #1 and #2 a couple of times toward the Commons.",
      "quote": "a very strange Guinness when I arrived today not wanting to go outside and just stay with mom"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Guinness (Deb Ward): Oct 30 midday walk - stool logged again with the form option \"It was a little loose but not concerning\". Otherwise a normal visit: excited on arrival, went #2 right away and #1 on the walk, walked well, took treats.",
-     "quote": ""
     },
     {
      "cat": "home",
@@ -3519,16 +3489,6 @@
      "office": false,
      "note": "Freddy hid in the closet when the sitter arrived, then came out and blocked the bathroom doorway during the litter change. Single observation, not an established pattern. Full litter change done; food had just been refreshed.",
      "quote": "He was hiding in the closet when I came in and he blocked the door while I changed out the litter"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Jade Popovitz left a message for Marcia Ontell",
-     "office": false,
-     "note": "On the Oct 30 evening visit Jade Popovitz found fresh wet food left sitting in the open can and moved it into the bowl so Freddy would not cut himself on the tin. Full litter change-out done the same visit.",
-     "quote": "It looks like he just got fresh food but it was still in the can"
     },
     {
      "cat": "home",
@@ -5565,16 +5525,6 @@
      "quote": "It was firm and healthy"
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "Elizabeth Sigler visit report",
-     "office": true,
-     "note": "Flacko (Brandon Keyes): on the Oct 30 park walk he dripped light brown liquid diarrhea every time he squatted, looked to be straining hard, and did a lot of poop scooting in the grass; the sitter suggested possible constipation. She answered the stool-consistency question with the option that says the pet does not seem well and she has reached out to management for guidance, so the office owes her a reply.",
-     "quote": "Every time he squatted down to poop, he’d just drip light brown liquid diarrhea."
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -5603,16 +5553,6 @@
      "office": false,
      "note": "Sitter's answer to the client's question about Flacko's condition: she reported him as his normal self, enjoying the walk and prancing while crossing the street.",
      "quote": "He seemed like his normal self that I usually get."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 30",
-     "source": "client message to office",
-     "office": false,
-     "note": "Flacko (Brandon Keyes): about two minutes after the visit report the client replied that Flacko had also been unwell earlier the same morning and that he would keep an eye on him, so the walk was not the first episode of the day.",
-     "quote": "He wasn’t feeling too well this morning either"
     }
    ],
    "dormant": false
