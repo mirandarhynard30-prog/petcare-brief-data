@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T12:20:07-05:00",
+ "generated": "2026-11-21T13:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1889,6 +1889,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 21",
+     "source": "Monica Hopewell left a message for Diane Hoard",
+     "office": false,
+     "note": "Nov 21 midday visit: Mac met the sitter at the door and seemed keen to go out at first, but did not want to stay outside the way he normally does despite the sunny weather, so most of the visit was spent indoors. He went #1 only, no #2. He also refused the treat offered at the end and then refused a jerky treat from his kitchen stash as well. Two refusals in one visit is new; the brief's recent entries for Mac cover whining on Nov 17 and lounging on Nov 18, and nothing about turning down food.",
+     "quote": "he didn't seem to want to stay out like normal so we spent quite a bit of time inside"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 18",
      "source": "Monica Hopewell visit report, Nov 18 morning",
      "office": false,
@@ -1994,16 +2004,6 @@
      "office": false,
      "note": "Standing tasks for Mac: leave the white wooden front blinds open and note the second water bowl is now outside.",
      "quote": "PLEASE ENSURE WOODEN WHITE FRONT BLINDS ARE OPEN FOR MAC TO LOOK OUT - 2ND WATER BOWL NOW ON PATIO IN THE BACKYARD"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 19",
-     "source": "Client message, Thu 1:45 PM",
-     "office": false,
-     "note": "Client explains the lingering smell sitters have mentioned: Mac's head may still be slightly scented from a skunk encounter in the back yard a couple of weeks ago. She is not concerned about it.",
-     "quote": "his head might still be slightly scented from his skunk encounter in the back yard a couple weeks ago"
     }
    ],
    "dormant": false
@@ -2586,6 +2586,16 @@
      "quote": "Several number one. A very loose number two. Bella ate some grass."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Kathy Pastor left a message for Jennifer Peganoff",
+     "office": false,
+     "note": "The client was home again for the Nov 21 morning visit and again asked that the door not be locked, so the sitter did not go in or check the home. That is the fourth visit on record with this arrangement, after Nov 7 and the two noted on Nov 14. The same report mentions workers were in the garage during the visit and Bella did not bark at them.",
+     "quote": "She did not bark at the workers that were in the garage."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2840,6 +2850,16 @@
      "quote": "Miranda, you can schedule my walkers through the holiday if you can find them."
     },
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Tiarra Roberts updated contact information for Lynne Reno",
+     "office": false,
+     "note": "The published Nov 20 entry for this client records only that Important Notes were edited, without the text. Here is the full current text. Send an ETA when on the way. The client will be home and Holly is handed off on leash at the front door. If you do not see Holly or Lynne inside, check the backyard. The client has a cat, so take care entering and exiting. The purple slip lead and poop bags are on the coat rack by the front door. The water bowl is in the living room and is refilled from the bathroom near the front door. Used poop bags can be left by the front door. The ETA bullet and the water-refill detail are the two things the Nov 20 edit actually added. The Access Instructions were edited the same day only to capitalise that the garage is for use ONLY IF THE CLIENT IS NOT HOME - the code itself stays in Time To Pet.",
+     "quote": "Water bowl in living room, refill from bathroom near front door"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -2938,16 +2958,6 @@
      "office": false,
      "note": "Added to Important Notes on Nov 20.",
      "quote": "Send ETA when on the way"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 18",
-     "source": "Julie Smith visit report, 2:13 PM",
-     "office": false,
-     "note": "Holly's #2 on the Nov 18 afternoon walk was back to normal in the sitter's words, and the structured consistency field reads firm and healthy. The sitter also persuaded Holly to walk to the end of the street before heading home and says Holly gets stubborn when she catches a good scent.",
-     "quote": "She also went number two and it was back to normal."
     }
    ],
    "dormant": false
