@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T13:20:05-05:00",
+ "generated": "2026-11-21T14:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1116,6 +1116,26 @@
      "quote": ""
     },
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Tiarra Roberts Important Notes edit, Nov 20 1:01 PM",
+     "office": false,
+     "note": "Trash duty at this home, which the brief has never carried. Roll the bins out to the street on Wednesday and bring them back Thursday. The bins go near the stairs inside the garage because Mary Ann is handicapped. Tiarra Roberts edited this note four times between 12:59 and 1:02 PM on Nov 20; this is the final wording. Next trash Wednesday is Nov 25.",
+     "quote": "Put bins near the stairs inside the garage. Mary Ann is handicapped"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Tiarra Roberts Important and Company Notes edit, Nov 20 1:01 PM",
+     "office": false,
+     "note": "The rest of the current standing notes for this home, also missing from the brief. Send an ETA on the way and address her as Mary Ann, not Mary. Enter through the garage and ring the white doorbell button left of the door inside the garage. If she is out, Georgie is in his pen in the living room and goes back in it after the visit; if she is home he has free roam. Red harness and plaid leash in the laundry room, blue rain coat for wet days. Turn the laundry room light off at the end and shut both doors tightly. Mailbox is on the street. Poop bags go in the garage trash can, spares on the dryer. Two water bowls in the pen, refilled from the pitcher beside it. Headlamp hangs in the laundry room for PM visits.",
+     "quote": "If Mary is not home, Georgie will be in pen in living room, return him after visit"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -1194,26 +1214,6 @@
      "office": true,
      "note": "Tomorrow morning's walk (Tue Nov 10) is cancelled - Georgie had 14 teeth pulled today and needs to rest. Client expects the evening visit to still be fine but did not confirm it outright. Needs the Tuesday AM visit taken off the schedule and a reply confirming the evening one stands.",
      "quote": "I need to cancel tomorrow am walk."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 9",
-     "source": "Mary Ann Mckeever private message, 12:16 PM",
-     "office": false,
-     "note": "Georgie had 14 teeth pulled today (Nov 9) - this is the dental the client flagged on Nov 5. Client says he will need to rest. No post-op instructions, medication or feeding changes were given in the message; check Time To Pet before any visit.",
-     "quote": "Georgie had 14 teeth pulled today"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 8",
-     "source": "Pet Care Note update by Tiarra Roberts",
-     "office": false,
-     "note": "Orange cooling collar lives in the freezer. If it is over 75 degrees, put it on Georgie before the walk and slip the harness over the collar.",
-     "quote": "if temp is over 75 degrees, put on before walk - slip harness over cooling collar"
     }
    ],
    "dormant": false
@@ -2446,6 +2446,16 @@
      "quote": "The pet got sick and I cleaned it up (before and after pictures included)"
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Client message, Nov 21 9:22 AM",
+     "office": true,
+     "note": "Client asked at 9:22 AM what the new arrival time is, which implies she has been told the visit time is changing. Nothing in the mail shows an answer going back to her, and the brief carries her Nov 21 visit but not this question. She needs a time confirmed from the office. Read alongside her Nov 14-15 messages about being there to let the sitter in, which depend on knowing when to expect someone.",
+     "quote": "Gm what is your new arrival time ?"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -2544,16 +2554,6 @@
      "office": false,
      "note": "Nov 15 morning visit was delayed - the sitter could not get in and waited to be let in; the client was home during the visit.",
      "quote": "had to wait to be let in but I had nothing but time"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 14",
-     "source": "client message to Jade",
-     "office": false,
-     "note": "Client said she would be at the house by 9 to let the sitter in for today's visit, so expect to be let in rather than entering alone.",
-     "quote": "No worries I’ll be there by 9 to let u in thanks!"
     }
    ],
    "dormant": false
@@ -3529,6 +3529,26 @@
      "office": true,
      "note": "Kiara Streety again found wet food sitting out on the table, covered, on the Nov 12 late-morning visit; she used that food and put it in the fridge. This is the third report since Oct 22 describing wet food left out on the table or in an open can and a sitter deciding what to do with it. No written rule covers it, so the office should settle with Marcia what sitters do with food already out.",
      "quote": "Saw some food already out covered laying on the table"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Jade Popovitz visit report, Nov 20 midday",
+     "office": false,
+     "note": "First mention of this in the mail: Freddy's whiskers looked itchy to the sitter and he kept rubbing them against the doors and the desk through the visit. One sitter, one visit - no other skin or appetite trouble reported, and food and water had just been changed.",
+     "quote": "He's got very itchy whiskers and kept rubbing them on the doors and desk"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Jade Popovitz visit report, Nov 20 midday",
+     "office": false,
+     "note": "Matches the standing note that Freddy's spot is the closet: he was hiding there on arrival again and came out on his own once the sitter started the litter change. Full litter change done and swept; he had not kicked much litter out of the box this time.",
+     "quote": "He was hiding in the closet again but once I started on his litter he came right out"
     },
     {
      "cat": "behavior",
