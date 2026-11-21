@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T21:20:07-05:00",
+ "generated": "2026-11-20T22:20:11-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -8024,6 +8024,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Gretchen Gipson visit report, Nov 20 7:28 PM",
+     "office": true,
+     "note": "On the Nov 20 evening visit the sitter gave two drops in each ear and the spray, and describes the spray as being for Sassie's anal glands - more specific than the care note's 'spray on Sassie's behind'. The client was home for this visit. This is a third sitter administering the ear drops while the account manager's Nov 11 question about whether Petcare Deluxe may give them still has no answer anywhere in the mail.",
+     "quote": "I was able to give her two drops of her medicine in each ear and her spray medicine for her anal glands"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "standing",
      "date": "Nov 18",
      "source": "Margaret Bill updated contact information for Joan- Gina Sullivan (Manages Account), 10:02 AM",
@@ -8110,16 +8120,6 @@
      "office": true,
      "note": "Sassie is off her anxiety medication. She now gets a spray plus an over-the-counter ear medication, and the client asked whether staff can administer the ear drops.",
      "quote": "Can you administer her ear drops?"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 8",
-     "source": "Client private message",
-     "office": false,
-     "note": "A family member at the home has worsening dementia and may tell the walker not to come. Account manager asks that any such cancellation be confirmed with her first - it already happened with a previous walker. Do not leave on a verbal cancellation at the door without checking.",
-     "quote": "if she tells the walker not to come please confirm with me 1st"
     }
    ],
    "dormant": false
