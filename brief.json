@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T15:20:05-05:00",
+ "generated": "2026-11-21T16:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1408,6 +1408,16 @@
      "office": false,
      "note": "Christina's suggested handling when Bismark will not walk: if the sitter is comfortable doing so, take him off the leash and walk toward the gate door to see whether he follows. She adds that otherwise he may just be lazy. This is the first time a technique has been offered rather than just a warning that he refuses.",
      "quote": "You can try taking him off the leash if you feel comfortable"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Visit report, 11:15-11:25 AM arrival, Harvett Ellington",
+     "office": false,
+     "note": "Nov 21 midday visit: the sitter writes that Bismark had her going for a second and then just wanted to lie out in the sun. Bowl cleaned and refilled, a couple of treats given, mailbox checked and empty, no #2 on this visit. One more observation consistent with the standing note that Bismark will not walk - not a new rule.",
+     "quote": "Bismarck had me going for a second."
     },
     {
      "cat": "schedule",
@@ -7804,6 +7814,26 @@
      "quote": "You'd just have to put those bags in a cabinet or drawer when you leave or he'll eat through the bag"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Important Notes as of the last Nov 20 edit, 5:01 PM",
+     "office": false,
+     "note": "Cat and litter-box care from the current Important Notes, none of which the brief carries. Cats are fed once daily at the evening visit, one scoop each, bowls on the kitchen table and on the living room coffee table. Cat food containers are under the plant table in the kitchen, marked per cat. Stash gets one lickable Purrly treat at the bedtime visit only - the Nov 20 edit added the Purrly brand to a line that previously just said lickable treat. Three litter boxes: master bedroom bathroom, laundry room, and the upstairs gaming room/office; scoop and flush, the litter is flushable. Cat hiding spots are behind the couch and under the bed.",
+     "quote": "Stash gets 1 lickable (Purrly) treat at the bedtime visit only"
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Important Notes and Company Notes as of the last Nov 20 edit, 5:01 PM",
+     "office": false,
+     "note": "Household and livestock tasks from the same current notes, also absent from the brief. Chickens get one apple a day from the basket hanging above the kitchen island counter, plus one scoop of meal worms and one scoop of feed; eggs go in the holder next to the fridge. Trash day is Thursday - roll the cans out to the street, then bring them back to the side of the garage on Friday; the outside cans sit next to the garage on the right side. The mailbox is on the street. Keep the TV on Bob Ross for Penny Rue, by saying 'Alexa turn on living room TV'. Three water fountains: kitchen under the shelves, living room under the TV, upstairs gaming room/office. Cleaning supplies are under the kitchen sink. Access details for this home stay in Time To Pet and are deliberately not recorded here.",
+     "quote": "Trash day: Thursday roll out to street. Friday bring back in to side of garage"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7822,26 +7852,6 @@
      "office": false,
      "note": "All meds, food additives and bedtime supplements are on the counter and labeled. Regular treats are in a clear container outside the yellow one.",
      "quote": "All of their meds, food additives, and bedtime supplements are on the counter, labeled."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 19",
-     "source": "Client message",
-     "office": false,
-     "note": "The back door does not lock at the handle. The lock is at the bottom of the panel: a button on top to lock and a button on the side to unlock.",
-     "quote": "Back door doesn't lock at the handle. It has a lock at the bottom of the panel."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 19",
-     "source": "Shannon Anderson messages 1:13-1:28 PM and Julie Smith visit report 1:49 PM, Nov 19",
-     "office": true,
-     "note": "On the first full day of the trip two separate sitter teams lost time hunting for the feeding supplies. Shannon Anderson and Julie Smith messaged the client at 1:13 PM that they could not find the broth, at 1:15 PM that they could not see the scale, and at 1:28 PM that they had found it. Julie's own report on the later visit also describes hunting for the scale before she could measure the food out. Whether the broth was ever found is not stated anywhere in the mail. Worth getting both locations written into the Pet Care Note while the clients are away.",
-     "quote": "Ok. We don't see the scale"
     }
    ],
    "dormant": false
@@ -8065,6 +8075,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 21",
+     "source": "Visit report, 8:30 AM walk, Gretchen Gipson",
+     "office": false,
+     "note": "Nov 21 morning walk: the sitter applied the gland spray using a treat and Sassie's leash as guidance, says it worked very well and that she will keep doing it that way. She also gave two drops of ear medication and filled the water bowl. Recorded as one sitter's own method on one visit, not a client instruction.",
+     "quote": "I used a treat and her leash as guidance while giving her the spray medication for her glands"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 20",
      "source": "Chrissy George visit report",
      "office": true,
@@ -8140,16 +8160,6 @@
      "office": true,
      "note": "The account manager confirms Thanksgiving-week coverage is wanted for every shift except Thanksgiving evening, which the family will cover themselves. The message does not list the dates it covers, so the office should confirm the exact span against the schedule.",
      "quote": "We will need coverage except for Thanksgiving evening. We can walk Sassie for that shift."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 11",
-     "source": "Client private message, 3:47 PM",
-     "office": true,
-     "note": "Medication change from the account manager: Sassie is OFF her anxiety medication. She now gets a spray applied to her behind (already being done by sitters) plus an over-the-counter ear medication. The message does not name either product, give a dose, or say when the anxiety medication stopped. Nothing beyond what the client wrote - do not infer a schedule.",
-     "quote": "Sassie is no longer taking her anxiety medication but gets a spray on her behind and an over counter ear medication"
     }
    ],
    "dormant": false
