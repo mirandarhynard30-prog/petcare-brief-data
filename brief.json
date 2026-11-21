@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T16:20:05-05:00",
+ "generated": "2026-11-21T17:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -274,6 +274,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Client private message, 4:59 PM",
+     "office": true,
+     "note": "Client says she has cancelled the Wednesday, Thursday and Friday visits herself and still needs Monday, Tuesday and Saturday. She names weekdays only - no dates and no week - so which week she means is not stated, though it reads as Thanksgiving week. Office should confirm the week and check that the three cancellations actually went through in Time To Pet.",
+     "quote": "I cancelled the visits for weds/thurs/fri. I need visits monday, tues, and sat!"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -382,16 +392,6 @@
      "office": false,
      "note": "Puck is meant to be left in her crate. The sitter asked the client directly whether Puck had been left out of her crate and the client answered that she should be in.",
      "quote": "No she should be in! Thanks"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 14",
-     "source": "Shannon Anderson messages and visit report, Nov 14 1:16-1:37 PM",
-     "office": true,
-     "note": "On the Nov 14 early-afternoon visit the sitter found Puck loose in the apartment, greeting her at the door, while Rusty was crated - so Puck had been left out by whoever was there before. The sitter checked with the client, then secured both dogs in their crates before leaving. Worth finding out how Puck came to be out.",
-     "quote": "She came and greeted me at the door"
     }
    ],
    "dormant": false
@@ -691,6 +691,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Client private message, 5:07 PM",
+     "office": true,
+     "note": "Carol writes by private message that the family's schedule for next week is now settled and the only day they need a sitter for Lucy is Tuesday. She apologises for the delay in answering. No calendar date is given in the message, and she does not say what to do with any other days already booked that week - the office needs to set the week to Tuesday only and confirm back.",
+     "quote": "The only day we will need somebody for Lucy is Tuesday."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -799,16 +809,6 @@
      "office": true,
      "note": "Client cancelled Wednesday and Thursday service and asked for Friday, Saturday and Sunday instead, at the same time. She named weekdays only, no dates - read as Nov 4 and Nov 5 cancelled, Nov 6, 7 and 8 added, but that is inference, not stated. She replied \"That would be great!! Thank you Miranda!!\" five minutes later, so the office appears to have agreed; confirm the change is actually entered on the schedule.",
      "quote": "i am going to cancel service for Wednesday and Thursday, but I will need service Friday, Saturday and Sunday at the same time"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 2",
-     "source": "Angela Jozsa private message, Nov 2 6:02 PM",
-     "office": true,
-     "note": "Client cancelled tomorrow's (Tue Nov 3) service by private message at 6:02 PM. No reason given and no other dates mentioned. Message is signed \"Carol\" although the account is Angela Jozsa - unclear who wrote it; confirm before actioning. Lucy's walk needs removing from Nov 3 and the assigned walker told.",
-     "quote": "Hi Miranda! Sorry but I am going to need to cancel service for tomorrow!"
     }
    ],
    "dormant": false
@@ -7575,6 +7575,16 @@
      "office": false,
      "note": "Same Oct 28 note update says where the shy cat hides: check the corner underneath the parents' bed.",
      "quote": "Cat hides: check in corner underneath parents' bed"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Client message, 10:52 AM",
+     "office": false,
+     "note": "Client is away on a cruise from today - she writes that they board the ship at one o'clock, and that she was glad to hear both cats were out and is missing them. No return date is given in the message, so the household should be treated as empty until the office confirms when she is back.",
+     "quote": "We get on the ship at one and we’re excited!"
     },
     {
      "cat": "behavior",
