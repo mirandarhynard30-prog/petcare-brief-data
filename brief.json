@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T07:20:06-05:00",
+ "generated": "2026-11-21T08:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -537,6 +537,16 @@
      "office": true,
      "note": "Client messaged that they are driving home and expect to arrive about 5:01 PM Nov 12. Check whether any later visits today should be dropped. The mail does not say which visits or how long they were away.",
      "quote": "We are still on the road in traffic.We should be there at 5;01 pm."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Chelsea Tompkins visit report",
+     "office": false,
+     "note": "Chelsea Tompkins logged Gordy's stool on the Nov 20 morning walk as a little loose but not concerning. He went #2 three times on that walk.",
+     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -2089,17 +2099,17 @@
    ],
    "items": [
     {
-     "cat": "schedule",
+     "cat": "behavior",
      "sev": "low",
      "type": "recent",
-     "date": "Oct 25",
-     "source": "Noella Assi visit report, 2:54 PM",
+     "date": "Nov 20",
+     "source": "Noella Assi visit report",
      "office": false,
-     "note": "Sitter reports this Sunday afternoon visit was the last one before the family gets home later today.",
-     "quote": "I came by for the last visit before you guys get in."
+     "note": "On the Nov 20 evening visit Ginger went #1 on the first outing only, then had her dinner and fresh water, and went #2 on a second outing afterwards. One visit by one sitter, not established as a standing routine.",
+     "quote": "She went number one only on the first outing so we went back inside"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Matt Konn",
