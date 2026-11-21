@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T18:20:05-05:00",
+ "generated": "2026-11-20T19:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -932,6 +932,16 @@
      "office": true,
      "note": "Chloe was WALKED on the Nov 6 midday visit - Kiara Streety reports a short walk, cut short because it was cold, and Chloe went #1 twice with no #2. That runs against the standing restriction on file since Oct 26 (pneumonia: no walking or other strenuous activity for now). Melody was home, spoke to the sitter on arrival and handed Chloe over herself, so the restriction may well have been lifted - but nothing in this mailbox says so. Office: confirm with Melody whether walking is allowed again and tell the sitters either way.",
      "quote": "We did a short walk it is cold out today"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Visit report",
+     "office": false,
+     "note": "On the midday visit Chloe did not want to walk much and kept sneezing; the sitter put the sneezing down to the leaves. No #2 on that visit.",
+     "quote": "Chloe didn't really want to walk a lot and kept sneezing because of the leaves"
     }
    ],
    "dormant": false
@@ -7724,6 +7734,16 @@
      "quote": "Penny: 1 full cosequin, 1 Fortiflora, 2 big parts of hip and joint chew"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Pet Care Note update",
+     "office": false,
+     "note": "Penny gets Rimadyl, half a tablet, at the AM visit per the Important Notes.",
+     "quote": "Meds (dog): Rimadyl for Penny, Give Penny 1/2 tablet in AM"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7792,16 +7812,6 @@
      "office": true,
      "note": "Client finished uploading the pet profiles and adding the visit times they still needed, and wants the office to confirm the schedule came through on our end. Sent early Friday morning.",
      "quote": "I wanted to make sure you got it on your end."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 12",
-     "source": "Tiarra Roberts contact-information update, 10:05 AM ET",
-     "office": false,
-     "note": "Penny's morning medicine is now named in the Pet Care Note: Rimadyl, half a tablet in the morning. Earlier notes only said half of an unnamed medicine kept on the kitchen island counter, so this closes that gap. Dose and timing come from the note, not from a vet instruction in the mail.",
-     "quote": "Meds (dog): Rimadyl for Penny, Give Penny 1/2 tablet in morning"
     }
    ],
    "dormant": false
