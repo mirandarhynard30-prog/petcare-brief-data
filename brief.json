@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T11:20:05-05:00",
+ "generated": "2026-11-21T12:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4099,6 +4099,16 @@
      "quote": "I was definitely keeping a close eye on him today to make sure he didn't eat anything from the outside"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Dan Dantimo visit report, Nov 20 12:11 PM",
+     "office": false,
+     "note": "First stool reading since the client reported on Nov 19 that Jaxson had thrown up for the fourth time in a week. The Nov 20 walk's structured consistency field was answered firm and healthy and Jaxson went both #1 and #2. This speaks only to the stool - the report says nothing about vomiting either way, and the client's Nov 19 question is still open.",
+     "quote": "It was firm and healthy"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4127,16 +4137,6 @@
      "office": false,
      "note": "Client warns that Jaxson will eat his own vomit if a sitter does not get to it straight away. She is unsure whether he does it to hide it or out of instinct.",
      "quote": "if you don't get to it right away he tries to do that"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 19",
-     "source": "Dan Dantimo report, Thu 5:27 PM",
-     "office": false,
-     "note": "On the Nov 19 walk Dan saw Jaxson trying to eat mulch or litter - he names candy and gum wrappers - and says he kept a close eye on it and did not see Jaxson actually swallow anything. He allows that something may have been picked up when he was not looking.",
-     "quote": "the only thing I noticed was him trying the eat either mulch or trash(candy, gum wrappers, etc.)"
     }
    ],
    "dormant": false
