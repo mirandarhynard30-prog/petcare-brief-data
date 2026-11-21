@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T05:20:05-05:00",
+ "generated": "2026-11-21T07:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1098,6 +1098,16 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Important Notes updated by Tiarra Roberts 12:59 PM",
+     "office": true,
+     "note": "The orange cooling collar rule was DELETED from Important Notes in the Nov 20 edit (present in Previously, absent from the new text). The brief still carries it as a standing rule dated Nov 8. Office: confirm it is retired, or restore it if the deletion was accidental. Matters before warm weather.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "recent",
      "date": "Nov 19",
      "source": "Client message",
@@ -1194,16 +1204,6 @@
      "office": false,
      "note": "Orange cooling collar lives in the freezer. If it is over 75 degrees, put it on Georgie before the walk and slip the harness over the collar.",
      "quote": "if temp is over 75 degrees, put on before walk - slip harness over cooling collar"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Mary Ann Mckeever private message, 6:17 PM",
-     "office": true,
-     "note": "Monday Nov 9 walks are cancelled - Georgie is having his teeth cleaned that day and may need some pulled. Client apologises for the late notice. Needs taking off the Monday schedule and an acknowledgement; no other days were mentioned.",
-     "quote": "Georgie won’t need his walks on Monday because he is getting his teeth cleaned and may need to have some pulled."
     }
    ],
    "dormant": false
@@ -1368,6 +1368,16 @@
      "office": false,
      "note": "Bismark walked on this visit, which cuts against the standing note that he will not walk for any sitter. Elizabeth Sigler led him past the gate with no trouble, they went up the road a little past the neighbour's fence, he stopped to pee, then he turned himself around and wanted the backyard, so the rest of the visit was yard time. He paused at the top of the steps on arrival before coming down to greet her. One visit only, so treat it as worth trying the walk rather than as a change to the standing rule.",
      "quote": "Then when we got outside I was easily able to lead him past the gate!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Elizabeth Sigler visit report, Nov 20 11:54 AM",
+     "office": false,
+     "note": "Nov 20 visit: Bismark paused at the top of the steps before greeting, led past the gate without trouble, then cut the walk short and chose the backyard. One sitter, one visit - not a standing rule.",
+     "quote": "he turned right back around and clearly wanted to go to the backyard"
     },
     {
      "cat": "behavior",
@@ -2880,6 +2890,16 @@
      "quote": "Client will be home; leash hand-off at front door"
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Important Notes updated by Tiarra Roberts 12:53 PM",
+     "office": false,
+     "note": "Added to Important Notes on Nov 20.",
+     "quote": "Send ETA when on the way"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2898,16 +2918,6 @@
      "office": false,
      "note": "Holly's #2 on the afternoon walk was mucousy; sitter logged the consistency as a little loose but not concerning. First loose-stool report for Holly in this brief - watch whether it repeats.",
      "quote": "She went number one and number two, which was a bit mucousy today."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 20",
-     "source": "Tiarra Roberts updated contact information",
-     "office": false,
-     "note": "Pet Care Notes updated Nov 20 to say where the water bowl is refilled from. Other notes unchanged in substance.",
-     "quote": "Water bowl in living room, refill from bathroom near front door"
     }
    ],
    "dormant": false
@@ -3529,6 +3539,16 @@
      "office": true,
      "note": "Client says she books Aayla as Midday visits, 11am at the earliest to 1pm, because she works 12-hour shifts, and reports Chrissy George has been starting visits as early as 9:45, outside that window. She asks what she can do on her end to help.",
      "quote": "She has been beginning visits as early as 9:45, outside the scheduled time range."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Client private message, Nov 20 10:27 AM",
+     "office": false,
+     "note": "Client restates the booked window for Aayla's midday visits and asks that visits start inside it. She works 12-hour shifts.",
+     "quote": "Midday (11 am at the earliest to 1 pm)"
     },
     {
      "cat": "home",
@@ -7684,6 +7704,16 @@
      "quote": "Meds (dog): Rimadyl for Penny, Give Penny 1/2 tablet in AM"
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Important/Company Notes updated by Tiarra Roberts",
+     "office": false,
+     "note": "Standing do-not rule, now in Company Notes: no tug of war with Penny Rue. Older note gave the reason as lost teeth.",
+     "quote": "Do not play tug of war with Penny Rue"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7742,16 +7772,6 @@
      "office": false,
      "note": "This answers the sitters' question about the missing food scale: it is in the right-hand drawer of the island counter, across from the fridge. The client had forgotten to set it out before leaving. The Important Notes were updated the same afternoon to include the location.",
      "quote": "Right drawer in the island. Just forgot to pull it out before we left."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Client private message",
-     "office": true,
-     "note": "Client finished uploading the pet profiles and adding the visit times they still needed, and wants the office to confirm the schedule came through on our end. Sent early Friday morning.",
-     "quote": "I wanted to make sure you got it on your end."
     }
    ],
    "dormant": false
