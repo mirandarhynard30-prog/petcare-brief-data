@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T17:20:05-05:00",
+ "generated": "2026-11-21T18:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2549,21 +2549,21 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Nov 15",
-     "source": "Harvett Ellington visit report, Nov 15 afternoon visit",
-     "office": false,
-     "note": "Somebody was present at the Nov 15 afternoon visit - the report's home-secured field answers 'Client was home during visit' and the sitter writes that she met Trudy's daughter and told Trudy she would see them all next week. Trudy is listed as a pet on this account, so whether 'Trudy' and 'Trudy's daughter' here mean the pet or people at the home is unclear from the report. Relevant to the unresolved morning question about whether the front door was locked or unlocked, since someone was there in the afternoon.",
-     "quote": "met Trudy's daughter, very pleasant!!"
+     "date": "Nov 21",
+     "source": "Harvett Ellington visit report",
+     "office": true,
+     "note": "Gloves are running low at this home - flagged in the Nov 21 morning report, supplies-low box ticked Yes. Needs restocking.",
+     "quote": ""
     },
     {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
      "date": "Nov 15",
-     "source": "Kiara Streety visit report",
+     "source": "Harvett Ellington visit report, Nov 15 afternoon visit",
      "office": false,
-     "note": "Nov 15 morning visit was delayed - the sitter could not get in and waited to be let in; the client was home during the visit.",
-     "quote": "had to wait to be let in but I had nothing but time"
+     "note": "Somebody was present at the Nov 15 afternoon visit - the report's home-secured field answers 'Client was home during visit' and the sitter writes that she met Trudy's daughter and told Trudy she would see them all next week. Trudy is listed as a pet on this account, so whether 'Trudy' and 'Trudy's daughter' here mean the pet or people at the home is unclear from the report. Relevant to the unresolved morning question about whether the front door was locked or unlocked, since someone was there in the afternoon.",
+     "quote": "met Trudy's daughter, very pleasant!!"
     }
    ],
    "dormant": false
@@ -6014,6 +6014,16 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Odie uses a muzzle and was crated at the end of the Nov 21 visit; Monica left his muzzle on the entry table, so that is where the next sitter should look for it. Single report, so treat as this visit's practice rather than a confirmed standing rule.",
+     "quote": "Odie was placed in his crate. I left his muzzle on the entry table."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "standing",
      "date": "Nov 12",
      "source": "Important Notes updated by Tiarra Roberts",
@@ -6120,16 +6130,6 @@
      "office": false,
      "note": "Zeno is food/treat aggressive. Give Zeno his treat first, send him to his crate in the bedroom, and shut the door while he eats. Then give the other dogs their treats and let Zeno out after they finish. Zeno only gets treats from the container with the white lid, never milk bones.",
      "quote": "Give Zeno his treat FIRST"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 22",
-     "source": "Company Notes, Sep 22",
-     "office": false,
-     "note": "Griswold must be on a leash every time he goes out, front or back yard. Do not let him into the backyard off leash. Go only far enough for a potty. His leash is on the table by the front door. Odie and Zeno can use the backyard.",
-     "quote": "MUST be taken out on leash (front yard/back yard)"
     }
    ],
    "dormant": false
