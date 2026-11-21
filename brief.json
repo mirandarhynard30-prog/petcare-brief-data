@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T14:20:05-05:00",
+ "generated": "2026-11-21T15:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -4139,6 +4139,16 @@
      "quote": "It was firm and healthy"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Dan Dantimo visit report, Nov 20 midday",
+     "office": false,
+     "note": "Follow-through on the vomiting concern: on the Nov 20 walk the sitter deliberately kept Jaxson off anything on the ground, kept him on the sidewalk most of the time, and held his treats to two. Jaxson went #1 and #2 and the stool is logged firm and healthy. No vomiting reported this visit.",
+     "quote": "I kept his treat limit to two"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -4157,16 +4167,6 @@
      "office": false,
      "note": "A lawn-fertilizer crew was treating the yard when the sitter arrived on Nov 19, so there was no backyard time at all that visit; the sitter walked Jax around the block instead. Worth knowing for the next visit or two in case the treatment is still fresh.",
      "quote": "the fertilizer guy was doing the yard, so definitely no backyard time today"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 19",
-     "source": "Client message, Thu 5:34 PM",
-     "office": false,
-     "note": "Client warns that Jaxson will eat his own vomit if a sitter does not get to it straight away. She is unsure whether he does it to hide it or out of instinct.",
-     "quote": "if you don't get to it right away he tries to do that"
     }
    ],
    "dormant": false
@@ -8045,6 +8045,26 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 21",
+     "source": "Gretchen Gipson visit report, Nov 21 1 PM walk",
+     "office": false,
+     "note": "On the Nov 21 1 PM walk Sassie picked up what looked like a piece of bark in the back wooded area. The sitter tried to divert her and is not sure whether she swallowed it; the sitter does not think it is a concern but flagged it. Worth watching at the evening visit. Re-sent: this was handed off on an earlier run and is still not on the page.",
+     "quote": "She did try to eat what looked like a piece of bark off the ground"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Gretchen Gipson visit report, Nov 21 1 PM walk",
+     "office": false,
+     "note": "Same Nov 21 walk: Sassie seemed overheated and wanted to go in early after what the sitter calls a pretty intense walk. She was given water indoors and her bowl refilled. Stool firm and healthy, went #1 and #2. Re-sent: handed off on an earlier run and still not on the page.",
+     "quote": "Sassie seemed to be a little overheated and was ready to go in a little bit early"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 20",
      "source": "Chrissy George visit report",
      "office": true,
@@ -8130,26 +8150,6 @@
      "office": true,
      "note": "Medication change from the account manager: Sassie is OFF her anxiety medication. She now gets a spray applied to her behind (already being done by sitters) plus an over-the-counter ear medication. The message does not name either product, give a dose, or say when the anxiety medication stopped. Nothing beyond what the client wrote - do not infer a schedule.",
      "quote": "Sassie is no longer taking her anxiety medication but gets a spray on her behind and an over counter ear medication"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 11",
-     "source": "Client private message, 3:47 PM",
-     "office": true,
-     "note": "Open question for the office in the same 3:47 PM message: the account manager asks whether Petcare Deluxe can administer Sassie's ear drops. No answer appears anywhere in the mail as of this run. Until the office replies and the instruction is written into Time To Pet, sitters have no ear-drop instruction.",
-     "quote": "I know you have been helping with the spray. Can you administer her ear drops? Thanks!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 11",
-     "source": "Client private message, 4:31 PM",
-     "office": true,
-     "note": "Follow-up to the 3:47 PM medication message - the account manager now gives the schedule. Spray twice a day, morning and evening. For the ear medicine she writes 'ounce a day', which reads as once a day but is not what the message says, so treat the frequency as unconfirmed; she adds that morning or afternoon would work for it. Still no reply from the office anywhere in the mail and nothing written into Time To Pet, so sitters have no ear-drop instruction to work from.",
-     "quote": "Spray is twice a day. Ear medicine ounce a day."
     }
    ],
    "dormant": false
