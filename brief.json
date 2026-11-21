@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T19:20:07-05:00",
+ "generated": "2026-11-20T21:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -1096,6 +1096,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Nov 20 evening visit report from Tiarra Roberts",
+     "office": false,
+     "note": "On the Nov 20 evening visit the client was home and gave Georgie his eyedrops herself while the sitter held him. This is the clearest statement yet on the division of labour the Nov 15 item left open - on this visit the owner administered and the sitter only restrained. It describes one visit with the client present; it does not say what a sitter should do on a visit when she is out.",
+     "quote": "I helped Mary Ann with Georgie's eyedrops, holding him while she administered them."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "recent",
@@ -1204,16 +1214,6 @@
      "office": true,
      "note": "Monday Nov 9 walks are cancelled - Georgie is having his teeth cleaned that day and may need some pulled. Client apologises for the late notice. Needs taking off the Monday schedule and an acknowledgement; no other days were mentioned.",
      "quote": "Georgie won’t need his walks on Monday because he is getting his teeth cleaned and may need to have some pulled."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Tiarra Roberts visit report, Nov 3 8:28 PM",
-     "office": false,
-     "note": "Nov 3 evening visit: the client was home and the sitter helped her give Georgie his medicine and eyedrops, then gave him ice cubes afterwards. Georgie went #2 and the sitter recorded the consistency as firm and healthy. One report only - this is how that visit went, not a confirmed standing rule. Medication details are in Time To Pet.",
-     "quote": "I helped Mary Ann with Georgie's medicine and eyedrops."
     }
    ],
    "dormant": false
