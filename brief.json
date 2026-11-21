@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T09:20:07-05:00",
+ "generated": "2026-11-21T10:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2810,6 +2810,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Client message, Nov 21",
+     "office": true,
+     "note": "Client gives the go-ahead to schedule her walks straight through the Thanksgiving holiday if staff can be found. Needs the office to staff it and confirm back to her.",
+     "quote": "Miranda, you can schedule my walkers through the holiday if you can find them."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -2918,16 +2928,6 @@
      "office": false,
      "note": "Holly's #2 on the Nov 18 afternoon walk was back to normal in the sitter's words, and the structured consistency field reads firm and healthy. The sitter also persuaded Holly to walk to the end of the street before heading home and says Holly gets stubborn when she catches a good scent.",
      "quote": "She also went number two and it was back to normal."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 17",
-     "source": "Julie Smith visit report",
-     "office": false,
-     "note": "Holly's #2 on the afternoon walk was mucousy; sitter logged the consistency as a little loose but not concerning. First loose-stool report for Holly in this brief - watch whether it repeats.",
-     "quote": "She went number one and number two, which was a bit mucousy today."
     }
    ],
    "dormant": false
@@ -7982,6 +7982,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Client private message, Nov 21",
+     "office": true,
+     "note": "Client is correcting a date mix-up on the evening shift. She says her earlier note about 11/25 meant the evening BEFORE the 25th, not the 26th. Which calendar date that lands on is not stated outright, so the office should confirm the date with her before booking.",
+     "quote": "Thats the 26. I am referring to the evening before the 25."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -8090,16 +8100,6 @@
      "office": true,
      "note": "Follow-up to the 3:47 PM medication message - the account manager now gives the schedule. Spray twice a day, morning and evening. For the ear medicine she writes 'ounce a day', which reads as once a day but is not what the message says, so treat the frequency as unconfirmed; she adds that morning or afternoon would work for it. Still no reply from the office anywhere in the mail and nothing written into Time To Pet, so sitters have no ear-drop instruction to work from.",
      "quote": "Spray is twice a day. Ear medicine ounce a day."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 11",
-     "source": "Client private message",
-     "office": true,
-     "note": "Sassie is off her anxiety medication. She now gets a spray plus an over-the-counter ear medication, and the client asked whether staff can administer the ear drops.",
-     "quote": "Can you administer her ear drops?"
     }
    ],
    "dormant": false
