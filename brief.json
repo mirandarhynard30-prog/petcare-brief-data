@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T10:20:05-05:00",
+ "generated": "2026-11-21T11:20:05-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -2436,6 +2436,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Harvett Ellington visit report 10:29 AM",
+     "office": false,
+     "note": "A pet was sick during the Nov 21 morning visit and the sitter cleaned it up, with before and after pictures attached. The report does not name which animal, so that is unconfirmed.",
+     "quote": "The pet got sick and I cleaned it up (before and after pictures included)"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -2509,6 +2519,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 21",
+     "source": "Harvett Ellington visit report 10:29 AM",
+     "office": true,
+     "note": "Sitter reports gloves are running low at this home and answered Yes to the supplies-getting-low question on the Nov 21 morning report.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 15",
      "source": "Harvett Ellington visit report, Nov 15 afternoon visit",
      "office": false,
@@ -2534,26 +2554,6 @@
      "office": false,
      "note": "Client said she would be at the house by 9 to let the sitter in for today's visit, so expect to be let in rather than entering alone.",
      "quote": "No worries I’ll be there by 9 to let u in thanks!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 14",
-     "source": "Harvett Ellington message, Nov 14 2:32 PM",
-     "office": false,
-     "note": "Replying to those instructions, the sitter said he would make a video of the locked front door 'again'. That wording suggests a video of the locked door has been sent before, but nothing in these emails states it as a standing requirement - treat it as unconfirmed.",
-     "quote": "Yes maam I will make a video again of the front door"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 1",
-     "source": "Client message, 9:44 and 9:49 AM",
-     "office": true,
-     "note": "Client wrote 'Hey there ru there' at 9:44 AM and then at 9:49 AM said the sitter did not say she was there and had started. Harvett Ellington had already messaged an ETA at 9:16 AM and 'I'm walking up now' at 9:15 AM, so it is not clear from the mail whether the client missed those messages, was asking about a different visit, or wants a separate arrival confirmation once the sitter is inside and working. This repeats the Oct 18 complaint about arrival communication; the office should settle what confirmation this client expects.",
-     "quote": "She didn't say she was and started thanks"
     }
    ],
    "dormant": false
@@ -2565,6 +2565,26 @@
     "Bella"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Client private message 10:44 AM",
+     "office": true,
+     "note": "Client asks by private message to schedule a Thanksgiving walk at around 6:00. She does not say AM or PM, so the time needs confirming with her. No reply appears in the thread as of this run.",
+     "quote": "I would like to schedule a Thanksgiving walk. Am I able to for 6:00 ish?"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Kathy Pastor visit report",
+     "office": false,
+     "note": "Nov 21 morning walk: Bella had a very loose #2 in the sitter's written note and ate some grass. The structured consistency field on the same report answers 'a little loose but not concerning', which is softer than the written description. The brief already carries loose-stool reports for Bella on Nov 14 and Nov 15, so this is the third in a week.",
+     "quote": "Several number one. A very loose number two. Bella ate some grass."
+    },
     {
      "cat": "health",
      "sev": "medium",
