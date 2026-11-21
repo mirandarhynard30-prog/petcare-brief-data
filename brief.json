@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T08:20:05-05:00",
+ "generated": "2026-11-21T09:20:07-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3569,6 +3569,16 @@
      "office": false,
      "note": "Client asks every sitter to double-check the door is locked before leaving after Aayla's walk. She found it left unlocked on Aug 27. She raised it warmly and followed up saying she appreciates the team, so this is a standing check, not a complaint to resolve.",
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 20",
+     "source": "Client private message 1:44 PM",
+     "office": false,
+     "note": "Client wrote this at 1:44 PM, about three hours after her 10:27 AM complaint that visits were starting as early as 9:45 instead of the booked 11am-1pm window. The thanks implies the office answered her, so the two Nov 20 office items on her arrival window are probably closed - but no reply is visible in the notification mail, so treat as likely rather than confirmed.",
+     "quote": "Thank you, I appreciate you!"
     },
     {
      "cat": "health",
@@ -7724,6 +7734,26 @@
      "quote": "Do not play tug of war with Penny Rue"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Client message 3:16 PM",
+     "office": false,
+     "note": "Client corrects how much Stash is being treated: ONE cat treat tube per day, given at the evening visit only. She adds he is fine on just his normal kibble the rest of the day. This followed sitters giving him treats at more than one visit.",
+     "quote": "we only give Stash 1 of the cat treat tubes a day and do it during the evening"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 20",
+     "source": "Client message 3:35 PM",
+     "office": false,
+     "note": "Client says the white bin on top of the counter in the upstairs room holds salmon and other cat treats and Stash may have any of them - but the bags must go into a cabinet or drawer before the sitter leaves, or he chews through them. Read with the one-tube-a-day limit above.",
+     "quote": "You'd just have to put those bags in a cabinet or drawer when you leave or he'll eat through the bag"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7762,26 +7792,6 @@
      "office": true,
      "note": "On the first full day of the trip two separate sitter teams lost time hunting for the feeding supplies. Shannon Anderson and Julie Smith messaged the client at 1:13 PM that they could not find the broth, at 1:15 PM that they could not see the scale, and at 1:28 PM that they had found it. Julie's own report on the later visit also describes hunting for the scale before she could measure the food out. Whether the broth was ever found is not stated anywhere in the mail. Worth getting both locations written into the Pet Care Note while the clients are away.",
      "quote": "Ok. We don't see the scale"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 19",
-     "source": "Client message, Thu 1:14 PM",
-     "office": false,
-     "note": "This answers the sitters' question about the missing broth. The client forgot to buy it before leaving and says to add water to the food instead. Applies until the replacement broth arrives.",
-     "quote": "Just adding water is good."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 19",
-     "source": "Client message, Thu 1:16 PM",
-     "office": false,
-     "note": "This answers the sitters' question about the missing food scale: it is in the right-hand drawer of the island counter, across from the fridge. The client had forgotten to set it out before leaving. The Important Notes were updated the same afternoon to include the location.",
-     "quote": "Right drawer in the island. Just forgot to pull it out before we left."
     }
    ],
    "dormant": false
