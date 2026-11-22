@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T16:20:09-05:00",
+ "generated": "2026-11-22T18:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2138,6 +2138,16 @@
     "Ginger"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Derek Heussner (client message, 5:37 PM)",
+     "office": true,
+     "note": "Client messaged Sunday 5:37 PM that they are nearly back home. The message does not say whether any remaining visits should stand or be cancelled - confirm before the next scheduled visit.",
+     "quote": "Thank you so much, we are almost home!"
+    },
     {
      "cat": "home",
      "sev": "low",
