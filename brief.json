@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T13:20:05-05:00",
+ "generated": "2026-11-22T14:20:14-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -1378,6 +1378,16 @@
      "office": false,
      "note": "Bismark would not go out for a walk - stepped outside the gate, turned straight around and sat back down inside. Sitter spent the visit in the fenced back yard instead. Sitter thought he seemed low and missing his owner.",
      "quote": "he immediately turned around like nope and came right back inside the gate and sat down"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Christina Palmieri (client message)",
+     "office": false,
+     "note": "Owner says Bismark is low because Patrick, who normally gives him table food and treats, is out of town. She is trying to cheer him up and says it is hard. Extra company and attention on visits is welcome.",
+     "quote": "Patrick is out of town, his primary table food and treat giver."
     },
     {
      "cat": "behavior",
