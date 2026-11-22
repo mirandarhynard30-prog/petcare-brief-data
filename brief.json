@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:20:05-05:00",
+ "generated": "2026-11-22T10:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2574,6 +2574,16 @@
      "office": true,
      "note": "Client asks by private message to schedule a Thanksgiving walk at around 6:00. She does not say AM or PM, so the time needs confirming with her. No reply appears in the thread as of this run.",
      "quote": "I would like to schedule a Thanksgiving walk. Am I able to for 6:00 ish?"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Chelsea Tompkins visit report, Nov 22 9:20 AM",
+     "office": true,
+     "note": "Nov 22 morning walk: Bella went #1 a number of times and #2 once, and the structured consistency field on the report reads very loose / diarrhea with the pet seeming fine otherwise. The sitter's own written note was only 'Number 1 a bunch of times Number2 once', so the diarrhea is recorded in the structured field rather than in her message. The brief already carries loose-stool reports for Bella on Nov 14, Nov 15 and Nov 21, so this is the fourth in nine days and the first logged as diarrhea rather than a little loose. Worth the office raising the pattern with the client.",
+     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
     },
     {
      "cat": "health",
