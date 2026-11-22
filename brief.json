@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T10:20:06-05:00",
+ "generated": "2026-11-22T11:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2539,20 +2539,20 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
-     "date": "Nov 21",
-     "source": "Harvett Ellington visit report 10:29 AM",
+     "date": "Nov 22",
+     "source": "Kiara Streety visit report, Nov 22 10:48 AM",
      "office": true,
-     "note": "Sitter reports gloves are running low at this home and answered Yes to the supplies-getting-low question on the Nov 21 morning report.",
-     "quote": ""
+     "note": "Nov 22 late-morning visit: the sitter ran out of gloves at this home and found no spares under the sink. She also ticked Yes to the supplies-getting-low question. Needs restocking before the next visit.",
+     "quote": "I also ran out of gloves I looked under the sink for more but there is none."
     },
     {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
      "date": "Nov 21",
-     "source": "Harvett Ellington visit report",
+     "source": "Harvett Ellington visit report 10:29 AM",
      "office": true,
-     "note": "Gloves are running low at this home - flagged in the Nov 21 morning report, supplies-low box ticked Yes. Needs restocking.",
+     "note": "Sitter reports gloves are running low at this home and answered Yes to the supplies-getting-low question on the Nov 21 morning report.",
      "quote": ""
     }
    ],
@@ -7744,6 +7744,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Shannon Anderson visit report, Nov 22 8:04 AM",
+     "office": true,
+     "note": "Nov 22 morning visit: while checking the upstairs litter box the sitter found that one of the pets had been sick and cleaned up bile. The report does not say which animal, so that is unresolved - the structured answer records it only as 'the pet'. Both dogs were logged as going #2 firm and healthy on this same report. Everyone otherwise reported in good spirits.",
+     "quote": "The pet got sick and I cleaned it up (before and after pictures included)"
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -7852,16 +7862,6 @@
      "office": true,
      "note": "Client left on their trip the morning of Nov 19 and asked that the pets be fed at the first stop of the day, because it was too early for them to feed before leaving.",
      "quote": "We're leaving now. It's too early to feed them, could you guys feed them at you're first stop over today?"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 19",
-     "source": "Client message",
-     "office": false,
-     "note": "All meds, food additives and bedtime supplements are on the counter and labeled. Regular treats are in a clear container outside the yellow one.",
-     "quote": "All of their meds, food additives, and bedtime supplements are on the counter, labeled."
     }
    ],
    "dormant": false
