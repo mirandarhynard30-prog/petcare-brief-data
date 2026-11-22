@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T21:20:05-05:00",
+ "generated": "2026-11-21T22:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -8125,6 +8125,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 21",
+     "source": "Gretchen Gipson evening visit report",
+     "office": false,
+     "note": "Second report in the same day of the ear medication and back-end spray being given using treats and Sassie's collar as guidance. The sitter gave both at the Nov 21 evening visit and says the method worked again. Two separate reports of the same method on one day, not yet written up as a standing instruction.",
+     "quote": "I dispensed her ear meds and spray to her back end while using treats and her collar"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 20",
      "source": "Chrissy George visit report",
      "office": true,
@@ -8190,16 +8200,6 @@
      "office": false,
      "note": "Important Notes were updated and the medication wording is now more specific. AM visit: ear drops, given as one or two drops in both ears, plus the spray on Sassie's behind. Evening visit: spray liberally on Sassie's behind. The previous version gave no drop count and did not say \"liberally\"; nothing else about the medications changed.",
      "quote": "Am visit: ear drops (1 or 2 drops in both ears) and spray"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 17",
-     "source": "Joan- Gina Sullivan (Manages Account), private message to the office",
-     "office": true,
-     "note": "The account manager confirms Thanksgiving-week coverage is wanted for every shift except Thanksgiving evening, which the family will cover themselves. The message does not list the dates it covers, so the office should confirm the exact span against the schedule.",
-     "quote": "We will need coverage except for Thanksgiving evening. We can walk Sassie for that shift."
     }
    ],
    "dormant": false
