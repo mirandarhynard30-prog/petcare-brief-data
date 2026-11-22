@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-21T19:20:06-05:00",
- "window": "Rolling history back to Aug 17, 2026",
+ "generated": "2026-11-21T20:20:05-05:00",
+ "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
    "name": "Kelly Huntington",
@@ -1909,6 +1909,16 @@
      "cat": "health",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 21",
+     "source": "Monica Hopewell visit report",
+     "office": false,
+     "note": "Mac refused his usual treat and then refused a jerky treat from his kitchen stash as well. He also did not want to stay outside as he normally does and only went number one. Worth watching his appetite on the next visit.",
+     "quote": "he refused so I swapped it for a jerky treat from his kitchen stash and he refused that one too"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 18",
      "source": "Monica Hopewell visit report, Nov 18 morning",
      "office": false,
@@ -2004,16 +2014,6 @@
      "office": false,
      "note": "Feeding as rewritten Sep 11: feed twice daily, morning and evening, if needed, two scoops of dry food per feeding. Food and treats are on the coffee bar near the kitchen. Two water bowls - one in the dining room, the second on the deck in the back yard.",
      "quote": "2 scoops dry food per feeding"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Aug 17",
-     "source": "Tiarra Roberts",
-     "office": false,
-     "note": "Standing tasks for Mac: leave the white wooden front blinds open and note the second water bowl is now outside.",
-     "quote": "PLEASE ENSURE WOODEN WHITE FRONT BLINDS ARE OPEN FOR MAC TO LOOK OUT - 2ND WATER BOWL NOW ON PATIO IN THE BACKYARD"
     }
    ],
    "dormant": false
@@ -2108,6 +2108,16 @@
     "Ginger"
    ],
    "items": [
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Noella Assi evening visit report",
+     "office": false,
+     "note": "A package was on the front porch at the evening visit; the sitter brought it in and left it on the kitchen table.",
+     "quote": ""
+    },
     {
      "cat": "behavior",
      "sev": "low",
@@ -2466,6 +2476,16 @@
      "quote": "Gm what is your new arrival time ?"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Harvett Ellington morning visit report",
+     "office": false,
+     "note": "One of the cats was sick during the Nov 21 morning visit; the sitter cleaned it up and attached before and after photos. The report does not say which cat. The evening visit the same day reported no accidents.",
+     "quote": "The pet got sick and I cleaned it up"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "recent",
@@ -2554,16 +2574,6 @@
      "office": true,
      "note": "Gloves are running low at this home - flagged in the Nov 21 morning report, supplies-low box ticked Yes. Needs restocking.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 15",
-     "source": "Harvett Ellington visit report, Nov 15 afternoon visit",
-     "office": false,
-     "note": "Somebody was present at the Nov 15 afternoon visit - the report's home-secured field answers 'Client was home during visit' and the sitter writes that she met Trudy's daughter and told Trudy she would see them all next week. Trudy is listed as a pet on this account, so whether 'Trudy' and 'Trudy's daughter' here mean the pet or people at the home is unclear from the report. Relevant to the unresolved morning question about whether the front door was locked or unlocked, since someone was there in the afternoon.",
-     "quote": "met Trudy's daughter, very pleasant!!"
     }
    ],
    "dormant": false
@@ -2860,6 +2870,16 @@
      "quote": "Miranda, you can schedule my walkers through the holiday if you can find them."
     },
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Client message",
+     "office": true,
+     "note": "Lynne replied to the office giving the go-ahead to schedule her walks through the Thanksgiving holiday if staff can be found. Needs the office to book coverage.",
+     "quote": "you can schedule my walkers through the holiday if you can find them"
+    },
+    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -2958,16 +2978,6 @@
      "office": true,
      "note": "Access rule rewritten this afternoon. Company Notes now say the client will be home and Holly is handed off on leash at the front door; the Access Instructions say the garage is to be used ONLY if the client is not home. The previous wording, which said she would notify us and sitters would enter through the front door, is gone. This does not answer Dan Dantimo's 1:03 PM question about whether to leave the door open when sitters leave, so that is still open. Entry code is in Time To Pet and is deliberately not repeated here.",
      "quote": "Client will be home; leash hand-off at front door"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 20",
-     "source": "Important Notes updated by Tiarra Roberts 12:53 PM",
-     "office": false,
-     "note": "Added to Important Notes on Nov 20.",
-     "quote": "Send ETA when on the way"
     }
    ],
    "dormant": false
