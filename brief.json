@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T11:20:05-05:00",
+ "generated": "2026-11-22T12:20:10-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -1408,6 +1408,16 @@
      "office": false,
      "note": "Christina's suggested handling when Bismark will not walk: if the sitter is comfortable doing so, take him off the leash and walk toward the gate door to see whether he follows. She adds that otherwise he may just be lazy. This is the first time a technique has been offered rather than just a warning that he refuses.",
      "quote": "You can try taking him off the leash if you feel comfortable"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Kiara Streety",
+     "office": false,
+     "note": "Nov 22 late-morning visit: Bismark met the sitter at the steps expecting a walk, but turned back as soon as they got outside the gate, came back in and sat down, so the visit stayed in the fenced back yard. The sitter also described him as looking sad and missing his owner, and kept him company and gave treats. One visit only, so this is not recorded as a standing rule.",
+     "quote": "Well we get outside the gate he immediately turned around like nope and came right back inside the gate and sat down lol."
     },
     {
      "cat": "behavior",
@@ -7616,6 +7626,16 @@
     "Brutus"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Tracy Martin",
+     "office": true,
+     "note": "Client replied by private message at 12:11 PM to a reminder, saying she has just added her dates. She does not say which dates or which service, so the office needs to open her account and check what she entered and whether it needs approving.",
+     "quote": "Thanks for the reminder, I just added dates!"
+    },
     {
      "cat": "health",
      "sev": "medium",
