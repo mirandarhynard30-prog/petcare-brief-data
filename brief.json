@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T20:20:05-05:00",
+ "generated": "2026-11-21T21:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2893,6 +2893,16 @@
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
+     "date": "Nov 20",
+     "source": "Pet Care Note update by Tiarra Roberts",
+     "office": false,
+     "note": "There is a cat in the house - take care on the way in and out so it does not get out.",
+     "quote": "Client has a cat, careful when entering/exiting"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
      "date": "Nov 14",
      "source": "Julie Smith visit report",
      "office": false,
@@ -2968,16 +2978,6 @@
      "office": true,
      "note": "The 10:50am rewrite overwrote Important Notes, and the only thing that field held was Holly's handling rule. The warning that she is hesitant with men and should be ignored until she settles is now nowhere in her record - Company Notes was emptied in the same edit. Re-add it.",
      "quote": "Hesitant with males-will take a little bit to warm up to initially, please ignore her until she feels more comfortable"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 3",
-     "source": "Tiarra Roberts updated contact information for Lynne  Reno (3:46 PM)",
-     "office": true,
-     "note": "Access rule rewritten this afternoon. Company Notes now say the client will be home and Holly is handed off on leash at the front door; the Access Instructions say the garage is to be used ONLY if the client is not home. The previous wording, which said she would notify us and sitters would enter through the front door, is gone. This does not answer Dan Dantimo's 1:03 PM question about whether to leave the door open when sitters leave, so that is still open. Entry code is in Time To Pet and is deliberately not repeated here.",
-     "quote": "Client will be home; leash hand-off at front door"
     }
    ],
    "dormant": false
