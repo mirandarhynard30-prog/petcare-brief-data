@@ -1,27 +1,15 @@
 {
- "generated": "2026-11-21T16:20:09-05:00",
- "date": "2026-11-21",
- "label": "Nov 21, 2026",
+ "generated": "2026-11-22T00:05:06-05:00",
+ "date": "2026-11-22",
+ "label": "Nov 22, 2026",
  "clients": [
-  {
-   "name": "Ashley Corall",
-   "visits": [
-    {
-     "time": "4:00 PM",
-     "sort": "1600",
-     "staff": "Monica Hopewell",
-     "service": "Dog Visit-30 minute",
-     "pets": "Griswold, Zeno, Odie"
-    }
-   ]
-  },
   {
    "name": "Christina Palmieri",
    "visits": [
     {
-     "time": "11:30 AM",
-     "sort": "1130",
-     "staff": "Harvett Ellington",
+     "time": "11:00 AM",
+     "sort": "1100",
+     "staff": "Kiara Streety",
      "service": "Dog Visit-30 minute",
      "pets": "Bismark"
     }
@@ -34,22 +22,15 @@
      "time": "7:30 AM",
      "sort": "0730",
      "staff": "Shannon  Anderson",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "Penney Rue, Valentine, Bean, Velitraxistaasch \"Stash\", Lacey, Octavia, Braxley, Manon, Opal, Onyx"
+     "service": "Dog and Cat Visit-30 minute",
+     "pets": "Penney Rue, Valentine, Bean, Velitraxistaasch \"Stash\""
     },
     {
-     "time": "12:30 PM",
-     "sort": "1230",
+     "time": "1:30 PM",
+     "sort": "1330",
      "staff": "Tiarra Roberts",
-     "service": "Trainer Visit-30minute",
-     "pets": "Penney Rue, Valentine, Bean, Velitraxistaasch \"Stash\", Lacey, Octavia, Braxley, Manon, Opal, Onyx"
-    },
-    {
-     "time": "12:30 PM",
-     "sort": "1230",
-     "staff": "Julie Smith",
-     "service": "Shadow Visit with Staff Member-30 minute",
-     "pets": "Penney Rue, Valentine, Bean, Velitraxistaasch \"Stash\", Lacey, Octavia, Braxley, Manon, Opal, Onyx"
+     "service": "Dog and Cat Visit-30 minute",
+     "pets": "Penney Rue, Valentine, Bean, Velitraxistaasch \"Stash\""
     },
     {
      "time": "8:00 PM",
@@ -69,25 +50,6 @@
      "staff": "Noella Assi",
      "service": "Dog Visit-30 minute",
      "pets": "Ginger"
-    },
-    {
-     "time": "7:00 PM",
-     "sort": "1900",
-     "staff": "Noella Assi",
-     "service": "Dog Visit-30 minute",
-     "pets": "Ginger"
-    }
-   ]
-  },
-  {
-   "name": "Diane Hoard",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Monica Hopewell",
-     "service": "Dog Visit-60 minute",
-     "pets": "Mac"
     }
    ]
   },
@@ -95,11 +57,11 @@
    "name": "Jennifer Peganoff",
    "visits": [
     {
-     "time": "10:00 AM",
-     "sort": "1000",
-     "staff": "Kathy Pastor",
+     "time": "9:00 AM",
+     "sort": "0900",
+     "staff": "Chelsea Tompkins",
      "service": "Dog Visit-20 minute",
-     "pets": "Bella"
+     "pets": "Bella, Bella, Bella"
     }
    ]
   },
@@ -107,24 +69,24 @@
    "name": "Joan- Gina Sullivan (Manages Account)",
    "visits": [
     {
-     "time": "8:30 AM",
-     "sort": "0830",
+     "time": "9:00 AM",
+     "sort": "0900",
+     "staff": "Gretchen Gipson",
+     "service": "Reassigned Visit-45 minute",
+     "pets": "Sassie"
+    },
+    {
+     "time": "1:30 PM",
+     "sort": "1330",
      "staff": "Gretchen Gipson",
      "service": "Dog Visit-45 minute",
      "pets": "Sassie"
     },
     {
-     "time": "1:00 PM",
-     "sort": "1300",
+     "time": "8:15 PM",
+     "sort": "2015",
      "staff": "Gretchen Gipson",
      "service": "Dog Visit-30 minute",
-     "pets": "Sassie"
-    },
-    {
-     "time": "7:00 PM",
-     "sort": "1900",
-     "staff": "Gretchen Gipson",
-     "service": "Dog Visit-45 minute",
      "pets": "Sassie"
     }
    ]
@@ -133,8 +95,8 @@
    "name": "Karen  Grosser",
    "visits": [
     {
-     "time": "12:00 PM",
-     "sort": "1200",
+     "time": "1:30 PM",
+     "sort": "1330",
      "staff": "Noella Assi",
      "service": "Dog Visit-30 minute",
      "pets": "Chloe"
@@ -145,8 +107,8 @@
    "name": "Lynne  Reno",
    "visits": [
     {
-     "time": "1:30 PM",
-     "sort": "1330",
+     "time": "12:30 PM",
+     "sort": "1230",
      "staff": "Tiarra Roberts",
      "service": "Long Range Visit-30 Minute",
      "pets": "Holly"
@@ -157,10 +119,17 @@
    "name": "Marie Newlove",
    "visits": [
     {
-     "time": "10:00 AM",
-     "sort": "1000",
+     "time": "12:30 PM",
+     "sort": "1230",
      "staff": "Margaret Bill",
-     "service": "Cat Visit-20 Minutes",
+     "service": "Trainer Visit-20 minute",
+     "pets": "Abbey, Phil"
+    },
+    {
+     "time": "12:30 PM",
+     "sort": "1230",
+     "staff": "Gretchen Gipson",
+     "service": "Shadow Visit with Staff Member-20 minute",
      "pets": "Abbey, Phil"
     }
    ]
@@ -178,32 +147,13 @@
    ]
   },
   {
-   "name": "Mary Gilmore",
-   "visits": [
-    {
-     "time": "10:45 AM",
-     "sort": "1045",
-     "staff": "Margaret Bill",
-     "service": "Dog Visit-30 minute",
-     "pets": "Puck, Rusty"
-    }
-   ]
-  },
-  {
    "name": "Megan Nickoli",
    "visits": [
     {
-     "time": "12:00 PM",
-     "sort": "1200",
+     "time": "11:00 AM",
+     "sort": "1100",
      "staff": "Margaret Bill",
-     "service": "Trainer Visit-30minute",
-     "pets": "Aayla"
-    },
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Gretchen Gipson",
-     "service": "Shadow Visit with Staff Member-30 minute",
+     "service": "Reassigned Visit-30 minute",
      "pets": "Aayla"
     }
    ]
@@ -212,15 +162,15 @@
    "name": "Vicki Davey",
    "visits": [
     {
-     "time": "9:15 AM",
-     "sort": "0915",
-     "staff": "Harvett Ellington",
+     "time": "10:00 AM",
+     "sort": "1000",
+     "staff": "Kiara Streety",
      "service": "Cat Visit-45 minute",
      "pets": "3 indoor cats, 6 outdoor cats"
     },
     {
-     "time": "4:30 PM",
-     "sort": "1630",
+     "time": "4:00 PM",
+     "sort": "1600",
      "staff": "Harvett Ellington",
      "service": "Cat Visit-30 Minutes",
      "pets": "3 indoor cats, 6 outdoor cats"
@@ -228,5 +178,5 @@
    ]
   }
  ],
- "visitCount": 22
+ "visitCount": 17
 }
