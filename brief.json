@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T22:20:06-05:00",
+ "generated": "2026-11-22T07:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2158,26 +2158,6 @@
      "office": true,
      "note": "Client asked to move both the Nov 26 and Nov 27 visits onto Saturday Nov 28, suggesting 11-12 and 4-5, and closed with 'Let me know' - no answer seen in the mail as of this run.",
      "quote": "can I move the 26th & 27th visits to Both being on Saturday the 28th?"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Matt Konn private message, Sat 11:19 AM",
-     "office": true,
-     "note": "Client asks by private message for two visits, 10-12 and again 5-7, with dinner fed at the night visit, because he was invited to the Browns game. Nothing booked in Time To Pet and no reply sent as of 12:10 PM Saturday.",
-     "quote": "Can I get someone to stop by 10-12 & again 5-7? Dinner at the nite visit."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Matt Konn private message, Sat 11:20 AM",
-     "office": true,
-     "note": "Follow-up private message one minute after the visit request, specifying the request is for the following day - Sunday Nov 1.",
-     "quote": "For Tomorrow …Ha"
     },
     {
      "cat": "behavior",
@@ -5635,16 +5615,6 @@
      "quote": "If this continues, maybe a quick vet visit might be good."
     },
     {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Shannon Anderson visit report, 1:55 PM",
-     "office": false,
-     "note": "First normal stool recorded for Flacko since Thursday. On today's walk report the #2 consistency answer reads firm and healthy. Walk was the usual Lake Ave / Summit / Clifton route, he went #1 several times and #2, no accidents in the home and no supplies low. This is the sitter's observation only; no reply has gone out to Elizabeth Sigler's Thursday request for guidance on the earlier liquid diarrhea.",
-     "quote": "It was firm and healthy"
-    },
-    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -5663,16 +5633,6 @@
      "office": false,
      "note": "First behavior profile for this brand new client, written into Company Notes on Sep 15. The dog is NOT dog friendly and IS an escape risk. Listed triggers are German Shepherds or Shepherd-looking dogs, and car toppers. Allergies recorded as N/a. Treat as a solo walk and keep well clear of other dogs.",
      "quote": "Escape risk: Yes"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Oct 31",
-     "source": "Shannon Anderson message to client, 2:05 PM",
-     "office": false,
-     "note": "Sitter's answer to the client's question about Flacko's condition: she reported him as his normal self, enjoying the walk and prancing while crossing the street.",
-     "quote": "He seemed like his normal self that I usually get."
     }
    ],
    "dormant": false
