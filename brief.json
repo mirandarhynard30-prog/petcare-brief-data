@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T18:20:05-05:00",
+ "generated": "2026-11-21T19:20:06-05:00",
  "window": "Rolling history back to Aug 17, 2026",
  "clients": [
   {
@@ -3629,6 +3629,16 @@
      "office": false,
      "note": "Client asks every sitter to double-check the door is locked before leaving after Aayla's walk. She found it left unlocked on Aug 27. She raised it warmly and followed up saying she appreciates the team, so this is a standing check, not a complaint to resolve.",
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Gretchen Gipson visit report, Nov 21 midday",
+     "office": false,
+     "note": "Nov 21 midday visit, logged 12:39 PM: a stroll around the complex plus time in the dog yard, where Aayla did zoomies and played fetch. She greeted neighbors and other dogs at a distance without trouble, and went #1 and #2, firm and healthy.",
+     "quote": "Aayla was able to say hello to some neighbors and other dogs from a safe distance"
     },
     {
      "cat": "schedule",
@@ -7585,6 +7595,16 @@
      "office": false,
      "note": "Client is away on a cruise from today - she writes that they board the ship at one o'clock, and that she was glad to hear both cats were out and is missing them. No return date is given in the message, so the household should be treated as empty until the office confirms when she is back.",
      "quote": "We get on the ship at one and we’re excited!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Margaret Bill visit report, Nov 21 mid-morning",
+     "office": false,
+     "note": "Nov 21 mid-morning visit: both cats met the sitter at the door. Phil was friendly and rubbed up to her and ate right away; Abbey was out in the open, which surprised the sitter, but stayed standoffish. Both ate a little before she left and neither drank while she was there.",
+     "quote": "Abbey was still a little standoffish, but I didn't expect more today."
     },
     {
      "cat": "behavior",
