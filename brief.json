@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T12:20:10-05:00",
+ "generated": "2026-11-22T13:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -1373,6 +1373,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 22",
+     "source": "Kiara Streety visit report",
+     "office": false,
+     "note": "Bismark would not go out for a walk - stepped outside the gate, turned straight around and sat back down inside. Sitter spent the visit in the fenced back yard instead. Sitter thought he seemed low and missing his owner.",
+     "quote": "he immediately turned around like nope and came right back inside the gate and sat down"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 20",
      "source": "Elizabeth Sigler visit report, Nov 20",
      "office": false,
@@ -2616,6 +2626,16 @@
      "quote": "She did not bark at the workers that were in the garage."
     },
     {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 21",
+     "source": "Client private message",
+     "office": true,
+     "note": "Jennifer is asking to book a Thanksgiving walk at roughly 6:00; needs an answer from the office on whether that time can be covered.",
+     "quote": "I would like to schedule a Thanksgiving walk."
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -3639,6 +3659,16 @@
      "office": false,
      "note": "Client asks every sitter to double-check the door is locked before leaving after Aayla's walk. She found it left unlocked on Aug 27. She raised it warmly and followed up saying she appreciates the team, so this is a standing check, not a complaint to resolve.",
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Aayla was high energy - toy play indoors, then a loop of the complex and time in the complex dog park. Friendly with a stranger through the fence. Came in thirsty and wanted belly rubs.",
+     "quote": "She was very energetic today."
     },
     {
      "cat": "behavior",
@@ -7557,6 +7587,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Gretchen Gipson visit report",
+     "office": false,
+     "note": "Entry is through the garage; sitter closed the garage before going in and made sure it was fully closed on leaving. Also turned off any lights that were off on arrival.",
+     "quote": "We entered through the garage and closed it before going in."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -7575,6 +7615,16 @@
      "office": false,
      "note": "Same Oct 28 note update says where the shy cat hides: check the corner underneath the parents' bed.",
      "quote": "Cat hides: check in corner underneath parents' bed"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Gretchen Gipson visit report",
+     "office": false,
+     "note": "Phil meets the sitter at the door; Abbey came out for pets early in the visit but then went and hid. Fed dry food, 1/2 can wet, five treats each in their designated spots; litter boxes are downstairs.",
+     "quote": "Phil greeted us at the door, and Abbey came out for pets!"
     },
     {
      "cat": "schedule",
@@ -7774,6 +7824,16 @@
      "quote": "The pet got sick and I cleaned it up (before and after pictures included)"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 22",
+     "source": "Shannon Anderson visit report",
+     "office": false,
+     "note": "Penny gets an AM pill mixed into her breakfast food. Dose and details are in Time To Pet - follow them there.",
+     "quote": "I measured out everything and added Penny's AM pill to her food."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -7872,16 +7932,6 @@
      "office": false,
      "note": "Household and livestock tasks from the same current notes, also absent from the brief. Chickens get one apple a day from the basket hanging above the kitchen island counter, plus one scoop of meal worms and one scoop of feed; eggs go in the holder next to the fridge. Trash day is Thursday - roll the cans out to the street, then bring them back to the side of the garage on Friday; the outside cans sit next to the garage on the right side. The mailbox is on the street. Keep the TV on Bob Ross for Penny Rue, by saying 'Alexa turn on living room TV'. Three water fountains: kitchen under the shelves, living room under the TV, upstairs gaming room/office. Cleaning supplies are under the kitchen sink. Access details for this home stay in Time To Pet and are deliberately not recorded here.",
      "quote": "Trash day: Thursday roll out to street. Friday bring back in to side of garage"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 19",
-     "source": "Client message",
-     "office": true,
-     "note": "Client left on their trip the morning of Nov 19 and asked that the pets be fed at the first stop of the day, because it was too early for them to feed before leaving.",
-     "quote": "We're leaving now. It's too early to feed them, could you guys feed them at you're first stop over today?"
     }
    ],
    "dormant": false
@@ -8072,6 +8122,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Gretchen Gipson visit report",
+     "office": false,
+     "note": "Sassie was given medication on the Sun morning visit - anal gland spray plus two drops of ear meds in each ear. Sitter used harness, leash and treats to get it done and Sassie accepted it without flinching. Reported once, so confirm the schedule in Time To Pet before dosing.",
+     "quote": "I used her harness, leash and treats to apply her meds."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -8180,16 +8240,6 @@
      "office": true,
      "note": "After-hours visits have to buzz in at the building and the client warns the sitter may have to wait for a worker to answer. The client sent the entry details through Time To Pet on Nov 18-19; those details stay in Time To Pet and are deliberately not repeated here. Office needs to make sure whoever covers an after-hours shift has them.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 18",
-     "source": "Margaret Bill updated Important Notes",
-     "office": false,
-     "note": "Important Notes were updated and the medication wording is now more specific. AM visit: ear drops, given as one or two drops in both ears, plus the spray on Sassie's behind. Evening visit: spray liberally on Sassie's behind. The previous version gave no drop count and did not say \"liberally\"; nothing else about the medications changed.",
-     "quote": "Am visit: ear drops (1 or 2 drops in both ears) and spray"
     }
    ],
    "dormant": false
