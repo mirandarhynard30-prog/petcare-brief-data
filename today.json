@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T09:21:27-05:00",
+ "generated": "2026-11-23T11:50:10-05:00",
  "date": "2026-11-23",
  "label": "Nov 23, 2026",
  "clients": [
@@ -131,10 +131,10 @@
      "pets": "Sassie"
     },
     {
-     "time": "7:00 PM",
-     "sort": "1900",
-     "staff": "Gretchen Gipson",
-     "service": "Dog Visit-30 minute",
+     "time": "5:30 PM",
+     "sort": "1730",
+     "staff": "Kristin Aldridge",
+     "service": "Reassigned Visit-30 minute",
      "pets": "Sassie"
     }
    ]
