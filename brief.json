@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T05:20:05-05:00",
+ "generated": "2026-11-23T09:21:09-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -3420,6 +3420,16 @@
    ],
    "items": [
     {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 23",
+     "source": "Client private message, Nov 23 9:09 AM",
+     "office": false,
+     "note": "Client states her door has to be locked with the key. This REVERSES the arrangement in her Nov 22 message, which said the front door would be left unlocked - do not leave this door unlocked. She was replying to an office message sent Nov 23 8:21 AM; that message is not in the email, so what prompted the correction is unclear, and she does not say how the sitter is to get or use the key. Key location is not recorded here.",
+     "quote": "Thanks but my door has to be locked with the key."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -3528,16 +3538,6 @@
      "office": false,
      "note": "Muffy's leash and treats are kept in the hall closet. Leftover treats are to go back in the closet after the visit.",
      "quote": "Left over treats should be returned to the closet."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 22",
-     "source": "Client private message, 10:54 PM",
-     "office": false,
-     "note": "Client asks the sitter to work on heeling for the whole of the return walk. She does not name the dog; Muffy is the only pet named anywhere in the message.",
-     "quote": "Please see if she will heel all the time on the return walk home."
     }
    ],
    "dormant": false
