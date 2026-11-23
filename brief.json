@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T14:20:09-05:00",
+ "generated": "2026-11-23T15:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2189,6 +2189,26 @@
     "Luna"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 23",
+     "source": "Client private message, 2:08 PM",
+     "office": true,
+     "note": "Client asks by private message at 2:08 PM to drop the Saturday visits and do them on Friday instead. He does not give calendar dates, so which Saturday and Friday he means is not stated in the message - read alongside his Nov 18 request to move the Nov 26 and Nov 27 visits onto Saturday Nov 28, which this appears to amend. UNANSWERED as of 3:10 PM.",
+     "quote": "Can we stop Saturday and do on Friday instead?"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 23",
+     "source": "Client private message, 2:33 PM",
+     "office": true,
+     "note": "Follow-up private message 25 minutes after the first: the client clarifies he wants the same set of multiple visits he had booked for Saturday to run on Friday instead. He still names no dates and no times. Needs an answer from the office before the week's schedule is built.",
+     "quote": "Multiple visits on Friday like we had scheduled for Saturday"
+    },
     {
      "cat": "schedule",
      "sev": "high",
