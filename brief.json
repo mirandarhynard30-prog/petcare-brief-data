@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T09:21:09-05:00",
+ "generated": "2026-11-23T10:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -1579,6 +1579,16 @@
      "office": true,
      "note": "The 4:28 PM rewrite deleted the whole Walk Instructions section, the only line saying where to walk and that one dog goes per visit. Garage leash hand-off, the two-dogs-one-at-a-time line and the harness colours survive. The brief still carries the Spyglass Hill route from Aug 26.",
      "quote": "Walk Astra or Nova each visit, towards the Spyglass Hill housing development"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 23",
+     "source": "Client message, Nov 23 9:45 AM",
+     "office": false,
+     "note": "Client reports Astra was very excited this morning and she had to chase her around to get the lead on. Expect an excitable greeting at leash time.",
+     "quote": "She got super excited this morning and i had to chase her"
     },
     {
      "cat": "health",
