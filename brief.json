@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T18:20:05-05:00",
+ "generated": "2026-11-22T20:20:09-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -6195,6 +6195,16 @@
    ],
    "items": [
     {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Julia Rosenthal private message, 8:03pm",
+     "office": true,
+     "note": "Julia is asking for an early-evening visit, 6-8pm, because she says the gap from 2:30pm Thursday to 9am the following Friday is too long between feedings. She says that if it is not an option they will need to look for other accommodations, so this needs an answer from the office. She wrote only 'Thursday' and 'the Friday' and did not give calendar dates, so which week she means is not stated in the message.",
+     "quote": "We prefer for someone to come in the early evening 6-8pm."
+    },
+    {
      "cat": "behavior",
      "sev": "high",
      "type": "standing",
@@ -6255,7 +6265,7 @@
      "quote": "Sebastian said not today and hid under the bed per usual."
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Terri Reitmeier",
