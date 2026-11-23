@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T22:20:05-05:00",
+ "generated": "2026-11-23T05:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -151,16 +151,6 @@
      "office": false,
      "note": "Client message at 8:12 AM today: Nova refused breakfast and all snacks this morning. Terri says Nova was excited for her walk and is otherwise acting normally, and is reporting it only as a heads-up because Nova is normally strongly food-motivated. No vet contact, no medication change and no instruction to the sitter is mentioned.",
      "quote": "Nova didn’t want any breakfast or snacks this morning."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 1",
-     "source": "Service Change Requested By Terri Orengo, Nov 1 3:09 PM",
-     "office": true,
-     "note": "Client asks to move the Sat Nov 7 12:45-1:05 PM Dog Visit (20 min, fenced yard only, no feeding; assigned Shannon Anderson) to around 5 or 6 PM, because the family is not leaving home until 1:00. She also asks that the later visit feed Nova her dinner - she says all the sitter has to do is put the soft food, which they will leave on the counter, into a bowl. That turns a no-feeding service into a feeding one, so the service type and price may need changing as well as the time. Arrived as a portal service-change notice rather than a plain message, but the request above is the client's own wording, so it is logged here as a schedule item; office needs to process the change request and reconfirm staffing.",
-     "quote": "Can we change this to a later time? I didn’t realize until just now that we’re not leaving home until 1:00"
     },
     {
      "cat": "behavior",
@@ -3433,6 +3423,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 22",
+     "source": "Client private message, 10:54 PM",
+     "office": true,
+     "note": "Client asks that Julie be told she will be out at an 11:30 doctor appointment. She does not state which day, but the message was sent late on Nov 22 in reply to a Nov 22 thread, so it most likely means the next scheduled walk - office should confirm the date and pass it to Julie.",
+     "quote": "Please let Julie know that I will be at Doctor at 11:30 appointment."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 17",
      "source": "Roseann Fekete, private message to the office",
      "office": true,
@@ -3458,6 +3458,26 @@
      "office": true,
      "note": "Client replied 'yes please' to something the office had offered about today's walk, said she forgot it was walk day, is not home, the door is locked, and reads the rain as having saved her. The email does not contain what she was agreeing to, so whether today's walk is cancelled, shortened or still on is unclear from the mail alone - office should confirm.",
      "quote": "i totally forgot today is walk day and just panicked because I'm not home and door is locked"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Client private message, 10:54 PM",
+     "office": false,
+     "note": "Access and gear arrangement the client gave for that walk: the front door will be left unlocked, and the black leash with the harness and treats already attached is hanging in the hall closet. Stated for this visit only, not as a standing rule.",
+     "quote": "The black leash has her harness and treats attached and is hanging in the hall closet."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 22",
+     "source": "Client private message, 10:54 PM",
+     "office": false,
+     "note": "Client states Muffy is still on prescription food and so cannot have table food. Raised in the context of Thanksgiving, but she describes it as an ongoing restriction. No dose or brand given and none should be assumed - follow Time To Pet.",
+     "quote": "Poor Muffy is still on prescription food so she won’t be able to get table food on T-Day"
     },
     {
      "cat": "behavior",
@@ -3513,41 +3533,11 @@
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 18",
-     "source": "Dan Dantimo visit report",
+     "date": "Nov 22",
+     "source": "Client private message, 10:54 PM",
      "office": false,
-     "note": "Leash pattern on the Nov 18 walk: Muffy started out very excitable, then settled further into the walk and was listening to commands, walking by the sitter's side by the end. Dan describes it as improvement but still a work in progress. Her #2 was firm and healthy.",
-     "quote": "as we went further in our walk, she would slow it down and listen to commands"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Dan Dantimo visit report, Nov 13 12:09 PM",
-     "office": false,
-     "note": "Muffy went #1 right away and went #2 twice on today's walk; the report's consistency field reads firm and healthy.",
-     "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Dan Dantimo visit report, Nov 13 12:09 PM",
-     "office": false,
-     "note": "Access on today's visit as the sitter described it: entered through the garage door, and the garage door was fully closed before leaving.",
-     "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 21",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Muffy still pulls on leash; the harness makes a noticeable difference but pulling is an ongoing work-in-progress. She walked well on her heel around the pond.",
-     "quote": "I noticed the difference right away with the harness on but we're still working on her pulling"
+     "note": "Client asks the sitter to work on heeling for the whole of the return walk. She does not name the dog; Muffy is the only pet named anywhere in the message.",
+     "quote": "Please see if she will heel all the time on the return walk home."
     }
    ],
    "dormant": false
@@ -3749,16 +3739,6 @@
      "office": false,
      "note": "A package was waiting at the front door on Sunday; the sitter brought it in and left it on the table inside.",
      "quote": "there was a package at your front door, so we brought that in and left it on the table inside"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 1",
-     "source": "Client private message 11:31 AM Nov 1",
-     "office": true,
-     "note": "Client wrote at 11:31 AM to say she has now scheduled for November, apologising and thanking the office for a notice she had been sent. This explains the service order request that arrived at 11:05 AM and is still awaiting approval - it is deliberate, not an error, so the office can approve it. She does not say which November dates.",
-     "quote": "My apologies, thank you for the notice. I just scheduled for November"
     }
    ],
    "dormant": false
@@ -5705,7 +5685,7 @@
      "quote": "Escape risk: Yes"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Ellen Krane",
@@ -7089,26 +7069,6 @@
      "office": false,
      "note": "For today's visit only: the client says a family member will be in the house until about 11:30, knows the sitter is coming, and will most likely stay in a bedroom. Normally nobody is home at visit time, so expect someone inside and do not treat it as an intruder.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 1",
-     "source": "Client message, Nov 1 10:18 AM",
-     "office": false,
-     "note": "Client reports Bruno got into the trash around 3:30 AM on Nov 1 and ate half a pack of hotdogs that had expired a few days earlier. She warns of possible GI upset. No vet contact and no instructions given - watch for vomiting or loose stool and report it.",
-     "quote": "Bruno got into the trash and ate half a pack of hotdogs that expired a few days ago"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 1",
-     "source": "Josh Stone visit report, Nov 1 1:30 PM",
-     "office": false,
-     "note": "Nov 1 early-afternoon visit: both dogs were unusually low energy, so the sitter shortened the walk and then sat with them on the front porch. Both went #1; neither went #2, and a second opportunity was offered. Both ate a treat. The client had messaged earlier that she had walked them herself before leaving, which the report does not connect to the low energy either way.",
-     "quote": "They were actually pretty low energy so we went on a shorter walk"
     },
     {
      "cat": "behavior",
