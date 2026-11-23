@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T11:20:06-05:00",
+ "generated": "2026-11-23T12:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -3493,6 +3493,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 23",
+     "source": "Julie Smith visit report, 11:52 AM",
+     "office": true,
+     "note": "Julie could not find anywhere to put the waste bag - she checked the garage and the patio and found no garbage can - so she left the bag on the porch and photographed it. Sitters need to be told where waste goes at this house.",
+     "quote": "could not find the place to throw away the poop bag. So I left it on the porch."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 23",
+     "source": "Julie Smith visit report, 11:52 AM",
+     "office": false,
+     "note": "Julie reports Muffy pulls with excitement but that the harness stops her choking herself, and that she pulled less by the end of the walk after working on heel with treats. This disagrees with the Nov 13 report, which said Muffy walked better without the harness; the two reports are from different sitters and neither states which arrangement is the current one.",
+     "quote": "the harness definitely makes a difference so she’s not choking herself"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 22",
      "source": "Client private message, 10:54 PM",
      "office": false,
@@ -3538,26 +3558,6 @@
      "office": false,
      "note": "Muffy barks hard at the window until she recognises the sitter, then settles. She pulls the whole walk and is hard to hold. She barked and pulled toward a dog that came out with its owner and could not be redirected while the sitter bagged waste.",
      "quote": "but definitely still pulls a lot when walking."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Client message 5:53pm",
-     "office": false,
-     "note": "Muffy counter-surfs. Roseann says she jumps onto the countertop easily and regularly checks it and the rest of the house for anything edible left out, and adds that she herself does not always remember to put things away.",
-     "quote": "Muffy is an expert countertop surfer, easily jumping up onto it and regularly checks it and the entire house"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Client message 5:53pm",
-     "office": false,
-     "note": "Muffy's leash and treats are kept in the hall closet. Leftover treats are to go back in the closet after the visit.",
-     "quote": "Left over treats should be returned to the closet."
     }
    ],
    "dormant": false
@@ -6849,6 +6849,16 @@
      "quote": "Her first #2 was solid, but the next few were a bit runny."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 23",
+     "source": "Client message, 11:57 AM",
+     "office": false,
+     "note": "Client gives her own signal for whether she is home: if the front door is closed, she is not home. Julie replied that she had not seen this in the client notes, so it does not appear to be recorded in Time To Pet yet.",
+     "quote": "Clue: if front door is closed I am not home."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -6881,6 +6891,16 @@
     {
      "cat": "behavior",
      "sev": "low",
+     "type": "standing",
+     "date": "Nov 23",
+     "source": "Client message, 11:57 AM",
+     "office": false,
+     "note": "Client says Boo loves scratchies, attention and walking. She also described Boo trying to play with a butterfly near the front porch the day before.",
+     "quote": "Boo loves scratchies and attention. Also walking."
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
      "type": "recent",
      "date": "Nov 16",
      "source": "Julie Smith visit report, Nov 16 late-morning walk",
@@ -6897,26 +6917,6 @@
      "office": false,
      "note": "Despite the stool trouble Boo was keen to be out - ready to go on arrival, stopped to sniff a patch of grass she liked by the cul de sac, and the sitter rated the walk as going as planned. Treat given at the end.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 9",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Boo was startled on arrival on Nov 9 and the sitter's own explanation is that he parked on the street so she could not see his car; she settled as soon as she saw him. One visit only, and it is the sitter's guess rather than something the client stated.",
-     "quote": "I parked on the street and she didn't see my car"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 2",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Boo went #2 twice on the late-morning walk; sitter recorded the consistency as slightly loose but not concerning. Single observation, not a pattern. Client was home during the visit.",
-     "quote": "It was a little loose but not concerning"
     }
    ],
    "dormant": false
@@ -8821,6 +8821,24 @@
      "office": true,
      "note": "Asking by private message whether anyone is available Dec 3-6: 2 walks on the 3rd, 3 on the 4th and 5th, 2 walks on the 6th. Not yet answered or booked as of this run.",
      "quote": "Do you have anyone available to watch my dog from December 3rd - December 6th?"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Alison Cushing",
+   "url": "https://www.timetopet.com/dashboard/client/t2sowplK4i2B",
+   "pets": [],
+   "items": [
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 23",
+     "source": "Client private message, 11:35 AM",
+     "office": true,
+     "note": "Client replied that she can have something ready to be picked up this afternoon or tomorrow morning, and noted there is a cut-off later in the evening. Needs the office to arrange the pickup; the message itself does not say what the item is.",
+     "quote": "I could have it ready to be picked up this afternoon or tomorrow morning"
     }
    ],
    "dormant": false
