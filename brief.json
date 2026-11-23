@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T13:20:09-05:00",
+ "generated": "2026-11-23T14:20:09-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -7845,6 +7845,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 23",
+     "source": "Julie Smith visit report, Nov 23 afternoon",
+     "office": true,
+     "note": "Bean could not be found on the Nov 23 afternoon visit. Julie checked his usual spot behind the couch, looked under the bed and went through the rest of the house without spotting him. The owners are away on vacation.",
+     "quote": "I looked all around the house but couldn’t spot him."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -7953,16 +7963,6 @@
      "office": false,
      "note": "Cat and litter-box care from the current Important Notes, none of which the brief carries. Cats are fed once daily at the evening visit, one scoop each, bowls on the kitchen table and on the living room coffee table. Cat food containers are under the plant table in the kitchen, marked per cat. Stash gets one lickable Purrly treat at the bedtime visit only - the Nov 20 edit added the Purrly brand to a line that previously just said lickable treat. Three litter boxes: master bedroom bathroom, laundry room, and the upstairs gaming room/office; scoop and flush, the litter is flushable. Cat hiding spots are behind the couch and under the bed.",
      "quote": "Stash gets 1 lickable (Purrly) treat at the bedtime visit only"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 20",
-     "source": "Important Notes and Company Notes as of the last Nov 20 edit, 5:01 PM",
-     "office": false,
-     "note": "Household and livestock tasks from the same current notes, also absent from the brief. Chickens get one apple a day from the basket hanging above the kitchen island counter, plus one scoop of meal worms and one scoop of feed; eggs go in the holder next to the fridge. Trash day is Thursday - roll the cans out to the street, then bring them back to the side of the garage on Friday; the outside cans sit next to the garage on the right side. The mailbox is on the street. Keep the TV on Bob Ross for Penny Rue, by saying 'Alexa turn on living room TV'. Three water fountains: kitchen under the shelves, living room under the TV, upstairs gaming room/office. Cleaning supplies are under the kitchen sink. Access details for this home stay in Time To Pet and are deliberately not recorded here.",
-     "quote": "Trash day: Thursday roll out to street. Friday bring back in to side of garage"
     }
    ],
    "dormant": false
@@ -8177,6 +8177,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Nov 23",
+     "source": "Client private message, Nov 23 2:08pm",
+     "office": true,
+     "note": "Client's reply on Nov 23: the spray can be stopped, and the ear care continues as ongoing/routine. She does not name which spray or give a date, so the Pet Care Note needs checking against this.",
+     "quote": "You can end the spray. The ears are ongoing/routine. Thanks"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Nov 22",
      "source": "Gretchen Gipson visit report",
@@ -8283,16 +8293,6 @@
      "office": false,
      "note": "The trigger list in the same note now includes dogs. It previously read squirrels, cats and unknown people only, so dog reactivity is now a standing rule in the record rather than a single sitter observation. Sassie is already flagged an escape risk.",
      "quote": "Triggers: squirrels, cats, unknown people, dogs"
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 18",
-     "source": "Private message",
-     "office": true,
-     "note": "After-hours visits have to buzz in at the building and the client warns the sitter may have to wait for a worker to answer. The client sent the entry details through Time To Pet on Nov 18-19; those details stay in Time To Pet and are deliberately not repeated here. Office needs to make sure whoever covers an after-hours shift has them.",
-     "quote": ""
     }
    ],
    "dormant": false
