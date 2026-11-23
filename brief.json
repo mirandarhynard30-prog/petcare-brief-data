@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T15:20:06-05:00",
+ "generated": "2026-11-23T18:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -8208,6 +8208,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 23",
+     "source": "Kristin Aldridge visit report, 6:00pm",
+     "office": true,
+     "note": "Kristin checked Sassie's meds at the evening visit. The spray label read 7-10 days from November 7, and the ear drops carried no discontinue date. End date for the ear drops is unclear from the labels.",
+     "quote": "I checked her meds and the spray said 7-10 days from November 7th, but the ear drops didn't have a discontinue date."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 22",
      "source": "Gretchen Gipson visit report",
      "office": false,
@@ -8303,16 +8313,6 @@
      "office": false,
      "note": "Sassie's Important Notes were rewritten with the medication detail the record was missing until now: AM visit is ear drops, 1 or 2 drops in both ears, plus the spray on her behind; evening visit is the spray applied liberally. Previously the same note said only 'ear drops and spray' with no dose and no amount. This is what Time To Pet now carries, so sitters have a written ear-drop instruction for the first time.",
      "quote": "MEDS: Am visit: ear drops (1 or 2 drops in both ears) and spray (spray on Sassie's behind)"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 18",
-     "source": "Margaret Bill updated contact information for Joan- Gina Sullivan (Manages Account), 10:02 AM",
-     "office": false,
-     "note": "The trigger list in the same note now includes dogs. It previously read squirrels, cats and unknown people only, so dog reactivity is now a standing rule in the record rather than a single sitter observation. Sassie is already flagged an escape risk.",
-     "quote": "Triggers: squirrels, cats, unknown people, dogs"
     }
    ],
    "dormant": false
