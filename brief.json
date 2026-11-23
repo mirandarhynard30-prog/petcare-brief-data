@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T10:20:05-05:00",
+ "generated": "2026-11-23T11:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -532,10 +532,10 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 20",
-     "source": "Chelsea Tompkins visit report",
+     "date": "Nov 23",
+     "source": "Kathy Pastor visit report",
      "office": false,
-     "note": "Chelsea Tompkins logged Gordy's stool on the Nov 20 morning walk as a little loose but not concerning. He went #2 three times on that walk.",
+     "note": "Gordy went #2 twice; the report's consistency field was marked a little loose. Kathy judged it not concerning and the rest of the visit was normal.",
      "quote": "It was a little loose but not concerning"
     }
    ],
@@ -1589,6 +1589,16 @@
      "office": false,
      "note": "Client reports Astra was very excited this morning and she had to chase her around to get the lead on. Expect an excitable greeting at leash time.",
      "quote": "She got super excited this morning and i had to chase her"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 23",
+     "source": "client message",
+     "office": false,
+     "note": "Jessica wrote that the dog got excited and had to be chased down before the lead could go on. She does not name which pup; the visit that morning was for Astra, so allow extra time at leash-up.",
+     "quote": "She got super excited this morning and i had to chase her around to put her lead on."
     },
     {
      "cat": "health",
@@ -6829,6 +6839,16 @@
      "quote": "she had a small amount of diarrhea and struggled to do number two the entire walk"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 23",
+     "source": "Julie Smith visit report",
+     "office": false,
+     "note": "Julie reported Boo's first #2 was solid and the next few were loose; one stuck to her fur and Julie cleaned her up. The report's consistency field for the same visit says firm and healthy, so the two parts of the report disagree - treat the written note as the detail.",
+     "quote": "Her first #2 was solid, but the next few were a bit runny."
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -7583,9 +7603,20 @@
    "url": "https://www.timetopet.com/dashboard/client/tm6topvI8Ml0",
    "pets": [
     "Phil",
-    "Abbey"
+    "Abbey",
+    "Abby"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 23",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Margaret noted Abby is eating less than Phil but is still eating, and left photos of the food and amounts eaten. Worth watching Abby's intake on following visits. Her name is spelled both Abby and Abbey in the same report.",
+     "quote": "Obviously Abby is not eating as much as Phil, but she is eating."
+    },
     {
      "cat": "home",
      "sev": "medium",
