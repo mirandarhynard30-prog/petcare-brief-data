@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T00:05:06-05:00",
+ "generated": "2026-11-23T09:21:27-05:00",
  "date": "2026-11-23",
  "label": "Nov 23, 2026",
  "clients": [
@@ -146,14 +146,7 @@
      "time": "10:45 AM",
      "sort": "1045",
      "staff": "Margaret Bill",
-     "service": "Trainer Visit-30minute",
-     "pets": "Murphy"
-    },
-    {
-     "time": "10:45 AM",
-     "sort": "1045",
-     "staff": "Gretchen Gipson",
-     "service": "Shadow Visit with Staff Member-30 minute",
+     "service": "Dog Visit-30 minute",
      "pets": "Murphy"
     }
    ]
@@ -189,14 +182,7 @@
      "time": "10:00 AM",
      "sort": "1000",
      "staff": "Margaret Bill",
-     "service": "Trainer Visit-20 minute",
-     "pets": "Abbey, Phil"
-    },
-    {
-     "time": "10:00 AM",
-     "sort": "1000",
-     "staff": "Gretchen Gipson",
-     "service": "Shadow Visit with Staff Member-20 minute",
+     "service": "Cat Visit-20 Minutes",
      "pets": "Abbey, Phil"
     }
    ]
@@ -227,14 +213,7 @@
      "time": "11:45 AM",
      "sort": "1145",
      "staff": "Margaret Bill",
-     "service": "Trainer Visit-30minute",
-     "pets": "Puck, Rusty"
-    },
-    {
-     "time": "11:45 AM",
-     "sort": "1145",
-     "staff": "Gretchen Gipson",
-     "service": "Shadow Visit with Staff Member-30 minute",
+     "service": "Dog Visit-30 minute",
      "pets": "Puck, Rusty"
     }
    ]
@@ -355,5 +334,5 @@
    ]
   }
  ],
- "visitCount": 33
+ "visitCount": 30
 }
