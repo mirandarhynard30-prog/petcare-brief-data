@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T15:20:06-05:00",
+ "generated": "2026-11-24T16:20:07-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -3680,6 +3680,16 @@
     "Aayla"
    ],
    "items": [
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Client private message, 3:41 PM",
+     "office": true,
+     "note": "Client no longer needs the one-time extra visit for Aayla - she found someone else to let her out. She had messaged at 2:40 PM that she could not get home, and a service order request was placed at 2:31 PM; that request is most likely still sitting unapproved and should be declined so nobody is dispatched or billed. She did not say which date or time slot the request covered.",
+     "quote": "I found someone to come let her out this one time so I will not need anyone now"
+    },
     {
      "cat": "schedule",
      "sev": "high",
