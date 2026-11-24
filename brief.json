@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:20:07-05:00",
+ "generated": "2026-11-24T13:20:07-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -4212,6 +4212,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 24",
+     "source": "Dan Dantimo visit report",
+     "office": false,
+     "note": "Jaxson tried to pick up trash the collection crew had dropped in the neighborhood; sitter kept a close eye on him and discouraged it, and he settled later in the walk. Worth watching on trash-collection days.",
+     "quote": "he was a devil today trying to pick up any trash the trash guys left on the ground"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 20",
      "source": "Dan Dantimo visit report",
      "office": false,
@@ -4247,16 +4257,6 @@
      "office": false,
      "note": "A fertilizer contractor was treating the yard when the sitter arrived this morning, so there was no backyard time at all - Jax was walked around the block instead. The report does not say how long the yard should be avoided.",
      "quote": "arrived at the house the fertilizer guy was doing the yard, so definitely no backyard time today"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 19",
-     "source": "Visit report, Thomas Rakovec 11:43 AM",
-     "office": false,
-     "note": "A lawn-fertilizer crew was treating the yard when the sitter arrived on Nov 19, so there was no backyard time at all that visit; the sitter walked Jax around the block instead. Worth knowing for the next visit or two in case the treatment is still fresh.",
-     "quote": "the fertilizer guy was doing the yard, so definitely no backyard time today"
     }
    ],
    "dormant": false
