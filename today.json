@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:36:22-05:00",
+ "generated": "2026-11-24T13:50:07-05:00",
  "date": "2026-11-24",
  "label": "Nov 24, 2026",
  "clients": [
@@ -324,25 +324,6 @@
    ]
   },
   {
-   "name": "Test Visit 2",
-   "visits": [
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Grace Keeler",
-     "service": "Dog Visit-30 minute",
-     "pets": "Axel, Hazel"
-    },
-    {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Miranda",
-     "service": "Dog Visit-30 minute",
-     "pets": "Axel, Hazel"
-    }
-   ]
-  },
-  {
    "name": "Tracy Martin",
    "visits": [
     {
@@ -355,5 +336,5 @@
    ]
   }
  ],
- "visitCount": 33
+ "visitCount": 31
 }
