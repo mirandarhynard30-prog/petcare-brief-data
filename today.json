@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T11:20:15-05:00",
+ "generated": "2026-11-24T12:36:22-05:00",
  "date": "2026-11-24",
  "label": "Nov 24, 2026",
  "clients": [
@@ -337,7 +337,7 @@
      "time": "12:00 PM",
      "sort": "1200",
      "staff": "Miranda",
-     "service": "Trainer Visit-30minute",
+     "service": "Dog Visit-30 minute",
      "pets": "Axel, Hazel"
     }
    ]
