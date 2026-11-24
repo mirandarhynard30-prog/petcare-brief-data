@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T11:20:06-05:00",
+ "generated": "2026-11-24T12:20:07-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -8879,6 +8879,26 @@
      "office": true,
      "note": "OFFICE: the client offered a pickup window on Nov 23 - that afternoon or the following morning - and said the place locks after 10 PM. The email does not say what the item is, so somebody has to check the conversation in Time To Pet. Both windows she offered have now passed with no reply visible in the mail.",
      "quote": "I could have it ready to be picked up this afternoon or tomorrow morning! It does lock after 10 PM"
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Carolyn Bloch",
+   "url": "https://www.timetopet.com/dashboard/client/toz97idgUasW",
+   "pets": [
+    "Missy"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Time To Pet client profile update",
+     "office": true,
+     "note": "Client filled in her own profile today and added a pet named Missy to the account. Looks like new-client setup rather than a change to an existing booking - worth confirming services, rates and whether a meet and greet is needed. Her name is now spelled Bloch (was Block in the system).",
+     "quote": ""
     }
    ],
    "dormant": false
