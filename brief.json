@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T18:20:06-05:00",
+ "generated": "2026-11-23T19:20:07-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -7216,6 +7216,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 23",
+     "source": "Karen Grosser message, 6:12 PM",
+     "office": true,
+     "note": "Karen was called into work for tomorrow, Tuesday Nov 24, and is asking whether anyone is available. She says she is working 3-8 and that she scheduled a time herself, which she thinks was 5-8; she adds that coming earlier is fine and that she understands if nobody can make it. The window is her own uncertain recollection - she wrote 'I think' - so confirm it against the schedule rather than relying on the 5-8.",
+     "quote": "I was called into work tomorrow and if anyone is available, I scheduled a time."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 17",
      "office": true,
      "source": "Client message, Nov 17 1:31 PM",
@@ -7321,16 +7331,6 @@
      "office": true,
      "note": "Lockbox access is fixed. The client says the locksmith had entered the code incorrectly, came back out and reset it, and that whoever comes on Sunday Nov 8 will have the keys. This supersedes the Nov 6 and Nov 7 notes saying the lockbox was failing and that she could not reach the locksmith. The new code is deliberately NOT recorded here - it is in her Time To Pet private message and belongs in her Pet Care Note. OFFICE: update the access record and tell the assigned sitter the box is working again before the visit.",
      "quote": "Thanks Miranda, but it's fixed now."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Client private message, Nov 7 8:46 PM ET",
-     "office": true,
-     "note": "The client is now writing as though a visit is happening tomorrow, Sunday Nov 8, which is the morning slot she asked for after cancelling Saturday. No reply or confirmation from the office appears anywhere in the mail, so it is unclear whether that Sunday visit is actually on the schedule and assigned. Confirm before Sunday morning.",
-     "quote": "So whomever is coming tomorrow will have the keys."
     }
    ],
    "dormant": false
