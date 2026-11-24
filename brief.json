@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T09:20:07-05:00",
+ "generated": "2026-11-24T10:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2779,6 +2779,16 @@
      "quote": ""
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 24",
+     "source": "Client message",
+     "office": false,
+     "note": "Do not put dog waste bags in the kitchen trash can. Leave them next to the garage until he gets a trash can out there.",
+     "quote": "Please don’t throw the dog poop bags in the kitchen trash can."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -2837,16 +2847,6 @@
      "office": false,
      "note": "At the new address: Milo is crated on the first floor, Archer is still free roaming. Client stated this as the ongoing arrangement, not a one-off.",
      "quote": "Milo will be in his crate on the first floor, and Archer will still be free roaming."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Visit report from Kiara Streety",
-     "office": false,
-     "note": "On today's midday visit Milo urinated but did not pass a stool, even after the sitter kept him out longer to try. Archer went both. Worth watching on the next visit.",
-     "quote": "stayed out a little bit longer for Milo to see if he got to bathroom he never went number 2!"
     }
    ],
    "dormant": false
@@ -3492,6 +3492,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 24",
+     "source": "Client private message",
+     "office": false,
+     "note": "Waste disposal, now specified: she has no outdoor or garage trash can, and she wants the waste bag left in the garage on the floor in front of the tall white cabinet. She said she will put a trash bag there for it.",
+     "quote": "I want it to go in the garage on the floor in front of the tall white cabinet."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 23",
      "source": "Julie Smith visit report, 11:52 AM",
@@ -3548,16 +3558,6 @@
      "office": false,
      "note": "Client states Muffy is still on prescription food and so cannot have table food. Raised in the context of Thanksgiving, but she describes it as an ongoing restriction. No dose or brand given and none should be assumed - follow Time To Pet.",
      "quote": "Poor Muffy is still on prescription food so she won’t be able to get table food on T-Day"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Dan Dantimo visit report, Nov 13 12:09 PM",
-     "office": false,
-     "note": "Muffy walked better WITHOUT the harness on today's late-morning walk - the sitter says she had been too anxious waiting for him to put it on. She also worked the heel command well and was better behaved than on previous visits. Single observation, and it cuts against the standing note that the harness makes a noticeable difference to her pulling.",
-     "quote": "She walked better today too even without the harness"
     }
    ],
    "dormant": false
