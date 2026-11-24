@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T06:20:09-05:00",
+ "generated": "2026-11-24T07:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -6193,6 +6193,16 @@
      "office": true,
      "note": "Julia is asking for an early-evening visit, 6-8pm, because she says the gap from 2:30pm Thursday to 9am the following Friday is too long between feedings. She says that if it is not an option they will need to look for other accommodations, so this needs an answer from the office. She wrote only 'Thursday' and 'the Friday' and did not give calendar dates, so which week she means is not stated in the message.",
      "quote": "We prefer for someone to come in the early evening 6-8pm."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 22",
+     "source": "Julia Rosenthal private message, 8:17 PM",
+     "office": true,
+     "note": "Follow-up sent 14 minutes after her 6-8pm request the same evening: Julia says a visit later than 8pm on Thursday would be acceptable too, and thanks the office for the availability and flexibility. That widens the window the office has to work with and reads as the other-accommodations threat being withdrawn. She still gives no calendar dates - she wrote only 'Thursday' - and nothing in the mail shows the visit has actually been booked, so the office still has to confirm the date with her and put it on the schedule.",
+     "quote": "If it’s later than 8pm on Thursday that’s ok too."
     },
     {
      "cat": "behavior",
