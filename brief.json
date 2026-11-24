@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T07:20:06-05:00",
+ "generated": "2026-11-24T09:20:07-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -3522,6 +3522,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 23",
+     "source": "Client private message",
+     "office": false,
+     "note": "Waste disposal: there is no outdoor or garage trash can. The client keeps plastic grocery bags in the garage - put the waste bags into one of those and leave it there until trash day.",
+     "quote": "I just keep some plastic grocery bags in the garage and put the poopie bags in one of them until trash day."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 22",
      "source": "Client private message, 10:54 PM",
@@ -3548,16 +3558,6 @@
      "office": false,
      "note": "Muffy walked better WITHOUT the harness on today's late-morning walk - the sitter says she had been too anxious waiting for him to put it on. She also worked the heel command well and was better behaved than on previous visits. Single observation, and it cuts against the standing note that the harness makes a noticeable difference to her pulling.",
      "quote": "She walked better today too even without the harness"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Client message (text) 3:49 PM",
-     "office": true,
-     "note": "Client wrote at 3:49 PM that she is home now and gave her preference for the make-up walk: Friday would suit her best, and any day except Tuesday works. Nothing in the mail shows a day has been picked or booked yet, so the office still has to choose one and put it on the schedule.",
-     "quote": "Hi, just got home. Friday would be nice, but any day except Tuesday is good."
     }
    ],
    "dormant": false
@@ -8839,6 +8839,16 @@
      "office": true,
      "note": "Client replied that she can have something ready to be picked up this afternoon or tomorrow morning, and noted there is a cut-off later in the evening. Needs the office to arrange the pickup; the message itself does not say what the item is.",
      "quote": "I could have it ready to be picked up this afternoon or tomorrow morning"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 23",
+     "source": "Client private message",
+     "office": true,
+     "note": "OFFICE: the client offered a pickup window on Nov 23 - that afternoon or the following morning - and said the place locks after 10 PM. The email does not say what the item is, so somebody has to check the conversation in Time To Pet. Both windows she offered have now passed with no reply visible in the mail.",
+     "quote": "I could have it ready to be picked up this afternoon or tomorrow morning! It does lock after 10 PM"
     }
    ],
    "dormant": false
