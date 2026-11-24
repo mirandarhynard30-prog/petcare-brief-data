@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T22:20:05-05:00",
+ "generated": "2026-11-24T05:20:13-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -633,16 +633,6 @@
     {
      "cat": "schedule",
      "sev": "high",
-     "type": "recent",
-     "date": "Nov 2",
-     "source": "Terry M private message, 9:57 AM",
-     "office": true,
-     "note": "Client asks that his Wednesday visit this week (Wed Nov 4) be removed from the schedule - he confirmed with his employer he will be working remotely that day. Needs cancelling in Time To Pet; no reply sent yet.",
-     "quote": "I just confirmed with my boss that Wednesday I will be working remotely this week. Please remove Wednesday for the schedule."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
      "type": "standing",
      "date": "Oct 26",
      "source": "Client private message, Oct 26 1:22 PM",
@@ -925,13 +915,13 @@
     },
     {
      "cat": "health",
-     "sev": "low",
+     "sev": "medium",
      "type": "recent",
-     "date": "Nov 20",
-     "source": "Visit report",
+     "date": "Nov 23",
+     "source": "Elizabeth Sigler visit report",
      "office": false,
-     "note": "On the midday visit Chloe did not want to walk much and kept sneezing; the sitter put the sneezing down to the leaves. No #2 on that visit.",
-     "quote": "Chloe didn't really want to walk a lot and kept sneezing because of the leaves"
+     "note": "A marked change from the recent run of concerning reports for Chloe. She had a lot of energy, walked a long route out to Fairmount, back past the house and down to Nottinghill, went both #1 and #2, and the consistency field was answered firm and healthy. No wheezing, limp or cut-short walk is mentioned anywhere in this report.",
+     "quote": "She seemed like she had a lot of energy today! It was awesome!"
     }
    ],
    "dormant": false
@@ -3430,16 +3420,6 @@
      "quote": "Tommy going to a friends just go in. Thanks"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 2",
-     "source": "Dan Dantimo visit report",
-     "office": false,
-     "note": "Guinness balked at going out at the start of the 12:40 PM walk and wanted to stay inside with his owner, who was home. He walked a little once leashed, then got going after seeing another dog out with a walker and getting a treat. Walked well after that and went #1 and #2 a couple of times toward the Commons.",
-     "quote": "a very strange Guinness when I arrived today not wanting to go outside and just stay with mom"
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -3532,6 +3512,16 @@
     {
      "cat": "home",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 23",
+     "source": "Client private message",
+     "office": false,
+     "note": "Client answers the open question about where the waste bag goes: she has no outdoor or garage trash can. She keeps plastic grocery bags in the garage and puts the poop bags into one of those until trash day. This answers Julie's Nov 23 report that she checked the garage and patio and found no bin.",
+     "quote": "I don’t have an outdoor or garage trash can."
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 22",
      "source": "Client private message, 10:54 PM",
@@ -3568,16 +3558,6 @@
      "office": true,
      "note": "Client wrote at 3:49 PM that she is home now and gave her preference for the make-up walk: Friday would suit her best, and any day except Tuesday works. Nothing in the mail shows a day has been picked or booked yet, so the office still has to choose one and put it on the schedule.",
      "quote": "Hi, just got home. Friday would be nice, but any day except Tuesday is good."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 7",
-     "source": "Julie Smith visit report, Oct 7 5:03pm",
-     "office": false,
-     "note": "Muffy barks hard at the window until she recognises the sitter, then settles. She pulls the whole walk and is hard to hold. She barked and pulled toward a dog that came out with its owner and could not be redirected while the sitter bagged waste.",
-     "quote": "but definitely still pulls a lot when walking."
     }
    ],
    "dormant": false
@@ -3859,16 +3839,6 @@
      "office": false,
      "note": "Murphy went #1 but not #2 on this walk. The sitter took a slightly different route so he would not get bored.",
      "quote": "Murphy went number one but not number two."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 2",
-     "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "Murphy went #1 but no #2 on the 11:10am walk. Sitter judged he was comfortable and the walk went at a good pace. Single observation, not a pattern.",
-     "quote": "Murphy did not go number two today, however I don't think it bothered him."
     }
    ],
    "dormant": false
@@ -6808,7 +6778,7 @@
      "quote": "We also took the trash out for you but we think you are out of trash bags."
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Joan (Lynn) Stemmer",
@@ -7875,6 +7845,16 @@
      "quote": "I looked all around the house but couldn’t spot him."
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 23",
+     "source": "Shannon Anderson evening visit report",
+     "office": false,
+     "note": "Bean WAS found on the Nov 23 evening visit - the sitter reports finding him in his corner behind the couch. This resolves the Nov 23 afternoon report in which Bean could not be found.",
+     "quote": "I did find Bean in his corner behind the couch."
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -7973,16 +7953,6 @@
      "office": false,
      "note": "Client says the white bin on top of the counter in the upstairs room holds salmon and other cat treats and Stash may have any of them - but the bags must go into a cabinet or drawer before the sitter leaves, or he chews through them. Read with the one-tube-a-day limit above.",
      "quote": "You'd just have to put those bags in a cabinet or drawer when you leave or he'll eat through the bag"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 20",
-     "source": "Important Notes as of the last Nov 20 edit, 5:01 PM",
-     "office": false,
-     "note": "Cat and litter-box care from the current Important Notes, none of which the brief carries. Cats are fed once daily at the evening visit, one scoop each, bowls on the kitchen table and on the living room coffee table. Cat food containers are under the plant table in the kitchen, marked per cat. Stash gets one lickable Purrly treat at the bedtime visit only - the Nov 20 edit added the Purrly brand to a line that previously just said lickable treat. Three litter boxes: master bedroom bathroom, laundry room, and the upstairs gaming room/office; scoop and flush, the litter is flushable. Cat hiding spots are behind the couch and under the bed.",
-     "quote": "Stash gets 1 lickable (Purrly) treat at the bedtime visit only"
     }
    ],
    "dormant": false
@@ -8217,6 +8187,36 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Nov 23",
+     "source": "Client private message, afternoon",
+     "office": false,
+     "note": "Client says the spray can be stopped, and that the ears are ongoing and routine. The message names no product and gives no dose.",
+     "quote": "You can end the spray. The ears are ongoing/routine."
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 23",
+     "source": "Client private message, late morning",
+     "office": true,
+     "note": "Client relays that her mother visits her father on Mondays around 1, so Mom will not be there for Sassie's Monday visit. The client states this as a recurring Monday pattern rather than a one-off.",
+     "quote": "Also Mom visits my Dad on Mondays around 1."
+    },
+    {
+     "cat": "home",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 23",
+     "source": "Client private message, late morning",
+     "office": false,
+     "note": "Access for the Monday visit while Mom is out: the client says the door should be unlocked so the sitter can take Sassie out, and that if it is not, the sitter can ask someone to open it. No code or key location was given in the message.",
+     "quote": "the door should be unlocked to take Sassie out. If not you can ask someone to open it."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Nov 22",
      "source": "Gretchen Gipson visit report",
@@ -8283,36 +8283,6 @@
      "office": true,
      "note": "Visit report states the sitter put Sassie's ear drops in and applied the spray on her behind. Office should confirm staff are cleared to give the ear drops.",
      "quote": "Then i put her ear drops in her ear, and then i put the spray on her behind."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 20",
-     "source": "Private message from the account manager, 5:43 PM",
-     "office": true,
-     "note": "The account manager says by private message at 5:43 PM that they can also cover the evening shift on Nov 25. Read alongside her Nov 17 message - which said every Thanksgiving-week shift is wanted except Thanksgiving evening, which the family covers - this most likely means no sitter is needed for the Nov 25 evening visit either. She does not say that outright, so the office should confirm before anything is removed from the schedule. Nov 25 is five days out.",
-     "quote": "We can also do the evening shift on 11/25."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 20",
-     "source": "Gretchen Gipson visit report, Nov 20 7:28 PM",
-     "office": true,
-     "note": "On the Nov 20 evening visit the sitter gave two drops in each ear and the spray, and describes the spray as being for Sassie's anal glands - more specific than the care note's 'spray on Sassie's behind'. The client was home for this visit. This is a third sitter administering the ear drops while the account manager's Nov 11 question about whether Petcare Deluxe may give them still has no answer anywhere in the mail.",
-     "quote": "I was able to give her two drops of her medicine in each ear and her spray medicine for her anal glands"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 18",
-     "source": "Margaret Bill updated contact information for Joan- Gina Sullivan (Manages Account), 10:02 AM",
-     "office": false,
-     "note": "Sassie's Important Notes were rewritten with the medication detail the record was missing until now: AM visit is ear drops, 1 or 2 drops in both ears, plus the spray on her behind; evening visit is the spray applied liberally. Previously the same note said only 'ear drops and spray' with no dose and no amount. This is what Time To Pet now carries, so sitters have a written ear-drop instruction for the first time.",
-     "quote": "MEDS: Am visit: ear drops (1 or 2 drops in both ears) and spray (spray on Sassie's behind)"
     }
    ],
    "dormant": false
