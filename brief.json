@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:20:07-05:00",
+ "generated": "2026-11-24T14:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -8470,6 +8470,16 @@
     "Ruri"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Noella Assi visit report",
+     "office": false,
+     "note": "Ruri pulls on leash. On this visit Monica suggested walking to a nearby park with a gate in the fence so Ruri can run freely; Merlin and Suzaiko walked politely. Sitter was shadowing Monica, so this is one visit's suggestion rather than a confirmed standing rule.",
+     "quote": "Baby Ruri does pull on her walk"
+    },
     {
      "cat": "home",
      "sev": "medium",
