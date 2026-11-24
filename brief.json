@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T10:20:05-05:00",
+ "generated": "2026-11-24T11:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -1539,6 +1539,16 @@
      "office": false,
      "note": "Client spells out the difference between the two dogs if one gets loose: Nova comes back when called, Astra bolts. She says the dogs have halo collars for this but they were on charge the last time Astra got out. She agrees to a garage hand-off going forward, so sitters should take and return the dogs through the garage rather than the front door.",
      "quote": "nova comes straight back when called, but astra will bolt"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Kristin Ashick visit report",
+     "office": false,
+     "note": "On this morning's walk Astra's #2 was logged as very loose/diarrhea, with the sitter noting the pet seemed fine otherwise. The written part of the report describes a normal good walk with a little excitement pulling and no other concerns, so this is the stool consistency field only.",
+     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
     },
     {
      "cat": "home",
@@ -3288,6 +3298,16 @@
      "office": true,
      "note": "Ray wrote in to ask that the office NOT take his current walker off Archie's walks - he says Archie and he are both comfortable with him and neither likes change. He names the walker as 'Tommy'; the sitter currently walking Archie in these reports is Thomas Rakovec, so that is almost certainly who he means, but the email does not spell the name out. Office should treat this as a staffing instruction and confirm back to him.",
      "quote": "I would not like you to keep Tommy from walking Archie. Archie and I don’t like change."
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Thomas Rakovec visit report",
+     "office": false,
+     "note": "Archie urinated but did not pass a stool on the late-morning walk. The sitter flags this as unusual for him and offers the cold weather as a possible reason - that is the sitter's guess, not a diagnosis. Worth watching on the next visit.",
+     "quote": "Archie went #1 but Didn't go #2 today which is rare"
     },
     {
      "cat": "health",
@@ -7646,6 +7666,16 @@
      "office": false,
      "note": "Same Oct 28 note update says where the shy cat hides: check the corner underneath the parents' bed.",
      "quote": "Cat hides: check in corner underneath parents' bed"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Chrissy George visit report",
+     "office": false,
+     "note": "At this morning's cat visit Phil was at the door and affectionate, but Abby bolted after a second and stayed under the bed for the whole visit. Both ate and were fed and watered. One visit only - not recorded as a standing rule.",
+     "quote": "Abby I saw her for a split second before she ran off and she was hiding underneath the bed"
     },
     {
      "cat": "behavior",
