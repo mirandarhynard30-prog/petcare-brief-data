@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:20:06-05:00",
+ "generated": "2026-11-24T15:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -7101,6 +7101,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Client message from Jennifer Wagar",
+     "office": true,
+     "note": "Client was running low on Suka's gabapentin and had been giving only a nighttime dose. She has ordered more and says she will also give a morning dose once the new prescription arrives, so the dosing schedule is due to change.",
+     "quote": "I ordered more gabapentin."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7139,6 +7149,26 @@
      "office": false,
      "note": "New escape-risk section in the Company Notes. Keep the screen door shut. Bruno chases delivery trucks and other dogs; Suka chases bicycles, motorcycles, cars and anything with wheels, plus squirrels. The record lists one further trigger for Suka in wording that should not be reproduced on a public page - read that line in Time To Pet.",
      "quote": "Excape Risk Keep screen door shut. Bruno will chase fed ex trucks and other dogs"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 24",
+     "source": "Client message from Jennifer Wagar",
+     "office": false,
+     "note": "Client says Suka has arthritis that the cold weather makes worse, and that Suka has been dragging the leg more.",
+     "quote": "The cold weather doesn’t help the poor girls arthritis."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "On the Nov 24 walk sitter Margaret Bill noticed Suka's left leg seemed stiff. Both dogs otherwise walked well around the complex and both went #1 and #2.",
+     "quote": "I noticed that Suka's left leg seemed stiff."
     },
     {
      "cat": "home",
@@ -7189,16 +7219,6 @@
      "office": true,
      "note": "Client followed up by text about twenty minutes later asking whether her earlier message about someone being at the house had been seen. She is waiting on confirmation from the office.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 14",
-     "source": "Client message from Jennifer Wagar",
-     "office": false,
-     "note": "Client says nobody is normally home at visit time, so expect an empty house unless told otherwise for a particular day.",
-     "quote": "usually no one is home when you come"
     }
    ],
    "dormant": false
