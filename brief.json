@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T19:20:07-05:00",
+ "generated": "2026-11-23T22:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -6879,6 +6879,16 @@
      "quote": "Clue: if front door is closed I am not home."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 23",
+     "source": "Joan (Lynn) Stemmer message",
+     "office": false,
+     "note": "Client gives a standing way to tell whether she is home: a closed front door means she is out.",
+     "quote": "if front door is closed I am not home"
+    },
+    {
      "cat": "schedule",
      "sev": "medium",
      "type": "recent",
@@ -6927,16 +6937,6 @@
      "office": false,
      "note": "Boo barked at another dog that came out of a garage during this morning's walk. The sitter redirected her and they carried on without trouble.",
      "quote": "she definitely barked when she saw the dog, but I was able to redirect her"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 13",
-     "source": "Dan Dantimo visit report, Nov 13 11:13 AM",
-     "office": false,
-     "note": "Despite the stool trouble Boo was keen to be out - ready to go on arrival, stopped to sniff a patch of grass she liked by the cul de sac, and the sitter rated the walk as going as planned. Treat given at the end.",
-     "quote": ""
     }
    ],
    "dormant": false
