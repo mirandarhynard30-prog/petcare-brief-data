@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T06:20:10-05:00",
+ "generated": "2026-11-25T07:20:07-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -267,6 +267,16 @@
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 24",
+     "source": "Margaret Bill visit report, Nov 24 midday",
+     "office": true,
+     "note": "Possible conflict with the Nov 21 cancellation. The Nov 24 sitter signed off to the client saying she would see her tomorrow, which is Wed Nov 25, but on Nov 21 the client said she had cancelled the Wednesday, Thursday and Friday visits and only needed Monday, Tuesday and Saturday. Nothing in the mail resolves which is right - the office should confirm whether a Nov 25 visit is on.",
+     "quote": "Have a nice day, Mary and I'll see you tomorrow!"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 21",
      "source": "Client private message, 4:59 PM",
      "office": true,
@@ -372,16 +382,6 @@
      "office": true,
      "note": "One of the latches on Rusty's collar was crooked and the sitter could not pull it down, so she used the other collar instead. Rusty walked well on it and did not pull much. The collar needs checking or replacing.",
      "quote": "One of the latches was crooked, and I couldn't pull it down so I used the other collar."
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 14",
-     "source": "Client message, Nov 14 1:21 PM",
-     "office": false,
-     "note": "Puck is meant to be left in her crate. The sitter asked the client directly whether Puck had been left out of her crate and the client answered that she should be in.",
-     "quote": "No she should be in! Thanks"
     }
    ],
    "dormant": false
@@ -799,6 +799,16 @@
      "office": true,
      "note": "Client cancelled tomorrow's walk - she wrote at 12:25 PM that no walker is needed Monday Nov 9 for Lucy and that service resumes Tuesday Nov 10. Monday needs to come off the schedule and the message is still unanswered. The message is signed by neither name, but it came from the Angela Jozsa account.",
      "quote": "We won’t need a walker for tomorrow for Lucy. We will see you guys Tuesday!"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Margaret Bill visit report, Nov 24 11:15 AM visit",
+     "office": false,
+     "note": "Collar swap at this home as the Nov 24 sitter describes it: she took a monitor collar off Lucy and put the purple collar on for the walk, then took the collar off again when Lucy went back in her pen. Reported by one sitter on one visit, so not recorded as a standing rule yet.",
+     "quote": "I got her out of her pen and took the monitor collar off of her and put the purple collar on her."
     }
    ],
    "dormant": false
