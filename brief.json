@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T15:20:07-05:00",
+ "generated": "2026-11-25T16:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -9142,6 +9142,16 @@
      "office": false,
      "note": "Dawn Burke filled in her profile this morning: Access Instructions, a primary and secondary emergency contact and a second phone number are now on file. The access details are deliberately not repeated here - read them in Time To Pet before the visit. Until today there was nothing on file for this client at all.",
      "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Margaret Bill post-visit report, Nov 25 2:49 PM",
+     "office": false,
+     "note": "First in-person sitter contact with the newly added pet Pepper - Margaret Bill met Dawn, her family and Pepper and completed the walk without incident. Pepper is walked, so a dog, and is described as little. The report gives no other handling, feeding or temperament detail.",
+     "quote": "It was very nice to meet you, your family and handsome little Pepper."
     }
    ],
    "dormant": false
