@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T11:35:06-05:00",
+ "generated": "2026-11-25T12:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -479,6 +479,16 @@
      "quote": "He also does not like the liver one and giblet one."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Visit report, Margaret Bill, 10:20 AM",
+     "office": false,
+     "note": "Gordy's #2 on this morning's walk was logged as loose, with the sitter noting it was not concerning. He went #1 a lot and #2 twice and was otherwise happy on the usual route. One observation only - worth watching on the next visit rather than acting on.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -527,16 +537,6 @@
      "office": false,
      "note": "Gordy passed four other dogs on the Nov 13 walk and was not bothered by any of them - one of the other dogs was barking and pulling toward him. The sitter changed direction at the first pair and stood as far back as she could while they passed. This runs against his standing reactive-with-other-dogs warning; it is one walk, so keep handling him as the standing note says.",
      "quote": "Gordy really wasn’t bothered by them"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 12",
-     "source": "Client message, Nov 12 4:21 PM",
-     "office": true,
-     "note": "Client messaged that they are driving home and expect to arrive about 5:01 PM Nov 12. Check whether any later visits today should be dropped. The mail does not say which visits or how long they were away.",
-     "quote": "We are still on the road in traffic.We should be there at 5;01 pm."
     }
    ],
    "dormant": false
@@ -9031,6 +9031,36 @@
      "source": "Time To Pet client profile update",
      "office": true,
      "note": "Client filled in her own profile today and added a pet named Missy to the account. Looks like new-client setup rather than a change to an existing booking - worth confirming services, rates and whether a meet and greet is needed. Her name is now spelled Bloch (was Block in the system).",
+     "quote": ""
+    }
+   ],
+   "dormant": false
+  },
+  {
+   "name": "Dawn Burke",
+   "url": "https://www.timetopet.com/dashboard/client/tp0y59YB9kaQ",
+   "pets": [
+    "Pepper"
+   ],
+   "items": [
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Time To Pet profile notification, 11:33 AM",
+     "office": true,
+     "note": "A pet named Pepper was added to Dawn Burke's account at 11:33 AM today. The notification gives the name only - no species, age, handling notes or feeding details. She is on today's schedule, so the office should confirm whether Pepper is included in today's visit and ask Dawn for Pepper's details.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Time To Pet profile update, 11:29 AM",
+     "office": false,
+     "note": "Dawn Burke filled in her profile this morning: Access Instructions, a primary and secondary emergency contact and a second phone number are now on file. The access details are deliberately not repeated here - read them in Time To Pet before the visit. Until today there was nothing on file for this client at all.",
      "quote": ""
     }
    ],
