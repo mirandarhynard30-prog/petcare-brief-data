@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T13:20:06-05:00",
+ "generated": "2026-11-25T14:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -1936,6 +1936,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: backyard visits only, no walks. AM/PM feeding two scoops dry; treats and food on the coffee bar near the kitchen; water bowls in the dining room and on the deck.",
+     "quote": "Backyard visits ONLY, no walks"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2044,16 +2054,6 @@
      "office": false,
      "note": "Company Notes as rewritten Sep 11: drop-in visits only, fenced backyard only and no walks - let Mac out in the back yard instead. Commands he knows are Bed, Out (drop toy), Come, and Ok (release to go outside).",
      "quote": "Drop-in visits only, fenced backyard only (no walks)"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 11",
-     "source": "Tiarra Roberts updated contact information for Diane Hoard",
-     "office": false,
-     "note": "Feeding as rewritten Sep 11: feed twice daily, morning and evening, if needed, two scoops of dry food per feeding. Food and treats are on the coffee bar near the kitchen. Two water bowls - one in the dining room, the second on the deck in the back yard.",
-     "quote": "2 scoops dry food per feeding"
     }
    ],
    "dormant": false
@@ -2383,6 +2383,26 @@
      "quote": "2 automatic dry food feeders in living room, check levels"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: keep items in front of the kitchen cabinets - Jaxon, the black cat, slams them if moved.",
+     "quote": "Jaxon (black cat) will slam cabinets if items are moved"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: two plates by the couch - one can of fish and shrimp (blue can) on one, one can of any other flavour on the other. Paper plates near the dry food dispensers at opposite ends; check the two automatic dry feeders; refresh both water bowls.",
+     "quote": "1 can (any other flavor - NOT fish & shrimp) placed on another plate"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2431,6 +2451,16 @@
      "note": "Wet food plate placement is now more specific. Blue fish and shrimp can on ONE plate, second can (any flavor except fish and shrimp) on another, both near the dry food dispensers at opposite ends of the room. Earlier wording only said to place the second can near the dispensers.",
      "quote": "Place plates near dry food dispensers at opposite ends",
      "source": "Tiarra Roberts, Pet Care Note edit"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: leave the automated litter box alone unless directed otherwise. White Litter Robot tray bags in the clear tote beside it; litter and wet food cans go in the trash compactor by the entrance.",
+     "quote": "Automated litter box in living room near patio door (leave alone, unless directed otherwise)"
     }
    ],
    "dormant": false
@@ -4107,6 +4137,36 @@
      "quote": "No feeding for mid-day visits"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: Blackie may be at the neighbour's house; client will say if so.",
+     "quote": "Client will let us know if Blackie is at neighbors house"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: no feeding on mid-day visits. AM/PM feeding 5-6pm, white bowl inside the food bowl removed and used. Homemade food portioned in the fridge (chicken plus sweet potato or pumpkin if unlabelled), ~1/2 cup heated 15 sec, plus 1/2 cup dry. Wash bowl after.",
+     "quote": "No feeding for mid-day visits"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: enter through the garage. Leash in the laundry room by the garage or on the table by the front door. One water bowl in the hallway off the dining room/kitchen; treats by the front door or in the pantry; toy basket in the living room.",
+     "quote": "Enter through garage"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -4137,6 +4197,16 @@
      "quote": "AM/PM feeding (5–6pm) white bowl inside food bowl — remove and use"
     },
     {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": true,
+     "note": "The 11:00-11:02 AM rewrite of the Important and Company Notes dropped the previous instruction covering a CLOSED patio sliding door ('if closed, keep closed'); only the open-door case survives, so a sitter arriving to a closed door now has no instruction. Worth confirming with the client which it should be, and restoring the line in Time To Pet.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -4155,16 +4225,6 @@
      "office": false,
      "note": "Second edit a minute later moved the leash location into Important Notes - laundry room by the garage or the table by the front door. Feeding unchanged: none at midday, feed at morning or evening (5-6pm).",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Oct 8",
-     "source": "Tiarra Roberts Company Notes update, 2:11pm",
-     "office": true,
-     "note": "Two smaller changes in the same 2:11pm rewrite: the Water section lost its refill instruction and now only states there is one water bowl in the hallway off the dining room/kitchen, and the treats line was broadened from the table by the front door to the table by the front door or the pantry.",
-     "quote": "Refill as needed"
     }
    ],
    "dormant": false
@@ -5216,6 +5276,26 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: Louie gets Apoquel for skin allergies at the AM and PM feedings. Food pre-portioned in the refrigerator.",
+     "quote": "Louie receives Apoquel for skin allergies, given during AM and PM feedings"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: backyard visits only, no walks. Louie wears an invisible fence collar; Lanie must be on a lunge line outside. Close the gate when finished.",
+     "quote": "Louie has invisible fence collar and Lanie will need to be hooked up on a lunge line when taken out"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -5314,26 +5394,6 @@
      "office": false,
      "note": "Treat limit for this household: no more than 2 per dog, from the treat container on the dining room shelf, and the dogs may also have peanut-butter-filled bones. This edit dropped the old qualifier - the previous note read 'No more than 2 treats/sticks broken into pieces per dog', so the limit now reads as two whole treats rather than two broken up. The Treats heading was also removed, folding these lines into the surrounding list.",
      "quote": "Treat container located on dining room shelf (no more than 2 per dog)"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts pet edit 1:00pm",
-     "office": true,
-     "note": "Louie's Current Care Notes emptied, losing that he is very attached to mom, barks when you approach, and otherwise listens well. A sitter met by a barking dog now has no note saying it is expected.",
-     "quote": "VERY ATTACHED TO MOM. LIKES TO BARK WHEN APPROACHING. HE LISTEN WELL."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 14",
-     "source": "Tiarra Roberts pet edit 1:00pm",
-     "office": false,
-     "note": "A gain in the same edit: Louie's allergy field firmed up from uncertain to grass and chicken. Check before giving any treat.",
-     "quote": "GRASS, CHICKEN. HE’S AN ITCHY BOY"
     }
    ],
    "dormant": false
@@ -5821,6 +5881,16 @@
    ],
    "items": [
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: keep the hamster enclosure doors and the bedroom door closed - the cats will try to get in.",
+     "quote": "Keep hamster enclosure doors CLOSED and bedroom door CLOSED (cats will try to get in)"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -5884,6 +5954,26 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: lift the gate to open and close it, which keeps the dogs out of the cat area. Let each dog out on the extend leash by the glass door, one at a time. Cats hide under the beds and behind the recliner chairs.",
+     "quote": "Let each pup out with the extend leash (next to glass door), one at a time"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts contact information update",
+     "office": false,
+     "note": "Standing: cats AM only, one can of wet food split between two plates in the dining room. Baxter's dry food under the blue dish, Rosie's in the tall clear container, one scoop each AM. Hamster gets water plus a pinch of food from the white container; Cheerios or yogurt drops as treats.",
+     "quote": "Baxter's food is under blue dish and Rosie's food is in tall, clear container"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 30",
      "source": "Tiarra Roberts updated contact information for Ellen Krane",
      "office": false,
@@ -5909,26 +5999,6 @@
      "office": false,
      "note": "Hamster is behind the first door on the left off the hallway: top up the water bottle and add a pinch of food from the white container to the donut bowl. Cheerios or yogurt drops are the treats. Close the enclosure doors afterwards.",
      "quote": "add water to water bottle and a pinch of food (white container) to donut bowl"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Oct 29",
-     "source": "Michelle Carrara visit report",
-     "office": false,
-     "note": "Michelle Carrara photographed where things are located at the house and attached the photos to her Oct 29 post-visit report, then sent a second message adding a few more pictures for reference. A sitter arriving here for the first time should open that Oct 29 report for the location photos rather than hunting.",
-     "quote": "just adding a couple of extra pictures for our reference"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 25",
-     "source": "Tiarra Roberts updated contact information for Ellen Krane",
-     "office": false,
-     "note": "Also from this morning's republished notes: waste disposal goes to the outside bin in front of the garage, and the dog treats are on the black cabinet in the living room.",
-     "quote": "Poop bags/wet food cans go in outside trash bin, in front of garage"
     }
    ],
    "dormant": false
@@ -7265,6 +7335,26 @@
     {
      "cat": "health",
      "sev": "medium",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Suka still favouring one leg, though the sitter said it looked a little better than the day before.",
+     "quote": "Suka's leg seemed a little better than yesterday, although he seemed to be favoring the one"
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Bruno was shaky on returning from the walk; sitter removed harness and leash at once and the shaking stopped within a couple of minutes. Single observation, not a known pattern.",
+     "quote": "When we got back from our walk, Bruno was shaky."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
      "type": "standing",
      "date": "Nov 24",
      "source": "Client message from Jennifer Wagar",
@@ -7301,26 +7391,6 @@
      "office": false,
      "note": "Client's own explanation for the green tint reported in Bruno's stool: her 11-year-old made a cake with blue food colouring, it was thrown in the garbage, and Bruno got into the garbage and ate the whole thing, dye included. Client offers this as the cause and reports no other symptoms.",
      "quote": "Bruno got into the garbage and ate the whole cake, blue food dye, and all!"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 14",
-     "source": "Client message from Jennifer Wagar",
-     "office": false,
-     "note": "Someone is home today, unlike usual: the client's 11-year-old daughter is there until about 11:30, when somebody comes to pick her up. The daughter knows the sitter is coming and will probably stay in her room.",
-     "quote": "usually no one is home when you come, but today my 11 year-old will be there until about 11:30"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 14",
-     "source": "Client message from Jennifer Wagar, received via text message",
-     "office": true,
-     "note": "Twenty minutes after the note above, the client wrote again asking whether we had seen it. No reply appears anywhere in the mail, so she is still waiting on an acknowledgement.",
-     "quote": "Thank you, did you see my message about my daughter being there?"
     }
    ],
    "dormant": false
