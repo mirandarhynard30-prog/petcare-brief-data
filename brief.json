@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T21:20:06-05:00",
+ "generated": "2026-11-24T22:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -654,6 +654,26 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
+     "date": "Nov 24",
+     "source": "Wendy Marquard visit report, Tue midday",
+     "office": false,
+     "note": "Rex's stool was a little loose but not concerning on Nov 24. CJ's was firm and healthy.",
+     "quote": "It was a little loose but not concerning"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Wendy Marquard visit report, Tue midday",
+     "office": true,
+     "note": "Wendy signed off expecting to see Rex and CJ next week, which implies no visits for this client over the Thanksgiving week. This is the sitter's own remark, not a client request or a confirmed schedule change - worth confirming against the schedule.",
+     "quote": "Have a great Thanksgiving and I will see these cuties next week"
+    },
+    {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
      "date": "Nov 8",
      "source": "client private message 6:26 PM",
      "office": false,
@@ -1079,6 +1099,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 24",
+     "source": "Tiarra Roberts visit report, Tue evening",
+     "office": false,
+     "note": "Georgie's eyedrops and medicine were given at the Tue evening visit, with Mary Ann present and the sitter assisting. The report records medication administered but does not name the medication or a schedule.",
+     "quote": "I helped Mary Ann with Georgie's eyedrops and medicine"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 20",
      "source": "Nov 20 evening visit report from Tiarra Roberts",
      "office": false,
@@ -1184,16 +1214,6 @@
      "office": false,
      "note": "NO ICE CUBES for Georgie for some time because of his stitches. Sent by Tiarra Roberts at 9:07 PM Nov 10 as a correction to her own visit report earlier the same evening, in which she had given him ice cubes. Georgie had 14 teeth pulled Nov 9. No end date was given - treat as in force until the office says otherwise.",
      "quote": "Actually Georgie will not have ice cubes for some time because of his stitches"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 9",
-     "source": "Mary Ann Mckeever private message, 12:16 PM",
-     "office": true,
-     "note": "Tomorrow morning's walk (Tue Nov 10) is cancelled - Georgie had 14 teeth pulled today and needs to rest. Client expects the evening visit to still be fine but did not confirm it outright. Needs the Tuesday AM visit taken off the schedule and a reply confirming the evening one stands.",
-     "quote": "I need to cancel tomorrow am walk."
     }
    ],
    "dormant": false
@@ -4052,7 +4072,8 @@
    "name": "Fabiana Orlando",
    "url": "https://www.timetopet.com/dashboard/client/t3gtyouIRG73",
    "pets": [
-    "Blackie"
+    "Blackie",
+    "Blackie Orlando"
    ],
    "items": [
     {
@@ -4086,6 +4107,16 @@
      "quote": "Do NOT use retractable leash if possible"
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Noella Assi visit report, Tue midday",
+     "office": false,
+     "note": "Blackie was asleep in the bedroom on arrival and had to be called; he was ready to go once outside. The sitter carried treats on the walk and noted he loves them.",
+     "quote": "Blackie was fast asleep in the bedroom today. I called out for him as I looked for his leashes"
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "standing",
@@ -4106,7 +4137,7 @@
      "quote": "Refill as needed"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Sonja Cuollo",
