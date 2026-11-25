@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T22:20:05-05:00",
+ "generated": "2026-11-25T05:20:11-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -799,16 +799,6 @@
      "office": true,
      "note": "Client cancelled tomorrow's walk - she wrote at 12:25 PM that no walker is needed Monday Nov 9 for Lucy and that service resumes Tuesday Nov 10. Monday needs to come off the schedule and the message is still unanswered. The message is signed by neither name, but it came from the Angela Jozsa account.",
      "quote": "We won’t need a walker for tomorrow for Lucy. We will see you guys Tuesday!"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Angela Jozsa private message 6:28 PM",
-     "office": true,
-     "note": "Client cancelled Wednesday and Thursday service and asked for Friday, Saturday and Sunday instead, at the same time. She named weekdays only, no dates - read as Nov 4 and Nov 5 cancelled, Nov 6, 7 and 8 added, but that is inference, not stated. She replied \"That would be great!! Thank you Miranda!!\" five minutes later, so the office appears to have agreed; confirm the change is actually entered on the schedule.",
-     "quote": "i am going to cancel service for Wednesday and Thursday, but I will need service Friday, Saturday and Sunday at the same time"
     }
    ],
    "dormant": false
@@ -1450,16 +1440,6 @@
      "quote": "Bismarck had me going for a second."
     },
     {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Christina Palmieri private messages 5:35-6:18 PM",
-     "office": false,
-     "note": "Asked at 5:35 PM whether anyone could check on Bismark for a pee break that night because her husband was stuck at work; withdrew the request at 6:17 PM once he said he was heading home. No visit needed - noted only so the earlier ask is not acted on.",
-     "quote": "Let’s hold off, he just texted me he’s going to go home, I am so sorry."
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "standing",
@@ -1934,16 +1914,6 @@
      "office": false,
      "note": "On the Nov 10 walk there were workers parked on the side of the street and another dog being walked, and the sitter reports Murphy did not react to either. One good day, not a change to the standing reactivity note. Client was home for this visit and asked that the door not be locked.",
      "quote": "Murphy did not react to anything"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Michelle Carrara walk report, 10:28 AM",
-     "office": false,
-     "note": "Murphy went #1 and marked but did not go #2 on the morning walk. Second report in a row with no #2 (Nov 2 and Nov 3). No other symptom reported; walk was otherwise normal.",
-     "quote": "He didn't do #2."
     }
    ],
    "dormant": false
@@ -7119,16 +7089,6 @@
      "office": false,
      "note": "Ollie's stool on the Nov 10 early-afternoon visit was logged in the consistency field as a little loose, judged not concerning by the sitter. He went #1 in the back yard and #2 in the front. Same visit as the bowl-versus-floor feeding note already on file.",
      "quote": ""
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Margaret Bill visit report 10:01 AM",
-     "office": false,
-     "note": "Ollie had a potty accident on the Nov 3 morning visit. Margaret Bill took the soiled blanket out of the crate and left it on the floor to be bagged, and put a pee pad in the crate. She said she would return later the same day with a clean blanket or towel. Next sitter in: expect no blanket in the crate until she does.",
-     "quote": "Ollie had a little accident today. So I took the blanket out, and it's laying on the floor."
     }
    ],
    "dormant": false
@@ -8106,16 +8066,6 @@
      "quote": "I have only one dog, Kaaju. The golden doodle is my niece’s who is visiting us for a thanksgiving."
     },
     {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Client message from Manisha Chand, 10:37 AM",
-     "office": true,
-     "note": "Client is asking the office to confirm her pending request for Nov 27 (Thanksgiving week). Unanswered as of this run. She left a callback number in the message.",
-     "quote": "I wanted to check if you guys can confirm the request for Nov 27th"
-    },
-    {
      "cat": "behavior",
      "sev": "low",
      "type": "standing",
@@ -8184,16 +8134,6 @@
      "office": false,
      "note": "Important Notes now exist for the first time and give the standing medication and feeding routine: an anti-seizure med and a hip and joint supplement, both put in chicken, heated 10 seconds and balled up, and one feed a day at bedtime - a layer of chicken with 4 Tbsp of rice. The record does not say the dose, the time of the med, or who gives it. This supersedes the earlier brief note that no Pet Care Note existed.",
      "quote": "Meds: Anti seizure, hip and joint, put in chicken, heat for 10sec, ball up"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 3",
-     "source": "Shannon Anderson updated contact information for Dan Dantimo (Nov 3, 6:03 PM)",
-     "office": true,
-     "note": "The visit need for the surgery is spelled out in the text Shannon Anderson's Nov 3 edit REPLACED, so it is no longer in the record: morning and afternoon on Thursday Nov 5, and possibly bedtime Nov 5 and the morning of Nov 6 if Dan stays overnight in the hospital. The earlier brief item only had Kathy Sullenberger's I look forward to Thursday with no dates or times - these are the dates. Because the wording was written as possibly and then deleted from Important Notes, the office should confirm what is actually on the schedule for Nov 5 and Nov 6 rather than treat this as booked.",
-     "quote": "Will defiently need the morning and afternoon on thrusday nov 5th and possibly bedtime nov 5th"
     },
     {
      "cat": "health",
@@ -8265,6 +8205,16 @@
     "Sassie"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Kristin Aldridge evening visit report, 6:16 PM",
+     "office": false,
+     "note": "On the Nov 24 evening walk Sassie went #1 and #2 and it looked normal, but she strained a bit and it took longer than usual. The sitter said she would see how Sassie does on the morning visit, so the Nov 25 AM sitter should check and report whether straining happens again.",
+     "quote": "she did strain a bit and it took a bit longer than normal"
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -8374,16 +8324,6 @@
      "office": false,
      "note": "Second report in the same day of the ear medication and back-end spray being given using treats and Sassie's collar as guidance. The sitter gave both at the Nov 21 evening visit and says the method worked again. Two separate reports of the same method on one day, not yet written up as a standing instruction.",
      "quote": "I dispensed her ear meds and spray to her back end while using treats and her collar"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 20",
-     "source": "Chrissy George visit report",
-     "office": true,
-     "note": "Visit report states the sitter put Sassie's ear drops in and applied the spray on her behind. Office should confirm staff are cleared to give the ear drops.",
-     "quote": "Then i put her ear drops in her ear, and then i put the spray on her behind."
     }
    ],
    "dormant": false
@@ -8739,6 +8679,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 24",
+     "source": "Chrissy George morning visit report, 11:58 AM",
+     "office": false,
+     "note": "How the Nov 24 walk was handled: the sitter put sweaters on both dogs, took Luke and Lola out together, then met Rita in the driveway partway through, handed Lola over, and finished the walk with Luke alone before taking him back in. Client was home and asked that the door not be locked.",
+     "quote": "I met Rita in her driveway and handed her Lola and continued walking with Luke"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 17",
      "source": "Margaret Bill visit report",
      "office": false,
@@ -8774,16 +8724,6 @@
      "office": false,
      "note": "Client was home for this visit and asked that the door not be locked, so the sitter did not go in or check the home.",
      "quote": "Client was home during visit/ Client asked not to lock door"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 13",
-     "source": "Company Notes updated by Margaret Bill",
-     "office": false,
-     "note": "Lola drinks a lot of water because of Cushing's disease.",
-     "quote": "lola drinks a lot of water due to Cushing's disease"
     }
    ],
    "dormant": false
