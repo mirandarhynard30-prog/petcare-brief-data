@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T10:20:13-05:00",
+ "generated": "2026-11-25T11:35:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2376,6 +2376,16 @@
      "cat": "home",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts updated contact information for Brandy Harkless",
+     "office": false,
+     "note": "The 10:19 AM Important Notes rewrite weakened the dry-feeder instruction. It previously told sitters to ensure both automatic feeders were topped off; it now only asks them to check levels, which does not say to fill them.",
+     "quote": "2 automatic dry food feeders in living room, check levels"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 13",
      "source": "Note rewrite 10:43am",
      "office": false,
@@ -2423,7 +2433,7 @@
      "source": "Tiarra Roberts, Pet Care Note edit"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Lance Hoffman",
@@ -3280,6 +3290,16 @@
      "quote": "Archie is a little stand offish and will take some time to warm up to us"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Thomas Rakovec left a message for Ray Koesel",
+     "office": false,
+     "note": "Thomas Rakovec's 10:20 AM report has Archie going both #1 and #2 on the walk with the consistency rated firm and healthy. That closes out the Nov 24 report where he urinated but passed no stool and the sitter flagged it as unusual for him.",
+     "quote": "It was firm and healthy"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -3308,6 +3328,16 @@
      "office": true,
      "note": "Ray wrote in to ask that the office NOT take his current walker off Archie's walks - he says Archie and he are both comfortable with him and neither likes change. He names the walker as 'Tommy'; the sitter currently walking Archie in these reports is Thomas Rakovec, so that is almost certainly who he means, but the email does not spell the name out. Office should treat this as a staffing instruction and confirm back to him.",
      "quote": "I would not like you to keep Tommy from walking Archie. Archie and I don’t like change."
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Thomas Rakovec left a message for Ray Koesel",
+     "office": true,
+     "note": "The sitter closes his report saying he wished Ray a happy Thanksgiving week and would see them Monday, which reads as though there are no visits between today and Monday. Ray has not said this himself anywhere in the mail, so the office should confirm the Thanksgiving-week schedule rather than rely on the sign-off.",
+     "quote": "Said hope happy thanks giving week and see you guys Mon"
     },
     {
      "cat": "health",
@@ -3368,26 +3398,6 @@
      "office": false,
      "note": "Archie went #1 on the Nov 6 walk but did not go #2 even after the sitter gave him extra time; report field logged as No #2 today. Single occurrence.",
      "quote": "We had a great walk and Archie went #1but DID'NT go"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Thomas Rakovec visit report for Ray Koesel",
-     "office": false,
-     "note": "Ray was home on Nov 4 with Archie ready to go. The walk was cut short by rain - Archie went number one several times but no number two.",
-     "quote": "He went #1 several times but didn't go #2 because of rain"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 4",
-     "source": "Thomas Rakovec visit report",
-     "office": false,
-     "note": "Rainy-day walk cut short; Archie went #1 several times but no #2. Ray was home during the visit.",
-     "quote": "He went #1 several times but didn't go #2 because of rain"
     }
    ],
    "dormant": false
@@ -4080,6 +4090,26 @@
      "cat": "home",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts updated contact information for Fabiana Orlando",
+     "office": false,
+     "note": "The 11:00 AM Company Notes rewrite cut the second half of the patio sliding door rule. It previously read 'if closed, keep closed'; now only the open case is covered, so a sitter who finds the door shut has no instruction either way.",
+     "quote": "Patio sliding door: if open, can leave open"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts updated contact information for Fabiana Orlando",
+     "office": false,
+     "note": "The 11:01 AM rewrite deleted the 'Midday visits: no feeding' line from Company Notes. The rule itself still stands because Important Notes carries it separately, so this is a duplication being removed rather than the rule being dropped.",
+     "quote": "No feeding for mid-day visits"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 13",
      "source": "Company Notes rewritten by Tiarra Roberts, 11:15am",
      "office": false,
@@ -4095,6 +4125,16 @@
      "office": true,
      "note": "The 2:11pm Company Notes rewrite DELETED the leash-type rule. The previous version carried a line under Leash & Supplies saying not to use a retractable leash if possible; the new version has no leash-type rule at all. Nothing in the email says the rule was dropped on purpose - the office should confirm whether it still applies and restore it if so.",
      "quote": "Do NOT use retractable leash if possible"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts updated contact information for Fabiana Orlando",
+     "office": false,
+     "note": "Feeding routine as it stands after this morning's three edits: AM/PM only at 5-6pm, roughly half a cup of the labelled homemade food from the fridge heated about 15 seconds, plus half a cup of dry, then wash the bowl. Midday visits are still no-feeding.",
+     "quote": "AM/PM feeding (5–6pm) white bowl inside food bowl — remove and use"
     },
     {
      "cat": "behavior",
@@ -5518,9 +5558,30 @@
     "Louise",
     "Weezie or Louise",
     "Weezie (Louise)",
-    "Louise (Weezie)"
+    "Louise (Weezie)",
+    "Louise/Weezy"
    ],
    "items": [
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts updated contact information for Christine Jenison",
+     "office": true,
+     "note": "The 10:27 AM Important Notes rewrite deleted the lawn service line, which told sitters the lawn guy comes Wednesday and to check the back yard gate. These are backyard-only visits and this dog is flagged an escape risk, so the gate check was the safeguard against the yard being left open. Today is Wednesday. Worth restoring in Time To Pet.",
+     "quote": "Lawn guy: comes Wednesday (check back yard gate)"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts updated contact information for Christine Jenison",
+     "office": true,
+     "note": "The same round of edits appended a line to the eye-drop instruction for Louise/Weezy making the drops explicitly optional if she will not take them. The brief already records seven consecutive reports that never mention the drops at all; this edit changes whether that silence is a problem. The office should decide which it wants.",
+     "quote": "If not, that's okay, too"
+    },
     {
      "cat": "home",
      "sev": "high",
@@ -5620,26 +5681,6 @@
      "office": true,
      "note": "Client answers the open Thursday question from Oct 6: the house cleaning team comes Thursday Oct 8 and then every other Thursday, and she asks that those Thursdays be marked as days not to come because the cleaners let the dogs out and give them attention. Which Thursdays after Oct 8 fall in the every-other pattern is not spelled out, so the office needs to set the recurrence in the scheduler.",
      "quote": "Our house cleaning team comes tomorrow and then every other Thursday so you can mark those as days not to come"
-    },
-    {
-     "cat": "behavior",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 2",
-     "source": "Tiarra Roberts, Current Pet Care Note update 3:28 PM",
-     "office": false,
-     "note": "Current Pet Care Note now reads only this, in capitals: the dogs are backyard-potty only, no walk. The same round of edits removed the Type of visit: Backyard Only line from Company Notes, so the Pet Care Note is now the only place this rule is written down.",
-     "quote": "BACKYARD VISIT ONLY"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Oct 2",
-     "source": "Tiarra Roberts, Company Notes update 3:29 PM",
-     "office": true,
-     "note": "Eye-drop instruction rewritten: drops are in the LEFT cabinet above or next to the stove, give them if her eye is goopy and she lets you. The softener If not, no big deal was removed in that same edit. The conflict is unresolved: the client's own Sep 29 message put the drops in the upper cabinet on the RIGHT, and that line was deleted from the Pet Care Note today, so the two records no longer agree and nobody has confirmed which cabinet is correct.",
-     "quote": "Use eye drops (left cabinet above stove/next to stove) if eye is goopy, if she lets you"
     }
    ],
    "dormant": false
@@ -5833,6 +5874,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts updated contact information for Ellen Krane",
+     "office": false,
+     "note": "Important Notes were republished this morning and carry two standing facts the brief was not holding: where the cats hide, and that the lift gate is opened and closed to keep the dogs out of the cat area.",
+     "quote": "Cat hiding spots: under beds, behind recliner chairs"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 30",
      "source": "Tiarra Roberts updated contact information for Ellen Krane",
      "office": false,
@@ -5868,6 +5919,16 @@
      "office": false,
      "note": "Michelle Carrara photographed where things are located at the house and attached the photos to her Oct 29 post-visit report, then sent a second message adding a few more pictures for reference. A sitter arriving here for the first time should open that Oct 29 report for the location photos rather than hunting.",
      "quote": "just adding a couple of extra pictures for our reference"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts updated contact information for Ellen Krane",
+     "office": false,
+     "note": "Also from this morning's republished notes: waste disposal goes to the outside bin in front of the garage, and the dog treats are on the black cabinet in the living room.",
+     "quote": "Poop bags/wet food cans go in outside trash bin, in front of garage"
     }
    ],
    "dormant": false
@@ -7688,6 +7749,16 @@
     "Abby"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Josh Stone left a message for Marie Newlove",
+     "office": false,
+     "note": "Josh Stone's 10:49 AM report says the dry food from the previous feeding had not all been eaten; he topped it off and fed half a can of wet food each. This follows Margaret's Nov 23 note that Abby is eating less than Phil. The report does not say which cat left the food, so it is not clear whether this is Abby again.",
+     "quote": "they hadn't eaten all the dry food from the last feeding"
+    },
     {
      "cat": "health",
      "sev": "medium",
