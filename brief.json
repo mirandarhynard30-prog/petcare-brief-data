@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:20:07-05:00",
+ "generated": "2026-11-25T08:20:07-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -479,6 +479,16 @@
      "quote": "He also does not like the liver one and giblet one."
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Kathy Pastor visit report, Nov 24",
+     "office": false,
+     "note": "On the Nov 24 afternoon walk (temps in the 40s, cool wind) Gordy wore his winter jacket; the sitter wiped his paws and took the jacket off afterward.",
+     "quote": "Gordy had on his winter jacket and seemed happy as can be"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "recent",
@@ -527,16 +537,6 @@
      "office": true,
      "note": "Client messaged that they are driving home and expect to arrive about 5:01 PM Nov 12. Check whether any later visits today should be dropped. The mail does not say which visits or how long they were away.",
      "quote": "We are still on the road in traffic.We should be there at 5;01 pm."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 24",
-     "source": "Visit report from Kathy Pastor",
-     "office": false,
-     "note": "Gordy went #1 as usual but had no #2 on the Nov 24 afternoon walk; the sitter said he seemed to feel very good.",
-     "quote": "He did his usual amount of sniffing and Number ones. No number two today."
     }
    ],
    "dormant": false
@@ -2240,6 +2240,16 @@
      "quote": "Do NOT allow Ripley to pee around flagpole in front yard"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Matt Konn private message, Nov 25 8:01 AM ET",
+     "office": false,
+     "note": "Client replied this morning to feed her on the evening visit. His reply does not name the pet and the question he is answering is not in the email; Ripley is the only pet named in his recent visit reports.",
+     "quote": "TY! Yes…pls feed her on evening visit! Ty"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -2290,24 +2300,14 @@
      "quote": "She only went number 1 today."
     },
     {
-     "cat": "behavior",
+     "cat": "home",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 18",
-     "source": "Kristin Ashick visit report",
+     "date": "Nov 24",
+     "source": "Monica Hopewell visit report, Nov 24",
      "office": false,
-     "note": "Passing another dog on the way back from the Nov 18 walk, Ripley was unsettled but the sitter got her through it. No #2 on this walk.",
-     "quote": "we did see another dog and she wasnt particularly thrilled but we made it"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 16",
-     "source": "Monica Hopewell visit report, 2:12 PM",
-     "office": false,
-     "note": "Ripley went both #1 and #2 on today's midday walk and the consistency field was answered firm and healthy. That closes the run of reports with no #2 entry at all - Nov 12 and Nov 13 both carried none.",
-     "quote": "It was firm and healthy"
+     "note": "Nov 24 sitter brought in a package that had been left on the front porch and put it on the dining room table.",
+     "quote": "I also brought in a package that was delivered while we were out that was on the front porch"
     }
    ],
    "dormant": false
@@ -2812,6 +2812,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 24",
+     "source": "Kiara Streety visit report, Nov 24",
+     "office": false,
+     "note": "Nov 24 sitter walked the two dogs one at a time, crating Milo while she leashed Archer and again before leaving.",
+     "quote": "Came back in and put him in the crate while I leashed Archer up"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 19",
      "source": "Alex Miller visit report 11:47 AM",
      "office": false,
@@ -2857,16 +2867,6 @@
      "office": false,
      "note": "At the new home Milo will be crated on the first floor and Archer stays free roaming. Water bowls are in the dining room and the treats will be on the counter.",
      "quote": "Milo will be in his crate on the first floor, and Archer will still be free roaming"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 15",
-     "source": "Client private message",
-     "office": false,
-     "note": "At the new address: Milo is crated on the first floor, Archer is still free roaming. Client stated this as the ongoing arrangement, not a one-off.",
-     "quote": "Milo will be in his crate on the first floor, and Archer will still be free roaming."
     }
    ],
    "dormant": false
@@ -8709,6 +8709,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 24",
+     "source": "Chrissy George visit report, Nov 24",
+     "office": false,
+     "note": "On the chilly, windy Nov 24 walk both dogs went out in sweaters, Luke in his collar and Lola in her harness; the sitter put them back where they belong afterward. Rita met the sitter in the driveway partway through and took Lola, so the sitter finished the walk with Luke alone.",
+     "quote": "I got there sweaters on, and then I got Luke's collar on and Lola's harness on"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 17",
      "source": "Margaret Bill visit report",
      "office": false,
@@ -8734,16 +8744,6 @@
      "office": false,
      "note": "How this afternoon's walk was split: Lola went out first and was brought back inside, then the walk carried on with Luke on his own. The client was home and helped with the collars, the leashes and Lola's harness. Both went #1 and Luke went #2, logged firm and healthy. One visit, not stated as the standing arrangement.",
      "quote": "then I brought Lola back inside and went back to our walk with Luke"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 16",
-     "source": "Chrissy George visit report, approx 1:20 PM",
-     "office": false,
-     "note": "Client was home for this visit and asked that the door not be locked, so the sitter did not go in or check the home.",
-     "quote": "Client was home during visit/ Client asked not to lock door"
     }
    ],
    "dormant": false
