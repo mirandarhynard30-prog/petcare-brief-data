@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T16:20:05-05:00",
+ "generated": "2026-11-25T17:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -9124,6 +9124,76 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Margaret Bill updated Company Notes for Dawn Burke, 4:22 PM",
+     "office": false,
+     "note": "Pepper's Company Notes were filled in for the first time today (the Previously block was empty) and list serious medical history: part of his spine is missing, a heart condition, and anxiety from separation and from being attacked by pit bulls. The note says he 'will be on trazadone' - future tense, so it is not clear from this email whether he is already being given it or whether a sitter would ever administer it. Do not assume a dose; check Time To Pet and with Dawn.",
+     "quote": "Pepper has health issues-part if his spine is missing, heart condition, anxiety issues ( separation and trauma from being attacked by pit bulls)"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Margaret Bill updated Important Notes for Dawn Burke, 4:17 PM",
+     "office": false,
+     "note": "Pepper is flagged an escape risk in Important Notes. Keep doors and gates closed.",
+     "quote": "ESCAPE RISK: keep doors/gates closed"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Margaret Bill updated Company Notes for Dawn Burke, 4:22 PM",
+     "office": false,
+     "note": "Company Notes repeat the escape risk and add two handling rules: do not open the door wide, and avoid all dogs. The same line says 'pet only to harness' - i.e. clip to the harness, not the collar.",
+     "quote": "also is an excape risk, don't open door wide, avoid all dogs"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Margaret Bill updated Important Notes for Dawn Burke, 4:17 PM",
+     "office": false,
+     "note": "Important Notes list Pepper's triggers as large dogs and even small ones, but the line immediately below reads 'Dog friendly: Yes', and the Company Notes say to avoid all dogs. The profile contradicts itself on dogs. Treat Pepper as reactive to other dogs until Dawn clarifies.",
+     "quote": "Triggers: large dogs and even small ones"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Margaret Bill updated Company Notes for Dawn Burke, 4:22 PM",
+     "office": false,
+     "note": "Pepper's harness stays on him because of back pain - it is already on when the sitter arrives and must be left on at the end of the visit. Do not remove it.",
+     "quote": "Harness: is on dog, dog has back pain and harness is left on"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Margaret Bill updated Important Notes for Dawn Burke, 4:17 PM",
+     "office": false,
+     "note": "Pepper is allergic to beef. Check any treat before giving it.",
+     "quote": "Allergies: beef"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Margaret Bill updated Important Notes for Dawn Burke, 4:13 PM",
+     "office": true,
+     "note": "Thanksgiving request written into Pepper's Important Notes rather than booked: Dawn will be out 10am-4pm on Thanksgiving (Thu Nov 26) and wants a visit in between for a walk/potty break and fresh water, with no feeding. This is a note, not a scheduled visit - the office needs to confirm it and put a sitter on it.",
+     "quote": "client will be gone from 10am-4pm on thanksgiving and wanting a visit in between for a walk/potty break and refreshing water."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -9152,6 +9222,16 @@
      "office": false,
      "note": "First in-person sitter contact with the newly added pet Pepper - Margaret Bill met Dawn, her family and Pepper and completed the walk without incident. Pepper is walked, so a dog, and is described as little. The report gives no other handling, feeding or temperament detail.",
      "quote": "It was very nice to meet you, your family and handsome little Pepper."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Margaret Bill updated Company Notes for Dawn Burke, 4:22 PM",
+     "office": false,
+     "note": "Standing visit rules: keep all doors shut, and a small amount of kibble or treats may be given. Company Notes also list the commands Pepper knows - 'leave it', 'come', 'sit' and 'walky'.",
+     "quote": "Keep All doors shut, can give small amount of kibble /treats"
     }
    ],
    "dormant": false
