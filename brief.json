@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T05:20:11-05:00",
+ "generated": "2026-11-25T06:20:10-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2714,6 +2714,16 @@
      "office": false,
      "note": "Client was home during the visit and asked that the door not be locked. Recorded once on this visit, so it is not confirmed as a standing rule.",
      "quote": "Client was home during visit/ Client asked not to lock door"
+    },
+    {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "client private message",
+     "office": false,
+     "note": "Client confirmed the visit is a walk only for Bella.",
+     "quote": "Bella will just need a walk."
     }
    ],
    "dormant": false
