@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T14:20:05-05:00",
+ "generated": "2026-11-25T15:20:07-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -934,14 +934,14 @@
      "quote": "We did a short walk it is cold out today"
     },
     {
-     "cat": "health",
+     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
-     "date": "Nov 23",
-     "source": "Elizabeth Sigler visit report",
-     "office": false,
-     "note": "A marked change from the recent run of concerning reports for Chloe. She had a lot of energy, walked a long route out to Fairmount, back past the house and down to Nottinghill, went both #1 and #2, and the consistency field was answered firm and healthy. No wheezing, limp or cut-short walk is mentioned anywhere in this report.",
-     "quote": "She seemed like she had a lot of energy today! It was awesome!"
+     "date": "Nov 25",
+     "source": "Elizabeth Sigler visit report 2:47 PM",
+     "office": true,
+     "note": "The sitter closed today's report saying the next visit is Friday, which implies there is no visit Thursday Nov 26. This is the sitter's own assumption, not something the client wrote; nobody has checked it against the schedule. Same pattern as the Ray Koesel Thanksgiving gap still open from this morning.",
+     "quote": "We’ll see Chloe again on Friday."
     }
    ],
    "dormant": false
@@ -3769,6 +3769,16 @@
      "office": false,
      "note": "Client asks every sitter to double-check the door is locked before leaving after Aayla's walk. She found it left unlocked on Aug 27. She raised it warmly and followed up saying she appreciates the team, so this is a standing check, not a complaint to resolve.",
      "quote": "please double check that the door is locked before you leave after walking her. I noticed it was left unlocked today"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "client message 12:34 PM",
+     "office": false,
+     "note": "Client says Aayla especially loves cold and snow and has a lot of energy to burn in it. Useful for the winter midday visits - she will want the full outside time rather than a short loop.",
+     "quote": "She absolutely LOVES the cold and snow especially, always has so much energy to play in it."
     },
     {
      "cat": "behavior",
