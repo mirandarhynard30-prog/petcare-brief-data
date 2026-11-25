@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T16:20:07-05:00",
+ "generated": "2026-11-24T19:20:09-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -532,11 +532,11 @@
      "cat": "health",
      "sev": "low",
      "type": "recent",
-     "date": "Nov 23",
-     "source": "Kathy Pastor visit report",
+     "date": "Nov 24",
+     "source": "Visit report from Kathy Pastor",
      "office": false,
-     "note": "Gordy went #2 twice; the report's consistency field was marked a little loose. Kathy judged it not concerning and the rest of the visit was normal.",
-     "quote": "It was a little loose but not concerning"
+     "note": "Gordy went #1 as usual but had no #2 on the Nov 24 afternoon walk; the sitter said he seemed to feel very good.",
+     "quote": "He did his usual amount of sniffing and Number ones. No number two today."
     }
    ],
    "dormant": false
@@ -2280,6 +2280,16 @@
      "quote": "I brought in the copy paper through the front door, leaving it inside, next to the front door"
     },
     {
+     "cat": "health",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 24",
+     "source": "Visit report from Monica Hopewell",
+     "office": false,
+     "note": "Ripley went #1 only, no #2, on the Nov 24 visit.",
+     "quote": "She only went number 1 today."
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -2298,16 +2308,6 @@
      "office": false,
      "note": "Ripley went both #1 and #2 on today's midday walk and the consistency field was answered firm and healthy. That closes the run of reports with no #2 entry at all - Nov 12 and Nov 13 both carried none.",
      "quote": "It was firm and healthy"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 16",
-     "source": "Monica Hopewell visit report, 2:12 PM",
-     "office": false,
-     "note": "Ripley sat calmly while another dog was down the street before the walk carried on. The client was home during this visit. Entry was through the garage and the garage door was fully closed on leaving.",
-     "quote": "She did really good about sitting for when the puppy was down the street before we continued on."
     }
    ],
    "dormant": false
@@ -4232,6 +4232,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 24",
+     "source": "Visit report from Dan Dantimo",
+     "office": false,
+     "note": "On the Nov 24 walk Jaxson repeatedly went for trash left on the ground after trash collection; the sitter had to watch him closely and discourage him the whole way around the block.",
+     "quote": "trying to pick up any trash the trash guys left on the ground"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 20",
      "source": "Dan Dantimo visit report",
      "office": false,
@@ -4257,16 +4267,6 @@
      "office": false,
      "note": "Follow-through on the vomiting concern: on the Nov 20 walk the sitter deliberately kept Jaxson off anything on the ground, kept him on the sidewalk most of the time, and held his treats to two. Jaxson went #1 and #2 and the stool is logged firm and healthy. No vomiting reported this visit.",
      "quote": "I kept his treat limit to two"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 19",
-     "source": "Thomas Rakovec visit report 11:43 AM",
-     "office": false,
-     "note": "A fertilizer contractor was treating the yard when the sitter arrived this morning, so there was no backyard time at all - Jax was walked around the block instead. The report does not say how long the yard should be avoided.",
-     "quote": "arrived at the house the fertilizer guy was doing the yard, so definitely no backyard time today"
     }
    ],
    "dormant": false
@@ -7121,6 +7121,16 @@
      "quote": "I ordered more gabapentin."
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 24",
+     "source": "Client message via Time To Pet",
+     "office": false,
+     "note": "Owner reports Suka has been dragging her leg more. She has reordered gabapentin; she was running low and giving only a night dose, and says she will add a morning dose once the new prescription arrives. She says the cold weather worsens Suka's arthritis.",
+     "quote": "She has been dragging it more. I ordered more gabapentin."
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7219,16 +7229,6 @@
      "office": true,
      "note": "Twenty minutes after the note above, the client wrote again asking whether we had seen it. No reply appears anywhere in the mail, so she is still waiting on an acknowledgement.",
      "quote": "Thank you, did you see my message about my daughter being there?"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 14",
-     "source": "client message via text",
-     "office": true,
-     "note": "Client followed up by text about twenty minutes later asking whether her earlier message about someone being at the house had been seen. She is waiting on confirmation from the office.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -8497,7 +8497,8 @@
    "pets": [
     "Merlin",
     "Suzaiko",
-    "Ruri"
+    "Ruri",
+    "Suziaco"
    ],
    "items": [
     {
@@ -8509,6 +8510,16 @@
      "office": false,
      "note": "Ruri pulls on leash. On this visit Monica suggested walking to a nearby park with a gate in the fence so Ruri can run freely; Merlin and Suzaiko walked politely. Sitter was shadowing Monica, so this is one visit's suggestion rather than a confirmed standing rule.",
      "quote": "Baby Ruri does pull on her walk"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 24",
+     "source": "Visit report from Noella Assi",
+     "office": false,
+     "note": "Ruri pulls on her walk; Monica suggested walking down to the park with a gated fence so she can run around freely. The report spells the third dog's name both \"suziaco\" and \"Suzaiko\", so the spelling is unclear.",
+     "quote": "Baby Ruri does pull on her walk so Monica suggested to walk down the park that had a gate in fence"
     },
     {
      "cat": "home",
