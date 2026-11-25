@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T09:20:07-05:00",
+ "generated": "2026-11-25T10:20:13-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -5234,6 +5234,26 @@
      "office": false,
      "note": "Louie is on Apoquel for skin allergies. It goes with the morning and evening feedings only and is not given at midday visits. The Sep 11 edit moved this into the medication section and dropped the separate line that said he has skin allergies.",
      "quote": "Louie receives Apoquel for skin allergies"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts updated contact information",
+     "office": false,
+     "note": "The Nov 25 Important Notes edit adds one new opening line to the standing notes for this home: the mailbox is on the street. Everything else in that field was only reworded.",
+     "quote": "Mailbox on street"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 25",
+     "source": "Tiarra Roberts updated contact information",
+     "office": false,
+     "note": "Feeding logistics from the current Important Notes, which the brief was not carrying: the food is already portioned out and kept in the refrigerator, for both the AM and the PM feeding.",
+     "quote": "Food is pre-portioned and located in refrigerator, AM and PM feedings"
     },
     {
      "cat": "home",
