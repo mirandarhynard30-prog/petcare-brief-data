@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T20:20:07-05:00",
+ "generated": "2026-11-25T22:20:07-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -1099,6 +1099,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 25",
+     "source": "Noella Assi visit report",
+     "office": false,
+     "note": "Georgie recently had teeth pulled, so he was given a treat but no ice cubes on the Nov 25 evening visit. Treat the no-ice-cubes point as dental recovery, not a permanent rule, unless the office confirms otherwise.",
+     "quote": "he also got a treat but not ice cubes because he had some tooth"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 24",
      "source": "Tiarra Roberts visit report, Tue evening",
      "office": false,
@@ -1204,16 +1214,6 @@
      "office": false,
      "note": "The client reports that Georgie did eventually eat on Nov 12 and that his pill went down hidden in his food. This is three days after the Nov 9 dental extraction and follows the extra work the sitter put in that visit. The client states it once; it is not yet a standing instruction on how to give the pill.",
      "quote": "Georgie finally ate (pill was hidden in his food), so now he is ready for a nap."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Nov 10",
-     "source": "Tiarra Roberts message",
-     "office": false,
-     "note": "NO ICE CUBES for Georgie for some time because of his stitches. Sent by Tiarra Roberts at 9:07 PM Nov 10 as a correction to her own visit report earlier the same evening, in which she had given him ice cubes. Georgie had 14 teeth pulled Nov 9. No end date was given - treat as in force until the office says otherwise.",
-     "quote": "Actually Georgie will not have ice cubes for some time because of his stitches"
     }
    ],
    "dormant": false
@@ -9071,7 +9071,9 @@
   {
    "name": "Alison Cushing",
    "url": "https://www.timetopet.com/dashboard/client/t2sowplK4i2B",
-   "pets": [],
+   "pets": [
+    "Harper"
+   ],
    "items": [
     {
      "cat": "home",
@@ -9092,6 +9094,16 @@
      "office": true,
      "note": "OFFICE: the client offered a pickup window on Nov 23 - that afternoon or the following morning - and said the place locks after 10 PM. The email does not say what the item is, so somebody has to check the conversation in Time To Pet. Both windows she offered have now passed with no reply visible in the mail.",
      "quote": "I could have it ready to be picked up this afternoon or tomorrow morning! It does lock after 10 PM"
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Harvett Ellington visit report",
+     "office": false,
+     "note": "A potty accident was found in the home on the Nov 25 evening visit and cleaned up by the sitter, with before and after pictures attached to the report. One occurrence only.",
+     "quote": "There was a potty accident and I cleaned it up"
     }
    ],
    "dormant": false
