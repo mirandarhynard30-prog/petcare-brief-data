@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T15:20:05-05:00",
+ "generated": "2026-11-26T16:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2616,6 +2616,26 @@
      "quote": "Sorry to hear Trudy is back in the hospital."
     },
     {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 26",
+     "source": "Client message, 3:34 PM",
+     "office": false,
+     "note": "Revised outside-cat instruction sent at 3:34 PM, later than her 9:50 AM message and different from it. Try to coax the outside cats onto the porch; if they do come onto the porch, put extra food out there; if they do not, just put wet food in the huts. If the cats come inside, do not go out to the huts at all - she will clean them out in the morning. Her 9:50 AM message gave set amounts (2 cans wet in the huts, 1 dry and 3 wet on the porch); this one gives a condition instead, so the later visits should follow this message. She does not say the earlier amounts are cancelled.",
+     "quote": "if not just put wet food in the huts"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Client message, 9:50 AM",
+     "office": true,
+     "note": "Correction to the animal count: the client says there are only 4 outside cats, not 6 - two were lost a while ago. She says she told Miranda at the time and it never got changed on the account. This is a standing correction to the care note, not a one-off, and it is still outstanding, so the office needs to fix the record. Sitters should not go looking for cats that are no longer there.",
+     "quote": "there is only 4 outside cats we lost 2 of them"
+    },
+    {
      "cat": "health",
      "sev": "high",
      "type": "recent",
@@ -2704,26 +2724,6 @@
      "office": false,
      "note": "Locking routine the client gave: lock the front door on the way out, leave by the side door and pull it shut, check it is shut and locked, and lock the back porch door too.",
      "quote": "please make sure you lock the front door when u leave go out the side"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "standing",
-     "date": "Sep 12",
-     "source": "Client message, Sep 12 9:00am",
-     "office": false,
-     "note": "Client wrote to all sitters on the morning of Sep 12 that the feeding instructions have changed to help Trudy's situation. Read the writing on the TOP of the cans before feeding, and the bottom of the paper bowls tells you how many cans of wet and dry to put out for AM and PM, both on the porch and in the huts. The email does not give the amounts themselves - they are written on the cans and bowls at the property. She does not say what Trudy's situation is.",
-     "quote": "please read the top of the cans cause some things have changed to help Trudy’s situation"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 26",
-     "source": "Client message 9:50 AM",
-     "office": false,
-     "note": "Outside-cat feeding placement the client gave on Thanksgiving morning: 2 cans of wet food outside in the huts, plus 1 dry and 3 wet on the porch. She also asks the sitter to try to coax the outside cats onto the porch if they can. She wrote it as a general instruction rather than for one visit, but the message does not say outright that it replaces the amounts on file, so the office should confirm the care note matches.",
-     "quote": "just put 2 cans of wet outside in the huts 1 dry and 3 wet on the porch"
     }
    ],
    "dormant": false
@@ -6467,6 +6467,26 @@
      "quote": "We just want to make sure they are topped off with a scoop of dry food every visit"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Tiarra Roberts updated contact information, 12:25 PM",
+     "office": false,
+     "note": "Bowl layout from the republished Important Notes, which the brief was not carrying: 3 water bowls in the kitchen by the sliding glass door, and 1 water bowl may be in the upstairs bathroom. 3 small food bowls in the kitchen - put 2 on the floor and 1 on the kitchen island counter. A further food bowl is upstairs in the bedroom for Sebastian, who hides under the bed up there. Read alongside the Sep 27 item: the account still states no feeding AMOUNT anywhere, only where the bowls go.",
+     "quote": "3 small food bowls in kitchen, place 2 on floor"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Tiarra Roberts updated contact information, 12:25 PM",
+     "office": false,
+     "note": "Supply and litter locations from the same Important Notes, also not previously carried: dry food is in the pantry in a clear container with a lid; grocery bags are inside the pantry in a green cloth holder; there is 1 litterbox upstairs in the bathtub and 2 litterboxes in the laundry room downstairs.",
+     "quote": "Dry food in pantry, in clear container with lid"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -6495,6 +6515,16 @@
      "office": false,
      "note": "Four cats now, not five - Sebastian, Leo, Tino and Binx. Archie was put down in July after getting sick. Do not look for him or ask after him on arrival.",
      "quote": "Unfortunately Archie got sick and we had to put him down in July"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 26",
+     "source": "Tiarra Roberts updated contact information, 12:25 PM",
+     "office": false,
+     "note": "The 12:25 PM edit changed the order of the Important Notes only - the mailbox line moved to the top. Nothing was added and nothing was lost, unlike the Sep 27 rewrite on this client. The Access Instructions were edited in the same pass and now describe the lockbox location more briefly; access and code details are deliberately not recorded here.",
+     "quote": ""
     },
     {
      "cat": "home",
@@ -7455,6 +7485,16 @@
    ],
    "items": [
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Tiarra Roberts updated contact information, 12:28 PM",
+     "office": true,
+     "note": "Conditional feeding and supplement protocol sitting in Company Notes that the brief was not carrying at all. ONLY IF DIRECTED: feed 1 full Ollie package of wet food from the fridge, half a dropper of Vitamin E oil, Pawfy and Ollie probiotic, mixed well with the red spatula, and feed 1 can of Fancy Feast wet food. The note does not say who gives the direction or on what visits, so a sitter has no way to know when it applies - the office should settle that. Do not do any of it unless told to.",
+     "quote": "ONLY IF DIRECTED: Feed 1 full Ollie package wet food, from fridge"
+    },
+    {
      "cat": "schedule",
      "sev": "high",
      "type": "recent",
@@ -7563,16 +7603,6 @@
      "office": true,
      "note": "Asks to move the cancelled visit to Sunday Nov 8 morning; says she works until 8 Saturday night and 11-6 Sunday. Needs an office reply to confirm.",
      "quote": "So tomorrow morning? If you have the time."
-    },
-    {
-     "cat": "home",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 7",
-     "source": "Client private message, Nov 7 8:46 PM ET",
-     "office": true,
-     "note": "Lockbox access is fixed. The client says the locksmith had entered the code incorrectly, came back out and reset it, and that whoever comes on Sunday Nov 8 will have the keys. This supersedes the Nov 6 and Nov 7 notes saying the lockbox was failing and that she could not reach the locksmith. The new code is deliberately NOT recorded here - it is in her Time To Pet private message and belongs in her Pet Care Note. OFFICE: update the access record and tell the assigned sitter the box is working again before the visit.",
-     "quote": "Thanks Miranda, but it's fixed now."
     }
    ],
    "dormant": false
@@ -9134,6 +9164,16 @@
      "office": false,
      "note": "A potty accident was found in the home on the Nov 25 evening visit and cleaned up by the sitter, with before and after pictures attached to the report. One occurrence only.",
      "quote": "There was a potty accident and I cleaned it up"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Client message, 8:56 PM",
+     "office": false,
+     "note": "During the Nov 25 evening visit the client missed a call from the team about ten minutes earlier and wrote to ask whether they had been able to get in. She sent a private message in the same minute thanking the office for updating her, so it reads as resolved, but nothing in the mail says what the access problem was or how it was handled. Same visit as the potty accident already on record. Worth knowing she may not pick up the phone at that hour.",
+     "quote": "Hi! Were you able to get in? I was busy and missed the call"
     }
    ],
    "dormant": false
