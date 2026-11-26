@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:20:05-05:00",
+ "generated": "2026-11-26T12:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -3619,6 +3619,16 @@
      "office": true,
      "note": "Kiara Streety again found wet food sitting out on the table, covered, on the Nov 12 late-morning visit; she used that food and put it in the fridge. This is the third report since Oct 22 describing wet food left out on the table or in an open can and a sitter deciding what to do with it. No written rule covers it, so the office should settle with Marcia what sitters do with food already out.",
      "quote": "Saw some food already out covered laying on the table"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 26",
+     "source": "Kiara Streety visit report, 11:29 AM",
+     "office": false,
+     "note": "Marcia and a caregiver were both at the home for the Nov 26 late-morning visit and were getting ready to leave for lunch, so the sitter had to wait before she could refresh the litter. The caregiver had already given Freddy fresh food and water, so check whether he has been fed before feeding again. Recorded on this one visit only - not confirmed as a standing arrangement.",
+     "quote": "she told me she just gave Freddy fresh food and water"
     },
     {
      "cat": "health",
@@ -7779,6 +7789,16 @@
     "Abby"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 26",
+     "source": "Margaret Bill visit report, 11:58 AM",
+     "office": false,
+     "note": "Two vomit spots found upstairs on the Nov 26 late-morning visit - one by the steps, one in the bedroom. Both were already dry by the time the sitter arrived and she cleaned them up. The report does NOT say which of the two cats was sick, and the sitter writes that neither kitty seemed ill and that Phil was especially affectionate. She says she will report any further accidents. Worth watching next to the existing note that Abby has been eating less than Phil.",
+     "quote": "I found two accidents upstairs, where one of the two kitties had thrown up a little bit."
+    },
     {
      "cat": "health",
      "sev": "medium",
