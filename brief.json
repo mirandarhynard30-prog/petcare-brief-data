@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T12:20:06-05:00",
+ "generated": "2026-11-26T13:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -1539,6 +1539,16 @@
      "office": false,
      "note": "Client spells out the difference between the two dogs if one gets loose: Nova comes back when called, Astra bolts. She says the dogs have halo collars for this but they were on charge the last time Astra got out. She agrees to a garage hand-off going forward, so sitters should take and return the dogs through the garage rather than the front door.",
      "quote": "nova comes straight back when called, but astra will bolt"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Access Instructions updated by Tiarra Roberts",
+     "office": false,
+     "note": "The parking rule was moved out of Important Notes into Access Instructions and put in capitals, so it now reads as the emphasised access rule: park in the driveway turn-around and do not block the garage.",
+     "quote": "PARK IN DRIVEWAY TURN-AROUND. DO NOT BLOCK GARAGE"
     },
     {
      "cat": "health",
@@ -8616,6 +8626,16 @@
     {
      "cat": "behavior",
      "sev": "medium",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Important Notes updated by Tiarra Roberts",
+     "office": false,
+     "note": "New standing rule added to Important Notes: do not pet or excite the dogs on entry, or they will not hold their bladder. The rest of the note is unchanged.",
+     "quote": "Do not pet or excite dogs when you enter, they will not hold their bladder"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
      "type": "recent",
      "date": "Nov 24",
      "source": "Noella Assi visit report",
@@ -8722,16 +8742,6 @@
      "source": "Monica Hopewell visit report, Nov 17 1:50 PM",
      "note": "All three dogs went #1 and #2 on the midday visit and every consistency field was answered firm and healthy. That clears the client's morning worry that none of them had gone #2 yet.",
      "quote": "all three pops went both one and two today so thumbs up in that regard"
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 12",
-     "source": "Kristin Ashick visit report, Nov 12 1:23 PM ET",
-     "office": true,
-     "note": "The sitter says she forgot to end the visit timer on the Nov 12 visit, so the logged duration for that visit is wrong and may need correcting. Visit was run by two sitters, Kristin Ashick and Ashley Corall; all three pups went out back and went #1.",
-     "quote": "I forgot to end the timer when Ashley and I were talking outside"
     }
    ],
    "dormant": false
@@ -9156,6 +9166,26 @@
      "quote": "client will be gone from 10am-4pm on thanksgiving and wanting a visit in between for a walk/potty break and refreshing water."
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 26",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Pepper ate very little on the midday visit: he refused the zekes he was offered, the sitter withheld dry food because he had not eaten much, and he took only some treats before she left.",
+     "quote": "I didn't give him any dry food because he hadn't eaten much."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 26",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Pepper was worked up on arrival and settled once his green coat and leash went on; he calmed further during the walk and did not dart at the door when the sitter left. Steady rain, so he kept trying to turn back and the walk was kept short.",
+     "quote": "Pepper was frantic and jumping up and down when I came in."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -9184,16 +9214,6 @@
      "office": false,
      "note": "First in-person sitter contact with the newly added pet Pepper - Margaret Bill met Dawn, her family and Pepper and completed the walk without incident. Pepper is walked, so a dog, and is described as little. The report gives no other handling, feeding or temperament detail.",
      "quote": "It was very nice to meet you, your family and handsome little Pepper."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 25",
-     "source": "Margaret Bill updated Company Notes for Dawn Burke, 4:22 PM",
-     "office": false,
-     "note": "Standing visit rules: keep all doors shut, and a small amount of kibble or treats may be given. Company Notes also list the commands Pepper knows - 'leave it', 'come', 'sit' and 'walky'.",
-     "quote": "Keep All doors shut, can give small amount of kibble /treats"
     }
    ],
    "dormant": false
