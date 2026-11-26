@@ -1,120 +1,41 @@
 {
- "generated": "2026-11-25T22:50:08-05:00",
- "date": "2026-11-25",
- "label": "Nov 25, 2026",
+ "generated": "2026-11-26T00:05:11-05:00",
+ "date": "2026-11-26",
+ "label": "Nov 26, 2026",
  "clients": [
-  {
-   "name": "Alison Cushing",
-   "visits": [
-    {
-     "time": "8:45 PM",
-     "sort": "2045",
-     "staff": "Harvett Ellington",
-     "service": "Dog Visit-45 minute",
-     "pets": "Harper"
-    }
-   ]
-  },
-  {
-   "name": "Anna Caraboolad",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Kristin Ashick",
-     "service": "Reassigned Visit-45 minute",
-     "pets": "Oakley"
-    }
-   ]
-  },
-  {
-   "name": "Anna Marie LeMaster",
-   "visits": [
-    {
-     "time": "9:30 AM",
-     "sort": "0930",
-     "staff": "Margaret Bill",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "Gordy (Gordon)"
-    }
-   ]
-  },
   {
    "name": "Dawn Burke",
    "visits": [
     {
-     "time": "2:00 PM",
-     "sort": "1400",
+     "time": "12:00 PM",
+     "sort": "1200",
      "staff": "Margaret Bill",
-     "service": "New Client Consultation",
+     "service": "Dog Visit-30 minute",
      "pets": "All"
     }
    ]
   },
   {
-   "name": "Derek and Shannon Larsen",
+   "name": "Jennifer Peganoff",
    "visits": [
     {
-     "time": "8:00 AM",
-     "sort": "0800",
+     "time": "5:30 PM",
+     "sort": "1730",
+     "staff": "Chelsea Tompkins",
+     "service": "Dog Visit-20 minute",
+     "pets": "Bella"
+    }
+   ]
+  },
+  {
+   "name": "Julia Rosenthal",
+   "visits": [
+    {
+     "time": "8:00 PM",
+     "sort": "2000",
      "staff": "Tiarra Roberts",
-     "service": "Dog and Cat Visit-30 minute",
-     "pets": "Penney Rue, Valentine, Bean, Velitraxistaasch \"Stash\""
-    },
-    {
-     "time": "1:10 PM",
-     "sort": "1310",
-     "staff": "Tiarra Roberts",
-     "service": "Dog and Cat Visit-30 minute",
-     "pets": "Penney Rue, Valentine, Bean, Velitraxistaasch \"Stash\""
-    }
-   ]
-  },
-  {
-   "name": "Fabiana Orlando",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Noella Assi",
-     "service": "Dog Visit-30 minute",
-     "pets": "Blackie Orlando"
-    }
-   ]
-  },
-  {
-   "name": "Jennifer Wagar",
-   "visits": [
-    {
-     "time": "12:45 PM",
-     "sort": "1245",
-     "staff": "Margaret Bill",
-     "service": "Dog Visit-30 minute",
-     "pets": "Bruno, Suka"
-    }
-   ]
-  },
-  {
-   "name": "Jessica Shouldis",
-   "visits": [
-    {
-     "time": "11:00 AM",
-     "sort": "1100",
-     "staff": "Monica Hopewell",
-     "service": "Dog Visit-30 minute",
-     "pets": "Nova"
-    }
-   ]
-  },
-  {
-   "name": "Joan- Gina Sullivan (Manages Account)",
-   "visits": [
-    {
-     "time": "8:00 AM",
-     "sort": "0800",
-     "staff": "Kristin Aldridge",
-     "service": "Dog Visit-45 minute",
-     "pets": "Sassie"
+     "service": "Cat Visit-20 Minutes",
+     "pets": "Sebastian, Leo , Binx"
     }
    ]
   },
@@ -122,11 +43,23 @@
    "name": "Lynne  Reno",
    "visits": [
     {
-     "time": "1:45 PM",
-     "sort": "1345",
-     "staff": "Julie Smith",
-     "service": "Dog Visit-30 minute",
+     "time": "1:30 PM",
+     "sort": "1330",
+     "staff": "Tiarra Roberts",
+     "service": "Long Range Visit-30 Minute",
      "pets": "Holly"
+    }
+   ]
+  },
+  {
+   "name": "Marcia Ontell",
+   "visits": [
+    {
+     "time": "11:15 AM",
+     "sort": "1115",
+     "staff": "Kiara Streety",
+     "service": "Cat Visit-20 Minutes",
+     "pets": "Freddy"
     }
    ]
   },
@@ -134,9 +67,9 @@
    "name": "Marie Newlove",
    "visits": [
     {
-     "time": "10:15 AM",
-     "sort": "1015",
-     "staff": "Josh Stone",
+     "time": "11:15 AM",
+     "sort": "1115",
+     "staff": "Margaret Bill",
      "service": "Cat Visit-20 Minutes",
      "pets": "Abbey, Phil"
     }
@@ -145,13 +78,6 @@
   {
    "name": "Mary Ann Mckeever",
    "visits": [
-    {
-     "time": "10:15 AM",
-     "sort": "1015",
-     "staff": "Monica Hopewell",
-     "service": "Dog Visit-30 minute",
-     "pets": "Georgie"
-    },
     {
      "time": "8:00 PM",
      "sort": "2000",
@@ -162,84 +88,43 @@
    ]
   },
   {
-   "name": "Matt Konn",
-   "visits": [
-    {
-     "time": "1:00 PM",
-     "sort": "1300",
-     "staff": "Kristin Ashick",
-     "service": "Dog Visit-30 minute",
-     "pets": "Ripley"
-    }
-   ]
-  },
-  {
-   "name": "Megan Nickoli",
-   "visits": [
-    {
-     "time": "11:45 AM",
-     "sort": "1145",
-     "staff": "Margaret Bill",
-     "service": "Dog Visit-30 minute",
-     "pets": "Aayla"
-    }
-   ]
-  },
-  {
    "name": "Melody Siska",
    "visits": [
     {
-     "time": "10:00 AM",
-     "sort": "1000",
-     "staff": "Harvett Ellington",
+     "time": "9:15 AM",
+     "sort": "0915",
+     "staff": "Kiara Streety",
      "service": "Dog Visit-30 minute",
      "pets": "chloe"
     },
     {
-     "time": "2:00 PM",
-     "sort": "1400",
-     "staff": "Elizabeth Sigler",
+     "time": "1:00 PM",
+     "sort": "1300",
+     "staff": "Drew Walker",
      "service": "Dog Visit-30 minute",
      "pets": "chloe"
     }
    ]
   },
   {
-   "name": "Paulo Garcia",
+   "name": "Vicki Davey",
    "visits": [
     {
-     "time": "12:00 PM",
-     "sort": "1200",
-     "staff": "Drew Walker",
-     "service": "Dog Visit-45 minute",
-     "pets": "Archer, Milo"
-    }
-   ]
-  },
-  {
-   "name": "Ray Koesel",
-   "visits": [
+     "time": "10:00 AM",
+     "sort": "1000",
+     "staff": "Kiara Streety",
+     "service": "Cat Visit-45 minute",
+     "pets": "3 indoor cats, 6 outdoor cats"
+    },
     {
-     "time": "9:30 AM",
-     "sort": "0930",
-     "staff": "Thomas Rakovec",
-     "service": "Dog Visit-30 minute",
-     "pets": "Archie"
-    }
-   ]
-  },
-  {
-   "name": "Rita Lightfoot",
-   "visits": [
-    {
-     "time": "10:45 AM",
-     "sort": "1045",
-     "staff": "Margaret Bill",
-     "service": "Dog Visit-30 minute",
-     "pets": "Luke, Lola"
+     "time": "4:00 PM",
+     "sort": "1600",
+     "staff": "Harvett Ellington",
+     "service": "Cat Visit-30 Minutes",
+     "pets": "3 indoor cats, 6 outdoor cats"
     }
    ]
   }
  ],
- "visitCount": 21
+ "visitCount": 11
 }
