@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T00:05:11-05:00",
+ "generated": "2026-11-26T12:50:53-05:00",
  "date": "2026-11-26",
  "label": "Nov 26, 2026",
  "clients": [
@@ -7,8 +7,8 @@
    "name": "Dawn Burke",
    "visits": [
     {
-     "time": "12:00 PM",
-     "sort": "1200",
+     "time": "12:15 PM",
+     "sort": "1215",
      "staff": "Margaret Bill",
      "service": "Dog Visit-30 minute",
      "pets": "All"
@@ -36,18 +36,6 @@
      "staff": "Tiarra Roberts",
      "service": "Cat Visit-20 Minutes",
      "pets": "Sebastian, Leo , Binx"
-    }
-   ]
-  },
-  {
-   "name": "Lynne  Reno",
-   "visits": [
-    {
-     "time": "1:30 PM",
-     "sort": "1330",
-     "staff": "Tiarra Roberts",
-     "service": "Long Range Visit-30 Minute",
-     "pets": "Holly"
     }
    ]
   },
@@ -126,5 +114,5 @@
    ]
   }
  ],
- "visitCount": 11
+ "visitCount": 10
 }
