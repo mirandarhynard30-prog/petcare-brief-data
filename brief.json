@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T13:20:06-05:00",
+ "generated": "2026-11-26T14:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -827,6 +827,26 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 26",
+     "source": "Drew Walker visit report, 1:27 PM",
+     "office": true,
+     "note": "Chloe was WALKED again on the Nov 26 AFTERNOON visit by Drew Walker - this is the second outdoor walk logged for her today, after Kiara Streety's morning walk. That is another two-walk day against the standing no-walking restriction the brief already carries for her. Client was home during the visit and told the sitter he was good to go.",
+     "quote": "I began my walk with Chloe and we didn’t make it very far"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 26",
+     "source": "Drew Walker visit report, 1:27 PM",
+     "office": false,
+     "note": "On the same afternoon walk Chloe did not want to walk and was moving extra slowly, and the walk was cut short for cold and rain. She did go #1 and #2 and the consistency field was answered firm and healthy. Reluctance plus slow pace on one visit only - the morning report the same day described a good walk on the usual route.",
+     "quote": "Chloe was going extra slow because she didn’t want to walk"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 17",
      "source": "Alex Miller visit report, 10:24 AM",
      "office": true,
@@ -912,26 +932,6 @@
      "office": true,
      "note": "Chloe was WALKED again on the Nov 9 midday visit - Drew Walker put her harness on and reports they made it relatively far. This is the second walk logged in four days (Nov 6 was the other) for a dog recorded as recovering from pneumonia since the Oct 26 diagnosis. She went #1 and #2 twice and the stool is rated firm and healthy. Whether walks are within her current care plan is still unconfirmed by the office.",
      "quote": "We made it relatively far today and Chloe went number 1 and number 2 twice today."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 9",
-     "source": "Harvett Ellington visit report, Nov 9 afternoon",
-     "office": true,
-     "note": "Chloe was taken OUTSIDE and walked again on the Nov 9 afternoon visit by Harvett Ellington - the third outdoor walk logged for her on Nov 9 (Drew Walker morning, Drew Walker midday, Harvett Ellington afternoon). Sitter notes it was 51 degrees. This runs against the Oct 26 standing restriction of no walking following the pneumonia diagnosis. Chloe went #1, no #2 on this visit. Sitter says she told Melody, and that she returns tomorrow afternoon.",
-     "quote": "and I had a great time outside. Only went number one, no number two"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Kiara Streety visit report, 1:52 PM",
-     "office": true,
-     "note": "Chloe was WALKED on the Nov 6 midday visit - Kiara Streety reports a short walk, cut short because it was cold, and Chloe went #1 twice with no #2. That runs against the standing restriction on file since Oct 26 (pneumonia: no walking or other strenuous activity for now). Melody was home, spoke to the sitter on arrival and handed Chloe over herself, so the restriction may well have been lifted - but nothing in this mailbox says so. Office: confirm with Melody whether walking is allowed again and tell the sitters either way.",
-     "quote": "We did a short walk it is cold out today"
     }
    ],
    "dormant": false
@@ -2549,6 +2549,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 26",
+     "source": "Kiara Streety visit report, 10:50 AM",
+     "office": true,
+     "note": "The sitter opens her report by saying Trudy is back in the hospital. The client's own message saying so is not in the mail - this is the sitter relaying it - so when it happened and what for are not stated. Read alongside the Sep 12 standing note about feeding changed to help Trudy's situation. Office should confirm with the client which animals are in the home and whether the visits stand.",
+     "quote": "Sorry to hear Trudy is back in the hospital."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 21",
      "source": "Harvett Ellington visit report 10:29 AM",
      "office": false,
@@ -2654,16 +2664,6 @@
      "office": false,
      "note": "Outside-cat feeding placement the client gave on Thanksgiving morning: 2 cans of wet food outside in the huts, plus 1 dry and 3 wet on the porch. She also asks the sitter to try to coax the outside cats onto the porch if they can. She wrote it as a general instruction rather than for one visit, but the message does not say outright that it replaces the amounts on file, so the office should confirm the care note matches.",
      "quote": "just put 2 cans of wet outside in the huts 1 dry and 3 wet on the porch"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 26",
-     "source": "Client message 9:50 AM",
-     "office": true,
-     "note": "OFFICE: the client says there are now only 4 outside cats, not 6 - two were lost a while ago. She says she told Miranda at the time and the record was never changed. The Time To Pet pet count and feeding amounts need updating so sitters stop looking for two cats that are gone.",
-     "quote": "there is only 4 outside cats we lost 2 of them awhile ago"
     }
    ],
    "dormant": false
@@ -3068,6 +3068,16 @@
      "office": true,
      "note": "The 10:50am rewrite overwrote Important Notes, and the only thing that field held was Holly's handling rule. The warning that she is hesitant with men and should be ignored until she settles is now nowhere in her record - Company Notes was emptied in the same edit. Re-add it.",
      "quote": "Hesitant with males-will take a little bit to warm up to initially, please ignore her until she feels more comfortable"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Tiarra Roberts edit to Important Notes, 12:39 PM",
+     "office": false,
+     "note": "One-line change to Important Notes: the bags kept with the purple slip lead by the front door (coat rack) are now described as grocery bags rather than poop bags. Everything else in the note is unchanged. Used bags can still be left by the front door.",
+     "quote": "Purple slip lead/grocery bags by front door (coat rack)"
     }
    ],
    "dormant": false
