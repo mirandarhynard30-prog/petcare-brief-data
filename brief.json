@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T14:20:06-05:00",
+ "generated": "2026-11-26T15:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -847,6 +847,26 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 25",
+     "source": "Harvett Ellington visit report, Nov 25 10:33 AM",
+     "office": false,
+     "note": "Chloe was WALKED on the Nov 25 MORNING visit by Harvett Ellington - usual route, 39 degrees, she went #1 and #2 and the consistency field was answered firm and healthy. The walk question was answered 'It was great! We did our usual route and everything went as planned'. Nov 25 was not previously on the record of days Chloe has been walked.",
+     "quote": "Chloe met two lovely young ladies during the walk."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Elizabeth Sigler visit report, Nov 25 2:47 PM",
+     "office": true,
+     "note": "Second walk of Nov 25, so Nov 25 was a two-walk day as well. Elizabeth Sigler's 2:47 PM report says she took Chloe out for the walk after talking with the client in the office, on a route she describes as almost the same as the previous day's and pretty long. Chloe was energetic the whole way with extra bursts near home, went #1 and #2, firm and healthy; the client was home during the visit. The report does NOT say whether the walking restriction was raised, confirmed or lifted in that conversation, so whether it still stands is unresolved - the sitter's wording only says the two of them spoke before she went out.",
+     "quote": "After talking with you in the office, I took her outside for her walk."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 17",
      "source": "Alex Miller visit report, 10:24 AM",
      "office": true,
@@ -912,26 +932,6 @@
      "office": true,
      "note": "Second sitter of the day confirms Chloe's limp. Elizabeth Sigler reports the FRONT LEFT paw looked maybe a little swollen or twisted, Chloe seemed to be trying not to put weight on it, and she had a slight limp getting up from her dog bed. Back paws looked alright to her. The limp mostly went away once Chloe got moving but she stayed very slow. This follows Alex Miller's 10:31 AM flag the same morning, so two independent sitters now. Chloe already carries a pneumonia diagnosis and a no-walking restriction. No vet contact and no medication mentioned - the office has had two flags in one day and nothing in the mail shows the client or a vet has been contacted.",
      "quote": "Unfortunately it seems like her front left paw is giving her some trouble."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 10",
-     "source": "Harvett Ellington visit report, Nov 10 2:38 PM",
-     "office": true,
-     "note": "Harvett Ellington's 2:38 PM report: Chloe went #1 only, no #2, no accidents in the home, bowls cleaned and fresh water added. The report does NOT say whether Chloe was taken outside or walked, so it is unclear whether the Oct 26 no-walking restriction was observed on this visit - Harvett was not told about it before she went in. Harvett told Chloe she will see her Friday.",
-     "quote": "Chloe went number one only."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 9",
-     "source": "Drew Walker visit report",
-     "office": true,
-     "note": "Chloe was WALKED again on the Nov 9 midday visit - Drew Walker put her harness on and reports they made it relatively far. This is the second walk logged in four days (Nov 6 was the other) for a dog recorded as recovering from pneumonia since the Oct 26 diagnosis. She went #1 and #2 twice and the stool is rated firm and healthy. Whether walks are within her current care plan is still unconfirmed by the office.",
-     "quote": "We made it relatively far today and Chloe went number 1 and number 2 twice today."
     }
    ],
    "dormant": false
@@ -1323,6 +1323,36 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 26",
+     "source": "Important Notes updated by Tiarra Roberts, 12:56 PM",
+     "office": false,
+     "note": "Standing: backyard visits only, no walks. This rule is first in the Important Notes and the brief was not carrying it.",
+     "quote": "Backyard visits ONLY, no walks"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Important and Company Notes updated by Tiarra Roberts, 12:56 PM",
+     "office": false,
+     "note": "Standing: shut the kennel doors so Milo does not steal bones. Treats are on top of the kennel in the dog room.",
+     "quote": "Shut kennel doors so Milo does not steal bones"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Important Notes updated by Tiarra Roberts, 12:56 PM",
+     "office": false,
+     "note": "Standing handling step the brief was not carrying: wipe the dog's bottom with a baby wipe after a bowel movement. The wipes are kept on top of the microwave.",
+     "quote": "Wipe butt with baby wipe (on top of microwave) after having bowel movement"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Oct 2",
      "source": "Tiarra Roberts, Company Notes update 3:19 PM",
      "office": false,
@@ -1348,9 +1378,39 @@
      "office": true,
      "note": "The Sep 22 Access Instructions rewrite dropped the step explaining that the keypad has to be woken with any button press before it lights up and will accept a code. A sitter who does not know that may think the code is wrong.",
      "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Important Notes updated by Tiarra Roberts, 12:56 PM",
+     "office": false,
+     "note": "Standing home details from the republished Important Notes: mailbox is on the street and packages should be checked for on the front porch; poop bags go in the outside trash can in front of the garage; there is one water bowl, in the kitchen, so make sure all the dogs get water and wipe up droplets on the floor.",
+     "quote": ""
+    },
+    {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Important Notes updated by Tiarra Roberts, 12:56 PM",
+     "office": false,
+     "note": "Standing: one or more of the three dogs may not be at the home on a given visit - the client will have them.",
+     "quote": "Sometimes 1 or more dogs may not be home, they will be with owner"
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 26",
+     "source": "Tiarra Roberts edit, 12:56 PM",
+     "office": false,
+     "note": "The 12:56 PM edit moved the trash day line out of Important Notes and into Company Notes. Nothing was lost - it still reads Thursday - but it is no longer in the field sitters read first. The rest of the changes in this edit were punctuation and line order only.",
+     "quote": "Trash day: Thursday"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Christina Palmieri",
