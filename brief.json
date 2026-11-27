@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T14:20:05-05:00",
+ "generated": "2026-11-27T15:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -8248,6 +8248,56 @@
     "Rani"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Client message",
+     "office": false,
+     "note": "Rani had soft stool the morning of Nov 27. Client asks that Rani get NO treats at either the 4:30 or the 9pm visit - belly rubs and fetch instead. Applies to Rani only; no instruction given about Kaaju's treats.",
+     "quote": "Rani had soft poop this morning, so please try not to give her treats"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Client message",
+     "office": false,
+     "note": "Client asks that both dogs go outside separately on leash, not together. Stated for both the 4:30 and 9pm visits on Nov 27; the message does not say whether this applies to every visit. Rani likes to stay out longer, Kaaju is quick.",
+     "quote": "Place take both the dogs outside separately in the leash."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Client message",
+     "office": false,
+     "note": "Client asks that the TV be left on when leaving. Stated for both the 4:30 and 9pm visits on Nov 27.",
+     "quote": "Just make sure you leave the TV on."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Client message",
+     "office": false,
+     "note": "Nov 27 feeding: at the 4:30 visit Rani gets the chicken and sweet potato from the black container on the counter, in her bowl near the round glass dining table, mixed with her leftover kibble. Kaaju has already had dinner - give his kibble from the counter in his Kong. No food at the 9pm visit, treats only.",
+     "quote": ""
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Client message",
+     "office": false,
+     "note": "Client's husband may be home during the 4:30 visit on Nov 27.",
+     "quote": "My husband might be home during this visit."
+    },
     {
      "cat": "schedule",
      "sev": "medium",
