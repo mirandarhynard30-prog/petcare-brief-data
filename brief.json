@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T11:20:05-05:00",
+ "generated": "2026-11-27T12:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -8831,41 +8831,41 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 27",
+     "source": "Margaret Bill visit report, Nov 27 11:30 AM",
+     "office": false,
+     "note": "Lola refused to go out on the Nov 27 midday visit - the weather was switching between snow and rain. Luc went out on his own instead and did get his walk and a #1. The sitter hopes both dogs will want to walk tomorrow. One observation on a wet, cold day, not a standing rule.",
+     "quote": "When I came in today, Lola did not want to walk.."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Margaret Bill visit report, Nov 27 11:30 AM",
+     "office": false,
+     "note": "On the Nov 27 walk Luc passed several dogs and a squirrel. The sitter gave him a treat as they passed the dogs and he stayed excited and wanted to greet one of them. By the time they reached the squirrel she had run out of treats and crossed the road with him instead. Consistent with the standing squirrel and dog triggers already on file; worth having enough treats for the whole walk.",
+     "quote": "He was still very excited and wanted to see greet the one dog."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Margaret Bill visit report, Nov 27 11:30 AM",
+     "office": true,
+     "note": "Route needs clarifying. The brief carries a standing warning about walking to the LEFT from the house because a neighbour's loose Newfoundland is described as aggressive, and a left-hand route was already flagged on Nov 25. The Nov 27 report says the walk went up the street to Graham Rd and then turned left, and that the sitter meant to reach Edgerton but went the wrong way. It is NOT clear from the email whether a left turn at Graham Rd crosses the hazard the warning covers or is a different stretch entirely. Office should settle the approved route with the sitter and the client.",
+     "quote": "Our route took us up to Graham Rd. and then to the left."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 25",
      "source": "Margaret Bill visit report, Nov 25",
      "office": true,
      "note": "Margaret Bill ends the Nov 25 report by asking the client for more direction on where Lola should be walked. No answer appears in the mail, so Lola's route is still unsettled - the office or Rita needs to answer it.",
      "quote": "If you could give me more direction as to where Lola should be walked to it would be helpful for me."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 25",
-     "source": "Margaret Bill visit report, Nov 25",
-     "office": true,
-     "note": "The Nov 25 report contradicts itself on Lola's stool. The written narrative says both dogs' #2s were firm, but the structured per-pet field for Lola reads a little loose but not concerning, while Luke's reads firm and healthy. The report does not resolve which is right.",
-     "quote": "Both Lola and Luc went #1 and #2. Both #2s were firm."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 25",
-     "source": "Margaret Bill visit report, Nov 25",
-     "office": false,
-     "note": "On the Nov 25 walk both dogs saw a smaller dog; the sitter did not let him approach, and Lola was interested too. Later they heard a dog barking, looked, and did not react. Single visit, not a standing rule. The same report also says he is no longer jumping. Pet naming is ambiguous: the narrative calls him Luc while the structured section is headed LUKE, and the brief carries Luke and Luc as separate pets.",
-     "quote": "Luc wanted to.go and see the little.dog but I didn't let him."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 24",
-     "source": "Chrissy George morning visit report, 11:58 AM",
-     "office": false,
-     "note": "How the Nov 24 walk was handled: the sitter put sweaters on both dogs, took Luke and Lola out together, then met Rita in the driveway partway through, handed Lola over, and finished the walk with Luke alone before taking him back in. Client was home and asked that the door not be locked.",
-     "quote": "I met Rita in her driveway and handed her Lola and continued walking with Luke"
     }
    ],
    "dormant": false
