@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:50:08-05:00",
+ "generated": "2026-11-27T15:20:11-05:00",
  "date": "2026-11-27",
  "label": "Nov 27, 2026",
  "clients": [
@@ -69,8 +69,8 @@
    "name": "Karen  Grosser",
    "visits": [
     {
-     "time": "3:00 PM",
-     "sort": "1500",
+     "time": "3:15 PM",
+     "sort": "1515",
      "staff": "Noella Assi",
      "service": "Dog Visit-30 minute",
      "pets": "Chloe"
