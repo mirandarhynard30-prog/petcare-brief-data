@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T21:20:07-05:00",
+ "generated": "2026-11-27T05:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -3491,16 +3491,6 @@
    "items": [
     {
      "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Deb Ward private message",
-     "office": true,
-     "note": "Deb is pausing Guinness's walks after this Sunday; she will keep the Sunday walk and says she will come back for help later when snow and ice arrive. Needs a reply and the recurring visits after Sunday taken off the schedule.",
-     "quote": "after this Sunday I need to take a pause from having Guinness walked"
-    },
-    {
-     "cat": "schedule",
      "sev": "medium",
      "type": "recent",
      "date": "Nov 8",
@@ -4687,36 +4677,6 @@
     {
      "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Kari Majewski message (two parts)",
-     "office": false,
-     "note": "House tasks for this trip, same as last time: bring the garbage can down to the garage, grab mail from the 1388 and 1392 boxes, bring in any packages, put bird seed on all 3 deck rails, and feed the fish (a note about the fish is in the kitchen). Kari names Margaret as the sitter.",
-     "quote": "Put bird seed on all 3 rails of the deck 5. Feed fish (there is a note in the kitchen re:fish."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Client message",
-     "office": false,
-     "note": "Client's task list for this sit, first message: bring the garbage can down to the garage, grab the mail from the 1388 and 1392 boxes, and bring in any packages.",
-     "quote": "Margaret can do exactly what she did last time."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Client message",
-     "office": false,
-     "note": "Same task list continued in a second message: bird seed on all three rails of the deck, and feed the fish - there is a note in the kitchen about the fish.",
-     "quote": "Put bird seed on all 3 rails of the deck"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
      "type": "standing",
      "date": "Oct 9",
      "source": "Kari Majewski has sent you a new message. (6:21pm)",
@@ -5652,16 +5612,6 @@
      "office": false,
      "note": "Nov 7 evening visit, as the sitter described it: three packages were brought in with the mail, Bella's water and dry food were done downstairs, the hallway water bowl upstairs was refreshed, Chloe's water and food were topped up in the upstairs bedroom, and all three litter boxes were scooped and vacuumed around. The litter genie bag goes out to the garbage can in the garage. Both pets were logged as a little shy on this visit. One report only, so treat as this visit's routine rather than a written standing rule.",
      "quote": "I cleaned out the litter genie and disposed of the bag in the garbage can in the garage."
-    },
-    {
-     "cat": "schedule",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Alan & Bridgette Wiggers private message, 6:09 PM",
-     "office": true,
-     "note": "Client sent a one-line private message about this coming weekend. The message carries no dates or details, so it is unclear whether they are confirming an existing booking or asking for something to be set up. Office should check the conversation thread.",
-     "quote": "Set for this weekend"
     }
    ],
    "dormant": false
@@ -5969,16 +5919,6 @@
      "office": true,
      "note": "Client's Thanksgiving plans changed - cancel every Thanksgiving visit at this home. Christmas is still undecided; she will write if sitters are needed.",
      "quote": "Please cancel all of their visits to our home for Thanksgiving."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Client message from Ellen Krane, Nov 5 morning",
-     "office": true,
-     "note": "Thanksgiving plans have changed: she says they will need fewer sitting days than originally booked and possibly none at all, and will confirm in the next day or two. Office should hold her Thanksgiving dates pending her follow-up rather than releasing them yet. She does not say which specific dates change.",
-     "quote": "We will not be needing a pet sitter for as many days as we originally planned and possibly not at all."
     },
     {
      "cat": "behavior",
@@ -8070,16 +8010,6 @@
      "quote": "there is another unverified Kong w peanut butter in the freezer for him"
     },
     {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Client message to Robin Lewis, Nov 5",
-     "office": false,
-     "note": "Client says a blue Kong is in the freezer for Brutus to have in his crate when the sitter leaves. She phrased it as 'I believe', so confirm it is actually there before relying on it. Stated once, on this visit - not yet a confirmed standing rule.",
-     "quote": "I believe there is a blue Kong in the freezer for him to have in his crate when you leave."
-    },
-    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -8148,16 +8078,6 @@
      "office": false,
      "note": "A Kong is kept in the freezer for Brutus; the sitter found it and gave it to him.",
      "quote": "I did find the Kong in the freezer"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Robin Lewis visit message",
-     "office": false,
-     "note": "Sitter had no cell reception inside the house on the Nov 5 visit and asked the client for the Wi-Fi password to get a signal; the client replied with it through Time To Pet. Expect no cell signal indoors - the Wi-Fi credential stays in Time To Pet and is not recorded here. Single report, not confirmed as an every-visit problem.",
-     "quote": "Could I please have the password for your Wi-Fi for some reason I cannot get reception in your house"
     }
    ],
    "dormant": false
@@ -8369,26 +8289,6 @@
     {
      "cat": "health",
      "sev": "high",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Kathy Sullenberger morning visit report, Nov 5",
-     "office": false,
-     "note": "Nov 5 morning visit: Izzy went #1 and #2 and the stool was loose. The sitter recorded the consistency as 'very loose/ diarrhea but pet seems fine otherwise' and offered her own guess that it may relate to Izzy's medication - that link is the sitter's speculation, not a vet opinion. Izzy was otherwise bright, met her at the back door with a tail wag, took a long drink and was given a couple of treats. Same sitter returns at 1 PM, so the afternoon visit should check whether it is still loose.",
-     "quote": "Pretty soft stool but probably uncommon with her meds."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Kathy Sullenberger visit report, 1:20 PM",
-     "office": true,
-     "note": "The 1 PM recheck found Izzy's stool still soft - Kathy reports it unchanged from the 9 am visit. That is two consecutive visits with loose stool on a dog on anti-seizure medication, on the day Dan is in surgery. Kathy notes she is otherwise fine - happy, eating treats, drinking well, walked the complex - and in the morning report she suggested the softness may not be unusual with Izzy's meds, which is her impression and not a vet opinion. The office should decide whether to call Dan or his vet.",
-     "quote": "She did #1 and 2. Same consistency."
-    },
-    {
-     "cat": "health",
-     "sev": "high",
      "type": "standing",
      "date": "Nov 3",
      "source": "Shannon Anderson updated contact information for Dan Dantimo (6:03-6:04 PM)",
@@ -8425,36 +8325,6 @@
      "office": false,
      "note": "Supplies flagged low on the Nov 6 morning report: more chicken will be needed after tonight's dinner. Izzy's meds are balled up in chicken, so running out affects medicating her. Shannon told Dan directly in the report.",
      "quote": "you will need more chicken after making her dinner tonight"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Dan Dantimo message",
-     "office": false,
-     "note": "Dan has seen the loose-stool reports and told the office not to worry about it. He gave no further instruction and did not mention the vet, so Izzy's stool is still worth noting on each visit but the owner is aware and is not concerned.",
-     "quote": "Yeah, don't be too concerned about the diarrhea"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Dan Dantimo message, about 8:43 PM Nov 5",
-     "office": false,
-     "note": "Dan wrote late on Nov 5 that he has Imodium AD at the house for Izzy's diarrhea but forgot to leave it out, and said not to worry. Nothing has been set out for the sitter, so there is no medication on site for the loose stool and none should be looked for. Dan did not ask for anything to be given.",
-     "quote": "Shit, I forgot I had Imodium ad for her diarrhea, forgot to leave that out but no worries"
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 5",
-     "source": "Shannon Anderson evening visit report, about 8:13 PM Nov 5",
-     "office": false,
-     "note": "At the Nov 5 evening visit Izzy's #2 was loose again - the report records it as very loose/diarrhea with the pet seeming fine otherwise. Medication was administered, she ate her dinner, drank well, took treats and walked normally. No accidents in the home. Shannon returns to Izzy on the morning of Nov 6.",
-     "quote": "It was very loose/ diarrhea but pet seems fine otherwise"
     }
    ],
    "dormant": false
@@ -8869,6 +8739,16 @@
     {
      "cat": "behavior",
      "sev": "high",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Margaret Bill visit report, Nov 25",
+     "office": true,
+     "note": "The Nov 25 walk went to the LEFT of the house in a circle. The brief carries a standing warning not to go left because a neighbour keeps a loose, aggressive Newfoundland. This report does not mention that dog and does not say the warning was raised or lifted, so it is unclear whether the route was cleared with the office. Read alongside the same report's request for direction on Lola's route.",
+     "quote": "We walked to the left in around in a circle that took longer than last time."
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
      "type": "standing",
      "date": "Nov 13",
      "source": "Company Notes updated by Margaret Bill",
@@ -8940,51 +8820,41 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
+     "date": "Nov 25",
+     "source": "Margaret Bill visit report, Nov 25",
+     "office": true,
+     "note": "Margaret Bill ends the Nov 25 report by asking the client for more direction on where Lola should be walked. No answer appears in the mail, so Lola's route is still unsettled - the office or Rita needs to answer it.",
+     "quote": "If you could give me more direction as to where Lola should be walked to it would be helpful for me."
+    },
+    {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Margaret Bill visit report, Nov 25",
+     "office": true,
+     "note": "The Nov 25 report contradicts itself on Lola's stool. The written narrative says both dogs' #2s were firm, but the structured per-pet field for Lola reads a little loose but not concerning, while Luke's reads firm and healthy. The report does not resolve which is right.",
+     "quote": "Both Lola and Luc went #1 and #2. Both #2s were firm."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Margaret Bill visit report, Nov 25",
+     "office": false,
+     "note": "On the Nov 25 walk both dogs saw a smaller dog; the sitter did not let him approach, and Lola was interested too. Later they heard a dog barking, looked, and did not react. Single visit, not a standing rule. The same report also says he is no longer jumping. Pet naming is ambiguous: the narrative calls him Luc while the structured section is headed LUKE, and the brief carries Luke and Luc as separate pets.",
+     "quote": "Luc wanted to.go and see the little.dog but I didn't let him."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
      "date": "Nov 24",
      "source": "Chrissy George morning visit report, 11:58 AM",
      "office": false,
      "note": "How the Nov 24 walk was handled: the sitter put sweaters on both dogs, took Luke and Lola out together, then met Rita in the driveway partway through, handed Lola over, and finished the walk with Luke alone before taking him back in. Client was home and asked that the door not be locked.",
      "quote": "I met Rita in her driveway and handed her Lola and continued walking with Luke"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 24",
-     "source": "Chrissy George visit report, Nov 24",
-     "office": false,
-     "note": "On the chilly, windy Nov 24 walk both dogs went out in sweaters, Luke in his collar and Lola in her harness; the sitter put them back where they belong afterward. Rita met the sitter in the driveway partway through and took Lola, so the sitter finished the walk with Luke alone.",
-     "quote": "I got there sweaters on, and then I got Luke's collar on and Lola's harness on"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 17",
-     "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "Client was home for this visit and the sitter assisted Rita with the leashes and harnesses at the house. The two dogs were walked separately - Lola up Edgerton and back first, then Luke around a block.",
-     "quote": "I came and assisted Rita in putting the leashes and harnesses on."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 17",
-     "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "Luke saw a squirrel on the walk and the sitter redirected him with a treat, which worked. Both dogs were interested in treats. Single observation on this visit, not stated as a standing rule.",
-     "quote": "Luke did see a squirrel so I distracted him with a treat."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 16",
-     "source": "Chrissy George visit report, approx 1:20 PM",
-     "office": false,
-     "note": "How this afternoon's walk was split: Lola went out first and was brought back inside, then the walk carried on with Luke on his own. The client was home and helped with the collars, the leashes and Lola's harness. Both went #1 and Luke went #2, logged firm and healthy. One visit, not stated as the standing arrangement.",
-     "quote": "then I brought Lola back inside and went back to our walk with Luke"
     }
    ],
    "dormant": false
