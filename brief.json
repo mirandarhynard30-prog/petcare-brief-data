@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:20:06-05:00",
+ "generated": "2026-11-27T07:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -1089,6 +1089,16 @@
      "cat": "health",
      "sev": "high",
      "type": "recent",
+     "date": "Nov 26",
+     "source": "Noella Assi left a message for Mary Ann Mckeever",
+     "office": true,
+     "note": "On the Nov 26 evening visit the sitter gave Georgie both his medication and his eye drops after the walk. The report does not say the client was present. This is the fourth different account in two weeks of who administers the drops - Nov 15 left it unclear, Nov 20 had the owner giving them while the sitter held him, Nov 24 had the owner present with the sitter assisting, and here the sitter appears to do both alone. Neither the medication nor the drops are named anywhere. Office: settle who gives them and write it into the note.",
+     "quote": "When he got back inside he got his medication and his eye drops."
+    },
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
      "date": "Nov 25",
      "source": "Noella Assi visit report",
      "office": false,
@@ -1194,16 +1204,6 @@
      "office": false,
      "note": "The Nov 14 evening visit report answers the medication question Yes. The written part of the report does not say what was given or how, so the only detail here is that medication was administered on that visit.",
      "quote": ""
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 12",
-     "source": "Client message, Nov 12 12:13 PM ET",
-     "office": false,
-     "note": "The client reports that Georgie did eventually eat on Nov 12 and that his pill went down hidden in his food. This is three days after the Nov 9 dental extraction and follows the extra work the sitter put in that visit. The client states it once; it is not yet a standing instruction on how to give the pill.",
-     "quote": "Georgie finally ate (pill was hidden in his food), so now he is ready for a nap."
     }
    ],
    "dormant": false
@@ -6435,6 +6435,16 @@
      "office": false,
      "note": "Supply and litter locations from the same Important Notes, also not previously carried: dry food is in the pantry in a clear container with a lid; grocery bags are inside the pantry in a green cloth holder; there is 1 litterbox upstairs in the bathtub and 2 litterboxes in the laundry room downstairs.",
      "quote": "Dry food in pantry, in clear container with lid"
+    },
+    {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Tiarra Roberts updated contact information for Julia Rosenthal",
+     "office": false,
+     "note": "Second edit to the Important Notes on Nov 26, at 8:28 PM, after the 12:25 PM reorder. This one does change the content. Two things were added: the dry food is on the TOP SHELF of the pantry, and grocery bags may be in the garage as well as in the green cloth holder inside the pantry. One thing was removed: the line that a water bowl may be in the upstairs bathroom is gone, so the brief's standing bowl-layout item now carries a detail the account no longer states - treat the kitchen's 3 water bowls by the sliding glass door as the whole list. The food-bowl bullets were merged into one with no change of meaning, and Sebastian's bowl is still upstairs in the bedroom where he hides under the bed.",
+     "quote": "Dry food in pantry, in clear container with lid, top shelf"
     },
     {
      "cat": "home",
