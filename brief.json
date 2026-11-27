@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T15:20:06-05:00",
+ "generated": "2026-11-27T18:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -8297,6 +8297,16 @@
      "office": false,
      "note": "Client's husband may be home during the 4:30 visit on Nov 27.",
      "quote": "My husband might be home during this visit."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Tiarra Roberts visit report",
+     "office": false,
+     "note": "Kaaju was hard to leash at the evening visit; the sitter ended up using a slip-lead to get him outside, where he went #2 (firm). Rani leashed without trouble. Both pups were timid on entry. Reported once, so not established as a standing requirement.",
+     "quote": "We had a little trouble with Kaaju, but we finally got a slip-lead on him"
     },
     {
      "cat": "schedule",
