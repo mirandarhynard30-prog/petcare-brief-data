@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T05:20:05-05:00",
+ "generated": "2026-11-27T06:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2909,6 +2909,16 @@
      "quote": ""
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 25",
+     "source": "Drew Walker visit report, Nov 25",
+     "office": false,
+     "note": "Drew Walker's Nov 25 report says Milo pulled a lot on his walk and was too riled up to go #2 - he went #1 only, and the structured field for Milo reads 'No #2 today'. Archer went #1 and #2, firm and healthy. The two dogs were walked separately, Milo taken out of his crate first and Archer after. One visit only, not a standing rule.",
+     "quote": "he pulled a lot today but it was fine"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -2967,16 +2977,6 @@
      "office": false,
      "note": "Archer growled at the sitter on arrival this morning until he recognised who she was, then settled. Milo was happy as usual.",
      "quote": "Archer was growling until he saw who I was."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 16",
-     "source": "Client private message",
-     "office": false,
-     "note": "At the new home Milo will be crated on the first floor and Archer stays free roaming. Water bowls are in the dining room and the treats will be on the counter.",
-     "quote": "Milo will be in his crate on the first floor, and Archer will still be free roaming"
     }
    ],
    "dormant": false
