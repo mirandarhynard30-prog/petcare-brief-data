@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T09:20:07-05:00",
+ "generated": "2026-11-27T10:20:08-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -6418,6 +6418,16 @@
      "quote": "We just want to make sure they are topped off with a scoop of dry food every visit"
     },
     {
+     "cat": "health",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Visit report - Tiarra Roberts",
+     "office": false,
+     "note": "Visit report logged as 'The pet got sick and I cleaned it up' - accident in the upstairs bedroom. Which cat was sick is not stated; Sebastian was seen under the bed nearby.",
+     "quote": "There was a little accident in the upstairs bedroom, which I cleaned up. I saw Sebastian under the bed."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -6481,31 +6491,21 @@
      "cat": "home",
      "sev": "low",
      "type": "recent",
+     "date": "Nov 27",
+     "source": "Visit report - Tiarra Roberts",
+     "office": false,
+     "note": "Interior door opposite the garage entry was found open; sitter left it as-is in case a cat was shut inside. Worth confirming with client whether that door should stay closed.",
+     "quote": "The door right across from the garage door was open... I left it alone, in case a kitty was inside."
+    },
+    {
+     "cat": "home",
+     "sev": "low",
+     "type": "recent",
      "date": "Nov 26",
      "source": "Tiarra Roberts updated contact information, 12:25 PM",
      "office": false,
      "note": "The 12:25 PM edit changed the order of the Important Notes only - the mailbox line moved to the top. Nothing was added and nothing was lost, unlike the Sep 27 rewrite on this client. The Access Instructions were edited in the same pass and now describe the lockbox location more briefly; access and code details are deliberately not recorded here.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 26",
-     "source": "Tiarra Roberts evening visit report",
-     "office": false,
-     "note": "Nov 26 evening report: the cat met the sitter on the kitchen table and growled at her while she was getting the food out of the pantry. She describes all the cats as happy and calm by the time she left, so this reads as impatience at feeding rather than a handling warning - a single observation, not a standing rule. Note the name: the report says Valentino, which is not one of the four names the brief carries for this client (Sebastian, Leo, Tino and Binx), so it is unclear whether Valentino is Tino under a fuller name or a cat the brief has not recorded.",
-     "quote": "Valentino was growling, telling me to hurry it up."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 27",
-     "source": "Tiarra Roberts updated contact information, 10:04am",
-     "office": false,
-     "note": "The light above the kitchen sink is meant to stay on. That line was in the old Pet Care Note and did not carry over into the new Company Notes, so it is no longer written down anywhere on the account.",
-     "quote": "The light above the sink should stay on"
     }
    ],
    "dormant": false
