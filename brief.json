@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:20:05-05:00",
+ "generated": "2026-11-27T08:20:10-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -6383,7 +6383,8 @@
     "Sebastian",
     "Leo",
     "Tino",
-    "Binx"
+    "Binx",
+    "Valentino"
    ],
    "items": [
     {
@@ -6487,6 +6488,16 @@
      "quote": ""
     },
     {
+     "cat": "behavior",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 26",
+     "source": "Tiarra Roberts evening visit report",
+     "office": false,
+     "note": "Nov 26 evening report: the cat met the sitter on the kitchen table and growled at her while she was getting the food out of the pantry. She describes all the cats as happy and calm by the time she left, so this reads as impatience at feeding rather than a handling warning - a single observation, not a standing rule. Note the name: the report says Valentino, which is not one of the four names the brief carries for this client (Sebastian, Leo, Tino and Binx), so it is unclear whether Valentino is Tino under a fuller name or a cat the brief has not recorded.",
+     "quote": "Valentino was growling, telling me to hurry it up."
+    },
+    {
      "cat": "home",
      "sev": "low",
      "type": "standing",
@@ -6495,16 +6506,6 @@
      "office": false,
      "note": "The light above the kitchen sink is meant to stay on. That line was in the old Pet Care Note and did not carry over into the new Company Notes, so it is no longer written down anywhere on the account.",
      "quote": "The light above the sink should stay on"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Sep 26",
-     "source": "Monica Hopewell visit report 17:28 ET",
-     "office": false,
-     "note": "Sitter reports Tino is the social one and met her at the garage door; Binx and Leo came close but dodged being petted; Sebastian stayed hidden under the bed, which the sitter describes as his usual. Sebastian is fed upstairs, two cats are fed in the laundry room.",
-     "quote": "Sebastian said not today and hid under the bed per usual."
     }
    ],
    "dormant": false
