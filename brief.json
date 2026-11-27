@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T12:20:05-05:00",
+ "generated": "2026-11-27T13:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -5237,6 +5237,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 26",
+     "source": "Tiarra Roberts updated contact information for Tom Noble",
+     "office": true,
+     "note": "The Nov 26 edit took the wait-outside rule out of Important Notes and moved it into Company Notes, in capitals, where it is now the only line. That runs the opposite way to the Oct 14 change, when Company Notes was emptied into Important Notes, so the arrival rule for a dog-reactive dog has gone back into the field sitters are less likely to read. The rest of the edit was a reorder, plus extra treats being described as a clear jar with lid rather than a clear container.",
+     "quote": "NEW PERSON SHOULD WAIT OUTSIDE IN DRIVEWAY"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Sep 11",
      "source": "Company Notes rewritten by Tiarra Roberts",
      "office": false,
@@ -5284,7 +5294,7 @@
      "quote": "• Walk Helios as needed"
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Beth Nickel",
@@ -8234,7 +8244,8 @@
    "name": "Manisha Chand",
    "url": "https://www.timetopet.com/dashboard/client/srbwilMYWrML",
    "pets": [
-    "Kaaju"
+    "Kaaju",
+    "Rani"
    ],
    "items": [
     {
@@ -8256,6 +8267,16 @@
      "office": true,
      "note": "Client is still waiting on the office and has now offered new windows for a visit: tomorrow, or any day Nov 17-19. She wrote 'tomorrow' on Nov 9, which would be Nov 10 - confirm the date with her rather than assuming. This supersedes the two windows she offered on Nov 4.",
      "quote": "Let me know if tomorrow is good for you to stop by. If not anytime on 11/17-19 should work for me."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Oct 30",
+     "source": "Manisha Chand updated details for pet Rani",
+     "office": false,
+     "note": "Rani is a dog, not the niece - this clears up the ambiguity flagged on the Nov 22 client message. A pet record for Rani was created on this account on Oct 30: female golden doodle, tan, born Jun 9, 2024, vet Bartel Pet Hospital in Brecksville, Ohio, +1 (440) 526-4818. What is still unclear is whether Rani lives at the home or arrives with the niece - the Nov 22 message implies she is not there before Wednesday, and the brief had been carrying Kaaju as the only pet.",
+     "quote": ""
     },
     {
      "cat": "behavior",
