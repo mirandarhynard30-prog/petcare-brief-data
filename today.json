@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:35:33-05:00",
+ "generated": "2026-11-27T18:50:08-05:00",
  "date": "2026-11-27",
  "label": "Nov 27, 2026",
  "clients": [
@@ -105,6 +105,13 @@
      "staff": "Tiarra Roberts",
      "service": "Shadow Visit with Staff Member-45 minute",
      "pets": "Kaaju, Rani"
+    },
+    {
+     "time": "9:00 PM",
+     "sort": "2100",
+     "staff": "Miranda",
+     "service": "Long Range Visit-45 Minute",
+     "pets": "Kaaju, Rani"
     }
    ]
   },
@@ -190,5 +197,5 @@
    ]
   }
  ],
- "visitCount": 18
+ "visitCount": 19
 }
