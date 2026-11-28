@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T18:20:05-05:00",
+ "generated": "2026-11-27T19:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -8257,6 +8257,26 @@
      "office": false,
      "note": "Rani had soft stool the morning of Nov 27. Client asks that Rani get NO treats at either the 4:30 or the 9pm visit - belly rubs and fetch instead. Applies to Rani only; no instruction given about Kaaju's treats.",
      "quote": "Rani had soft poop this morning, so please try not to give her treats"
+    },
+    {
+     "cat": "schedule",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Manisha Chand private message, 6:15 PM Nov 27",
+     "office": true,
+     "note": "Client asked in a private message whether tonight's 9 PM visit can be done for Rani only, after the leashing trouble with Kaaju at the 4:30 PM visit. The forwarded message is cut off mid-sentence, so confirm the exact request in Time To Pet before changing the visit.",
+     "quote": "do you think you will be able to do the 9 pm visit just for Rani"
+    },
+    {
+     "cat": "behavior",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Manisha Chand private message, 6:15 PM Nov 27",
+     "office": false,
+     "note": "Client has asked for the 9 PM visit on Nov 27 to be Rani only, following the leashing difficulty with Kaaju earlier the same day, and says this is out of character for him. The message does not say what should happen with Kaaju at that visit.",
+     "quote": "he is usually not like that. I understand the safety concerns"
     },
     {
      "cat": "behavior",
