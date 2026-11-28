@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T22:20:05-05:00",
+ "generated": "2026-11-28T07:20:06-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -1088,6 +1088,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "standing",
+     "date": "Nov 27",
+     "source": "Tiarra Roberts evening visit report",
+     "office": false,
+     "note": "At the evening visit the sitter helps Mary Ann give Georgie his eyedrops and medicine; report records medication administered. No name or dose given in the email.",
+     "quote": ""
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "recent",
      "date": "Nov 26",
      "source": "Noella Assi left a message for Mary Ann Mckeever",
@@ -1194,16 +1204,6 @@
      "office": true,
      "note": "Writing the morning after the Nov 14 evening visit, the client thanks the sitter for helping with Georgie's eye drops. Her wording leaves it unclear whether she gives the drops herself and the sitter assists, or the sitter gives them. Nothing in the mail says the drops are written into a care note, so the office should confirm what sitters are expected to do.",
      "quote": "Thanks for helping me with his eye drops!"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 14",
-     "source": "Visit report - Tiarra Roberts",
-     "office": false,
-     "note": "The Nov 14 evening visit report answers the medication question Yes. The written part of the report does not say what was given or how, so the only detail here is that medication was administered on that visit.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -2147,16 +2147,6 @@
      "office": true,
      "note": "The sitter put a new band on Olly during today's visit. The report does not say what kind of band it is or where spares are kept - ambiguous, and worth pinning down in this client's notes so other sitters know.",
      "quote": "I put a new band on him"
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Shannon Anderson visit report, 12:41 PM",
-     "office": false,
-     "note": "Daffodil was moody on today's midday visit. She got loud when Shannon clipped the leash to her harness, then barked at another doodle before they had even left the yard; she did accept the harness this time, unlike Oct 29 when she would not let Shannon put it on. Both dogs barked at Shannon on entry and she thinks she startled them. Daffodil put herself in her crate at the end of the visit. Oliver walked first and was straightforward. One sitter, one visit - still a pattern of Daffodil being unsettled with Shannon rather than a confirmed rule.",
-     "quote": "She actually got loud when I clipped her leash to her harness"
     },
     {
      "cat": "home",
@@ -3141,6 +3131,16 @@
     },
     {
      "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Pet Care Note updated by Tiarra Roberts",
+     "office": false,
+     "note": "Standing notes as of Nov 26: send ETA when on the way; client home, leash hand-off at front door; if Holly/Lynne not inside check the backyard; there is a cat, take care entering and exiting; purple slip lead and grocery bags by front door on coat rack; water bowl in living room, refill from bathroom near front door; used poop bags can be left by front door. Only change was poop bags becoming grocery bags.",
+     "quote": "Client has a cat, careful when entering/exiting"
+    },
+    {
+     "cat": "home",
      "sev": "low",
      "type": "standing",
      "date": "Nov 26",
@@ -3468,16 +3468,6 @@
      "office": false,
      "note": "Archie went both #1 and #2 on today's walk and the report rates the stool firm and healthy. This follows the Nov 4 and Nov 6 reports where he did not go #2, so the earlier concern looks resolved. Ray was home during the visit and asked that the door not be locked.",
      "quote": "We had a great walk and Archie went #1 and #2 and fed a few snacks."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Thomas Rakovec visit report, Nov 6 10:19 AM",
-     "office": false,
-     "note": "Archie went #1 on the Nov 6 walk but did not go #2 even after the sitter gave him extra time; report field logged as No #2 today. Single occurrence.",
-     "quote": "We had a great walk and Archie went #1but DID'NT go"
     }
    ],
    "dormant": false
@@ -3508,26 +3498,6 @@
      "office": true,
      "note": "Client was out at a friend's Sunday and says she will be in touch when she needs walks again. Ambiguous whether this pauses the standing schedule or only covered Sunday - Guinness was still walked Sunday by Thomas. Worth confirming before Monday.",
      "quote": "Will miss you and Dan until I need you both."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Client message, 12:14 PM",
-     "office": false,
-     "note": "Client message at 12:14 PM telling the sitter to let himself in rather than wait to be let in. Thomas Rakovec messaged her eleven minutes later that he would be there in 25 minutes, and clients in this mailbox call him Tommy, so the line most plainly reads as Deb telling Thomas she is out at a friend's and he should go straight in. AMBIGUOUS - it could instead mean someone or something else named Tommy is going out. Either reading differs from her standing note that she is home during visits and asks that the door not be locked, so for today expect an empty house.",
-     "quote": "Tommy going to a friends just go in. Thanks"
-    },
-    {
-     "cat": "schedule",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Client message",
-     "office": true,
-     "note": "Short client message whose meaning is unclear - it may mean the sitter should let themselves in because she is out, or that the dog is away. Worth confirming before the next visit.",
-     "quote": "Tommy going to a friends just go in. Thanks"
     },
     {
      "cat": "home",
@@ -3729,16 +3699,6 @@
      "office": false,
      "note": "Matches the standing note that Freddy's spot is the closet: he was hiding there on arrival again and came out on his own once the sitter started the litter change. Full litter change done and swept; he had not kicked much litter out of the box this time.",
      "quote": "He was hiding in the closet again but once I started on his litter he came right out"
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Jade Popovitz visit report",
-     "office": false,
-     "note": "Freddy hid in the closet when the sitter arrived, then came out and blocked the bathroom doorway during the litter change. Single observation, not an established pattern. Full litter change done; food had just been refreshed.",
-     "quote": "He was hiding in the closet when I came in and he blocked the door while I changed out the litter"
     },
     {
      "cat": "home",
@@ -4350,36 +4310,6 @@
      "quote": "i wanted to tell you i will be off Thanksgiving and Black Friday as well!!"
     },
     {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Christi Russo message, Nov 6 11:05 AM",
-     "office": true,
-     "note": "Christi messaged that she got rained out, is on her way home, and tried to cancel today's walk - Thomas does not need to come. She asks for confirmation that everyone got the message and for a call back from the office.",
-     "quote": "today Tommy you don't have to come because I just got rained out"
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Thomas Rakovec visit report, 12:24 PM",
-     "office": true,
-     "note": "Today's walk went ahead about 80 minutes after Christi messaged at 11:05 AM to cancel it. Thomas Rakovec's 12:24 PM report says he arrived, got Jaxson ready, walked him, fed a few snacks and released him back to Christie, and signs off see you next week. The report's own fields say the client was home during the visit and asked that the door not be locked, so she was there and the walk appears to have happened with her present - but nothing in this mailbox shows the cancellation reaching Thomas, and her request for confirmation and a call back is still unanswered. Office should close the loop with her and check what the scheduler now shows for today.",
-     "quote": "Arrived at Christies to give Jaxson a nice walk. I got him ready and away we went."
-    },
-    {
-     "cat": "schedule",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Client message",
-     "office": true,
-     "note": "Client messaged to cancel the Nov 6 visit - she was on her way home and got rained out. She asked for confirmation that everyone received it and for a call back.",
-     "quote": "I am on my way home so I tried to cancel today Tommy you don't have to come because I just got rained out"
-    },
-    {
      "cat": "home",
      "sev": "high",
      "type": "standing",
@@ -4663,16 +4593,6 @@
      "office": false,
      "note": "Mister Midnight is fed and then given medicine. The email does not name the medicine or the dose. Some medicine was spilled on the counter and wiped up.",
      "quote": "After I fed him, I gave him his medicine."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Client message, Nov 6 4:18 PM",
-     "office": false,
-     "note": "Kari confirms the sitter should feed the fish (Mr. Midnight) and say hello to him on the visit. This is her answer to an earlier question about whether anything else was wanted.",
-     "quote": "Yes, if she could please feed fish and say hello to him, that’d be great."
     },
     {
      "cat": "home",
@@ -6468,6 +6388,16 @@
      "quote": "Dry food in pantry, in clear container with lid, top shelf"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 26",
+     "source": "Pet Care Note updated by Tiarra Roberts",
+     "office": false,
+     "note": "Sebastian hides upstairs under the bed and has his own food bowl upstairs in the bedroom. Upstairs doors stay shut apart from bathroom and bedroom; kitty door downstairs in the kitchen stays blocked off.",
+     "quote": "Upstairs doors should stay shut, besides bathroom and bedroom"
+    },
+    {
      "cat": "home",
      "sev": "medium",
      "type": "standing",
@@ -6506,16 +6436,6 @@
      "office": false,
      "note": "Interior door opposite the garage entry was found open; sitter left it as-is in case a cat was shut inside. Worth confirming with client whether that door should stay closed.",
      "quote": "The door right across from the garage door was open... I left it alone, in case a kitty was inside."
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 26",
-     "source": "Tiarra Roberts updated contact information, 12:25 PM",
-     "office": false,
-     "note": "The 12:25 PM edit changed the order of the Important Notes only - the mailbox line moved to the top. Nothing was added and nothing was lost, unlike the Sep 27 rewrite on this client. The Access Instructions were edited in the same pass and now describe the lockbox location more briefly; access and code details are deliberately not recorded here.",
-     "quote": ""
     }
    ],
    "dormant": false
@@ -7394,6 +7314,16 @@
      "quote": "we got Bruno a new coat because he gets so cold when the weather changes"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 27",
+     "source": "Client message (Jennifer Wagar)",
+     "office": false,
+     "note": "Bruno gets very cold when weather changes; has a new winter coat (medium this year) and boots - once it snows he gets cold and does not want to walk. Client will send a video of how to put the coat on.",
+     "quote": ""
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7432,16 +7362,6 @@
      "office": false,
      "note": "On the Nov 24 walk sitter Margaret Bill noticed Suka's left leg seemed stiff. Both dogs otherwise walked well around the complex and both went #1 and #2.",
      "quote": "I noticed that Suka's left leg seemed stiff."
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 18",
-     "source": "Client message, 10:17 AM",
-     "office": false,
-     "note": "Follow-up two minutes after the message above: the client will be upstairs getting ready and the dogs will be waiting and ready for their walk. She asks the sitter to carry on as normal as though she is not there.",
-     "quote": "Just pretend like I’m not here."
     }
    ],
    "dormant": false
@@ -7931,6 +7851,16 @@
      "quote": "Cat hides: check in corner underneath parents' bed"
     },
     {
+     "cat": "schedule",
+     "sev": "low",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Client message (Marie Newlove)",
+     "office": false,
+     "note": "Client travelling - wrote Nov 27 from Cozumel. Cats Phil and Abbey covered at home. No return date given.",
+     "quote": ""
+    },
+    {
      "cat": "behavior",
      "sev": "low",
      "type": "recent",
@@ -7979,16 +7909,6 @@
      "office": false,
      "note": "Client confirms Abbey, the shy cat, stayed hidden through the Nov 18 visit and sent a photo of her. She hopes Abbey will be more visible next visit. Consistent with the standing note that Abbey hides; no action asked for.",
      "quote": "She was hiding when you were here. Hopefully she’ll be more visible when you come by."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 18",
-     "source": "Client message",
-     "office": false,
-     "note": "Abbey the cat was hiding for the whole of the last visit; the client hopes she will be more visible next time.",
-     "quote": "This is Abbey. She was hiding when you were here."
     }
    ],
    "dormant": false
@@ -8023,82 +7943,12 @@
     {
      "cat": "home",
      "sev": "medium",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Tracy Martin message, Nov 6 10:03 AM",
-     "office": false,
-     "note": "Tracy says there is another peanut-butter Kong in the freezer for Brutus, in a middle drawer below the fridge doors that also works as a freezer. She calls it unverified, and a sitter found no Kong there on Nov 5, so look before counting on one.",
-     "quote": "there is another unverified Kong w peanut butter in the freezer for him"
-    },
-    {
-     "cat": "home",
-     "sev": "medium",
      "type": "standing",
      "date": "Oct 27",
      "source": "Tracy Martin profile update",
      "office": false,
      "note": "Client filled in her own profile for the first time on Oct 27 and added a pet named Brutus. Access instructions and two emergency contacts are now on file in Time To Pet; details are deliberately not repeated here. Check the client record in Time To Pet before the visit. No pet care note, species, age or handling detail has been written yet.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Tracy Martin message, Nov 6 10:03 AM",
-     "office": false,
-     "note": "Brutus balked at going outside in the rain on the morning of Nov 6. Tracy says that is new for him.",
-     "quote": "He had a hard time going outside in the rain this morning."
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Robin Lewis visit report, Nov 6 11:50 AM",
-     "office": false,
-     "note": "Robin reports Brutus has trouble picking up the last of his kibble once he gets to the bottom of the bowl, which she attributes to how fast he is growing. One sitter's observation on one visit, not stated as an ongoing rule.",
-     "quote": "when he gets down to the bottom its hards for him to grab them with him growing so fast"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Robin Lewis visit report, Nov 6 11:50 AM",
-     "office": false,
-     "note": "The peanut-butter Kong Tracy described as probably in a freezer drawer was actually found and given on the Nov 6 midday visit, so that location is now confirmed rather than assumed.",
-     "quote": "I did find the Kong in the freezer and he’s happy as can be."
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Robin Lewis visit report",
-     "office": false,
-     "note": "Sitter noticed Brutus struggles to pick up the last kibble at the bottom of his bowl now that he is growing quickly. Stool was firm and healthy; he went #1 and #2. Kong was in the freezer as expected.",
-     "quote": "when he gets down to the bottom its hards for him to grab them with him growing so fast"
-    },
-    {
-     "cat": "health",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Robin Lewis",
-     "office": false,
-     "note": "Sitter notes Brutus is growing fast and has trouble reaching the food left at the bottom of his bowl.",
-     "quote": "I do notice while he is eating his food when he gets down to the bottom its hards for him to grab them"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 6",
-     "source": "Robin Lewis visit report",
-     "office": false,
-     "note": "A Kong is kept in the freezer for Brutus; the sitter found it and gave it to him.",
-     "quote": "I did find the Kong in the freezer"
     }
    ],
    "dormant": false
@@ -8279,6 +8129,16 @@
      "quote": "he is usually not like that. I understand the safety concerns"
     },
     {
+     "cat": "health",
+     "sev": "high",
+     "type": "recent",
+     "date": "Nov 27",
+     "source": "Client message (Manisha Chand)",
+     "office": false,
+     "note": "Rani had soft poop the morning of Nov 27. Client asked that Rani get no treats - belly rubs and fetch instead.",
+     "quote": "Rani had soft poop this morning"
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
@@ -8357,16 +8217,6 @@
      "office": false,
      "note": "Rani is a dog, not the niece - this clears up the ambiguity flagged on the Nov 22 client message. A pet record for Rani was created on this account on Oct 30: female golden doodle, tan, born Jun 9, 2024, vet Bartel Pet Hospital in Brecksville, Ohio, +1 (440) 526-4818. What is still unclear is whether Rani lives at the home or arrives with the niece - the Nov 22 message implies she is not there before Wednesday, and the brief had been carrying Kaaju as the only pet.",
      "quote": ""
-    },
-    {
-     "cat": "behavior",
-     "sev": "low",
-     "type": "standing",
-     "date": "Nov 22",
-     "source": "Manisha Chand client message",
-     "office": false,
-     "note": "Client describes Rani as very friendly. Ambiguous whether Rani is a second animal arriving Wednesday with her niece or the niece herself - the message does not say. Kaaju is the pet already at the home.",
-     "quote": "Rani is very friendly."
     }
    ],
    "dormant": false
@@ -8439,7 +8289,7 @@
      "quote": "you will need more chicken after making her dinner tonight"
     }
    ],
-   "dormant": false
+   "dormant": true
   },
   {
    "name": "Joan- Gina Sullivan (Manages Account)",
@@ -8448,6 +8298,16 @@
     "Sassie"
    ],
    "items": [
+    {
+     "cat": "health",
+     "sev": "high",
+     "type": "standing",
+     "date": "Nov 27",
+     "source": "Kristin Aldridge visit reports",
+     "office": false,
+     "note": "Sassie gets ear drops at both the morning and evening visit; sitter stays for them, she sits well and gets a treat after. No dose or product named in the email.",
+     "quote": ""
+    },
     {
      "cat": "health",
      "sev": "high",
@@ -8557,16 +8417,6 @@
      "office": false,
      "note": "Nov 21 morning walk: the sitter applied the gland spray using a treat and Sassie's leash as guidance, says it worked very well and that she will keep doing it that way. She also gave two drops of ear medication and filled the water bowl. Recorded as one sitter's own method on one visit, not a client instruction.",
      "quote": "I used a treat and her leash as guidance while giving her the spray medication for her glands"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 21",
-     "source": "Gretchen Gipson evening visit report",
-     "office": false,
-     "note": "Second report in the same day of the ear medication and back-end spray being given using treats and Sassie's collar as guidance. The sitter gave both at the Nov 21 evening visit and says the method worked again. Two separate reports of the same method on one day, not yet written up as a standing instruction.",
-     "quote": "I dispensed her ear meds and spray to her back end while using treats and her collar"
     }
    ],
    "dormant": false
@@ -8962,11 +8812,11 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "recent",
-     "date": "Nov 25",
-     "source": "Margaret Bill visit report, Nov 25",
-     "office": true,
-     "note": "Margaret Bill ends the Nov 25 report by asking the client for more direction on where Lola should be walked. No answer appears in the mail, so Lola's route is still unsettled - the office or Rita needs to answer it.",
-     "quote": "If you could give me more direction as to where Lola should be walked to it would be helpful for me."
+     "date": "Nov 27",
+     "source": "Margaret Bill visit report",
+     "office": false,
+     "note": "Nov 27: Lola did not want to walk at all - weather switching between snow and rain. The other dog went out alone.",
+     "quote": "Lola did not want to walk"
     }
    ],
    "dormant": false
