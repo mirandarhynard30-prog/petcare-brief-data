@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T09:20:05-05:00",
+ "generated": "2026-11-28T10:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -6368,6 +6368,26 @@
      "quote": "There was a little accident in the upstairs bedroom, which I cleaned up. I saw Sebastian under the bed."
     },
     {
+     "cat": "home",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 27",
+     "source": "Pet Care Note updated by Tiarra Roberts",
+     "office": false,
+     "note": "Pet Care Note rewritten: shoes off before entering; mailbox in front; 3 water bowls in kitchen by sliding glass door; dry food in pantry, clear lidded container, top shelf; 3 small food bowls in kitchen, 2 on floor and 1 on island counter; grocery bags in pantry green cloth holder or garage; 1 litterbox upstairs in bathtub, 2 in downstairs laundry room. Access codes stay in Time To Pet.",
+     "quote": "Take shoes off before entering"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 27",
+     "source": "Pet Care Note updated by Tiarra Roberts",
+     "office": false,
+     "note": "Same note update: one food bowl upstairs in the bedroom for Sebastian, who hides under the bed. Upstairs doors stay shut except bathroom and bedroom; kitty door downstairs in kitchen stays blocked off.",
+     "quote": "Upstairs doors should stay shut, besides bathroom and bedroom doors."
+    },
+    {
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
@@ -6426,26 +6446,6 @@
      "office": false,
      "note": "All the cats get the same dry food now. Julia said so this morning, which retires the old note line that gave Leo his own special dry food and named a cat called Juniper who also had her own. Juniper is not one of the four cats on record, so that part was already unclear.",
      "quote": "No they all get the same food now. Sorry forgot to mention that."
-    },
-    {
-     "cat": "behavior",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Sep 24",
-     "source": "Client message, 2:32pm",
-     "office": false,
-     "note": "Four cats now, not five - Sebastian, Leo, Tino and Binx. Archie was put down in July after getting sick. Do not look for him or ask after him on arrival.",
-     "quote": "Unfortunately Archie got sick and we had to put him down in July"
-    },
-    {
-     "cat": "home",
-     "sev": "low",
-     "type": "recent",
-     "date": "Nov 27",
-     "source": "Visit report - Tiarra Roberts",
-     "office": false,
-     "note": "Interior door opposite the garage entry was found open; sitter left it as-is in case a cat was shut inside. Worth confirming with client whether that door should stay closed.",
-     "quote": "The door right across from the garage door was open... I left it alone, in case a kitty was inside."
     }
    ],
    "dormant": false
@@ -7327,6 +7327,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 28",
+     "source": "Client message",
+     "office": false,
+     "note": "Client says Bruno has a new coat this year, size medium, because he gets cold when the weather changes, plus boots for snow. Coat will be kept with the leashes by the door. She sent a video of how she puts it on.",
+     "quote": "we got Bruno a new coat because he gets so cold when the weather changes"
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Nov 27",
      "source": "Client message",
      "office": false,
@@ -7362,16 +7372,6 @@
      "office": false,
      "note": "Bruno was shaky on returning from the walk; sitter removed harness and leash at once and the shaking stopped within a couple of minutes. Single observation, not a known pattern.",
      "quote": "When we got back from our walk, Bruno was shaky."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "standing",
-     "date": "Nov 24",
-     "source": "Client message from Jennifer Wagar",
-     "office": false,
-     "note": "Client says Suka has arthritis that the cold weather makes worse, and that Suka has been dragging the leg more.",
-     "quote": "The cold weather doesn’t help the poor girls arthritis."
     }
    ],
    "dormant": false
@@ -8311,6 +8311,16 @@
     {
      "cat": "health",
      "sev": "high",
+     "type": "recent",
+     "date": "Nov 28",
+     "source": "Visit report - Kristin Aldridge",
+     "office": false,
+     "note": "Morning walk: Sassie went #1 and #2, stool firm and healthy, but then tried to go #1 about five more times. Sitter Kristin Aldridge flagged it, told Joan in person, and will report back on the afternoon visit. Ear meds given.",
+     "quote": "She did try to go #1 an additional 5 more times, which did concern me"
+    },
+    {
+     "cat": "health",
+     "sev": "high",
      "type": "standing",
      "date": "Nov 27",
      "source": "Kristin Aldridge visit reports",
@@ -8417,16 +8427,6 @@
      "office": false,
      "note": "Same Nov 21 walk: Sassie seemed overheated and wanted to go in early after what the sitter calls a pretty intense walk. She was given water indoors and her bowl refilled. Stool firm and healthy, went #1 and #2. Re-sent: handed off on an earlier run and still not on the page.",
      "quote": "Sassie seemed to be a little overheated and was ready to go in a little bit early"
-    },
-    {
-     "cat": "health",
-     "sev": "high",
-     "type": "recent",
-     "date": "Nov 21",
-     "source": "Visit report, 8:30 AM walk, Gretchen Gipson",
-     "office": false,
-     "note": "Nov 21 morning walk: the sitter applied the gland spray using a treat and Sassie's leash as guidance, says it worked very well and that she will keep doing it that way. She also gave two drops of ear medication and filled the water bowl. Recorded as one sitter's own method on one visit, not a client instruction.",
-     "quote": "I used a treat and her leash as guidance while giving her the spray medication for her glands"
     }
    ],
    "dormant": false
