@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T08:20:11-05:00",
+ "generated": "2026-11-28T09:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -2421,6 +2421,16 @@
      "office": false,
      "note": "Pet Care Note rewritten this morning. The litter rule is reversed: the whole drawer-and-bag changing procedure has been deleted and replaced with leave the robot alone. This answers the sitter question from earlier today about whether to change the Litter-Robot drawer bag every visit - the answer is now no unless told otherwise. White litter bags are in the clear tote next to the robot and black trash bags are under the kitchen sink; litter and wet food cans go in the trash compactor / garage bin near the main entrance.",
      "quote": "Automated litter box in living room near patio door (leave alone unless directed otherwise)"
+    },
+    {
+     "cat": "schedule",
+     "sev": "medium",
+     "type": "recent",
+     "date": "Nov 28",
+     "source": "Client message, Nov 28 8:49 AM",
+     "office": true,
+     "note": "Client asked for Monday to Wednesday next week at short notice. She could not submit at first because she did not know her cats' breeds, then said at 8:59 AM that it worked. Office to confirm the dates are covered.",
+     "quote": "i need monday thru wednesday this coming week sorry for the last min."
     },
     {
      "cat": "home",
@@ -4924,16 +4934,16 @@
    "items": [
     {
      "cat": "schedule",
-     "sev": "high",
+     "sev": "medium",
      "type": "recent",
-     "date": "Sep 11",
-     "source": "Client message, 12:48pm",
+     "date": "Nov 28",
+     "source": "Client message, Nov 28 8:17 AM",
      "office": true,
-     "note": "New client. Her recurring schedule came out wrong and she cannot delete it to start over. She wants it starting 1/4/2027, every other day, through 2/19/2027. She added pet Keke at 12:34pm and set her address at 12:30pm the same day. She replied 'Thank you!' at 2:57pm, so someone may already have answered - confirm the recurrence was actually fixed rather than assuming it was.",
-     "quote": "I want it starting on 1/4/2027 and every other day until 2/19/2027."
+     "note": "Travel plans fell through; no pet care needed in January and February. No year or dates given; any booking on the calendar needs cancelling.",
+     "quote": "I won’t be needing pet care for this time."
     }
    ],
-   "dormant": true
+   "dormant": false
   },
   {
    "name": "Brittany Lisbon",
@@ -7307,6 +7317,16 @@
      "cat": "behavior",
      "sev": "medium",
      "type": "standing",
+     "date": "Nov 28",
+     "source": "Client message, Nov 28 8:24 AM",
+     "office": false,
+     "note": "Asked by the sitter, the client says Suka has no coat and handles cold well; the coat and boots are Bruno's. Call the client if the cold is a problem.",
+     "quote": "No, Suka does not have a coat. She usually does pretty well in the cold."
+    },
+    {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
      "date": "Nov 27",
      "source": "Client message",
      "office": false,
@@ -7352,16 +7372,6 @@
      "office": false,
      "note": "Client says Suka has arthritis that the cold weather makes worse, and that Suka has been dragging the leg more.",
      "quote": "The cold weather doesn’t help the poor girls arthritis."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 24",
-     "source": "Margaret Bill visit report",
-     "office": false,
-     "note": "On the Nov 24 walk sitter Margaret Bill noticed Suka's left leg seemed stiff. Both dogs otherwise walked well around the complex and both went #1 and #2.",
-     "quote": "I noticed that Suka's left leg seemed stiff."
     }
    ],
    "dormant": false
