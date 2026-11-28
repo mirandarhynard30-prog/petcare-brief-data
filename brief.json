@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T19:20:05-05:00",
+ "generated": "2026-11-27T22:20:05-05:00",
  "window": "Rolling history back to Aug 18, 2026",
  "clients": [
   {
@@ -7384,6 +7384,16 @@
      "quote": "Excape Risk Keep screen door shut. Bruno will chase fed ex trucks and other dogs"
     },
     {
+     "cat": "behavior",
+     "sev": "medium",
+     "type": "standing",
+     "date": "Nov 27",
+     "source": "Client message",
+     "office": false,
+     "note": "Bruno now has a new winter coat - client bought a medium this year, saying small was too small and medium a little big. He also has a couple of different kinds of boots for snow; client says once it starts to snow he gets cold and does not want to walk. She sent a short video in Time To Pet showing how she puts the coat on him. The message does not say at what temperature to use the coat or the boots.",
+     "quote": "we got Bruno a new coat because he gets so cold when the weather changes"
+    },
+    {
      "cat": "health",
      "sev": "medium",
      "type": "recent",
@@ -7432,16 +7442,6 @@
      "office": false,
      "note": "Follow-up two minutes after the message above: the client will be upstairs getting ready and the dogs will be waiting and ready for their walk. She asks the sitter to carry on as normal as though she is not there.",
      "quote": "Just pretend like I’m not here."
-    },
-    {
-     "cat": "health",
-     "sev": "medium",
-     "type": "recent",
-     "date": "Nov 18",
-     "source": "client message",
-     "office": false,
-     "note": "Client's own explanation for the green tint reported in Bruno's stool: her 11-year-old made a cake with blue food colouring, it was thrown in the garbage, and Bruno got into the garbage and ate the whole thing, dye included. Client offers this as the cause and reports no other symptoms.",
-     "quote": "Bruno got into the garbage and ate the whole cake, blue food dye, and all!"
     }
    ],
    "dormant": false
